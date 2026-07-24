@@ -3,14 +3,20 @@
 Core Matrix expansion for deckers and technomancers.
 
 ## Sections
-- **The World in Your Pocket**: How the wireless Matrix works day-to-day
-- **True Hackers, Lusers, and Dirtballs**: Hacker culture, tribes, run roles
-- **On the Bleeding Edge**: New Matrix qualities
-- **Born to Hack**: Decker/TM life modules (for Run Faster creation)
-- **Killer Apps and Razor Forms**: New programs and complex forms
-- **The Guts of the Matrix**: Decks, gear, and customizing links
-- **The All-Seeing Eye of GOD**: Grid Overwatch Division and corp Matrix security
-- **The Perfect Host**: Host immersion and host archetypes
-- **Deeper and Deeper**: Deep/feral Matrix runs for whole teams
-- **Principles of Insanity**: AIs, e-ghosts, dissonance (incl. AI PCs)
-- **Mastering the Matrix**: Campaign advice and plot hooks
+
+1. **Contents & Credits**
+2. **Introduction**
+3. **GOD Speaks**
+4. **The World in Your Pocket**
+5. **True Hackers, Lusers & Dirtballs**
+6. **On the Bleeding Edge**
+7. **Born to Hack**
+8. **Killer Apps & Razor Forms**
+9. **The Guts of the Matrix**
+10. **The All-Seeing Eye of GOD**
+11. **Corporate Sponsorship**
+12. **The Perfect Host**
+13. **Deeper and Deeper**
+14. **Body Hunt**
+15. **Principles of Insanity**
+16. **Mastering the Matrix**

@@ -3,10 +3,16 @@
 Advanced / weird magic options.
 
 ## Sections
-- **Seeing the Invisible World**: Spotting and reading magic in play
-- **Magic Mastery / Focused Awakened**: Specialist caster and adept paths
-- **New Metamagics & Aspects**: Extra initiate options
-- **New Spells & Rituals**: Additional magical tools
-- **Tradition Updates & New Traditions**: Expanded and new magical traditions, mentors
-- **Blood Magic**: Self-sacrifice and darker blood-path options
-- **Advanced Alchemy**: Preparations, reagents, alchemical gear and tricks
+
+1. **Contents & Credits**
+2. **Introduction**
+3. **A Walk in the Park**
+4. **Seeing the Invisible World**
+5. **Magic Mastery**
+6. **Tea & Sympathy**
+7. **Traditions**
+8. **Blood Magic**
+9. **Breath of the Wild**
+10. **Where the Wild Things Are**
+11. **Advanced Alchemy**
+12. **Index**

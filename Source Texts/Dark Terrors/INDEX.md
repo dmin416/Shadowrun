@@ -1,10 +1,21 @@
 # Dark Terrors
 
-Horror / threats plot book for SR5 (and usable with Anarchy).
+CFD-era horror / threats plot book.
 
 ## Sections
-- **Bug spirits**: Insect spirit infiltration and corp corruption
-- **Shedim**: Dead-body possession and related threats
-- **Metaplanar horrors**: Things from dark corners of the metaplanes
-- **Matrix horrors**: Digital nightmares and related plot threads
-- **Critter stats & campaign hooks**: Running fear-heavy games
+
+1. **Contents & Credits**
+2. **JackPoint**
+3. **Introduction**
+4. **Darker than Shadows**
+5. **The Heart of the Hive**
+6. **Marooned Spirits**
+7. **Paint It Blacker**
+8. **Monads and CFD**
+9. **The Hidden Faction**
+10. **Revelations**
+11. **Followers of the Elder God**
+12. **Dwellers of the Deep Foundations**
+13. **The Ghoul Queen and Her People**
+14. **Untamed Metaplanes**
+15. **Rules Index**

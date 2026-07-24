@@ -3,10 +3,19 @@
 Vehicles, drones, and rigger rules expansion.
 
 ## Sections
-- **Rigger lifestyle & basics**: Being jacked in as a rigger
-- **Ground vehicles**: Cars, bikes, trucks, and street machines
-- **Watercraft**: Boats, submersibles, and related craft
-- **Air Superiority**: Aircraft, rotorcraft, VTOLs, odd flying rigs
-- **One Rig to Rule Them All**: Advanced rigger options and RCCs
-- **The Automated Army / Droning On**: Drone catalogs, corps, and drone warfare
-- **Customization & mods**: Building and modifying vehicles/drones
+
+1. **Contents & Credits**
+2. **Introduction**
+3. **Home Security**
+4. **Hot Rubber and Cold Steel**
+5. **All the Angles**
+6. **On the Bleeding Edge**
+7. **The Order of Chaos**
+8. **Demolition Derby**
+9. **Ruling the Waves**
+10. **Air Superiority**
+11. **One Rig to Rule Them All**
+12. **The Automated Army**
+13. **Building the Perfect Beast**
+14. **Maximum Pursuit**
+15. **Tables**

@@ -1,9 +1,20 @@
 # Market Panic
 
-Campaign book on the Big Ten megacorps in crisis.
+Big Ten megacorp campaign book during CFD-era fallout.
 
 ## Sections
-- **State of the Big Ten**: Scandals, disasters, and power shifts
-- **Per-corp dossiers**: Background, current plots, and who is hurting whom
-- **NeoNET / Ares / Aztechnology focus**: Major corp flashpoints called out in the book
-- **Plot hooks**: Jobs for and against megacorps during the turmoil
+
+1. **Contents & Credits**
+2. **The First Day of the Rest of Your Life**
+3. **Droning On**
+4. **Courting Disaster**
+5. **Ares Macrotechnology**
+6. **Aztechnology**
+7. **EVO**
+8. **Horizon**
+9. **Mitsuhama**
+10. **NeoNET**
+11. **Renraku**
+12. **Saeder-Krupp**
+13. **Shiawase**
+14. **Wuxing**

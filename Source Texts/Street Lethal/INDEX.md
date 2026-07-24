@@ -3,8 +3,14 @@
 Advanced combat expansion after Run & Gun.
 
 ## Sections
-- **Corp security briefings**: How major corps fight and defend
-- **Mercenary groups**: Units, ops styles, and opposition ideas
-- **Advanced combat options**: Extra tools for lethal specialists
-- **Weapons & tactics**: New gear and street-fighting approaches
-- **Assassin / wetwork edge**: Options for precision and professional killers
+
+1. **Contents & Credits**
+2. **Introduction**
+3. **Proving Grounds**
+4. **Expanded Arsenal**
+5. **Military and Future Weapons**
+6. **Opposition Report: CorpSec**
+7. **At Sea**
+8. **Unconventional Warriors**
+9. **Lethal Arts**
+10. **Adventure Hooks**

@@ -1,9 +1,22 @@
 # Stolen Souls
 
-Deep Shadows book: extractions + start of the CFD metaplot; Manhattan setting.
+CFD metaplot opener: extractions and Manhattan.
 
 ## Sections
-- **CFD / the war within**: Cognitive Fragmentation Disorder and plot updates
-- **Extraction work**: Techniques, tactics, and gear for kidnapping/extraction runs
-- **Manhattan**: Sprawl info and hooks for key extractions
-- **Adventure hooks**: Jobs tied to infected VIPs, cover-ups, and paydata
+
+1. **Contents & Credits**
+2. **Freedom Isn't Free**
+3. **JackPoint**
+4. **Introduction**
+5. **Check Your Head**
+6. **Searching for the Source**
+7. **Rewiring Minds**
+8. **Persuasion and Power**
+9. **Loaded C-Suites of New York**
+10. **Manhattan Vital Stats (2075)**
+11. **Horizon, Evo, and Shiawase**
+12. **The Gremlins that Come Between Us**
+13. **Stealing Living Goods**
+14. **Extractor's Toolkit**
+15. **Game Information**
+16. **Stolen Souls Tables**

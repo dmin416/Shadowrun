@@ -3,10 +3,17 @@
 Ork and troll culture, life, and character options.
 
 ## Sections
-- **What Are You?**: Trog identity and pride in the late 2070s
-- **Living as a Trog In...**: Cities and regions (friendly and hostile)
-- **Working as a Trog In...**: How corps and orgs treat orks/trolls
-- **Trog Heroes**: Notable ork/troll figures
-- **Trog Enemies**: Humanis, hate groups, and other opposition
-- **United We Stomp**: Orgs, networks, and community power
-- **Everything Trog**: Gear, qualities, life modules, building trog runners
+
+1. **Contents & Credits**
+2. **Introduction**
+3. **JackPoint**
+4. **Belinda**
+5. **What Are You?**
+6. **Living as a Trog In...**
+7. **True Blue Trog**
+8. **Working As a Trog In...**
+9. **Trog Heroes**
+10. **Trog Enemies**
+11. **Trog Runners**
+12. **United We Stomp**
+13. **Everything Trog**
