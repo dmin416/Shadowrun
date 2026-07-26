@@ -1,6 +1,10 @@
 ﻿# Armor Modifications
 
-**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · Hard Targets · [SL](../Source%20Texts/Street%20Lethal/INDEX.md) (Daedalus chute only)
+**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · Hard Targets\* · [SL](../Source%20Texts/Street%20Lethal/INDEX.md)
+
+\*No Hard Targets PDF in `Source/PDF` — HT section unverified.
+
+**Verified from:** `Source/PDF` Core, Run & Gun, Street Lethal.
 
 Related: [Armor and Clothing](Armor%20and%20Clothing.md) · [Sensors and Optics](Sensors%20and%20Optics.md) · [Commlinks and Electronics](Commlinks%20and%20Electronics.md) · [Medical Gear](Medical%20Gear.md) · [Drugs Toxins and Chemicals](Drugs%20Toxins%20and%20Chemicals.md)
 
@@ -28,7 +32,7 @@ The weave, linings, pockets, and toys bolted into what you wear. Base armor piec
 | Fire Resistance | [Rating] | 6 | Rating × 250¥ | Add full Rating to Armor when resisting **Fire** and when checking if the armor catches fire. |
 | Insulation | [Rating] | 6 | Rating × 250¥ | Add full Rating to Armor when resisting **Cold**. |
 | Nonconductivity | [Rating] | 6 | Rating × 250¥ | Add full Rating to Armor when resisting **Electricity**. |
-| Shock Frills | [2] | 6R | 250¥ | Charged “fur” strips. Complex Action to activate (wireless: Free). Unarmed Combat attack; **8S(e)** typical shock profile. **10 charges**; wall recharge 1 charge / 10 seconds. Wireless: induction recharge 1 charge / hour. |
+| Shock Frills | [2] | 6R | 250¥ | Charged “fur” strips. Complex Action to activate (wireless: Free). Unarmed Combat attack; Electricity damage (Core does **not** list a DV on this row — use Electricity damage rules / GM). **10 charges**; wall recharge 1 charge / 10 seconds. Wireless: induction recharge 1 charge / hour. |
 | Thermal Damping | [Rating] | 10R | Rating × 500¥ | Inner layers match ambient heat signature. Add Rating to **limit** on Sneaking vs thermographic vision / thermal sensors. **Wireless:** also add Rating as a **dice pool** bonus on those Sneaking tests. |
 
 ---
@@ -40,7 +44,7 @@ These are clothing / armor purchase options more than Capacity sinks (also summa
 | Modification | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- |
 | Electrochromic Clothing | [0] | +2 | +500¥ | Wireless color/pattern shift. Party trick and poor-man’s disguise aid. |
-| Feedback Clothing | [3] | 8 | 500¥ | Haptic / tactile feedback layer — AR feel, training suits, novelty clubs. |
+| Feedback Clothing | — / [3]\* | 8 | +500¥ / 500¥ | Core: clothing upgrade **+500¥**, Avail 8. RnG lists install Capacity **[3]** / 500¥ when socketed as a mod. |
 | (Synth)Leather | [0] | — | +200¥ | Leather or synthleather upgrade → Armor 4 / Capacity 4 when applied to clothing. |
 
 ---
@@ -80,14 +84,14 @@ Printed features on fashion / specialty armor — not Capacity mods you bolt on 
 
 ---
 
-## Hard Targets
+## Hard Targets — UNVERIFIED (no local PDF)
 
 | Modification | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- |
-| Concealed Pocket | [1] | 4 | 40¥ | Secret pocket (holdout / link / similar). **−2** Concealability to the stashed object. |
-| Faraday Pocket | [1] | 7R | 50¥ | Signal-blocking insert. Wireless cannot penetrate — drop the link in to go dark. |
-| Biofiber Pocket | [2] | 10F | 700¥ | Dual-natured plant lining hides contents from Astral Perception. Active foci inside cannot be used. Living lining needs **20¥ / month** nutrient solution. |
-| Attachable Gear Access | [4] | 4 | 150¥ | Capacity version of Gear Access: one action step cheaper to draw/retrieve staged gear. Negates Social / positive dice bonuses from that armor except damage resistance and Intimidation (or crowds that expect tactical webbing). |
+| Concealed Pocket | [1] | 4 | 40¥ | Pending HT PDF. |
+| Faraday Pocket | [1] | 7R | 50¥ | Pending HT PDF. |
+| Biofiber Pocket | [2] | 10F | 700¥ | Pending HT PDF. |
+| Attachable Gear Access | [4] | 4 | 150¥ | Pending HT PDF. |
 
 ---
 
@@ -145,11 +149,13 @@ Exact Capacity for a given gadget follows its own write-up when it disagrees wit
 
 | Modification | Capacity | Avail | Cost | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Drag Handle | [1] | — | 50¥ | Better Than Bad | Haul handle for dragging a downed wearer. |
-| Pneumatic Anti-Shock Garment | [6] | 6 | 500¥ | Better Than Bad | Anti-shock / impact garment layer. |
-| Parachute (Urban Explorer Daedalus) | — | 8 | (with suit) | Street Lethal | Packed one-shot BASE chute for the Daedalus wingsuit — see [Armor and Clothing](Armor%20and%20Clothing.md). |
-| Voidblack Coating | [6] | 14F | 3,000¥ | Cutting Aces | Light-eating / ultra-black coating for stealth fashion. |
-| AR Fashion | [0] | — | 50¥ | Cutting Aces | AR overlay fashion layer. |
+| Parachute (Urban Explorer Daedalus) | — | — | **750¥** | Street Lethal | Packed one-shot BASE chute for the Daedalus wingsuit (SL: “Parachutes for this item cost 750¥.”). |
+| Drag Handle | [1] | — | 50¥ | Better Than Bad\* | Haul handle for dragging a downed wearer. |
+| Pneumatic Anti-Shock Garment | [6] | 6 | 500¥ | Better Than Bad\* | Anti-shock / impact garment layer. |
+| Voidblack Coating | [6] | 14F | 3,000¥ | Cutting Aces\* | Light-eating / ultra-black coating for stealth fashion. |
+| AR Fashion | [0] | — | 50¥ | Cutting Aces\* | AR overlay fashion layer. |
+
+\*No PDF in `Source/PDF` — unverified.
 
 ---
 

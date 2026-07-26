@@ -1,6 +1,10 @@
 ﻿# Armor and Clothing
 
-**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · [SL](../Source%20Texts/Street%20Lethal/INDEX.md) · Hard Targets · [CT](../Source%20Texts/Complete%20Trog/INDEX.md) · [RF](../Source%20Texts/Run%20Faster/INDEX.md)
+**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · [SL](../Source%20Texts/Street%20Lethal/INDEX.md) · Hard Targets\* · [CT](../Source%20Texts/Complete%20Trog/INDEX.md) · [RF](../Source%20Texts/Run%20Faster/INDEX.md)
+
+\*No Hard Targets PDF in `Source/PDF` — HT section unverified.
+
+**Verified from:** `Source/PDF` Core, Run & Gun, Street Lethal, Complete Trog, Run Faster (not web dumps).
 
 Related: [Armor Modifications](Armor%20Modifications.md) · [Combat / Damage Armor and Wounds](../Mechanics/Combat/Damage%20Armor%20and%20Wounds.md)
 
@@ -29,7 +33,7 @@ Worn armor’s Capacity for mods is usually equal to its Armor rating (exception
 
 ### Shields
 
-Shields are armor accessories (`+`). They impose **−2** on physical tests while in use and can be used as melee weapons (Clubs / appropriate skill). They are hard to conceal and scream “security” or “riot.”
+Shields are armor accessories (`+`). While using one you take **−1 Physical limit** on actions where the shield gets in the way (not on attacks made with the shield as a weapon). They are hard to conceal and scream “security” or “riot.”
 
 ### Hardened armor
 
@@ -94,7 +98,7 @@ Non-armor shopping list for lifestyle / cover identities (Armor 0 unless you buy
 | --- | --- | --- | --- | --- | --- |
 | Helmet | +2 | 6 | 2 | 100¥ | Any style of lid. Capacity 6 for trodes, vision, audio, etc. Accessory Armor. |
 | Ballistic Shield | +6 | 6 | 12R | 1,200¥ | Serious portable cover. Watch Strength vs +6 (and other accessories) for encumbrance. |
-| Riot Shield | +6 | 6 | 10R | 1,000¥ | Same Armor bonus as ballistic; built for crowd control. −2 physical tests while using; melee-capable. |
+| Riot Shield | +6 | 6 | 10R | **1,500¥** | Same Armor bonus as ballistic; built-in shock (10 charges; Electricity). −1 Physical limit while using (see Shields). Melee: Acc 4, 9S(e), AP −5. |
 
 ---
 
@@ -249,14 +253,14 @@ Looks like money. Armor ratings compete with street jackets while Social Limit /
 
 ---
 
-## Hard Targets
+## Hard Targets — UNVERIFIED (no local PDF)
 
 | Name | Armor | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Cloak | 0 | Rating | 1 | Rating × 100¥ | Capacity cloak for hiding tools / silhouette play. Rating sets Capacity and price. |
-| Designer Cloak | 0 | Rating | 1 | (Rating × 100¥) + 300¥ | Fashion version of the capacity cloak. |
-| Ruthenium Polymer Cloak | 0 | — | 14F | Rating × 4,000¥ | Camo cloak using ruthenium tech — Forbidden wetwork accessory. |
-| Shiawase Arms Simoom | +1 | — | 14R | 1,500¥ | Discrete +1 accessory plate / liner for assassins who still want a little soak. |
+| Cloak | 0 | Rating | 1 | Rating × 100¥ | Pending HT PDF. |
+| Designer Cloak | 0 | Rating | 1 | (Rating × 100¥) + 300¥ | Pending HT PDF. |
+| Ruthenium Polymer Cloak | 0 | — | 14F | Rating × 4,000¥ | Pending HT PDF. |
+| Shiawase Arms Simoom | +1 | — | 14R | 1,500¥ | Pending HT PDF. |
 
 ---
 

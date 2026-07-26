@@ -25,7 +25,7 @@ Folder: `Encyclopedia/` — stubs exist for each major item type; none are fille
 - [ ] [Grenades and Explosives](Encyclopedia/Grenades%20and%20Explosives.md) — grenades, rockets, plastic explosive
 - [x] [Armor and Clothing](Encyclopedia/Armor%20and%20Clothing.md) — Core + RnG + SL + HT + CT filled; mods stay in Armor Modifications
 - [x] [Armor Modifications](Encyclopedia/Armor%20Modifications.md) — Core + RnG + HT (+ holsters / installed-gear Capacity cheat sheet)
-- [ ] [Cyberware](Encyclopedia/Cyberware.md) — headware, eyeware, bodyware, cyberlimbs, grades
+- [x] [Cyberware](Encyclopedia/Cyberware.md) — Core + CF (head/eye/ear/body/limbs/weapons/suites) + HT; nanoware deferred to Nanotech and Geneware
 - [x] [Bioware](Encyclopedia/Bioware.md) — Core + CF (basic/cultured/cosmetic/bio-weapons/symbionts/orthoskin) + HT; genetech deferred to Nanotech and Geneware
 - [ ] [Nanotech and Geneware](Encyclopedia/Nanotech%20and%20Geneware.md) — *Chrome Flesh* / advanced ware
 - [ ] [Commlinks and Electronics](Encyclopedia/Commlinks%20and%20Electronics.md) — links, accessories, general devices

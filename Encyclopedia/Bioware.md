@@ -1,6 +1,10 @@
 ﻿# Bioware
 
-**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · **[CF](../Source%20Texts/Chrome%20Flesh/INDEX.md)** · Hard Targets
+**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · **[CF](../Source%20Texts/Chrome%20Flesh/INDEX.md)** · Hard Targets\*
+
+\*No Hard Targets PDF in `Source/PDF` — HT section unverified.
+
+**Verified from:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`, `chromeflesh.pdf` (not web / Chummer).
 
 Related: [Cyberware](Cyberware.md) · [Nanotech and Geneware](Nanotech%20and%20Geneware.md) · [Medical Gear](Medical%20Gear.md) · [Drugs Toxins and Chemicals](Drugs%20Toxins%20and%20Chemicals.md)
 
@@ -88,8 +92,8 @@ Cosmetic / reconstructive surgery — not always “implants,” but sold as bio
 | Severe modification | 0.25–0.5 | 8–12 | 2,000–10,000¥ | Major reconstruction. |
 | Ethnicity / sex change | — | 4 | 10,000¥ | Full presentation change package. |
 | Metatype modification | — | 8 | 20,000¥ | Cosmetic metatype presentation work. |
-| Troll Reduction (1) | 0.2 | 8 | 15,000¥ | Soften troll bulk / features; −1 Armor, Cha bump per write-up. |
-| Troll Reduction (2) | 0.5 | 12 | 25,000¥ | Deeper reduction pass. |
+| Troll Reduction (1) | 0.2 | 8 | 15,000¥ | Soften troll features; racial Charisma max **+1**. (No Armor penalty in CF.) |
+| Troll Reduction (2) | 0.5 | 12 | 25,000¥ | Deeper reduction; racial Charisma max **+2**. |
 
 ---
 
@@ -126,10 +130,10 @@ Cosmetic / reconstructive surgery — not always “implants,” but sold as bio
 | Expanded Volume (1–4) | Rating × 0.1 | Rating × 4 | Rating × 2,000¥ | Lung capacity; +Rating Fatigue resist. |
 | Gills | 0.2 | 8 | 8,000¥ | Water breathing; −2 Fatigue resist (dry-side tax). |
 | Hand / Foot Webbing | 0.05 ea. | 8 | 1,000¥ ea. | +1 Swimming Physical limit per pair bought. |
-| Hearing Enhancement | 0.1 | 4 | 4,000¥ | Better hearing acuity. |
+| Hearing Enhancement | 0.1 | 4 | 4,000¥ | **+1 die** hearing Perception. |
 | Hearing Expansion | 0.1 | 8 | 4,000¥ | Broader frequency range (pair with vocal expander for private band). |
 | Joint Replacement | 0.05 | 2 | 1,000¥ | Swap a bad joint for a healthy bio one. |
-| Nephritic Screen (1–6) | Rating × 0.05 | Rating × 2 | Rating × 4,000¥ | Kidney filter; addiction threshold help vs toxins/drugs. |
+| Nephritic Screen (1–6) | Rating × 0.05 | Rating × 2 | Rating × 4,000¥ | +Rating to **Willpower** on addiction tests; +Rating dice Toxin/Disease; shorten drug duration by Rating. |
 | Nictitating Membrane | 0.05 | 6 | 1,000¥ | Protective second eyelid. |
 | Replacement limb (Type-O) | — / 0.1 / 0.2 / 0.4 | 2 / 4 / 6 / 8 | 1k / 10k / 20k / 40k¥ | Finger-toe / hand-foot / partial / full. Average metatype stats → adjust toward yours over ~1 month. |
 | Spidersilk Gland | 0.3 | 10 | 35,000¥ | Wrist (2×20 m) or abdomen (5 doses). Exotic Ranged (Spidersilk): no DV; −2 Physical limit; called shots trip/disable hands. +3 Free-fall when rappelling. Enzyme dissolve 25¥ (2 CT vs 5). |
@@ -150,14 +154,12 @@ Cosmetic / reconstructive surgery — not always “implants,” but sold as bio
 | Boosted Reflexes | 1.0 | 8R | 10,000¥ | +1D6 Initiative. **Permanent** — cannot remove. Incompatible with other Initiative mods. Cheap ¥, expensive Essence. |
 | Cerebellum Booster (1–2) | Rating × 0.2 | Rating × 8 | Rating × 50,000¥ | +Rating Intuition. |
 | Knowledge Infusion | 0.1 | 12 | 2,000¥ | Instant Rating 1 in one Knowledge or Language you lacked; raise with Karma later. |
-| Limb replacement (cultured) | 0.02 base* | 6+ | see table | Matches **your** attributes on attach. Finger/toe 2k Avail 4; hand/foot 20k Avail 8; half 40k / full 80k Avail 12. |
+| Limb replacement (cultured) | see CF | 6+ | see CF | Matches **your** attributes on attach. Chapter base row: Ess **0.02** / Avail 6 / 1,500¥ then finger/hand/half/full ladder; compiled appendix reprints differ — use chapter. |
 | Neuro-Retention Amplification | 0.1 | 4 | 10,000¥ | Grants **Photographic Memory**. |
 | Reception Enhancer | 0.2 | 4 | 10,000¥ | Ignore distraction / interfering sight-sound-odor mods on Perception. |
 | Reproductive Replacement (M / F) | 0.1 / 0.3 | 8 / 4 | 8,000 / 20,000¥ | Cultured reproductive tissues. |
 | Trauma Damper (1–4) | Rating × 0.1 | (Rating × 4)R | Rating × 4,000¥ | Reduce injury modifier by up to Rating; when used, also −Rating to limits and Reaction. |
 | Tremor Reducer (1–3) | Rating × 0.1 | Rating × 6 | Rating × 10,000¥ | Hold still Rating × 8 hours; +Rating to max Take Aim bonus. |
-
-\*Chummer lists 0.02 Essence on cultured limb SKUs; book table shows the finger/hand/half/full price ladder above.
 
 ---
 
@@ -190,9 +192,9 @@ Default skill: **Unarmed Combat** (Natural Weapons) unless noted. Prices are typ
 | Muzzle | 0.3 | 8R | 2,000¥ | +2 Accuracy with fangs. |
 | Sprayer | 0.25 | 8 | 4,000¥ | Bio chem sprayer organ (separate from gland exhalation option). |
 | Stinger (tiny / med / large) | 0.05 / 0.1 / 0.2 | 8 / 8R / 12F | 250 / 2,000 / 8,000¥ | Injector stinger sizes. |
-| Striking Callus | 0.05 | 2 | 250¥ | Hardened striking surface; small unarmed DV bump. |
+| Striking Callus | 0.05 | 2 | 250¥ | Unarmed becomes **(STR)P**. |
 | Tusk (S / M / L) | — / 0.1 / 0.2 | 2 / 4 / 8R | 100 / 500 / 1,000¥ | Cosmetic / gore options. |
-| Bone Spike (HT) | 0.2 | 14F | 20,000¥ | Hard Targets; variants by Bone Density Rating. |
+| Bone Spike (HT)\* | 0.2 | 14F | 20,000¥ | \*Unverified — no HT PDF. Variants by Bone Density Rating. |
 
 ---
 
@@ -202,25 +204,26 @@ Living passengers — distinct from Core bloodstream **Symbiotes**.
 
 | Name | Essence | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- |
-| Cleaner Leech | — | 4 | 100¥ | Minor +1 healing help; cheap pet parasite. |
-| Booster Endosont | 0.2 | 12 | 10,000¥ | Metabolic / performance passenger. |
+| Cleaner Leech | — | 4 | 100¥ | **+1** Natural Healing until healed; **+4** resist secondary infection. |
+| Booster Endosont | 0.2 | 12 | 10,000¥ | Fatigue onset **doubled**; can’t heal Fatigue until equal cool-down. |
 | Digester Endosont | 0.2 | 12 | 10,000¥ | −10% lifestyle (eats cheaper). |
 | Electroreceptor Endosont | 0.2 | 12 | 10,000¥ | Sense electrical fields. |
-| Mender Endosont | 0.2 | 12 | 30,000¥ | +2 Physical / +1 Stun healing recovery. |
-| Stalwart Endosont | 0.2 | 12 | 10,000¥ | Toughness-oriented passenger. |
+| Mender Endosont | 0.2 | 12 | 30,000¥ | **+1 Body** on Natural Recovery tests; +5% lifestyle / +25% food. |
+| Stalwart Endosont | 0.2 | 12 | 10,000¥ | **+1 Willpower** vs fear/intimidation; forced risk Logic+WIL(2). |
 | Slimworm | 0.2 | 4 | 1,000¥ | +1 ingestion toxin resist. |
+| Gut Flora | 0.15 | 6 | 1,000¥ | Parent package for digestive flora tweaks. |
 | Lactose Tolerance | — | 2 | 50¥ | Exactly what it says. |
 | Allergy Resistance (mild / mod / sev) | 0.2 | 8 / 12 / 16 | 10k / 30k / 50k¥ | Step down or blunt an Allergy. |
 
 ---
 
-## Hard Targets
+## Hard Targets — UNVERIFIED (no local PDF)
 
 | Name | Essence | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- |
-| Bilateral Coordination Co-processor | 0.2 | 6 | 4,500¥ | Grants Ambidextrous-style coordination. |
-| Spur Pocket | 0.1 | 6 | 8,000¥ | Cultured sheath for bone spurs / similar. |
-| Bone Spike | 0.2 | 14F | 20,000¥ | See Bio-weapons; Density-dependent variants. |
+| Bilateral Coordination Co-processor | 0.2 | 6 | 4,500¥ | Pending HT PDF. |
+| Spur Pocket | 0.1 | 6 | 8,000¥ | Pending HT PDF. |
+| Bone Spike | 0.2 | 14F | 20,000¥ | Pending HT PDF; Density-dependent variants. |
 
 ---
 
