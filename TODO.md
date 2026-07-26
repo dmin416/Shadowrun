@@ -21,12 +21,12 @@ Folder: `Encyclopedia/` — stubs exist for each major item type; none are fille
 - [ ] [Firearms](Encyclopedia/Firearms.md) — pistols, automatics, longarms, machine guns, assault cannons
 - [ ] [Exotic Weapons](Encyclopedia/Exotic%20Weapons.md) — exotic melee & ranged
 - [ ] [Weapon Accessories](Encyclopedia/Weapon%20Accessories.md) — sights, silencers, gyros, underbarrels, smartgun
-- [x] [Ammunition](Encyclopedia/Ammunition.md) — Core + RnG + Hard Targets filled; SL has no ammo catalog; fiction one-offs optional
+- [x] [Ammunition](Encyclopedia/Ammunition.md) — Core + RnG + HT + TSG + SL filled (notes + weapon-locked SL feeds); niche books (Krime, etc.) optional
 - [ ] [Grenades and Explosives](Encyclopedia/Grenades%20and%20Explosives.md) — grenades, rockets, plastic explosive
-- [ ] [Armor and Clothing](Encyclopedia/Armor%20and%20Clothing.md) — armor clothing through full body / milspec
-- [ ] [Armor Modifications](Encyclopedia/Armor%20Modifications.md) — capacity mods, chemical seal, etc.
+- [x] [Armor and Clothing](Encyclopedia/Armor%20and%20Clothing.md) — Core + RnG + SL + HT + CT filled; mods stay in Armor Modifications
+- [x] [Armor Modifications](Encyclopedia/Armor%20Modifications.md) — Core + RnG + HT (+ holsters / installed-gear Capacity cheat sheet)
 - [ ] [Cyberware](Encyclopedia/Cyberware.md) — headware, eyeware, bodyware, cyberlimbs, grades
-- [ ] [Bioware](Encyclopedia/Bioware.md) — basic / cultured; Essence & costs
+- [x] [Bioware](Encyclopedia/Bioware.md) — Core + CF (basic/cultured/cosmetic/bio-weapons/symbionts/orthoskin) + HT; genetech deferred to Nanotech and Geneware
 - [ ] [Nanotech and Geneware](Encyclopedia/Nanotech%20and%20Geneware.md) — *Chrome Flesh* / advanced ware
 - [ ] [Commlinks and Electronics](Encyclopedia/Commlinks%20and%20Electronics.md) — links, accessories, general devices
 - [ ] [Cyberdecks and Programs](Encyclopedia/Cyberdecks%20and%20Programs.md) — decks, programs, agents, cyberprograms
