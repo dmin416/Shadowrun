@@ -48,6 +48,8 @@ Quick-reference summaries of common **Shadowrun Fifth Edition** systems. These a
 | Housing & lifestyle | [Housing and Lifestyle](Housing%20and%20Lifestyle.md) |
 | Vehicles & chases | [Vehicles](Vehicles.md) |
 
+Living the Shadows pages use the same Inventory/Schema agent layout as Combat (Core-verified tables).
+
 ## Specialized Systems (basics)
 
 | Topic | File |
@@ -55,6 +57,8 @@ Quick-reference summaries of common **Shadowrun Fifth Edition** systems. These a
 | Matrix | [Matrix Basics](Matrix%20Basics.md) |
 | Magic | [Magic Basics](Magic%20Basics.md) |
 | Rigging | [Rigging Basics](Rigging%20Basics.md) |
+
+Specialized Basics use the same Inventory/Schema agent layout as Combat (Core-verified; Data Trails / Street Grimoire / Rigger 5 for depth beyond Core).
 
 ## Source map
 

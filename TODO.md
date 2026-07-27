@@ -160,41 +160,41 @@ LLM agent refs. Done files use Inventory + Schema + full tables. Each open item 
 
 ### Living the shadows
 
-- [ ] [Actions Outside Combat](Mechanics/Actions%20Outside%20Combat.md)
-  - [ ] Social skill Opposed pairs + modifier tables
-  - [ ] Perception Observe in Detail; thresholds
-  - [ ] Legwork / downtime patterns
-- [ ] [Healing and Injuries](Mechanics/Healing%20and%20Injuries.md)
-  - [ ] First Aid / Medicine / medkit; Heal spell
-  - [ ] Natural recovery Stun/Physical tables; glitches
-  - [ ] Stabilization; overflow death
-- [ ] [Gig Rewards](Mechanics/Gig%20Rewards.md)
-  - [ ] Run pay guidelines; Karma awards
-  - [ ] Street Cred / Notoriety / Public Awareness formulas
-- [ ] [Housing and Lifestyle](Mechanics/Housing%20and%20Lifestyle.md)
-  - [ ] Lifestyle cost table + options; permanent buy
-  - [ ] Starting nuyen by lifestyle; safehouse / bolt hole (RF if cited)
-- [ ] [Vehicles](Mechanics/Vehicles.md)
-  - [ ] Chase / tactical vehicle combat steps
-  - [ ] Ramming; vehicle Condition; passenger attacks
-  - [ ] Suppression vs vehicles
+- [x] [Actions Outside Combat](Mechanics/Actions%20Outside%20Combat.md)
+  - [x] Social skill Opposed pairs + modifier tables
+  - [x] Perception Observe in Detail; thresholds
+  - [x] Legwork / downtime patterns
+- [x] [Healing and Injuries](Mechanics/Healing%20and%20Injuries.md)
+  - [x] First Aid / Medicine / medkit; Heal spell
+  - [x] Natural recovery Stun/Physical tables; glitches
+  - [x] Stabilization; overflow death
+- [x] [Gig Rewards](Mechanics/Gig%20Rewards.md)
+  - [x] Run pay guidelines; Karma awards
+  - [x] Street Cred / Notoriety / Public Awareness formulas
+- [x] [Housing and Lifestyle](Mechanics/Housing%20and%20Lifestyle.md)
+  - [x] Lifestyle cost table + options; permanent buy
+  - [x] Starting nuyen by lifestyle; safehouse / bolt hole (RF if cited)
+- [x] [Vehicles](Mechanics/Vehicles.md)
+  - [x] Chase / tactical vehicle combat steps
+  - [x] Ramming; vehicle Condition; passenger attacks
+  - [x] Suppression vs vehicles
 
 ### Specialized systems (basics → full refs)
 
-- [ ] [Matrix Basics](Mechanics/Matrix%20Basics.md)
-  - [ ] Persona / device attrs; Noise; Overwatch Score
-  - [ ] Marks; Hosts; Foundation pointer
-  - [ ] Cybercombat; Convergence; dumpshock
-  - [ ] Technomancer Living Persona / sprites / complex forms overview
-- [ ] [Magic Basics](Mechanics/Magic%20Basics.md)
-  - [ ] Spellcasting + Drain; traditions
-  - [ ] Spirits summon/bind/banish; Edge (summoner)
-  - [ ] Astral perception/projection; wards
-  - [ ] Adepts PP; background count / mana issues
-- [ ] [Rigging Basics](Mechanics/Rigging%20Basics.md)
-  - [ ] Control modes; Jump In; RCC sharing
-  - [ ] Drone Init / Pilot / autosofts; Noise
-  - [ ] Rigger Interface / Control Rig grades pointer
+- [x] [Matrix Basics](Mechanics/Matrix%20Basics.md)
+  - [x] Persona / device attrs; Noise; Overwatch Score
+  - [x] Marks; Hosts; Foundation pointer
+  - [x] Cybercombat; Convergence; dumpshock
+  - [x] Technomancer Living Persona / sprites / complex forms overview
+- [x] [Magic Basics](Mechanics/Magic%20Basics.md)
+  - [x] Spellcasting + Drain; traditions
+  - [x] Spirits summon/bind/banish; Edge (summoner)
+  - [x] Astral perception/projection; wards
+  - [x] Adepts PP; background count / mana issues
+- [x] [Rigging Basics](Mechanics/Rigging%20Basics.md)
+  - [x] Control modes; Jump In; RCC sharing
+  - [x] Drone Init / Pilot / autosofts; Noise
+  - [x] Rigger Interface / Control Rig grades pointer
 
 ### Mechanics structure / optional new pages
 
@@ -396,14 +396,15 @@ PDF: `Source/PDF/seattlesprawl.pdf` (90 pages). Extractor: `Source/_extract/extr
 
 ### Other supplements
 
-- [ ] Chrome Flesh: continue remaining chapter extracts past current files
+- [x] Chrome Flesh: all 13 chapters + INDEX (`Source Texts/Chrome Flesh/`)
+- [x] Kill Code: all 16 chapters + INDEX; landmark/JP sweep PASS (`Source/_extract/killcode_sweep_report.md`; ch13 JP order fixed)
 - [ ] Other INDEX-only books: same extract → format → loss-check → done-check pipeline when cited
 
 ---
 
 ## Suggested work order
 
-1. Finish Run & Gun Source Texts (all 14 chapters through done-check).
-2. Import / fill remaining Core Source Texts where Mechanics still need verbatim base.
-3. Expand Mechanics outlines with real tables from those sources.
-4. Cross-link Mechanics ↔ Encyclopedia; mark entries `[x]` here as they complete.
+1. Chrome Flesh Source Texts format/loss/done QA (next unfinished book for Mechanics depth).
+2. Cross-link Mechanics ↔ Encyclopedia; mark entries `[x]` here as they complete.
+3. Optional: Data Trails extract when Matrix Basics needs Foundation / advanced host depth beyond Core.
+4. Optional: Street Grimoire / Rigger 5 deepen Magic Basics / Rigging Basics when cited.

@@ -11,6 +11,8 @@ Advanced Matrix rules after Data Trails.
 3. **QA:** JackPoint attribution, stats/tables, print quirks noted (not invented)
 4. **Formatting:** no em dashes; strip page chrome; ASCII punctuation; table separators `|---|`
 
+**Status:** all 16 chapters converted; landmark + JackPoint sweep PASS (`Source/_extract/killcode_sweep_report.md`). Ch13 JP handle order fixed in that pass.
+
 ## Sections
 
 | # | Chapter | Print pages (approx) |

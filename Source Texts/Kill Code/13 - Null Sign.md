@@ -2,17 +2,17 @@
 
 **Posted by: Double A**
 
+> **Glitch**
 > Well, that was interesting. For anyone who missed it, the file I uploaded disappeared only 8.3 seconds after I completed the upload. I tried again, and it made it 7.4 seconds before it disappeared from the system. Not just deleted - all records of the attempt gone. For anyone who managed a copy (and kept it) or is a real speed-reader, feel free to use the Null Sect post for commentary. I encrypted the title phrase, hoping that will keep Them at bay! I recommend avoiding names and specifics, since whoever They are, They have remarkable search software. Maybe we can have a conversation before They erase the data. I'm also going to send out a physical copy (I know, ewww) to a few people and keep tossing uploaded scans every few days, as long as it doesn't get dangerous. If you've already got a copy, pass it on. They've focused on deleting the files up until now, as long as that's where they put their focus, we'll keep trying to free the information. As for the scan, well, it's complicated. I got this sent to me from a courier I trust, and he said the guy on the other end was a frazzled mess who looked like he hadn't slept in weeks. I read it, vetted a few things, and then tossed it up. And we saw what happened. Nothing like having a file deleted by some mysterious force to let you know you're onto something. For all those who have a copy, I'm sorry about the state of his mind, his English, and his typing skills. It looks like he used some kind of offline typing system that doesn't bother to correct typos and he wasn't in any state of mind to go back and edit. So, with no further ado, I'll toss it up one more time for dreks and funnies. Let's see if they can get it in under five. This'll all go up in a burst, then you can comment after.
-> **Glitch**
 
+> **Puck**
 > From the opening snippet I managed, this looks like what I was talking about. This guy got more, and probably lost more, but this has to be the same strangeness I was talking about in the Dark Terrors drop.
-> **Puck**
 
-> Pick up your postal order and you can read it all - he left me a side note that he sent you a copy.
 > **Glitch**
+> Pick up your postal order and you can read it all - he left me a side note that he sent you a copy.
 
-> I'm a few thousand miles from that registered address. When I get back in the area, I'll pick it up. Until then I'll limit my nightmares to what I already know, and avoid adding any more looking over my shoulder.
 > **Puck**
+> I'm a few thousand miles from that registered address. When I get back in the area, I'll pick it up. Until then I'll limit my nightmares to what I already know, and avoid adding any more looking over my shoulder.
 
 ## The Null Sect
 
@@ -216,122 +216,122 @@ I don't know if it's actually related, but I'll include Erika at the bottom of t
 
 I'll start by saying, I don't have a solution. What I do have are ideas about what we can do, how we can work against them, and suggestions for an end game. I don't necessarily know how to end the game, just feel the need to lay my thoughts to paper. First and foremost, protect the technomancers. Help them find a way to stay safe and hidden, or help them fight back. I understand the basics of why their existence offends Them, but I feel like it's something more. The technomancers are a key - not the key, but a key - to this mystery. If we lose too many of them, we're likely to lose our Matrix, or become some sort of strange secondhand citizens if They decide to let the normal users still do their thing in AR. Next step (and this document is my start of it) get the data out there. Even if it has to be typed up on some ancient device, or, Ghost forbid, handwritten, spread the word. Watch for the deletions anywhere this info flows. They delete data that relates to them, not only things specifically about them. If a corps' latest research advancement threatens Them in any way, even if it's inadvertent, They will go after it. If you suddenly find yourself under attack with info being deleted, look back on what you were involved in recently. If it doesn't point to Them directly, it may be a clue as to what They are up to. And finally, we have to do something. Erase Them, imprison Them, load Them onto a massive drive like the Monads and send them away. At some point we are going to need to make efforts against Them, not just learn about Them. Knowing is key to victory, but a battle or a hunt will need to occur. Wars are not won by words alone, despite our greatest civilized desires for that to be true. Personally, I think that time needs to come sooner rather than later, but I'm just one very paranoid man. I know too much but have too little power I can exercise against Them. If you have the pwr, use it. I'm including account information with the copies of this that are going to those i think [print: I] may have the power, connections, and drive to take action. It's not a fortune, but each has enough to get the ball rolling or defer some of the costs. If you got a red envelope, inside your manila envelope (those things are hard to find these days, by the way), you've got access codes and an account number or two. Use them wisely. And my final thought, and I can't believe I'm typing this, Danielle de la Mar is right. Her idea for a next step is a Matrix that is once again bound and connected to the real world. One that answers to those who devised it and shapeable by those who code it. Her plans are visually similar, still wireless, and have the same general functionality, but her support of Erika's efforts with hosts run on physical devices that can be rebooted, rewritten, or just shut down, seems the safest way to protect us from Them. She doesn't have a crash to scare people with, and while people feared technomancers and the strange threat of head cases, an infinitesimal portion of the population knows about Them and de la Mar knows better than to use an invisible bogeyman as a threat, especially one that might come straight after her. If we can spin up a secondary Matrix, we can isolate them in the current Matrix and make sure we safely move data over to the new hosts. I'm sure somewhere, someone will take a shortcut and They will find an exploit, but I think They just want this Matrix, the one we built on code from the Foundation before we ever truly understood what we were doing. Hell, we don't even understand it now. With her plan we can alter the design and connection protocols to allow users to access a safer Matrix. Even if it's a smaller one, it's better to still have access, and be alive, than to get brainfried because you like connecting with friends halfway around the world for a v-beer.
 
+> **Glitch**
 > I'll put this right here at the top. Yes, I noticed there are several places where Double A didn't capitalize as he intended, but we are all relatively intelligent and can read context clues, so stop spamming this log with corrections. The man typed this up on a damn typewriter. Dig one of those out of the trash heap, slam out a doc this large without any errors and you can then come here and comment. Thank you all for your understanding. And honestly, if I had my way, I'd go back and get rid of every capital, because it's an easy search parameter to utilize.
-> **Glitch**
 
+> **Slamm-0!**
 > I've heard a lot of rumors from Matrix sleuths about their access accounts getting erased. One day they have access, the next, their account is erased and their getting an [print: they're] error message every time they try to log on. Given the work they do, and efforts they make to "free the data," it's very well possible they are being targeted by this group.
-> **Slamm-0!**
 
-> A technomancer I know - well, they used to be a technomancer - woke up in a recovery ward at a street doc with a body full of cyber. Most of the systems were secondhand and the doc mainly served as a chop shop for the local Yaks, but someone dropped off my buddy, transferred the doc a sizable sum, and ordered a full cybersuite installed. Needless to say, the techno lost his connection to the Resonance. He flipped his drek and started digging (that's how I got involved) and we managed nada, zip, zero, null progress. Could have been something else, but it seems an interesting way to get a technomancer off the Matrix.
 > **Butch**
+> A technomancer I know - well, they used to be a technomancer - woke up in a recovery ward at a street doc with a body full of cyber. Most of the systems were secondhand and the doc mainly served as a chop shop for the local Yaks, but someone dropped off my buddy, transferred the doc a sizable sum, and ordered a full cybersuite installed. Needless to say, the techno lost his connection to the Resonance. He flipped his drek and started digging (that's how I got involved) and we managed nada, zip, zero, null progress. Could have been something else, but it seems an interesting way to get a technomancer off the Matrix.
 
+> **Clockwork**
 > Why not just hire a hitman? A bullet to the brain deals with technomancers, too. The effort and funds to snatch, deliver, and then get a doc to install all that drek. Too much work for the reward.
-> **Clockwork**
 
+> **Glitch**
 > Let's look at this for arguments sake. The nuyen is nothing. Nuyen is code. They control code. He said many times that they don't think like we do. They don't think of life and death in the same way. They think on and off the Matrix as life and death. Maybe, they have experienced enough e-ghosts, or the like, to think killing a technomancer just risks creating an e-ghost. Better to simply cut off their access.
-> **Glitch**
 
-> The Matrix without power? That sounds like a technomancer fantasy flick I caught last year. Post apocalyptic drivel that had technos ruling a world after it was sent back to the dark ages by an asteroid impact or something. Then along came a techno with different thinking and changed everyone's mind, overthrew the powers, and the world went on happily ever after. The problem was, they never explained how a Matrix existed without devices.
 > **/dev/grrl**
+> The Matrix without power? That sounds like a technomancer fantasy flick I caught last year. Post apocalyptic drivel that had technos ruling a world after it was sent back to the dark ages by an asteroid impact or something. Then along came a techno with different thinking and changed everyone's mind, overthrew the powers, and the world went on happily ever after. The problem was, they never explained how a Matrix existed without devices.
 
+> **Slamm-0!**
 > Maybe the technos were the devices in the trid. Doesn't match up with what he says they're doing to technos here, since they'd be corralling them to run their Matrix on, but then again, that's not meatless - that's meat based.
-> **Slamm-0!**
 
+> **Bull**
 > Those Red Spread things sound more like a bunch of individuals all working together rather than a single entity. Especially if they can do all that drek at once. Based on what he says, I don't think any of these things are limited by the normal rules we've put on the Matrix about size and function. It sounds like they take whatever shape they fragging feel like.
-> **Bull**
 
-> I think I've seen a Clear-Out. That outline they form looks like it's made of old magnetic tape, like the stuff in old reel-to-reels or cassettes. I'm not entirely sure, could have just been a really tweaked persona. When I got a good look, they were hanging out in a Lone Star host and could have jacked out to disappear so fast, but I could have sworn I saw something move away. Most people I tell this story to have told me I'm nuts, but now it makes sense.
 > **Turbo Bunny**
+> I think I've seen a Clear-Out. That outline they form looks like it's made of old magnetic tape, like the stuff in old reel-to-reels or cassettes. I'm not entirely sure, could have just been a really tweaked persona. When I got a good look, they were hanging out in a Lone Star host and could have jacked out to disappear so fast, but I could have sworn I saw something move away. Most people I tell this story to have told me I'm nuts, but now it makes sense.
 
+> **Slamm-0!**
 > Reports about something like the Nulls pop up often on the local forums and chat spots. I can't find a single one up right now, but I know I've seen them before. I was positive about one over on the WizTechTime site, but now it says it was taken down by the moderator for content. I know for a fact the mod didn't take anything down, because I'm the moderator.
-> **Slamm-0!**
 
+> **Glitch**
 > That makes sense. WizTechTime is garbage!
-> **Glitch**
 
-> I'll fess up to my utter hatred of technos, but I'm not some secret tool of a Matrix cult. I don't care if you fragsacks believe me, but I'm saying straight up, I am not a part of this (deleted by sysop). If I happen to have taken a job to rid the world of a fraggin' techno and it was contracted by them, oh well. I do that all the time. As for anything Double A may have tried to send me. I'll never get it because I never stick around anyplace long enough for Matrix trackers to nail me down, so some snail mail letter has an ice cube's chance in hell of catching up to me. Maybe I'll look into jobs I take, maybe I won't, but anything that helps me rid the world of you freaks, I'll be sure to offer special low-rates for my services.
 > **Clockwork**
+> I'll fess up to my utter hatred of technos, but I'm not some secret tool of a Matrix cult. I don't care if you fragsacks believe me, but I'm saying straight up, I am not a part of this (deleted by sysop). If I happen to have taken a job to rid the world of a fraggin' techno and it was contracted by them, oh well. I do that all the time. As for anything Double A may have tried to send me. I'll never get it because I never stick around anyplace long enough for Matrix trackers to nail me down, so some snail mail letter has an ice cube's chance in hell of catching up to me. Maybe I'll look into jobs I take, maybe I won't, but anything that helps me rid the world of you freaks, I'll be sure to offer special low-rates for my services.
 
+> **Glitch**
 > I deleted dozens of lines insulting Clockwork. Stop wasting my memory stores. Keep it on point here. I also snipped the name of "Them", as Double A puts it. Don't drop it in here or we're likely to lose this forum along with the data when it pops up.
-> **Glitch**
 
-> I've heard of Tam before. He's like the bogeyman for technomancers. Far worse than even Clockwork. That headware treatment his doc performs has been the death sentence for dozens of TMs that would rather end their lives than live without the Matrix. The upside is that most don't set off their cortex bombs and they get found during the autopsy. Though that is also the bad news because post-mort docs all over have been injured when they went to check the cranial cavity. Tam, or at least his MO, is connected to investigations in most corps and nations all over the world.
 > **Stone**
+> I've heard of Tam before. He's like the bogeyman for technomancers. Far worse than even Clockwork. That headware treatment his doc performs has been the death sentence for dozens of TMs that would rather end their lives than live without the Matrix. The upside is that most don't set off their cortex bombs and they get found during the autopsy. Though that is also the bad news because post-mort docs all over have been injured when they went to check the cranial cavity. Tam, or at least his MO, is connected to investigations in most corps and nations all over the world.
 
-> Nice thing about corporate police running cities is the connectivity between systems. If we could get the big boys (KE, Lone Star, Minuteman, etc.) to play nice together it would be even better, but that's a pipe dream.
 > **Killjoy**
+> Nice thing about corporate police running cities is the connectivity between systems. If we could get the big boys (KE, Lone Star, Minuteman, etc.) to play nice together it would be even better, but that's a pipe dream.
 
+> **Bull**
 > That would be a nightmare, not a pipe dream. They'd have most runners pinned in a few days. The only thing keeping them off us would be their corporate masters who would then just blackmail us into working for them. Don't lose that positive attitude, kid, but maybe leave some naivete behind.
-> **Bull**
 
-> Drek! Seagull! I heard nothing but positive things. She's got a solid rep and a great list of contacts. Though, I guess one of those is a piece of drek, but everything I've heard of her has been solid chill.
 > **KC**
+> Drek! Seagull! I heard nothing but positive things. She's got a solid rep and a great list of contacts. Though, I guess one of those is a piece of drek, but everything I've heard of her has been solid chill.
 
+> **Netcat**
 > The Hitsec protocol was vicious. It buried targets in IC, launching program after program in a cascade of death. It focused heavily on every derivation of black IC available, operating on the concept that a brain-fried target has no chance of becoming a repeat offender against the system.
-> **Netcat**
 
+> **Traveler Jones**
 > Transys-Neuronet is rocketing up in several areas now that Celedyr isn't flooding money into his pet project. With the fate of Eliohann within Boston still unknown, the efforts to wake him from his coma have been at least somewhat successful, Celedyr's funding is moving to more lucrative projects and getting T-N back on the big-money track it was on before Celedyr became obsessed with fixing his kin.
-> **Traveler Jones**
 
+> **Respec**
 > I walked from a job in London involving a deep hack into T-N systems. The job was supposed to be a data insert with some other edits, but I didn't think the cash was enough for that kind of trouble. Celedyr and company have solid e-security backed up by those Knights of Rage nutbags. Could have been O'Ryan trying to get her background changed so she could move over.
-> **Respec**
 
+> **Ire**
 > Celedyr's still paying some attention to business in the newly reopened NEMAQZ. The wyrm has been putting cash into intel ops and runs in the area trying to get an idea of what happened to Eliohann. If it weren't for the fact that the folks up near Salem, where he supposedly resides, are complete wackjobs, he may have figured something out by now, but they take their privacy seriously. Which means they're probably hiding something.
-> **Ire**
 
+> **Slamm-0!**
 > Either a crazy dragon or a dead dragon. Neither one is going to get them the kind of attention they want.
-> **Slamm-0!**
 
-> Or a perfectly sane dragon who now has a very quiet place to live and a very dedicated group of followers to worship him. Eliohann was never about ruling the world.
 > **Ire**
+> Or a perfectly sane dragon who now has a very quiet place to live and a very dedicated group of followers to worship him. Eliohann was never about ruling the world.
 
+> **Plan 10**
 > The Lost Children have expanded to the Seattle and PWV Metroplexes. The Seattle cell had a serious recruitment push not too long ago and may be larger than the normal four-person size, or they have more than one cell. The ones in PWV seem focused on disrupting Evo's efforts in the city, including their relationship with other Monads who stayed back.
-> **Plan 10**
 
+> **Slamm-0!**
 > I know the decker who set up the host for Hoodville. Goes by the handle of 3D, and he's been buddying up with hackers with serious assault talent over the past few months. He may be looking to put together a force to try to clear out his host. I don't know if that is even possible, but he's the type to share the info on whether or not it works after the fact. Though if he doesn't say anything, it probably failed and he's a dead troll.
-> **Slamm-0!**
 
-> 3D has also been looking for talent willing to go off-world as well. Seems he has an interest in Gagarin. He's not alone in this. Several corps have started looking for shadowrunners willing to be spacerunners in order to gain access to any intel the Monads may have left behind. Evo has the jump, since they still had an in, but they lost tons of personnel, leaving the place ripe for the picking.
 > **Fianchetto**
+> 3D has also been looking for talent willing to go off-world as well. Seems he has an interest in Gagarin. He's not alone in this. Several corps have started looking for shadowrunners willing to be spacerunners in order to gain access to any intel the Monads may have left behind. Evo has the jump, since they still had an in, but they lost tons of personnel, leaving the place ripe for the picking.
 
-> Z-O, and therefore the Corporate Court, has a solution. Great. Yet another thing they can lord over us to keep us down.
 > **Balladeer**
+> Z-O, and therefore the Corporate Court, has a solution. Great. Yet another thing they can lord over us to keep us down.
 
-> The Blazing Parrot is well known in that region as the spot to collect bounties on technocritters. Not sure if that means collusion with these things, but it's definitely a similar area of interest.
 > **Picador**
+> The Blazing Parrot is well known in that region as the spot to collect bounties on technocritters. Not sure if that means collusion with these things, but it's definitely a similar area of interest.
 
-> PWV transit hub? Is that the one that was rumored to have been run by an AI? That's why they got so efficient, so fast. Now, the question to ask is if that AI is still there, or if it got decoded when the host was seeded.
 > **Traveler Jones**
+> PWV transit hub? Is that the one that was rumored to have been run by an AI? That's why they got so efficient, so fast. Now, the question to ask is if that AI is still there, or if it got decoded when the host was seeded.
 
-> Anyone else find it strange that he named places this was sent? If THEY get ahold of a copy, which they obviously have because it's getting deleted from here, then they know where else to look.
 > **Ecotope**
+> Anyone else find it strange that he named places this was sent? If THEY get ahold of a copy, which they obviously have because it's getting deleted from here, then they know where else to look.
 
-> I read it as something for us. Something to let us know there are others out there who share this burden. We know that if we lose our copy, there are others who have it as a backup.
 > **Netcat**
+> I read it as something for us. Something to let us know there are others out there who share this burden. We know that if we lose our copy, there are others who have it as a backup.
 
-> Or it's a list of targets for someone to hit and clear out every hardcopy he's sent.
 > **Thorn**
+> Or it's a list of targets for someone to hit and clear out every hardcopy he's sent.
 
+> **Glitch**
 > There are more copies out there than he has mentioned. I already made sure of that.
-> **Glitch**
 
-> Way to paint the target.
 > **Hard Exit**
+> Way to paint the target.
 
-> "Do not live in fear of the darkness. Shine a light on it and you will see there is nothing to fear." - FastJack
 > **Glitch**
+> "Do not live in fear of the darkness. Shine a light on it and you will see there is nothing to fear." - FastJack
 
-> Drek! That's what they're doing. Chummers have been getting brainfried left and right on Aegis gigs. Fair warning for anyone jumping on that money train, it's no walk in the park.
 > **Bull**
+> Drek! That's what they're doing. Chummers have been getting brainfried left and right on Aegis gigs. Fair warning for anyone jumping on that money train, it's no walk in the park.
 
-> Not well hidden, but I don't mind. If you need Monad assistance, I'm the Plan you talk to.
 > **Plan 10**
+> Not well hidden, but I don't mind. If you need Monad assistance, I'm the Plan you talk to.
 
-> Feel free to also talk to me, and I'll leave a message for my other half.
 > **Plan 9**
+> Feel free to also talk to me, and I'll leave a message for my other half.
 
-> That's not really how that works, right?
 > **Respec**
+> That's not really how that works, right?
 
-> That claim at the end? "De la Mar was right"? The line that makes me look at this whole thing and think it's all bogeyman hooey. Danielle de la Mar is a monster. She is the monster, when it comes to the Matrix. Her changes add more shackles, and since the last set she helped impose were obviously not tight enough, now she wants to lock us down even further. Double A, thanks for the effort, but that one paragraph makes me discount everything you typed.
 > **Slamm-0!**
+> That claim at the end? "De la Mar was right"? The line that makes me look at this whole thing and think it's all bogeyman hooey. Danielle de la Mar is a monster. She is the monster, when it comes to the Matrix. Her changes add more shackles, and since the last set she helped impose were obviously not tight enough, now she wants to lock us down even further. Double A, thanks for the effort, but that one paragraph makes me discount everything you typed.
