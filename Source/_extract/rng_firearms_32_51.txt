@@ -1,0 +1,1100 @@
+
+===== PAGE 32 =====
+HEAVY PISTOLS
+CAVALIER DEPUTY
+With the return of Western aesthetics in fashion, the 
+Deputy has become a choice for modern-day urban 
+cowboys and gunslingers. Less punishing to the wrist 
+and carrying a seven-chamber cylinder, this pistol is a 
+choice competitor to the Ruger Super Warhawk.
+PSK-3 COLLAPSIBLE  
+HEAVY PISTOL
+Designed for the Russian UGB secret police in 2061, this 
+pistol is able to fold up into a box barely larger than an 
+old-style wallet when the clip is removed. Formerly a 
+clandestine weapon made only for the UGB, information 
+about it leaked to the public rather quickly and it became 
+a popular choice for protection details and spy agencies 
+around the world. Able to flip into combat mode with 
+the press of a single button, it requires a custom silencer 
+that must be bought separately for 700¥.
+HEAVY PISTOLS
+CAVALIER DEPUTY
+ACC DV AP MODE RC AMMO AVAIL COST
+6 7P –1 SA — 7(cy) 3R 225¥
+PSK-3 COLLAPSIBLE HEAVY PISTOL
+ACC DV AP MODE RC AMMO AVAIL COST
+4 8P –1 SA — 10(c) 16F 1,050¥
+CAVALIER DEPUTY
+PSK-3 COLLAPSIBLE
+HEAVY PISTOL
+>> ARSENAL <<
+32    HEAVY PISTOLS >>
+===== PAGE 33 =====
+SAVALETTE GUARDIAN
+This heavily chromed street monster of a pistol has been 
+popular in the shadows for over two decades. A heavy 
+pistol with an integrated smartgun link, an internal mi-
+cro-gyro recoil absorption system, and the option for 
+burst firing, it’s a very reasonable weapon for an experi-
+enced owner who expects to be in heavy combat.
+> A lot of private investigators and bodyguards who 
+work in nasty places or with nasty people carry this. The 
+micro-gyro system requires a lot of maintenance, but 
+it’s worth it!
+> Hard Exit
+ONOTARI ARMS VIOLATOR
+Constantly updated to take advantage of its reputation 
+for using the latest integrated electronics and modern 
+materials, this pistol has become the poster child on gun 
+ranges everywhere as the latest for cutting-edge shoot-
+ists. It comes with a smartlink, basic safe target system, 
+and an advanced safety system (also basic), all updated 
+constantly for a modest annual fee to Onotari Arms. A 
+patented delayed-recoil operation, along with caseless 
+ammunition to cut down on moving parts, help with 
+making tight, double-tapped groups in targets.
+> Tech geeks everywhere love this thing—on the other side 
+of a fight, since it can do so much once you hack into it. If 
+you’ve got one, make sure you protect it properly!
+> Slamm-0!
+HEAVY PISTOLS
+SAVALETTE GUARDIAN
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (7) 8P –1 SA/BF* 1 12(c) 6R 870¥
+Standard upgrades: Smartlink
+ONOTARI ARMS VIOLATOR
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (7) 7P –1 SA 1 10(c) 7R 550¥
+Standard upgrades: Advanced safety system, internal smartgun, 
+safe target system base
+SAVALETTE 
+GUARDIAN
+ONOTARI ARMS 
+VIOLATOR
+>> ARSENAL <<
+<< HEAVY PISTOLS    33
+===== PAGE 34 =====
+MACHINE PISTOLS
+PPSK-4 COLLAPSIBLE 
+MACHINE PISTOL
+Originally designed for the Russian UGB secret police, 
+this firearm comes from the factory with a laser sight 
+and a folding stock. It also can fold up into an innoc-
+uous-looking box when the clip is removed and the 
+stock collapsed. No other accessories can be added to 
+it, due to its folding design. Its “top secret” nature was 
+compromised quickly in the early ‘60s, and it has since 
+become a popular choice for armored vehicle crews 
+who need a compact weapon to handle the tight con-
+fines they typically have to deal with.
+ONOTARI ARMS EQUALIZER
+A boxy machine pistol that comes from the factory 
+with a laser sight, collapsible stock, and no iron sights 
+for a snag-free draw. It uses cased ammunition only. 
+This Saeder-Krupp weapon is popular with bodyguards 
+and smaller security companies due to the ease of le-
+gally acquiring it. The strong bullpup mechanism ejects 
+the spent shells up and to the right, making it slightly 
+less popular with left-handed users.
+PPSK-4 COLLAPSIBLE
+MACHINE PISTOL
+ONOTARI ARMS 
+EQUALIZER
+MACHINE PISTOLS
+PPSK-4 COLLAPSIBLE MACHINE PISTOL
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (6) 6P — SA/BF (1) 30(c) 17F 2,800¥
+Standard upgrades: Folding stock, laser sight
+ONOTARI ARMS EQUALIZER
+ACC DV AP MODE RC AMMO AVAIL COST
+4 (5) 7P — BF/FA (1) 12(c) 7R 750¥
+Standard upgrades: Folding stock, laser sight
+>> ARSENAL <<
+34    MACHINE PISTOLS >>
+===== PAGE 35 =====
+ULTIMAX 70
+Originally designed for clandestine operation, the lack 
+of wireless systems from the firearm makes it popular 
+for concealed carry. With an integrated laser sight and 
+gas-vent system, it is accurate and easy to control in 
+burst fire, but it also has the capacity to suppress oppo-
+nents for a short time. Ultimax continues to have a lack 
+of modern (read: wireless) accessories factory installed, 
+but it offers a host of after-market modifications.
+> While professional spies scoff at this weapon for being 
+too large for true clandestine work, it is a nice alternative 
+to the Ares Predator as an everyday carry piece for 
+shadowrunners. Sometimes you just have to make 
+everyone drop for a few seconds to make all the difference.
+> Sticks
+SUBMACHINE GUNS
+ARES EXECUTIONER
+The Executioner is still the ultimate in concealable fire-
+power for the executive protection professional. The 
+weapon neatly fits down into a specially designed 
+small briefcase, available in a number of different styles 
+and colors (+400¥ per extra case). 
+The weapon can be fired from the briefcase by push-
+ing a concealed stud, or through the user’s PAN with 
+smartlinked versions (+500¥). Recoil penalties are dou-
+bled when fired from the briefcase, but the surprise the 
+Executioner provides may be enough to ensure survival. 
+The Executioner also features an integral sound suppres-
+sor and an extendable stock for occasions when it is re-
+moved from its case. 
+> A nice thing for people in my line of business, but the best 
+ones never need this kind of firepower.
+> Mihoshi Oni
+> I think you underestimate some of the other posters on 
+the board.
+> Kane
+ULTIMAX 70
+ARES
+EXECUTIONER
+MACHINE PISTOLS
+ULTIMAX 70
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (6) 6P — BF/FA 2 15(c) 7R 800¥
+Standard upgrades: Gas-vent 2, laser sight
+SUBMACHINE GUNS
+ARES EXECUTIONER
+ACC DV AP MODE RC AMMO AVAIL COST
+4 (6) 7P — SA/BF/FA (1) 30(c) 14F 1,000¥
+Standard upgrades: Folding stock, sound suppressor
+The Executioner takes a Simple Action to remove from the 
+case for conventional usage and removal is required to reload 
+its caseless ammunition.
+>> ARSENAL <<
+<< SUBMACHINE GUNS    35
+===== PAGE 36 =====
+HK URBAN COMBAT
+HK continues to offer the Urban Combat as its high-end 
+entry into the submachine gun market. The weapon is 
+entirely constructed with non-metallic components 
+and is not detectable with traditional MAD sensors. 
+H&K has spared no expense in the weapon’s construc-
+tion with an internal smartlink, a fixed sound suppres-
+sor, and a customized hydraulic recoil compensation 
+system. The price of these bonuses is that the weapon 
+is unable to accept further modifications.
+> I met a runner who called himself Killzone2 who carried 
+one of these. He never said where he got it from.
+> /dev/grrl
+> He worked exclusively for Ares until he tried to exceed his 
+mission parameters. I heard he eventually ended up in a 
+Lone Star facility.
+> Sticks
+ASSAULT RIFLES
+AK-98
+This rifle is an AK-97 with an integral under-barrel gre-
+nade launcher. Recently removed from the Russian in-
+ventory as it has largely been replaced by the AN-39, it 
+is still being manufactured for export customers.
+> I can provide bulk discounts, if any of you are interested.
+> Red Anya
+> I know a couple of minor players who might be interested 
+in a few cases each. Can you arrange shipping?
+> Picador
+> I wouldn’t recommend this for serious work. The grenade 
+launcher is too inaccurate for urban room clearing.
+> Hard Exit
+> I find they work well enough when you use non-lethal 
+chemical agents. Then again I try to minimize killing off 
+potential future customers.
+> Marcos
+HK URBAN COMBAT
+AK-98
+SUBMACHINE GUNS
+HK URBAN COMBAT
+ACC DV AP MODE RC AMMO AVAIL COST
+7 (9) 8P — SA/BF/FA 2 36(c) 16F 2,300¥
+Standard upgrades: Smartlink, sound suppressor
+ASSAULT RIFLES
+AK-98
+ACC DV AP MODE RC AMMO AVAIL COST
+5 10P –2 SA/BF/FA — 38(c) 8F 1,250¥
+Grenade Launcher
+3 * * SS — 6(m) — —
+*As grenade
+>> ARSENAL <<
+36    ASSAULT RIFLES >>
+===== PAGE 37 =====
+ARES HVAR
+The longest continually produced member of Ares’ hy -
+per velocity line, the HVAR is a complete small arms 
+solution. It features an integral smartlink, a rigid stock 
+with shock pad and a custom recoil reduction system, 
+which is optimized for the weapon’s high rate of fire. 
+Capable of accepting limited modification, the HVAR’s 
+barrel is unable to support further additions.
+> Spray and pray at its best. Or worst. I’ve never been that 
+fond of the theory behind these weapons. They cause a 
+tremendous logistics issue for field operations.
+> Picador
+> I’ve found them effective is target-rich environments. The 
+rifle lays down suppressive fire like nobody’s business, 
+but unlike Picador I don’t play in jungles.
+> Sticks
+HK XM30
+The XM30 is H&K’s modular weapon system. Each kit 
+comes with a shock-pad-equipped stock, smartgun 
+system, imaging scope, two underbarrel secondary 
+weapons, a secondary feed mechanism, and four dif-
+ferent barrels along with a bipod for the heavy options. 
+The XM30 is intended to equip entire military or police 
+units with the ability to change roles based on the op-
+erational situation. 
+> I find them too complex for most of the runners who get 
+them. The type of street sam who tends to shoot first 
+seem to get confused with which option to use first.
+> Glitch
+> I don’t have a problem with mine. It’s easier to stow a 
+bag of parts than keep a half dozen full-sized rifle-caliber 
+weapons properly stored.
+> Rock Pilot
+ASSAULT RIFLES
+ARES HVAR
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (7) 8P — SA/BF/FA 3 (4) 50(c) 11F 2,400¥
+Standard upgrades: Shock pad, smartlink
+HK XM30
+ARES HVAR
+>> ARSENAL <<
+<< ASSAULT RIFLES    37
+ASSAULT RIFLES
+HK XM30 ASSAULT RIFLE
+ACC DV AP MODE RC AMMO AVAIL COST
+6 (8) 9P –2 SA/BF/FA (1) 30(c) 15F 4,500¥
+Carbine
+6 (8) 9P –2 SA/BF/FA (1) 30(c) — —
+Sniper
+7 (9) 9P –2 SA 2 (3) 10(c) — —
+LMG
+6 (8) 9P –2 BF/FA 2 (3) 100(belt) — —
+Shotgun
+3 (5) 10P –1 SA (1) 10(c) — —
+Grenade Launcher
+4 * * SS — 6(c) — —
+Standard upgrades: Imaging scope, shock pad, smartlink
+The XM30 takes an Automatics + Agility (5, 1 minute) Extended 
+Test to refit to a new configuration. The Carbine uses the SMG 
+range table. 
+*As Grenade
+===== PAGE 38 =====
+NITAMA OPTIMUM II
+The standard weapon of the Imperial Japanese mili-
+tary, the Optimum II is getting a long in the tooth. The 
+weapon gained mass-media fame with General Saito’s 
+troop’s performance in San Francisco. It has a recoil-ab-
+sorbing shock pad and a smartgun system.
+> Japan has announced a competition to replace the 
+Optimum II, and Nissan wasn’t even offered a tender.
+> Baka Dabora
+> Using the shotgun to open doors is an effective technique 
+in close quarter combat. It also works well when the 
+bounty decides to hunker down waiting for back up.
+> Sticks
+> I’m more interested in where the rifles will end up once 
+Japan starts to dispose of them.
+> Red Anya
+> I’ve heard Shiawase has the inside track on the new 
+contract. The Fatal Light is popular with the generals, and 
+I’m sure the future work opportunities don’t hurt either.
+> Beaker
+SNIPER RIFLES
+TERRACOTTA ARMS AM-47
+The AM-47 is a large sniper rifle, primarily intended 
+for the larger metahuman species. The rifle features a 
+number of advanced electronics to assist the shooter in 
+destroying their target. The AM-47 is provided with an 
+imaging scope, smartgun system, underbarrel weight, 
+bipod, and a safe target system with an extended barrel 
+for increased range over the competition.
+> I’m still amazed with the size of this rifle. I’ve seen trolls 
+struggle with carrying it, and it’s longer than some elves 
+are tall.
+> Beaker
+> The extended barrel helps with the longer-range shots—
+and the shorter-ranged ones too.
+> Rock Pilot
+NITAMA OPTIMUM II
+ASSAULT RIFLES
+NITAMA OPTIMUM II
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (7) 9P –2 SA/BF/FA 1 30(c) 10F 2,300¥
+Shotgun
+4 (6) 10P –1 SA 1 5(m) — —
+Standard upgrades: Shock pad, smartlink
+SNIPER RIFLES
+TERRACOTTA ARMS AM-47
+ACC DV AP MODE RC AMMO AVAIL COST
+7 (9) 15P –4 SA 1 (3) 18(c) 14F 35,000¥
+Standard upgrades: Bipod, commlink (Device Rating 5), imaging 
+scope (low-light vision, image link, vision magnification), smartgun
+TERRACOTTA ARMS 
+AM-47
+>> ARSENAL <<
+38    SNIPER RIFLES >>
+===== PAGE 39 =====
+ONOTARI ARMS JP-K50
+The Onotari JP-K50 has an unusual past, being origi-
+nally conceived for the next round of the Euro Wars, 
+which never came about. Or at least, haven’t yet. It 
+was shelved for decades, and only recently came back 
+into the production queue during the so-called Drag-
+on Civil War. Able to switch between long-range fire 
+against a single hard armored target (such as a drag-
+on) or firing bursts against clusters (such as drakes), it 
+was seen as a weapon that could be issued to entire 
+squads. Not mass produced, but produced enough that 
+cost trumped quality in many ways, the final result is 
+a sort of super-sized assault rifle rather than the kind 
+of high-quality precision design that Saeder-Krupp is 
+world famous for.
+> I had trouble believing that the dragon-run corp would 
+create an anti-dragon gun, but then every mercenary 
+that was hired to take out Alamais got to take one of 
+these with them.
+> Stone
+> And not a lot of them survived. Just sayin’.
+> Sticks
+PIONEER 60
+Morgan Boone’s been the face of the Kentucky Long 
+Rifle Company for decades, and his Pioneer 60 is a 
+household staple in rural areas across the CAS and 
+UCAS even if his company refuses to sell it to anyone 
+in the NAN. Simple but effective, it’s a rugged design 
+that’s perfect for someone that just wants to get out of 
+the house for a weekend of drinking beer and popping 
+off a few rounds into the local fauna. 
+> Boone’s got a powerful hate-on for the NAN, especially 
+the Sioux. His ancestor’s rolling in his grave.
+> Stone
+> He was in the army back in the day. He was in Denver 
+when the war got called off and never got his chance to 
+go fight. Sixty years later, he’s still waiting for that war.
+> Sticks
+> He and Clayton Wilson used to be tight. Went on vacations 
+together, took business trips together, even hired him on 
+as a consultant for a year after Clay got forced out of Lone 
+Star as a favor. He’s against “messing with God’s will, ” and 
+they stopped talking after Clay underwent léonization. Old 
+Boone is just too mean to die.
+> Kay St. Irregular
+SNIPER RIFLES
+ONOTARI JP-K50
+ACC DV AP MODE RC AMMO AVAIL COST
+7 12P –3 SA/BF 1 25(c) 13F 12,500¥
+Standard upgrades: Shock pad
+PIONEER 60
+ACC DV AP MODE RC AMMO AVAIL COST
+5 10P –1 SS — 5(m) 2R 500¥
+ONOTARI ARMS  
+JP-K50
+>> ARSENAL <<
+<< SNIPER RIFLES    39
+===== PAGE 40 =====
+BARRET MODEL 122
+The definitive anti-material rifle, Barret has been pro-
+ducing world-class firearms for decades, the Model 
+122 replaces the Model 121 as the company’s top-line 
+offering. The rifle continues to be fitted with a sound 
+suppressor, smartgun system and a folding bipod to 
+help enhance long-range accuracy.
+> I’ve heard of shooter using these for some amazing shots, 
+but I can’t see how you slip one into a good blind without 
+getting caught.
+> Rock Pilot
+> I’m not sure why you would want one in an urban setting, 
+but we’ve used them as part of an anti-vehicle ambush.
+> Picador
+> I’ve used a Barret a couple of times. There’s nothing like 
+making an Azzie officer’s head explode to convince the 
+rest of them to go away.
+> Kane
+SHOTGUNS
+AUTO-ASSAULT 16 
+A favorite among military and mercenary units, the 
+rugged and deadly AA-16 is the latest in the “AA” 
+line of assault shotguns. Unofficially nicknamed “The 
+Warhammer” by its users, the fully-auto capable AA-
+16 provides superior firepower and ammo capacity 
+in short to medium ranged engagements while com-
+pletely dominating in a close-quarters battle. Specially 
+designed internal mechanisms also absorb most of the 
+weapon’s recoil, making the AA-16 extremely easy to 
+handle in combat. 
+> The ‘Hammer is also easy to maintain. Like its predecessor 
+the AA-12, its internals are made of stainless steel that 
+resists the buildup of all sorts of gunk and needs minimal 
+(if any) lubrication.
+> Picador 
+> They’re also very popular for use on drones or automated 
+turrets; especially mine.
+> Rigger X 
+BARRET MODEL 122
+AUTO-ASSAULT 16
+SNIPER RIFLES
+BARRET MODEL 122
+ACC DV AP MODE RC AMMO AVAIL COST
+7 (9) 14P –6 SA (2) 14(c) 20F 38,500¥
+Standard upgrades: Bipod, smartgun
+SHOTGUNS
+AUTO-ASSAULT 16
+ACC DV AP MODE RC AMMO AVAIL COST
+4 13P –1 SA/BF/FA –2 10(c) or 
+32(d) 18F 1,800¥
+>> ARSENAL <<
+40    SHOTGUNS >>
+===== PAGE 41 =====
+MOSSBERG AM-CMDT
+Shotguns aren’t known for their accuracy, but Mossberg 
+hopes the latest version of their venerable AM-CMDT 
+will change that. After merging their classic combat 
+shotgun design with the latest in smartgun technology, 
+Mossberg recently began a marketing campaign aimed 
+at law enforcement and security agencies that declared 
+the AM-CMDT a “perfect balance between accuracy 
+and firepower.” While previous versions of the CMDT 
+only used flechette ammunition, the current one is ca-
+pable of accepting all standard shotgun rounds.
+> The accuracy lives up to the hype, but the low ammo 
+capacity doesn’t lend itself to full-auto use. With full 
+ammo, you’ll get one, maybe two trigger pulls before 
+reload is necessary. Best use for this weapon: pick a target 
+and put it down.
+> Hard Exit 
+FRANCHI SPAS-24
+An upgraded version of the classic SPAS-22, the -24 
+is a rugged, pump-action combat gun comes standard 
+with a smartgun system and integrated weapon light 
+mounted in the fore-stock. But instead of the tradition-
+al folding stock, the -24 comes with a rigid stock and 
+shock pad. 
+> Even though it’s the same gun with an after-market stock 
+slapped on, the SPAS-24 is proving to be just as popular 
+with law enforcement/security agencies as the older -22s. 
+It may be slightly more difficult to store a rigid-stock versus 
+folding stock in a patrol cruiser, but the badges appreciate 
+the fact that they don’t have to take those extra seconds to 
+unfold the stock anymore. In a gunfight, seconds count. 
+> Sticks
+FRANCHI SPAS-24
+MOSSBERG AM-CMDT
+SHOTGUNS
+MOSSBERG AM-CMDT
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (7) 12P –1 SA/BF/FA — 10(c) 12F 1,400¥
+Standard upgrades: Smartlink
+FRANCHI SPAS-24
+ACC DV AP MODE RC AMMO AVAIL COST
+4 (6) 12P –1 SA/BF –1 10(c) 12F 1,050¥
+Standard upgrades: Shock pad, smartgun system
+>> ARSENAL <<
+<< SHOTGUNS    41
+===== PAGE 42 =====
+REMINGTON 990
+Whether you’re on a budget and need a good sol-
+id boom-stick, or looking for a nice base weapon to 
+modify the drek out of, you can’t go wrong with the 
+Remington 990. A solid, no-frills design, the 990 has 
+been in steady production for almost seventy years and 
+is widely available in almost every part of the world. 
+Professionals appreciate the weapon’s ruggedness and 
+reliability right out of the box while novices appreciate 
+its ease of use and low cost. The 990 comes standard 
+with a top rail mount and a smaller mount under the 
+fore-stock for accessories.
+ 
+> A great weapon for those who consider shooting a 
+secondary skill. 
+> DangerSensei
+> And my favorite varmint-gun!
+> Kane
+> Great, he’s drunk-posting again.
+> /dev/grrl
+MACHINE GUNS
+GE VINDICATOR MINI-GUN (LMG)
+While technically classified as a light machine gun, 
+this six-barreled, belt-fed, rotary lead-spitter is usually 
+mounted on vehicles, drones, or light aircraft. The “Vin-
+di” is also popular with metatypes of a larger stature. 
+Despite the relatively light ammo it uses, the Vindicator 
+has exceptional armor-piercing capabilities and decent 
+recoil management. However, the weapon is also large 
+and cumbersome. Ammo is available in the standard 
+100 or GE’s custom 200-round belt (not compatible 
+with any other weapon system, cost: 100 nuyen). Op-
+erating the Vindicator requires a few seconds for the 
+barrels to rotate before it can fire, which can only be 
+done in the Full Auto mode. A smartgun system also 
+comes standard.
+SHOTGUNS
+REMINGTON 990
+ACC DV AP MODE RC AMMO AVAIL COST
+4 11P –1 SA — 8(c) 6R 950¥
+Standard upgrades: Slide mounts (top and bottom)
+MACHINE GUNS
+GE VINDICATOR MINI-GUN
+ACC DV AP MODE RC AMMO AVAIL COST
+4 (6) 9P –4 FA –2 200(belt) 24F 6,000¥
+Standard upgrades: Slide mounts (top and bottom), smartgun system
+Users must take a Simple Action to rotate the barrels of the 
+Vindicator before it can fire.
+REMINGTON 990
+GE VINDICATOR 
+MINI-GUN
+>> ARSENAL <<
+42    MACHINE GUNS >>
+===== PAGE 43 =====
+SA NEMESIS (LMG)
+Introduced a few years ago by Shiawase Armaments, the 
+Nemesis was designed to be the ultimate support weap-
+on for modern infantry units. While its performance stats 
+are comparable to most other LMGs, the Nemesis stands 
+out because of the various systems that come standard 
+on it. A safe target system with image recognition and 
+one extra set apiece of RFID data and image profiles help 
+prevent friendly fire incidents while the standard smart-
+gun system enhances overall accuracy. 
+> Expensive, but a damn good investment in my not-so 
+humble opinion. My gunners love this thing and various 
+squads have sometimes paid out-of-pocket to keep them 
+on the TO and E. The safe target systems alone are worth it. 
+> Picador
+FN MAG-5 (MMG)
+A common sight on the modern battlefield of the Sixth 
+World, the MAG-5 is often seen as a vehicle-mounted 
+weapon or defending a fixed position. While its overall 
+accuracy is considered slightly sub-par by some, few can 
+deny the raw power of this weapon. A laser sight, gas-
+vent 2 system, and under-barrel tripod come standard. 
+> Something the marketing department never mentions: 
+the ergonomics on this thing SUCK! Almost everyone I’ve 
+met who uses a MAG-5 modifies the grip in some way, 
+myself included; and not because I’m a troll!
+> Beaker
+MACHINE GUNS
+SA NEMESIS
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (7) 9P –2 BF/FA –2 50(c) or 
+100(belt) 16F 6,500¥
+Standard upgrades: Gas-vent 2, Safe Target System (20 RFID data 
+sets, 20 image profiles), smartgun system
+FN MAG-5
+ACC DV AP MODE RC AMMO AVAIL COST
+4 (5) 11P –3 FA –2 (–8) 50(c) or 
+100(belt) 18F 8,500¥
+Standard upgrades: Gas-vent 2, laser sight, tripod
+FN MAG-5
+SA NEMESIS
+>> ARSENAL <<
+<< MACHINE GUNS    43
+===== PAGE 44 =====
+ULTIMAX MMG
+Normally associated with militaries and mercenaries 
+units of the Pacific Rim, the Ultimax MMG has made 
+its way into other theaters of operation and saw signif-
+icant action with units who fought in the recent Am-
+azonia–Aztlan War. During that conflict, units fielding 
+the Ultimax made an impression on both allies and foes 
+alike. Because of its compact and somewhat unknown 
+design, the Ultimax is sometimes mistaken for an LMG 
+or EBR at long distances, much to the detriment of en-
+emy forces. Standard equipment includes a foregrip for 
+maneuvering fire, a laser sight for enhanced accuracy, 
+and a tripod for use when fired in a static position. 
+RUHRMETALL SF-20 (HMG)
+When the famed mercenary unit MET2000 commis-
+sioned Ruhrmetall for a brand-new HMG, they only had 
+two guidelines: make it easy to customize and make 
+it powerful. The result was the SF-20, one of the hard-
+est-hitting HMGs on the planet. The weapon quickly 
+became a mainstay in the MET2000’s mechanized and 
+assault forces. Easy-access construction points allows 
+for easy customization while standard equipment in-
+cludes a gas-vent system, a hip pad brace, and laser 
+sight. 
+> As part of their contract with Ruhrmetall, only “select” 
+clients approved by MET2000 could purchase the 
+SF-20. After their recent mauling in South America, 
+they’ve relaxed that policy considerably and dumped 
+several surplus SF-20s on the market to generate 
+emergency revenue.
+> Red Anya
+MACHINE GUNS
+ULTIMAX
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (6) 10P –2 FA –1 / –6 50(c) or 
+100(belt) 16F 7,600¥
+Standard upgrades: Foregrip, Laser Sight, Under-barrel Tripod
+RUHRMETALL SF-20
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (6) 12P –4 FA –1 (–4) 50(c) or 
+100(belt) 18F 19,600¥
+Standard upgrades: Gas-vent 3, hip pad bracing system, laser sight
+RUHRMETALL SF-20
+ULTIMAX
+>> ARSENAL <<
+44    MACHINE GUNS >>
+===== PAGE 45 =====
+ULTIMAX HMG-2
+With the success of their standard MMG, Ultimax de-
+cided to gain their piece of the HMG market pie. The 
+designers amped up their MMG design and called it 
+the HMG-2. The rushed development coupled with 
+cost-cutting measures resulted in an underpowered 
+and inaccurate base weapon that’s sub par compared 
+to other weapons in its class unless significant modifi-
+cations are made. Standard equipment includes a laser 
+sight and under-barrel tripod. 
+> Piece. Of. Drek. I got a case of these as payment for a job, 
+but the first time I used a couple in a fight, I got nothing 
+but malfunctions. Almost got my head shot off.
+> Kane
+> What, no tale of bloody retribution?
+> Bull
+> Haven’t found him yet. 
+> Kane
+CANNONS/
+LAUNCHERS
+ARES THUNDERSTRUCK  
+GAUSS RIFLE
+Ares has had there fair share of arms troubles over the 
+past few years but this was not one of them. The Thun-
+derstruck has been a massive market success, gaining 
+even more brand recognition than the Panther XXL 
+in the assault cannon category. It doesn’t pack quite 
+the punch of a standard AC, but its lighter recoil load, 
+quicker cycle time, and unmatched armor penetration 
+have gone a long way to sway those consumers con-
+cerned about the heavier price tag.
+MACHINE GUNS
+ULTIMAX HMG-2
+ACC DV AP MODE RC AMMO AVAIL COST
+4 (5) 11P –4 FA –6 50(c) or 
+100(belt) 16F 16,000¥
+Standard upgrades: Laser sight, tripod
+ARES THUNDERSTRUCK GAUSS RIFLE
+ULTIMAX HMG-2
+CANNONS/LAUNCHERS
+ARES THUNDERSTRUCK GAUSS RIFLE
+ACC DV AP MODE RC AMMO AVAIL COST
+7 (8) 15P –8 SA (1) 10(c) + 
+Energy 24F 26,000¥
+Standard upgrades: Laser sight, shock pad
+The Thunderstruck uses both ammunition and energy for 
+each round fired. Power is supplied by peak-discharge battery 
+packs and consumes 1 power unit per shot. The Thunderstruck 
+can hold one power clip or draw its energy from an external 
+source such as a satchel power pack, power backpack, or 
+vehicle power if mounted.
+>> ARSENAL <<
+<< CANNONS/LAUNCHERS    45
+===== PAGE 46 =====
+OGRE HAMMER SWS  
+ASSAULT CANNON
+“Pounds like no other” is the sales slogan attached to 
+this heavy hitter. The Ogre Hammer puts a whole lot of 
+hurt downrange by improving the weapon’s recoil han-
+dling and cycle speed to allow slightly faster firing than 
+other weapons in its class. It’s called man portable, but 
+that’s a bit of a stretch. 
+ARES VIGOROUS  
+ASSAULT CANNON
+The Ares Vigorous was billed as an early competitor 
+for the Panther XXL. Early word of mouth on the early, 
+bare-bones base model was poisonous, and that car -
+ried over to the models with all the bells and whistles. 
+The nice part about that is if you don’t care about a 
+smartlink system and realize firing twice with an assault 
+cannon means you’ve done something wrong, then the 
+Vigorous is your cannon of choice.
+ONOTARI ARMS  
+BALLISTA MML
+Leave it to Saeder-Krupp to design a system great for 
+taking dragons out of the sky. The Ballista saw a lot of 
+action recently during the Dragon Wars, and mercenary 
+units have picked up quite a bit of the overstock that was 
+produced in expectation of a longer conflict. The system 
+is a backpack and launcher set up that holds four extra 
+missiles that will automatically reload after each shot. 
+The setup comes with a handheld laser designator for 
+independent targeting but the missiles can respond to 
+other designators and their own internal systems.
+> Don’t fool yourself into thinking this will take any serious 
+dragon out of the sky by itself. It can be part of a larger 
+strategy, but that strategy had better be pretty damn big.
+> Hard Exit
+ARES VIGOROUS 
+ASSAULT CANNON
+ONOTARI ARMS 
+BALLISTA
+>> ARSENAL <<
+46    CANNONS/LAUNCHERS >>
+CANNONS/LAUNCHERS
+OGRE HAMMER SWS ASSAULT CANNON
+ACC DV AP MODE RC AMMO AVAIL COST
+6 16P –4 SA — 6(c) 20F 32,000¥
+Standard upgrades: Advanced safety, integrated commlink 
+(Device Rating 4), imaging scope (night vision, flare compensation, 
+image link, magnification)
+ARES VIGOROUS ASSAULT CANNON
+ACC DV AP MODE RC AMMO AVAIL COST
+4 16P –6 SS — 12(c) 18F 24,500¥
+ONOTARI ARMS BALLISTA MML
+ACC DV AP MODE RC AMMO AVAIL COST
+Missile Missile Missile SS — 4(m) 19F 7,500¥
+The Ballista can attack with both direct and indirect missile fire. A 
+handheld laser target designator is linked to the backpack unit with 
+a fiber-optic cable securing the system from hacking. The Ballista 
+can also accept orders wirelessly from other target designators 
+linked to the user’s PAN (see PANs and WANs, p. 233, SR5). 
+The magazine is hard to replace and requires 3 Complex 
+Actions if done by a second person. The wearer would need to 
+remove the backpack (Complex Action), replace the magazine (3 
+Complex Actions), and then put the backpack back on (2 Complex 
+Actions) in order to change it themselves.
+===== PAGE 47 =====
+MITSUBISHI YAKUSOKU MRL
+A direct competitor of the Ballista, the Yakusoku trades 
+the security features and bells and whistles for the ver -
+satility of being able to fire both missiles and rockets. 
+Its dual-tube design also allows for faster firing. 
+> Faster firing is a bending of the truth. The Yak can fire both 
+tubes at once but trying to aim both at once is tough. 
+Smart users load a self-guided missile in one and a rocket 
+in the other. They aim the rocket but launch the missile at 
+the same time. 
+> Stone
+MITSUBISHI 
+YAKUSOKU MRL
+CANNONS/LAUNCHERS
+MITSUBISHI YAKUSOKU MRL
+ACC DV AP MODE RC AMMO AVAIL COST
+Missile Missile Missile SA/BF* — 4 x 2(m) 20F 14,000¥
+* The Yakosoku can load up to 4 different types of missiles, 2 in 
+each tube. The missile(s) to be launched can be chosen via the 
+integrated wireless smartgun connection as a Free Action. Firing 
+both tubes at once requires the attacker to split their dice pool or 
+use a self-guided system in one of the tubes.
+LASER WEAPON BASICS
+Laser weapons suffer no recoil. Laser weapons lose focus 
+and deliver less damage over longer distances. For each 
+range category beyond Short, decrease the weapon’s DV by 
+1 (Medium –1, Long –2, Extreme –3). Laser weapons are also 
+affected by particulate matter in the air that reduce the beam’s 
+focus. Environmental Visibility Conditions (p. 175, SR5) also 
+affect DV. Decrease the DV by 1 for each level of Visibility 
+modifiers (Light –1, Moderate –2, Heavy –3). The air condition 
+and distance modifiers stack with each other, so firing a 
+Redline at a target at Extreme Range through Moderate Fog 
+reduces the DV by 5. 
+Portable laser weapons derive their power from peak-
+discharge battery packs (see p. 52). Stationary or vehicle mounted 
+laser weapons are often directly linked to energy sources. 
+Laser weapons require the Exotic Ranged Weapon (Laser 
+Weapons) skill to use. 
+They may mount underbarrel and top mounted accessories 
+only and cannot be modified in any way.
+LASER WEAPONS
+Nothing confirms that you’re living in the future like 
+burning a hole in someone with a concentrated beam 
+of light. That’s what a laser does for you, and for some 
+people that’s reason enough to wield them. But if you 
+add on top of that the fact that they don’t leave behind 
+bullet cases and they don’t experience recoil, you per -
+haps have some more practical reasons for taking one 
+out in the field.
+>> ARSENAL <<
+<< LASER WEAPONS    47
+===== PAGE 48 =====
+ARES REDLINE
+Featured as the weapon of Ace Holt in the Cross Point: 
+Daedalus trideo trilogy, the Ares Redline laser pistol 
+has been the poster child for Ares’ laser weapons 
+program. Even though it has been on the market for 
+a number of years the Redline has not seen many im-
+provements or, as most folks were hoping, an increase 
+in production volume. 
+ARES LANCER MP LASER
+It was inevitable with the popularity of the Redline that 
+the MP-Laser line would get an upgrade and facelift to 
+fit the image of a sci-fi laser rifle, ready for an alien inva-
+sion. Though unless the aliens are attacking a high-pro-
+file Ares facility or Firewatch training facility, we likely 
+won’t see many Lancers on the front line.
+> The Lancer is the evolution of the MP-III “Dragon, ” a model 
+that had very poor product recognition and identity due to 
+the helicopter of the same name.
+> Sticks
+ARES REDLINE
+LASER WEAPONS
+ARES REDLINE
+ACC DV AP MODE RC AMMO AVAIL COST
+9 5P –10 SA —
+10(c) or 
+external 
+source
+14F 7,500¥
+The Ares Redline consumes 1 power unit per shot and draws 
+its power from a detachable power clip or an external source, 
+usually a satchel power pack. 
+It uses SMG ranges.
+ARES LANCER MP LASER
+ACC DV AP MODE RC AMMO AVAIL COST
+7 7P –10 SA —
+2 x 
+10(c) or 
+external 
+source
+18F 16,000¥
+The Archon uses 2 power units per shot and is either powered 
+by twin power clips or by an external satchel or backpack power 
+pack. It uses Assault Rifle ranges.
+ARES LANCER  
+MP LASER
+>> ARSENAL <<
+48    LASER WEAPONS >>
+===== PAGE 49 =====
+ARES ARCHON HEAVY MP LASER
+Pushing the limits of the MP denotation, the Archon 
+is Ares’ biggest personal laser system. Too heavy and 
+awkward for most users the Archon comes standard 
+with a bipod and a mount for either a tripod or gy -
+ro-mount. This bad boy will make anyone stand up and 
+take notice. 
+> More like duck for cover if they’re smart!
+> Slamm-0!
+> Actually, more like stand up and raise their arms in 
+surrender. This beast cuts through cover.
+> Sticks
+FLAMETHROWERS
+Flamethrowers are terrifying weapons that ignite 
+a stream of gasoline and oil or napalm so they can 
+spew flaming death. Older model flamethrowers 
+store their fuel in a backpack-like tank, while the 
+user holds a pistol-grip nozzle with a hose attached 
+to supply the fuel. Modern handheld flamethrowers 
+merge everything into a portable package about the 
+size of a submachine gun or assault rifle. This means 
+less fuel but a lot less shoot-the-fuel-tank-type situ-
+ations. 
+LASER WEAPONS
+ARES ARCHON HEAVY MP LASER
+ACC DV AP MODE RC AMMO AVAIL COST
+7 10P –10 SA — External 
+source 24F 35,000¥
+Standard upgrades: Bipod, tripod mount, or gyro stabilization 
+unit mount, sound suppressor
+The Archon uses 4 power unit per shot and is powered by either 
+an external battery pack (almost always a power backpack) or by 
+linking it directly into the local energy sources when used as part 
+of a permanent emplacement (for unlimited ammo as long as the 
+energy supply remains online). 
+The Archon uses sniper rifle ranges.
+ARES ARCHON HEAVY 
+MP LASER
+>> ARSENAL <<
+<< FLAMETHROWERS    49
+ALL ABOUT FLAMETHROWERS
+Flamethrowers require a small flame to ignite the fuel mixture. 
+Igniting the flame require a Complex Action to ready it. If the 
+flamethrower is connected via wireless to the users PAN, it’s 
+only a Simple Action. A wireless DNI connection makes it a Free 
+Action.
+Flamethrowers can be used to blast a single target or they 
+can be used to spread flame over a wider area in an attempt to 
+strike multiple targets. The area attack takes a Complex Action 
+and allows the user to attack up to two additional targets within 
+two meters of another target. A single Attack Test is made against 
+all targets, and they make their Defense Tests separately. The DV 
+is reduced by 2 for each additional target the flame is engulfing. 
+Flamethrowers can also be used for laying down Suppressive Fire 
+(p. 179, SR5), consuming four shots, and they can take advantage 
+of the same rules as Flechette Suppressive Fire (p. 120). 
+Flamethrowers deal fire damage (p. 171, SR5) and will set fire 
+to almost every item caught in the attack’s area of effect for at 
+least a short period of time (gamemaster’s discretion). 
+Flamethrowers use Taser ranges but suffer only a –1 penalty 
+at Extreme range and no penalty at Long range or closer. 
+Flamethrowers use the Exotic Ranged Weapon (Flamethrowers) 
+skill.
+Flamethrowers cannot mount any accessories except 
+biometric safety systems (Advanced Safety, p. 50).
+===== PAGE 50 =====
+SHIAWASE BLAZER
+Handheld flaming death! The Blazer is small and easily 
+portable. Used heavily during the Az-Am War to root 
+out Amazonian guerillas, the Blazer has found its way 
+into the standard arsenal of many mercenary and spe-
+cial operations units around the world. 
+WEAPON ACCESSORIES
+Got a gun? Great. Is it just like it was when you bought it, 
+the same model any schmuck can buy in their neighbor-
+hood Lock ‘n’ Load? Then you’re doing it wrong. You’re 
+not some ordinary, off-the-shelf person, right? You’ve 
+got your own skills and characteristics, the things that 
+make you different from anyone else, the things that 
+give you your edge. Your character’s weapon should re-
+flect that—it should have qualities that accentuate your 
+strong points and mitigate your weaknesses. 
+Let’s start with the basics of how you’re going to add 
+stuff to your weapon. When you want to add something 
+to your weapon, it’s going to go into one of six places. 
+1) One top of the weapon; 2) Underneath the barrel of 
+a weapon; 3) On the side of a weapon; 4) Internal to the 
+weapon, meaning it is built into the weapon and integral 
+to its systems; 5) Replacing or adding to the barrel; 6) 
+Replacing or adding to the stock. 
+Some accessories are easy to add—a snap-on part 
+here, a screw there, and boom, it’s done. Other parts are 
+a little more complicated and should only be put on by 
+someone who knows what they are doing.
+Given that you want to do something to modify your 
+weapon—because we just told you that you do—we 
+should talk about what you might do to your weapon. 
+So here are the mods, and what you need to know to 
+get them in place.
+Advanced safety system (modification): It’s always 
+good to make sure your weapon only goes off when you 
+want it to. The advance safety system works along with 
+your smartlink (meaning that you need a smartlink to 
+have one of these) to make sure only an authorized user 
+fires the gun. There are a few ways to pull this off—one 
+is to have biometric scanners in the grip or butt of the 
+weapon, or the system can scan for an authorized RFID 
+tag or PAN within 1 meter of the weapon. (This works 
+similarly to a maglock card reader, system, p. 363, SR5.) 
+If the authorized user(s) is present or holding the gun, 
+it’ll be ready to fire. If not, no dice. These systems have a 
+default Device Rating of 3.
+The basic system keeps unauthorized users from firing 
+the gun, but you can put on a few extras to make things 
+a little more interesting for people trying to mess with 
+your stuff. The immobilizer locks everything up so that it 
+will take more than a biometric scan to get it going again; 
+instead, you need an Armorer took kit and an Armorer 
++ Logic (12, 5 minutes) Extended Test to get it working 
+again. Self destruct bricks the thing but good, damaging 
+the internals beyond repair. Explosive self destruct is the 
+next step up, blowing the weapon up with 14P(f) damage 
+(AP –5 for the person holding the weapon, +4 for anyone 
+else) and a –2/m blast radius. Electro shocker delivers 5S(e) 
+damage to the miscreant using your weapon; it can go off 
+three times before it needs to be recharged. You can only 
+have one extra deterrent as part of your safety system. 
+The system, whether it’s the basic one or a fancier version, 
+can only go in the internal slot.
+Bayonet (accessory): Some people think the bayonet 
+charge became obsolete around the time of the Amer -
+SHIAWASE BLAZER
+FLAMETHROWERS
+SHIAWASE BLAZER
+ACC DV AP MODE RC AMMO AVAIL COST
+6 10P –6 SA/BF/FA — 4(c) 16F 2,200¥
+Replacing the fuel tank requires a full Combat Turn.
+>> ARSENAL <<
+50    WEAPON ACCESSORIES >>
+===== PAGE 51 =====
+ican Civil War. Some people are not creative enough. A 
+blade on the end of your firearm means more options, 
+and in the shadows, this can be a very good thing to 
+have. Bayonets can be fixed to the top or underneath 
+slots of rifle-sized or larger weapons (though honestly, 
+fixing one on top of your HMG is not going to be terribly 
+useful). When attached on a weapon, it has Reach 2, DV 
+(STR +1)P, and AP –1; it has the same stats when de-
+tached, only its Reach is 0. In either case, use the Blades 
+skill when attacking with it.
+Concealed quick-draw holster (accessory): What 
+more do you want a holster to do? You get to reduce the 
+Concealability modifier of your weapon by 1 while the 
+threshold to quick-draw a holstered weapon drops by 1. 
+It won’t fire the thing for you, though, so buckle down 
+and do it yourself. The holster does not take any slots 
+in your weapon. Please excuse our compulsion to point 
+out fairly obvious stuff like that.
+Extreme environment modification (modification): 
+When you need to keep the cold from freezing the lubri-
+cants in your machinery, or when you want to keep sand 
+from getting in every nook and cranny and gumming 
+up the works, this is what you need. This won’t make a 
+weapon work in a place where the basic laws of physics 
+say it won’t function—your flamethrower’s not going to 
+work underwater, no matter how much you tinker with it. 
+There are different levels for this upgrade: Level 1 allows 
+for normal use in polar or desert climates; Level 2 allows 
+for use in all extreme environments. When used in normal 
+atmospheric conditions or underwater, weapons with the 
+Level 2 modification have all range levels cut in half. They 
+also need to be serviced after every 100 rounds fired. 
+This takes 500 nuyen worth of materials and requires an 
+Armorer + Logic (12, 1 hour) [Mental] Extended Test.
+This modification does not take up any slots in the 
+weapon and requires a tool shop to install.
+Flashlight (accessory): Because, well, light helps 
+you see. This light is designed to point where your gun 
+is without being obvious; a recessed light source makes 
+it tough for outside observers to see exactly where the 
+light is coming from. Unless you’re directly in its path, in 
+which case you see it to well. If the light’s shining right 
+at you and it’s the type of light that would normally help 
+you, then you get a Weak Glare modifier (p. 1 75, SR5).
+There are three kinds of flashlights. Standard flash-
+lights provide Partial Light; low-light flashlights uses a 
+soft red light to help people with low-light vision, mov -
+ing them up one row on the Environmental Modifiers 
+chart (p. 1 75, SR5); it is useless to characters without 
+low-light vision. Infrared flashlights work similar to low-
+light flashlights, only for characters with infrared vision 
+instead of those with low-light vision. They move the 
+modifier one row up the chart, and they do nothing for 
+people without infravision.
+Folding stock (modification): This is a stock. That 
+folds into the weapon. Got it? It provides 1 point of re-
+MODIFYING WEAPONS
+Each accessory in this section is classified as an “accessory” 
+or a “modification.” An accessory can be installed with little 
+difficulty by pretty much anyone onto the top, bottom, or side 
+slots. Just buy it, snap it on one of your available mounts, and 
+you’re off and running. Note, though, that these accessories 
+cannot be snapped on and off in a short amount of time (unless 
+you have a slide mount, p. 52). Assume swapping them on and off 
+takes at least five minutes while sitting still, making it impractical 
+to do while in the middle of a firefight.
+In case it needs to be said, you can’t install the same 
+modification or accessory twice and expect to double the benefits. 
+If you really want to, you can install the same modification in two 
+different spots, but you’ll only get the benefit once, so you’ll be 
+wasting a slot. You also can only have one modification per slot. 
+Some types of weapons have further limitations—for example, 
+light pistols can only take top and barrel-mounted accessories, 
+while hold-outs can’t take accessories at all.
+If you add an accessory to the stock, barrel, or internal slots, or 
+add a modification, a little more work is needed. Here’s what to do.
+1) Make sure you know what to do. Make a [Type of Weapon 
+Knowledge skill] + Logic (4) [Mental] Test to see if you know 
+how to make the necessary modification. If you want a little 
+help on the test, you can search for plans that might provide 
+guidance. This can be a Matrix Search (Computer + Intuition 
+[Data Processing]) with a threshold based on the availability 
+of the modification (see Matrix Search, p. 241, SR5). Restricted 
+mods should have a threshold of at least 3, and forbidden 
+items should have a threshold of at least 6. Players can also 
+ask their contacts for plans; use the basic legwork rules (p. 
+387, SR5) to discover if the contact knows what to do and is 
+willing to share it with the player’s character. If you are able 
+to find plans, add 6 dice to your test to see if you know how to 
+make the modification.
+2) Prepare the proper tools. Unless otherwise noted, a kit is 
+sufficient to attach accessories to the top, underneath, or 
+side slots, while a shop is needed for internal, barrel, or stock 
+modifications.
+3) Roll the test. For weapons modifications, this is generally 
+going to be an Armorer + Logic [Mental] Extended Test, with 
+thresholds and intervals determined using the guidelines on p. 
+48, SR5.
+>> ARSENAL <<
+<< WEAPON ACCESSORIES    51

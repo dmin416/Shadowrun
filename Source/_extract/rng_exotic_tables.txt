@@ -1,0 +1,871 @@
+\n##### PAGE 202 #####\n202    RUN & GUN TABLES >>
+RUN & GUN TABLES
+BLADES
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Combat axe
+4
+2
+(STR+5)P
+–4
+12R
+4,000¥
+422, SR5
+Combat knife
+6
+—
+(STR+2)P
+–3
+4
+300¥
+422, SR5
+Cougar Fineblade (Long)
+6
+—
+(STR+3)P
+–1
+7R
+600¥
+20
+Cougar Fineblade (Short)
+6
+—
+(STR+2)P
+–1
+5R
+350¥
+20
+Forearm snap-blades
+4
+—
+(STR+2)P
+–2
+7R
+200¥
+422, SR5
+Highland Forge Claymore (Blade)
+5
+2
+(STR+5)P
+–5
+14R
+4,500¥
+18
+Horizon-Flynn Rapier
+7
+1
+(STR+2)P
+–3
+9R
+500¥
+18
+Katana
+7
+1
+(STR+3)P
+–3
+9R
+1,000¥
+422, SR5
+Knife
+5
+—
+(STR+1)P
+–1
+—
+10¥
+422, SR5
+Monofilament Sword
+5
+1
+(STR+3)P
+–3
+8R
+900¥
+19
+Pole arm
+5
+3
+(STR+3)P
+–2
+6R
+1,000¥
+422, SR5
+Survival knife
+5
+—
+(STR+2)P
+–1
+—
+100¥
+422, SR5
+Sword
+6
+1
+(STR+3)P
+–2
+5R
+500¥
+422, SR5
+Victorinox Memory Blade (Sword)
+5
+1
+(STR+2)P
+–2
+14R
+1,500¥
+19
+Victorinox Memory Blade (Dagger)
+5
+—
+(STR+1)P
+–2
+14R
+1,250¥
+19
+CLUBS
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Club
+4
+1
+(STR+3)P
+—
+—
+30¥
+422, SR5
+Extendable baton
+5
+1
+(STR+2)P
+—
+4
+100¥
+422, SR5
+Sap
+5
+—
+(STR+2)P
+—
+2
+30¥
+422, SR5
+Staff
+6
+2
+(STR+3)P
+—
+3
+100¥
+422, SR5
+Stun baton
+4
+1
+9S(e)
+–5
+6R
+750¥
+422, SR5
+Stun Staff
+6
+2
+9S(e)
+–5
+8R
+1,000¥
+20
+Telescoping staff
+4
+2
+(STR+2)P
+—
+4
+350¥
+422, SR5
+OTHER
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Knucks
+Physical
+—
+(STR+1)P
+—
+2R
+100¥
+422, SR5
+Monofilament whip
+5(7)
+2
+12P
+–8
+12F
+10,000¥
+423, SR5
+Shock gloves
+Physical
+—
+8S(e)
+–5
+6R
+550¥
+423, SR5
+EXOTIC MELEE WEAPONS
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Garrote
+5
+—
+(STR+4)S
+–6
+—
+50¥
+20
+Monofilament garrote
+5
+—
+(STR+6)P
+–8
+18F
+2,000¥ 
+20
+Bullwhip
+6
+2
+(STR+1)P
++3
+6
+100¥ 
+20
+Ash Arms combat chainsaw
+5
+1
+8P
+–4
+6R
+2,000¥ 
+21
+Ash Arms monofilament 
+chainsaw
+5
+1
+12P
+–8
+8R
+7,500¥ 
+21
+\n##### PAGE 204 #####\n204    RUN & GUN TABLES >>
+RUN & GUN TABLES
+THROWING WEAPONS
+ITEM
+ACC
+DV
+AP
+AVAIL
+COST
+PAGE
+Boomerang
+Physical – 1
+(STR+2)P
+—
+4
+50¥
+24
+Harpoon/Javelin
+Physical
+(STR+3)P
+–1
+6
+125¥
+24
+Net
+Physical – 2
+—
+—
+6
+350¥
+24
+Throwing knife/shuriken
+Physical
+(STR+1)P
+–1
+4R
+25¥
+423, SR5
+Urban Tribe Tomahawk
+Physical + 1
+(STR+2)P
+–1
+4
+200¥
+25
+EXOTIC RANGED WEAPONS
+ITEM
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+PAGE
+Ares Screech Sonic Rifle
+6
+7S
+*
+SS
+—
+10(c)
+16R
+8,000¥
+26
+Blowgun
+8
+1P
+—
+SS
+n/a
+1(ml)
+4
+15¥
+26
+Bolas
+Physical
+(STR+3)S
++4
+n/a
+n/a
+n/a
+6
+75¥
+26
+Monofilament Bolas
+Physical
+(STR+3)
+S/12P
++4/–8
+n/a
+n/a
+n/a
+18F
+4,000¥
+26
+FN-AAL Gyrojet Pistol
+5
+10P
+–2
+SA
+—
+10(c)
+12F
+2,000¥
+26
+Trafalger Gun Cane
+6
+7P
+—
+SS
+—
+1(b)
+9R
+750¥
+27
+Knockoff Gun Cane
+5
+9P
+—
+SS
+—
+—
+6R
+150¥
+Net Guns
+Basic
+5
+—
+—
+SS
+n/a
+4(b)
+9
+750¥/350¥
+28
+XL
+5
+—
+—
+SS
+n/a
+2(b)
+9
+1,000¥/400¥
+28
+ShockNet
+as gun
+8S(e)
+–5
+as gun
+n/a
+as gun
+10R
++250 
+28
+Shooting Bracer
+5(6)
+7P
+—
+SS
+—
+1(b)
+10R
+1,250¥ 
+28
+TASERS
+ITEM
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+PAGE
+Cavalier SafeGuard
+5 (6)
+6S(e)
+–5
+SA
+—
+6(m)
+—
+275¥
+29
+Defiance EX Shocker
+4
+9S(e)
+–5
+SS
+—
+4(m)
+—
+250¥
+424, SR5
+Tiffani-Defiance 
+Protector
+5 (6)
+7S(e)
+–5
+SA
+—
+3(m)
+2
+300¥
+29
+Yamaha Pulsar
+5
+7S(e)
+–5
+SA
+—
+4(m)
+—
+180¥
+425, SR5
+HOLD-OUT PISTOLS
+ITEM
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+PAGE
+Fichetti Tiffani Needler
+5
+8P(f)
++5
+SA
+—
+4(c)
+5R
+1,000¥
+425, SR5
+Fichetti Tiffani  
+Self-Defender 2075
+4
+6P
+—
+SS
+—
+4(c)
+3R
+350¥
+30
+Streetline Special
+4
+6P
+—
+SA
+—
+6(c)
+4R
+120¥
+425, SR5
+Walther Palm Pistol
+4
+7P
+—
+SS/BF
+—
+2(b)
+4R
+180¥
+425, SR5
+\n##### PAGE 208 #####\n208    RUN & GUN TABLES >>
+RUN & GUN TABLES
+LASER WEAPONS
+ITEM
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+PAGE
+Ares Redline
+9
+5P
+–10
+SA
+—
+10(c) or 
+external 
+source
+14F
+7,500¥
+48
+Ares Lancer MP Laser
+7
+7P
+–10
+SA
+—
+2 x 10(c) or 
+external 
+source
+18F
+16,000¥
+48
+Ares Archon Heavy MP Laser
+7
+10P
+–10
+SA
+—
+External 
+source
+24F
+35,000¥
+49
+FLAMETHROWERS
+ITEM
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+PAGE
+Shiawase Blazer
+6
+10P
+–6
+SA/BF/FA
+—
+4(c)
+16F
+2,200¥
+50
+AMMO
+ITEM
+DAMAGE MODIFIER
+AP MODIFIER
+AVAILABILITY
+COST
+EX-Explosive Rounds
++2
+–1
+14F
+120
+Frangible
+–1
++4
+2R
+10
+Flare
+–2/+2
++2/–3
+6R
+20
+Tracker
+–2
+–2
+8R
+150
+Capsule
+–4
++4
+2
+5
+FIREARM ACCESSORIES AND MODIFICATIONS
+ITEM
+AVAILABILITY
+COST
+PAGE
+Advanced safety system
+4
+600¥
+50
+     Immobilizer
+6
+100¥
+50
+     Self destruct
+6
+200¥
+50
+     Explosive self destruct
+11F
+400¥
+50
+     Electro shocker
+6R
+350¥
+50
+Airburst link
+6R
+600¥
+431, SR5
+Bayonet
+4R
+50¥
+50
+Bipod
+2
+200¥
+431, SR5
+Concealable holster
+2
+150¥
+431, SR5
+Concealed quick-draw holster
+6
+275¥
+51
+Extreme environment modification
+8
+Level x 1,500¥
+51
+Flashlight
+     Standard
+2
+50¥
+51
+     Low light
+4
+200¥
+51
+     Infrared
+6
+400¥
+51
+Folding stock
+2
+30¥
+51
+Foregrip
+2
+100¥
+52
+Gas-vent system (Rating 1-3)
+(Ratingx3)R
+Rating x200¥
+431, SR5
+Gecko grip
+6
+100¥
+52
+Guncam
+4
+350¥
+52
+\n##### PAGE 209 #####\n<< RUN & GUN TABLES    209
+RUN & GUN TABLES
+ITEM
+AVAILABILITY
+COST
+PAGE
+Gyro mount
+7
+1,400¥
+432, SR5
+Hidden arm slide
+4R
+350¥
+432, SR5
+Hip pad bracing system
+4
+250¥
+52
+Imaging scope
+2
+300¥
+432, SR5
+Improved range finder
+6
+2,000¥
+52
+Laser sight
+2
+125¥
+432, SR5
+Periscope
+3
+70¥
+432, SR5
+Peak-discharge battery packs
+     Power clip
+14F
+400¥
+52
+     Satchel power pack
+16F
+900¥
+52
+     Power backpack
+20F
+2,500¥
+52
+Quick-draw holster
+4
+175¥
+432, SR5
+Safe target system base
+6
+750¥
+52
+     Additional set of RFID or GPS data (10 sets)
+6
+25¥
+52
+     Image recognition capabilities
+8
+300¥
+52
+     Extra image profiles (10 profiles)
+8
+25¥
+52
+Shock pad
+2
+50¥
+432, SR5
+Slide mount
+4
+500¥
+52
+Silencer/suppressor
+9F
+500¥
+432, SR5
+Sling
+—
+15¥
+52
+Smart firing platform
+12F
+2,500¥
+432, SR5
+Smartgun system, internal
+(+2)R
+(Weapon Cost) x 2¥
+432, SR5
+Smartgun system, external
+4R
+200¥
+432, SR5
+Spare clip
+4
+5¥
+433, SR5
+Tracker
+4
+150¥
+53
+Tripod
+4
+500¥
+433, SR5
+Underbarrel Bola Launcher
+8R
+350¥
+53
+Underbarrel Chainsaw
+10R
+as chainsaw + 500¥
+53
+Underbarrel Flamethrower
+as flamethrower +2
+as flamethrower +200¥
+53
+Underbarrel Grapple Gun
+8R
+600¥
+53
+Underbarrel Grenade Launcher
+10F
+3,500¥
+53
+Underbarrel Weight
+4R
+50¥
+53
+Weapon Commlink
+as commlink
+as commlink + 200¥
+53
+Weapon Personality
+8
+250¥
+53

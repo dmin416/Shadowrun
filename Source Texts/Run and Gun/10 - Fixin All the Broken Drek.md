@@ -1,0 +1,26 @@
+# Fixin' All the Broken Drek
+
+**Source:** Run & Gun | `Source/PDF/runandgun.pdf` | PDF page index 142-142
+
+The SR5 Core Rulebook covers the basic rules for fixing gear and fixing people. But not all things fix the same, so we have some more specific rules to help the gamemaster better reflect the variety of repair jobs that take place in the Sixth World.
+## Making the Blind See and the Deaf Hear
+With Called Shots now able to be aimed at all sorts of specific body parts, we can also have more specific rolls to stop the bleeding or mend that trigger finger straight. Some of those rolls are described within the particular Action, but we'll cover some other situations here. Eye and ear attacks that blind and deafen require a little extra care. Any type of Healing Test (First Aid, Medicine, Heal spells, etc.) have their threshold increased by 1 when working in these sensitive spots. In all cases once the healer has taken care of enough boxes to cover the DV Limit of the Called Shot, the injury is considered repaired no matter how much other damage may be present.
+
+## Broken Weapons
+
+The standard Build and Repair rules (p. 145, SR5) cover the main rules but only give general advice to the gamemaster for those times when guns, knives, swords, and spurs get broken. Here are some specifics for getting in depth into putting broken pieces back together. For starters, all broken melee weapons require an Extended Test with a Long Interval (1 hour). Whether the weapon requires reforging, rebalancing, or resharpening, it will take a while to make a truly combat-ready weapon. The threshold for the Repair Test should be based on just how much effectiveness the weapon has lost. A loss of Accuracy is Average (12)-with a little resharpening or rebalancing, the weapon is good as new. A loss of AP is Hard (18), with damage being done to the integrity of the weapon. A loss of Reach is Very Hard (24) to repair, as trying to reconnect any of the damaged parts together is going to take multiple steps. The tough part of all of this is often the cost. Is it really cost effective to fix your favorite katana after a run-in with some street nut with a swordbreaker? If the character is doing the work themselves, usually it is. The materials to repair an item cost two percent of the original cost per box of damage being repaired, ten percent of the original cost of the weapon for each point of Reach lost, five percent of the original cost for each point of AP, and thee percent for each point of Accuracy. Yes, bringing that weapon back from the dead may cost as much as buying one, or it may even cost more, but it was essentially destroyed, so it doesn't get fixed quick. The real cost issue comes in when you hire someone to do the work. A skilled craftsman will charge (Skill Rating x the number of hours for repair x 10) nuyen plus the cost of materials above. More skill on the part of the repairer gets the piece back faster, but probably costs a little more. And the people capable of doing that work may be hard to find. Less skill on the part of the repairer takes more time but could save you a few nuyen.
+
+## All the Other Broken Drek
+
+Commlinks, cars, gear, and other goodies can all get trashed in the dangerous Sixth World but there is always someone with the skills and supplies to fix them back up. The same general costs apply; two percent of the original cost per box of damage being repaired for the materials. Specific attributes are tough to break down, especially with all the gear and goodies in the Shadowrun universe, but a few pieces can be covered, especially since we mentioned them specifically here in Run & Gun. Check out the Fixin' That Old Beater table for the parts of a car we already told you that you could break. The labor is the really expensive part. A skilled mechanic will charge (Skill Rating x number of hours for repair x 10) nuyen plus the cost of materials for the work. It's good to remember that a mechanic working in a regular shop won't likely put in more than four hours a day on a single car. Extra nuyen will probably keep them focused on a particularly important project for as long as eight hours in a day, but unless the money is really good they're better off spreading the work around to keep the projects flowing. Most everyday gear in the world of 2075 is pretty disposable, but sometimes sentimental value compels people to keep an old standby around. Follow the basic guideline of ten percent of the original cost per box of damage being repaired for the materials. Since this is everyday stuff, laborers are easier to come by and therefore a little cheaper. Repairman in this area will charge (Skill Rating x number of hours to repair x 5) nuyen for their services. Thresholds for everyday gear can be estimated as Device Rating x 3. If something seems like it should be complex or intricate, slide the number up the scale; if it seems simple, drop it a few. Sometimes it's fun to enjoy the power of being the gamemaster.
+## Fixin' That Old Beater
+
+| Part | Threshold | Price |
+| --- | --- | --- |
+| Antenna | 4 | 20¥ |
+| Axle | 18 | 2,000¥ |
+| Door lock | 12 | 800¥ |
+| Engine block | 24 | 25 percent of vehicle cost |
+| Fuel tank/battery | 18 | 1,200¥ |
+| Window motor | 12 | 800¥ |
+| Window | 12 | 300¥ |

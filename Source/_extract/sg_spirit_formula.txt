@@ -1,0 +1,869 @@
+
+===== PDF p200 =====
+a radius of (Force) kilometers, and the shaking persists 
+intermittently for (Force) minutes. Areas especially vul-
+nerable to earthquakes are usually not areas that receive 
+them frequently, as people in vulnerable areas tend to 
+build dwellings with earthquakes in mind. The spirit 
+makes a Magic + Willpower Test and the number of hits 
+represents the magnitude of the quake, as noted on the 
+Quake Table.
+REALISTIC FORM
+Type: P	 	
+Action: Auto
+Range: Self	
+Duration: Special
+A spirit with Realistic Form can be mistaken for a 
+normal physical creature or object when it materializ-
+es, or it appears unremarkable when joined to a ves-
+sel. A spirit that appears as a metahuman would have 
+a heartbeat and a regular breathing rate. A spirit that 
+appeared as an object mimics the object’s normal func-
+tionality; for example, a toaster could be plugged into 
+the wall to toast bread (though it would have no Matrix 
+link, making it an antique toaster). The spirit is in no way 
+disguised from the astral plane, but to physical obser-
+vation appears to any senses to be a natural part of the 
+physical world.
+Note that spirits with the Materialization power 
+normally only have one materialized form. Materi-
+alizing spirits with this power can choose to appear 
+using Realistic Form or their normal materialized form. 
+A fire elemental can still appear as a column of angry 
+flames but might also be able to appear as a beautiful 
+woman.
+REINFORCEMENT
+Type: P	 	
+Action: Complex
+Range: Touch	
+Duration: Special
+This power strengthens the resistance of natural and 
+constructed materials. To fortify materials, the spirit must 
+take a Force x 2 [Force] (square meters, 1 hour) Extended 
+Text. If successful, the spirit’s Force is added to the Struc-
+ture and Armor Ratings. Multiple applications of Rein-
+forcement are not cumulative, and only the highest effect 
+counts. Once the reinforcement is in place, it is permanent.
+SENSE LINK
+Type: M	 	
+Action: Simple
+Range: Special	
+Duration: Sustained
+A critter with the Sense Link power can share sen-
+sory data with its summoner (and vice versa). The sum-
+moner experiences the critter’s emotions (at a low lev-
+el) and can send simple commands, which the critter 
+may not understand or follow, especially if the com-
+mand places them in danger. An Intuition + Charisma 
+Test, opposed by the critter’s Willpower + Intuition, 
+may be used to persuade the critter to obey. In addi-
+tion, the summoner can experience one of the critter’s 
+senses with a Simple Action; with each Simple Action 
+expended, the summoner can choose which sense 
+to experience. Augmented senses (whether they are 
+magically augmented or otherwise) in the summoner 
+do not work through the critter. The range of this pow-
+er is equal to (Magic x 50 meters). If the critter is hurt 
+while the link is intact, the summoner must resist Stun 
+damage equal to the damage inflicted on the critter 
+with a Willpower + Magic Test.
+SHADOW CLOAK
+Type: P	 	
+Action: Free
+Range: Self	
+Duration: Sustained
+This power allows a creature to envelop itself in ut-
+ter darkness, making it appear to be a shadow. Shadow 
+Cloak is useless in full daylight and unnecessary in com-
+plete darkness; other lighting conditions make it difficult 
+to see the creature using this power. Apply a –2 dice 
+pool modifier to Perception Tests for detecting the crea-
+ture in Partial Light, –4 dice pool modifier in Dim Light, 
+and a +1 dice pool modifier in Glare conditions.
+QUAKE TABLE
+While the effects of an individual quake are highly 
+dependent upon the conditions of surrounding soil, the quality 
+of engineering, and the preparedness of the surrounding 
+citizenry, the following guidelines can be used (generally, a 
+quake includes the effects on the line for its number of hits as 
+well as all the other effects for a smaller number of hits):
+HITS
+EFFECTS
+1
+Motion detectors useless for the duration; sleeping 
+people awaken. 
+2
+Top-heavy objects fall; unlatched doors and 
+windows swing open or shut. 
+3
+Furniture shifts; objects fall off shelves in bulk; 
+drivers of land vehicles must make Vehicle Tests. 
+4
+Ordinary buildings damaged; doors jam; minefields 
+detonate. 
+5
+Furniture overturns; windows break; entire area 
+considered difficult ground. 
+6
+Freestanding fences, walls, and trees sag or fall 
+over; gas lines are unsafe. 
+7
+Roadways become impassable; some buildings 
+collapse. 
+8
+Many buildings collapse, crevasses appear in 
+pavement and open ground. 
+>> STREET GRIMOIRE <<
+198    THE IMMATERIAL TOUCH >>
+InMediaRes Productions LLC (Order #38901858)
+
+===== PDF p201 =====
+SILENCE
+Type: P	 	
+Action: Complex
+Range: Special	
+Duration: Sustained
+A creature with this power can surround itself in a 
+sphere of silence with a radius equal to the creature’s 
+Magic in meters. Sounds from within the area are muf-
+fled, and sounds entering the area are harder to hear by 
+the creature or anyone else. Sound-based Perception 
+Tests and the Damage Value of sound-based attacks are 
+reduced by the spirit’s Magic.
+SONIC PROJECTION
+Type: P	 	
+Action: Complex
+Range: Special	
+Duration: Sustained
+This power affects everyone within earshot—except 
+for spirits of the same type—and creates a deafening 
+and distracting buzz. The spirit makes an Opposed Test 
+using its Force x 2 against each target’s Willpower. Sound 
+dampers and spells like Hush/Silence provide addition-
+al dice to the defender equal to their Rating or the hits 
+the caster scored. Each of the spirit’s net hits provides a 
+negative dice pool modifier on all tests for as long as the 
+buzzing is sustained. 
+STORM
+Type: P	 	
+Action: Complex
+Range: Special	
+Duration: Special
+A spirit with this power can send a massive, destruc-
+tive elemental storm against a targeted area. Icy rain, 
+bolts of lightning, gale-force winds, and more strike the 
+area. The affected area’s radius equals the spirit’s Magic 
+x 100 meters. The spirit makes a single Unarmed Com-
+bat + Magic [Force] Test, and all characters, creatures, 
+and objects in the area are considered subject to Sup-
+pressive Fire (p. 179, SR5). The storm’s base Damage 
+Value is (Force)P.
+NEW QUALITIES
+The following qualities can be applied to spirits or con-
+jurers. If the quality does not have a Karma cost or bo-
+nus, it can only be applied to spirits.
+RESTLESS
+Some spirits are just meant to be free, and a restless 
+spirit tries to break its chains at any opportunity. When 
+a conjurer performs a binding ceremony on a spirit with 
+the Restless quality, the spirit gains a number of free 
+hits equal to its Force divided by 3 (rounded up), in ad-
+dition to the hits it rolls for the test. 
+When making a test to see if an ally breaks free 
+(see Losing an Ally, p. 202), a Restless ally spirit gains a 
+number of additional dice equal to 6 minus its current 
+Loyalty rating.
+SERVILE
+Though most spirits find serving metahumanity a form of 
+imprisonment, a servile spirit wants nothing more than to 
+answer a summoner’s call with gusto. When summoning 
+a spirit with the Servile quality, a conjurer receives one 
+free hit on his Summoning Test and on any Binding Test 
+performed on this spirit.
+SPIRIT CHAMPION
+COST: 14 KARMA
+Something you did had a lasting, positive effect on the 
+astral plane, and the whole spirit world is talking about 
+it. Characters with this quality may spend (Force x 5) 
+drams of reagents when performing a Summoning Test 
+to receive a +1 dice pool modifier, in addition to any re-
+agents spent to set the limit for the test. Also, Binding 
+Tests require only (Force x 20) drams of reagents, and 
+the summoner receives a +1 dice pool modifier.
+SPIRIT PARIAH
+BONUS: 14 KARMA
+Something you did slotted of the spirit world something 
+fierce, so spirits really don’t like you. In order to even get 
+their attention, you must make additional offerings to 
+get spirits to show up. A character with this quality must 
+expend (Force x 5) drams of reagents in order to make a 
+Summoning Test; reagents spent to increase the test’s lim-
+it do not count toward this amount. If the character can-
+not expend enough reagents, the test automatically fails. 
+Also, Binding Tests require (Force x 30) drams of reagents, 
+and the summoner receives a –1 dice pool modifier.
+NEW MENTOR 
+SPIRITS
+BERSERKER
+Those who follow the path of Berserker love fighting 
+just for the sake of fighting, be it with words, fists, or 
+spells. He is the greatest of all warriors, capable of 
+wading into battle without fear, and he will wage his 
+war singlehandedly if necessary.
+ADVANTAGES
+All: +2 dice pool modifier for Composure Tests
+Magician: +2 dice for Physical-type Combat spells, 
+preparations, and rituals
+Adept: 2 free levels of Mystic Armor or Pain Resis-
+tance, or 1 free level of each
+>> STREET GRIMOIRE <<
+<< THE IMMATERIAL TOUCH    199
+InMediaRes Productions LLC (Order #38901858)
+
+===== PDF p202 =====
+DISADVANTAGES
+Berserker’s followers have very short fuses. Whenever 
+someone strongly disagrees with you (gamemaster’s 
+discretion), you must pass a Charisma + Willpower (3) 
+Test to keep from striking out against the offender. If the 
+test fails, the attack can be in any form you choose (fist, 
+spell, etc.), but it must have the intent to cause damage.
+Similar Archetypes: Warrior, Warmonger
+CHAOS
+Adherents of Chaos seemingly do things at random 
+and love to start arguments or barroom brawls just 
+for kicks, often through random trickery. While most 
+people have a rather fixed sense of right and wrong, 
+a Chaos follower’s moral compass points in a different 
+direction from moment to moment.
+ADVANTAGES
+All: +2 dice pool modifier for Con Tests 
+Magician: +2 dice to Illusion spells, preparations, 
+and rituals
+Adept: 2 free levels of Improved Potential (can be 2 
+levels for the same limit, or 1 level apiece to affect 2 
+different limits) 
+DISADVANTAGES
+You are an inveterate gossip trying to stir up trouble, 
+especially between friends, and thus cannot keep dam-
+aging secrets to yourself. Also, anytime you encounter 
+a public situation deemed too quiet or stable (game-
+master’s discretion), make a Willpower + Intuition (3) 
+Test. Failure means that you are compelled to stir the 
+pot in any way you desire, be it attacking, telling lies, or 
+throwing a drink on someone nearby.
+Similar Archetypes: Trickster, Troublemaker
+PEACEMAKER
+Deep down, all Peacemaker wants is for everyone to get 
+along, even if they are currently mortal enemies. She 
+believes every argument can be solved in some way; 
+on the other hand, she knows some arguments require 
+force or bodily harm in order get one’s point across.
+ADVANTAGES
+All: +2 dice pool modifier for Negotiation Tests
+Magician: +2 dice to Detection spells, preparations, 
+and rituals
+Adept: 2 free levels of Enhanced Perception
+DISADVANTAGES
+You see even enemies as potential friends and go 
+out of your way to keep from hurting anyone unless 
+the situation truly warrants it. At the very beginning of 
+combat, you must pass a Charisma + Intuition (3) Test; 
+failure means you are unable to take actions that cause 
+Physical damage for the duration of combat. At the 
+beginning of a new Combat Turn, you may choose to 
+retake the test if you failed the first time and you or a 
+member of your team suffered damage in the previous 
+Combat Turn.
+Similar Archetypes: Mediator, Pacifist
+ORACLE
+Past, present, and future—Oracle knows all and sees 
+all. She peels back the veil of mystery and reveals what 
+has been, what is, and what will be. Nothing escapes 
+her notice, and things that are hidden do not remain 
+hidden for long.
+ADVANTAGES
+All: +2 dice pool modifier for Arcana Tests
+Magician: +2 dice for Detection spells, preparations, 
+and rituals
+Adept: Free Astral Perception
+DISADVANTAGES
+You hate mysteries with a passion and can disappear 
+for days trying to track down the answer. When con-
+fronted by a particularly haunting question (gamemas-
+ter’s discretion), you must take a Willpower + Intuition 
+(3) Test. Failure means you must undertake an Intuition 
++ Logic [Mental] (5, 1 hour) Extended Test to try re-
+searching the answer. Completion of the Extended Test 
+does not necessarily mean you found the answer, but it 
+at least silences the question in your mind for the time 
+being.
+When a follower of Oracle becomes a Grade 1 initi-
+ate (p. 324, SR5), she must choose Divination (p. 147) 
+for her first metamagic rather than a Power Point or any 
+other benefit.
+Similar Archetypes: Teacher, Mystic
+ALLY SPIRITS
+An ally spirit can be a great boon to an initiated ma-
+gician. To conjure an ally spirit, a magician needs to 
+either craft or find an appropriate spirit formula. Once 
+the magician has the proper formula, she may attempt 
+to conjure and bind the spirit.
+ALLY SPIRIT FORMULA
+An ally’s spirit formula is a physical representation of 
+the spirit, similar to an initiate’s thesis (see p. 142). A 
+magician can obtain this formula in one of two ways:
+•	
+The conjurer (or a trusted third party) can create 
+the formula from scratch by making an Arcana + 
+>> STREET GRIMOIRE <<
+200    THE IMMATERIAL TOUCH >>
+InMediaRes Productions LLC (Order #38901858)
+
+===== PDF p203 =====
+Logic [Mental] (Force x 5, 1 day) Extended Test. 
+Be aware that having someone else design your 
+spirit formula means the creator might keep a 
+copy for themselves.
+•	
+By undertaking a metaplanar quest (p. 140) to 
+the chosen metaplane, an initiate can locate a 
+formula that matches her needs.
+To perform the summoning ceremony, the conjurer 
+needs a physical copy of this formula. For allies requiring 
+a vessel, either the original or a copy of the spirit formula 
+must be carved into the prepared vessel.
+CREATING AN ALLY 
+SPIRIT FORMULA
+To create a spirit formula and determine the Karma costs 
+for conjuring an ally spirit, perform the following steps:
+Step 1: Choose Force: The base cost of an ally spirit 
+is 8 Karma times desired Force.
+Step 2: Choose Form(s): The ally spirit may have 
+only one of the following powers: Inhabitation (p. 
+195), Materialization (p. 398, SR5), or Possession 
+(p. 197). Materialization allies have a base form 
+that usually applies to the conjurer’s traditions. 
+Allies can have additional forms at the cost of 2 
+Karma each; an ally can switch between forms 
+using a Complex Action. Inhabitation allies must 
+have a prepared vessel for them, but they can only 
+have multiple forms if a true form results from the 
+merge. Possession allies have no material form of 
+their own, but vessels can be prepared for them.
+Step 3: Choose Powers: Ally spirits start with Astral 
+Form (p. 394, SR5), Banishing Resistance (p. 194), 
+Realistic Form (p. 198), Sapience (p. 400, SR5), and 
+Sense Link (p. 198). Each ally also receives one ad-
+ditional power per point of Force, chosen from any 
+powers of spirits appropriate to the conjurer’s tra-
+dition. Beyond this, further powers appropriate to 
+the conjurer’s tradition may be chosen at the cost 
+of 5 Karma per power. If the conjurer chooses the 
+Elemental Attack, Energy Aura, or Engulf powers, 
+she must specify what form the power takes.
+Step 4: Choose Skills: Allies start with the skills of 
+Assensing, Astral Combat, Perception, and Un-
+armed Combat. Additional skills that the conjurer 
+knows or that may be needed for the spirit to use 
+one of its powers (such as Exotic Ranged Weapon 
+for Elemental Attack or Counterspelling for Mag-
+ical Guard) cost 5 Karma each. Allies may never 
+possess skills from the Conjuring group, and they 
+may only be given the Flight skill (p. 394, SR5) if it 
+fits the spirit’s form.
+Step 5: Choose Spells: An ally spirit can be taught 
+any spells the conjurer knows for 3 Karma each or 
+ones the conjurer doesn’t know for 5 Karma each 
+(spell formulae are still required).
+CONJURING AN ALLY
+The ritual for summoning an ally must be performed in a 
+magical lodge with a Force at least equal to the ally be-
+ing summoned. Follow summoning rules (p. 300, SR5). 
+Immediately after summoning, the spirit must be bound 
+using standard binding rules (p. 300, SR5). Calculate Drain 
+as if summoning and binding a spirit of the ally’s Force.
+If the binding succeeds, the magician pays an 
+amount of Karma as outlined in the ally’s spirit formula. 
+If the binding generates succeeds, the magician pays an 
+amount of Karma as outlined in the ally’s spirit formula. 
+If the necessary amount of Karma cannot be paid, the 
+ritual fails.
+If the ally has the Inhabitation power, the conjurer 
+must already have a prepared vessel. After the spirit is 
+bound it must immediately use its Inhabitation power on 
+the vessel. As per the Inhabitation power (p. 195), the 
+conjurer may choose to influence the outcome of the 
+Inhabitation Test. Inhabitation takes a number of days 
+equal to the spirit’s Force and is considered part of the 
+ritual; thus the magician must continuously attend to the 
+vessel during this time.
+ALLY SPIRIT ABILITIES
+Ally spirits follow standard spirit rules, with the follow-
+ing exceptions:
+AID SORCERY AND AID STUDY
+When using Aid Sorcery and Aid Study services, an ally 
+spirit is considered appropriate for every spell category.
+ATTRIBUTES
+An ally’s Physical and Astral attributes equal its Force. 
+However, allies start with an Edge attribute equal to the 
+Edge of its conjurer. Inhabitation allies follow the rules 
+for the Inhabitation power (p. 195) to determine phys-
+ical attributes.
+LOYALTY
+Allies are more loyal than normal spirits because that 
+loyalty is part of the spirit’s formula. Because of this, 
+an ally will serve a character until their master’s death 
+(or near-death) frees them. Unlike normal spirits, an ally 
+might go out of its way to assist its master or volunteer 
+helpful information. On the other hand, a mistreated 
+ally can potentially turn on its master. Allies are consid-
+ered to start with a Loyalty rating of 6 (see p. 55, SR5), 
+but a master’s particularly callous behavior toward her 
+spirit or other spirits can potentially lower this. See Ally 
+Spirit Loyalty, p. 207.
+>> STREET GRIMOIRE <<
+<< THE IMMATERIAL TOUCH    201
+InMediaRes Productions LLC (Order #38901858)
+
+===== PDF p204 =====
+MAGIC SKILL USE
+Every ally spirit is considered a full Magician (see p. 
+69, SR5) and can be designed with any magical skills 
+known to its summoner, except skills in the Conjuring 
+group. Allies also may not initiate, and an ally inhabit-
+ing a vessel may not astrally project.
+NATIVE PLANE
+An ally’s native metaplane is specified by the spirit for-
+mula and can be used to destroy the spirit by making a 
+metaplanar quest (p. 140) to that plane.
+OPEN-ENDED SERVICE
+An ally’s services are never exhausted, and the ally can 
+perform any unbound or bound spirit service (see p. 
+302, SR5) an unlimited number of times, including Re-
+sist Drain (see below). Ally spirits do not count against 
+a magician’s limit of bound spirits.
+RESIST DRAIN
+A magician casting a spell may choose to have her ally 
+spirit take the spell’s Drain instead. This can be done in 
+two different ways. Either use the ally’s Magic attribute 
+to determine if Drain is Physical or not and have the 
+spirit resist the Drain as normal, or the magician may 
+buy one extra hit on her Drain Resistance Test in ex-
+change for her ally suffering one box of Physical dam-
+age (which the ally cannot resist). Regardless of the 
+method, using this service is incredibly painful for the 
+spirit and will foster hatred in the spirit if abused.
+SENSE LINK
+Ally spirits have the power of Sense Link (p. 198), 
+which let them share sensory data with their conjurers 
+at a limited range. The conjurer may not target spells 
+through this power.
+ENHANCING AN ALLY
+Sometimes you want to give your ally spirit a little 
+more oomph—add new forms, powers, skills, or spells 
+or increase the spirit’s total Force. This enhancement 
+requires first modifying your ally spirit’s formula. Mod-
+ifying the formula requires either an Arcana + Logic 
+[Mental] (Force x 5, 1 day) Extended Test or a meta-
+planar quest. 
+The rebinding ritual, known as a Ritual of Change, 
+must be performed in a magical lodge with a Force 
+equal to or greater than the ally. Spend the usual 
+amount of binding reagents, and pay Karma equal 
+to all the relevant changes to the spirit. However, 
+increasing an ally’s Force with a Ritual of Change re-
+quires 16 Karma per point of Force beyond the spirit’s 
+initial Force.
+An Inhabitation Test is not necessary for inhabiting 
+allies, but the conjurer may choose to provide a new 
+vessel for the spirit to merge with.
+LOSING AN ALLY
+A magician who routinely mistreats his ally spirit is just 
+asking for it to eventually turn on him. Also, a magician 
+who is overly dependent on his ally or regularly endan-
+gers it can risk making the ally resentful, which may 
+cause it to seek freedom. An ally can only break away 
+during a Ritual of Change or if its master is knocked out 
+by Drain or by Physical damage, and it will only make 
+the attempt if it feels it has been wronged in some way.
+When an ally attempts to break free, it makes a Force 
+x 2 [Force] test against the magician’s Binding + Magic 
+[Mental]. If the spirit generates any net hits, it goes free 
+and may become a free spirit (gamemaster’s discretion).
+If an ally successfully breaks free during a Ritual of 
+Change, the ritual fails: the reagents and time are spent, 
+but the Karma remains unspent. The magician must also 
+resist a Drain Value equal to twice the number of hits the 
+spirit got on its test. If the magician is incapacitated by 
+the Drain, the ally immediately goes free.
+AVATAR SPIRITS
+In game terms, avatars are powerful free spirits that can 
+act as a magician’s spirit guide. Attacking or using magi-
+cal skills against an avatar is usually futile, as it can result 
+in the magician being transported to the metaplanes, 
+unable to use magic for a time, or some other conse-
+quence of the gamemaster’s choosing. If in danger, an 
+avatar spirit will instantly vanish to the metaplanes.
+Avatar spirits are intended to be used for roleplaying 
+opportunities. They can act as a warning of impending 
+doom or they can play devil’s advocate. In any case, an av-
+atar spirit should never be something players can exploit. 
+FREE SPIRITS
+The following rules offer guidelines for using free spir-
+its in a Shadowrun game.
+BORN FREE
+Whenever a spirit becomes uncontrolled, the game-
+master decides whether it becomes a free spirit. Bound 
+spirits with a Force of 6 or higher tend to become free 
+spirits due to a long association with metahumanity 
+and the natural world, but lesser spirits, especially un-
+bound ones, tend to return to the metaplanes.
+To randomly determine whether a spirit goes free, 
+have the spirit make an Edge [Force] (3) Test. If success-
+ful, the spirit becomes free and has a starting Edge of 
+1. Every net hit increases the spirit’s Edge by 1. Failure 
+>> STREET GRIMOIRE <<
+202    THE IMMATERIAL TOUCH >>
+InMediaRes Productions LLC (Order #38901858)
+
+===== PDF p205 =====
+means the spirit departs to the metaplanes. Unbound 
+spirits generally do not go free and suffer a –4 dice pool 
+modifier for the test. On the other hand, spirits that have 
+had memorable or frequent encounters with metahu-
+manity receive a +2 dice pool modifier.
+NEW POWERS
+Every free spirit gains the Banishing Resistance power 
+(p. 194) and is considered a full Magician (p. 69, SR5) 
+with the exception that they may never have skills in 
+the Conjuring group and may not astrally project from 
+an inhabited vessel unless it has the Astral Projection 
+power (p. 204). Also, when a spirit becomes free, it 
+gains a number of new powers equal to its Edge attri-
+bute. After that, each time the spirit’s Edge increases, 
+the spirit also gains another new power. New powers 
+can be chosen from any of the following:
+•	
+The original spirit type’s list of optional powers.
+•	
+One of these spirit powers: Astral Gateway, Aura 
+Masking, Divining, Energy Drain (Essence), Ma-
+terialization, Possession, or Realistic Form.
+•	
+Any metamagic technique available to meta-
+human initiates (except those from the Spiritual 
+Arts, p. 147). Free spirits use Edge instead of ini-
+tiate grade. Free spirits may also possess metam-
+agics currently unknown to metahumanity, which 
+can provide gamemasters with a unique opportu-
+nity to introduce a new metamagical technique.
+•	
+A unique power chosen from the list under Free 
+Spirit Powers on p. 204.
+FREE SPIRIT SERVICES
+A free spirit does not normally owe services to anyone, 
+but it can perform any service a bound spirit can perform 
+(p. 302, SR5) if it wishes to. A free spirit can be bound by 
+its spirit formula (see below) and compelled to perform 
+services, but it does not return to the metaplanes when 
+the services are exhausted or its master dies. 
+TRUE NAMES
+The true name of a spirit is a complex, arcane formula that 
+represents the sum total of the spirit’s essence and nature. 
+Although intricate and abstract, an identified spirit formu-
+la can be transcribed by the Arcana skill into recognizable 
+symbols and terms. Anyone who possesses a copy of a 
+spirit formula can command the free spirit that the formu-
+la represents. Because of this, few free spirits are willing 
+to allow multiple copies of their spirit formulas to exist.
+LEARNING  
+THE SPIRIT FORMULA
+A spirit formula can be learned via several different 
+methods:
+•	
+Find Physical Location: A spirit’s true name can 
+be physically imprinted on an object, a person, 
+or even a place that was near the spirit when it 
+first broke free, but free spirits often relocate any 
+object imprinted with its true name at the first 
+opportunity. The true name itself is similar to 
+an astral signature and can be identified with an 
+Assensing + Intuition [Astral] (3) Test. Translat-
+ing the true name into a spirit formula requires 
+an Arcana + Logic [Mental] (spirit’s Force x 5, 1 
+day) Extended Test. A bound spirit can assist in 
+this task as an Aid Study service, regardless of 
+the spirit’s type. The spirit formula takes a form 
+appropriate for the spirit’s tradition: a thauma-
+turgic formula for a hermetic mage, a totemic 
+statuette for a shaman, and so on.
+•	
+Metaplanar Quest: An initiate may learn a spir-
+it’s true name by undertaking a metaplanar quest 
+(p. 140) to the spirit’s native metaplane. A spir-
+it’s metaplane can be obvious or obscure. With-
+out obvious clues, a magician must either suc-
+ceed in an Assensing + Intuition [Astral] (2) Test 
+if observing the spirit directly or an Assensing 
++ Intuition [Astral] (5) Test if assensing an astral 
+signature. A metaplanar quest for a spirit’s true 
+name should be an appropriately harrowing and 
+difficult undertaking, and it might require a spirit 
+guide to reach the necessary plane. A successful 
+quest etches the true name in the initiate’s mind; 
+at any time thereafter, he can translate it into a 
+spirit formula with an Arcana + Logic [Mental] 
+(spirit’s Force x 5, 1 day) Extended Test.
+•	
+Design Formula: If a magician directly observ-
+ing the spirit succeeds in an Assensing + Intu-
+ition [Astral] (5) Test, she can attempt to design 
+a functional spirit formula from scratch. Doing 
+so requires an Arcana + Logic [Mental] (spirit’s 
+Force x 10, 1 day) Extended Test.
+SPIRIT FORMULA COPIES
+A spirit is instinctively aware of the location of all cop-
+ies of its spirit formula—where any of them are when 
+they are created, moved, or destroyed—no matter how 
+many astral barriers exist between the spirit and the 
+formula. If a new copy is made, the spirit automatically 
+becomes aware of its location.
+FREE SPIRITS  
+AND KARMA
+Free spirits need Karma to grow in power, but unlike 
+characters, they cannot earn it for themselves. A free 
+spirit must receive Karma as a freely given gift from a 
+metahuman; it cannot take Karma for itself unless it has 
+the rare Energy Drain (Karma) power (p. 205). Negoti-
+ate a deal with a free spirit, and it will likely ask for Kar-
+ma as payment; some spirits may ask for services, con-
+>> STREET GRIMOIRE <<
+<< THE IMMATERIAL TOUCH    203
+InMediaRes Productions LLC (Order #38901858)
+
+===== PDF p206 =====
+tacts, unique enchantments, or even material wealth, 
+but generally Karma is what they value above all else.
+FEEDING THE FREE SPIRIT
+Giving a free spirit Karma requires either a spirit pact (p. 
+205) or a ritual involving the spirit’s formula. Although a 
+spirit needs Karma, allowing metahumans access to its 
+spirit formula places itself in a vulnerable position. This 
+means the spirit’s best interest is to keep donors hap-
+py—or dead. The ritual to give Karma takes 1 hour per 
+point of Karma given.
+USING KARMA
+A free spirit can use Karma to improve itself in the fol-
+lowing ways. See Character Advancement, p. 103, SR5 
+for more details.
+•	
+It may improve its attributes separately. Each at-
+tribute begins at the Force the spirit had when it 
+went free. Free spirits have no racial maximum.
+•	
+It may improve or purchase new skills.
+•	
+It may initiate as a magician does, but doing so 
+grants a new spirit power per grade rather than 
+a metamagical technique.
+•	
+It may increase its Force by 1 point at a time by 
+paying Karma equaling the new Force x 10. Rais-
+ing Force increases all of the spirit’s attributes 
+and powers that are based on Force.
+BINDING A FREE SPIRIT
+The inherent power of a true name allows anyone, even 
+mundanes, to summon and bind a free spirit.
+SUMMONING A FREE SPIRIT
+To call forth a free spirit, the summoner must possess the 
+spirit formula and concentrate on the spirit. The spirit will 
+be drawn to the formula and manifest nearby, usually with 
+a bad temper. This summoning generates no services, but 
+no roll is required, and the summoner suffers no Drain. 
+Also, magic cannot prevent this action from occurring. 
+Even a spirit possessing a vessel must abandon the ves-
+sel and appear if summoned this way. A spirit inhabiting a 
+vessel is resistant to this pull since its essence is anchored 
+to the physical plane, but it must travel toward the sum-
+moner by the fastest physical means possible. If the sum-
+moner moves before the inhabiting spirit arrives, the spirit 
+is no longer drawn toward the summoner.
+THE BINDING RITUAL
+If the summoner chooses to bind the spirit, the pres-
+ence of the spirit’s formula prevents the spirit from 
+harming the summoner during the binding ritual. The 
+ritual to bind a free spirit requires (Force x 25) drams 
+of binding reagents. The ritual itself may be conducted 
+anywhere—no magical lodge is needed—and it takes 
+a number of hours equal to the spirit’s Force. At the 
+end of the ritual, the summoner makes an Opposed 
+Test by rolling his Binding + Willpower [Mental] against 
+the spirit’s Force + Edge. If the character wins, the spirit 
+owes a number of services equal to the number of net 
+hits. This ritual also produces no Drain.
+The spirit cannot harm the summoner until its ser-
+vices are exhausted, but the spirit can still plot to put its 
+master in harm’s way. The spirit can also be re-bound 
+with another binding ritual an unlimited number of 
+times. If the master glitches on the rebinding test, the 
+spirit gets 1 Combat Turn to do anything it wants be-
+fore the binding takes effect and places it back under the 
+master’s control. If the master critical glitches the test, 
+all services owed are lost and the spirit becomes free 
+once again.
+BANISHING  
+A FREE SPIRIT
+Free spirits can be banished just like any other spirit (p. 
+301, SR5), but all of them possess the Banishing Resis-
+tance power (p. 194). Since a free spirit is usually un-
+bound and owes no services that can be banished away, 
+each net hit the banisher receives reduces the spirit’s 
+unspent Edge (bound free spirits add their Edge and ser-
+vices together). A free spirit whose Edge is reduced to 0 
+in this way is temporarily disrupted and vanishes to its na-
+tive metaplane. It may return when its Edge replenishes.
+A free spirit that has been banished or disrupted 
+can be prevented from ever returning if the banisher 
+immediately destroys a copy of the spirit’s formula and 
+succeeds in an Opposed Test between her Banishing + 
+Willpower [Mental] and the spirit’s Force + Edge. Unfor-
+tunately, there’s no way to tell whether this succeeded 
+or not, unless the spirit later returns. The banishing at-
+tempt may be repeated, but this requires another copy 
+of the spirit’s formula.
+FREE SPIRIT POWERS
+The following powers are only available to free spirits.
+ASTRAL PROJECTION
+Type: M	 	
+Action: Complex
+Range: Self	
+Duration: Special
+The spirit can astrally project, just like a magician (p. 
+313, SR5). This power is only available to spirits with the 
+Inhabitation power. A spirit that does not return to its 
+body after (Force x 2) hours is disrupted.
+MUTABLE FORM
+Type: P	 	
+Action: Auto
+Range: Self	
+Duration: Special
+Spirits normally materialize with the same form ev-
+ery time, but Mutable Form allows the spirit to appear 
+>> STREET GRIMOIRE <<
+204    THE IMMATERIAL TOUCH >>
+InMediaRes Productions LLC (Order #38901858)
+
+===== PDF p207 =====
+differently each time. The spirit’s aura is unchanged, 
+however. If the spirit also has the Realistic Form power 
+(p. 198), add the spirit’s Force to any Disguise Tests (p. 
+133, 136, SR5) it makes to impersonate someone. This 
+power is only available to spirits with Materialization.
+PERSONAL DOMAIN
+Type: M	 	
+Action: Auto
+Range: LOS	
+Duration: Sustained
+The spirit leaves its personal mark over an area of 
+astral space, up to 10,000 square meters per point of 
+Force. Over time this area accumulates a background 
+count aspected toward the tradition the spirit represents 
+(p. 30). The gamemaster determines how quickly the 
+background accumulates, but the process should take 
+months or longer, and the background count should not 
+exceed the spirit’s Force / 2.
+REGENERATION
+Type: P	 	
+Action: Auto
+Range: Self	
+Duration: Always
+Similar to the critter power of Regeneration (p. 400, 
+SR5), this power only applies to the spirit’s materialized, 
+possessed, or inhabited form. If the spirit possesses or 
+inhabits a formerly living vessel, the vessel slowly re-
+generates back to its living form. For example, a wooden 
+homunculus begins to grow new leaves, and a corpse 
+regains a semblance of life.
+SPIRIT PACT
+Type: M	 	
+Action: Special
+Range: Special	
+Duration: Special
+A spirit with this power can enter into one or more 
+spirit pacts (p. 137). The gamemaster has the final say on 
+what pacts a spirit can enter into. For rules about con-
+ducting a spirit pact, see Spirit Pact (Contractual), p. 136.
+GREATER POWERS
+Greater powers are so dramatic, unusual, or powerful 
+that they can often define an entire encounter with a 
+spirit. Gamemasters should keep these powers rare 
+and limit a spirit to only one of them.
+HIDDEN LIFE
+Type: P	 	
+Action: Complex
+Range: Touch	
+Duration: Permanent
+The spirit uses this power to permanently place its life 
+force in a creature, place, or object. As long as the hid-
+ing place remains safe, the spirit cannot be permanently 
+banished or destroyed by any means. The spirit is able to 
+return after a year and a day if banished with its spirit for-
+mula, but a character holding the spirit formula may call 
+the spirit sooner.
+The hiding place gains Immunity to Normal Weapons 
+with a Magic equal to the spirit’s and Immunity to Age (p. 
+397, SR5). If the hidden life holder is destroyed, the life 
+force returns to the spirit, and the spirit is treated normally.
+ENERGY DRAIN (KARMA)
+As described on p. 195, with a Range of Touch and 
+causing Physical damage.
+VESSEL TRADING
+Type: P	 	
+Action: Complex
+Range: Touch	
+Duration: Instant
+A spirit with Possession may choose to evict the life 
+force of a living vessel, either by ejecting the victim’s life 
+force as an astrally projecting creature or putting the vic-
+tim’s life force in the spirit’s old vessel. If the old vessel 
+already contains a life force that was subdued by Pos-
+session, the victim is forced to astrally project instead. 
+Follow the standard rules for the Possession power (p. 
+197). Victims placed into a living or nonliving vessel 
+cannot control the vessel like a possessing spirit and are 
+trapped there. The only possible methods of escape is 
+if a free spirit with this power switches them back, the 
+victim can astrally project, or the vessel is exposed to an 
+astral rift or an entity with the Astral Gateway power (p. 
+194). A victim trapped in an inanimate vessel or astral 
+space will feel his life force ebbing away, and he will die 
+after (Magic or Essence) x 2 hours.
+WEALTH
+Type: P	 	
+Action: Complex
+Range: LOS	
+Duration: Special
+A spirit with this power can generate precious metals, 
+jewels, and other rare items of great value. Where these 
+items come from is a question no spirit has answered. 
+Once per month, the spirit may make a Magic + Edge 
+[Force] Test. Every hit generates 10,000 nuyen worth of 
+mineral alchemical reagents, usually precious metals or 
+gems. These permanent creations indefinitely carry the 
+spirit’s astral signature. The markets being what they are, 
+characters may find it difficult to sell magical gems.
+A spirit with this power may also create a similar 
+amount of temporary wealth each day, but the next 
+time the suns sets or rises, these valuable items vanish 
+or transform into dirt or other worthless substances. Be-
+cause of this, savvy businessmen are reluctant to pur-
+chase magical gold.
+GREAT FORM 
+SPIRITS
+The rules for great form spirits can be found under 
+Summon Great Form Spirit (Minion) on p. 136 and In-
+vocation on p. 147.
+>> STREET GRIMOIRE <<
+<< THE IMMATERIAL TOUCH    205
+InMediaRes Productions LLC (Order #38901858)

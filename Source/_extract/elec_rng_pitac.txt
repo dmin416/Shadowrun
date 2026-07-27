@@ -1,0 +1,509 @@
+﻿==== PDF 92 ====
+can completely gel for whatever reason (arrogance, ego, 
+previous beefs, take your pick). 
+The second kind is the one most associated with 
+runners, the permanent team. These are the runners 
+who have banded together for the long-term and (usu-
+ally) have found a way to work together à most of the 
+time. By working together on a constant basis, every-
+one learns how the others think, operate, and react in 
+specific situations. This level of coordination is the goal 
+of such teams. The problems with permanent teams are 
+that with a set roster, the team may have some signifi-
+cant gaps in capability. And since they depend on one 
+another so muchùand have likely grown to care for each 
+other to some extentùa lost team member can be diffi-
+cult to recover from.
+KNOW YOUR ROLE
+There are certain key positions that need to be filled by 
+people who know what theyÆre doing, no matter how 
+each individual team is organized. Some roles might 
+be shared between two or more runners, some runners 
+may handle more than one role, but teams that last 
+have every role covered.
+Team Leader: Someone has to be in charge, period. 
+Without someone calling the shots, coordination breaks 
+down and people die. On most teams, the team leader 
+is one of the direct combat-types with the skills neces-
+sary to, well, lead. In this age of technology, however, 
+more riggers and/or deckers have taken this role be-
+cause theyÆre uniquely positioned through their decks or 
+RCCs with PI-Tac technology to coordinate actions and 
+responses. 
+Direct Combatant: The team members who phys-
+ically engage the enemy when combat becomes 
+necessary. They include the usual hoop-kickers such 
+as street samurai, combat adepts, mercs, tanks, or 
+other specialistsùsnipers and the like. Whatever the 
+strengths of the individual combatants, the team as a 
+whole must be able to engage the enemy at all ranges. 
+This means that at least one direct combatant should 
+be able to engage at long range as well as having 
+>> TACTICS & TOOLS <<
+92    Realities of Tactical Teamwork >>
+
+
+==== PDF 98 ====
+contempt for anyone not of their gangùdictate how 
+they approach confrontation and combat.
+Preferred fighting methods can also dictate what 
+tactics are used. Go-gangers, such as the Ancients, 
+base their tactics on the use of vehicles. Thrill gangers 
+may prefer a signature style of attackùthe use of fire by 
+the Halloweeners in Seattle, for example. As with any 
+adversary, taking the time to learn how a group thinks 
+can make all the difference in the world when the time 
+comes to fight them.
+APPLYING 
+THE LESSONS
+Combat, specifically small-unit tactics, is not just some 
+abstract concept in Shadowrun, Fifth Edition. There are 
+some specific, basic maneuvers any shadowrunner 
+team can perform to receive in-game benefits during 
+general combat situations. These come in the form of 
+combat maneuvers. While not every combat situation 
+can be accounted for, the maneuvers listed in this sec-
+tion can be used in a variety of combat situations and 
+will enable players to expand their combat options and 
+foster teamwork. 
+COMBAT TEAMWORK
+To receive the bonuses for a specific combat maneuver, 
+a team cannot simply say ôwe are doing thisö and then 
+apply the benefits. The specific combat maneuvers list-
+ed here require a team to make a Combat Maneuver 
+Test to determine whether or not they earn the bonus-
+es, and the gamemaster should add or subtract modi-
+fiers based on how well the team set themselves up to 
+carry out the maneuver. All maneuvers are considered 
+optional and are used at the gamemasterÆs discretion. 
+COMBAT MANEUVER TESTS
+Combat Maneuver Tests are based on the standard 
+teamwork skill listed on p. 49, SR5. Before any combat 
+maneuvers are attempted, the team will have to desig-
+nate a leader to order and/or coordinate the maneuver. 
+The leader in this case will be the primary roller for the 
+test with the rest of the team contributing. 
+To perform a Combat Maneuver Test, the designated 
+leader needs to have the Small Unit Tactics Knowledge 
+skill. They roll a Small Unit Tactics + Intuition Test. Any 
+team members who also have the Small Unit Tactics skill 
+can join on a teamwork test (or they can default on the 
+test, making an Intuition û 1 Test), making a roll and ap-
+plying their hits per the teamwork tests rule. The team 
+leader may use their Leadership skill to direct one team 
+member per maneuver as described on p. 142, SR5). 
+Ordering a Combat Maneuver can be done by verbal 
+command, which is a Free Action. The Combat Maneu-
+FIGHTING THE CHAOS: 
+WHEN THERE ARE NO TACTICS
+Knowing how to move a squad through a war zone or adapt 
+to your opponentÆs tactics are useful skills, but sooner or later 
+youÆre going to come up against an enemy whoÆs embraced the 
+principle of pure chaos in combat. Those who fight this way 
+are either tactical geniuses or certifiable madmenùeither 
+way you will have no idea what to expect; chaos is, by nature, 
+awfully to predict. So what do you do when faced with such 
+adversaries? ThereÆs no single answer; youÆre going to have 
+to get creative. Fortunately, there are some solid principles on 
+which to base your creativity. 
+1.	Have a plan B à and C, D, E, all the way through Z. Chaos 
+is to be expected in any combat, and while having a plan is 
+important, itÆs just as important to know when the plan is a 
+bust and itÆs time to move on to the next one. 
+2.	Maintain adaptability and flexibility. Just as itÆs important 
+to have multiple plans, itÆs important to be able to adapt 
+your actions as needed to face new threats or obstacles. 
+Assess the situation and look for the enemyÆs weaknesses 
+or a way out. 
+3.	Know when itÆs time to call it. In every combat situation 
+thereÆs always a chance your survival will depend on giving 
+up your objective. Which is why knowing when to back off 
+and bug out is vital. Sure, living to fight another day may tick 
+off your Ms. Johnsonùit might even hurt your street rep in 
+the short run. But few tacticians will argue that being alive 
+gives you a lot more options for making things right than 
+being dead does. 
+4.	DonÆt try and fight chaos with chaos. Contrary to what 
+popular media says, going all out often does nothing besides 
+get you killed. Fighters who win and teams that last use solid 
+plans and stay focused and controlled on the battlefield. 
+Bonsai charges or berserker rages are useless unless they 
+are part of a well-thought-out strategy. Someone ôgoing 
+Ramboö against a superior force accomplishes nothing 
+unless sheÆs acting as a diversionùdrawing enemy fire so 
+the rest of her team can withdraw in good order. Or achieve 
+the objective by a different route. 
+5.	Stay together! This doesnÆt necessarily mean proximity; it 
+means that a team has to continue working together until 
+the bitter end. Modern tech and other means may allow a 
+team to disperse, but they still must continue to coordinate 
+their efforts. Teams, not lone wolves, are what survives in 
+the long run. 
+>> TACTICS & TOOLS <<
+98    Applying the Lessons >>
+
+
+==== PDF 103 ====
+PERISCOPE CAM
+An inexpensive, hand-held sensor package used to 
+look around corners or over top of obstacles. Image 
+link is standard and it comes with limited upgrading 
+capabilities. It can be accessed wirelessly or viewed di-
+rectly through a small viewfinder at the base. 
+CAPACITY
+AVAIL
+COST
+1-3
+10R
+Capacity x 600Ñ
+BATTERING RAMS
+Sometimes, when a maglock pass key or a lock pick 
+just canÆt get the job done, a more robust method be-
+comes necessary. Popular with entry teams, battering 
+rams range from hunks of metal to high-tech wireless 
+devices. Battering rams are not recommended for use 
+as a melee weapon but can be used as such (use Ex-
+otic Melee Weapon (Battering Rams) skill, assuming 
+you had the foresight to select it). Battering rams use 
+Strength + Agility for the attack test (see Destroying 
+Barriers, p.197, SR5).
+Standard Ram: A metal tube weighing approximately 
+20 kilograms with a blunted end and handles along the 
+sides, this is a no-frills entry tool that relies on the userÆs 
+Strength for breaching. The standard ram is normally 
+used by one individual, but heavier versions are available 
+and can be used by two average humans.
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+ù
+(STR+2)P
+û1
+10R
+2,000Ñ
+Fluid-Motion Ram: The same as the standard 
+battering ram, but it includes an internal ten-liter liquid 
+reservoir. When used, the ram is swung backwards and 
+then forward to strike the target. On impact the internal 
+fluid in the ram creates extra momentum that increases 
+the impact damage. Very useful against more durable 
+doors, but using it requires two average-size humans or 
+one average-size troll.
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+1
+(STR*+3)P
+û1
+10R
+3,500Ñ
+*Strength Rating to be used is 
+(combined Strength of all users) / (number of users)
+>> TACTICS & TOOLS <<
+<< the Tools of the Trade    103
+
+
+==== PDF 104 ====
+Pneumatic Ram: Also known as the P-Ram, a 
+pneumatic ramÆs breaching power comes from a large, 
+battery-powered pneumatic piston. A P-Ram is too 
+large and heave to be swung. The quad-legged device 
+is securely positioned at the door or barrier before 
+operation and triggered by a touch pad or wirelessly. Its 
+power comes at the expense of mobility; it requires a 
+four-person team of average humans to deploy. 
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+6
+ù
+16P
+û4
+18R
+10,000Ñ
+Shock Ram: Users call it the Shock Knocker. ItÆs 
+a shock ram is designed to disable electronic locks 
+or defenses when it breaches a door or barrier. Four 
+large conductive spikes protrude from the ramÆs head 
+that penetrates the barrier to deliver the charge. A 
+metahuman in contact with the barrier or the spikes must 
+resist shock damage per normal rules. Shock rams can 
+be wirelessly discharged. Though an effective breaching 
+tool, a shock ram requires frequent maintenance and 
+constant monitoring, as repeated use can damage the 
+mechanism and insulating protective casing. A glitch on 
+a use test results in the batteries failing; a critical glitch 
+results in a shock to the operator. 
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+2)P 
++ 12(e)
+û3
+10R
+15,000Ñ
+BLAST SHIELD
+The blast shield is a two meter by one meter vari-
+able-geometry shaped charge consisting of thermite 
+strips and several high-explosive devices. Handle 
+straps in the center allow it to be carried and used like 
+a shield until itÆs deployed. Adhesives or magnets can 
+secure the blast shield to any surface. The charge can 
+be detonated with a timer or remotely. To use as a me-
+lee weapon, wielders must have Exotic Weapon (Blast 
+Shield) skill; the accuracy rating of the item is 4. 
+DAM
+AP
+BLAST
+AP
+AVAIL
+COST
+20P
+ù
+Target
+û4
+8R
+20,000Ñ
+ARES PED (PERSONAL  
+EXTRICATION DEVICE) MARK III
+Originally called the ôbody bag,ö the PED is a means 
+to transport unconscious or immobile individuals thatÆs 
+marketed to the general public as a lifesaving device. 
+Essentially a flexible bag of woven Kevlar, the PED of-
+fers protection roughly equivalent to medium armors, 
+and it is available in sizes to fit all metatypes. The PED 
+can form an airtight seal and sufficient insulation to 
+protect in hot, cold, or toxic environments; a tank with 
+sufficient oxygen to survive an hour is optional. Emer-
+gency GPS beacons are standard. 
+ARMOR RATING
+AVAIL
+COST
+12
+10R
+2,500Ñ
+ULTRA-GLIDE INDUSTRIAL LUBRICANT
+ImpZetaChem initially intended to develop an innovative 
+industrial-grade degreaser. On paper and in computer 
+modeling, thatÆs exactly what they did. But when they 
+tested their creation, they discovered the viscous liquid 
+not only didnÆt remove grease, it was itself almost im-
+possible to remove without specialized solvents. More 
+importantly, any surface coated with their experimental 
+cleaner became for all practical intents and purposes 
+friction-free. ImpZetaChem wasted no time in rebrand-
+ing their failed cleaner as an industrial lubricant. Though 
+chemically improbable, Ultra-Glide worksùthe coating 
+produces a zero-friction surface that all but eliminates 
+wear and heat in machinery. Sold to consumers in jugs 
+and spray cans, Ultra-Glide is popular with security pro-
+viders who use it to coat approaches to potential breach 
+points. It can also be used in squirt weapons or in stan-
+dard paint grenades (applicable skill tests apply). To move 
+across a surface (per meter) coated with Ultra-Glide re-
+quires an Gymnastics + Agility (3) [Physical] Test, or an 
+Agility (4) Test to hold on to an Ultra-Glide coated item. 
+AVAIL
+COST
+12
+30Ñ (per liter)
+HOLD-FAST ADHESIVE SPRAY
+Hold-Fast was developed at MIT&T as an effort to 
+meetùand cash in onùDunkelzhanÆs call for a non-le-
+thal alternative to conventional firearms. Its intend-
+ed purpose is to quickly immobilize subjects without 
+harming them. Though initially rejected by the Draco 
+Foundation for ônot meeting the necessary criteria,ö 
+Hold-Fast was adopted by Lone Star after their own in-
+dependent trials, conducted on the streets of several 
+CAS cities, proved it to be effective in apprehension 
+and crowd control. Hold-Fast is a liquid that is deliv-
+ered through a sprayer not unlike a fire extinguisher. 
+Once exposed to oxygen, the liquid hardens to form a 
+clear plastic-like shell in about thirty seconds. Standard 
+Hold-Fast become brittle after two hours, while the 
+long-lasting formula is stable until removed with a sol-
+vent. Use Taser ranges for Hold-Fast sprayer. Breaking 
+free of Hold-Fast requires a Strength (4) Test. 
+ACC
+DAM
+AP
+AMMO
+AVAIL
+COST
+û2
+Special
+ù
+10
+12
+50Ñ
+PERSONAL INTEGRATED 
+TACTICAL NETWORK
+The PI-Tac (a.k.a. P-Tac, orùto old timersùTac-Net) is the 
+latest generation of personal tactical network. Used by 
+both security and military forces, PI-Tac units are now 
+available to civiliansùonce said civilian has passed a 
+background check and been issued a permit. The Tac-Net 
+concept is not new; team networking devices of one sort 
+>> TACTICS & TOOLS <<
+104    the Tools of the Trade >>
+
+
+==== PDF 105 ====
+or another have been around for decades. However all 
+previous ænets were add-ons that linked sensors and other 
+components that werenÆt necessarily compatible, result-
+ing in a complex mash of patches subject to malfunctions. 
+PI-Tacs are self-contained, plug-in units designed from 
+the group up to integrate with a commlink, cyberdeck, 
+or rigger command console to form a shared PAN/WAN. 
+PI-Tac enhances team coordination and effectiveness 
+with streamlined simplicity and comes in three levels of 
+sophistication. Strictly speaking, only the most basic level 
+is legally available for civilian use. The benefits of using PI-
+Tac are substantial, but gamemasters should remember 
+that PI-Tac is wireless by nature, which makes it a target 
+for hackers. All PI-Tac models include: 
+ò	
+Real-time GPS location software
+ò	
+Universal image and audio link that can access any 
+image sources from within the network, including 
+all external sensors and personal augmentations
+ò	
+Team Biomonitor
+ò	
+Weapon status indicator (ammo count, opera-
+tional condition, possible incursion)
+ò	
+ôEnhanced Situational Awarenessö (bonus to all 
+Perception Tests, based on level)
+Note that the maximum number of team members (includ-
+ing drones) on a particular Ænet at one time equals DR x 1.5.
+LEVEL I
+The basic, civilian Level PI-Tac is popular with the ex-
+treme-sport set including combat re-enactors or ama-
+teur urban/combat brawl leagues and even big/game 
+hunters. While the Level I comes with only the basic 
+functions, it provides users with a +1 to all Perception 
+Tests, including audio and visual. 
+MODEL
+DR
+AVAIL
+COST
+Renraku Taka
+4
+12R
+115,000Ñ
+LEVEL II
+The Level II is intended for use by security, law en-
+forcement, and/or standard military forces. Unit cost 
+makes use of the Level II for routine security and law 
+enforcement impractical. Thus the Level IIs are usually 
+assigned only to special tactical response units. Level 
+II includes the basic functions of Level I, with upgrades 
+and additions as follows: 
+ò	
+Host unit enhancement. One half the device 
+rating can be used to enhance either the firewall 
+or processing ratings of the host device. 
+ò	
+Trauma module. Worn on the chest under any 
+armor, this flat plastic plate can be loaded with 
+one dose any drug of the usersÆ choice and 
+programed to automatically deliver the drug 
+under user-set conditions. 
+ò	
+Enhanced situational awareness. Provides a +2 to 
+all Perception Tests, including audio and visual, 
+along with a +1 bonus to all Sneaking tests.
+ò	
+Enhanced Team Leader Coordination. This allows 
+a designated team leader to coordinate combat 
+maneuvers as a simple rather than complex 
+action and to transfer five initiative points to one 
+select team member on the network. 
+ò	
+Combat Mode. + 1 to one of the following com-
+bat skills of the playerÆs choice: Close Combat, 
+Automatics, Longarms, Pistols, Unarmed Com-
+bat. Player can switch to a different skill during 
+combat as a simple action.
+MODEL
+DR
+AVAIL
+COST
+Novatech 
+Tactician
+5
+18R
+325,000Ñ
+LEVEL III
+Designed for use by the most elite military and corpo-
+rate units, the unauthorized use of the Level III unit or 
+unlicensed possession of such a unit is considered a 
+felony by the Corporate Court and most national gov-
+ernments. Level III includes the basic functions of Lev-
+els I and II, with upgrades and additions as follows:
+ò	
+Upgraded host unit enhancement. The full de-
+vice rating can be used to enhance both the fire-
+wall and processing power of the host device. 
+ò	
+Enhanced Team Leader Coordination (upgraded). 
+This allows a designated team leader to coordi-
+nate combat maneuvers as a Simple rather than 
+Complex Action and to transfer ten points from 
+their initiative score to one team member on the 
+network or five points to two team members. 
+ò	
+Enhanced situational awareness. Provides a +3 
+to all Perception Tests, including audio and visu-
+al and +2 to Sneaking and Tracking Tests. 
+ò	
+Combat Mode. + 2 to one of the following com-
+bat skills of the playerÆs choice: Closed Combat, 
+Automatics, Longarms, Pistols, Unarmed Com-
+bat. Player can switch to a different skill during 
+combat as a simple action. 
+ò	
+Remote and limited access to vehicles and 
+drones linked into the network. This allows the 
+team leader, or any other designated team 
+member (consider them to have three marks 
+on any vehicle while subscribed to the network) 
+can remotely access and have limited control 
+over a vehicle or drone by accessing their dog-
+brains. As long as the units are operational, sim-
+ple commands such as ôgo to this locationö or 
+ôattack this targetö can be issued in the event a 
+rigger is rendered unconscious or dead.
+MODEL
+DR
+AVAIL
+COST
+ComPac-Esprit 
+General
+6
+18F
+855,000Ñ
+>> TACTICS & TOOLS <<
+<< the Tools of the Trade    105
+
+

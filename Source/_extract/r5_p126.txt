@@ -1,0 +1,104 @@
+Any weapon mounted on a drone uses the weapon’s 
+normal ammunition limits, rather than the expanded 
+version of a vehicle’s. There are, however, two optional 
+ammunition bays for drones. The first is simply adding 
+a second bin, which holds the same number of am-
+munition as the weapon ordinarily holds, and a small 
+switching unit to feed the weapon when one runs dry. 
+This may be installed with a Kit, uses 1 MP, and costs 
+50 nuyen.
+The other option is a full belt-feed system, replacing 
+the weapon’s normal ammunition feed mechanism en-
+tirely. This requires a shop, makes the weapon belt-fed, 
+and provides enough room for an entire belt of 100 
+rounds. Additional expanded ammunition bays may 
+then be added, each holding another 100-round belt. A 
+belt-feed system requires a Shop, uses 2 MP, and costs 
+500 nuyen.
+REALISTIC FEATURES
+One of the most-requested modifications, realistic fea-
+tures are found on several spy drones, allowing them to 
+blend in with local birds or insects. This type of modifica-
+tion also remains popular with anthropomorphic drones 
+in an effort to humanize them. As the design approaches 
+a more realistic model, the cost, as you might imagine, 
+increases. Realistic features are available in four ratings, 
+each rating serving as the threshold on a Perception test 
+to tell if it’s machine or a living being. 
+Rating 1, Availability 2, Cost (Body x Body) x 100
+Rating 2, Availability 4, Cost (Body x Body ) x 500
+Rating 3, Availability 8, Cost (Body x Body ) x 1,000
+Rating 4, Availability 12R, Cost (Body x Body ) x 5,000	
+While many drones can be made realistic (receiving 
+Rating 1), allowing them to pass at a casual glance at a 
+distance or at night, wheels, quad fans, and so on are 
+quite difficult to disguise. Most drones cannot be given 
+Realistic Features beyond Rating 1, while some cannot 
+even obtain that level. (The gamemaster is the final arbi-
+trator on what is and isn’t appropriate.) Realistic Features 
+2 can be added with a Shop, but higher than this requires 
+a Facility (most drones this realistic are designed as such 
+before being sold).
+AMPHIBIOUS
+An amphibious drone comes in two ratings: Rating 1 
+allows it to float on the surface of a body of water, as 
+long as it’s relatively still, and while vulnerable to being 
+submerged, it’s waterproof on the underbody. Rating 
+2 Amphibious makes the entire drone waterproof, al-
+lowing it to be submerged without harm. Note that in 
+either case, you’ll want a motive system! Rating 1 re-
+quires a Shop, 1 Mod Point, and costs (Body x Body) x 
+100 nuyen. Rating 2 requires a Facility, 2 Mod Points, 
+and costs (Body x Body) x 1,000 nuyen.
+ASSEMBLY TIME 
+IMPROVEMENT
+Many drones are designed to be partially disassembled 
+to allow for ease of storage and transport, most nota-
+bly several winged drones whose propulsion method 
+and wings can be removed so that the entire rig can 
+be transported via car, then re-assembled for use. To 
+assemble or disassemble a drone with this modification 
+requires (Body) minutes and an appropriate Mechanics 
++ Logic test with a threshold of 2. This upgrade can be 
+done with a Shop, requires 1 MP, and costs (Body) x 
+100 nuyen.
+CUSTOMIZED
+Pure cosmetic differences, including flashing LED 
+lights, snazzy paint, or chrome trim, can make a world 
+of difference in making your drone what you want it 
+to be. There is no game effect from these mods, but 
+they’re pretty to look at! Customization can be done 
+with a Kit, uses no MP, and can cost anywhere from 
+10–10,000 nuyen.
+DRONE ARM
+Similar to a cyberarm, a drone arm is much cheaper due 
+to the lack of flesh-chrome connections and sensory 
+translation. Unless otherwise noted, use the standard 
+cyberlimb rules, though the limb costs half of the normal 
+price. (Upgrades for the arm are at full price, however.) A 
+drone’s cyberlimb starts with a Strength equal to its Body 
+and an Agility equal to its Pilot. If the drone is using the 
+arm for a test that would normally be Agility-based, use 
+the limb’s Agility, rather than the drone’s Pilot Rating. A 
+drone limb may have the base drone’s starting attributes 
+as much as doubled, no matter how many increases that 
+is. The limb attributes may not go higher. (This means a 
+Body 5 drone could have a strength increased from 5 to 
+10, ignoring the usual cap of +4 to an attribute, but may 
+not go higher.) Drone limb armor does not affect the 
+drone in any way, but having a limb provides +1 to the 
+physical condition monitor as normal. Adding a drone 
+arm requires a Shop and uses 1 MP.
+OPTION: PRIMITIVE ARM
+While a normal drone arm has a metahuman’s level 
+of functionality, some drones save money by using a 
+simpler arm. These arms have brushes, or suction cups, 
+with a more limited range of options. These limbs suf-
+fer –2 to any limit on tests requiring fine manipulation 
+or weapon use with that limb, but the limb costs ten 
+percent of the normal price, rather than fifty percent.
+DRONE LEG
+Walkers have legs, sometimes two, usually more. These 
+operate similar to a cyberleg, but much cheaper as per 
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    125

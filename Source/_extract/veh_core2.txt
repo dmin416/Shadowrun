@@ -1,0 +1,884 @@
+==== CORE PDF 467 ====
+500 rounds of belted ammo or up to Body rockets/mis-
+siles. All weapon mounts are operated remotely and can 
+target a ninety-degree arc of fire (horizontal and verti-
+cal). Manual operation can be added, but only for vehi-
+cles, not drones, and at extra cost.
+BIKES
+Bikes are operated with the Pilot Ground Craft skill. 
+Most come available with either electric or hybrid bio-
+fuel engines.
+Dodge Scoot: This is an electric-powered scooter 
+with a top speed of don’t make me laugh. It’s compact, 
+fuel-efficient, and super-affordable, but no self-respect-
+ing shadowrunners would be caught dead on one.
+Harley-Davidson Scorpion: This bike is a classic, 
+heavy-bodied, heavily chromed road hog, armored and 
+styled for intimidation. Very popular with a certain type 
+of go-ganger, and with big, tough orks and trolls who 
+don’t worry about little things like “embodying a cliche.” 
+This bike is even tough enough to be used in the combat 
+biking circuit.
+Yamaha Growler: This is a durable off-road bike used 
+in motocross and other extreme sports events, usually 
+seen in photos and footage with both the bike and its 
+rider covered in dust. It’s popular with thrill seekers, wil-
+derness buffs, and light-freight drug smugglers.
+Suzuki Mirage: This Japanese racing bike is a fast, 
+sleek speed machine, popular with the other type of 
+go-ganger—it’s worth mentioning that both the Scorpi-
+on and the Mirage are popular with the Cutters, but the 
+Ancients show a notable preference for the Mirage and 
+its cousins and competitors. Like the Scorpion, the Mi-
+rage also sees some use in the combat bike circuit.
+CARS
+Cars are operated with the Pilot Ground Craft skill. 
+Most come available with either electric or hybrid bio-
+fuel engines.
+Chrysler-Nissan Jackrabbit: This cheap, ubiquitous 
+electric subcompact was made in North America for de-
+cades. Even after North American production ceased, 
+dozens of generic rip-offs were contract produced 
+SUZUKI MIRAGE
+>> STREET GEAR <<
+SIMILAR MODELS
+No two vehicles are created equal, but many are created 
+damn close. Every commercially available vehicle listed here has 
+numerous cousins, copycats, clones, and competitors that have 
+the same name but different branding, make, and model year. 
+These add an opportunity for you to define your character further 
+through his personal preference and brand awareness, without 
+cluttering up the game system with dozens of near-identical 
+cars. There are no differences between “similar models” except 
+branding and, at the gamemaster’s discretion, brand-related price 
+tweaks and maybe a point or so difference in an attribute or two.
+VEHICLE	
+SIMILAR MODELS
+Dodge Scoot	�����������������������������������Hyundai Hopper, Entertainment 
+Systems Papoose
+Harley-Davidson Scorpion	���������BMW Blitzen, Gaz-Niki Titan
+Yamaha Growler	���������������������������Evo Falcon, Gaz-Niki Wolverine
+Suzuki Mirage	�������������������������������Yamaha Rapier, Thundercloud Contrail
+Chrysler-Nissan Jackrabbit 	�������Peugeot 112, Opel Luna
+Honda Spirit	�����������������������������������Wuxing Breezer, Toyota Gazelle
+Hyundai Shin-Hyung	���������������������BMW 400GT, GMC Commodore
+Eurocar Westwind 3000	���������������Porsche Aguilar, Ferrari Diabolus
+Ford Americar	�������������������������������Mercury Comet, Honda Citizen
+S-K Bentley Concordat	�����������������GMC Cadillac Nocturne, BMW X89
+Mitsubishi Nightsky	���������������������Rolls Royce Phaeton
+Toyota Gopher	�������������������������������Gaz P–179, Wuxing Peng You 4x4
+GMC Bulldog Step-Van	���������������Renault-Fiat Eurovan, Aztechnology 
+Governor
+Rover Model 2072	�������������������������Ares Humvee, Toyota Coaster
+Ares Roadmaster	��������������������������Esprit Industries Sororita, Renraku 
+Kamekichi
+Samuvani-Criscraft Otter	�������������GMC Outrider, Celebrian Nymph
+Yongkang-Gala Trinity	�������������������Zemlya-Poltava Crest, Celebrian Dart.
+Morgan Cutlass	�����������������������������Surfstar Marine Seacop, 
+Messerschmidt-Kawasaki Harbor 
+Sentry
+Proteus Lamprey	���������������������������Kalmaar Seefuchs, Toyota TLM–2
+Vulkan Electronaut	�����������������������Proteus Explorer, Aztechnology Jade 
+Diver
+Artemis Industries Nightwing	�����IFMU Spatz, Suzuki Wingman
+Cessna C750	�����������������������������������Lear-Cessna Rover
+Renault Fiat-Fokker Tundra 9	�����Airbus JPFB-03, Toyota TX13
+Ares Dragon	�����������������������������������Hughes Stallion
+Northrup Wasp	�����������������������������Lockheed Kestrel, Renraku Dragonfly
+Ares Venture 	���������������������������������Cascade Skraacha, Zhejiang 
+Shenying Industries Raptor
+GMC Banshee	�������������������������������Aztechnology Lobo
+Federated Boeing Commuter	�����Hughes-Aerospace Daytrader
+462    VEHICLES and DRONES  >>
+
+==== CORE PDF 468 ====
+throughout the third world. The sheer amount of Chrys-
+ler-Nissan’ Jackrabbits on the road means the older model 
+must continue to be supported.
+Honda Spirit: This sleek three-wheeled two-seater 
+features an electric engine and is popular with commut-
+ing sprawl dwellers. The spirit has a bubble hood for bad 
+weather, with a chemical coating “guaranteed to neutral-
+ize 89 percent of acid rain.”
+Hyundai Shin-Hyung: This cheap four-door sports 
+sedan is a fast, powerful car for corp youth to show off 
+their moxie to their friends in a socially acceptable and 
+constructive way. Available for low prices out of the box, 
+the Shin-Hyung is often heavily customized by tuners and 
+street racing enthusiasts to the point of being far more 
+functional and barely recognizable.The Shin-Hyung can 
+be bought cheap, goes fast, and handles well. What else 
+could you want? These facts have made it popular with 
+Triad and Yakuza elements as well as more affluent street 
+gangs and slumming rich-kids.
+Eurocar Westwind 3000: This sleek, classic, low-slung 
+speed machine mixes business and pleasure into perfec-
+tion. Situated perfectly at the intersection of luxury and 
+performance, this is a turbo-charged sportscar that is only 
+a pipe dream for most slags working their way up through 
+the shadows. Its sexy lines and powerful engine make it 
+consistently powerful among muscle car enthusiasts.
+Ford Americar: This four-door sedan has an afford-
+able price point, capacious luggage storage, and safety 
+features that, combined, made it the bestselling family 
+car in North America for decades before losing out to the 
+Mercury Comet. The Americar is reliable and economical, 
+but not fast or sexy. If you need to ferry four metahumans 
+from point A to point B, a Ford Americar is probably the 
+most straightforward and anonymous way to do so. It’s 
+not flashy, and it’s not stylish, but sometimes flashy gets 
+you killed.
+Saeder-Krupp-Bentley Concordat: This luxury sedan 
+is stylish, stately, and impressive. It is fast and powerful, 
+comfortable and safe, opulently appointed, and most 
+importantly, a status symbol. The SK-Bentley Concordat 
+is the kind of car that simstars and orxploitation rappers 
+drive; a runner behind the wheel of one has made the big 
+time indeed. Either that, or they stole it.
+Mitsubishi Nightsky: Decadent, secure, and high-
+tech, this armored limousine isn’t for you. It’s for corp 
+executives, media stars, and Mr. Johnson; only in their 
+company will you enjoy its spacious interior and luxuri-
+ous amenities.
+TRUCKS AND VANS
+Trucks and vans are operated with the Pilot Ground 
+Craft skill. Most come available with either electric or 
+hybrid biofuel engines.
+Toyota Gopher: This is a classic pickup with great 
+off-road suspension, superior handling, and a loyal cus-
+tomer base. This low-maintenance design is a bit dated 
+but sees widespread use in third world nations and rural 
+areas, especially the NAN. It’s not the most wiz thing 
+you could drive, although its powerful engine and stor-
+age space could certainly come in handy if you have 
+some heavy duty hauling to do.
+GMC Bulldog Step-Van: This long-running top seller 
+from GM is a capacious (and armored!) delivery van fa-
+vored by everybody from legitimate shipping and logis-
+tics companies to security agencies to heavy mob crews 
+>> STREET GEAR <<
+VEHICLES
+GROUNDCRAFT
+HANDL* SPEED*
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Dodge Scoot
+4 / 3
+3
+1
+4
+4
+1
+1
+1
+—
+3,000¥
+Harley-Davidson Scorpion
+4 / 3
+4
+2
+8
+9
+1
+2
+1
+—
+12,000¥
+Yamaha Growler
+4 / 5
+3 / 4
+1
+5
+5
+1
+1
+1
+—
+5,000¥
+Suzuki Mirage
+5 / 3
+6
+3
+5
+6
+1
+2
+1
+—
+8,500¥
+C-N Jackrabbit
+4 / 3
+3
+2
+8
+4
+1
+2
+2
+—
+10,000¥
+Honda Spirit
+3 / 2
+4
+2
+8
+6
+1
+2
+2
+—
+12,000¥
+Hyundai Shin-Hyung
+5 / 4
+6
+3
+10
+6
+1
+2
+4
+—
+28,500¥
+Eurocar Westwind 3000
+6 / 4
+7
+3
+10
+8
+3
+5
+2
+13
+110,000¥
+Ford Americar
+4 / 3
+3
+2
+11
+6
+1
+2
+4
+—
+16,000¥
+SK-Bentley Concordat
+5 / 4
+5
+2
+12
+12
+2
+4
+4
+10
+65,000¥
+Mitsubishi Nightsky
+4 / 3
+4
+2
+15
+15
+3
+5
+8
+16
+320,000¥
+Toyota Gopher
+5 / 5
+4
+2
+14
+10
+1
+2
+3
+—
+25,000¥
+GMC Bulldog
+3 / 3
+3
+1
+16
+12
+1
+2
+6
+—
+35,000¥
+Rover Model 2072
+5 / 5
+4
+2
+15
+12
+2
+4
+6
+10
+68,000¥
+Ares Roadmaster
+3 / 3
+3
+1
+18
+18
+3
+3
+8
+8
+52,000¥
+* Handling and Speed are listed as On Road/Off Road when slashes are used.
+<< VEHICLES and DRONES     463
+
+==== CORE PDF 469 ====
+to shadowrunners. It has lots of room for people, gear, or 
+whatever you need to move, plus an engine and chassis 
+that can take a ton of punishment and keep on running.
+Rover Model 2072: Bigger and more powerful than 
+it needs to be, this luxury van is the top-of-the-line in its 
+class, and just as much of a status symbol as the Bentley. 
+On top of that, it packs intimidating size and all the acces-
+sories for cruising through the wilderness. Or, more com-
+monly, through elite urban neighborhoods. This expensive 
+vehicle is gaining more and more popularity with discreet 
+security details for its combination of status and security.
+Ares Roadmaster: This is a fragging armored car, chum-
+mer, and you should be grateful you can buy it legally. Le-
+gitimately used to move goods over land that need secure 
+transportation, the Roadmaster may have the speed and 
+handling of the tank that it is, and it may be anything but 
+subtle, but it can reliably shrug off small arms fire and even 
+grenades. For many teams, that’s a worthwhile tradeoff.
+BOATS
+Boats are operated with the Pilot Watercraft skill.
+Samuvani Criscraft Otter: This mid-size craft is main-
+ly used for pleasure boating, fishing, light hauling, and 
+utility work. A five-meter-long vessel with a fiberglass 
+open hull, the Otter is a well-rounded, general-purpose 
+boat that doesn’t stand out in any one area.
+Yongkang Gala Trinity: This small, fast-moving 
+speedboat is known as a smuggler’s craft. It’s generally 
+built on the spot using prepared components and a hull 
+kit, assembled with its payload built right into the hull; 
+then on arrival, the Trinity is taken apart around its cargo, 
+with the profit of the haul compensating for the fact the 
+boat was used only once.
+Morgan Cutlass: This commonly seen patrol boat 
+comes equipped with a pair of heavy, manually operat-
+ed weapon mounts (usually outfitted with LMGs) and a 
+high-quality sensor suite.
+SUBMARINES
+Submarines are operated with the Pilot Watercraft skill.
+Proteus Lamprey: This underwater sea-sled is used 
+for underwater inspection and transportation. with rid-
+ing positions for up to four scuba-equipped passengers 
+(while closest to a submarine, the Lamprey does not ac-
+tually protect its passengers from the rigors of the deep). 
+Military models of the lamprey are used for aquatic in-
+sertions by specially equipped naval spec ops forces, 
+like the UCAS Navy SEAL teams. The lamprey also in-
+cludes a drone rack for a single seaworthy drone of me-
+dium or smaller size for exploring at deeper depths than 
+the passengers can safely go.
+Vulkan Electronaut: This two-person mini-sub is the 
+cheapest available in its class and is available in a wide 
+selection of utility models. It is often used on patrol and 
+short-range reconnaissance duties and resupply runs, but 
+it can also be leveraged by shadowrunner teams looking 
+for unexpected ways to approach nautical targets.
+FIXED-WING AIRCRAFT
+Fixed wing aircraft are operated with the Pilot Aircraft 
+skill.
+Artemis Industries Nightwing: The Nightwing is an 
+older model ultra-light, closely resembling those that 
+originated in the late twentieth century. The Nightwing 
+has a shrouded electric motor to minimize aircraft sound 
+and reduce heat emissions—while this has a stated pur-
+pose of preventing noise pollution and environmental 
+impact, it has the side effect of making the small, glid-
+er-like craft quite stealthy. The Nightwing is popular with 
+rural aviation enthusiasts, smugglers, and anyone who 
+favors a classic stealth insertion.
+Cessna C750: This dual-prop civilian plane can carry 
+passengers, haul light cargo, or serve as a surveillance 
+plane. Its light frame and economy, as well as its afford-
+able price point and commonality, have ensured that 
+some see use in smuggling operations.
+Renault-Fiat Fokker Tundra-9: This amphibious jet is 
+great for heavy cargo and personnel hauling and doesn’t 
+need an airfield to land. It is used by corporate logis-
+tics teams for resupply of out-of-the-way facilities and 
+by Awakened game hunters and poachers to reach their 
+dangerous game. This craft is amphibious and comes 
+standard with buoyancy and flotation upgrades, mean-
+ing it can take off from land and water.
+ROTORCRAFT
+Helicopters are operated with the Pilot Aircraft skill.
+Ares Dragon: This versatile, solidly built, double-prop 
+cargo helicopter is used in a wide variety of roles in ur-
+ban and remote areas all over the Sixth World. It is often 
+used for heavy cargo hauling ops up occasionally in a 
+military capacity as a hybrid gunship/troop transport by 
+Knight Errant and their elite Firewatch special forces.
+Nissan Hound: This is a bleeding-edge transport he-
+licopter used by the Imperial Japanese Marines, along 
+with Special Forces units around the globe. To no one’s 
+surprise, it is also quite popular with corporate security 
+ROVER MODEL 2072
+>> STREET GEAR <<
+464    VEHICLES and DRONES  >>
+
+==== CORE PDF 470 ====
+rapid response forces, especially those belonging to jap-
+anacorps, including the Renraku Red Samurai. It comes 
+armed with two weapon mounts to ensure that its pre-
+cious cargo survives even the hottest dustoffs and dic-
+iest landings.
+Northrup Wasp: This one-man rotorcraft is designed 
+for police and security service. A wasp, lightly armored 
+and equipped with a heavy weapon mount, is the stan-
+dard, rote corporate security response to ever-mounting 
+shadowrunner problems.
+VTOL/VSTOL
+Vectored thrust crafts are operated with the Pilot Air-
+craft skill.
+Ares Venture: This small, cheap LAV is manufac-
+tured from off-the-shelf parts at environmentally friend-
+ly plants for use by smugglers worldwide. The Venture 
+sees a wide variety of legitimate, security, and military 
+use besides being a favorite of smugglers on a budget. 
+It is often used as a cargo or passenger transport, and 
+heavily armed and armored variants exist for patrol duty. 
+The Venture sells well among third-world customers.
+GMC Banshee: This lightning-fast, supersonic aircraft 
+is the classic, iconic t-bird, and it has the armor, arma-
+ments, and sensor suites to prove it. This LAV sees mili-
+tary use in reconnaissance and courier duty, and is a fa-
+vorite of elite smugglers for white-knuckle illegal border 
+crossings, with its ability to fly under the radar through 
+canyons at high speeds.
+Federated Boeing Commuter: This tilt-wing passen-
+ger aircraft sees heavy use as an inter-city shuttle, hop-
+ping between corporate-controlled aerospaceports and 
+ferrying sararimen around the world. Shadowrunners 
+are unlikely to use it as their own equipment, but they 
+may run into it, particularly if they’re on an extraction or 
+executive-protection detail.
+MICRODRONES
+The skill used to pilot a microdrone varies from drone 
+to drone.
+Shiawase Kanmushi: This is a four-legged “bug” 
+crawler drone that is hard to tell from a natural insect at 
+a glance. It’s ideal for penetrating confined areas, and 
+its gecko-tipped extremities and light weight render it 
+capable of crawling on walls and ceilings; it is, however, 
+quite fragile, and merely being stepped on or a tag eras-
+er can easily destroy it. This drone is operated with the 
+Pilot Walker skill.
+Sikorsky-Bell Microskimmer: Quiet and durable, 
+this disc-shaped skimmer is smaller than a frisbee and 
+can even skim over water. It moves with small and rather 
+weak hoverjets. It is easier to spot than the Kanmushi, 
+but still very small. It is operated with the Pilot Ground-
+craft skill; the hovercraft specialization applies.
+MINIDRONES
+Horizon Flying Eye: This spherical flying drone uses 
+omnidirectional thrust nozzles to stay airborne. Just 
+about eyeball-sized, it can roll itself on the ground, 
+though it needs to fly to overcome obstructions like 
+stairs and curbs. A version with a built-in flash-pak and 
+smoke grenade costs 500¥ extra; detonating them de-
+stroys the drone. Use Pilot Aircraft to operate.
+>> STREET GEAR <<
+VEHICLES
+WATERCRAFT
+HANDL
+SPEED
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Samuvani Otter
+4
+3
+2
+12
+6
+2
+2
+8
+—
+21,000¥
+Yongkang Gala Trinity
+5
+6
+3
+10
+6
+1
+1
+3
+8
+37,000¥
+Morgan Cutlass
+5
+4
+2
+16
+10
+3
+5
+6
+14R
+96,000¥
+Proteus Lamprey
+3
+2
+1
+6
+6
+1
+3
+4
+—
+14,000¥
+Vulkan Electronaut
+3
+3
+1
+12
+10
+4
+4
+2
+10
+108,000¥
+AIRCRAFT
+HANDL
+SPEED
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Artemis Nightwing
+6
+3
+1
+4
+0
+1
+1
+1
+8
+20,000¥
+Cessna C750
+3
+5
+3
+18
+4
+2
+2
+4
+8
+146,000¥
+R-F Fokker Tundra-9
+3
+4
+3
+20
+10
+3
+3
+24
+12
+300,000¥
+Ares Dragon
+4
+4
+3
+22
+8
+3
+3
+18
+12
+355,000¥
+Nissan Hound
+5
+4
+3
+16
+16
+2
+4
+12
+13R
+425,000¥
+Northrup Wasp
+5
+5
+3
+10
+8
+3
+3
+1
+12R
+86,000¥
+Ares Venture
+5
+7
+4
+16
+14
+4
+4
+6
+12F
+400,000¥
+GMC Banshee
+6
+8
+4
+20
+18
+4
+6
+12
+24F
+2,500,000¥
+Fed-Boing Commuter
+3
+3
+3
+16
+8
+3
+3
+30
+10
+350,000¥
+<< VEHICLES and DRONES     465
+
+==== CORE PDF 471 ====
+MCT Fly-Spy: This Mitsuhama drone is the size and 
+shape of a large insect but can achieve substantially 
+better altitudes. It can serve in an “eye in the sky” role 
+and is handy for shadowing people given the fact that 
+it’s relatively hard to spot. This drone is operated with 
+the Pilot Aircraft skill.
+SMALL DRONES
+Aztechnology Crawler: This small crawler can easily 
+handle stairs and other obstacles. Designed to operate 
+as a remote snooper in rough rural or urban terrain, the 
+Crawler is efficient and robust. Its Pilot program is a step 
+above most drones in its class. This drone is operated 
+with the Pilot Walker skill.
+Lockheed Optic-X2: This VSTOL stealth craft is only the 
+size of a cyberdeck with its wings folded up for transport. 
+When it is deployed, it is the size of a large hawk or oth-
+er bird of prey. Its patented signature-limiting technology 
+makes it a favorite of intelligence agencies and shadowrun-
+ners; radar systems and visual and audio Perception Tests 
+all receive a –3 dice pool penalty to spot the Optic-X2. This 
+drone is operated with the Pilot Aircraft skill.
+MEDIUM DRONES
+Ares Duelist: This medium-sized, roughly anthro-
+morph walker drone is an oddity, some might say a nov-
+elty. It is designed to patrol on its two feet like a metahu-
+man security guard and is equipped with blade-arms as 
+its primary armaments. Furthermore, it has been stylized 
+so its outer chassis represents the traditional oyoroi samu-
+rai armor worn by the Renraku Red Samurai, perhaps a 
+subtle jab at a competing mega. A niche item that is sel-
+dom fielded, the duelist has two distinct advantages: its 
+humanoid profile allows it to be mistaken for a more-ver-
+satile metahuman guard at a distance, making it useful at 
+facilities guarded by skeleton crews, and its blade-arms 
+are allegedly marginally more effective at combating 
+spirits than the traditional drone combat payloads of guns 
+and more guns. This drone comes with a unique Rating 
+3 Targeting (Swords) autosoft and mounts a pair of stan-
+dard swords in special weapon mounts. (The mounted 
+swords cannot be replaced with other weapons, but addi-
+tional weapon mounts may be installed using the normal 
+rules.) This drone is operated with the Pilot Walker skill.
+GM-Nissan Doberman: This tracked perimeter-pa-
+trol drone can secure its designated area effectively 
+during day or night conditions. It comes equipped with 
+a standard weapon mount. This drone is operated with 
+the Pilot Groundcraft skill.
+MCT-Nissan Roto-Drone: The Roto-Drone is a sim-
+ple, no-nonsense rotor-wing drone design that is highly 
+modular and customizable. Treat its Body as 3 higher 
+than its actual Rating for determining how many weap-
+on mounts or customizations it can integrate. This drone 
+is operated with the Pilot Aircraft skill.
+LARGE DRONES
+Cyberspace Designs Dalmatian: This large and robust 
+VTOL recon drone is capable of hovering and has a sturdy 
+frame for its light weight. It is about the size of a lawn 
+mower when stored, and when deployed is the size of a 
+large hang glider. Lone Star and Knight Errant have both 
+licensed the design for urban surveillance and patrol du-
+ties. The Dalmatian is operated with the Pilot Aircraft skill.
+Steel Lynx Combat Drone: A hardened ground com-
+bat machine, the Steel Lynx possesses four wheeled 
+legs and a heavy weapon mount. It is operated with the 
+Pilot Groundcraft skill.
+MCT FLY-SPY
+>> STREET GEAR <<
+DRONES
+DRONES
+HANDL
+SPEED
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Shiawase Kanmushi
+4
+2
+1
+0
+0
+3
+3
+—
+8
+1,000¥
+S-B Microskimmer
+3
+3
+1
+0
+0
+3
+3
+—
+6
+1,000¥
+MCT Fly-Spy
+4
+3
+2
+1
+0
+3
+3
+—
+8
+2,000¥
+Horizon Flying Eye
+4
+3
+2
+1
+0
+3
+3
+—
+8
+2,000¥
+Aztechnology Crawler
+4
+3
+1
+3
+3
+4
+3
+—
+4
+4,000¥
+Lockheed Optic-X2
+4
+4
+3
+2
+2
+3
+3
+—
+10
+21,000¥
+Ares Duelist
+3
+3
+1
+4
+4
+3
+3
+—
+5R
+4,500¥
+GM-Nissan Doberman
+5
+3
+1
+4
+4
+3
+3
+—
+4R
+5,000¥
+MCT-Nissan Roto-Drone
+4
+4
+2
+4
+4
+3
+3
+—
+6
+5,000¥
+C-D Dalmatian
+5
+5
+3
+5
+5
+3
+3
+—
+6R
+10,000¥
+Steel Lynx
+5
+4
+2
+6
+12
+3
+3
+—
+10R
+25,000¥
+466    VEHICLES and DRONES  >>
+
+==== CORE PDF 472 ====
+>> STREET GEAR <<
+<< VEHICLES and DRONES     467
+

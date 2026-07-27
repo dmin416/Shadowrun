@@ -1,6 +1,6 @@
-# Shadowrun 5e — Mechanics Index
+# Shadowrun 5e - Mechanics Index
 
-Quick-reference summaries of common **Shadowrun Fifth Edition** systems. These are play aids, not a full rules reprint — check the Core Rulebook (and supplements) when a ruling matters.
+Quick-reference summaries of common **Shadowrun Fifth Edition** systems. These are play aids, not a full rules reprint - check the Core Rulebook (and supplements) when a ruling matters.
 
 ## Core Resolution
 

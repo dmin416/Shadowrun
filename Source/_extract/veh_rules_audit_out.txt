@@ -1,0 +1,136 @@
+﻿TOC entries with equip/notes: 50/81
+ OK: Daihatsu-Caterpillar Horseman
+   E: Enviroseal
+   N: Pods decrease Handling to 2/1, Speed to 2, Accel to 1; Passenger increase Seats to 2 (6,000Ñ), Cargo (3,000Ñ), Advanced 
+ OK: Ares-Segway Terrier
+   E: Gyro Stabilization HORIZON-DOBLE REVOLUTION One of the great things about Horizon getting into the vehicle-building fiel
+ OK: Horizon-Doble Revolution
+   E: Gyro Stabilization, Smart Tire
+ OK: Evo Falcon-EX
+   E: Tracked Vehicle ENTERTAINMENT SYSTEMS CYCLOPS AR plus gyro stabilization equals no limits on how to design a motorcycle,
+ OK: Entertainment Systems Cyclops
+   E: Assembly Time Improvement, Gyro Stabilization
+ OK: Echo Motors Zip
+   E: Metahuman adjustment YAMAHA KABURAYA YamahaÆs latest racing bike, the Kaburaya is as sleek and loud as the arrow itÆs na
+ OK: Yamaha Kaburaya
+   E: - BUELL SPARTAN This off-road bike offers the kind of power and speed you expect from Buell, delivered to a custom tire 
+ OK: Buell Spartan
+   E: Off-road suspension HARLEY-DAVIDSON NIGHTMARE Harley isnÆt likely to give up on their Scorpion line any time in the near
+ OK: Harley-Davidson Nightmare
+   E: - YAMAHA NODACHI While the Rapier still finds occasional use in combat biker arenas, the Yamaha Nodachi is fast becoming
+ OK: Yamaha Nodachi
+   E: - THUNDERCLOUD MUSTANG Based on the designs of ThundercloudÆs cross-country bike, the Pinto, the Mustang is the mixed te
+ OK: Thundercloud Mustang
+   E: Smart Tires, Amphibious Operation CARS The cars of 2077 are a strange lot. The days of ôa car in every garageö are long 
+ OK: Renault-Fiat FunOne
+   E: Metahuman adjustment DODGE XENON The Xenon is a head-turner. As a compact car, it hov- ers in the world between the ultr
+ OK: Dodge Xenon
+   E: - ECHO MOTORS METAWAY Built for the bigger man! This is another one of EvoÆs new line that looks to be very meta-friendl
+ OK: Echo Motors MetaWay
+   E: Metahuman adjustment GMC 442 CHAMELEON The world of tuner cars is a subculture all its own, and creating a popular car i
+ OK: GMC 442 Chameleon
+   E: -
+ OK: Mercury Comet
+   E: - SAAB GLADIUS 998 TI No one thought the Dynamit would ever be topped à until the Gladius concept hit the screamsheets, 
+ OK: Saab Gladius 998 ti
+   E: Rigger adaptation DYNAMIT (GROUNDCRAFT) HANDL SPEED ACCEL BODY ARM PILOT SENS SEATS AVAIL COST 5/1 9 3 10 3 2 3 2 8 98,0
+ OK: GMC Phoenix
+   E: - HYUNDAI EQUUS This flagship of the Hyundai brand, this luxury sedan is entering its seventy-ninth consecutive model ye
+ OK: Hyundai Equus
+   E: Amenities (low) CHEVROLET LONGBOARD A blast from the past, this wagon-style car has the look of the Æ70s-the 1970s-down 
+ OK: Chevrolet Longboard
+   E: - ROLLS-ROYCE PHAETON The Rolls-Royce Phaeton was once the premier lim- ousine, but years of competitors copying their s
+ OK: Rolls-Royce Phaeton
+   E: Off-Road Suspension, Weapon Mount (external, fixed, manual), Manual Operation TATA HOTSPUR Knowing this was up next is w
+ OK: Thundercloud Morgan
+   E: Off-Road Suspension, Weapon Mount (external, fixed, manual), Manual Operation TATA HOTSPUR Knowing this was up next is w
+ OK: Tata Hotspur
+   E: Off-Road Suspension
+ OK: GMC Armadillo
+   E: Armory, cargo pod, drone rack, food truck, rigger cocoon, off-road transportation, sleeper command cabin, transport, wor
+ OK: Ford Percheron
+   E: - JEEP TRAILBLAZER For decades, the word ôJeepö conjured a specific image in the minds of the masses. When that name was
+ OK: Jeep Trailblazer
+   E: Multifuel engine, off-road suspension TOYOTA TALON The Talon is an inexpensive and rather boring little SUV. The designe
+ OK: Toyota Talon
+   E: - NISSAN HAULER While the SUV may have started as a way to haul a little extra cargo, it didnÆt stay that way for long. 
+ OK: Nissan Hauler
+   E: - EUROCAR NORTHSTAR What the Westwind is to the car market, the Northstar is to the field of SUVs. Referred to as a luxu
+ OK: Eurocar Northstar
+   E: Amenities (middle)
+ OK: GMC Escalade
+   E: Amenities (high), anti-theft 2, rigger adaptation
+ OK: Ford Econovan
+   E: Amenities (low) DODGE CARAVANER Since IÆm covering a bunch of other vans, I figured I might as well drop in my favorite 
+ OK: Dodge Caravaner
+   E: - GMC UNIVERSE While the Bulldog is considered GMCÆs armored work- horse, the Universe is GMCÆs real all-purpose work- h
+ OK: GMC Universe
+   E: - ARES CHUCK WAGON A riggerÆs got to eat, right? One way to have food where you need it is to make it look like youÆre t
+ OK: Ares Chuck Wagon
+   E: - HAULERS AIRSTREAM TRAVELER LINE MOTORHOMES (CHINOOK, PRESERVE, OUTBACK) Airstream is a legendary name in the world of 
+ NO RULES: Airstream Traveler Line Motorhomes p. 59
+ OK: Mack Hellhound
+   E: -
+ OK: Omni Motors Omnibus
+   E: Gridlink, gridlink override
+ OK: GMC Commercial G-series
+   E: Gridlink, gridlink override, maneuver autosoft (2), special equipment GMC COMMERCIAL D-SERIES Next is the dump truck. D-
+ OK: GMC Commercial D-series
+   E: Gridlink, gridlink override, maneuver autosoft (2), special equipment GMC COMMERCIAL D-SERIES Next is the dump truck. D-
+ OK: Saeder-Krupp Konstructors
+   E: Off-road equipment, special equipment MOSTRANS KVP-28 Mostrans introduced the KVP-27T back in the 2050s. Its unique offe
+ OK: Mostrans KVP-28
+   E: Secondary propulsion (hovercraft)
+ OK: Universal Hovercraft Minnesota
+   E: -
+ OK: Vodyanoy Assault Hovercraft
+   E: -
+ OK: BMW Blitzkrieg
+   E: Two heavy weapon mounts (external, fixed, remote; weapons not included with the vehicle) DODGE CHARGER With the multi-ma
+ OK: Dodge Charger
+   E: Two standard weapon mou
+ OK: BMW i8 Interceptor
+   E: Heavy weapon mount (external, flexible, remote) front, two standard weapon mounts (external, fixed, remote) rear, oil sl
+ OK: Dodge Goliath
+   E: Special equipment (extended roof), six gun ports, extra entry/exit point (assault ramp to the rear), ram plate
+ OK: BMW Teufelkatze
+   E: FlashTech, signature dampening, TeufelKatze flamer DODGE STALLION Every security and police force needs a workhorse. To 
+ NO RULES: Dodge Stallion p. 71
+ OK: BMW Luxus
+   E: Amenities (middle), anti-theft system 3, heavy weapon mount (concealed, turret, remote) rear, life support system 2, mis
+ OK: Dodge General
+   E: Additional entry/exit port (roof hatch), amenities (middle), special equipment (bathroom), special equipment (holding ce
+ NO RULES: BMW Stormwagon p. 75
+ OK: Dodge Rhino
+   E: on the Rhino includes a pair of forward-firing anti-material rifles intended to soften walls, twelve smoke dispensers ev
+ NO RULES: Ruhrmetall Wolf II p. 77
+ NO RULES: Evo Waterking p. 79
+ NO RULES: Sea Ray Cottonmouth p. 80
+ NO RULES: Kawasaki Stingray/Manta Ray p. 81
+ NO RULES: Aztech Nightrunner p. 81
+ NO RULES: Zodiac Scorpio p. 82
+ NO RULES: Mitsubishi Waterbug p. 83
+ NO RULES: Evo Water Strider p. 84
+ NO RULES: Corsair Elysium p. 85
+ NO RULES: Corsair Panther p. 85
+ NO RULES: Corsair Trident p. 87
+ NO RULES: Blohm & Voss Classic 111 p. 88
+ NO RULES: Lurssen Mobius p. 89
+ NO RULES: Sun Tracker Lake King p. 90
+ NO RULES: Evo Aquavida p. 90
+ NO RULES: UltraMarine Kingfisher p. 92
+ NO RULES: American Airboat AirRanger p. 92
+ NO RULES: GMC Riverine p. 92
+ NO RULES: Hughes Stallion WK-4 p. 95
+ NO RULES: Aztechnology Agular GX-2 and GX-3AT p. 97
+ NO RULES: S-K Aerospace SKA-008 p. 98
+ NO RULES: Dassault Sea Sprite p. 99
+ NO RULES: Federated-Boeing PBY-70 Catalina II p. 100
+ NO RULES: Airbus Lift-Ticket ALS-699 p. 102
+ NO RULES: GMC Gryphon p. 103
+ NO RULES: Evo-Krime Krime Wing p. 105
+ NO RULES: Luftschiffbau Personal Zeppelin LZP-2070 p. 106
+ NO RULES: Renegade Works Mothership LAvH p. 108
+
+=== Missing from Vehicles.md ===
+ MISS BMW Stormwagon 75

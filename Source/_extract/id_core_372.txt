@@ -1,0 +1,112 @@
+person in the global information system and is attached 
+to every piece of information associated with them in 
+the Matrix. No aspect of modern or legal life can func-
+tion without a SIN. Those who don’t have one can’t get a 
+job, can’t buy food, can’t even walk down the street. To 
+the system, these people don’t exist.
+ISSUING A SIN
+A SIN is issued by a country or extraterritorial corpora-
+tion (AA or AAA rating) at the time a person becomes 
+a citizen. This is generally when a person is born “le-
+gally” in that country somewhere—a hospital, clinic, or 
+maybe even at home with the assistance of a Renraku 
+DulaDroneTM. A new SIN will be issued in the case of a 
+change in citizenship. The SIN itself is a string of char-
+acters generated using some of the person’s vital sta-
+tistics fed into an incredibly complicated mathematical 
+algorithm. This guarantees that no two SINs will ever 
+be the same. However, this means that anyone with 
+access to the proper software, like law enforcement 
+agents and other government officials, can know sev-
+eral things just by looking at the SIN: your name, birth 
+date, place of birth, and nation that issued the SIN. A 
+set of biometric data including DNA, retinal scan, and 
+fingerprints will also be taken and logged into the sys-
+tem, associated with the newly created SIN. All of this 
+information is then registered with two master data-
+bases: one maintained by the country that issued the 
+SIN, and the Global SIN Registry (GSINR) controlled by 
+the Corporate Court. These datastores are among the 
+most secure on the planet, with multiple off-line back-
+ups for each.
+LICENSES
+A basic SIN allows a person to function within the most 
+basic parameters of the law. If a person wants to operate 
+outside these very confining strictures, they need spe-
+cial permission in the form of a license. What actions or 
+items require a license vary widely with the laws of the 
+country, but there are some common similarities shown 
+in the Common Licenses Table below. Acquiring a li-
+cense (legally) is, again, dependent on the laws of the 
+country. For the most part, acquiring a license involves 
+making an application, paying some sort of fee, a SIN 
+check, and possibly passing one or more certification, 
+testing, or training programs. The exact details of acquir-
+ing a license are left up to the gamemaster, but govern-
+ment bureaucracies are notoriously slow and frustrating.
+FAKE SINS
+For those without the privilege (or curse) of being born 
+with a SIN, there is very little choice in how they can 
+live. You either get issued a real SIN after birth (which 
+requires an act of government—good luck with that!), 
+live your life on the outside (which most choose to 
+do), or get yourself a fake SIN. Although SIN registry 
+databases are incredibly secure, they are still accessible 
+online (they have to be) which makes them vulnerable. 
+Demand and value for fake SINs is such that many of the 
+shadier organizations in the world, including all major 
+criminal syndicates, make a business of creating fake 
+SINs. Getting a fake SIN created and registered with all 
+of the proper authorities is a long and involved process 
+of hacking and data fraud that exploits loopholes and 
+other identified flaws in the system. Generally speak-
+ing, the more time that is taken in crafting a false iden-
+tity, the more believable (or “real”) it becomes. Hastily 
+created identities may work if someone just wants to 
+be able to buy a Nuke ‘em Burger at the Stuffer Shack, 
+but it won’t hold up to any sort of scrutiny.
+The amount of time and care taken in creating a 
+fake SIN is represented by its Rating. A low Rating SIN 
+consists of only the most basic information—such as 
+LICENSE EXAMPLES
+LICENSE
+SITUATION
+Item
+Any item with Availability “R”
+Magic
+License to practice magic, registered 
+Awakened Individual
+Spell Weapon
+Knowledge and use of a single Combat 
+Spell
+Technomancy
+Registered technomancer, license to 
+use Resonance abilities
+Occupational
+Registered professional (doctor, nurse, 
+electrician, private detective, etc.)
+FAKE SIN DETAILS
+RATING ATTRIBUTES
+1
+Random anybody, age, nationality, and sex 
+may not match; no supporting data
+2
+Rough match; sex matches, age and 
+nationality “pretty close,” no supporting data
+3
+Good match; sex, age, and nationality match; 
+supporting data, but obviously fake
+4
+Casually plausible; sex, age, and nationality 
+match; supporting data appears valid only on 
+cursory checks
+5
+Good fit; all statistics match; valid biometrics 
+for another person (with samples); some 
+supporting data and history)
+6
+Alternate life; all statistics match; valid 
+biometrics with samples; complete and 
+entirely believable history
+>> GAMEMASTER ADVICE <<
+<< Identification    367

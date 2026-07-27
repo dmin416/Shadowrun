@@ -1,0 +1,555 @@
+﻿======== PAGE 153 ========
+vehicle drives over it, the strip sounds a powerful elec-
+tromagnetic pulse into the chassis of the vehicle, at-
+tempting to damage its electronics. A vehicle that drives 
+over a zapper strip suffers 10 DV(e) damage. A zapper 
+strip has enough power for 10 discharges before need-
+ing to be recharged.
+Tracking Strip: The tracking strip is a subtle way to 
+gather information about vehicles that pass by. Once de-
+ployed, whenever a vehicle passes over a tracking strip, it 
+ôfiresö a stealth tag (p. 440, SR5) that attaches itself to the 
+vehicle. A tracking strip contains fifty stealth tags.
+SPECIAL TIRES
+Tires are one of the easiest ways to customize a ve-
+hicle. The following tires are available for all wheeled 
+ground craft. Changing tires requires a Automotive 
+Mechanic + Logic [Logic] (4, 5 minutes) Extended Test; 
+or you can get your brother-in-law to do it for a case of 
+beer, though that tends to take longer.
+Off-Road Tires: Designed specifically for rough ter -
+rain, these tires are not as effective as standard tires on 
+standard roads. When equipped, the vehicleÆs off-road 
+Handling is increased by +1, and on-road Handling is re-
+duce by û1.  Off-road tires are also considered run flat 
+tires (see below).
+Racing Tires: The flip-side of off-road tires, racing 
+tires are designed to maximize vehicle performance in 
+urban conditions. When equipped, the vehicleÆs on-road 
+Handling is increased by +1 and off-road Handling is re-
+duced by û1.
+Run Flat Tires: A common upgrade for shadowrun-
+ners, run flat tires are filled with a dense but flexible 
+foam instead of air. They continue to operate even when 
+the tire has been punctured but will quickly deteriorate if 
+the tire suffers significant structure damage.
+TOOL KIT
+It never hurts to be prepared! A smart vehicle owner 
+will purchase at least an Automotive Mechanic Kit in 
+their vehicle to affect emergency repairs, and possibly 
+others if the vehicle has more exotic equipment (see p. 
+443, SR5).
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST  <<    153
+
+======== PAGE 154 ========
+MODIFICATION 
+LIST
+Unless otherwise stated, a modification may only be 
+taken once for a vehicle. When a vehicle stat such as 
+Speed or Acceleration is listed as part of a modification 
+attribute (like cost), use the vehicleÆs base or unmodified  
+value in the calculation. In the case of Handling, which 
+has two values, always use the higher value in any cal-
+culations.
+POWER TRAIN
+Power train modifications all deal with how a vehicle is 
+controlled and how the vehicle moves.
+ACCELERATION ENHANCEMENT
+Using a variety of techniques, like adding fuel acceler -
+ants (such as nitrous oxide), turbochargers, optimized 
+air intakes, afterburners, or hydrofoil drives, the accel-
+eration of a vehicle is increased. Due to inherent limita-
+tions in a vehicleÆs design, its acceleration performance 
+can only be increased so far. In the end, though, thereÆs 
+nothing like going from zero to gone before you get 
+shot. Acceleration enhancement can be taken at Rating 
+1 or 2, with the Rating of the modification being added 
+to the vehicleÆs Acceleration value.
+GECKO TIPS
+Using cutting-edge technology, the portion of any ve-
+hicle that contacts a surface can be made to strongly 
+adhere to that surface. With the gecko tips modifica-
+tion, small vehicles can be made to literally climb walls 
+or adhere to surfaces at an extremely sharp angle. The 
+larger and heavier a vehicle is, the more extensive the 
+modifications that are necessary to make the gecko tips 
+system work. There are definite limits to the technolo-
+gy however, as it can only practically be installed on 
+small mass vehicles and still allow them to move. If the 
+gecko technology was applied to larger vehicles, they 
+would literally rip away chunks of the surface they were 
+adhered to if they tried to move. A vehicle installed 
+with gecko tips can move on surfaces with angles that 
+would otherwise be impossible, including vertically.
+GLIDING SYSTEM
+For those rare but frightening times when you find your 
+(non-flying) vehicle plummeting to the ground, youÆll 
+thank the Great Ghost you installed a gliding system. 
+The gliding system deploys a large-scale parachute 
+and uses a series of small thrusters installed on the 
+hull of the vehicle to provide limited maneuverability 
+while descending. For vehicles with an exceptional-
+ly large mass, there is an upgraded system that uses 
+other methods, including multiple parachutes and ret-
+ro-thrusters, to slow the descent. While the system al-
+lows a vehicle to fall and not be utterly destroyed, the 
+landing is far from graceful. When it lands, the vehicle 
+takes (Body / 2) damage just as if it had crashed (p. 201, 
+SR5). Owners planning on using the gliding system on 
+a regular basis will often install a Passenger Protection 
+System (see p. 159). After it has been deployed, the 
+parachute(s) in the gliding system can be released with 
+a wireless or manual command. Repacking the para-
+chute(s) for reuse is a manual process requiring about 
+one hour.
+HANDLING ENHANCEMENT
+By adjusting the suspension and/or adjusting the work -
+ings of control systems, a vehicle can be made more 
+responsive to manual or electronic controls. This can 
+range from optimizing control system response times, 
+to more dramatic changes like gyroscopic stabilizers, 
+or destabilizing the structural integrity of the hull. Han-
+dling enhancement can be taken with a Rating of 1 to 
+3, with the Rating added to the Handling (both on-road 
+and off-road) of the vehicle.
+IMPROVED ECONOMY
+With this modification, the fuel consumption of the ve-
+hicle has been optimized to use the minimum amount 
+necessary for standard operation. Additionally, the ve-
+hicle is fitted with a variety of different means to gather 
+operational power from the environment around it in-
+cluding sunlight, static electricity, and wind. A vehicle 
+with improved economy doubles its operational time 
+as long as it is operating within normal parametersùno 
+high speed chases.
+MANUAL CONTROL OVERRIDE
+For runners that are extra paranoid about the Matrix 
+security on their vehicle (or just unwilling to pay for 
+>> RIGGER 5.0 <<
+VEHICLE EQUIPMENT
+NAME AVAIL COST
+Morphing license plate 8F 1,000Ñ
+Spoof chip 8F 500Ñ
+Spike strip 8R 200Ñ
+Zapper strip 12R 2,500Ñ
+Tracking strip 8R 600Ñ
+Off-road tires 6 400Ñ/tire
+Racing tires 6 250Ñ/tire
+Run flat tires 4 250Ñ/tire
+154    >> BUILDING THE PERFECT BEAST  <<
+
+======== PAGE 155 ========
+it), they can install a manual control override system. 
+Nearly every modern vehicle made in the 2070s has 
+the ability to be piloted remotely or purely through 
+its electronic controls as well as its manual/mechan-
+ical controls. If a rigger is really nervous about those 
+electronic controls being taken over, they can install 
+a switch so that the manual controls will always take 
+priority over the electronic ones. In order to prevent 
+the switch from being remotely deactivated, it is always 
+mechanical in nature with the physical pressing of the 
+button making or breaking connections to ensure the 
+precedence of the manual controls. In game terms, 
+when manual control override is activated, piloting a 
+vehicle via AR or VR is not possible. The system can 
+only be activated by someone physically in the vehicle, 
+within reach of the switch (usually the driverÆs seat), 
+and by using a Free Action.
+MULTIFUEL ENGINE
+For teams that frequently find themselves needing to 
+travel far away from the comforts of modern civiliza-
+tion, modifying a vehicle with a multifuel engine has 
+provide invaluable. First, a portable plasma furnace is 
+installed on the vehicle that can render small quantities 
+of matter down to its constituent parts. Then, the vehi-
+cleÆs engine is modified to be able to consume the raw 
+material output of the plasma torch. This allows nearly 
+any matter to be fed into the vehicle as fuel. A vehicle 
+with a multifuel engine can always be refueled as long 
+as there is raw material around to be processed.
+OFF-ROAD SUSPENSION
+For those that like to make their own roads rather than fol-
+low them, there is the off-road suspension. Most modern 
+vehicles are designed to operate on a smoothly prepared 
+road and do not respond well out of that environment. 
+With an off-road suspension, a vehicleÆs suspension sys-
+tem has been replaced with one designed to operate in 
+more rugged environments. The downside, however, is 
+that the vehicle loses some of it responsiveness when op-
+erating in regular on-road environments. A vehicle with 
+an off-road suspension has +1 Handling when driving 
+off-road, but û1 Handling on-road. This stacks with bo-
+nuses from off-road tires (see p. 153).
+REMOVED MANUAL CONTROLS
+Riggers who are completely confident in their Matrix skills 
+and security but worried about their lack of physical securi-
+ty will often add a removed manual controls modification. 
+Almost all vehicles in the 2070s are capable of being pilot-
+ed by either electronic or manual controls. With this mod-
+ification, the owner simply removes the option for manual 
+controls, relying entirely on the electronic ones. Anyone 
+wishing to pilot the vehicle who is not the owner must suc-
+ceed on a Control Device Matrix action (p. 238, SR5).
+RIGGER COCOON
+For riggers, there is no safer place where they would 
+leave their body than a rigger cocoon. Generally built 
+>> RIGGER 5.0 <<
+CORE VEHICLE MODIFICATIONS
+Vehicles from the Shadowrun core rulebook (starting on p. 
+461) have the following Standard Upgrades.
+Dodge Scoot: Improved economy
+Harley-Davidson Scorpion: Metahuman adjustment (troll)
+Yamaha Growler: Off-road suspension
+Hyundai Shin-Hyung: Four extra Body Modification Slots
+Eurocar Westwind 3000: Passenger protections aystem (Rating 6), 
+anti-theft system (Rating 2)
+Mitsubishi Nightsky: Amenities (Luxury), life support (Level 1)
+Toyota Gopher: Off-road suspension, special equipment (open box 
+storage)
+GMC Bulldog: Four extra Body Modification Slots
+Yongkang Gala Trinity: Assembly/disassembly, smuggling 
+compartment
+Morgan Cutlass: Two heavy weapon mounts (external, turret, 
+armored manual)
+Proteus Lamprey: Standard drone rack (medium)
+Artemis Nightwing: Signature masking (Rating 4)
+R-F Fokker Tundra-9: Alternate propulsion: amphibious (surface)
+Nissan Hound: Two standard weapon mounts (external, flexible, 
+remote)
+Northrup Wasp: Heavy weapon mount (external, flexible, remote)
+GMC Banshee: Rigger cocoon, ECM 4
+Shiawase Kanmushi: Gecko tips
+MCT Fly-Spy: Realistic features (Rating 2)
+Lockheed Optic-X2: Signature masking (Rating 3) *This explains the 
+penalty listed on p. 466, SR5; it does not increase that penalty.
+Ares Duelist: Two light weapon mounts (external, flexible, remote), 
+realistic features (Rating 1)
+GM-Nissan Doberman: Standard weapon mount (external, flexible, 
+remote)
+MCT-Nissan Roto-Drone: Three extra Weapon Modification Slots
+Steel Lynx: Heavy weapon mount (external, turret, remote)
+>> BUILDING THE PERFECT BEAST  <<    155
+
+======== PAGE 166 ========
+that a rigger may want installed on their vehicle. This 
+could include such things as a dozer blade, snoware-
+moval device, asphalt dispenser, road-paint applicator, 
+or temperature controlled storage. No fixed costs are 
+provided, as the gamemaster has final say on what can 
+be installed on the vehicle and what effect it may have.
+VALKYRIE MODULE
+If you have teammates that just canÆt seem to stop from 
+getting themselves critically injured, then they are going 
+to thank you for installing a Valkyrie module. Named af-
+ter the mythical maidens that carry a Viking warrior to 
+the afterlife, the Valkyrie module is a small-scale, porta-
+ble, automated emergency room. The module includes 
+a bed with a transparent, enclosed lid and a host of so-
+phisticated medical equipment with built-in software 
+that can quickly analyze and treat almost any injury. 
+Any person placed in the Valkyrie module is auto-
+matically stabilized (p. 209, SR5). The systems on the 
+Valkyrie module are equivalent to a Rating 6 Medkit (p. 
+450, SR5), with all of the same functionality. Additional-
+ly, the Valkyrie module operates as an autodoc, and so 
+can be operated remotely (p. 208, SR5).
+WINCH
+For those times when a runner needs to pull or tow 
+something and they donÆt want to call an underpaid 
+and overweight member of the auto club, there is the 
+winch modification. The basic winch hasnÆt changed its 
+design much in about a hundred years. It has a heavy 
+gauge steel cable ending with a hook or latch and wraps 
+around a powered drum. A winch can be mounted on 
+the front or rear of the vehicle, and comes with about 
+one hundred meters of cable and can support a load 
+of up to ten tons, provided the vehicle itself is heavy 
+enough to support this. If wireless enabled, the winch 
+hook can be released remotely with a Free Action. An 
+enhanced winch is generally found in heavy industrial or 
+rescue vehicles but can be useful to a runner. Its winch 
+replaces the hook with an advanced system using a 
+combination of gecko-grip technology and magnetism 
+that can attach to any surface on its target without the 
+need to manually place a hook on an appropriate part. 
+The system can be activated or deactivated remotely 
+with a wireless command (if enabled). The enhanced 
+system can support a load of up to one hundred tons 
+and includes additional stabilizers deployed from the 
+vehicle and onto/into the ground to double the towing 
+vehicleÆs weight for lifting purposes.
+WORKSHOP
+For the true tinkerers who can never be apart from their 
+tools, a vehicle with ample enough space can be made 
+into a mobile workshop. Niceties and comfort items are 
+removed to make room for shelving, work spaces, and 
+equipment. A vehicle modified in this way counts as 
+being a Shop for the purposes of tool availability (p. 
+443, SR5). The type of shop (Automotive Mechanic, 
+Armorer) must be chosen at the time of the modifica-
+tion and cannot be changed.
+ELECTROMAGNETIC
+Electromagnetic modifications are connected to or 
+modify a vehicleÆs electronic systems.
+ELECTROMAGNETIC SHIELDING
+When a rigger wants absolute control over the signals 
+that come in and out of their vehicle, there isnÆt a better 
+option than the electromagnetic shielding modifica-
+tion. This system builds a system of conductive metal 
+bands into the exterior body of the vehicle, designed 
+to conduct away and dissipate all wireless signals that 
+attempt to penetrate the body of the vehicle, going in 
+or out. This modification only works on vehicles that 
+create an enclosed spaceùit is useless for vehicles that 
+are open, such as a motorcycle. In game terms, the 
+body of the vehicle acts as a Faraday cage for Noise 
+purposes (p. 231, SR5) meaning that no communica-
+tion is possible through the barrier. When the system 
+is installed, the owner can choose to have certain sys-
+tems or features be able to move through the barrier by 
+running a physical wire through the cage. Any device 
+that can connect to the body of the vehicle with a wired 
+connection can bypass the Faraday cage.
+ELECTRONIC 
+COUNTERMEASURES (ECM)
+Savvy riggers and deckers know that it is often easier 
+to attack the signals controlling a device than to attack 
+the device itself. To that end, a vehicle can be equipped 
+with an electronic countermeasures (ECM) suite. This 
+modification allows the vehicle to function exactly like 
+an area jammer (p. 441, SR5), with all of the same rules. 
+Just like a jammer, the modification comes with a Rat-
+ing of 1 to 6.
+GRIDLINK
+Gridlink is a fairly ubiquitous feature for modern ve-
+hicles in the Sixth World, at least in the areas where 
+the sun of corporate control continually shines. Using 
+a system of embedded power lines in the road system, 
+any vehicle equipped with gridlink can use these lines 
+to draw operational power and thus have an unlimit-
+ed running time as long as it is connected. As with ev -
+erything in the Sixth World, thereÆs a downside. In ex-
+change for the free power, vehicles running on gridlink 
+essentially give up control to the owner of the local 
+GridGuidesystem. A vehicle is identified and tracked 
+every second it is attached to the system, is limited to 
+>> RIGGER 5.0 <<
+166    >> BUILDING THE PERFECT BEAST  <<
+
+======== PAGE 167 ========
+the legal speed limit set for the area, and can be re-
+motely shut down by the owner of the system. Most 
+vehicles constructed come with a gridlink system as 
+standard, but the system can be installed afterward 
+with a vehicle modification.
+In game terms, the host that controls the gridlink sys-
+tem is automatically assumed to have 3 marks (or be the 
+owner) of any vehicle connected. Needless to say, run-
+ners consider the GridGuide system to be a major liabili-
+ty to their work and will always (if theyÆre smart) remove 
+the system or install a gridlink override (see below).
+GRIDLINK OVERRIDE
+Using a combination of hardware and software mod-
+ifications, a vehicle can be equipped to override its 
+gridlink system, and retain independent control. When 
+activated, the vehicle appears to be a interacting with 
+the system normally but cannot be shut down, can ex-
+ceed the posted speed limit, and randomly rotates its 
+identifier so it cannot be tracked for an extended peri-
+od. Since even runners are pragmatic, the vehicle still 
+draws its operational power from the gridlink system, 
+as long as it is available, because who doesnÆt love 
+stealing from the corps?
+PILOT ENHANCEMENT
+More than just another program, vehicle Pilot programs 
+are some of the most sophisticated software programs 
+in use today. Enhancing a droneÆs Pilot program takes 
+more than just loading a new program: select chips 
+on the hardware set are replaced and upgraded, new 
+communication channels are installed to enhance in-
+BODY MODIFICATIONS
+MODIFICATION SLOTS THRESHOLD TOOLS SKILL AVAIL COST
+Assembly/Disassembly 2 Body x 4 (Min. 1) Facility ù 6 1,000Ñ
+Chameleon Coating 2 10 Facility ù 12F Body x 1,000Ñ
+Extra Entry/Exit Points 1 8 Shop ù 8 2,500Ñ
+Extreme Environment Modification 2 12 Shop ù 6 2,000Ñ
+Increased Seating 2 6 Shop ù 4 2,000Ñ
+Life Support
+Level 1 2 10 Shop ù 8 Body x 500Ñ
+Level 2 4 20 Shop ù 12 Body x 2,000Ñ
+Mechanical Arm
+Basic 2 8 Shop ù 4 1,000Ñ
+Articulated 3 16 Facility ù 6 5,000Ñ
+Nanomaintenance System (Rating 1-4) Rating Rating x 4 Shop ù (R x 5)R Rating x 5,000Ñ
+Realistic Features (Rating 1-4) Rating Rating x 4 Shop Medicine (R x 3)R Rating x Body x 
+1,000Ñ
+Smuggling Compartment 3 16 Facility ù 8F 1,500Ñ
+Shielding n/a 12 Facility ù 12F 3,000Ñ
+Special Equipment variable variable variable variable variable variable
+Valkyrie Module 4 6 Shop Hardware 
+8
+2,000Ñ
+Winch
+Basic 1 8 Shop ù 4 750Ñ
+Enhanced 2 12 Facility ù 8 4,000Ñ
+Workshop 6 20 Facility ù
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST  <<    167
+
+======== PAGE 168 ========
+formation gathering, and control systems are upgraded 
+to provide improved sensitivity and additional maneu-
+vering options. Unlike other modifications, the Pilot 
+enhancement replaces the Pilot Rating of the vehicle, 
+rather than adding to its existing Rating. A Pilot pro-
+gram can have a Rating of 1 to 9
+RETRANS UNIT
+For riggers that want to cast a wide net of drones, or 
+those wanting precision in a high-noise zone, the retrans 
+unit is essential. Using a specialized system of signal 
+capture and algorithmic reconstruction, the retrans unit 
+rebuilds and rebroadcasts a specific signal, eliminating 
+all the noise that accumulated on the signal up to that 
+point. Thus the signal behaves as if it had originated at 
+the point of the retrans unit. A vehicle equipped with a 
+retrans unit that is part of a network of other devices can 
+be used to rebroadcast all signal communications on the 
+network. In game terms, when calculating the effect of 
+Noise due to physical distance (see p. 231, SR5), the dis-
+tance from the source or the destination to the retrans 
+unit (whichever is greater) can be used instead of the to-
+tal distance from source to destination. In other words, 
+the Noise level is calculated as if the signal was originat-
+ing or arriving at the retrans unit, picking the higher of 
+the two. Note that this only works for communications 
+across the network of drones, not beyond it; that is to 
+say, a retrans unit cannot be used as a sort of bridge to 
+eliminate noise for a decker attempting to hack into de-
+vices beyond the drone.
+Although multiple retrans units in a single vehicle 
+provide no benefit, multiple vehicles equipped with re-
+trans units can be used to form a ôchainö such that only 
+the single highest noise value of all devices is used. A 
+retrans unit can provide its functionality for all devices 
+on a PAN.
+SATELLITE LINK
+Want to have a drone keep tabs on your doss while you 
+sit on a beach halfway across the world? You need a 
+satellite link. Any vehicle equipped with this modifica-
+tion communicates exactly like it is equipped with the 
+satellite link accessory (see p. 439, SR5).
+SENSOR UPGRADE
+Just like the Pilot program, a vehicleÆs sensors are a 
+complicated and highly integrated part of the vehicleÆs 
+electromagnetic systems. Vehicles that are massed 
+produced for civilian use arenÆt designed with acces-
+sibility and enhancement of their sensor systems in 
+mind, so improving a vehicleÆs sensor suite is no easy 
+task. Sensory devices themselves generally need to 
+be replaced to be improved, as well as the processing 
+hardware and software that controls them. As such, 
+the sensor upgrade modification replaces the vehicleÆs 
+Sensor rating rather than adding to its existing rating. 
+Sensor Enhancement come with a Rating of 1 to 6.
+SIGNATURE MASKING
+When youÆre pulling a run, going undetected is more 
+than half the battle. With the proliferation of sensor 
+suites in the Sixth World, this is far easier said than 
+done, but signature masking will go a long way to mak -
+ing a vehicle harder to detect. With this modification, 
+a vehicleÆs EM profile is reduced using a complicated 
+(and expensive) set of techniques including: coating 
+the vehicle in radar-absorbing materials, changing the 
+angle on body panels, and thermal and aural dampen-
+ing materials and systems. Signature masking comes 
+with a Rating of 1 to 6, where the Rating determining 
+the amount and extensiveness of the modifications 
+done to to hide the vehicle. Whenever an attacker at-
+tempts to either find the vehicle with a  Sensor Test, or 
+attack the vehicle using Active or Passive Targeting, the 
+Rating of the signature masking is applied as a nega-
+tive dice pool modifier, along with any other Signature 
+Modifiers (p. 184, SR5).
+SUNCELL
+For runners that are economically or environmental-
+ly minded, the SunCell modification provides a great 
+option. Using powerful solar-energy collectors and a 
+battery system, a vehicle can be powered by collect-
+ing solar energy. If operating exclusively during sunny 
+daylight hours, a vehicle has unlimited operational time 
+and needs no other fuel source. In any other conditions 
+(where sunlight isnÆt readily available), the vehicle will 
+use up all power stored in the battery and then switch 
+to its standard means of power production (likely a fos-
+sil-fuel engine). If operating in a mix of conditions, the 
+SunCell system roughly doubles the operational time 
+of the vehicle between refueling stops.
+EXAMPLE
+Rigger X is trying to communicate with a long-
+range aerial-surveillance drone that is on the other 
+side of the city, 15 kilometers away. Normally, this 
+would result in a Noise level of 5. However, Rigger 
+X has placed a drone equipped with a retrans unit at 
+a point nine kilometers away from him and one kilo-
+meter from the surveillance drone. The distance from 
+Rigger X to the retrans unit has a Noise level of 3, and 
+the distance from the retrans unit to the target drone 
+has a Noise of 1, so Rigger X uses the higher value 
+of 3.
+>> RIGGER 5.0 <<
+168    >> BUILDING THE PERFECT BEAST  <<
+
+======== PAGE 170 ========
+exotic alcohol and real food, along with access to every 
+Matrix entertainment channel or game available. Alterna-
+tively, the vehicle can have its amenities downgraded to 
+squatter (equivalent to most public transit), in which case 
+it automatically gains the effects of the increased seating 
+modification (see p. 164).
+Skill tests (such as Social Skills or Healing Checks) 
+that happen in a vehicle with an amenities modification 
+are considered to be happening in the equivalent life-
+style of the amenities. Gamemasters can apply bonuses 
+to Social Tests for situations where a display of wealth 
+or comfort would be advantageous. A character can 
+choose to live in their vehicle, but must still pay the full 
+cost for the chosen lifestyle.
+ENHANCED IMAGE SCREENS
+While every vehicle in the 2070s features some degree 
+of imaging screens to communicate important vehicle 
+information, many riggers and vehicle owners want to 
+enhance that image displaying capability. With enhanced 
+image screens, every sufficiently flat surface on a vehi-
+cle (including windows) can display an electronic image 
+or video. Theses images are hyper realistic and can be 
+used to project a false image of the outside world in an 
+attempt to deceive passengers. A Perception Test with a 
+û4 penalty is required to notice that the images are false. 
+Enhanced image screens can be used to display any vi-
+sual feed on a PAN, perfect for team members unable or 
+unwilling to use their AR, or tie their commlink or deck 
+into the same PAN. They can also be used for plain-old 
+entertainment. A vehicle with enhanced image screens 
+can display any and all Matrix AROs that they can see/
+access on the inside of their vehicle, making them visi-
+ble to characters who do not have AR equipped.
+METAHUMAN ADJUSTMENT
+As time marches on in the Sixth World, death, greed, 
+and racism seem to be constant. Despite the best ef-
+forts of many metahuman activist groups over the last 
+few decades, most vehicles are still designed and built 
+with human (or human-equivalent) size in mind. As a 
+result, any metahuman who wants to comfortably use 
+a vehicle must have it adjusted to their body. For trolls 
+and dwarfs, this means adjusting the position of ve-
+hicle controls to fit their size. For orks and elves, this 
+means more minor adjustments that take advantage of 
+their distinct physiology. Orks and elves attempting to 
+pilot a vehicle that has not been adjusted suffer a û1 
+penalty to any Pilot Tests, and dwarfs and trolls suffer a 
+û2 penalty. Pixies and centaurs shouldnÆt even try.
+>> RIGGER 5.0 <<
+170    >> BUILDING THE PERFECT BEAST  <<
+

@@ -1,0 +1,546 @@
+
+===== PAGE 129 =====
+• Attributes: +1 Charisma, +1 Intuition
+• Qualities: Common Sense, SINner (Corpo-
+rate Limited), Perceptive
+• Skills: Con +1, Etiquette (Corp) +1, Ne-
+gotiation +1, Perception +1, Sneaking +1, 
+Knowledge (Corp Politics) +1, Language +1
+CORP SILVER SPOONER
+Boy, did you hit the jackpot! Not only were you born 
+into a corp family, but you’re practically corp royalty! 
+One or both of your parents holds or held a position 
+of high esteem within the corporation. Maybe they 
+were a senior VP or a hotshot developer of some 
+kind. Growing up, you wanted for nothing and got 
+all the latest stuff, education, and attention. Because 
+of your lineage, you were groomed for big things.
+• Attributes: Charisma +1, Logic +1
+• Qualities: Born Rich, Privileged Family 
+Name, SINner (Corporate Limited)
+• Skills: Etiquette +1, Intimidation +1, Lead-
+ership +1, Negotiation +1, Perception +1, 
+Knowledge (Academic) +1, Knowledge 
+(Corporate) +1, Language +1
+TEEN YEARS
+CORP TEEN
+Growing up as a corporate teen can be … inter -
+esting. On one hand, people are constantly try -
+ing to encourage you to “find your true poten-
+tial,” which is corp-speak for finding your future 
+corporate function. On the other hand, you’re still 
+a teen, prone to trying things that aren’t exactly 
+corporate approved. Will you find your own way, 
+or find your potential within the corporation? 
+• Attributes: Intuition +1, Logic +1
+• Qualities: Daredevil, Records On File (3), 
+SINner (Corporate Limited)
+• Skills: Con +1, Intimidation +1, Perception 
++1, Performance +1, Running +1, Sneaking 
++1, Knowledge (Academic) +1  
+FURTHER EDUCATION
+CORP COLLEGE STUDENT 
+You may have been a corporate kid sent to gain 
+some kind of higher learning, or maybe you 
+were discovered by a corp and deemed worthy 
+of sponsorship. Either way, you’ve found your -
+self attending a corporate-sponsored school or 
+going to school on a corporate scholarship. This 
+may seem like a sweet deal, especially if you’ve 
+gotten off the streets or something similar, but 
+the corp sees you as an investment. And they will 
+want something for their investment. 
+• Attributes: Logic +1, Intuition +1
+• Qualities: College Education or Technical 
+School Education (choose one), Common 
+Sense, Day Job (5 Karma), Perceptive (5 
+Karma)
+• Skills: Etiquette (Academic) +1, First Aid 
++1, Instruction +1, Performance +1, Per-
+ception +1, Academic Knowledge +1 or 
+Professional Knowledge +1, Language +1
+REAL LIFE
+CORPSEC OFFICER, BASIC
+Growing up within the corporation, you never 
+were much of a book worm. It’s not that you were 
+stupid by any stretch of the imagination; it’s just 
+that you were drawn more to the physical side of 
+things. That, and you were able to take and un-
+derstand orders when needed. This made you a 
+suitable candidate for your corporation’s basic 
+corpsec training program. Or maybe you’ve had 
+experience elsewhere and decided that a nice, 
+steady job is more your pace. Either way, you’re 
+now on the job and learning all you can about cor-
+porate security policies and procedures. Maybe if 
+you work hard enough, you’ll find a spot on one of 
+the elite corpsec teams. 
+• Attributes: Body +1, Agility +1
+• Qualities: Day Job (15 Karma), Location At-
+tunement (5 Karma), Observant, Perceptive 
+(5 Karma)
+• Skills: First Aid +1, Leadership +1, Intimi-
+dation +1, Perception +1, Pistols +1, Run-
+ning +1, Tracking +1, Knowledge (Small 
+Unit Tactics) +1
+COMPANY TROUBLESHOOTER
+You are considered a loyal corporate employee. 
+You may have started out at the lowest rungs of 
+the company ladder, but you worked your way 
+into a position of importance through a mix of 
+determination, skill, and luck. Along the way, you 
+had the opportunity to cross-train in a wide va-
+riety of skills, which makes you even more valu-
+able. Now, you’re called on to help or lead the 
+way when your corporation has a special prob-
+lem that needs fixing.
+>> STREET LETHAL  <<
+128    OPPOSITION REPORT: CORPSEC >>
+===== PAGE 130 =====
+• Attributes: Logic +1, Charisma +1
+• Qualities: Observant, Solid Rep, Records 
+On File (4), SINner (Corporate Limited)
+• Skills: Automatics +1, Con +1, Etiquette 
++1, Instruction +1, Intimidation, +1, Lead-
+ership +1, Pistols +1, Sneaking +1, Tracking 
++1, Pilot Ground Craft +1, Unarmed Com-
+bat +1, Knowledge (Small Unit Tactics) +1
+RISING STAR
+Someone once said that you’ll go very far in the 
+company, and they were right. Through determi-
+nation, force of personality, luck, or a whole lot 
+of hoop-kicking, you’re now considered a golden 
+boy/girl within the company. You made the con-
+nections, did the work (or at least took credit for 
+it), and now … gosh darn it, people just seem to 
+want to keep promoting you. 
+• Attributes: Charisma +1, Intuition +1
+• Qualities: Driven, Natural Leader, Legend-
+ary Rep, Stay Out Of My Way
+• Skills: Con +1, Etiquette +1, Intimidation +1, 
+Leadership +1, Palming +1, Perception +1, 
+Professional Knowledge +1, Language +1
+ 
+WARM BODY
+Sometimes, the only thing someone strives for 
+is a steady paycheck, some benefits, and may -
+be a small pension or retirement package to fall 
+back on. Or maybe you realized that you’re not 
+the best there is out there and the best thing you 
+can do right now (for whatever reason) is simply 
+stay below the supervisor’s radar. OR … maybe 
+the corp just needs someone, anyone, to occupy 
+some space. While it may not be the most glam-
+orous of positions, there is something to be said 
+for blending into the background. 
+• Attributes: Intuition +1, Logic +1
+• Qualities: Blandness, Corporate Pariah, Lo-
+cation Attunement (7 Karma), This Is Your 
+Last Chance
+• Skills: Con +1, Etiquette +1, Palming +1, Per-
+ception +2, Running +1, Sneaking +2, Track-
+ing +1, Knowledge (Local Geography) +1
+CORPSEC ARSENAL
+ARES FIREWATCH “BUG 
+STOMPER” CUSTOM ARMOR
+Based on a mandate from Damien Knight him-
+self, the Bug Stomper armor was designed spe-
+cifically to provide members of Firewatch the best 
+possible means to survive a close-quarters en-
+counter with a bug spirit. Based on the standard 
+medium-level mil-spec armor, the Bug Stomper 
+is made of proprietary materials that provide an 
+increased amount of protection over a standard 
+suit of its level, but at only three-quarters the 
+weight. Its lighter weight, combined with a pat-
+ented Easy-Flow powered joint system, makes 
+it completely un-restrictive to the user. Special-
+ly designed compartments also increase the ar -
+mor’s capacity. Additional features include a mi-
+cro and small drone rack (standard) or the new 
+Gunfighter Scabbard modular, quick-release 
+weapons holsters for an additional 2,000 nuyen. 
+This system can hold an additional weapon (up to 
+the size of an assault rifle, shotgun, or sniper rifle) 
+on the back.  
+>> STREET LETHAL  <<
+<< OPPOSITION REPORT: CORPSEC    129
+===== PAGE 131 =====
+> The armor is definitely nice, but good luck trying to get 
+one. These are meant for Firewatch only, and Ares is very 
+strict when it comes to these units and will go after any 
+non-Firewatch personnel who obtain one. Although given 
+current events, who knows? 
+> Red Anya
+ARES ARMS BUG STOMPER CUSTOM ARMOR
+RATING CAPACITY AVAIL COST
+20 20 30F 35,000¥
+Features: Custom Fit, Holster (Pistol), Gear Access, Increase Social 
+Limit by 2 for Intimidation Checks. 
+Optional Features: Drone rack (micro or small, standard) or 
+gunfighter scabbard
+Special Rules: No other armor can be worn in combination with Bug 
+Stomper armor aside from a helmet.
+STONER-ARES M-22A1  
+VEHICLE MOUNTED  
+HEAVY MACHINE GUN
+Based on the Browning M-2 .50-cal heavy ma-
+chine gun, the M-22A1 is a modern upgrade of the 
+legendary weapon. In 2061, Ares bought out the 
+rights to the M-2 from Browning, who later sued, 
+claiming bad faith in the deal. But after a decade of 
+appeals, Ares through their partner Stoner Weap-
+ons began development of the new “Ma Duce.” 
+The result was a heavy machine gun that was so 
+big, so powerful, and had so much recoil, that the 
+only way it could be used effectively was mounted 
+to a vehicle or a heavy combat drone. Produced 
+in very limited numbers, the “Mad Mama,” as 
+it’s called, is used exclusively by Firewatch teams 
+when the heaviest firepower is needed. 
+STONER-ARES M-22A1 VEHICLE MOUNTED HEAVY MACHINE GUN
+ACC DV AP MODE RC AMMO AVAIL COST
+4 18P –6 FA +6 200 
+(belt) 24F 29,000¥
+Standard Equipment: Smartgun Targeting System
+AZTECHNOLOGY BLOOD 
+DRINKER COMBAT AXE 
+Rumored to have been used by Aztlan and Az-
+technology Special Forces as far back as 2061, 
+the Blood Drinker was only recently revealed to 
+the public following the Az-Am War. Slightly larg-
+er than a standard tomahawk, the Blood Drinker 
+looks like a cross between a hand axe and an an-
+cient macauitl. While the style and shape of the 
+blade varies by owner, each blade head is made 
+from molecularly hardened and sharpened obsid-
+ian with a titanium-tungsten shaft. These blades 
+can be simple or ornately crafted, depending on 
+the owner’s preferences. But no matter the look, 
+Blood Drinkers are meant for combat and are a 
+status symbol among the Aztlan/Aztechnology 
+security and soldiery.  
+> These are also quite popular with blood mages, who like 
+to turn them into weapon foci. 
+> Marcos
+AZTECHNOLOGY BLOOD DRINKER COMBAT AXE
+ACC DV AP AVAIL COST
+Physical (STR+3)P –3 12F 500¥
+EVO/YAMATETSU NAVAL 
+TECHNOLOGIES RAMPART 
+PORTABLE BALLISTIC 
+EMPLACEMENT
+In the chaos of a firefight, sometimes it’s hard to 
+find decent cover, let alone protect civilians. In 
+an effort to provide their security with a means 
+to protect both themselves and innocent civil-
+ians, Evo (through their subsidiary Yamatetsu) 
+developed a portable ballistic emplacement 
+that allowed responders to bring their cover 
+with them. Made of a Kevlar weave with ballis-
+tic-deflecting ceramic micro-plates on a titani-
+um frame, the Rampart is the size and weight 
+of a standard ballistic shield. But when activated 
+either manually or through a DNI, the Rampart 
+can horizontally expand up to four meters wide. 
+Extremely popular with Evo corporate security 
+responders, Yamatetsu currently has no plans 
+to sell the Rampart on the open market, instead 
+preferring to offer it to favored customers. 
+> In a firefight, anything is better than nothing, I guess. 
+And while I can see how this would have its uses, I’ve 
+also seen hackers easily take these things over. The look 
+on the sec-guards face when their cover suddenly folded 
+up was priceless. 
+> DangerSensei
+YAMATETSU NAVAL TECHNOLOGIES RAMPART  
+PORTABLE BALLISTIC EMPLACEMENT
+RATING AVAIL COST
++10 (hardened) 12F 3,000¥
+Special Rules: Takes Simple Action to deploy through DNI, Complex 
+Action manually. Hardened armor applies to all configurations.
+>> STREET LETHAL  <<
+130    OPPOSITION REPORT: CORPSEC >>
+===== PAGE 132 =====
+HORIZON-FLYNN DEFENSE-COM 
+COMMLINK WEAPONS
+Sometimes the best weapon one has is the one no 
+one knows they have. Once again partnering with 
+renowned bladesmith Dante Flynn, Horizon has 
+recently released their Defense-Com brand of con-
+cealed weapons. Designed to look like standard 
+(but non-functional) commlinks, Defense-Com 
+weapons come in three varieties: the Def-Com 
+hold-out pistol, taser, and defensive knife. Each 
+one is perfect for the person who requires protec-
+tion but doesn’t want to draw attention. 
+> These things can be handy. Undercover Horizon Protectors 
+are fond of these. Because of the low damage profile, 
+they usually load the pistol with capsule rounds filled 
+with appropriate night-night juice. The taser is decent, but 
+the knife is solid. I carry one. However, I suggest getting 
+to know them before you use them. Nothing worse than 
+grabbing the wrong ’link.
+> Mika
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: HOLD OUT PISTOL
+ACC DV AP MODE AMMO AVAIL COST
+5 5P — SS 2(b) 10 400
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: TASER
+ACC DV AP MODE AMMO AVAIL COST
+5 6S(e) –4 SS 4(b) 10 300¥
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: KNIFE
+ACC REACH DV AP AVAIL COST
+4 – (STR)P –2 10 250¥
+LONE STAR’S  
+REMINGTON 995 “BUZZSAW”
+A variant of their classic 990 shotgun, the 995 
+“Buzzsaw” has gained a reputation as being a 
+simple yet reliable and rugged entry gun. Cur -
+rently a favorite among Lone Star’s Shadow -
+riders, the 995 has a pistol grip in place of the 
+standard stock. But what makes the 995 an 
+effective door breacher is the barrel-mounted 
+titanium “teeth” that are jammed into a lock or 
+door hinge that prevent the weapon from skip-
+ping off when fired. It also features a grip han-
+dle that attaches to the pump-action but goes 
+over the weapon, allowing for rapid chamber -
+ing and maneuvering in close quarters. Both 
+these features allow for quick seating and em-
+ployment of the weapon. 
+> Those teeth also hurt when you jam them into someone’s 
+hand, neck, or whatever. 
+> Kane
+REMINGTON 995 “BUZZSAW” SHOTGUN
+ACC DV AP MODE RC AMMO AVAIL COST
+4 11P –1 SA — 8(c) 6R 1,000¥
+Standard Upgrades: Breaching teeth, foregrip, modified pump 
+handle, side mount (top and bottom).
+Special Rules: Breaching teeth provide +2 to accuracy when 
+weapon barrel is seated against a target.
+LONE STAR’S BATES-BROWN 
+TACTICAL COMBAT BOOTS
+Also known as “drek-kicker” boots, these specially 
+designed combat boots not only protect one’s feet 
+and look stylish with tactical gear, but with their 
+reinforced soles and metal toes they also act as 
+knucks for kicking. That’s right, with these boots, 
+kick attacks are more damaging than ever. Perfect 
+for kicking in doors or a perp’s guts!
+> One of the most cringe-worthy things I’ve seen is a Star 
+adept cop spin-kick a troll suspect in his … well you get 
+the idea. Frag, that looked like it hurt! 
+> Bull
+BATES-BROWN TACTICAL COMBAT BOOTS
+ACC REACH DV AP AVAIL COST
+4 — (STR+2)P –4 10 250¥
+Special Rules: +5 armor against attacks to the feet
+MAERSK SHIPYARDS 
+WAVECUTTER MPAC
+The Wavecutter MPAC, or Maritime Patrol and 
+Assault Craft, is loosely based on the PT-style 
+watercraft. But other than a few design features, 
+the Wavecutter and PTs have little in common. 
+Designed to fulfill a wide variety of maritime 
+warfare and security roles, the twenty-eight-me-
+ter-long Wavecutter weighs only approximately 
+twenty-five tons despite its heavily armored hull. 
+The Wavecutter also features a powerful Pack -
+ard-Voss V-31 Maritime engine that allows for an 
+impressive surface speed and maneuverability 
+profile. While the base model comes with several 
+features such as a small landing ramp that opens 
+>> STREET LETHAL  <<
+<< OPPOSITION REPORT: CORPSEC    131
+===== PAGE 133 =====
+to store a semi-rigid inflatable vehicle or other 
+small watercraft (up to two small craft, takes one 
+Complex Action to deploy). The Wavecutter also 
+has several other features that allow for extended 
+operations and is a favorite of Maresk’s Marines, 
+who use it extensively. 
+> What you have here is a t-bird on water. Depending on the 
+modifications, this thing can be a floating gunship, drone 
+carrier, or a special-ops taxi. And Maersk uses them for all 
+of the above. It’s one of the few times I find myself envious 
+of a corp, because they’re hard, but not impossible, to get 
+if you’re not cozy with Maersk. 
+> Kane
+MAERSK SHIPYARDS WAVECUTTER MPAC
+HAND SPEED ACCEL BODY ARM PILOT SENS SEATS AVAIL COST
+5 5 3 25 25 4 5 12 22F 360,000¥
+Standard Equipment: Amenities (low), commlink (DR 7), ECM 4, four 
+additional body modification slots, four additional weapon mount 
+slots, manual control override, rigger cocoon, rigger interface, 
+satellite link, sun cell, signature masking 4
+Special Equipment: Small craft bay (rear).
+ 
+MCT/WINCHESTER-HOWE 
+HORNET DIRECT-FIRE  
+MINI-GRENADE
+For a corporation that’s famous for its Zero-Zone 
+security, most weren’t surprised when MCT 
+subcontracted munitions manufacturer Win-
+chester-Howe to develop the Hornet mini-gre-
+nade. A cross between a grenade and a rocket, 
+the Hornet is launched from a grenade launcher, 
+but instead of arching, it is a direct-fire, single-tar-
+get weapon. Like a grenade, the Hornet can be 
+programmed to detonate based on a timer or 
+proximity to a target. Before impact, the Hornet 
+splits into six different projectiles, which gives it 
+a burst-fire-like effect. While the Hornet can be 
+used in any standard grenade launcher, the tar -
+geting sensors in the grenade’s head tend to mal-
+function, which often prevents projectile separa-
+tion and cancels the burst effect. 
+WINCHESTER-HOWE HORNET DIRECT-FIRE MINI-GRENADE
+DV AP BLAST AVAIL COST
+12P –2 Special 16F 400¥
+Special Rules: During normal operations, the Hornet is considered 
+to be a six-round burst fire weapon; normal rules apply. On a glitch 
+when firing, the Hornet does not separate. It will still do base DV –2, 
+but will lose its AP . 
+RENRAKU RED  
+SAMURAI KATANA
+The ultimate badge of honor and service among 
+Renraku’s Elite Red Samurai, these blades works 
+of art as much as functional weapons, forged with 
+a blend of modern and ancient techniques. Leg-
+end says that if a Red Samurai draws their blade, 
+it must taste blood or it will turn on its owner. 
+Whether this is true or not remains to be seen, but 
+when a Red Samurai draws their blade, someone 
+usually dies. A Red Samurai would rather die than 
+give up their blade willingly. Blades of honorably 
+fallen or passed Samurai are considered sacred 
+items. 
+> And the Reds take this very seriously. Don’t get any 
+ideas about stealing one, unless you want the entire Red 
+Samurai corps after you. I’m not kidding. 
+> Thorn
+RENRAKU RED SAMURAI KATANA
+ACC REACH DV AP AVAIL COST
+6 1 (STR+3)P –4 NA NA
+RENRAKU/INGRAM  
+SUPERMACH 200
+A weapon design subcontracted through the In-
+gram weapons corporation, the Supermach 200 is 
+a favorite among Najima (Renraku’s security sub-
+sidiary) and the Blue Samurai. An update of the 
+popular Supermach 100, the 200 is designed to 
+be light, compact, and hold a substantial ammo 
+capacity. But in order to accomplish all this, In-
+gram was forced to create a special proprietary 
+ammo type that can only be used in this weapon. 
+The result was a round that lacked the raw damage 
+profile of most weapons of similar caliber, but to 
+compensate it had one of the best armor-penetra-
+tion profiles without having to use APDS ammo. 
+Despite the 200’s supposed flaws, Renraku is 
+more than satisfied with the weapon, siting the 
+low potential for blow-through, and has contract-
+ed for several thousand over the next few years. 
+INGRAM SUPERMACH 2000 SMG
+ACC DV AP MODE RC AMMO AVAIL COST
+6 5P –6 BF/FA –2 40(c) 18F 5,000¥
+Standard Upgrades: Internal smartgun system, shock pad
+Special Rules: Because of its specialized design, this weapon can 
+only take custom ammo. For gameplay, treat price as standard ammo 
+but with Availability of 16F.
+>> STREET LETHAL  <<
+132    OPPOSITION REPORT: CORPSEC >>
+===== PAGE 134 =====
+SAEDER-KRUPP/ONOTARI ARMS 
+SILENT CLAW STILETTO
+Not well-known to the public but well-known in 
+the shadows is Onotari Arm’s Silent Claw stilet-
+to. A favorite among assassins who can get their 
+hands on one, the weapon is preferred by Saed-
+er-Krupp’s covert operatives. Made of a light-
+weight but durable ceramic alloy, the Silent Claw 
+is immune to all MAD scanners. And with a na-
+no-forged diamond tip, it can, in the right hands, 
+bypass all but the most hardened of armors. 
+> Rumors say that Lofwyr gives personalized versions of 
+these to his most loyal and successful operatives. His 
+right-hand drake, Scale, is said to have one made not of 
+ceramic materials, but from the fang of an enemy dragon 
+he personally killed at GeMiTo.
+> Wyrm Watcher
+ONOTARI ARMS SILENT CLAW STILETTO
+ACC REACH DV AP AVAIL COST
+6 — (STR)P –5 12F 400¥
+Special Rules: Because of the weapon’s nature, AP is only applied 
+during a thrusting attack. Otherwise, AP is —.
+SHIAWASE/NEMESIS  
+ARMS MAN-CATCHER 
+A prototype weapon system long considered a 
+failure, the Man-Catcher was one of many proj-
+ects recently re-discovered by Nemesis Arms 
+during the Megacorp Audit. A part of the low-pri-
+ority non-lethal division, the Man-Catcher is in 
+essence a rocket launcher that fires a warhead 
+filled with a fast-acting compound that, when ex-
+posed to air, expands slightly and turns into a rub-
+ber-like substance. Anything coming into contact 
+or coated with it will become stuck and eventual-
+ly immobile. The problem with the system wasn’t 
+the launcher or warhead, but rather the chemical 
+compound payload. On second review, a solu-
+tion was found, and the system became viable. 
+The launcher itself is a small tube approximate-
+ly fifty centimeters long, the warhead approxi-
+mately thirty centimeters. When used against a 
+target, the warhead can be pre-programmed to 
+detonate by timer, proximity, or impact, though 
+with with the latter the compound only has a fifty 
+percent chance of working (roll 1D6 with no re-
+rolls for Edge; it works on a 4 or better). Weapon 
+requires Exotic Ranged Weapon (Man-Catcher) 
+to operate. 
+NEMESIS ARMS MAN CATCHER
+ACC DV AP MODE RC AMMO AVAIL COST
+4 Ammo — SS — 10(m) 18F 6,000¥
+MAN-CATCHER AMMO COMPOUND
+DV AP BLAST AVAIL COST
+Rules — 10m 18 200¥  
+(10 shots)
+Special Rules: Anyone/thing caught within the blast radius must 
+make an opposed grapple test against a dice pool of 12 or they will be 
+considered trapped and unable to move as the compound hardens 
+and expands an additional one meter.
+WUXING-ARMTECH PTL-02
+In 2071, Wuxing approached ArmTech about de-
+veloping a weapon specifically for use underwa-
+ter. Having already developed a highly successful 
+line of grenade launchers and projectile launch-
+ers for use in space, ArmTech gladly accepted 
+the offer. After three years of research and devel-
+opment, ArmTech presented Wuxing with their 
+Personal Torpedo Launcher 01 prototype. After 
+another year of field testing and refinement, the 
+PTL-02 officially entered service with the Marine 
+Security Division and has had a successful track 
+record since. Basically another grenade launch-
+er, the PTL-02 fires custom mini-grenade torpe-
+does. Currently, there are only two types of tor -
+pedo-grenades: high explosive/armor piercing 
+(HEAP), which are designed to impact a target, 
+and concussive/depth charge, which is an area 
+effect weapon. 
+ARMTECH PTL-02 TORPEDO-GRENADE LAUNCHER
+ACC DV AP MODE RC AMMO AVAIL COST
+5 Torpedo — SS — 6 (cy) 18F 5,000¥
+Standard Upgrades: Environment modification 2 (underwater)
+HEAP TORPEDO
+DV AP BLAST AVAIL COST
+14P –4 –2/m 14F 300¥
+DEPTH CHARGE TORPEDO
+DV AP BLAST AVAIL COST
+12S –4 10m 12F 175¥
+>> STREET LETHAL  <<
+<< OPPOSITION REPORT: CORPSEC    133

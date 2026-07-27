@@ -1,0 +1,107 @@
+>> STOLEN SOULS <<
+DISGUISES
+DISGUISE
+AVAILABILITY
+COST
+Uniforms
+16F
+2,000-15,000¥
+Fixer services
+—
+250¥ per hour
+Forger services
+—
+500¥+
+FACTORY VEHICLES AND THEIR SPECIALIZED USES
+VEHICLE
+SPECIALIZED USE
+Ares Roadmaster (transport)
+Counterfeit SWAT vehicle/Urban Command Center
+Chrysler-Nissan Journey (car)
+Counterfeit Lone Star patrol cruiser
+Conestoga Trailblazer
+Counterfeit moving truck
+Dodge Ram Industrial
+Garbage truck
+Esprit Industries Watcher (SUV)
+Counterfeit CAS government vehicle
+GMC Endurance (van)
+Counterfeit DocWagon ambulance
+GMC Sidewinder (SUV)
+Counterfeit UCAS government vehicle
+Honda Artemis (car)
+Counterfeit Knight Errant patrol cruiser
+S-K LT-21 (delivery van)
+Counterfeit CrashCart ambulance
+VEHICLE MODIFICATIONS
+MODIFICATION
+AVAILABILITY
+COST
+Chameleon coating
+12R
+Body x 2,000¥
+Dash light bar
+15F
+3,500¥
+Emergency light bar
+15F
+5,000¥
+Morphing license plate
+8F
+1,000¥
+Siren
+15F
+1,400¥
+Smuggling compartment (dwarf, human, elf, or ork)
+12F
+3,500¥
+Smuggling compartment (troll)
+12F
+7,000¥
+Spoof chips
+8F
+500¥
+Rigger services
+—
+500¥ per hour
+186    EXTRACTOR’S TOOLKIT >>
+DRUGS (PER DOSE)
+DRUG
+AVAILABILITY
+COST
+Caldwell lily extract
+10R
+600¥
+Caldwell lily extract, concentrated
+12R
+1,000¥
+Chloral hydrate
+6R
+50¥
+Chloroform
+4R
+75¥
+DMSO
+5R
+50¥
+Gamma-scopolamine
+14F
+200¥
+Läel
+10F
+400¥
+Laés
+12F
+750¥
+Liquid nutrients
+4R
+75¥
+Narcoject
+8R
+50¥
+Normal saline
+—
+30¥
+Slab
+8R
+250¥

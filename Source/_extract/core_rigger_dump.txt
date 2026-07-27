@@ -1,0 +1,839 @@
+﻿==== CORE 271 ====
+NOISE REDUCTION & SHARING
+Along with all the standard features of a commlink, rig-
+ger command consoles have Noise Reduction and Shar-
+ing ratings that you set when you boot the console. The 
+Noise reduction rating is straight-up Noise Reduction (p. 
+230), which is cumulative with other forms of Noise Re-
+duction. The Sharing rating is the number of autosofts 
+you can run on the RCC that simultaneously run on all 
+slaved drones at the same time. One caveat: if a drone is 
+running any of its own autosofts, it cannot benefit from 
+the RCCÆs autosofts.
+The total of both ratings cannot exceed the device 
+rating of the RCC. You can adjust the values of these two 
+special ratings with a Change Device Mode action (p. 163). 
+Yeah, that means if your RCC has a Device Rating of 1 it can 
+only have one or the other feature running at a time.
+DATA PROCESSING & FIREWALL
+Rigger command consoles have the familiar Data Pro-
+cessing and Firewall ratings from both commlinks and 
+cyberdecks, but they lean toward commlinks in their 
+functionality since they are not designed for versatility 
+and cannot be readjusted on the fly. Data Processing 
+is used to determine Initiative when running in VR and 
+acts as the Limit for all Command tests performed on 
+the RCC. Firewall is used to defend against unwanted 
+wireless intrusion onto the entire slaved drone network.
+GROUP COMMAND  
+AND JUMPING AROUND
+Your RCC manages several parallel connections at 
+once, so you can give a command to one, all, or some 
+of your slaved drones with the same Simple Action. This 
+multi-connection also lets you jump from one slaved 
+drone to another without first jumping out of the drone 
+youÆre leaving. Commands issued from your RCC are 
+acted on during the droneÆs Action Phase, not yours.
+ Drones receiving multiple contradicting commands 
+on the same control levels (see Control Override, p. 
+265) before they have a chance to enact those com-
+mands on their Action Phase fail to perform any of them 
+and instead send an error message back to the users at-
+tempting to issue the commands.
+PANS & WANS (RIGGER STYLE)
+If you want extra protection for your drones and the abil-
+ity to command them all at once, you can slave them to 
+your RCC. Your RCC can handle up to (Device Rating x 3) 
+slaved drones, becoming the master device on that net-
+work. The group of your slaved drones plus your master 
+RCC is called a personal area network, or PAN.
+Whenever a slaved device is called on to make a de-
+fense test, it uses either its own or its masterÆs Rating 
+for each Rating in the test. For example, if your slaved 
+rotodrone is the target of a hackerÆs Brute Force action, 
+it could use your Willpower in place of its Device Rating, 
+and your RCCÆs Firewall in place of its own Rating, as-
+suming that either or both of these Ratings improve on 
+what it already has.
+The same rules for marks on slaved devices apply in 
+the RCC-drone relationship as in other Matrix couplings. 
+Most important to you are that if you get a mark on a 
+slave, you also get a mark on the master, and that if an 
+attacker has a direct connection, your drone canÆt use you 
+for help. For more details, see PANs and WANs, p. 233.
+COMMAND CONSOLE TABLE
+CONSOLE
+DEVICE 
+RATING AVAILABILITY COST
+DATA 
+PROCESSING FIREWALL
+Scratch-Built Junk 1 2R 1,400Ñ 3 2
+Radio Shack Remote Controller 2 6R 8,000Ñ 3 3
+Essy Motors DroneMaster 3 6R 16,000Ñ 4 4
+CompuForce TaskMaster 4 8R 32,000Ñ 5 4
+Maersk Spider 4 8R 34,000Ñ 4 5
+Maser Industrial Electronics 5 8R 64,000Ñ 3 4
+Vulcan Liegelord 5 10R 66,000Ñ 5 6
+Proteus Poseidon 5 12R 68,000Ñ 5 6
+Lone Star Remote Commander 6 14R 75,000Ñ 6 5
+MCT Drone Web 6 16R 95,000Ñ 7 6
+Triox UberMensch 6 18R 140,000Ñ 8 7
+>> RIGGERS <<
+<< BEING THE MACHINE    267
+
+==== CORE 272 ====
+There are also wide area networks, or WANs, with 
+multiple devices slaved to a host. This is the world of 
+that special kind of rigger, the security spider. They slave 
+their RCC to the buildingÆs host and connect to the entire 
+security system, including all of its slaved drones. When 
+youÆre inside a host, your effective ôphysical distanceö to 
+drones slaved to that host becomes zero, even if youÆre 
+on the other side of the world. The spider-rigger is often 
+teamed up with a spider-decker to help against hacking 
+intrusions on the security system.
+ELECTRONIC WARFARE 
+FOR RIGGERS
+No one likes getting jammed out of controlling their 
+own stuff. Yeah, the dog-brain pilot takes over, but who 
+wants that thing running the show?
+If youÆre using an RCC, you can compensate for noise 
+on the fly. Take a Complex Action and make an Electron-
+ic Warfare + Logic [Data Processing] test. The hits from 
+this test act as Noise reduction (cumulative with all other 
+Noise reduction) for the rest of the current Combat Turn.
+You can turn the tables on an enemy rigger or hacker 
+by using a jammer (p. 441). Some rigging purists say that 
+using jamming in a rigger duel is dirty pool, but some-
+times itÆs just what you need to save your keister.
+GETTING HACKED
+Rigger command consoles and vehicles, including 
+drones, are frequent targets of enemy deckers trying 
+to get the upper hand on an opponent. Riggers arenÆt 
+deckers, but they arenÆt completely inept in the world 
+of electronic warfare. Here are a few important Matrix 
+Actions riggers need to know about.
+When you know thereÆs a Matrix attack coming, you 
+can use the Full Matrix Defense action to bolster your 
+cyberdefenses. This option slows you down a bit, but itÆs 
+often better than losing control of your RCC or a pre-
+cious drone.
+Sometimes itÆs better to lose a drone for a few sec-
+onds than to have it turned against you or sent careen-
+ing into the nearest dense object. You can use the Re-
+boot Device action to cut off an enemy hack before it 
+gets too far. This take a little time, as your drone wonÆt 
+come back online until the end of the following Combat 
+Turn, so be aware of the droneÆs environment when you 
+perform this trick. A hard reboot wonÆt automatically re-
+sult in drone wreckage if youÆre careful. An aerial drone 
+that can glide on its wings or on autorotation for a few 
+seconds will be fine when it comes back up, and surface 
+drones should be okay as long as theyÆre not going too 
+fast. If youÆre flying a vectored thrust drone, you should 
+probably land it before you do this trick.
+GETTING DUMPED
+No, we donÆt mean the ôletÆs be friendsö conversa-
+tionùweÆve all been there, chummerùwe mean getting 
+>> RIGGERS <<
+268    BEING THE MACHINE >>
+
+==== CORE 273 ====
+booted out of something youÆve jumped into. Riggers 
+can be forcefully ejected from their jumped-in vehicles 
+in three nasty ways. First, if the vehicle is destroyed or 
+bricked, youÆre dumped. Second, if youÆre using a com-
+mlink or RCC and it gets destroyed or bricked, dump 
+city. Third, if youÆre plugged into something with a uni-
+versal connector and your cable gets yanked from ei-
+ther end (ouch), you get dumped.
+In all three cases, a dumped rigger suffers dumpshock 
+(p. 229) and loses control of the vehicle (natch). Vehicles 
+with a Pilot Rating will return to autopilot control at the 
+beginning of the next Combat Turn. Vehicles are uncon-
+trolled (see Control Vehicle, p. 203) until someone else 
+takes control.
+DRONES
+Drones are unmanned vehicles intended to be used re-
+motely by riggers or run autonomously. Of course, any 
+vehicle or other machine with a rigger interface can be 
+run remotely by riggers or autonomously, but drones 
+tend to be cheaper, more specialized to their function, 
+and donÆt need to pay for parking. Still, the rules for 
+drones apply to any remotely controlled or rigged de-
+vice, but between us chummers letÆs just say ôdroneö 
+because itÆs shorter.
+DRONES IN THE MATRIX
+Drones are devices, so they show up in the Matrix. This 
+can make them a target for enemy hackers, but it also 
+means you can reach your drone from anywhere on the 
+planet. If youÆre jumped into a drone, the droneÆs Ma-
+trix icon and your deviceÆs icon merge. When jumped 
+into a drone (or any vehicle for that matter) the attacker 
+can only target you (your persona and the device itÆs 
+on) and not your drone. When youÆre not jumped in, 
+your drone becomes a valid target once again. 
+The Device Rating of a drone is the same as its Pilot 
+Rating, meaning all of its Matrix attributes are equal to 
+the Pilot Rating.
+PILOT PROGRAMS
+Pilots (the programs, not the people) are not bright. 
+TheyÆre called ôdog-brainsö by those who have to work 
+with them, much the same way a particularly thick per -
+son might be called a ôdrone-headö by those who work 
+with him.
+A pilot program is specific to the device itÆs in. You 
+canÆt just copy a program from one device and move it 
+into a different one. After a week or so, the pilot is so 
+adapted to the specific vehicle, drone, or other device 
+that itÆs useless in anything else, even other devices of 
+the same model.
+Pilots have a Rating indicated by the Device Rating 
+of the vehicle, drone, or other piece of gear theyÆre 
+in. This rating is used in place of any Mental attribute 
+needed for a test, but it hardly makes up for a metahu-
+man brain. When faced with something novel or unex-
+pected, or a complicated command, a Pilot program 
+must make a Device Rating x 2 Test against a thresh-
+old set by the gamemaster based on how confusing 
+the situation is. If it fails this test, it blithely continues 
+doing what it was doing before, or simply stops en-
+tirely and asks for instructions.
+AUTOSOFTS
+Autosofts are specialized programs designed to in-
+crease the effectiveness of a droneÆs performance. In 
+other words, people have skills, drones have autosofts. 
+An autosoft is rated between 1 and 6. A drone has a 
+number of slots to use for autosofts  and cyberprograms 
+equal to half its Device Rating, rounded up. Swapping 
+autosofts and programs is a Complex Matrix Action.
+HereÆs a short list of autosoft programs. An autosoft 
+with the term [Model] in it means that each copy is for a 
+specific model of drone or vehicle; for example, a Steel 
+Lynx Maneuvering autosoft only works for Steel Lynx 
+drones and is useless in a Nissan Jackrabbit or a Dober -
+man drone.
+Clearsight: This acts as the droneÆs Perception skill.
+Electronic Warfare: Exactly like the Electronic War -
+fare skill.
+[Model] Evasion: This autosoft teaches the drones 
+autopilot how to avoid being locked onto by Sensors.
+[Model] Maneuvering: This is like a Pilot [Vehicle 
+type] skill, except that it only applies to one specific 
+drone model.
+RIGGER CYBERPROGRAMS
+Riggers can utilize a number of cyberprograms that deckers 
+usually use. Programs purchased for use on an RCC cannot be used in 
+a cyberdeck and vice versa. As with decks, RCCs cannot run more than 
+one type of program of the same type, even if you rename it. HereÆs a 
+list of handy programs for the savvy rigger and their basic function. 
+See the Programs section of the Matrix chapter (p. 243) for more detail.
+Encryption: +1 Firewall
+Signal Scrub: Rating 2 noise reduction
+Toolbox: + 1 Data Processing
+Virtual Machine: 2 extra program slots; take 1 extra box of 
+unresisted Matrix damage when attacked
+Armor: +2 dice pool modifier to resist Matrix damage
+Biofeedback Filter: +2 dice pool modifier to resist biofeedback 
+damage
+Guard: Reduce extra damage from marks by 1 DV per mark
+Shell: +1 dice pool modifier against Matrix and biofeedback 
+damage, cumulative with other programs
+Sneak: +2 dice pool modifier to defend against Trace User 
+actions
+Wrapper: Allows you to defy Matrix iconography rules
+>> RIGGERS <<
+<< BEING THE MACHINE    269
+
+==== CORE 274 ====
+[Model] Stealth: This autosoft helps a drone of a 
+specific model operate with as much stealth as possible 
+and acts as the Infiltration skill for the drone.
+[Weapon] Targeting: This is the Gunnery skill, but for 
+a weapon of a specific model. If you mount an Ingram 
+Smartgun, youÆll need an Ingram Smartgun Targeting 
+autosoft for it.
+If a drone is slaved to a rigger command console and 
+isnÆt running any of its own programs, it uses the pro-
+grams running on the RCC. This can exceed its normal 
+program limit.
+DRONE COMBAT
+Rules for drone combat are the same as those for regular 
+flesh-and-blood characters and can be found in the Com-
+bat chapter (p. 158). Specific rules for using Gunnery and 
+Sensors in combat can be found there as well (p. 202).
+DRONE PERCEPTION
+A drone observes its surroundings with a Pilot + Clear -
+sight [Sensor] Test. If youÆre jumped into the drone, 
+you make a Perception + Intuition [Sensor] Test. Either 
+way, you get to use the droneÆs entire sensor suite, if 
+it has one.
+DRONE INFILTRATION
+Drones sometimes need to be sneaky. When this 
+occurs, a few things need to be taken into consid-
+eration. When operating independently, drones roll 
+Pilot + Stealth [Handling] vs. Perception + Intuition 
+[Mental]. You might want to put your drone into 
+silent running mode, or its Matrix icon would be a 
+dead giveaway of their presence to anyone scanning 
+the scene in the Matrix. When jumped in, the test is 
+Stealth + Intuition [Handling] vs. Perception + Intu-
+ition [Mental]; you probably want your persona oper -
+ating under silent running while youÆre at it.
+DRONE INITIATIVE
+Drones acting autonomously have an Initiative attri-
+bute of Pilot Rating x 2, and get 3D6 additional Ini-
+tiative Dice (for a total of 4D6). When jumped in, the 
+drone uses the VR initiative of the rigger.
+REPAIRING DRONES
+Drones have two damage tracks, Physical and Matrix. 
+Fill up either one and itÆs bye-bye birdie as the drone is 
+either irreparably destroyed and joins the spare parts 
+collections, or it gets bricked and itÆs time to completely 
+rewire its guts. But up until that final box is filled, damage 
+done to a drone can be repaired.
+Repairing Physical damage follows the rules for 
+building and repair on p. 145. To repair Matrix damage, 
+check out Repairing Matrix Damage, p. 228.
+If the chassis and the electronics of your drone get 
+trashed, it will probably cost you more to fix it than buy a 
+new one. But if it has sentimental value, ainÆt it worth it?
+>> RIGGERS <<
+270    BEING THE MACHINE >>
+
+==== CORE 275 ====
+>> RIGGERS <<
+EXAMPLE
+Driver is chilling out in his modded Eurocar Westwind providing 
+surveillance and overwatch for his team. HeÆs currently jacked into his 
+Maersk Spider Remote Command Console (RCC). He is running Bio-
+feedback Filter, Signal Scrub, and Clearsight autosofts for the Optic-X, 
+rotodrone, and LDSD-41 drones slaved to it, along with the Westwind. 
+He isnÆt jumped into any of his vehicles at the moment and is instead 
+watching everything in VR. All of his drones and his RCC are running 
+silent but he has left the Eurocar visible on the Matrix so he doesnÆt look 
+suspicious.
+Spike is a decker with a serious grudge against Driver due to 
+a certain disagreement over whether Driver should date his sister. 
+Spike is parked in a nearby alley a mere fifty meters away. He only 
+sees DriverÆs car and his cheap throwaway commlink on the Matrix 
+in AR, so he jacks into his Renraku Tsurugi and starts scanning the 
+local area. Spike has set his deck configuration for troublemaking 
+(Attack 6, Sleaze 3, Data Processing 5, Firewall 5) and is currently 
+running silent.
+Spike performs a Matrix Perception actions, knowing that DriverÆs 
+RCC and his rotodrone are running silent within 100 meters. He makes a 
+Computer + Intuition [Data Processing] roll, while Driver and his drone 
+make their Logic + Sleaze rolls. Spike gets at least one net it on each 
+icon, locating both devices. He canÆt find the Optic-X or the LDSD-41 
+because theyÆre too far away.
+SpikeÆs icon pulls out a glowing wedge as he uses his Hack on the 
+Fly action to try to slap a mark on the Rotodrone. Spike would normally 
+roll Hacking + Logic [Sleaze] v. Intuition + Firewall, but the rotodrone is 
+slaved to DriverÆs RCC and can therefore use the RCCÆs Firewall instead. 
+Spike succeeds, and the wedge slips into the droneÆs icon and and then 
+dissolves into a tiny little iridescent bulls-eye emblem. This puts one 
+mark on the rotodrone and a matching one on DriverÆs RCC, since itÆs 
+the master device
+With no obvious alert, Spike gives it another shot. This time he goes 
+for two marks and taking the û4 penalty. Rolling Hacking + Logic [Sleaze] 
+v. Intuition + Firewall, the rotodrone gets more hits. Wrong move, Spike 
+gets marked. Since the rotodrone is a device, its master Driver gets the 
+mark on Spike and the jig is up.
+The gamemaster calls for Initiative to be rolled and we enter Combat 
+Turns.
+Initiative Scores are: Spike 23, Driver 19, rotodrone 14
+Initiative Pass one starts with Spike on 23. He drops silent running 
+and makes another Hack on the Fly action (Hacking + Logic [Sleaze] v. 
+Intuition + Firewall) against the rotodrone and scores 2 net hits. He now 
+has 2 marks on DriverÆs persona.
+The rotodrone initiates Full Matrix Defense, decreasing its Initiative 
+Score but giving it a bonus equal to its Pilot rating (used in place of Intu-
+ition). It doesnÆt take any action this Action Phase since it has no current 
+commands to follow.
+Driver recognizes the icon of Spike that just appeared fifty meters 
+away when the mark hit him, and he knows what this is all about. He 
+uses the Send Message Simple action to command his rotodrone to at-
+tack the vehicle Spike is in. His second Simple Action goes to another 
+Send Message action for the Optic-X to lock onto the car and follow it 
+if it gets away.
+With a command to follow and having not acted in this Action 
+Phase, the drone swings out of the alley and comes around to attack 
+the car, peppering the car with gel rounds as commanded. No one rolls 
+since the Stun damage does nothing but make a lot of noise and mess 
+up the cosmetics of the car.
+The gamemaster drops Initiative Scores by 10 and starts the second 
+Initiative Pass: Spike 13, Driver 9, Rotodrone û6 (it had already lost 10 for 
+its Full Matrix Defense).
+Spike doesnÆt realize heÆs being shot with gel rounds and uses a 
+Data Spike action on the rotodrone. He rolls Cybercombat + Logic [At-
+tack] v. Intuition + Firewall. As the drone is a slave to Driver, he battles 
+DriverÆs Intuition and Firewall, plus his Willpower since the rotodrone 
+is using Full Matrix Defense. He scores 4 points of damage on the ro-
+todroneÆs Matrix monitor.
+Driver uses a Simple Action to Send Message and orders the ro-
+todrone to land and reboot. Due to its defensive manuevers, the rotodrone 
+doesnÆt have an action this pass, so it canÆt follow its command yet.
+Initiative Pass three leaves only Spike with an Action Phase in which 
+he uses Data Spike again, but after rolling poorly, he loses and takes 1 
+box of Matrix damage as the Firewall bounces bad code back at him.
+ItÆs the start of a new Combat Turn, and the new Initiative Scores 
+after rolling are: Spike 17, Driver 21, Rotodrone 22, Optic-X 16.
+The rotodrone lands and reboots.
+Driver activates the Rating 4 area jammer in his Westwind and uses 
+Send Message to order the LDSD-41 (armed with real bullets, APDS in 
+fact) to line up a shot but await the fire command.
+Spike uses Send Message to order his car to get out of there and 
+Check Overwatch Score to see if heÆs starting to attract attention (the 
+answer is yes). Autopilot on the car joins Initiative, rolls 18 and immedi-
+ately reduces the total by 10 for the Initiative Pass that has gone by in 
+this Combat Turn, leaving it to act on 8.
+LDSD-41 Takes Aim on two Simple Actions.
+The second Initiative Pass makes the Initiative scores: Spike 7, Driv-
+er 11, rotodrone rebooting, LDSD-41 6, SpikeÆs Americar 8.
+Driver uses a Jump into Rigged Device action with the Westwind 
+just in case.
+SpikeÆs car rolls out of the alley and starts to drive away, obeying all 
+local traffic regulations.
+Spike uses the Control Device action to drive the car and overrides 
+the autopilot as he peels away.
+LDSD-41 Takes Aim on two Simple Actions.
+The third Initiative Pass (Initiative Scores: Spike û3, Driver 1, Ro-
+todrone rebooting, LDSD-41 û4, SpikeÆs Americar û2) starts and ends 
+with Driver laughing at the car driving away and using Send Message to 
+send a message to Spike that says, ôWeÆll talk later.ö
+At the end of the Combat Turn, the rotodrone completes its reboot 
+and comes back online, free of marks.
+A new Combat Turn and the new Initiative Scores are: Spike 24, 
+Driver 23, rotodrone 18, LDSD-41 16, SpikeÆs car 14.
+Spike uses a Data Spike action and attacks DriverÆs RCC. He rolls 
+Cybercombat + Logic [Attack] v. Intuition + Firewall and hits the RCC 
+with 3 boxes of damage.
+Driver uses a Send Message action to send Spike a message say-
+ing, ôCould have been your head! Walk away!!!ö and a second Send 
+Message action to order the LDSD-41 to fire.
+LDSD-41 fires and nearly disables the car.
+Spike uses Send Message to reply, ôPeace. See you later.ö
+Driver angrily goes back to being on watch, pissed that he has to 
+deal with his girlfriendÆs spoiled corp-kid of a brother.
+<< BEING THE MACHINE    271
+
+==== CORE 437 ====
+Smart firing platform: This is a non-mobile robotic 
+tripod equipped with a remote control pivot that allows 
+for a 180-degree firing arc and a 60-degree inclination. 
+You can mount one smartgun-equipped weapon to the 
+platform, and it will be fired by the deviceÆs onboard Pi-
+lot (Device Rating 3). The platform is equipped with a 
+Targeting Autosoft (Rating 3) and can be upgraded with 
+additional autosofts, usually a Clearsight program. You 
+need to set the parameters of who exactly the platform 
+should and shouldnÆt shoot at, which are followed by the 
+platformÆs pilot (Pilot Programs, p. 269). The platform 
+provides 5 points of Recoil Compensation. It has an Ini-
+tiative attribute of Pilot x 2 and 4D6 Initiative Dice when 
+acting autonomously (see Drone Initiative, p. 270).
+Wireless: You can fire the mounted weapon remote-
+ly (Control Device, p. 238), like a drone with no rigger 
+interface. You can use an implanted smartlink with the 
+smartgun if youÆre in VR.
+Smartgun system: This connects a firearm or a 
+projectile weapon directly to the userÆs smartlink. In-
+corporating a small camera and laser range finder, the 
+smartlink keeps track of ammunition, heat buildup, and 
+material stress. If you have a smartlink, you can men-
+tally switch between gun modes, eject a clip, and fire 
+the gun without pulling the trigger. The camera lets 
+you shoot around corners without exposing yourself 
+to return fire (at a û3 dice pool penalty). The system 
+makes use of advanced calculation software, allowing 
+for precisely calculated trajectories and high precision 
+over any distance.
+If youÆre using a smartlink, the smartgun system in-
+creases the gunÆs Accuracy by 2. The smartgun features 
+are accessed either by universal access port cable to an 
+imaging device (like glasses, goggles, or a datajack for 
+someone with cybereyes) or by a wireless connection 
+working in concert with direct neural interface.
+Retrofitting a firearm with an internal smartgun sys-
+tem doubles the weaponÆs price and adds 2 to its Avail-
+ability. An external smartgun system can be attached to 
+the top mount or underbarrel mount with an Armorer + 
+Logic (4, 1 hour) Extended Test. The small camera has a 
+capacity of 1 and can be equipped with vision enhance-
+ments (p. 444).
+Wireless: A wireless smartlink provides a dice pool 
+bonus to all attacks with the weapon: +1 if youÆre using 
+gear with a smartlink or +2 if youÆre using an augmen-
+tation for which you paid Essence. Ejecting a clip and 
+changing fire modes are Free Actions.
+Spare clip: A spare clip comes unloaded but can hold 
+the maximum rounds for the weapon. Each clip is spe-
+cific to the weapon you buy it for, but they all cost the 
+same. And yes, itÆs technically a detachable box maga-
+zine, but the Cityspeak word for it is so popular these 
+days that even the catalogs call them clips.
+Speed loader: The speed loader is a simple device 
+that holds a ring of bullets for fast insertion into a revolv-
+erÆs cylinder. Each speed loader is specific to the weap-
+on it was designed for. It lets you fully reload a revolver 
+as a Complex Action instead of having to load rounds 
+one at a time (Reloading Weapons table, p. 163).
+Tripod: The tripod provides a stable base to fire a 
+weapon low to the ground with the user kneeling or 
+sitting. A tripod can be attached to the underbarrel 
+mount and provides 6 points of Recoil Compensation 
+when properly deployed. Attaching a tripod takes one 
+minute. Folding up or deploying the bipod is a Free 
+Action.
+Wireless: Folding up, deploying, or removing the tri-
+pod is a Free Action.
+AMMUNITION
+Ammunition is defined by type (regular, gel, APDS, 
+etc.), class of firearm (light pistol, heavy pistol, assault 
+rifle, etc.) and as cased or caseless. Unless indicated 
+otherwise in its description, a gun can fire cased or 
+caseless ammo, but not both.
+For simplicity, each kind of gun can trade ammo with 
+another of its class: for example, all heavy pistols can 
+share ammo. 
+>> STREET GEAR <<
+AMMUNITION
+AMMO, PER 10 SHOTS DAMAGE MODIFIER AP MODIFIER AVAILABILITY COST
+APDS ù û4 12F 120Ñ
+Assault cannon ù ù 12F 400Ñ
+Explosive rounds +1 û1 9F 80Ñ
+Flechette rounds +2 +5 6R 65Ñ
+Gel rounds +0S +1 2R 25Ñ
+Hollow points +1 +2 4F 70Ñ
+Injection darts ù ù 4R 75Ñ
+Regular ammo ù ù 2R 20Ñ
+Stick-n-Shock û2S (e) û5 6R 80Ñ
+Tracer ù ù 6R 60Ñ
+Taser dart ù ù 3 50Ñ
+<< GEAR LISTING    433
+
+==== CORE 445 ====
+instantly severing the direct connection. This does not 
+harm the cable.
+Headjammer: The headjammer is used by security 
+personnel to neutralize implanted commlinks. When 
+itÆs attached to your head (or other body part) and ac-
+tivated, it works in the same way as any other jammer, 
+with its effects limited to you and your augmentations. 
+Removing a headjammer from someone without the 
+proper key requires a Hardware + Logic [Mental] or a 
+Locksmith + Agility [Physical] (8, 1 Complex Action) 
+Extended Test. Removing a Headjammer from your -
+self without the proper key is an Escape Artist + Agility 
+[Physical] (4) Test, requiring a Complex Action.
+Jammer: This device floods the airwaves with electro-
+magnetic jamming signals to block out wireless and ra-
+dio communication. The jammer generates noise equal 
+to its Device Rating. The area jammer affects a spherical 
+areaùits rating is reduced by 1 for every 5 meters from 
+the center (similar to the blast rules for grenades). The 
+directional jammer affects a conical area with a 30-de-
+gree spreadùits rating is reduced by 1 for every 20 me-
+ters from the center. The jammer only affects devices 
+(and personas on those devices) that are within the jam-
+ming area, but it affects all of them. Walls and other ob-
+stacles may prevent the jamming signal from spreading 
+or reduce its effect (gamemasterÆs discretion).
+Wireless: You can set your jammer to not interfere 
+with devices and personas you designate.
+Micro-transceiver: This classic short-range com-
+municator has been favored by professional operatives 
+since the 2050s. It doesnÆt do anything special, it just 
+lets you communicate by voice with other micro-trans-
+ceivers and commlinks that you (and the other person) 
+choose, within a kilometer. The micro-transceiver con-
+sists of an ear bud and an adhesive subvocal micro-
+phone (p. 439), both of which are commonly available 
+in hard-to-spot designs.
+Wireless: The micro-transceiverÆs range becomes 
+worldwide.
+Tag eraser: This handheld device creates a strong 
+electromagnetic field perfect for burning out RFID tags 
+and other unshielded electronics. It is probably strong 
+enough to destroy a commlink, and you might want to 
+keep it away from your cyberdeck just in case. When you 
+bring the eraser within 5 millimeters of an electronic de-
+vice and push the button, the device takes 10 boxes of 
+Matrix damage (resisted normally). The extremely short 
+range makes it hard to use on targets like vehicles, most 
+drones, maglocks, and cyberware (and by the time you 
+open them up to get at the electronics, youÆve already 
+done plenty of damage). The tag eraser has one charge 
+but can be fully recharged at a power point in 10 seconds.
+Wireless: The tag eraser recharges fully in an hour by 
+induction.
+White noise generator: This device creates a field 
+of random noise, masking the sounds within its area 
+and preventing direct audio surveillance. All Perception 
+Tests to overhear a conversation within (Rating) meters 
+of a white noise generator receive a negative dice pool 
+modifier equal to the generatorÆs Rating. If more than 
+one generator is in use, only count the highest rating. A 
+white noise generator is redundant in a noisy environ-
+ment (such as a nightclub or a firefight) and does not 
+help to curtail video surveillance or jam wireless signals.
+Wireless: The white noise generatorÆs effective radius 
+is tripled.
+SOFTWARE
+Software can be purchased as an online download or less 
+commonly on chip from physical stores. Datasofts, map-
+softs, shopsofts, and tutorsofts can be easily stored and 
+accessed on a commlink, dataterminal, or cyberdeck.
+Agents and cyberprograms: These are used in cy -
+berdecks and are explained in Programs, p. 243.
+Autosofts: For information on these programs for 
+drones, see p. 269.
+Datasofts: Datasofts encompass a wide variety of in-
+formation files, databases containing information on ev-
+erything from hydraulic fracturing to 18th century roman-
+tic poetry. An appropriate datasoft gives you a +1 bonus 
+to your Mental limit on related Knowledge Skill Tests.
+Mapsoft: Mapsoft programs feature detailed infor -
+mation about a particular area, from streets to business/
+residential listings to topographical, census, GPS and 
+environmental data. An interactive interface allows you 
+to quickly determine the best routes and directions, lo-
+cate the nearest spot of your choice, or create your own 
+customized maps. If a wireless link is maintained, the 
+map automatically self-updates with the latest data from 
+GridGuide. Of course, this feature also means that the 
+mapsoft can be used to track your location. At the gam-
+emasterÆs discretion, mapsofts provide a +1 limit bonus 
+to Navigation Tests made to navigate the area they cover.
+Shopsofts: Shopping apps like Clothes Horse, Cave-
+at Emptour, and Guns Near Me provide pricing break -
+downs and user reviews for comparison shopping 
+purposes, both for standard goods and black market 
+purchases. Shopsofts self-update regularly to stay cur -
+>> STREET GEAR <<
+COMMUNICATIONS
+DEVICE AVAIL COST
+Bug scanner (Rating 1-6) (Rating)R Rating x 100Ñ
+Data tap 6R 300Ñ
+Headjammer (Rating 1-6) (Rating)R Rating x 150Ñ
+Jammer, area (Rating 1-6) (Rating x 3)F Rating x 200Ñ
+Jammer, directional 
+(Rating 1-6) (Rating x 2)F Rating x 200Ñ
+Micro-transceiver 2 100Ñ
+Tag eraser 6R 450Ñ
+White noise generator 
+(Rating 1-6) Rating Rating x 50Ñ
+<< ELECTRONICS    441
+
+==== CORE 446 ====
+rent. An appropriate shopsoftùone exists for each type 
+of product like electronics, firearms, melee weapons, ar-
+mor, et ceteraùprovides a +1 bonus to your Social limit 
+for all Availability and Negotiation tests you make to buy 
+and sell those items.
+Tutorsofts: These virtual private tutors aid you in 
+learning a specific skill. The tutorsoft makes Instruction 
+Tests with a dice pool equal to its Rating x 2. Tutorsofts 
+cannot teach skills based on Magic or Resonance.
+SKILLSOFTS
+A skillsoft program is a recorded skillùdigital knowl-
+edge and muscle memory. When used in conjunction 
+with the proper augmentations (a skilljack for know -
+softs and linguasofts, and a skillwire system for active-
+softs) skillsofts let you know and do things youÆve nev -
+er otherwise learned. Even kung fu.
+Skillsofts arenÆt educational tools; you canÆt actually 
+learn from them. TheyÆre highly favored by corporations 
+interested in a cheaper labor force (when the difference 
+between a skilled and unskilled worker can be as simple 
+as slotting a chip, the difference in salary is smaller).
+When a skill test is called for, the character may use 
+the skillsoft rating in place of the skill. Downside: tests 
+made with a skillsoft may not be boosted with Edge in 
+any way.
+Activesofts: Activesofts replace physical active 
+skills, basically every Active skill that isnÆt based on Mag-
+ic or Resonance. A skillwire system (p. 455) is needed to 
+translate the æsofts into usable muscle memory. ThereÆs 
+a limit to the number of skills you can use at once, based 
+on your skillwireÆs rating.
+Knowsofts: Knowsofts replicate Knowledge skills, 
+actively overwriting the userÆs knowledge with their own 
+data. Knowsofts must be accessed with a skilljack, and 
+the number you can use at once is limited by the skilljack.
+Linguasofts: Linguasofts replicate language skills, 
+allowing a user to speak a foreign language by auto-
+matically translating signals from the speech cortex, 
+although chipped speech can be awkward and stiltedù
+then again, so can anyone speaking a language thatÆs 
+not their native tongue. Linguasofts must be accessed 
+with a skilljack, which limits how many skillsofts you can 
+use at a time.
+ID AND CREDIT
+IDs and credsticks are discussed in more detail under 
+Identification, p. 366.
+Certified credstick: Cash for the late 21st century. A 
+certified credstick is not registered to any specific personù
+the electronic funds encoded on it belong to the holder, re-
+quiring no special ID or authorization to use. The bad news 
+is that you can be physically mugged, any money you have 
+on your credstick jacked and rolled. The good news is that 
+certified credsticks are completely untraceable. TheyÆre not 
+even wirelessùyou have to slot them into a universal data 
+connector to transfer cash onto or off of them. This makes 
+them enduringly popular with shadowrunners and the Mr. 
+Johnsons who love to hire them.
+Each type of credstick can only hold up to a certain 
+amount of money, listed on the table. This is the maxi-
+mum amount it can carry, not the amount it always has 
+on itùso donÆt get excited when you see a gold cred-
+stick until youÆve slotted it and checked its balance.
+Credit account: A credit account is an online bank -
+ing account that can be accessed at any time via your 
+commlink. Transactions require passcode or biometric 
+verification to be authorized. The good news is no one 
+can (physically) steal your bank account, and hacking 
+credit accounts often requires a run to Zurich Orbital or 
+something equally suicidal. The bad news is that digi-
+tal transactions leave a ôpaper trailö that, while it can be 
+hidden or concealed, is entirely too traceable for seri-
+ous criminal activities. Each account must be registered 
+to a particular (usually fake) SIN, unless the account is 
+handled by an anonymous underworld banking service 
+(with its own risks and complications). The cost of bank-
+ing services is included in your lifestyle costs if youÆve 
+got a Low Lifestyle or betterùotherwise youÆll need to 
+keep all your money on credsticks.
+Fake system identification number (SIN): In 2075, 
+youÆre just a number. A SIN (or its international equiv -
+alents) is what makes a mere metahuman into a real 
+person. Solid citizens receive their SINs at birth and car-
+ry them until they die. Not having a SIN means living 
+outside the system, living with restricted or non-existent 
+civil rights. Shadowrunners by default are SINlessùthey 
+>> STREET GEAR <<
+SOFTWARE
+PROGRAM/SOFTWARE AVAIL COST
+Agent (Rating 1û3) Rating x 3 Rating x 1,000Ñ
+Agent (Rating 4û6) Rating x 3 Rating x 2,000Ñ
+Autosoft Rating x 2 Rating x 500Ñ
+Cyberprogram, common use ù 80Ñ
+Cyberprogram, hacking 6R 250Ñ
+Datasoft 4 120Ñ
+Mapsoft 4 100Ñ
+Shopsoft 4 150Ñ
+Tutorsoft (Rating 1û6) Rating Rating x 400Ñ
+SKILLSOFTS
+SKILLSOFT AVAIL COST
+Activesofts (Rating 1û6) 8 Rating x 5,000Ñ
+Knowsofts (Rating 1û6) 4 Rating x 2,000Ñ
+Linguasofts (Rating 1û6) 2 Rating x 1,000Ñ
+442    ELECTRONICS >>
+
+==== CORE 457 ====
+EYEWARE
+Probably the most common piece of cyberware avail-
+able in 2075 is cybereyes. Originally designed to gift 
+the blind with normal sight, cybereyes allow for far 
+more than normal human vision. While they still car -
+ry a social stigma in places, and the idea continues 
+to carry a degree of squeamishness about it, itÆs not 
+entirely uncommon for people with perfectly good 
+natural eyes to trade them out for cybernetic replace-
+ments. Cybereyes are available in any shape or color, 
+from ôalmost naturalö to all chrome to solid glowing 
+purple and everything in between. Some models have 
+their color and pattern easily altered by downloading 
+a new skin.
+Most cybereye modifications are also offered as ret-
+inal modifications to the natural eye. Vision enhance-
+ments either take up Capacity in cybereyes or Essence 
+in natural eyes, not both. As a general rule, upgrades are 
+applied to both eyes so that the userÆs vision doesnÆt be-
+come unbalanced.
+Cybereyes: The basic cybereyes system features 
+20/20 vision for both eyes, an image link, and a built-in 
+camera at no extra cost, as well as capacity for vision 
+enhancements.
+Flare compensation: An implanted version of the 
+flare compensation enhancement (p. 444).
+Image link: An implanted version 
+of the image link enhancement (p. 
+444).
+Low-light vision: An implanted 
+version of the low-light vision en-
+hancement (p. 444).
+Ocular drone: This enhancement 
+only affects one eyeball per purchase. 
+A small spyball drone is placed in your 
+ocular cavity. The spyball functions as a 
+normal cybereye (with all the relevant 
+enhancements) until you remove it and 
+control it as though it were a Horizon 
+Flying Eye (p. 465). When itÆs out and 
+you have only one eye, you suffer a 
+û3 dice pool penalty to all tasks. If you 
+replace both eyes with drones, youÆre 
+effectively blind while those drones 
+are operating apart from you. An ocu-
+lar drone is obviously not available as a 
+retinal modification.
+Retinal duplication: This highly il-
+legal modification can be loaded with 
+a recording of someone elseÆs retina 
+to create an almost perfect reproduc-
+tion. Make an Opposed Test between 
+the retinal duplication Rating and the 
+retinal scanner Rating (Security De-
+vices, p. 362).
+Smartlink: An implanted version of 
+the smartlink vision enhancement (p. 
+444). Note that a smartlink installed in a natural eye or in 
+a pair of cybereyes is more effective than a smartlink in-
+stalled in an external device: see Smartgun System, p. 444. 
+Thermographic vision: An implanted version of the 
+thermographic vision enhancement (p. 444).
+Vision enhancement: An implanted version of vi-
+sion enhancement (p. 444).
+Vision magnification: An implanted version of the 
+vision magnification enhancement (p. 444).
+EARWARE
+Earware, like eyeware, is available either with complete 
+cybernetic replacements (with the modifications cost-
+ing Capacity) or as a direct modification to the inner 
+ear, costing essence. As a rule, upgrades are installed 
+in both ears to prevent an imbalance of hearing.
+Cyberears: Ordinarily, cyberears replace only the 
+inner ear, although the whole thing can be replaced 
+as well if you like. Cyberears offer hearing with normal 
+ranges (like an omni-directional microphone), a sound 
+link, and Capacity for modifications and enhancements.
+Audio enhancement: An implanted version of audio 
+enhancement (p. 445).
+Balance augmenter: The balance augmenter en-
+hances the inner earÆs natural balance mechanism. You 
+>> STREET GEAR <<
+HEADWARE
+DEVICE ESSENCE CAPACITY AVAIL COST
+Commlink 0.2 [2] ù 2,000Ñ + Commlink Cost
+Control Rig
+     Rating 1 1 ù 5R 43,000Ñ
+     Rating 2 2 ù 10R 97,000Ñ
+     Rating 3 3 ù 15R 208,000Ñ
+Cortex Bomb
+     Kink 0 [1] 12F 10,000Ñ
+     Microbomb 0 [2] 16F 25,000Ñ
+     Area Bomb 0 [3] 20F 40,000Ñ
+Cyberdeck 0.4 [4] 5R 5,000Ñ + deck cost
+Datajack 0.1 ù 2 1,000Ñ
+Data Lock (Rating 1û12) 0.1 ù Rating x 2 Rating x 1,000Ñ
+Olfactory Booster (1û6) 0.2 ù Rating x 3 Rating x 4,000Ñ
+Simrig 0.2 ù 12R 4,000Ñ
+Skilljack (Rating 1û6) Rating x 0.1 ù Rating x 2 Rating x 20,000Ñ
+Taste Booster 0.2 ù Rating x 3 Rating x 3,000Ñ
+Tooth Compartment ù ù 8 800Ñ
+Ultrasound Sensor (Rating 1û6) 0.25 [2] 10 Rating x 12,000Ñ
+Voice Modulator (Rating 1û6) 0.2 ù Rating x 3F Rating x 5,000Ñ
+<< ELECTRONICS    453
+

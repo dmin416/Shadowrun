@@ -1,0 +1,1922 @@
+
+
+===== PAGE 420 =====
+to feed their habit. They’ll steal, borrow from loan sharks, 
+prostitute themselves, and just about anything else to fi-
+nance their next fix. It’s up to the gamemaster and the 
+player to figure out where the bottom is. One thing to 
+keep in mind is that when someone hits rock bottom, he 
+could die … or he could be inspired to climb out of the pit.
+Burnout addictions are what happen when someone 
+bottoms out and then proceeds to go lower. They’re long-
+term addicts who now display physiological and psy-
+chological side effects from continual substance abuse. 
+Characters who continue in this state usually have life 
+expectancies measured in weeks, if not days, and they 
+suffer deteriorating health effects along the way.
+Once a character has reached the Burnout stage, 
+things start getting bad very quickly. They begin to show 
+physiological health problems and slurred speech. As 
+the downward spiral progresses, they might also devel-
+op abscesses, infections, incontinence, and other un-
+pleasant side effects. In addition to the physical effects, 
+the addict suffers psychological effects including black-
+outs, flashbacks, drastic mood swings, schizophrenia, 
+and paranoia, among many others.
+GETTING A FIX
+Once addicted, users need a dosage, or fix, on a regular 
+basis, as appropriate to the severity of their Addiction 
+quality (p. 77). To resist the craving, make a Withdrawal 
+Test (use rules for Addiction Test), applying modifiers 
+appropriate to the addiction level. If you don’t resist, 
+you need your fix or you’ll go into withdrawal.
+WITHDRAWAL AND 
+STAYING CLEAN
+Withdrawal is a bitch, whether it’s voluntary or forced. 
+Depending on the drug and the degree of addiction, 
+withdrawal may take a while. When you go too long 
+without using what you’re addicted to, you enter with-
+drawal, with the effects listed under the Addiction qual-
+ity description (p. 77). If you can stay off the stuff for a 
+number of weeks equal to the Addiction rating, you can 
+make an Addiction Test for the substance—if you suc-
+ceed, you can buy off your Addiction quality with the 
+appropriate amount of Karma. If you fail or can’t afford 
+to buy off the quality, you’re still in withdrawal and the 
+process starts again.
+OVERDOSING
+Too much of anything can hurt you, or even kill you. 
+Whenever you take a substance while you’re already 
+on that substance or one that has a shared effect (like 
+the way cram and novacoke both affect Reaction), you 
+take Stun damage with a DV equal to the sum of the 
+Addiction Ratings of the overlapping drugs, resisted 
+with Body + Willpower.
+>> HELPS AND HINDRANCES <<
+<< Substance Abuse and Addiction    415
+
+
+===== PAGE 421 =====
+Nothing to fear if you’ve got the gear!
+Nobody can do a brisk business in the field of shad-
+owrunning without the right kit. A commlink to orga-
+nize and communicate with the people you like, guns, 
+ammo, blades, and other weaponry for the people you 
+don’t like, armor to deal with the people who don’t like 
+you, and maybe a few precautions to keep the whole 
+thing in the shadows and completely out of the light of 
+day. Having the right tool at the right time—whether it’s 
+a stimulant patch, gas grenade, riot shield, miniwelder, 
+maglock passkey, or a disguise kit—can mean the dif-
+ference between being a legend in your own right, or a 
+fading stain on the pavement.
+Many runners love their equipment, playing favor-
+ites and installing flashy and impressive customizations, 
+from a street samurai with gold-plated Predators to a te-
+chie pimping out his cyberdeck case. Others disdain this 
+hardware fetishism and take a more pragmatic “toolbox” 
+approach—it’s not the gadgets that matter, it’s the skill 
+needed to use them right. But either way, there’s no get-
+ting around the fact that shadowrunners need special-
+ized equipment to do their jobs.
+This section introduces all the rules you need for 
+gear—concealing, carrying, buying, and selling—and in-
+cludes a representative, but not exhaustive, selection of 
+the toys that runners, gangers, mob and metroplex sol-
+diers, corp-cops, and other hardcases play with on the 
+mean streets of 2075.
+GEAR RATINGS
+Every item described in this chapter includes a set of 
+statistics. Every item has a cost along with an Availabili-
+ty Rating, and most non-weapon, non-armor items, ex-
+cept those that simply confer an ability or don’t, have 
+an overall Rating, usually between 1 and 6. Often a 
+gear’s Cost and Availability are functions of its Rating.
+The other statistics that depend on the type of item—
+damage for weapons, capacity for firearms, armor value 
+for protective clothing, and so on—are explained in the 
+Gear Ratings Glossary.
+BUYING GEAR
+Gear’s Availability Rating determines how easy (or hard, 
+or practically impossible) it is to acquire a needed or de-
+sired piece of equipment. Availability is an abstract amal-
+gamation of factors like rarity, legality, distribution issues, 
+supply, demand, and so on. The letter that follows an 
+item’s numerical Availability Rating shows whether the 
+item is Restricted (R) or Forbidden (F). For this reason, the 
+gamemaster should feel free to modify an item’s Avail-
+ability Rating—either the numerical value, or its legality 
+code—in situations that would warrant it, like if the runner 
+is in a war zone or in a country with a restricted economy.
+STANDARD GOODS
+Standard items with no Availability rating can be pur-
+chased at your local Kong-WalMart, Stuffer Shack, or 
+Microdeck, or perhaps ordered online or picked up from 
+a vending machine. All you have to do is pay the cost 
+listed in the book for the item (with adjustments from 
+the gamemaster if she wants, according to local mar-
+ket fluctuations or other extenuating circumstances she 
+deems appropriate).
+While easy to buy, standard goods are eminently 
+traceable. Records of legal purchases are almost always 
+kept, shared, and cross-indexed; whether this datatrail 
+gets stuck to your fake SIN or, worse, a real one, it’s a po-
+tential liability. Purchasing habits are valuable to market-
+ing companies, so you’ll start seeing AR advertisements 
+tailored to what you buy and what you like. And since Big 
+Brother Commerce is watching, remember that the Ma-
+trix host that knows and remembers your favorite store to 
+buy sneakers at isn’t necessarily as secure as your com-
+mlink. Fake IDs can be used to shield yourself from this 
+pervasive data-mining, but as long as you’re on the grid, 
+even fake IDs will accumulate profiles of their own after 
+long-term use. And there’s always the chance someone 
+can find out more about you than you want to let go.
+Of course, standard goods can also be purchased on 
+the black market to avoid traceability, but the gamemas-
+ter may decide that the latest copy of Miracle Shooter is 
+more expensive with the digital serial numbers filed off 
+and apply a surcharge for your paranoia.
+SECTION.11
+STREET GEAR
+416    GEAR RATINGS >>
+
+
+===== PAGE 422 =====
+GEAR RATINGS GLOSSARY
+Accuracy: Refers to a weapon’s overall accuracy. A firearm’s Accuracy 
+acts as the limit for tests involving that weapon, capping the number of 
+hits that can be achieved on an attack roll using it. 
+Ammo: Refers to the amount of ammunition a ranged weapon can 
+hold, followed by the method of reloading in parentheses: (b) 
+means break action, (c) means detachable external box magazine, 
+or “clip” in modern street parlance, (d) means drum, (ml) means 
+muzzle-loader, (m) means internal magazine, (cy) means cylinder, 
+and (belt) means belt-fed.
+Armor: Each piece of armor has an Armor value that adds to the wearer’s 
+Damage Resistance dice pool (see Armor, p. 168).
+Armor Penetration: All weapons have an Armor Penetration value, 
+although in some cases, this value is listed with no value, meaning no 
+AP. The AP value indicates how a weapon interacts with armor (see 
+Armor Penetration, p. 169). A positive value adds to the target’s Armor 
+value, while a negative value reduces the target’s Armor value.
+Availability: The higher the Availability of an item, the more difficult 
+and costly it is to get it (see Buying Gear, p. 416). Gear without an 
+Availability rating can be bought at an appropriate local store or 
+ordered online without any trouble. The letter that follows an item’s 
+numerical Availability rating shows whether the item is Restricted (R) 
+or Forbidden (F). Items without a letter in parentheses are considered 
+legal—they aren’t necessarily easy to find, but you won’t ever get 
+arrested for seeking them (see (Il)legality, p. 419.
+Blast: This rating is possessed by grenades, missiles, rockets, and other 
+area-of-effect weapons. Blast is the amount the blast weapon’s 
+damage value is reduced per meter of distance from the explosion’s 
+point of origin (see Blast Effects, p. 436).
+Capacity: Some sensor packages and cyberware can be equipped with a 
+range of subsystems. A Capacity value is listed for these, indicating the 
+maximum amount of “slots” worth of accessories the item can hold. 
+If the Capacity is listed in brackets, it’s the cost of that subsystem or 
+accessory, or the number of slots that item takes up. Some cyberware 
+items with a Capacity cost can also be installed as standalone items 
+(taking up Essence) rather than subsystems (taking up Capacity); 
+if both costs are listed, only one applies, depending on whether you 
+installed it in another item or in yourself.
+Concealability Modifier: This indicates how easy it is to hide a given item, 
+and is applied as a dice pool modifier to Perception + Intuition Tests to 
+spot the item (see Concealing Gear, p. 419).
+Cost: This is the base price a character must pay to buy the item. If the item 
+is legal, this is the standard price found at stores or online. Note that 
+rare and/or illegal items may cost less or more depending on certain 
+black market variations (see (Il)legality, p. 419). Cost is also subject to 
+local supply and demand, so the gamemaster should feel free to adjust 
+it accordingly for certain settings.
+Damage Value (DV): A weapon’s Damage Value represents the base 
+amount of harm, in points of damage, it causes when it hits a target. 
+Damage Values consist of a number (the boxes of damage inflicted) 
+and a letter indicating the type of damage caused: P for Physical, S 
+for Stun. A parenthetical annotation following the damage type, such 
+as (f) or (e), indicates that the damage is flechette or electrical (see 
+Damage, p. 169).
+Device Rating: The Device Rating determines the overall quality and 
+effectiveness of a device, from a stimulant patch to a commlink. Device 
+ratings are described in detail on p. 234.
+Essence Cost: All cyberware and bioware implants have an Essence 
+Cost, representing the reduction of the character’s Essence rating that 
+occurs when the augmentation is implanted.
+Mode: A firearm’s firing mode indicates the rate of fire it is capable of. 
+Some weapons have more than one mode available, so characters 
+may switch between them (see Firearms, p. 178). The firing modes are: 
+SS (single-shot), SA (semi-automatic), BF (burst fire), and FA (full auto).
+Mounts: There are several places where a weapon accessory can be 
+attached to a firearm: underbarrel, barrel, or top-mount. Only one 
+accessory can be attached to a particular mount. Integral accessories 
+(those that come with the weapon) don’t take up mount locations. 
+Hold-outs don’t have mounts. Pistols, machine pistols, and SMGs do 
+not have an underbarrel mount, just top and barrel mounts. All rifles 
+and heavy weapons have all three types of mounts. Projectile weapons 
+can only take accessories designed for them specifically. 
+Reach: Melee weapons may have a Reach rating, an abstract value that 
+rates the length and size of the weapon. A weapon with longer Reach 
+gives its wielder an advantage over enemies with a lower Reach (see 
+Reach, p. 184).
+Recoil Compensation (RC): This lists the amount of recoil compensation 
+a firearm has to offer, reducing the modifiers from a weapon’s recoil 
+(see Recoil, p. 175). Numbers in parentheses refer to full recoil 
+compensation that applies only when all integral accessories are 
+deployed (folding or detachable stocks and so forth).
+<< GEAR RATINGS    417
+
+
+===== PAGE 423 =====
+STARTING GEAR
+Like it says in character creation (p. 62), starting char-
+acters may not purchase items with a rating greater 
+than 6 or an Availability greater than 12 during char-
+acter creation. You don’t need to worry about your 
+purchases at character creation going on some kind of 
+permanent record (although there are some qualities 
+you can take that would). Once the game is on, you can 
+beg, borrow, and steal whatever gear you can get your 
+grubby little hands on—at least, you can certainly try.
+BLACK MARKET GOODS
+When you get to the good stuff, the higher the Availabil-
+ity Rating is, the harder it is to acquire the item. To pur-
+chase an item off the books, make an Availability Test. 
+This is an Opposed Test of your Negotiation + Charisma 
+[Social] versus the item’s Availability Rating. If you win 
+the Opposed Test, you find the gear at the listed price, 
+and it is delivered in the amount of time given on the 
+Delivery Times table divided by your net hits. If you tie 
+in the test, you find the gear, but the delivery time is 
+twice that listed on the table. If you fail the test, you can 
+try again after twice the amount of time on the table.
+As they say on the street, money solves all problems. 
+If you’re willing to throw money at the situation, you 
+can increase your chances of finding a willing seller: for 
+every additional twenty-five percent of the item’s val-
+ue you are willing to pay, you get an additional die on 
+the Negotiation Test. Once you get up to 400 percent of 
+the item’s value (12 extra dice), throwing money at the 
+problem doesn’t get you any more dice. Even if you had 
+money left to throw.
+If you roll a glitch on an Availability Test, your inqui-
+ries may have attracted unwanted attention. This could 
+be law enforcement like undercover Lone Star engaging 
+in a sting operation (can you spell entrapment, omae?), 
+your local Yakuza deciding not to shoot straight in their 
+dealings, rival runners or enemies twigging to the deal, 
+or something similar. The exact consequences are up 
+to the gamemaster, but things do not go smoothly as 
+planned. If you roll a critical glitch, the most extreme it-
+eration of the above possibilities occurs, and you stand 
+no chance of actually acquiring the item in question.
+CONTACTS AND AVAILABILITY
+You probably have a fixer, talismonger, deckmeister, or 
+other contact find the gear you’re looking for. Contacts 
+are better than you at acquiring the gear they specialize 
+in. They spend most of their time making and main-
+taining their connections to the rest of the world while 
+you’re out shooting corp security or banishing evil spir-
+its or hacking hosts or whatever you’re doing on your 
+shadowruns, so they’ve had time to hone their gear-ac-
+quiring abilities. When contacts look for an item for 
+you, they use their Negotiation and Charisma for the 
+Availability Test, with their Connection Rating serving 
+as a bonus to their Social limit.
+If the contact hasn’t done a lot of business with you, 
+he might ask for a finder’s fee. That’s not how contacts 
+make their money on reselling, though. Most of it comes 
+through fencing goods on the cheap.
+FENCING GEAR
+You can fence some of the loot you’ve obtained on a 
+shadowrun as a way to scrape together a little extra oper-
+ating cash during runs (just make sure looting bodies is a 
+lower priority than finishing the run alive and out of jail).
+The value you can get for used gear depends on its 
+Availability: the higher the Availability Rating, the better 
+chance the character has for getting a good value from 
+the sale. As a rule, standard goods (legal items with no 
+Availability Rating) can’t be fenced for more than a cou-
+ple nuyen; no one wants your “near-mint” medkit.
+Fencing gear is a two-step process. First, you need 
+to find a buyer. This is a time-consuming process that 
+takes an Extended Etiquette + Charisma [Social] Test 
+with a threshold of 10 and an interval equal to the de-
+livery time on the Delivery Times Table. You may use 
+the item’s Availability in a Teamwork Test if you like; the 
+more rare items you bundle together, the easier it is to 
+find a buyer.
+The second step is to actually sell the item. You and 
+the buyer make Opposed Negotiation + Charisma [So-
+cial] Tests. The final price the buyer offers is twenty-five 
+percent of the item’s listed price, plus five percent for 
+each of your net hits, or minus five percent for each of 
+the buyer’s net hits. Once you have a price, you can sell, 
+or you can take your item to another potential buyer and 
+start the entire process over again.
+If you get a glitch or a critical glitch on an Etiquette 
+test to find a buyer, then your attempts have attracted 
+unwanted attention from the authorities (or other par-
+ties), similar to a glitch on a Black Market Goods Test 
+(at left). If you roll a glitch or a critical glitch when you’re 
+haggling in the Opposed Negotiation test, then you’ve 
+managed to insult or otherwise piss off the buyer, and 
+the deal might be off—or worse.
+DELIVERY TIMES TABLE
+GEAR COST
+DELIVERY TIME
+Up to 100¥
+6 hours
+101¥ to 1,000¥
+1 day
+1,000¥ to 10,000¥
+2 days
+10,001 to 100,000¥
+1 week
+More than 100,000¥
+1 month
+>> STREET GEAR <<
+418    fencing gear >>
+
+
+===== PAGE 424 =====
+CONTACTS AND FENCING
+You can always go to a contact such as a fixer or rele-
+vant specialist to fence a hot item for you. He or she will 
+happily take your item and offer you five percent of the 
+item’s value times your Loyalty Rating with the contact. 
+You might be able to get more selling it yourself, but your 
+contact will take it off your hands, no questions asked.
+(IL)LEGALITY
+Most of what you do is illegal … or at least extra-legal 
+… well, let’s just go with quasi-legal. Basically, operat-
+ing outside the law is your bag of soychips. It’s not just 
+what you do that’s against the law, but the stuff you 
+use to do it can be questionable as well. Your job often 
+requires the possession of an array of shady, restricted, 
+or flat-out illegal items. Some of the gear in this chapter 
+is considered illegal just to own.
+Items are classified as legal, restricted (R), or for-
+bidden (F). A legal item can be purchased freely, and 
+owned, transported, and used—legally—without restric-
+tion. Of course, if you commit a crime with something 
+that’s not normally seen as an illegal item—like killing a 
+random passerby by applying blunt force trauma with a 
+medkit—you will still be subject to prosecution normally, 
+if they ever catch you. But at least you won’t face an ex-
+tra charge for the piece of gear you used!
+A restricted item can be purchased, owned, and 
+transported only under special circumstances. You are 
+allowed to purchase and own a gun with the requisite 
+firearms permit, and you can carry it with you with a 
+special concealed carry permit. Of course, if you threat-
+en someone or—heavens forefend—shoot someone 
+with your gun, permit or not, you can expect to spend 
+a long time in jail before or after having your permit re-
+voked. Licenses and permits can be obtained through 
+legal channels, as long as you’re a solid citizen with a 
+legal SIN—of course, that goes for shadowrunners with 
+fake SINs acquiring fake licenses, too. A fake license is 
+connected to a fake SIN, and if one of them is exposed, 
+the other becomes worthless (see Fake SINs, p. 367).
+Forbidden items are never okay for anyone to own 
+or buy or have—at least not for you, a private citizen. No 
+amount of licensing or permits will make owning one 
+anything like permissible in the eyes of the law. Don’t get 
+caught, chummer.
+JURISDICTION
+The law varies from country to country, and with 
+megacorporate extraterritoriality muddying the wa-
+ters, things are even more complicated in Shadowrun. 
+Extraterritoriality means what’s a misdemeanor here 
+might be a felony three blocks over. Police officers in 
+some jurisdictions will draw down on you for possess-
+ing an item in one jurisdiction that wouldn’t merit prob-
+able cause in another. The practice of magic in Egypt is 
+banned entirely and active foci could land you in jail, 
+but toting an assault rifle in certain parts of Chicago 
+isn’t looked on as a crime—it’s just common sense.
+The legality restrictions in the book use the basic Se-
+attle, UCAS, guideline as their point of reference. Game-
+masters should feel free to adjust legality and availability 
+of certain items in other regions of the world as they see 
+fit, and future Shadowrun products may contain alternate 
+availability and legality ratings for different jurisdictions 
+around the Sixth World.
+CONCEALING GEAR
+It’s not just about firepower; sometimes you need to 
+choose the right tool for the setting. Failure to do this 
+can mean getting arrested for carrying a deadly weap-
+on before you make it from the meet to where the job 
+is supposed to go down. Surprise is a shadowrunner’s 
+best friend, and carrying a properly hidden hold-out can 
+mean the difference between life and death. As a shad-
+owrunner, you commonly tote around things you don’t 
+want casual onlookers to observe. Things that would 
+attract unwanted attention, even if they aren’t techni-
+cally illegal. Or hidden “equalizers” you want to act as 
+your ace in the hole. Some items are easier to hide than 
+others, obviously: most hold-out pistols can be stowed 
+away in a bathing suit if that’s what you happen to be 
+wearing, but as awesome as it would be, hiding a katana 
+under your long coat isn’t easy.
+The Concealability Table lists a selection of items 
+and the standard modifiers that apply.
+NOTICING HIDDEN GEAR
+Have the observing character make a Perception + Intu-
+ition [Mental] Test with a dice pool modified by the item’s 
+Concealability to determine whether they notice the item. 
+This test should be penalized normally by distractions, 
+distance, and visibility modifiers (p. 175). If the observ-
+ing character generates at least one success, they notice 
+the item concealed on someone else’s person.
+ACTIVELY HIDING GEAR
+If you’re intentionally trying to hide something on your 
+person that somebody else is looking for, and you’ve 
+taken a little time to hide it (like a Complex Action or so), 
+make an Opposed Palming + Agility [Physical] v. Percep-
+tion + Intuition [Mental] Test. The observing character’s 
+dice pool is modified by the item’s Concealability, and 
+he can use Palming in place of Perception if he wants.
+If you’re being physically patted down, the searcher 
+can use Agility and his Physical limit instead of Intuition 
+and the Mental limit. Additionally, any negative Con-
+cealability modifier is cut in half, and any positive Con-
+cealability modifier is doubled.
+>> STREET GEAR <<
+<< (il)legality    419
+
+
+===== PAGE 425 =====
+CARRYING GEAR
+As long as the players are reasonable and don’t perpet-
+ually carry around every firearm and toaster in creation 
+(with enough ammo and bread to operate them both 
+continuously), weights and encumbrance aren’t im-
+portant. There may, however, be circumstances where 
+knowing roughly how much your character can carry 
+may have an impact on the story—like if you break into 
+a vault full of heavy gold bars and need to figure out 
+how many guns you have to drop to haul out the max-
+imum amount. The rules for Lifting/Carrying, p. 152, 
+provide the basics, and here are some more details.
+CARRYING CAPACITY
+Characters can carry their Strength x 10 kilograms in 
+weight without any sort of test—this is your carrying 
+capacity. Lifting and carrying more calls for a Strength 
++ Body Test. Each hit increases the weight you can car-
+ry by another 10 kilograms.
+ENCUMBRANCE
+If a character overburdens himself with gear, he suffers 
+encumbrance modifiers. For every 15 kilograms (or part 
+thereof) by which you exceed your carrying capacity, 
+you suffer a –1 modifier to your Physical Limit (minimum 
+limit of 1). This means that a character with Strength 3 
+(Carrying Capacity 30) that is trudging along with 50 ki-
+lograms of equipment suffers a –2 penalty to his Phys-
+ical Limit.
+SIZE COSTS
+Trolls have incredibly large bodies and hands, while 
+dwarfs have rather small bodies and hands—consequent-
+ly, both have trouble using gear built for human dimen-
+sions. Corporate initiatives like Evo’s MetaErgonomics 
+division have helped a lot; most products are available 
+in dwarf- and troll-friendly sizes. This is reflected in the 
+Lifestyle costs for dwarfs and trolls. Dwarfs have to pay 
+twenty percent more on Lifestyle to make sure they are 
+getting things that fit them, while trolls need to pay the 
+troll tax—their Lifestyle costs are doubled.
+USING UNADAPTED GEAR
+The extra costs dwarfs and trolls pay mean they have 
+equipment that fits them. When using an item not cus-
+tomized for their hand sizes, by contrast, dwarf and troll 
+characters receive a –2 modifier on their dice pools 
+for using human-sized weapons and equipment. This 
+modifier also applies in reverse; an elf trying to use a 
+dwarf-modified weapon suffers a –2 dice pool modi-
+fier. This effect is also cumulative, in the unlikely event 
+it comes up, so a dwarf forced to use a troll-modified 
+tool (or vice versa) suffers a –4 dice pool modifier (and 
+possibly a hernia). In some cases it may be simply im-
+possible for a dwarf or troll to use the other’s gear, like 
+armor constructed for completely the wrong build.
+WIRELESS 
+FUNCTIONALITY
+The world is wireless. Almost every device you can 
+think of has been computerized and equipped with a 
+wireless link, including your microwave, your gun, may-
+be even your eyes. Every gear item has a wireless-en-
+abled computer built in. Even non-electronic items 
+without any moving parts have built-in computers, so 
+now your pants can store your favorite music (and tell 
+you when it’s time to do the laundry). The few devices 
+that are non-wireless are most likely tagged with RFID 
+tags (p. 440). 
+Wireless-enabled items can prevent theft or monitor 
+the item’s functionality and alert the user of any malfunc-
+tions via their personal area network. For instance, in bone 
+lacing, sensor tags are a convenient way of monitoring for 
+>> STREET GEAR <<
+CONCEALABILITY MODIFIERS
+MODIFIER*
+EXAMPLE ITEMS
+–6
+RFID tag, bug slap patch, microdrone, contact lenses
+–4
+Hold-out pistol, monowhip, ammo clip, credstick, chips/softs, sequencer/passkey, autopicker, lockpick set, commlink, glasses
+–2
+Light pistol, knife, sap, minidrone, microgrenade, flash-pak, jammer, cyberdeck, rigger command console
+0
+Heavy pistol, machine pistol with folding stock collapsed, grenade, goggles, ammo belt/drum, club, extendable baton (collapsed)
++2
+SMG, machine pistol with folding stock extended, medkit, small drone, extendable baton (extended), stun baton
++4
+Sword, sawed-off shotgun, bullpup assault rifle
++6
+Katana, monosword, shotgun, assault rifle, sport rifle, crossbow
++8
+Sniper rifle, bow, grenade launcher, medium drone
++10/Forget about it
+Machine gun, rocket launcher, missile launcher, staff, claymore, metahuman body
+*Applies to observer
+420    carrying gear >>
+
+
+===== PAGE 426 =====
+stress fractures and other complications. A hacker can’t 
+hack into your bone lacing and break your bones, but a 
+hacker can tell your bone lacing that your bones are bro-
+ken, causing your bone lacing to tell your commlink to call 
+DocWagon, or tell your medkit that you need painkillers.
+Every item being wireless means that nearly every 
+item has a device rating. Unless otherwise specified in 
+an item’s description, the general Device Rating can be 
+found on the Device Ratings table.
+WIRELESS BONUSES
+Because nearly every piece of gear and ’ware is wireless 
+capable, it means nearly every piece of gear and cyber-
+ware benefits dramatically from being “meshed” into your 
+wireless personal area network and the Matrix as a whole.
+When an item has additional functionality when con-
+nected to the Matrix, it’s described under the “Wireless” 
+entry in the item’s description. This functionality only 
+applies when the device has access to the Matrix, which 
+is most of the time unless your gamemaster says oth-
+erwise, like if you’ve entered a wireless static zone. If 
+there is a Noise Rating from a situation that is greater 
+than the item’s Device Rating, not including distance, 
+the item temporarily loses its wireless functionality (see 
+Noise, p. 230).
+These benefits only apply when the item’s wireless 
+mode is on. Your Ares Alpha can’t auto-adjust for the 
+wind direction and speed if it can’t download local up-
+to-the-second weather conditions, and your Eurocar 
+Westwind 3000 doesn’t know the status of the next 
+three traffic lights if it’s not connected to GridGuide. A 
+wireless device is always vulnerable to subversion and 
+control by a hacker within wireless handshake range. 
+You can defend your gear with a good commlink and 
+a personal area network (see PANs and WANs, p. 233). 
+Even better, defending against threats from the Matrix is 
+part of your team hacker’s job. If she’s not available, you 
+might occasionally want to turn wireless off.
+TURNING IT OFF
+Toggling an individual device’s wireless functionality 
+off is a Free Action, as is toggling all of your wireless 
+devices to “wireless off.” You lose wireless bonuses, 
+but the items can no longer be wirelessly hacked. Oth-
+erwise, you can rely on your team’s hacker to provide 
+wireless defense to your personal area network and get 
+the best of both worlds, keeping your wireless bonuses 
+on while maintaining a defense from the digital world.
+THROWBACKS
+Some devices are throwbacks, devices that do not have 
+wireless capability. While they still exist, they are becom-
+ing more and more rare in the 2070s. Throwbacks cannot 
+be accessed by wireless connection, and so can neither 
+be controlled remotely nor gain a wireless bonus.
+If you consider a device’s wireless link to be a nui-
+sance, you can turn it into a throwback with a Hardware + 
+Logic [Mental] (8, 10 minutes) Extended Test—or simply 
+purchase the device as a throwback in the first place (al-
+ways an option, though it may get you some funny looks).
+While throwbacks are immune to hacking via the 
+wireless Matrix, all devices have a universal access port. 
+Devices can be connected with a data cable with little 
+problem. If you’ve got a datajack, you can use its includ-
+ed spooled data filament to connect to a throwback di-
+rectly, which means nothing is completely safe from a 
+hacker with a datajack. Of course, if a hacker is able to 
+sneak up to you and plug into your gun, you might have 
+bigger problems than hacking attacks from the Matrix. 
+INCOMPATIBILITY
+When two items are incompatible—like a shotgun and a la-
+ser sight, or wired reflexes and synaptic boosters—you can-
+not use the effects of both items at the same time. If one 
+item of gear says it’s incompatible and the other doesn’t, 
+they’re incompatible. You can have both items if you want, 
+you just have to pick what piece of gear to use at what time.
+GEAR LISTING
+The following seemingly exhaustive selection of gear is 
+actually just a small sampling of the fun toys and crucial 
+tools available through fixers, fences, gray markets, black 
+markets, lore shops, and the Matrix. Future Shadowrun 
+products will introduce even more items, and gamemas-
+ters are encouraged to come up with some of their own.
+MELEE WEAPONS
+Melee weapons are for ending the lives of people con-
+veniently within arm’s reach (see Melee Combat, p. 184). 
+Some runners swear by them, especially those who prefer 
+>> STREET GEAR <<
+DEVICE RATINGS
+TYPE
+RATING
+EXAMPLES
+Simple
+1
+General appliances, public terminals, entertainment systems
+Average
+2
+Standard personal electronics, basic cyberware, vehicles, drones, weapons, residential security devices
+Smart
+3
+Security vehicles, alphaware, corporate security devices
+Advanced
+4
+High-end devices, betaware, military vehicles, and mil-spec security devices
+Cutting Edge
+5
+Deltaware, credsticks, black-ops vehicles and security devices
+Bleeding Edge
+6
+Billion-nuyen experimental devices, space craft
+<< gear listing    421
+
+
+===== PAGE 427 =====
+to kill silently or are afraid of hackers bricking their guns. 
+The damage value of most melee weapons is based on 
+the wielder’s Strength, modified by the weapon.
+The game statistics of improvised melee weapons 
+can be found in Melee Combat (p. 184), while implant 
+weapons are found in Cyber Implant Weapons (p. 458).
+BLADES
+Use the Blades skill to wield these weapons.
+Combat axe: A two-handed tungsten-alloy monster, 
+available single- or double-bladed. A hardened thrust-
+ing point can be concealed, spring-loaded, in the han-
+dle. While it may seem barbaric or primitive, the physical 
+augmentations of 2075 can make an old-school weap-
+on like a combat axe even deadlier than a firearm in the 
+right hands. So go ahead, go medieval.
+Combat knife: A long, KA-BAR-style fighting knife 
+with a blacked-out blade and a chisel point for punching 
+through armor.
+Forearm snap-blades: These are essentially like 
+spurs, only they’re external—painless to install or re-
+move. A forearm sheath conceals three blades that can 
+be extended or retracted via wireless link or muscle 
+movement commands.
+Wireless: Readying the forearm snap blades is a Free 
+Action instead of a Simple Action.
+Katana: The legendary two-handed sword of the 
+samurai. The katana has become synonymous not just 
+with street samurai, but with shadowrunners in general, 
+at least in the trids; they’ve got everyone packing a ka-
+tana, from the decker to the mage. But being a silly cli-
+ché doesn’t make this blade any less dangerous, or less 
+helpful in a fight.
+Knife: Your basic, all-purpose street cutter. It comes 
+in a bewildering array of styles, colors, and flavors, but 
+the statistics don’t vary from one to the next. Ordinary 
+knives are used by the poor, the desperate, or the cau-
+tious as backup weapons.
+Pole arm: This is, at its very essence, a blade on the 
+end of a very long stick. It usually features an axe-head, 
+glaive, spear point, or similar maiming implement. It’s 
+not easy to handle and it’s just about impossible to con-
+ceal, but it’s popular both with trolls and with melee 
+combatants looking to safely keep said large trolls at 
+more than arm’s length.
+Survival knife: A fine quality blade—smooth on one 
+edge, serrated on the other—with several accessories, 
+including a GPS monitor, mini-multitool, micro-light-
+er, and a hidden compartment in the handle. The sides 
+of the steel are coated with a non-toxic chemical that 
+blacks out the blade when inert to prevent unwanted 
+reflection, but can be activated to provide two hours of 
+phosphorescent light. All knives can cut flesh, but a sur-
+vival knife is better at cutting rope and wood, or other-
+wise being used as a tool. The survival knife is the kind of 
+gadget that no professional should be without.
+Wireless: The knife displays an ARO of local maps, 
+your GPS position, and can be used to make commcalls.
+Sword: It’s sharp, it’s heavy, and it will fragging cut 
+you wide open. Available in a wide variety of styles 
+(wakizashi, seax, scimitar, jian, machete, and so on and 
+so forth), this one-handed blade is not as formidable as 
+a katana but is substantially easier to hide.
+CLUBS
+Use the Clubs skill to inflict blunt force trauma with 
+these weapons.
+Club: The weapon they named the skill after. These 
+stats represent a range of objects, including an axe 
+handle, baseball bat, wrench, crowbar, a tire iron, and a 
+two-by-four with a rusty nail in it. There is a price listed, 
+but it’s not overly difficult to find one for free if you 
+know where to look.
+Extendable baton: This telescoping club can be col-
+lapsed, and it can be extended with a sharp flick of the 
+wrist or a wireless signal. When retracted, it’s more eas-
+ily concealed (Concealability Modifier 0 when retracted, 
++2 when extended).
+Wireless: Readying the extendable baton is a Free Ac-
+tion instead of a Simple Action.
+Sap: Also called a blackjack, this is a small, springy 
+club, or a flat piece of iron in a flexible leather covering. 
+It’s specially designed for concealment (Concealability 
+Modifier –2).
+Staff: This large, heavy stick is popular with magicians 
+going for that traditional look. Available in composite, 
+hardwood, high-carbon steel, and other materials.
+Stun baton: A standard riot-control weapon, viewed 
+as a tool and symbol of corporate-government oppres-
+sors but pragmatically useful to runners. It has ten charges 
+and regains one charge per ten seconds when plugged in.
+Wireless: The stun baton recharges by induction, re-
+gaining one charge per full hour of wireless-enabled time.
+Telescoping staff: This is a metal and composite 
+staff that can telescope down to a reasonable size, one 
+that can be concealed about as easily as a stun baton 
+or a sword. It can be extended and locked in place by 
+whirling it at the correct speed and angle and twisting 
+the grip, or via a wireless signal.
+Wireless: Readying the telescoping staff is a Free Ac-
+tion instead of a Simple Action.
+OTHER MELEE WEAPONS
+These weapons require skills other than Blades or Clubs 
+to use.
+Knucks: These may be traditional fist-load weap-
+ons like brass knuckles, or modern “Hardliner gloves” 
+with a thin layer of densiplast located along the 
+knuckles and the edge of the hand. Either way they 
+substantially boost the impact of a punch, making it 
+potentially deadly. Attacks with knucks use the Un-
+armed Combat skill.
+>> STREET GEAR <<
+422    gear listing >>
+
+
+===== PAGE 428 =====
+Monofilament whip: Iconic. Terrifying. Deadly. Few 
+weapons on the street are more feared. This monofila-
+ment line can cut through bone and armor like hot butter. 
+The line extends out to two meters, and retracts into the 
+weapon’s handle when not in use. The whip action, the 
+weighted tip, and the deadly thread of the monofilament 
+line itself make this weapon a potential danger to it’s 
+wielder. On a glitch, you catch the weighted tip on some-
+thing nearby and need to disentangle it before you make 
+another proper attack with it. On a critical glitch, you hit 
+yourself with the whip and take its base damage (resisted 
+normally). A monofilament whip requires the Exotic Me-
+lee Weapon (Monofilament Whip) skill to use.
+Wireless: The whip can be readied with a Free Action, 
+rather than a Simple Action, and the whip’s built-in safety 
+system retracts automatically instead of getting you en-
+tangled on a glitch. The Accuracy is also increased by 2.
+Shock Gloves: These electrically insulated gloves 
+have a wire mesh that discharges electric current with 
+a punch or a simple touch. The gloves deal electricity 
+damage (p. 170) and are good for ten charges before 
+they need to be plugged in and recharged (at a rate of 
+one charge per ten seconds). Attacks with shock gloves 
+use the Unarmed Combat skill.
+Wireless: The shock gloves recharge by induction, re-
+gaining one charge per full hour of wireless-enabled time.
+PROJECTILE AND 
+THROWING WEAPONS
+These weapons are primarily muscle-powered, al-
+though some might use simple mechanical assistance 
+for added distance or speed (see Projectiles, p. 181).
+Bows: This could be a traditional longbow of fiberglass 
+or wood, or possibly a modern compound-and-pulley 
+bow. Both are archaic and rare weapons on the streets 
+of 2075, and both have the advantage of being hack-
+er-proof. Reloading a bow takes a Simple Action (Ready 
+Weapon, p. 165).
+Bows have ratings that indicate the minimum 
+Strength you need to use that weapon. When attacking 
+with a bow, a character whose Strength is less than the 
+Strength minimum suffers a –3 dice pool modifier per 
+point below the minimum; this penalty reflects the diffi-
+culty they have in pulling the bow and nocking an arrow. 
+The weapon’s Rating is also used to determine its range 
+and damage (maximum Rating is 10). Use the lowest val-
+ue of your Strength, the bow’s rating, or the arrow Rating 
+for range and damage when attacking a target, because 
+your average Rating 10 titanium-sheathed beryllium-al-
+loy bow tends to turn wood or fiberglass arrows into 
+powder when they hit a target.
+>> STREET GEAR <<
+MELEE WEAPONS
+BLADES
+ACCURACY
+REACH
+DAMAGE
+AP
+AVAIL
+COST
+Combat axe
+4
+2
+(STR + 5)P
+–4
+12R
+4,000¥
+Combat knife
+6
+—
+(STR + 2)P
+–3
+4
+300¥
+Forearm snap-blades
+4
+—
+(STR + 2)P
+–2
+7R
+200¥
+Katana
+7
+1
+(STR + 3)P
+–3
+9R
+1,000¥
+Knife
+5
+—
+(STR + 1)P
+–1
+—
+10¥
+Pole arm
+5
+3
+(STR + 3)P
+–2
+6R
+1,000¥
+Survival knife
+5
+—
+(STR + 2)P
+–1
+—
+100¥
+Sword
+6
+1
+(STR + 3)P
+–2
+5R
+500¥
+CLUBS
+ACCURACY
+REACH
+DAMAGE
+AP
+AVAIL
+COST
+Club
+4
+1
+(STR + 3)P
+—
+—
+30¥
+Extendable baton
+5
+1
+(STR + 2)P
+—
+4
+100¥
+Sap
+5
+—
+(STR + 2)P
+—
+2
+30¥
+Staff
+6
+2
+(STR + 3)P
+—
+3
+100¥
+Stun baton
+4
+1
+9S(e)
+–5
+6R
+750¥
+Telescoping staff
+4
+2
+(STR + 2)P
+—
+4
+350¥
+OTHER
+ACCURACY
+REACH
+DAMAGE
+AP
+AVAIL
+COST
+Knucks
+Physical
+—
+(STR + 1)P
+—
+2R
+100¥
+Monofilament whip
+5 (7)
+2
+12P
+–8
+12F
+10,000¥
+Shock gloves
+Physical
+—
+8S(e)
+–5
+6R
+550¥
+<< gear listing    423
+
+
+===== PAGE 429 =====
+Crossbows: Modern crossbows are equipped with 
+automatic reloading devices, so unless you’re using 
+a museum piece, reloading doesn’t require a Ready 
+Weapon action. Crossbows have internal magazines (m) 
+holding up to 4 bolts. Crossbows are available in Light, 
+Medium, and Heavy sizes.
+Injection arrow/bolt: An injection bolt causes the 
+same damage as a regular arrow or bolt, but also in-
+cludes a payload of one dose of a drug or toxin. Effects 
+depend on the drug payload, but to successfully deliver 
+it, the attack must deal at least one box of damage after 
+the Damage Resistance Test. This is an injection vector 
+toxin attack.
+Throwing knives/shuriken: A wide variety of 
+shapes and sizes of aerodynamically balanced, specially 
+weighted, muscle-powered throwing weapons are avail-
+able, from throwing spikes to darts to kunai and shurik-
+en. A character can ready (Agility ÷ 2) of these knives 
+with one Ready Weapon action.
+Wireless: If all the throwing knives or shuriken you 
+throw in a single Combat Turn are wireless and you have 
+a smartlink system, each knife you throw receives a +1 
+dice pool bonus per knife thrown that Combat Turn at 
+your current target, as the knives inform and adjust for 
+wind and other atmospheric conditions. So you’d get 
+no bonus on the first throw, a +1 bonus on the second 
+throw, a +2 bonus on the third throw, etc. (assuming you 
+aimed all three knives at the same target).
+FIREARMS
+Cold steel that spits hot lead. Slug-throwing firearms are 
+by far the most common weapons on the streets of 2075. 
+Each weapon is chambered to take either old-fashioned 
+cased ammunition or caseless ammo. Most firearms 
+load caseless ammunition, with fewer and fewer mod-
+els coming in variants able to handle cased ammunition. 
+Sure, releasing a storm of shell casings when you hold 
+down the trigger looks awesome, but it’s impractical for 
+the modern shadowrunner and their natural enemy, law 
+enforcement and corporate security.
+Firearms come with wireless capability and a digital 
+ammunition counter. Ammunition (p. 433) is sold sepa-
+rately. All firearms have the following wireless bonuses 
+in addition to any wireless bonuses on each model:
+Wireless: The weapon displays an ARO that tells you 
+ammo levels and ammo type loaded. If you have a DNI, 
+you get two additional benefits. First, ejecting a clip (for 
+weapons that have them) is a Free Action rather than a 
+Simple Action. Second, changing fire modes (on mod-
+els that have more than one) is a Free Action rather than 
+a Simple Action. 
+TASERS
+Tasers are legal to carry and a great choice for non-le-
+thally incapacitating someone. Tasers, like other electri-
+cal weapons, have a flat Armor Penetration value of –5 
+and deal electricity damage. Use the Pistols skill to fire 
+a taser. Tasers can take only top-mounted accessories.
+Defiance EX Shocker: This heavy-duty taser fires 
+up to 4 darts that trail wires up to 20 meters long. The 
+wired connection to the battery allows for a more pow-
+erful shock. Most modern tasers use wireless darts, so 
+the Defiance EX Shocker is an exception. It also features 
+contacts that allow it to be used as a stun weapon in 
+melee (Accuracy 3, DV 8S(e), Reach 0).
+Wireless: A successful hit informs you of the status of 
+the target’s basic health (and Condition Monitors).
+DEFIANCE EX-SHOCKER
+>> STREET GEAR <<
+PROJECTILE WEAPONS
+BOWS
+ACCURACY
+DAMAGE
+AP
+AVAIL
+COST
+Bow
+6
+(Rating + 2)P
+–(Rating / 4)
+Rating
+Rating x 100¥
+Arrow
+—
+—
+—
+Rating
+Rating x 2¥
+Injection arrow
+—
+—
+—
+(Rating + 2)R
+Rating x 20¥
+CROSSBOWS
+ACCURACY
+DAMAGE
+AP
+AVAIL
+COST
+Light
+7
+5P
+–1
+2
+300¥
+Medium
+6
+7P
+–2
+4R
+500¥
+Heavy
+5
+10P
+–3
+8R
+1,000¥
+Bolt
+—
+—
+—
+2
+5¥
+Injection bolt
+—
+—
+—
+8R
+50¥
+THROWING WEAPONS
+ACCURACY
+DAMAGE
+AP
+AVAIL
+COST
+Throwing knife/shuriken
+Physical
+(STR + 1)P
+–1
+4R
+25¥
+424    gear listing >>
+
+
+===== PAGE 430 =====
+Yamaha Pulsar: The darts of this taser contain wire-
+less capacitors, meaning that the Pulsar eliminates the 
+need for cumbersome wires. As a trade-off, it is slightly 
+less powerful than the EX Shocker, although it can fire 
+faster. It lacks the EX Shocker’s melee contacts.
+Wireless: A successful hit informs you of the status of 
+the target’s basic health (and Condition Monitors).
+HOLD-OUTS
+Hold-out pistols are very concealable and are perfect 
+for sneaking into a meet or wearing as a back-up piece. 
+They don’t have much else going for them, being both 
+weak and inaccurate. Use the Pistols skill when firing a 
+hold-out pistol. Hold-outs can’t take accessories.
+Fichetti Tiffani Needler: Designed to appeal to so-
+cial climbers and debutantes, the Tiffani Needler is avail-
+able in a wide variety of colors and styles. It also has a 
+special color-changing coating that can be manipulated 
+via wireless signal. This is useful to make sure your gun 
+matches  with your shoes or your handbag. The Needler 
+can only fire flechette rounds (already factored into its 
+damage code).
+Wireless: You can change the color of the Tiffani 
+Needler with a Simple Action.
+Streetline Special: Popular among society’s dregs, 
+the Streetline Special is a small, lightweight weapon 
+made of composite materials. Magnetic Anomaly De-
+tectors (see MAD Scanner, p. 446) suffer a –2 dice pool 
+modifier to detect it.
+Walther Palm Pistol: This is a classic double-barreled 
+derringer in an over-under barrel combination. It packs a 
+punch for its size, but on the downside it has one of the 
+most diminutive “magazine” capacities on the market—
+just one bullet per barrel. Both barrels can be fired at 
+once as a short burst (see Not Enough Bullets, p. 180).
+LIGHT PISTOLS
+Light pistols are highly accurate and fairly conceal-
+able, occupying a comfortable middle ground be-
+tween Hold-outs and Heavy Pistols. They’re extremely 
+common on the streets. Use the Pistols skill when fir-
+ing a light pistol. Light pistols can take top- and bar-
+rel-mounted accessories.
+Ares Light Fire 75: Designed based on one of the 
+most common pistols on the market, the Light Fire is a 
+weapon for special operators, not commonly available 
+through legal channels. A special barrel-mounted si-
+lencer developed exclusively for the Light Fire comes 
+attached, applying an additional –1 dice pool modifier 
+to the modifier usually provided by silencers. In addition 
+to its integral silencer, the Ares Light Fire 75 includes a 
+smartgun system.
+Ares Light Fire 70: The Ares Light Fire 70 is one 
+of the most common pistols on the market. A special 
+barrel-mounted silencer developed exclusively for the 
+Light Fire 70 is available that gives you an additional –1 
+dice pool modifier to the usual –4 (for a total of –5); this 
+silencer costs 750¥.
+Beretta 201T: This light sidearm is used by many secu-
+rity professionals. It is capable of burst fire. Since the 201T 
+is classified as a light pistol without further limitations, it 
+is quite popular with security agencies in countries where 
+heavy pistols and machine pistols are hard to come by 
+legally. Semi-automatic bursts using the Beretta 201T re-
+quire a Simple Action. The weapon includes a detachable 
+shoulder stock.
+Colt America L36: A venerable pistol with a great rep-
+utation. This basic firearm is cheap, easily concealed, and 
+nearly ubiquitous. A perfect throwaway weapon.
+STREETLINE SPECIAL
+COLT AMERICA L36
+>> STREET GEAR <<
+FIREARMS
+TASERS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Defiance EX Shocker
+4
+9S(e)
+–5
+SS
+—
+4 (m)
+—
+250¥
+Yamaha Pulsar
+5
+7S(e)
+–5
+SA
+—
+4 (m)
+—
+180¥
+HOLD-OUTS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Fichetti Tiffani Needler
+5
+8P(f)
++5
+SA
+—
+4 (c)
+5R
+1,000¥
+Streetline Special
+4
+6P
+—
+SA
+—
+6 (c)
+4R
+120¥
+Walther Palm Pistol
+4
+7P
+—
+SS/BF
+—
+2 (b)
+4R
+180¥
+<< gear listing    425
+
+
+===== PAGE 431 =====
+Fichetti Security 600: A light sidearm for security forc-
+es, this weapon’s highly efficient feeding mechanism al-
+lows it a thirty-round magazine. The Fichetti Security 600 
+comes with a detachable folding stock and laser sight.
+Taurus Omni-6: This reliable, rugged revolver is spe-
+cially designed to handle a wide variety of ammunition. 
+Popular with hobbyists and hand-loaders, the Omni-6 
+comes with some interchangeable cylinders so it can 
+take either cased or caseless, light pistol or heavy pis-
+tol ammo. When firing light pistol rounds, the Omni-6 is 
+semi-automatic (SA) and has a base DV of 6P, and when 
+it fires heavy pistol ammo it has only single shot mode 
+(SS), and a base DV of 7P and –1 AP. The Omni-6 in-
+cludes an integral laser sight.
+HEAVY PISTOLS
+Heavy pistols are powerful sidearms that are a good com-
+promise between concealability and firepower. When 
+you shoot a heavy pistol, you use the Pistols skill. Heavy 
+pistols can take top- and barrel- mounted accessories.
+Ares Predator V: The newest iteration of the most 
+popular handgun in the world, especially with merce-
+naries and shadowrunners. Upgraded with improved 
+ergonomics and handling features, the Ares Predator 
+V includes a smartgun system. Some say that the Ares 
+Predator V isn’t better than other guns in its class, but no 
+one can argue that it has better brand recognition.
+Ares Viper Slivergun: The sleek Slivergun pairs the 
+undeniably winning combo of burst-fire capability and 
+built-in sound suppression (an integral silencer, p. 432) 
+with its large magazine capacity. It fires metal slivers that 
+count as flechette ammunition, which is factored into 
+the weapon’s damage code.
+Browning Ultra-Power: This venerable sidearm is 
+the Ares Predator’s primary competition as the world’s 
+toughest heavy pistol. It offers a built-in top-mounted 
+laser sight and is slightly cheaper.
+Colt Government 2066: This government-issue 
+weapon, styled after the legendary Colt M1911a1, uses 
+an electrically induced spark to detonate the bullet’s 
+propellants. The removal of most moving parts from the 
+firing mechanism gives this weapon a reputation for be-
+ing exceptionally reliable.
+Remington Roomsweeper: This is really more of a 
+short-barreled shotgun than a pistol. When loaded with 
+TAURUS OMNI-6
+ARES PREDATOR V
+>> STREET GEAR <<
+FIREARMS
+LIGHT PISTOLS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares Light Fire 75
+6 (8)
+6P
+—
+SA
+—
+16 (c)
+6F
+1,250¥
+Ares Light Fire 70
+7
+6P
+—
+SA
+—
+16 (c)
+3R
+200¥
+Beretta 201T
+6
+6P
+—
+SA / BF
+(1)
+21 (c)
+7R
+210¥
+Colt America L36
+7
+7P
+—
+SA
+—
+11 (c)
+4R
+320¥
+Fichetti Security 600
+6 (7)
+7P
+—
+SA
+(1)
+30 (c)
+6R
+350¥
+Taurus Omni-6
+5 (6)
+6P / 7P
+0 / –1
+SA / SS
+—
+6 (cy)
+3R
+300¥
+HEAVY PISTOLS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares Predator V
+5 (7)
+8P
+–1
+SA
+—
+15 (c)
+5R
+725¥
+Ares Viper Slivergun
+4
+9P (f)
++4
+SA / BF
+—
+30 (c)
+8F
+380¥
+Browning Ultra-Power
+5 (6)
+8P
+–1
+SA
+—
+10 (c)
+4R
+640¥
+Colt Government 2066
+6
+7P
+–1
+SA
+—
+14 (c)
+7R
+425¥
+Remington Roomsweeper
+4
+7P
+–1
+SA
+—
+8 (m)
+6R
+250¥
+     w/ flechettes
+—
+9P (f)
++4
+—
+—
+—
+—
+—
+Ruger Super Warhawk
+5
+9P
+–2
+SS
+—
+6 (cy)
+4R
+400¥
+426    gear listing >>
+
+
+===== PAGE 432 =====
+shot rounds (flechette) rather than solid slugs, it uses 
+Heavy Pistol ranges but shotgun rules (Shotguns, p. 180).
+Ruger Super Warhawk: This revolver is as loud as 
+a jet liner and twice as shiny. It’s also one of the scari-
+est handguns in the world. The cased ammo variant is 
+popular for the sheer thrill of swinging open the cylinder 
+gate one handed and dumping spent brass.
+MACHINE PISTOLS
+Machine pistols offer a high rate of fire in a compact 
+package. Use the Automatics skill to fire a machine pis-
+tol (characters may use the Pistols skill in Semi-Auto 
+mode). Machine pistols can take top- and barrel-mount-
+ed accessories.
+Ares Crusader II: A large magazine and easy han-
+dling make the Ares Crusader II one of the most popular 
+weapons of its class. It features an integral barrel-mount-
+ed gas-vent 2 recoil compensation system and comes 
+with an integral smartgun system.
+Ceska Black Scorpion: This classic machine pis-
+tol provides concealable burst-fire capability. It comes 
+equipped with an integral folding stock.
+Steyr TMP: This lightweight polymer-frame pistol is 
+capable of full autofire, but its light weight makes it hard 
+to control when firing on full auto. It comes equipped 
+with a built-in top-mounted laser sight.
+SUBMACHINE GUNS
+Use the Automatics skill when firing a submachine gun. 
+SMGs can take top- and barrel-mounted accessories.
+Colt Cobra TZ–120: With its unique design and 
+wide range of accessories, the Colt Cobra series is quite 
+popular both among security forces the world over and 
+on the trids. The TZ–120 comes with a folding stock, 
+top-mounted laser sight, and a barrel-mounted gas-vent 
+2 system.
+FN P93 Praetor: This bullpup submachine gun was 
+purpose-built for Corporate Court-controlled Interpol 
+fast-response teams. Its special chamber system pro-
+vides 1 point of Recoil Compensation, it has an inte-
+grated rigid stock, and a flashlight that can be used to 
+reduce darkness penalties by one step (Environmental 
+Modifiers, p. 173). Possession of the FN P93 while not a 
+legitimate member of a Corporate Court force is a crime 
+in most jurisdictions.
+HK–227: The SMG of choice for many corporate and 
+military security forces, the HK–227 boasts a retractable 
+stock, smartgun system, and integral sound suppressor.
+Ingram Smartgun X: Grade-A bang bang. Famous as 
+the weapon of choice for many legendary street samu-
+rai since the 2050s, the Ingram Smartgun comes tricked 
+out with a gas-vent 2 system, a smartgun system, and an 
+integral sound suppressor.
+REMINGTON ROOMSWEEPER
+INGRAM SMARTGUN X
+>> STREET GEAR <<
+FIREARMS
+MACHINE PISTOLS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares Crusader II
+5 (7)
+7P
+—
+SA / BF
+2
+40 (c)
+9R
+830¥
+Ceska Black Scorpion
+5
+6P
+—
+SA / BF
+(1)
+35 (c)
+6R
+270¥
+Steyr TMP
+4
+7P
+—
+SA / BF / FA
+—
+30 (c)
+8R
+350¥
+SUBMACHINE GUNS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Colt Cobra TZ-120
+4 (5)
+7P
+—
+SA / BF / FA
+2 (3)
+32 (c)
+5R
+660¥
+FN P93 Praetor
+6
+8P
+—
+SA / BF / FA
+1 (2)
+50 (c)
+11F
+900¥
+HK-227
+5 (7)
+7P
+—
+SA / BF / FA
+(1)
+28 (c)
+8R
+730¥
+Ingram Smartgun X
+4 (6)
+8P
+—
+BF / FA
+2
+32 (c)
+6R
+800¥
+SCK Model 100
+5 (7)
+8P
+—
+SA / BF
+(1)
+30 (c)
+6R
+875¥
+Uzi IV
+4 (5)
+7P
+—
+BF
+(1)
+24 (c)
+4R
+450¥
+<< gear listing    427
+
+
+===== PAGE 433 =====
+SCK Model 100: Shin Chou Kyogo is synonymous 
+with Japanese corporate security. Nearly every Japana-
+corp’s security forces are issued the SCK 100, including 
+Renraku’s infamous Red Samurai. The SCK 100 features 
+an internal smartgun system and a folding stock.
+Uzi IV: This aging submachine gun is a worthy de-
+scendant of the famous Israeli weapon. The SMG fea-
+tures an integral folding stock and built-in top-mounted 
+laser sight.
+ASSAULT RIFLES
+Use the Automatics skill when firing an assault rifle. 
+Assault rifles can take top-, barrel-, and underbar-
+rel-mounted accessories.
+AK-97: The AK-97 is a legendary weapon with sto-
+ried reliability—you can bury it for ten years, dig it up, 
+and fire it immediately without a single problem. When 
+all of the nano-fabricated AK–174s melted to slag, the 
+AK-97s kept functioning just fine.
+Ares Alpha: Specially designed for Ares Firewatch 
+special forces, the Alpha has since become a multi-plati-
+num best-selling success the world over, seeing use with 
+UCAS Special Forces. In part, this is due to its exception-
+al brand awareness, and also because of its underbarrel 
+grenade launcher, smartgun system, and an expensive 
+chamber design that provides 2 points of Recoil Com-
+pensation.
+Colt M23: This cheap, mass-produced, no-frills as-
+sault rifle is loved both by the gangbangers and pirates 
+who can manage to get their hands on one and by the 
+pros who are looking for something to modify from the 
+ground up.
+FN HAR: This assault rifle is supremely popular with 
+private security forces and corporate threat-response 
+teams. It features a laser sight and a gas-vent 2 system.
+ Yamaha Raiden: This electronic-firing assault ri-
+fle is state-of-the-art. The Raiden is very accurate and 
+is quickly being adopted by japanacorp security forces 
+and the Japanese Imperial Marines. It features an inte-
+gral sound suppressor and smartgun system, and the 
+electronic firing mechanism and design provides 1 point 
+of Recoil Compensation.
+SNIPER RIFLES
+Use the Longarms skill when firing sniper rifles. Firearm 
+enthusiasts will be the first to tell you that sport and hunt-
+ing rifles are technically not sniper rifles, but they are sim-
+ilar enough in terms of game statistics to be included here 
+rather than in their own section. Sniper rifles can take top, 
+barrel-, and underbarrel-mounted accessories.
+Ares Desert Strike: This combat-hardened sniper ri-
+fle is intended for long-range shooting in harsh environ-
+ments. That means it was built without materials or tech-
+nologies prone to failure. It comes equipped with a rigid 
+stock with shock pad and a detachable imaging scope.
+Cavalier Arms Crockett EBR: Straddling the line 
+between assault rifle and sniper rifle, the Crockett EBR 
+features a burst fire mode. While it lacks the magazine 
+capacity of a true assault rifle, and lacks the precision of 
+YAMAHA RAIDEN
+>> STREET GEAR <<
+FIREARMS
+ASSAULT RIFLES
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+AK-97
+5
+10P
+–2
+SA / BF / FA
+—
+38 (c)
+4R
+950¥
+Ares Alpha
+5 (7)
+11P
+–2
+SA / BF / FA
+2
+42 (c)
+11F
+2,650¥
+   Grenade Launcher
+4 (6)
+—
+—
+SS
+—
+6 (c)
+—
+—
+Colt M23
+4
+9P
+–2
+SA / BF / FA
+—
+40 (c)
+4R
+550¥
+FN HAR
+5 (6)
+10P
+–2
+SA / BF / FA
+2
+35 (c)
+8R
+1,500¥
+Yamaha Raiden
+6 (8)
+11P
+–2
+BF / FA
+1
+60 (c)
+14F
+2,600¥
+SNIPER RIFLES
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares Desert Strike
+7
+13P
+–4
+SA
+(1)
+14 (c)
+10F
+17,500¥
+Cavalier Arms Crockett EBR
+6
+12P
+–3
+SA / BF
+(1)
+20 (c)
+12F
+10,300¥
+Ranger Arms SM-5
+8
+14P
+–5
+SA
+(1)
+15 (c)
+16F
+28,000¥
+Remington 950
+7
+12P
+–4
+SS
+—
+5 (m)
+4R
+2,100¥
+Ruger 100
+6
+11P
+–3
+SA
+(1)
+8 (m)
+4R
+1,300¥
+428    gear listing >>
+
+
+===== PAGE 434 =====
+a true marksman’s weapon, it makes up for this in ver-
+satility, being able to switch fluidly between a sniping 
+role and a combat role as easy as flipping a switch. It 
+comes equipped with a rigid stock with shock pad and a 
+detachable imaging scope.
+Ranger Arms SM–5: A legendary assassin’s weapon, 
+this sniper rifle features a silencer, an imaging scope, 
+and a rigid stock with shock pad. The SM–5 disassem-
+bles completely in order to fit into a standard briefcase; 
+setting it up or breaking it down takes an Extended Fire-
+arms + Logic [Mental] (6, Complex Action) Test. While 
+deadly, the SM–5 is fragile. At the end of every Com-
+bat Turn in which the weapon is used in a running fire-
+fight, reduce its Accuracy by 1 (to a minimum of 3). If 
+the weapon is used in combat as a melee weapon or to 
+defend from a melee attack, reduce its Accuracy by 2 
+(again to a minimum of 3). Recalibrating the weapon (a 
+one-hour job) returns its Accuracy to normal.
+Remington 950: This high-powered bolt-action 
+hunting rifle features classic wooden furniture and a 
+top-mounted imaging scope that have kept it popular 
+with hunters for several decades. It cannot mount un-
+derbarrel accessories.
+Ruger 101: This futuristic-looking gas-operated sport-
+ing rifle is the favorite weapon for many professional 
+hunters and hobbyists. It features a built-in imaging scope 
+and a rigid stock with shock pad.
+SHOTGUNS
+Use the Longarms skill when firing shotguns. The stats 
+for these shotguns are for normal slug rounds. When 
+firing shot, use the special rules for shotguns, choke 
+settings, and flechette ammo (Shotguns, p. 180). Shot-
+guns can take top, barrel, and underbarrel accessories. 
+Defiance T–250: A common sight on the mean 
+streets when things escalate beyond pistols and knives, 
+this semi-automatic shotgun is available in either a nor-
+mal-length or short-barreled version. It is gas operated, 
+but also features a secondary pump action for situations 
+where preventing jams is more important than quickly 
+firing a second shot. The short-barreled version has the 
+Concealability of +4, the range of a heavy pistol, and a 
+damage code of 9P.
+Enfield AS-7: This military assault shotgun provides its 
+user with massive firepower. As a close-quarters weap-
+on and general combat gun, it is universally feared. It can 
+either be loaded with ten-round ammo clips or a spe-
+cial twenty-four-round drum. The Enfield AS-7 comes 
+equipped with a built-in, top-mounted laser sight.
+PJSS Model 55: This is a weapon of classic style for 
+a classic sport. Produced only in small numbers, it’s re-
+nowned among European hunters and trap shooters as 
+a precise and prestigious weapon. The weapon’s rigid 
+stock comes equipped with an integrated shock pad. 
+Both barrels can be shot at once as a short burst (see 
+Not Enough Bullets, p. 180).
+SPECIAL WEAPONS
+Use the Exotic Ranged Weapon skill when firing these 
+weapons.
+Ares S-III Super Squirt: This popular non-lethal 
+weapon fires DMSO gel packs. The dimethyl sulfoxide 
+forces the skin to absorb the chemicals the operator 
+wishes to deliver. The attack itself causes no damage, 
+CAVALIER ARMS CROCKETT EBR
+PJSS MODEL 55
+>> STREET GEAR <<
+FIREARMS
+SHOTGUNS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Defiance T-250
+4
+10P
+–1
+SS / SA
+—
+5 (m)
+4R
+450¥
+Enfield AS-7
+4 (5)
+13P
+–1
+SA / BF
+—
+10 (c) or 24 (d)
+12F
+1,100¥
+PJSS Model 55
+6
+11P
+–1
+SS
+(1)
+2 (b)
+9R
+1,000¥
+SPECIAL WEAPONS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares S-III Super Squirt
+3
+Chemical
+—
+SA
+—
+20 (c)
+7R
+950¥
+Fichetti Pain Inducer
+3
+Special
+—
+SS
+—
+Special
+11R
+5,000¥
+Parashield Dart Pistol
+5
+as Drug/Toxin
+—
+SA
+—
+5 (c)
+4R
+600¥
+Parashield Dart Rifle
+6
+as Drug/Toxin
+—
+SA
+—
+6 (m)
+6R
+1,200¥
+<< gear listing    429

@@ -1,4 +1,4 @@
-# Shadowrun Project — TODO
+# Shadowrun Project - TODO
 
 Living checklist for finishing reference material. Update status as work lands: `[ ]` todo · `[~]` in progress · `[x]` done.
 
@@ -6,7 +6,7 @@ Living checklist for finishing reference material. Update status as work lands: 
 
 ## Encyclopedia
 
-Folder: `Encyclopedia/` — stubs exist for each major item type; none are filled with item entries yet.
+Folder: `Encyclopedia/` - one file per major item type; filled catalogs use PDF-verified tables (see each file’s **Verified from** line).
 
 ### Setup
 
@@ -16,32 +16,32 @@ Folder: `Encyclopedia/` — stubs exist for each major item type; none are fille
 
 ### Fill item catalogs (Core first, then supplements)
 
-- [ ] [Melee Weapons](Encyclopedia/Melee%20Weapons.md) — blades, clubs, unarmed, exotic melee basics
-- [ ] [Projectile Weapons](Encyclopedia/Projectile%20Weapons.md) — bows, crossbows, throwing knives, etc.
-- [ ] [Firearms](Encyclopedia/Firearms.md) — pistols, automatics, longarms, machine guns, assault cannons
-- [ ] [Exotic Weapons](Encyclopedia/Exotic%20Weapons.md) — exotic melee & ranged
-- [ ] [Weapon Accessories](Encyclopedia/Weapon%20Accessories.md) — sights, silencers, gyros, underbarrels, smartgun
-- [x] [Ammunition](Encyclopedia/Ammunition.md) — Core + RnG + HT + TSG + SL filled (notes + weapon-locked SL feeds); niche books (Krime, etc.) optional
-- [ ] [Grenades and Explosives](Encyclopedia/Grenades%20and%20Explosives.md) — grenades, rockets, plastic explosive
-- [x] [Armor and Clothing](Encyclopedia/Armor%20and%20Clothing.md) — Core + RnG + SL + HT + CT filled; mods stay in Armor Modifications
-- [x] [Armor Modifications](Encyclopedia/Armor%20Modifications.md) — Core + RnG + HT (+ holsters / installed-gear Capacity cheat sheet)
-- [x] [Cyberware](Encyclopedia/Cyberware.md) — Core + CF (head/eye/ear/body/limbs/weapons/suites) + HT; nanoware deferred to Nanotech and Geneware
-- [x] [Bioware](Encyclopedia/Bioware.md) — Core + CF (basic/cultured/cosmetic/bio-weapons/symbionts/orthoskin) + HT; genetech deferred to Nanotech and Geneware
-- [ ] [Nanotech and Geneware](Encyclopedia/Nanotech%20and%20Geneware.md) — *Chrome Flesh* / advanced ware
-- [ ] [Commlinks and Electronics](Encyclopedia/Commlinks%20and%20Electronics.md) — links, accessories, general devices
-- [ ] [Cyberdecks and Programs](Encyclopedia/Cyberdecks%20and%20Programs.md) — decks, programs, agents, cyberprograms
-- [ ] [Rigger Gear](Encyclopedia/Rigger%20Gear.md) — RCC, control rigs, autosofts, jumped-in gear
-- [ ] [Sensors and Optics](Encyclopedia/Sensors%20and%20Optics.md) — vision enhancers, sensors, audio
-- [ ] [Medical Gear](Encyclopedia/Medical%20Gear.md) — medkits, supplies, docwagon-style services as gear
-- [ ] [Drugs Toxins and Chemicals](Encyclopedia/Drugs%20Toxins%20and%20Chemicals.md) — street drugs, combat drugs, toxins
-- [ ] [Magical Goods](Encyclopedia/Magical%20Goods.md) — foci, reagents, lodges, fetish, ritual materials
-- [ ] [Vehicles](Encyclopedia/Vehicles.md) — bikes, cars, trucks, boats, aircraft
-- [ ] [Drones](Encyclopedia/Drones.md) — mini through large; anthro if listed
-- [ ] [Vehicle and Drone Modifications](Encyclopedia/Vehicle%20and%20Drone%20Modifications.md) — weapon mounts, armor, spoof chips
-- [ ] [Identity and Documentation](Encyclopedia/Identity%20and%20Documentation.md) — fake SINs, licenses, certified credsticks
-- [ ] [Lifestyles and Safehouses](Encyclopedia/Lifestyles%20and%20Safehouses.md) — lifestyle costs, options, safehouse packages
-- [ ] [Tools Kits and Survival](Encyclopedia/Tools%20Kits%20and%20Survival.md) — kits, climbing, travel, disguise
-- [ ] [Security and Surveillance](Encyclopedia/Security%20and%20Surveillance.md) — maglocks, cameras, alarms, restraints
+- [x] [Melee Weapons](Encyclopedia/Melee%20Weapons.md) - Core + RnG + SL blades/clubs/unarmed/exotic melee + improvised; CT has no separate SKU list
+- [x] [Projectile Weapons](Encyclopedia/Projectile%20Weapons.md) - Core bow/crossbows/knives/shafts + RnG harpoon/pistol CB/slingshot/throwing/arrowheads + SL Trollbow/Airbow + ranges; HT archery UNVERIFIED section; Net cross-ref
+- [x] [Firearms](Encyclopedia/Firearms.md) - Core + RnG (Tasers through Flamethrowers, + RnG errata) + SL Expanded Arsenal + SL-CorpSec firearm SKUs; ~159 catalog rows across 15 classes; chapter text preferred over summary-table conflicts; shared procedures for XM30/HL-13, Puzzler/Infiltrator, lasers, flamethrowers, Ballista, Yakusoku, Gatling suppression, Man-Catcher, PTL-02
+- [x] [Exotic Weapons](Encyclopedia/Exotic%20Weapons.md) - Core special + whip + dart ammo; RnG exotic melee (incl. civilian chainsaws) / ranged / lasers / Blazer / power packs / underbarrel / net ammo; SL Stun Lance + Narcoject trio + Man-Catcher + foam; CT no SKU list
+- [x] [Weapon Accessories](Encyclopedia/Weapon%20Accessories.md) - Core + RnG + SL mounts/accessories/mods (sights, RC, smartgun, underbarrels, SL Krime/Narcoject)
+- [x] [Ammunition](Encyclopedia/Ammunition.md) - Core + RnG + HT + TSG + SL filled (notes + weapon-locked SL feeds); niche books (Krime, etc.) optional
+- [x] [Grenades and Explosives](Encyclopedia/Grenades%20and%20Explosives.md) - Core grenades/rockets/missiles/bulk explosives + RnG demolitions (Paint Grenade, Blast Shield, cooking/breaching/car bombs/detonators/accessories) + SL-CorpSec (Hornet, PTL-02 torpedoes, Man-Catcher ammo) + SL-Future (GravJack, Maker Missile/Grenade); 49 catalog rows; Seattle Gambit Incendiary/Molotov left unverified in Ammunition (no local PDF)
+- [x] [Armor and Clothing](Encyclopedia/Armor%20and%20Clothing.md) - Core + RnG + SL + HT + CT filled; mods stay in Armor Modifications
+- [x] [Armor Modifications](Encyclopedia/Armor%20Modifications.md) - Core + RnG + HT (+ holsters / installed-gear Capacity cheat sheet)
+- [x] [Cyberware](Encyclopedia/Cyberware.md) - Core + CF (head/eye/ear/body/limbs/weapons/suites) + HT; nanoware deferred to Nanotech and Geneware
+- [x] [Bioware](Encyclopedia/Bioware.md) - Core + CF (basic/cultured/cosmetic/bio-weapons/symbionts/orthoskin) + HT; genetech deferred to Nanotech and Geneware
+- [x] [Nanotech and Geneware](Encyclopedia/Nanotech%20and%20Geneware.md) - CF hard/soft nanoware + nanocybernetics + nanogear + weaponized + full genetech (restoration/phenotype/exotic/transgenic/microadaptation/complimentary/infusions/DNArt)
+- [x] [Commlinks and Electronics](Encyclopedia/Commlinks%20and%20Electronics.md) - Core/DT/KC links+RFID+comms+software; KC Flow/Frequency/Last Chance+RCC+PI-Tac accessories/tac-apps/headware; RnG PI-Tac+weapon link/personality; RF PACK notes; decks deferred
+- [x] [Cyberdecks and Programs](Encyclopedia/Cyberdecks%20and%20Programs.md) - Core/DT/KC decks, modules, common+hacking programs, agents, Cry Wolf; RF Decker PACKs; form-factor + implant pointers
+- [x] [Rigger Gear](Encyclopedia/Rigger%20Gear.md) - Core Control Rig + Interface + 11 RCCs + pilots/autosofts; R5 Pilot prices + Smartsoft/Group/Skillset/Personality/Linguistics + Swarm + EW actions; individual RCC cyberprograms; jumped-in mods (cocoon, MCO, touch sensors, retrans, sat link, etc.); KC Cyber-6/Skirmisher + Personal Drone Rack (56 entries)
+- [x] [Sensors and Optics](Encyclopedia/Sensors%20and%20Optics.md) - Core optical/imaging housings + optical devices + vision/audio enh + audio devices + sensor packages/functions/housings + RnG (MOAS, G-Cam, Periscope Cam) + R5 vehicle/drone Sensor Enhancement, Touch Sensors (Avail 8), drone sensor upgrades; DT/KC no extra SKUs; detail audit pass (sensor I/O, flare/smartlink/ultrasound wording, array Cap fit, BoomerEye/flashlight cross-refs)
+- [x] [Medical Gear](Encyclopedia/Medical%20Gear.md) - Core biotech/patches/DocWagon; CF Savior + TCS + implant medic + medical cyber; R5 MediCart/Valkyrie; SS Houdini/gurney/body bag/fake DW band + saline/nutrients; RnG spacesuit patch refill
+- [x] [Drugs Toxins and Chemicals](Encyclopedia/Drugs%20Toxins%20and%20Chemicals.md) - Core toxins/drugs/BTLs/addiction + industrial chems; CF street/Awakened/magical/BTL + grades/custom; SS extraction chems (DMSO/Caldwell/Slab/Laés/etc.)
+- [x] [Magical Goods](Encyclopedia/Magical%20Goods.md) - Core+SG+FA+CF+RF; paper lotus; FA rare reagents; Mage Sight; pointer audit (Drugs BADs / Magic Basics paths fixed) (~128 entries)
+- [x] [Vehicles](Encyclopedia/Vehicles.md) - Core+R5+SS 138 SKUs; audited Std Equip/Notes from R5 chapters; HT* Cocotaxi/Camellos table-only; drones deferred
+- [x] [Drones](Encyclopedia/Drones.md) - Core + R5 catalog complete (incl. Mercury, Seven chassis, KN-Y0 x3, Garuda); Dustoff from B&B secondary reprint (unverified, no local PDF)
+- [x] [Vehicle and Drone Modifications](Encyclopedia/Vehicle%20and%20Drone%20Modifications.md) - Core+R5 full slot/drone MP catalog + SS extractor mods; audited (R5 vs SS chameleon/smuggling conflicts noted; print gaps: Workshop blank, Ejection/Ram Plate/Micro rack rules-only)
+- [x] [Identity and Documentation](Encyclopedia/Identity%20and%20Documentation.md) - Core Fake SIN/license/credsticks + verify/burn/Forgery; RF Runner/Bug-Out PACKs + Day Job/Doppelganger/Erased gates; SS forger + Fake DocWagon; audited (no extra shop tables in CT/DT/KC/CF)
+- [x] [Lifestyles and Safehouses](Encyclopedia/Lifestyles%20and%20Safehouses.md) - Core lifestyles/options/permanent/team + RF expanded tiers/Entertainment/options/samples/bolt hole & safehouse
+- [x] [Tools Kits and Survival](Encyclopedia/Tools%20Kits%20and%20Survival.md) - Core Kit/Shop/Facility + survival + grapple/rope + climbing/rappel procedure + RF tool PACKs + Intro/Basic/Advanced Runner PACKs + Workshop/Facility/Cramped lifestyle; Cap-only GPS/Wire Clippers/air tank noted; B&E deferred to Security
+- [x] [Security and Surveillance](Encyclopedia/Security%20and%20Surveillance.md) - Core locks/maglocks/restraints/B&E+chem; facility sensor procedures; RnG rams/blast/PED/Hold-Fast/Ultra-Glide; RF B&E PACK note
 
 ### Encyclopedia polish
 
@@ -54,79 +54,356 @@ Folder: `Encyclopedia/` — stubs exist for each major item type; none are fille
 
 ## Mechanics
 
-Folder: `Mechanics/` — scaffolding exists; all files are **outline quick-refs**, not finished rules references.
+LLM agent refs. Done files use Inventory + Schema + full tables. Each open item lists a **must-include** checklist (tick when filling).
 
 ### Core resolution
 
-- [ ] [Dice and Tests](Mechanics/Dice%20and%20Tests.md) — full threshold examples, teamwork/extended rules, limit edge cases
-- [ ] [Edge](Mechanics/Edge.md) — complete spend list + refresh rules with Core wording summary
+- [x] [Dice and Tests](Mechanics/Dice%20and%20Tests.md)
+- [x] [Edge](Mechanics/Edge.md)
 
 ### Character Creation
 
-- [ ] [Overview](Mechanics/Character%20Creation/Overview.md) — finalize step order vs Core; link house-rule notes
-- [ ] [Priority System](Mechanics/Character%20Creation/Priority%20System.md) — verify full priority table (spells/CF freebies, aspected rows)
-- [ ] [Metatype](Mechanics/Character%20Creation/Metatype.md) — racial attribute min/max tables; qualities; movement notes
-- [ ] [Attributes](Mechanics/Character%20Creation/Attributes.md) — creation caps, augmented max, special attribute spend examples
-- [ ] [Magic and Resonance](Mechanics/Character%20Creation/Magic%20and%20Resonance.md) — tradition list, mystic adept PP buy, aspected limits
-- [ ] [Skills](Mechanics/Character%20Creation/Skills.md) — full active skill list + groups + linked attributes; Knowledge formula
-- [ ] [Resources and Gear](Mechanics/Character%20Creation/Resources%20and%20Gear.md) — Availability rules; starting ¥ by priority; lifestyle buy-in
-- [ ] [Qualities](Mechanics/Character%20Creation/Qualities.md) — Core positive/negative quality tables (cost + effect summary)
-- [ ] [Contacts](Mechanics/Character%20Creation/Contacts.md) — exact free contact points formula; favor examples
-- [ ] [Finishing Touches](Mechanics/Character%20Creation/Finishing%20Touches.md) — Karma costs at creation; derived-stat formulas verified
+- [x] [Overview](Mechanics/Character%20Creation/Overview.md) - steps, play levels, global caps, Final Calculations, Core checklist
+- [x] [Priority System](Mechanics/Character%20Creation/Priority%20System.md)
+  - [x] Full Priority Table A–E (all five columns, every Mag/Res row: mage/mystic adept/techno/adept/aspected)
+  - [x] Special Attr points by metatype cell; human Edge max 7 note
+  - [x] Skills column = individual / group split (e.g. 46/10)
+  - [x] Street / Prime resource column overrides (cross-ref Overview)
+  - [x] “Each priority once” rule
+- [x] [Metatype](Mechanics/Character%20Creation/Metatype.md)
+  - [x] Metatype Attribute Table (min/max all attrs + Edge + Ess + Init)
+  - [x] Racial abilities (vision, Reach, dermal armor, toxin +2, lifestyle cost %)
+  - [x] Starting Edge by metatype; special Attr spend rules
+  - [x] Movement / size notes if Core states them here
+- [x] [Attributes](Mechanics/Character%20Creation/Attributes.md)
+  - [x] Spend all Attr points; 1 point = +1 from metatype min
+  - [x] One Mental/Physical at natural max; special attrs exempt
+  - [x] Augmented max +4 all sources
+  - [x] Exceptional Attribute / Lucky interactions
+  - [x] Ware does not raise Knowledge/contact free pools
+  - [x] Living Persona / astral attrs pointer
+- [x] [Magic and Resonance](Mechanics/Character%20Creation/Magic%20and%20Resonance.md)
+  - [x] Magician / mystic adept / adept / aspected / technomancer Priority grants (full)
+  - [x] Tradition pick (hermetic vs shaman Drain Attr); aspected one category only
+  - [x] Adept free PP = Magic; mystic adept 5 Karma/PP, max = Magic
+  - [x] Essence loss → Mag/Res −1 per fraction rule
+  - [x] Spell/prep/ritual and complex form free counts vs later Karma caps
+  - [x] No initiation/submersion at chargen (except Prime)
+- [x] [Skills](Mechanics/Character%20Creation/Skills.md)
+  - [x] Priority skill/group points; buy rules; max 6 (7 Aptitude)
+  - [x] Free Knowledge/Language (Int+Log)×2; native N; Bilingual
+  - [x] Knowledge categories + linked Attr
+  - [x] Full skill groups list; Active skills by linked Attr
+  - [x] Specializations (+2; not on groups); no group+same skill duplicate
+  - [x] Restricted skills / default italic pointer
+- [x] [Resources and Gear](Mechanics/Character%20Creation/Resources%20and%20Gear.md)
+  - [x] Priority ¥ amounts (all levels)
+  - [x] Avail ≤12 / Device Rating ≤6 (and Street/Prime)
+  - [x] Karma→¥ 2,000/Karma caps; ≤5,000¥ carryover; starting nuyen lifestyle dice
+  - [x] Lifestyle buy-in months; dwarf +20% / troll +100% lifestyle
+  - [x] Fake SIN / licenses; ammo; must-buy reminders
+  - [x] Augment Essence / +4 Attr reminder
+- [x] [Qualities](Mechanics/Character%20Creation/Qualities.md)
+  - [x] ±25 Karma caps at creation
+  - [x] Every Core Positive quality: Karma cost + effect summary
+  - [x] Every Core Negative quality: Karma bonus + effect summary
+  - [x] Chargen-only qualities flagged (e.g. Bilingual)
+- [x] [Contacts](Mechanics/Character%20Creation/Contacts.md)
+  - [x] Free Karma Cha×3 (×6 Prime); Connection + Loyalty min 1 each
+  - [x] Cost 1 Karma per rating; ≤7 Karma per contact at chargen
+  - [x] Loyalty bands; Connection use pointer to social chapter
+- [x] [Finishing Touches](Mechanics/Character%20Creation/Finishing%20Touches.md)
+  - [x] Additional Purchases & Restrictions table (spirits, sprites, spells, forms, foci, contacts)
+  - [x] Karma Advancement costs used at chargen (Attr ×5, Active ×2, Know/Lang ×1)
+  - [x] Carry ≤7 Karma; Final Calculations restate; GM approval
+  - [x] Starting nuyen formula by lifestyle
 
 ### Combat
 
-- [ ] [Overview](Mechanics/Combat/Overview.md) — turn structure checklist for GMs
-- [ ] [Initiative](Mechanics/Combat/Initiative.md) — Initiative Dice sources table; astral/Matrix/rigger init
-- [ ] [Action Economy](Mechanics/Combat/Action%20Economy.md) — Free/Simple/Complex/Interrupt lists expanded
-- [ ] [Ranged Combat](Mechanics/Combat/Ranged%20Combat.md) — fire modes, recoil, range modifiers, defense mods
-- [ ] [Melee Combat](Mechanics/Combat/Melee%20Combat.md) — Reach, charge, multiple attackers, guns in melee
-- [ ] [Damage Armor and Wounds](Mechanics/Combat/Damage%20Armor%20and%20Wounds.md) — resistance formula, armor vs DV, elemental notes
-- [ ] [Movement](Mechanics/Combat/Movement.md) — Movement Rate table by Agility/metatype; sprint; terrain
-- [ ] [Surprise](Mechanics/Combat/Surprise.md) — full surprise test & effects
-- [ ] [Called Shots and Special](Mechanics/Combat/Called%20Shots%20and%20Special.md) — Core called-shot table; suppression; knockdown
+- [x] [Overview](Mechanics/Combat/Overview.md)
+  - [x] Combat Turn / Action Phase / Pass structure
+  - [x] Attack sequence: Attack → Defense → DV/AP → Damage Resistance
+  - [x] Wound mods timing; entering mid-fight Init −10/Pass
+  - [x] Link to all Combat siblings
+- [x] [Initiative](Mechanics/Combat/Initiative.md)
+  - [x] Score = Attr + face sum; −10 per Pass; ERIC
+  - [x] Seize / Blitz; delayed actions; surprise Init
+  - [x] Astral / Matrix AR / cold / hot / rigger Jump In Init
+  - [x] Wound mods to Init Attr immediate
+- [x] [Action Economy](Mechanics/Combat/Action%20Economy.md)
+  - [x] Full Free / Simple / Complex / Interrupt lists (Core tables)
+  - [x] What you can combine in one Action Phase
+  - [x] Interrupt costs (Init Score)
+- [x] [Ranged Combat](Mechanics/Combat/Ranged%20Combat.md)
+  - [x] Attack pool / Accuracy Limit; Defense Rea+Int
+  - [x] Fire modes (SS/SA/BF/FA/LB/SB) + recoil progression
+  - [x] Range / environmental / attacker / defender mods tables
+  - [x] Take Aim; called shots pointer; cover; blind fire
+- [x] [Melee Combat](Mechanics/Combat/Melee%20Combat.md)
+  - [x] Melee Opposed; Reach; charge; friends in melee
+  - [x] Guns in melee; multiple attackers; touch-only
+  - [x] Melee modifiers table
+- [x] [Damage Armor and Wounds](Mechanics/Combat/Damage%20Armor%20and%20Wounds.md)
+  - [x] Modified DV; AP vs Armor; P vs S cutoff
+  - [x] Damage Resistance Body+Armor; overflow; wound −1/3 boxes
+  - [x] Elemental secondary effects (elec/fire/cold/acid/etc.)
+  - [x] Grazing hit; knockdown; deadly overflow
+- [x] [Movement](Mechanics/Combat/Movement.md)
+  - [x] Walk / Run rates; Sprint test; metatype modifiers
+  - [x] Running attack mods; charging; terrain
+- [x] [Surprise](Mechanics/Combat/Surprise.md)
+  - [x] Surprise Test; effects; Ambush; who can act
+- [x] [Called Shots and Special](Mechanics/Combat/Called%20Shots%20and%20Special.md)
+  - [x] Full Core called-shot table
+  - [x] Suppression (Reaction+Edge; zone; Hit the Dirt)
+  - [x] Knockdown; full defense; block/parry/dodge interrupts
 
 ### Living the shadows
 
-- [ ] [Actions Outside Combat](Mechanics/Actions%20Outside%20Combat.md) — social modifiers, perception thresholds, legwork patterns
-- [ ] [Healing and Injuries](Mechanics/Healing%20and%20Injuries.md) — First Aid / Medicine / Heal spell / natural recovery tables
-- [ ] [Gig Rewards](Mechanics/Gig%20Rewards.md) — sample pay scales, Karma award guide, Street Cred/Notoriety/Public Awareness
-- [ ] [Housing and Lifestyle](Mechanics/Housing%20and%20Lifestyle.md) — monthly costs table; lifestyle options; safehouse rules
-- [ ] [Vehicles](Mechanics/Vehicles.md) — chase combat steps; vehicle damage; ramming; passenger actions
+- [ ] [Actions Outside Combat](Mechanics/Actions%20Outside%20Combat.md)
+  - [ ] Social skill Opposed pairs + modifier tables
+  - [ ] Perception Observe in Detail; thresholds
+  - [ ] Legwork / downtime patterns
+- [ ] [Healing and Injuries](Mechanics/Healing%20and%20Injuries.md)
+  - [ ] First Aid / Medicine / medkit; Heal spell
+  - [ ] Natural recovery Stun/Physical tables; glitches
+  - [ ] Stabilization; overflow death
+- [ ] [Gig Rewards](Mechanics/Gig%20Rewards.md)
+  - [ ] Run pay guidelines; Karma awards
+  - [ ] Street Cred / Notoriety / Public Awareness formulas
+- [ ] [Housing and Lifestyle](Mechanics/Housing%20and%20Lifestyle.md)
+  - [ ] Lifestyle cost table + options; permanent buy
+  - [ ] Starting nuyen by lifestyle; safehouse / bolt hole (RF if cited)
+- [ ] [Vehicles](Mechanics/Vehicles.md)
+  - [ ] Chase / tactical vehicle combat steps
+  - [ ] Ramming; vehicle Condition; passenger attacks
+  - [ ] Suppression vs vehicles
 
 ### Specialized systems (basics → full refs)
 
-- [ ] [Matrix Basics](Mechanics/Matrix%20Basics.md) — expand or split: persona, marks, hosts, OS, cybercombat, technomancer
-- [ ] [Magic Basics](Mechanics/Magic%20Basics.md) — expand or split: spellcasting, drain, spirits, astral, adepts, background count
-- [ ] [Rigging Basics](Mechanics/Rigging%20Basics.md) — expand: jump in, RCC sharing, drone initiative, Noise
+- [ ] [Matrix Basics](Mechanics/Matrix%20Basics.md)
+  - [ ] Persona / device attrs; Noise; Overwatch Score
+  - [ ] Marks; Hosts; Foundation pointer
+  - [ ] Cybercombat; Convergence; dumpshock
+  - [ ] Technomancer Living Persona / sprites / complex forms overview
+- [ ] [Magic Basics](Mechanics/Magic%20Basics.md)
+  - [ ] Spellcasting + Drain; traditions
+  - [ ] Spirits summon/bind/banish; Edge (summoner)
+  - [ ] Astral perception/projection; wards
+  - [ ] Adepts PP; background count / mana issues
+- [ ] [Rigging Basics](Mechanics/Rigging%20Basics.md)
+  - [ ] Control modes; Jump In; RCC sharing
+  - [ ] Drone Init / Pilot / autosofts; Noise
+  - [ ] Rigger Interface / Control Rig grades pointer
 
 ### Mechanics structure / optional new pages
 
-- [ ] Add full **Active Skills** reference (maybe `Mechanics/Skills Reference.md`)
-- [ ] Add **Qualities Reference** (or keep only under Character Creation)
-- [ ] Add **Advancement / Karma Costs** page
-- [ ] Add **Reputation** page (split from Gig Rewards if needed)
-- [ ] Add **Toxins & Drugs** play rules (onset, power) linking to Encyclopedia chem file
-- [ ] Cross-link Mechanics ↔ Encyclopedia where gear meets rules
-- [ ] Refresh [Mechanics/INDEX.md](Mechanics/INDEX.md) when new pages land
+- [ ] **Active Skills** reference (use-in-play; or finish under Character Creation/Skills)
+- [x] **Qualities Reference** (play effects) if not fully in Qualities.md
+- [ ] **Advancement / Karma Costs** (post-chargen tables, downtime +3 skill cap)
+- [ ] **Reputation** (if split from Gig Rewards)
+- [ ] **Toxins & Drugs** play rules → link Encyclopedia/Drugs
+- [ ] Cross-link Mechanics ↔ Encyclopedia
+- [ ] Refresh [Mechanics/INDEX.md](Mechanics/INDEX.md) when pages land
 
 ---
 
 ## Source Texts (blockers for accuracy)
 
-Core rule chapters are mostly empty; Mechanics/Encyclopedia cannot be fully authoritative until sources exist.
+Chapter markdown under `Source Texts/` is the verbatim base for Mechanics/Encyclopedia accuracy.
 
-- [x] Fiction / intro chapters present (01–04)
-- [ ] Fill or import `05`–`21` Core chapters (Concepts, Chargen, Skills, Combat, Matrix, Riggers, Magic, Gear, etc.)
+### Core Rulebook
+
+- [x] Fiction / intro chapters present (01-04)
+- [ ] Fill or import `05`-`21` Core chapters (Concepts, Chargen, Skills, Combat, Matrix, Riggers, Magic, Gear, etc.) where still thin
 - [ ] Fill `23 - Important Tables.md`
-- [ ] Fill remaining Core files as needed (`22`, `24`–`28`)
-- [ ] Confirm supplement INDEX-only books get chapter extracts when cited
+- [ ] Fill remaining Core files as needed (`22`, `24`-`28`)
+
+### Run & Gun (`Source Texts/Run and Gun/`)
+
+PDF: `Source/PDF/runandgun.pdf`. Index: [INDEX.md](Source%20Texts/Run%20and%20Gun/INDEX.md).
+
+**Per-chapter pipeline** (tick each step):
+
+1. **Extract** - dump PDF page range to chapter markdown (raw text preserved)
+2. **Format** - clean UTF-8 markdown: headings, tables, lists; strip running headers/footers/sidebars; fix hyphenation/encoding; no em dashes
+3. **Loss-check** - recheck vs PDF that nothing is lost (all sections, gear names, rules blocks, tables, fiction)
+4. **Done-check** - recheck chapter is properly finished (readable, complete page span, INDEX link, matches Chrome Flesh / Core extract style)
+
+Progress: `[ ]` not started · `[~]` in progress · `[x]` done for that step.
+
+#### 01 - Contents and Credits (pp. 2–5)
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 02 - Catspaw (pp. 6–9)
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 03 - Fight for Your Life (p. 10)
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 04 - What You Don't Know Kills You (pp. 11–17)
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 05 - Arsenal (pp. 18–55)
+
+Blades, clubs, exotic/improvised melee, ranged/arrowheads/throwing, exotic ranged, tasers through flamethrowers, accessories, ammo.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 06 - Armor and Protection (pp. 56–87)
+
+Why we wear it, high-fashion, specialty, environmental, customizations/options.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 07 - Tactics and Tools (pp. 88–105)
+
+Sixth World combat tactics, tactical teamwork, maneuvers, PI-Tac.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 08 - Killshots and More (pp. 106–127)
+
+Combat options RG1–RG6, called shots, actions, interrupt actions, Combat Edge, new qualities.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 09 - Martial Arts (pp. 128–142)
+
+Styles and techniques.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 10 - Fixin' All the Broken Drek (p. 143)
+
+Repair rules for weapons and other gear beyond Core basics.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 11 - Staying Alive (pp. 144–169)
+
+Worldly hazards (heat/cold/pollution/radiation), underwater, space, related qualities.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 12 - Blow Up Good (pp. 170–197)
+
+Advanced demolitions, buildings/vehicles/breaching, cooking, explosives, detonators, accessories, gear qualities.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 13 - Hostile Extraction (pp. 198–201)
+
+Fiction / closing piece.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### 14 - Run and Gun Tables (pp. 202–213)
+
+Compiled gear tables + Combat Options cheat sheet.
+
+- [x] Extract
+- [x] Format
+- [x] Loss-check
+- [x] Done-check
+
+#### Run & Gun book-level
+
+- [x] All 14 chapter files exist and match INDEX
+- [x] Book-wide loss pass (TOC headings vs chapter files; no orphaned PDF pages 2–213)
+- [x] Book-wide done pass (one-by-one chapter check; report in `Source/_extract/rng_chapter_check_report.md`)
+
+### Serrated Edge (Denver Adventure 1)
+
+- [x] Extract PDF → `Source Texts/Serrated Edge/` (16 chapter files + INDEX)
+- [x] GM adventure brief (`00 - GM Adventure Brief.md`): scene goals, pay, NPCs, branches
+- [x] Formatting pass (`Source/_extract/format_serrated_edge.py`): reflow, H2 sections, soft hyphens
+- [x] Gear/stat audit: no new shop Avail/Cost SKUs (NPC gear + Scene 7 detonator only)
+
+### Rigger 5.0 (`Source Texts/Rigger 5/`)
+
+PDF: `Source/PDF/rigger5.pdf` (194 pages). Extractor/formatter: `extract_rigger5.py` / `format_rigger5.py`.
+
+- [x] Extract all 15 chapters + INDEX
+- [x] Format pass
+- [x] Loss-check vs PDF
+- [x] Done-check
+
+### Six-book chapter pipeline (active)
+
+Per-chapter extract/format for: Rigger 5, Street Grimoire, Forbidden Arcana, Run Faster, Street Lethal, Howling Shadows.
+
+- [x] Rigger 5: extract + format (15 chapters)
+- [x] Street Grimoire: extract + format (14 chapters)
+- [x] Forbidden Arcana: extract + format (12 chapters)
+- [x] Run Faster: extract + format (15 chapters; INDEX phantoms "Wild Side" / "Domestically Disturbed" not in PDF TOC)
+- [x] Street Lethal: extract + format (10 chapters)
+- [x] Howling Shadows: extract + format (17 chapters)
+- [x] Book-wide loss-check / done-check for all six (`Source/_extract/qa_six_books.py` + deep spot-check)
+- [x] Polish pass (`Source/_extract/polish_six_books.py`): soft hyphens, false code fences, table rows, giant paras, book-specific H2s
+### Seattle Sprawl / Emerald Shadows (`Source Texts/Seattle Sprawl/`)
+
+PDF: `Source/PDF/seattlesprawl.pdf` (90 pages). Extractor: `Source/_extract/extract_seattle_sprawl.py`. Formatter: `format_seattle_sprawl_full.py`.
+
+- [x] Extract all 16 chapter files + INDEX (PDF idx map)
+- [x] Format pass (reflow, JackPoint comments, At a Glance tables, subheads; smash-in header fixes)
+- [x] Loss-check vs PDF (no mass loss in 02-16; ch. 01 condensed TOC intentional; fixed Council Island header smash)
+- [ ] Done-check
+- [ ] Optional: LLM locale brief (district hooks, gangs, opposition, Help Wanted jobs)
+
+### Other supplements
+
+- [ ] Chrome Flesh: continue remaining chapter extracts past current files
+- [ ] Other INDEX-only books: same extract → format → loss-check → done-check pipeline when cited
 
 ---
 
 ## Suggested work order
 
-1. Import / fill Core Source Texts for Chargen, Combat, Skills, Street Gear.
-2. Expand Mechanics outlines with real tables from those sources.
-3. Populate Encyclopedia item files from Street Gear (+ supplements).
-4. Cross-link and mark entries `[x]` here as they complete.
+1. Finish Run & Gun Source Texts (all 14 chapters through done-check).
+2. Import / fill remaining Core Source Texts where Mechanics still need verbatim base.
+3. Expand Mechanics outlines with real tables from those sources.
+4. Cross-link Mechanics ↔ Encyclopedia; mark entries `[x]` here as they complete.

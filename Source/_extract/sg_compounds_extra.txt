@@ -1,0 +1,223 @@
+﻿==== 220 ====
+the magicianÆs tradition. If the subject is sustaining the 
+spell or the power is considered always on, he suffers a 
+û2 penalty to all actions. At the end of the spellÆs dura-
+tion or when it is dispelled, the compoundÆs aftereffects 
+take effect. This aftereffect lasts for an equivalent orig-
+inal duration (not the duration before it was dispelled) 
+and cannot be treated even by magic.
+Other magical compounds have a negative effect in-
+stead of benefitting the user. These magical compounds 
+either target a subject with a spell, or the compound 
+reduces an Awakened creatureÆs ability by the com-
+poundÆs Potency. While this negative effect is active, the 
+secondary effect is untreatable.
+Magical compounds unfortunately donÆt function 
+well in combination with augmentations. When used on 
+such a subject, reduce both the compoundÆs Force and 
+Potency by the amount of Essence the subject has lost 
+to augmentations.
+AGHEXHEX
+AgHexHex, more formally known as silver hexamag-
+nohexaphosphate, is a magical alchemical compound 
+found to have a detrimental effect against Awakened 
+creatures capable of transforming into vapor particles 
+(Mist Form), keeping them corporeal.
+Trigger: Contact
+Effect: Once in contact, if the Potency exceeds the 
+targetÆs Magic attribute, the Mist Form power is negated 
+completely for the duration of the compound. If the tar-
+get is using Mist Form when sprayed by AgHexHex, the 
+target forcibly reverts to solid form for that Combat Turn 
+regardless of Potency, causing (Force + 4) Stun damage.
+Aftereffect: Nauseated side effect
+Required Reagent: Refined silver
+>> STREET GRIMOIRE  <<
+TRIGGERS FOR PREPARATIONS AND ANCHORED SPELLS
+COMMAND (P . 305, SR5)
+Anchored Version: A magician can trigger this spell with 
+a Simple Action, regardless of range or line of sight. If the 
+preparation is out of sight, then the magician cannot chose the 
+target of the activated spell.
+Advanced Command (Delay Timer): When the magician sets 
+up a Command trigger, he can choose to delay its activation for up 
+to 60 seconds.  The length of the time delay must be chosen when 
+the preparation is created. This trigger adds 2 to the Drain Value 
+of the preparationÆs creation.
+CONTACT (P . 305, SR5)
+Anchored Version: This trigger can be activated either 
+when a living aura, a previously assensed aura, or any aura 
+not belonging to the spellcaster comes into direct physical or 
+astral contact with the anchor. Note that without the lynchpin, 
+the anchor is invisible on th
+
+==== 221 ====
+BDNB
+Also known as ôBad Dog! No Biscuit!,ö this compound 
+is commonly used for hunting Awakened game. 
+Trigger: Contact 
+Effect: Reduce the subjectÆs Magic attribute by the 
+Force of the compound when the subject uses the Par -
+alyzing Howl power (p. 399, SR5). If the Force exceeds 
+the targetÆs Magic attribute, the power is negated com-
+pletely for the duration of the compound.
+Aftereffect: Unable to Speak side effect
+Required Reagent: Refined hell houndÆs tongue 
+(Cynoglossum magiofficinale)
+LOTÆS CURSE
+LotÆs Curse is a poison made from the Awakened Go-
+morrah tree, whose fruit causes calcification of flesh 
+and death when eaten.
+Trigger: Contact
+Effect: The target is subjected to a Petrify spell. Even 
+if the target resists the immediate petrification, the sec-
+ondary effect is still petrifying the target from the inside. 
+Upon the targetÆs death, the petrification becomes per -
+manent. If the victim is still alive at the end of the dura-
+tion, they return to normal.
+Aftereffect: Slow Death side effect
+Required Reagent: Refined Gomorrah apple
+SAGE
+Trigger: Contact 
+Effect:
+ The target is empowered with the Detect 
+Magic, Extended spell. 
+Aftereffect: Both eyes suffer the Blinded side effect
+Required Reagent: Refined Cladonia stellaris lichen 
+from the North American tundra
+SPIRIT STRENGTH
+Trigger: Contact 
+Effect:
+ The target is empowered with the Hardened 
+Mystic Armor power (p. 397, SR5). 
+Aftereffect: Reduce the targetÆs Physical limit to 1 
+for an equivalent duration.
+Required Reagent: Refined teonanßcatl mushroom 
+from Aztlan
+WITCHÆS MOSS
+Trigger: Contact
+Effect:
+ The target is empowered with the Paralyzing 
+Touch power (p. 400, SR5).
+Aftereffect: Both arms suffers the Broken Grip and 
+Weak Side side effects.
+Required Reagent: Refined barghest blood
+>> STREET GRIMOIRE  <<
+220    TURNING LEAD INTO NUYEN >>
+MAGICAL COMPOUND SIDE EFFECTS
+This is a list of side effects that can be applied to the 
+user/target of a magical compound. 
+BLINDED
+One eye: û4 all actions involving sight. Two eyes: û8 on all 
+actions, no vision-based Perception tests allowed.
+STUNNED
+Subtract 10 from Initiative score at the beginning of the 
+Combat Turn while the effect is active.
+DEAFENED
+One ear: û2 all actions involving hearing. Two ears: û4 on 
+all actions involving hearing, no hearing-based Perception 
+tests allowed.
+UNABLE TO SPEAK
+The target loses the ability to form understandable 
+speech. He can mutter, gesture, groan, and drool, but 
+everything they try to speech come
+
+==== 222 ====
+>> STREET GRIMOIRE  <<
+<< TURNING LEAD INTO NUYEN    221
+InMediaRes Productions LLC (Order #38901858)
+
+==== 229 ====
+ic sludge. But that is a reality of todayÆs talismongers: 
+you encounter failure and more failure before you finally 
+strike success.  
+Experienced talismongers have come to accept 
+there are variations in the quality of reagents. Besides 
+those that have been contaminated to the point of being 
+worthless, there are other reagents that have been se-
+verely damaged but can still be used with a lot of effort. 
+Other specimens are only moderately damaged and can 
+be used with less effort; usually these are considered to 
+be ôinferiorö specimens. And there are still others that 
+are only considered ôsubpar,ö meaning they only have 
+moderate imperfections due to various health and en-
+vironmental factors. If you are lucky, you will stumble 
+across what are called baseline specimens. These are 
+the specimens which are meant to be the normal ex-
+pressions of the species. In my opinion, the lowest 
+grade of reagents you should ever consider using for 
+enchanting are your baseline specimens. Anything else 
+and you risk ruining the focus by interjecting flaws into 
+the enchantment process. The flaws from these poor 
+specimens can still carry over to the finished product 
+even after the reagents have been turned into refined 
+or radical reagents. Also, the more damaged the spec-
+imen of reagent is from various environmental factors, 
+the less you can harvest to use for your enchantments. 
+A vein of silver containing ten drams of material might 
+only be able to produce six drams if it is considered to 
+be of inferior quality. If the severity of the contamination 
+exceeds the amount of drams a source of reagents can 
+produce, than nothing can be harvested and you have 
+wasted your time. So it is more worth your time seeking 
+out higher quality reagents and to get more for your ef-
+fort than settling for subpar materials.
+REAGENT QUALITY AND AMOUNT THAT MAY BE HARVESTED
+QUALITY AMOUNT HARVESTED
+Unusable No reagent can be harvested from source
+Tainted û6 drams 
+Inferior û4 drams
+Subpar û2 drams
+Baseline No modifier, all drams that the source of material is capable of producing can be harvested
+Superior No modifier, all drams that the source of material is capable of producing can be harvested
+Prime No modifier, all drams that the source of material is capable of producing can be harvested
+Superior and Prime specimens take less time to refine into refined and radical reagents. Reduce the time it takes to 
+convert Superior reagents into refined and radical reagents by 25 p
+
+==== 230 ====
+If you are prepared to spend a lot more time hunting 
+reagents, it is possible to gather reagents from superior 
+and prime specimens of plant, mineral, or animal life. 
+These specimens are extraordinarily hard to come by 
+in this age of ground, water, and air contamination, so 
+if you have your heart set on acquiring these types of 
+reagents, be prepared to spend even longer periods of 
+time hunting for them. However, the qualities of these 
+superior and prime specimens allow for a higher quality 
+of focus to be made, and will allow the enchantment 
+on the focus to last much longer. This is why I general-
+ly stick to using superior and prime specimens for my 
+reagents, and choosing to only use baseline-grade re-
+agents when I absolutely have to. The location where 
+you harvest is key to your success at locating superi-
+or and prime specimens. If you are harvesting in plac-
+es like Amazonia, you have a much greater chance of 
+locating superior and prime specimens that have not 
+been tainted by pollution or toxins. However, if you try 
+talismongering in places like Aztlan, which still has a 
+problem of excessive mana warps, or Tsimshian, which 
+has become the poster child for toxic waste dumps the 
+world over, all youÆre going to find are severely tainted 
+and unusable reagents. This is why finding a good place 
+to harvest and protecting it from other talismongers 
+and talisleggers is key to your success. 
+As a talismonger, it is also important to keep in mind 
+that the methods you use to gather reagents can impact 
+the quality of the specimen of reagent, particularly with 
+paranormal critters. The way you choose to collect ani-
+mal pelts may either be neutral and does minimal dam-
+age to the pelt, or can be recklessly applied and cause 
+severe harm to the pelt of the creature that it actually 
+degrades its quality. Talismongers early on realized that 
+shooting an animal up with bullets is a bad thing, as 
+thereÆs a chance of contaminating the pelt with metallic 
+and gunpowder residue that can fuck with the enchant-
+ment process. Not to mention that gunshot wounds in-
+flict traumatic damage on the body of a paranormal crit-
+ter, causing you to lose potential drams of reagents. To 
+minimize damage to a specimen, the UTA recommends 
+using a basic bow and arrow if you are hunting an an-
+>> STREET GRIMOIRE  <<
+<< THE LIFE OF A TALISMONGER    229
+InMediaRes Productions LLC (Order #38901858)
+

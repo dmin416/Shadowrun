@@ -1,0 +1,3670 @@
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p421 =====
+Nothing to fear if you’ve got the gear!
+Nobody can do a brisk business in the field of shad-
+owrunning without the right kit. A commlink to orga-
+nize and communicate with the people you like, guns, 
+ammo, blades, and other weaponry for the people you 
+don’t like, armor to deal with the people who don’t like 
+you, and maybe a few precautions to keep the whole 
+thing in the shadows and completely out of the light of 
+day. Having the right tool at the right time—whether it’s 
+a stimulant patch, gas grenade, riot shield, miniwelder, 
+maglock passkey, or a disguise kit—can mean the dif-
+ference between being a legend in your own right, or a 
+fading stain on the pavement.
+Many runners love their equipment, playing favor-
+ites and installing flashy and impressive customizations, 
+from a street samurai with gold-plated Predators to a te-
+chie pimping out his cyberdeck case. Others disdain this 
+hardware fetishism and take a more pragmatic “toolbox” 
+approach—it’s not the gadgets that matter, it’s the skill 
+needed to use them right. But either way, there’s no get-
+ting around the fact that shadowrunners need special-
+ized equipment to do their jobs.
+This section introduces all the rules you need for 
+gear—concealing, carrying, buying, and selling—and in-
+cludes a representative, but not exhaustive, selection of 
+the toys that runners, gangers, mob and metroplex sol-
+diers, corp-cops, and other hardcases play with on the 
+mean streets of 2075.
+GEAR RATINGS
+Every item described in this chapter includes a set of 
+statistics. Every item has a cost along with an Availabili-
+ty Rating, and most non-weapon, non-armor items, ex-
+cept those that simply confer an ability or don’t, have 
+an overall Rating, usually between 1 and 6. Often a 
+gear’s Cost and Availability are functions of its Rating.
+The other statistics that depend on the type of item—
+damage for weapons, capacity for firearms, armor value 
+for protective clothing, and so on—are explained in the 
+Gear Ratings Glossary.
+BUYING GEAR
+Gear’s Availability Rating determines how easy (or hard, 
+or practically impossible) it is to acquire a needed or de-
+sired piece of equipment. Availability is an abstract amal-
+gamation of factors like rarity, legality, distribution issues, 
+supply, demand, and so on. The letter that follows an 
+item’s numerical Availability Rating shows whether the 
+item is Restricted (R) or Forbidden (F). For this reason, the 
+gamemaster should feel free to modify an item’s Avail-
+ability Rating—either the numerical value, or its legality 
+code—in situations that would warrant it, like if the runner 
+is in a war zone or in a country with a restricted economy.
+STANDARD GOODS
+Standard items with no Availability rating can be pur-
+chased at your local Kong-WalMart, Stuffer Shack, or 
+Microdeck, or perhaps ordered online or picked up from 
+a vending machine. All you have to do is pay the cost 
+listed in the book for the item (with adjustments from 
+the gamemaster if she wants, according to local mar-
+ket fluctuations or other extenuating circumstances she 
+deems appropriate).
+While easy to buy, standard goods are eminently 
+traceable. Records of legal purchases are almost always 
+kept, shared, and cross-indexed; whether this datatrail 
+gets stuck to your fake SIN or, worse, a real one, it’s a po-
+tential liability. Purchasing habits are valuable to market-
+ing companies, so you’ll start seeing AR advertisements 
+tailored to what you buy and what you like. And since Big 
+Brother Commerce is watching, remember that the Ma-
+trix host that knows and remembers your favorite store to 
+buy sneakers at isn’t necessarily as secure as your com-
+mlink. Fake IDs can be used to shield yourself from this 
+pervasive data-mining, but as long as you’re on the grid, 
+even fake IDs will accumulate profiles of their own after 
+long-term use. And there’s always the chance someone 
+can find out more about you than you want to let go.
+Of course, standard goods can also be purchased on 
+the black market to avoid traceability, but the gamemas-
+ter may decide that the latest copy of Miracle Shooter is 
+more expensive with the digital serial numbers filed off 
+and apply a surcharge for your paranoia.
+SECTION.11
+STREET GEAR
+416    GEAR RATINGS >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p422 =====
+GEAR RATINGS GLOSSARY
+Accuracy: Refers to a weapon’s overall accuracy. A firearm’s Accuracy 
+acts as the limit for tests involving that weapon, capping the number of 
+hits that can be achieved on an attack roll using it. 
+Ammo: Refers to the amount of ammunition a ranged weapon can 
+hold, followed by the method of reloading in parentheses: (b) 
+means break action, (c) means detachable external box magazine, 
+or “clip” in modern street parlance, (d) means drum, (ml) means 
+muzzle-loader, (m) means internal magazine, (cy) means cylinder, 
+and (belt) means belt-fed.
+Armor: Each piece of armor has an Armor value that adds to the wearer’s 
+Damage Resistance dice pool (see Armor, p. 168).
+Armor Penetration: All weapons have an Armor Penetration value, 
+although in some cases, this value is listed with no value, meaning no 
+AP. The AP value indicates how a weapon interacts with armor (see 
+Armor Penetration, p. 169). A positive value adds to the target’s Armor 
+value, while a negative value reduces the target’s Armor value.
+Availability: The higher the Availability of an item, the more difficult 
+and costly it is to get it (see Buying Gear, p. 416). Gear without an 
+Availability rating can be bought at an appropriate local store or 
+ordered online without any trouble. The letter that follows an item’s 
+numerical Availability rating shows whether the item is Restricted (R) 
+or Forbidden (F). Items without a letter in parentheses are considered 
+legal—they aren’t necessarily easy to find, but you won’t ever get 
+arrested for seeking them (see (Il)legality, p. 419.
+Blast: This rating is possessed by grenades, missiles, rockets, and other 
+area-of-effect weapons. Blast is the amount the blast weapon’s 
+damage value is reduced per meter of distance from the explosion’s 
+point of origin (see Blast Effects, p. 436).
+Capacity: Some sensor packages and cyberware can be equipped with a 
+range of subsystems. A Capacity value is listed for these, indicating the 
+maximum amount of “slots” worth of accessories the item can hold. 
+If the Capacity is listed in brackets, it’s the cost of that subsystem or 
+accessory, or the number of slots that item takes up. Some cyberware 
+items with a Capacity cost can also be installed as standalone items 
+(taking up Essence) rather than subsystems (taking up Capacity); 
+if both costs are listed, only one applies, depending on whether you 
+installed it in another item or in yourself.
+Concealability Modifier: This indicates how easy it is to hide a given item, 
+and is applied as a dice pool modifier to Perception + Intuition Tests to 
+spot the item (see Concealing Gear, p. 419).
+Cost: This is the base price a character must pay to buy the item. If the item 
+is legal, this is the standard price found at stores or online. Note that 
+rare and/or illegal items may cost less or more depending on certain 
+black market variations (see (Il)legality, p. 419). Cost is also subject to 
+local supply and demand, so the gamemaster should feel free to adjust 
+it accordingly for certain settings.
+Damage Value (DV): A weapon’s Damage Value represents the base 
+amount of harm, in points of damage, it causes when it hits a target. 
+Damage Values consist of a number (the boxes of damage inflicted) 
+and a letter indicating the type of damage caused: P for Physical, S 
+for Stun. A parenthetical annotation following the damage type, such 
+as (f) or (e), indicates that the damage is flechette or electrical (see 
+Damage, p. 169).
+Device Rating: The Device Rating determines the overall quality and 
+effectiveness of a device, from a stimulant patch to a commlink. Device 
+ratings are described in detail on p. 234.
+Essence Cost: All cyberware and bioware implants have an Essence 
+Cost, representing the reduction of the character’s Essence rating that 
+occurs when the augmentation is implanted.
+Mode: A firearm’s firing mode indicates the rate of fire it is capable of. 
+Some weapons have more than one mode available, so characters 
+may switch between them (see Firearms, p. 178). The firing modes are: 
+SS (single-shot), SA (semi-automatic), BF (burst fire), and FA (full auto).
+Mounts: There are several places where a weapon accessory can be 
+attached to a firearm: underbarrel, barrel, or top-mount. Only one 
+accessory can be attached to a particular mount. Integral accessories 
+(those that come with the weapon) don’t take up mount locations. 
+Hold-outs don’t have mounts. Pistols, machine pistols, and SMGs do 
+not have an underbarrel mount, just top and barrel mounts. All rifles 
+and heavy weapons have all three types of mounts. Projectile weapons 
+can only take accessories designed for them specifically. 
+Reach: Melee weapons may have a Reach rating, an abstract value that 
+rates the length and size of the weapon. A weapon with longer Reach 
+gives its wielder an advantage over enemies with a lower Reach (see 
+Reach, p. 184).
+Recoil Compensation (RC): This lists the amount of recoil compensation 
+a firearm has to offer, reducing the modifiers from a weapon’s recoil 
+(see Recoil, p. 175). Numbers in parentheses refer to full recoil 
+compensation that applies only when all integral accessories are 
+deployed (folding or detachable stocks and so forth).
+<< GEAR RATINGS    417
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p423 =====
+STARTING GEAR
+Like it says in character creation (p. 62), starting char-
+acters may not purchase items with a rating greater 
+than 6 or an Availability greater than 12 during char-
+acter creation. You don’t need to worry about your 
+purchases at character creation going on some kind of 
+permanent record (although there are some qualities 
+you can take that would). Once the game is on, you can 
+beg, borrow, and steal whatever gear you can get your 
+grubby little hands on—at least, you can certainly try.
+BLACK MARKET GOODS
+When you get to the good stuff, the higher the Availabil-
+ity Rating is, the harder it is to acquire the item. To pur-
+chase an item off the books, make an Availability Test. 
+This is an Opposed Test of your Negotiation + Charisma 
+[Social] versus the item’s Availability Rating. If you win 
+the Opposed Test, you find the gear at the listed price, 
+and it is delivered in the amount of time given on the 
+Delivery Times table divided by your net hits. If you tie 
+in the test, you find the gear, but the delivery time is 
+twice that listed on the table. If you fail the test, you can 
+try again after twice the amount of time on the table.
+As they say on the street, money solves all problems. 
+If you’re willing to throw money at the situation, you 
+can increase your chances of finding a willing seller: for 
+every additional twenty-five percent of the item’s val-
+ue you are willing to pay, you get an additional die on 
+the Negotiation Test. Once you get up to 400 percent of 
+the item’s value (12 extra dice), throwing money at the 
+problem doesn’t get you any more dice. Even if you had 
+money left to throw.
+If you roll a glitch on an Availability Test, your inqui-
+ries may have attracted unwanted attention. This could 
+be law enforcement like undercover Lone Star engaging 
+in a sting operation (can you spell entrapment, omae?), 
+your local Yakuza deciding not to shoot straight in their 
+dealings, rival runners or enemies twigging to the deal, 
+or something similar. The exact consequences are up 
+to the gamemaster, but things do not go smoothly as 
+planned. If you roll a critical glitch, the most extreme it-
+eration of the above possibilities occurs, and you stand 
+no chance of actually acquiring the item in question.
+CONTACTS AND AVAILABILITY
+You probably have a fixer, talismonger, deckmeister, or 
+other contact find the gear you’re looking for. Contacts 
+are better than you at acquiring the gear they specialize 
+in. They spend most of their time making and main-
+taining their connections to the rest of the world while 
+you’re out shooting corp security or banishing evil spir-
+its or hacking hosts or whatever you’re doing on your 
+shadowruns, so they’ve had time to hone their gear-ac-
+quiring abilities. When contacts look for an item for 
+you, they use their Negotiation and Charisma for the 
+Availability Test, with their Connection Rating serving 
+as a bonus to their Social limit.
+If the contact hasn’t done a lot of business with you, 
+he might ask for a finder’s fee. That’s not how contacts 
+make their money on reselling, though. Most of it comes 
+through fencing goods on the cheap.
+FENCING GEAR
+You can fence some of the loot you’ve obtained on a 
+shadowrun as a way to scrape together a little extra oper-
+ating cash during runs (just make sure looting bodies is a 
+lower priority than finishing the run alive and out of jail).
+The value you can get for used gear depends on its 
+Availability: the higher the Availability Rating, the better 
+chance the character has for getting a good value from 
+the sale. As a rule, standard goods (legal items with no 
+Availability Rating) can’t be fenced for more than a cou-
+ple nuyen; no one wants your “near-mint” medkit.
+Fencing gear is a two-step process. First, you need 
+to find a buyer. This is a time-consuming process that 
+takes an Extended Etiquette + Charisma [Social] Test 
+with a threshold of 10 and an interval equal to the de-
+livery time on the Delivery Times Table. You may use 
+the item’s Availability in a Teamwork Test if you like; the 
+more rare items you bundle together, the easier it is to 
+find a buyer.
+The second step is to actually sell the item. You and 
+the buyer make Opposed Negotiation + Charisma [So-
+cial] Tests. The final price the buyer offers is twenty-five 
+percent of the item’s listed price, plus five percent for 
+each of your net hits, or minus five percent for each of 
+the buyer’s net hits. Once you have a price, you can sell, 
+or you can take your item to another potential buyer and 
+start the entire process over again.
+If you get a glitch or a critical glitch on an Etiquette 
+test to find a buyer, then your attempts have attracted 
+unwanted attention from the authorities (or other par-
+ties), similar to a glitch on a Black Market Goods Test 
+(at left). If you roll a glitch or a critical glitch when you’re 
+haggling in the Opposed Negotiation test, then you’ve 
+managed to insult or otherwise piss off the buyer, and 
+the deal might be off—or worse.
+DELIVERY TIMES TABLE
+GEAR COST
+DELIVERY TIME
+Up to 100¥
+6 hours
+101¥ to 1,000¥
+1 day
+1,000¥ to 10,000¥
+2 days
+10,001 to 100,000¥
+1 week
+More than 100,000¥
+1 month
+>> STREET GEAR <<
+418    fencing gear >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p431 =====
+Fichetti Security 600: A light sidearm for security forc-
+es, this weapon’s highly efficient feeding mechanism al-
+lows it a thirty-round magazine. The Fichetti Security 600 
+comes with a detachable folding stock and laser sight.
+Taurus Omni-6: This reliable, rugged revolver is spe-
+cially designed to handle a wide variety of ammunition. 
+Popular with hobbyists and hand-loaders, the Omni-6 
+comes with some interchangeable cylinders so it can 
+take either cased or caseless, light pistol or heavy pis-
+tol ammo. When firing light pistol rounds, the Omni-6 is 
+semi-automatic (SA) and has a base DV of 6P, and when 
+it fires heavy pistol ammo it has only single shot mode 
+(SS), and a base DV of 7P and –1 AP. The Omni-6 in-
+cludes an integral laser sight.
+HEAVY PISTOLS
+Heavy pistols are powerful sidearms that are a good com-
+promise between concealability and firepower. When 
+you shoot a heavy pistol, you use the Pistols skill. Heavy 
+pistols can take top- and barrel- mounted accessories.
+Ares Predator V: The newest iteration of the most 
+popular handgun in the world, especially with merce-
+naries and shadowrunners. Upgraded with improved 
+ergonomics and handling features, the Ares Predator 
+V includes a smartgun system. Some say that the Ares 
+Predator V isn’t better than other guns in its class, but no 
+one can argue that it has better brand recognition.
+Ares Viper Slivergun: The sleek Slivergun pairs the 
+undeniably winning combo of burst-fire capability and 
+built-in sound suppression (an integral silencer, p. 432) 
+with its large magazine capacity. It fires metal slivers that 
+count as flechette ammunition, which is factored into 
+the weapon’s damage code.
+Browning Ultra-Power: This venerable sidearm is 
+the Ares Predator’s primary competition as the world’s 
+toughest heavy pistol. It offers a built-in top-mounted 
+laser sight and is slightly cheaper.
+Colt Government 2066: This government-issue 
+weapon, styled after the legendary Colt M1911a1, uses 
+an electrically induced spark to detonate the bullet’s 
+propellants. The removal of most moving parts from the 
+firing mechanism gives this weapon a reputation for be-
+ing exceptionally reliable.
+Remington Roomsweeper: This is really more of a 
+short-barreled shotgun than a pistol. When loaded with 
+TAURUS OMNI-6
+ARES PREDATOR V
+>> STREET GEAR <<
+FIREARMS
+LIGHT PISTOLS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares Light Fire 75
+6 (8)
+6P
+—
+SA
+—
+16 (c)
+6F
+1,250¥
+Ares Light Fire 70
+7
+6P
+—
+SA
+—
+16 (c)
+3R
+200¥
+Beretta 201T
+6
+6P
+—
+SA / BF
+(1)
+21 (c)
+7R
+210¥
+Colt America L36
+7
+7P
+—
+SA
+—
+11 (c)
+4R
+320¥
+Fichetti Security 600
+6 (7)
+7P
+—
+SA
+(1)
+30 (c)
+6R
+350¥
+Taurus Omni-6
+5 (6)
+6P / 7P
+0 / –1
+SA / SS
+—
+6 (cy)
+3R
+300¥
+HEAVY PISTOLS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares Predator V
+5 (7)
+8P
+–1
+SA
+—
+15 (c)
+5R
+725¥
+Ares Viper Slivergun
+4
+9P (f)
++4
+SA / BF
+—
+30 (c)
+8F
+380¥
+Browning Ultra-Power
+5 (6)
+8P
+–1
+SA
+—
+10 (c)
+4R
+640¥
+Colt Government 2066
+6
+7P
+–1
+SA
+—
+14 (c)
+7R
+425¥
+Remington Roomsweeper
+4
+7P
+–1
+SA
+—
+8 (m)
+6R
+250¥
+     w/ flechettes
+—
+9P (f)
++4
+—
+—
+—
+—
+—
+Ruger Super Warhawk
+5
+9P
+–2
+SS
+—
+6 (cy)
+4R
+400¥
+426    gear listing >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p432 =====
+shot rounds (flechette) rather than solid slugs, it uses 
+Heavy Pistol ranges but shotgun rules (Shotguns, p. 180).
+Ruger Super Warhawk: This revolver is as loud as 
+a jet liner and twice as shiny. It’s also one of the scari-
+est handguns in the world. The cased ammo variant is 
+popular for the sheer thrill of swinging open the cylinder 
+gate one handed and dumping spent brass.
+MACHINE PISTOLS
+Machine pistols offer a high rate of fire in a compact 
+package. Use the Automatics skill to fire a machine pis-
+tol (characters may use the Pistols skill in Semi-Auto 
+mode). Machine pistols can take top- and barrel-mount-
+ed accessories.
+Ares Crusader II: A large magazine and easy han-
+dling make the Ares Crusader II one of the most popular 
+weapons of its class. It features an integral barrel-mount-
+ed gas-vent 2 recoil compensation system and comes 
+with an integral smartgun system.
+Ceska Black Scorpion: This classic machine pis-
+tol provides concealable burst-fire capability. It comes 
+equipped with an integral folding stock.
+Steyr TMP: This lightweight polymer-frame pistol is 
+capable of full autofire, but its light weight makes it hard 
+to control when firing on full auto. It comes equipped 
+with a built-in top-mounted laser sight.
+SUBMACHINE GUNS
+Use the Automatics skill when firing a submachine gun. 
+SMGs can take top- and barrel-mounted accessories.
+Colt Cobra TZ–120: With its unique design and 
+wide range of accessories, the Colt Cobra series is quite 
+popular both among security forces the world over and 
+on the trids. The TZ–120 comes with a folding stock, 
+top-mounted laser sight, and a barrel-mounted gas-vent 
+2 system.
+FN P93 Praetor: This bullpup submachine gun was 
+purpose-built for Corporate Court-controlled Interpol 
+fast-response teams. Its special chamber system pro-
+vides 1 point of Recoil Compensation, it has an inte-
+grated rigid stock, and a flashlight that can be used to 
+reduce darkness penalties by one step (Environmental 
+Modifiers, p. 173). Possession of the FN P93 while not a 
+legitimate member of a Corporate Court force is a crime 
+in most jurisdictions.
+HK–227: The SMG of choice for many corporate and 
+military security forces, the HK–227 boasts a retractable 
+stock, smartgun system, and integral sound suppressor.
+Ingram Smartgun X: Grade-A bang bang. Famous as 
+the weapon of choice for many legendary street samu-
+rai since the 2050s, the Ingram Smartgun comes tricked 
+out with a gas-vent 2 system, a smartgun system, and an 
+integral sound suppressor.
+REMINGTON ROOMSWEEPER
+INGRAM SMARTGUN X
+>> STREET GEAR <<
+FIREARMS
+MACHINE PISTOLS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares Crusader II
+5 (7)
+7P
+—
+SA / BF
+2
+40 (c)
+9R
+830¥
+Ceska Black Scorpion
+5
+6P
+—
+SA / BF
+(1)
+35 (c)
+6R
+270¥
+Steyr TMP
+4
+7P
+—
+SA / BF / FA
+—
+30 (c)
+8R
+350¥
+SUBMACHINE GUNS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Colt Cobra TZ-120
+4 (5)
+7P
+—
+SA / BF / FA
+2 (3)
+32 (c)
+5R
+660¥
+FN P93 Praetor
+6
+8P
+—
+SA / BF / FA
+1 (2)
+50 (c)
+11F
+900¥
+HK-227
+5 (7)
+7P
+—
+SA / BF / FA
+(1)
+28 (c)
+8R
+730¥
+Ingram Smartgun X
+4 (6)
+8P
+—
+BF / FA
+2
+32 (c)
+6R
+800¥
+SCK Model 100
+5 (7)
+8P
+—
+SA / BF
+(1)
+30 (c)
+6R
+875¥
+Uzi IV
+4 (5)
+7P
+—
+BF
+(1)
+24 (c)
+4R
+450¥
+<< gear listing    427
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p433 =====
+SCK Model 100: Shin Chou Kyogo is synonymous 
+with Japanese corporate security. Nearly every Japana-
+corp’s security forces are issued the SCK 100, including 
+Renraku’s infamous Red Samurai. The SCK 100 features 
+an internal smartgun system and a folding stock.
+Uzi IV: This aging submachine gun is a worthy de-
+scendant of the famous Israeli weapon. The SMG fea-
+tures an integral folding stock and built-in top-mounted 
+laser sight.
+ASSAULT RIFLES
+Use the Automatics skill when firing an assault rifle. 
+Assault rifles can take top-, barrel-, and underbar-
+rel-mounted accessories.
+AK-97: The AK-97 is a legendary weapon with sto-
+ried reliability—you can bury it for ten years, dig it up, 
+and fire it immediately without a single problem. When 
+all of the nano-fabricated AK–174s melted to slag, the 
+AK-97s kept functioning just fine.
+Ares Alpha: Specially designed for Ares Firewatch 
+special forces, the Alpha has since become a multi-plati-
+num best-selling success the world over, seeing use with 
+UCAS Special Forces. In part, this is due to its exception-
+al brand awareness, and also because of its underbarrel 
+grenade launcher, smartgun system, and an expensive 
+chamber design that provides 2 points of Recoil Com-
+pensation.
+Colt M23: This cheap, mass-produced, no-frills as-
+sault rifle is loved both by the gangbangers and pirates 
+who can manage to get their hands on one and by the 
+pros who are looking for something to modify from the 
+ground up.
+FN HAR: This assault rifle is supremely popular with 
+private security forces and corporate threat-response 
+teams. It features a laser sight and a gas-vent 2 system.
+ Yamaha Raiden: This electronic-firing assault ri-
+fle is state-of-the-art. The Raiden is very accurate and 
+is quickly being adopted by japanacorp security forces 
+and the Japanese Imperial Marines. It features an inte-
+gral sound suppressor and smartgun system, and the 
+electronic firing mechanism and design provides 1 point 
+of Recoil Compensation.
+SNIPER RIFLES
+Use the Longarms skill when firing sniper rifles. Firearm 
+enthusiasts will be the first to tell you that sport and hunt-
+ing rifles are technically not sniper rifles, but they are sim-
+ilar enough in terms of game statistics to be included here 
+rather than in their own section. Sniper rifles can take top, 
+barrel-, and underbarrel-mounted accessories.
+Ares Desert Strike: This combat-hardened sniper ri-
+fle is intended for long-range shooting in harsh environ-
+ments. That means it was built without materials or tech-
+nologies prone to failure. It comes equipped with a rigid 
+stock with shock pad and a detachable imaging scope.
+Cavalier Arms Crockett EBR: Straddling the line 
+between assault rifle and sniper rifle, the Crockett EBR 
+features a burst fire mode. While it lacks the magazine 
+capacity of a true assault rifle, and lacks the precision of 
+YAMAHA RAIDEN
+>> STREET GEAR <<
+FIREARMS
+ASSAULT RIFLES
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+AK-97
+5
+10P
+–2
+SA / BF / FA
+—
+38 (c)
+4R
+950¥
+Ares Alpha
+5 (7)
+11P
+–2
+SA / BF / FA
+2
+42 (c)
+11F
+2,650¥
+   Grenade Launcher
+4 (6)
+—
+—
+SS
+—
+6 (c)
+—
+—
+Colt M23
+4
+9P
+–2
+SA / BF / FA
+—
+40 (c)
+4R
+550¥
+FN HAR
+5 (6)
+10P
+–2
+SA / BF / FA
+2
+35 (c)
+8R
+1,500¥
+Yamaha Raiden
+6 (8)
+11P
+–2
+BF / FA
+1
+60 (c)
+14F
+2,600¥
+SNIPER RIFLES
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares Desert Strike
+7
+13P
+–4
+SA
+(1)
+14 (c)
+10F
+17,500¥
+Cavalier Arms Crockett EBR
+6
+12P
+–3
+SA / BF
+(1)
+20 (c)
+12F
+10,300¥
+Ranger Arms SM-5
+8
+14P
+–5
+SA
+(1)
+15 (c)
+16F
+28,000¥
+Remington 950
+7
+12P
+–4
+SS
+—
+5 (m)
+4R
+2,100¥
+Ruger 100
+6
+11P
+–3
+SA
+(1)
+8 (m)
+4R
+1,300¥
+428    gear listing >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p434 =====
+a true marksman’s weapon, it makes up for this in ver-
+satility, being able to switch fluidly between a sniping 
+role and a combat role as easy as flipping a switch. It 
+comes equipped with a rigid stock with shock pad and a 
+detachable imaging scope.
+Ranger Arms SM–5: A legendary assassin’s weapon, 
+this sniper rifle features a silencer, an imaging scope, 
+and a rigid stock with shock pad. The SM–5 disassem-
+bles completely in order to fit into a standard briefcase; 
+setting it up or breaking it down takes an Extended Fire-
+arms + Logic [Mental] (6, Complex Action) Test. While 
+deadly, the SM–5 is fragile. At the end of every Com-
+bat Turn in which the weapon is used in a running fire-
+fight, reduce its Accuracy by 1 (to a minimum of 3). If 
+the weapon is used in combat as a melee weapon or to 
+defend from a melee attack, reduce its Accuracy by 2 
+(again to a minimum of 3). Recalibrating the weapon (a 
+one-hour job) returns its Accuracy to normal.
+Remington 950: This high-powered bolt-action 
+hunting rifle features classic wooden furniture and a 
+top-mounted imaging scope that have kept it popular 
+with hunters for several decades. It cannot mount un-
+derbarrel accessories.
+Ruger 101: This futuristic-looking gas-operated sport-
+ing rifle is the favorite weapon for many professional 
+hunters and hobbyists. It features a built-in imaging scope 
+and a rigid stock with shock pad.
+SHOTGUNS
+Use the Longarms skill when firing shotguns. The stats 
+for these shotguns are for normal slug rounds. When 
+firing shot, use the special rules for shotguns, choke 
+settings, and flechette ammo (Shotguns, p. 180). Shot-
+guns can take top, barrel, and underbarrel accessories. 
+Defiance T–250: A common sight on the mean 
+streets when things escalate beyond pistols and knives, 
+this semi-automatic shotgun is available in either a nor-
+mal-length or short-barreled version. It is gas operated, 
+but also features a secondary pump action for situations 
+where preventing jams is more important than quickly 
+firing a second shot. The short-barreled version has the 
+Concealability of +4, the range of a heavy pistol, and a 
+damage code of 9P.
+Enfield AS-7: This military assault shotgun provides its 
+user with massive firepower. As a close-quarters weap-
+on and general combat gun, it is universally feared. It can 
+either be loaded with ten-round ammo clips or a spe-
+cial twenty-four-round drum. The Enfield AS-7 comes 
+equipped with a built-in, top-mounted laser sight.
+PJSS Model 55: This is a weapon of classic style for 
+a classic sport. Produced only in small numbers, it’s re-
+nowned among European hunters and trap shooters as 
+a precise and prestigious weapon. The weapon’s rigid 
+stock comes equipped with an integrated shock pad. 
+Both barrels can be shot at once as a short burst (see 
+Not Enough Bullets, p. 180).
+SPECIAL WEAPONS
+Use the Exotic Ranged Weapon skill when firing these 
+weapons.
+Ares S-III Super Squirt: This popular non-lethal 
+weapon fires DMSO gel packs. The dimethyl sulfoxide 
+forces the skin to absorb the chemicals the operator 
+wishes to deliver. The attack itself causes no damage, 
+CAVALIER ARMS CROCKETT EBR
+PJSS MODEL 55
+>> STREET GEAR <<
+FIREARMS
+SHOTGUNS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Defiance T-250
+4
+10P
+–1
+SS / SA
+—
+5 (m)
+4R
+450¥
+Enfield AS-7
+4 (5)
+13P
+–1
+SA / BF
+—
+10 (c) or 24 (d)
+12F
+1,100¥
+PJSS Model 55
+6
+11P
+–1
+SS
+(1)
+2 (b)
+9R
+1,000¥
+SPECIAL WEAPONS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares S-III Super Squirt
+3
+Chemical
+—
+SA
+—
+20 (c)
+7R
+950¥
+Fichetti Pain Inducer
+3
+Special
+—
+SS
+—
+Special
+11R
+5,000¥
+Parashield Dart Pistol
+5
+as Drug/Toxin
+—
+SA
+—
+5 (c)
+4R
+600¥
+Parashield Dart Rifle
+6
+as Drug/Toxin
+—
+SA
+—
+6 (m)
+6R
+1,200¥
+<< gear listing    429
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p435 =====
+but when the target is hit successfully, the DMSO deliv-
+ers the substance directly into the target’s bloodstream 
+as a Contact vector toxin (Toxins, Drugs, and BTLs, p. 
+408). The Super Squirt uses Light Pistol ranges and can 
+accept top- and underbarrel-mounted accessories
+Fichetti Pain Inducer: For a non-lethal weapon, 
+the Fichetti Pain Inducer is not very humane. It makes 
+someone feel like they are in a microwave, roasting 
+from the inside out. Treat this as a toxin attack with a 
+Power of 8 and a speed of Immediate. The target resists 
+with Body + Willpower. If the modified Power exceeds 
+the target’s Mental limit, the target must spend his next 
+Action Phase doing whatever it takes to run away from 
+the pain. The attacker can continue to hold her beam 
+on a target with a Complex Action unless the game-
+master deems the target has dodged away or found 
+cover. If the target cannot get out of the beam, he is 
+incapacitated with pain, suffering a dice pool modifier 
+equal to the modified Power on all tests for as long as 
+the beam is trained on him.
+The Pain Inducer uses SMG ranges and can take top 
+and underbarrel accessories. It has ten charges; when 
+attached to a power point, it reloads one charge every 
+ten seconds.
+Wireless: The Pain Inducer recharges by induction at a 
+rate of 1 charge per hour.
+Parashield Dart Pistol: The industry standard dart 
+pistol, this fires injection darts (p. 434) with narcoject 
+or another payload. The Parashield dart pistol uses 
+Heavy Pistol ranges and can take top-mounted acces-
+sories.
+Wireless: The dart reports whether or not it has struck 
+home and successfully injected. It may also report any 
+gross physical anomalies in the target’s tissue, although 
+its medical sensors are not very sophisticated (Device 
+Rating of 1 for the dart).
+Parashield Dart Rifle: Originally designed to non-le-
+thally take down large game animals at long ranges, the 
+Parashield dart rifle uses compressed air cartridges to 
+fire injection darts. This weapon includes a top-mount-
+ed imaging scope. It uses sporting rifle ranges and can 
+mount top and underbarrel accessories.
+Wireless: The dart reports whether or not it has struck 
+home and successfully injected. It may also report any 
+gross physical anomalies in the target’s tissue, although 
+its medical sensors are not very sophisticated (Device 
+Rating of 1 for the dart).
+MACHINE GUNS
+Machine guns come in three varieties—light, medium, 
+and heavy—that determine their ranges. All, even the 
+“light” ones, are in fact very heavy and large. A light 
+machine gun is physically bigger and heavier than an 
+assault rifle. MMGs and HMGs could be carried by 
+someone with Strength of 8+ and 10+ (respectively), 
+but they work better as vehicle-mounted weapons. 
+Use the Heavy Weapons skill when firing these 
+weapons. They suffer from double modifiers for uncom-
+pensated recoil (Recoil, p. 175). Machine guns can take 
+top, barrel, and underbarrel accessories.
+Ingram Valiant: This legendary light machine gun is 
+popular with mercenary units the world over. It comes 
+with a rigid stock with shock pad, a laser sight, and a 
+barrel-mounted gas-vent 2 system.
+Stoner-Ares M202: This MMG packs a tremendous 
+punch into a relatively lightweight framework made of 
+extra-durable compounds. Due to its relatively small 
+size, it’s a very popular secondary weapon for heavy 
+military vehicles. Trolls with no concept of subtlety 
+sometimes deck them out with accessories for use as 
+personal weapons.
+RPK HMG: This heavy Russian machine gun is used 
+by the militaries of several eastern European and Near 
+East countries, primarily as a vehicle-mounted support 
+weapon. Equipped with a detachable tripod, the RPK is 
+usually fired from a prone, sitting, or kneeling position 
+when not mounted on a vehicle. 
+CANNONS & LAUNCHERS
+Use the Heavy Weapons skill when firing assault can-
+nons and grenade and missile launchers. All suffer 
+from double modifiers for uncompensated recoil (p. 
+175). Both assault cannons and launchers can take top 
+and underbarrel accessories. Naturally, assault can-
+nons use assault cannon ammo, grenade launchers 
+fire minigrenades, and missile launchers launch mis-
+siles or rockets.
+Ares Antioch–2: The Antioch–2 features a classic 
+grenade launcher design combined with an integral 
+>> STREET GEAR <<
+FIREARMS
+MACHINE GUNS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ingram Valiant
+5 (6)
+9P
+–2
+BF / FA
+2 (3)
+50 (c) or  
+100 (belt)
+12F
+5,800¥
+Stoner-Ares M202
+5
+10P
+–3
+FA
+—
+50 (c) or
+100 (belt)
+12F
+7,000¥
+RPK HMG
+5
+12P
+–4
+FA
+(6)
+50 (c) or
+100 (belt)
+16F
+16,300¥
+430    gear listing >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p436 =====
+smartlink system. It is one of the more affordable gre-
+nade launchers on the market.
+Wireless: You can use the wireless link trigger for 
+your grenades, even if you don’t have DNI (Direct Neu-
+ral Interface sidebar, p. 222). 
+ArmTech MGL–12: This bullpup-configuration gre-
+nade launcher is popular, since it can fire in semi-auto 
+mode and carries substantially more minigrenades than 
+its competitors.
+Wireless: You can use the wireless link trigger for 
+your grenades, even if you don’t have DNI (Direct Neu-
+ral Interface sidebar, p. 222). 
+Aztechnology Striker: The Striker is an extremely 
+light disposable launcher—perfect when you want to de-
+liver a punch and make a quick, unencumbered getaway.
+Wireless: You can use the wireless link trigger for 
+your missiles, even if you don’t have DNI (Direct Neural 
+Interface sidebar, p. 222). 
+Krime Cannon: Krime may be a small-time manufac-
+turer, but their assault cannon, simply called the Cannon, 
+is a cheap heavy weapon big on attitude and firepower. 
+It comes standard with modification for trolls, and so is 
+the first weapon in the Sixth World to be intended for 
+larger customers.
+Onotari Interceptor: This Saeder-Krupp-developed 
+military missile launcher is designed to fire rockets or 
+guided missiles, of any type. It has two separate barrels 
+and firing chambers, and can load up to two missiles at 
+once, which need not be of the same type. Due to back-
+blast issues, it is not capable of “giving ‘em both barrels.” 
+It features an internal smartgun system.
+Wireless: You can use the wireless link trigger for 
+your missiles, even if you don’t have DNI (Direct Neural 
+Interface sidebar, p. 222). 
+Panther XXL: This huge fragging gun is an assault 
+cannon that uses ammunition similar to the primary 
+weapon in many small tanks. It comes with a built-in 
+smartgun system.
+FIREARM ACCESSORIES
+Most firearm accessories must be attached to a partic-
+ular mount—top, barrel, underbarrel. Each mount can 
+only hold one accessory at a time.
+Airburst link: This grenade/rocket launcher smart-
+gun accessory uses a “smart” rangefinder to air-burst the 
+explosive projectile at a point deemed to be both a safe 
+distance from the launcher and within the closest possi-
+ble proximity to the target. An airburst link reduces the 
+scatter distance for a launched grenade by two meters 
+per net hit instead of by one meter per hit (Determine 
+Scatter, p. 182) when you use the wireless link trigger.
+Wireless: An airburst link requires wireless functional-
+ity to function at all. Both the grenades and the launcher 
+must have wireless mode turned on.
+Bipod: This two-legged brace extends downward 
+from the weapon, allowing it to be fired low to the 
+ground with the user in a prone or sitting position. A 
+bipod can be attached to the underbarrel mount of a 
+weapon and provides 2 points of Recoil Compensation 
+when properly deployed. Attaching a bipod takes one 
+minute. Folding up or deploying a bipod is a Simple Ac-
+tion. Removing it is a Complex Action.
+Wireless: Folding up or deploying the bipod is a Free 
+Action.
+Concealable holster: This small holster can be worn 
+on the ankle, clipped to the forearm, in the small of the 
+back, or anywhere else it’s unlikely to be seen. The con-
+cealable holster adds –1 to the item’s Concealability (p. 
+419). Only pistols and tasers fit in a Concealable Holster.
+Wireless: Wireless sensors and a smart-fabric coated 
+weave allow the holster to alter color and texture in real 
+time adding an additional –1 to the item’s Concealability.
+Gas-vent system: Gas-vent recoil compensation sys-
+tems are barrel-mounted accessories that vent a weap-
+KRIME CANNON
+>> STREET GEAR <<
+FIREARMS
+CANNONS/LAUNCHERS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Ares Antioch-2
+4 (6)
+Grenade
+—
+SS
+—
+8 (m)
+8F
+3,200¥
+ArmTech MGL-12
+4
+Grenade
+—
+SA
+—
+12 (c)
+10F
+5,000¥
+Aztechnology Striker
+5
+Missile
+—
+SS
+—
+1 (ml)
+10F
+1,200¥
+Krime Cannon
+4
+16P
+–6
+SA
+(1)
+6 (m)
+20F
+21,000¥
+Onotari Interceptor
+4 (6)
+Missile
+—
+SS
+—
+2 (ml)
+18F
+14,000¥
+Panther XXL
+5 (7)
+17P
+–6
+SS
+—
+15 (c)
+20F
+43,000¥
+<< gear listing    431
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p437 =====
+on’s barrel gases at a specific vector to counter muzzle 
+climb. Once installed, a gas-vent cannot be removed. 
+Gas-vent systems provide a number of points of Recoil 
+Compensation equal to their rating.
+Gyro mount: This heavy upper-body harness features 
+an attached, articulated, motorized gyro-stabilized arm 
+that mounts an assault rifle or a heavy weapon. The system 
+neutralizes up to 6 points of recoil and movement mod-
+ifiers. Attaching or removing a weapon from the mount 
+takes a Simple Action. Putting on a gyro-mount harness 
+takes about five minutes, while the quick-release allows 
+you to get out of it with a Complex Action.
+Wireless: Activating the harness’s quick-release with a 
+wireless signal to exit the harness is a Free Action.
+Hidden arm slide: Attached to the forearm and 
+worn under clothing, this slide can accommodate a pis-
+tol-sized weapon. It can fit a hold-out, light pistol, or tas-
+er. With a hand gesture, the slide releases the weapon/
+object right into your hand. If you quick draw the weap-
+on in this slide, the threshold for the quick draw is 2. It 
+also gives the weapon a –1 Concealability modifier.
+Wireless: You can ready the weapon in the slide as a 
+Free Action.
+Imaging scope: These classic scopes are attached to 
+the top mount; attaching or removing them takes only a 
+Simple Action. Imaging scopes include a micro camera 
+and vision magnification, and they have a Capacity of 3 
+to hold vision enhancements (p. 444).
+Wireless: The scope’s “line of sight” can be shared, al-
+lowing you to share what your scope sees with your team 
+(and yourself if you’re using it to look around a corner).
+Laser sight: This device uses a laser beam to project 
+a visible dot (in your choice of colors) on the target. This 
+increases the weapon’s Accuracy by 1, which is not cu-
+mulative with smartlink modifiers. The laser sight can be 
+attached to either the underbarrel mount or top mount. 
+Activating or deactivating a laser sight is a Simple Action.
+Wireless: The wireless laser sight provides a +1 dice 
+pool bonus on attack tests, not cumulative with smar-
+tlink modifiers. Activating and deactivating the laser 
+sight is a Free Action.
+Periscope: This adjustable “off-axis” viewer attaches 
+to a top mount and allows an operator to target a weap-
+on around corners, reducing the usual –3 dice pool pen-
+alty to –2. A periscope can be upgraded with any of the 
+vision enhancements noted on p. 444.
+Wireless: The dice pool penalty for shooting around 
+corners is reduced to –1.
+Quick-draw holster: This easy access holster can 
+hold any weapon of Machine Pistol or smaller size. It 
+reduces the threshold for quick-drawing the holstered 
+weapon by 1 (see Quick Draw, p. 165).
+Shock pad: A shock-absorbing pad is situated on the 
+rigid stock of a rifle, shotgun, or heavy weapon, and pro-
+vides 1 point of recoil compensation.
+Silencer/suppressor: This barrel-mounted accesso-
+ry reduces the sound and flash of a weapon’s discharge. 
+It cannot be used with revolvers or shotguns. It applies 
+a –4 dice pool modifier on all Perception Tests to notice 
+the weapon’s use or locate the weapon’s firer. Attaching 
+or removing a silencer takes a Complex Action.
+Wireless: The silencer/suppressor features a Rating 2 
+microphone with Rating 2 Select Sound Filter and simple 
+software that alerts you via AR if your silencer detects 
+the sound of someone nearby reacting to the sound of 
+the silenced weapon.
+>> STREET GEAR <<
+FIREARM ACCESSORIES
+ACCESSORY
+MOUNT
+AVAILABILITY
+COST
+Airburst link
+—
+6R
+600¥
+Bipod
+Under
+2
+200¥
+Concealable holster
+—
+2
+150¥
+Gas-vent system (Rating 1-3)
+Barrel
+(Rating x 3)R
+Rating x 200¥
+Gyro mount
+Under
+7
+1,400¥
+Hidden arm slide
+—
+4R
+350¥
+Imaging scope
+Top
+2
+300¥
+Laser sight
+Top or Under
+2
+125¥
+Periscope
+Top
+3
+70¥
+Quick-draw holster
+—
+4
+175¥
+Shock pad
+—
+2
+50¥
+Silencer/suppressor
+Barrel
+9F
+500¥
+Smart firing platform
+Under
+12F
+2,500¥
+Smartgun system, internal
+—
+(+2)R
+(Weapon Cost) x 2¥
+Smartgun system, external
+Top or Under
+4R
+200¥
+Spare clip
+—
+4
+5¥
+Speed loader
+—
+2
+25¥
+Tripod
+Under
+4
+500¥
+432    gear listing >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p438 =====
+Smart firing platform: This is a non-mobile robotic 
+tripod equipped with a remote control pivot that allows 
+for a 180-degree firing arc and a 60-degree inclination. 
+You can mount one smartgun-equipped weapon to the 
+platform, and it will be fired by the device’s onboard Pi-
+lot (Device Rating 3). The platform is equipped with a 
+Targeting Autosoft (Rating 3) and can be upgraded with 
+additional autosofts, usually a Clearsight program. You 
+need to set the parameters of who exactly the platform 
+should and shouldn’t shoot at, which are followed by the 
+platform’s pilot (Pilot Programs, p. 269). The platform 
+provides 5 points of Recoil Compensation. It has an Ini-
+tiative attribute of Pilot x 2 and 4D6 Initiative Dice when 
+acting autonomously (see Drone Initiative, p. 270).
+Wireless: You can fire the mounted weapon remote-
+ly (Control Device, p. 238), like a drone with no rigger 
+interface. You can use an implanted smartlink with the 
+smartgun if you’re in VR.
+Smartgun system: This connects a firearm or a 
+projectile weapon directly to the user’s smartlink. In-
+corporating a small camera and laser range finder, the 
+smartlink keeps track of ammunition, heat buildup, and 
+material stress. If you have a smartlink, you can men-
+tally switch between gun modes, eject a clip, and fire 
+the gun without pulling the trigger. The camera lets 
+you shoot around corners without exposing yourself 
+to return fire (at a –3 dice pool penalty). The system 
+makes use of advanced calculation software, allowing 
+for precisely calculated trajectories and high precision 
+over any distance.
+If you’re using a smartlink, the smartgun system in-
+creases the gun’s Accuracy by 2. The smartgun features 
+are accessed either by universal access port cable to an 
+imaging device (like glasses, goggles, or a datajack for 
+someone with cybereyes) or by a wireless connection 
+working in concert with direct neural interface.
+Retrofitting a firearm with an internal smartgun sys-
+tem doubles the weapon’s price and adds 2 to its Avail-
+ability. An external smartgun system can be attached to 
+the top mount or underbarrel mount with an Armorer + 
+Logic (4, 1 hour) Extended Test. The small camera has a 
+capacity of 1 and can be equipped with vision enhance-
+ments (p. 444).
+Wireless: A wireless smartlink provides a dice pool 
+bonus to all attacks with the weapon: +1 if you’re using 
+gear with a smartlink or +2 if you’re using an augmen-
+tation for which you paid Essence. Ejecting a clip and 
+changing fire modes are Free Actions.
+Spare clip: A spare clip comes unloaded but can hold 
+the maximum rounds for the weapon. Each clip is spe-
+cific to the weapon you buy it for, but they all cost the 
+same. And yes, it’s technically a detachable box maga-
+zine, but the Cityspeak word for it is so popular these 
+days that even the catalogs call them clips.
+Speed loader: The speed loader is a simple device 
+that holds a ring of bullets for fast insertion into a revolv-
+er’s cylinder. Each speed loader is specific to the weap-
+on it was designed for. It lets you fully reload a revolver 
+as a Complex Action instead of having to load rounds 
+one at a time (Reloading Weapons table, p. 163).
+Tripod: The tripod provides a stable base to fire a 
+weapon low to the ground with the user kneeling or 
+sitting. A tripod can be attached to the underbarrel 
+mount and provides 6 points of Recoil Compensation 
+when properly deployed. Attaching a tripod takes one 
+minute. Folding up or deploying the bipod is a Free 
+Action.
+Wireless: Folding up, deploying, or removing the tri-
+pod is a Free Action.
+AMMUNITION
+Ammunition is defined by type (regular, gel, APDS, 
+etc.), class of firearm (light pistol, heavy pistol, assault 
+rifle, etc.) and as cased or caseless. Unless indicated 
+otherwise in its description, a gun can fire cased or 
+caseless ammo, but not both.
+For simplicity, each kind of gun can trade ammo with 
+another of its class: for example, all heavy pistols can 
+share ammo. 
+>> STREET GEAR <<
+AMMUNITION
+AMMO, PER 10 SHOTS
+DAMAGE MODIFIER
+AP MODIFIER
+AVAILABILITY
+COST
+APDS
+—
+–4
+12F
+120¥
+Assault cannon
+—
+—
+12F
+400¥
+Explosive rounds
++1
+–1
+9F
+80¥
+Flechette rounds
++2
++5
+6R
+65¥
+Gel rounds
++0S
++1
+2R
+25¥
+Hollow points
++1
++2
+4F
+70¥
+Injection darts
+—
+—
+4R
+75¥
+Regular ammo
+—
+—
+2R
+20¥
+Stick-n-Shock
+–2S (e)
+–5
+6R
+80¥
+Tracer
+—
+—
+6R
+60¥
+Taser dart
+—
+—
+3
+50¥
+<< gear listing    433
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p439 =====
+An ammunition type’s Damage Modifier and AP 
+Modifier are added to the weapon’s usual DV and AP. 
+For example, an Ares Predator V (DV 8P, AP –1) loaded 
+with explosive rounds (DV +1, AP –1) has a DV of 9P and 
+Armor Penetration of –2.
+APDS rounds: These are military-grade armor pierc-
+ing rounds—their full name is armor piercing discarding 
+sabot. They are designed to travel at high velocities and 
+punch through personal body armor.
+Assault cannon rounds: These are for assault can-
+nons only, and they’re the only thing assault cannons 
+can load.
+Explosive rounds: These slugs carry a shaped-charge 
+explosive, designed to explode and fragment on im-
+pact. Explosive rounds misfire whenever you roll a critical 
+glitch. When this happens, you must resist one “attack” 
+with a Damage Value equal to the normal damage done 
+by the weapon (and don’t forget the modifier for the ex-
+plosive rounds). The attack misses its intended target, 
+and the weapon firing the bullets is destroyed. 
+Flechette rounds: The payload of a flechette round is 
+made up of tiny, tightly packed metal slivers. The round 
+breaks up and shatters on impact, becoming a tumbling 
+hail of shrapnel. Flechette rounds are devastating against 
+unprotected targets, but not as effective against hard-
+ened armor. 
+Gel rounds: These less-lethal rounds use a hard, 
+jelly-like substance that is a safer alternative to rubber 
+bullets. They are often employed for riot control. Their 
+usually semi-rigid slugs flatten on impact, disbursing 
+their kinetic energy over a larger-than-normal area. Gel 
+rounds inflict Stun damage (AP +1). Gel rounds reduce 
+the target’s Physical limit by 2 when checking for knock-
+down (Knockdown, p. 194).
+Hollow point rounds: Hollow point or dum dum 
+rounds have their tips indented, so they are designed to 
+“mushroom” or expand on impact, becoming a hail of 
+deadly fragments not unlike flechettes, although hollow 
+points are a much older technology. Like flechettes, hol-
+low points work better on unarmored targets and tend 
+to flatten against armor.
+Injection darts: For use with dart guns of various 
+types, like the Parashield pistol and rifle. Each injection 
+dart carries a single dose of a drug or toxin (sold sepa-
+rately). The effect of the dart depends on the drug pay-
+load, but to successfully deliver that payload, the attack 
+with the dart must get at least one net hit against an 
+unarmored target or three net hits against a target with 
+armor. This is an injection vector toxin attack.
+Regular ammo: Also called ball or full metal jacket 
+rounds, these solid slugs are useful for numerous appli-
+cations (mainly killing things).
+Stick-n-Shock: Stick-n-Shock rounds deal electrical 
+Stun damage of equal to the damage of the base weap-
+on –2. They have a flat AP of –5 that replaces the weap-
+on’s AP instead of stacking with it.
+Tracer rounds: Tracer ammo burns along the line of 
+flight, making it easier for the shooter to home in on the 
+target. This type of ammunition can only be used in Full 
+Auto weapons and, being loaded as every third round 
+in a clip, is an exception to the restriction of one type of 
+ammunition per clip. They improve the Accuracy of your 
+gun by 1 when you fire more than one round in an Action 
+Phase (cumulative with a laser sight but not a smartgun).
+Taser dart: These darts are designed to be loaded 
+into taser weapons.
+GRENADES, ROCKETS, 
+AND MISSILES
+GRENADES
+Grenades are small, self-contained explosive packages. 
+Minigrenades are grenades specifically designed for use 
+with grenade launchers, set to arm when they have trav-
+eled 5 meters from their point of origin and explode on 
+impact (unless using an airburst link, p. 431). This safety 
+feature can be disabled with an Armorer + Logic [Men-
+tal] (4, 5 Minutes) Extended Test. Minigrenades have the 
+same cost and effects as standard grenades.
+Use the Throwing Weapons skill when throwing gre-
+nades, or Heavy Weapons when launching a grenade 
+>> STREET GEAR <<
+AMMUNITION
+GRENADES
+DAMAGE
+AP
+BLAST
+AVAILABILITY
+COST
+Flash-bang
+10S
+–4
+10m Radius
+6R
+100¥
+Flash-pak
+Special
+—
+Special
+4
+125¥
+Fragmentation
+18P (f)
++5
+–1/m
+11F
+100¥
+High explosive
+16P
+–2
+–2/m
+11F
+100¥
+Gas
+as Chemical
+—
+10m Radius
+2 + Chemical 
+Availability
+40¥ + Chemical cost
+Smoke
+—
+—
+10m Radius
+4R
+40¥
+Thermal, smoke
+—
+—
+10m Radius
+6R
+60¥
+434    gear listing >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p448 =====
+have a SIN only if they have the SINner quality (p. 84). 
+Most runners don’t have one, either because they were 
+unfortunate enough to be born poor, or because they 
+lost it or ditched it somewhere along the way. SINs are 
+digital, not physical objects. They exist on your com-
+mlink, or in your PAN. 
+Getting by without a SIN can be a pain, so most run-
+ners settle for the next best thing: a fake. High quality 
+fakes are difficult for The Man to spot; low quality fakes 
+are … less good. The rating of the fake SIN is used in tests 
+against verification systems (Fake SINs, p. 367) .
+Just like a real SIN, anytime you use a fake SIN for le-
+gitimate activity, you leave a datatrail in your wake. The 
+fact that criminal activities can be tracked to fake SINs 
+makes fake SINs inherently disposable. Most runners 
+operate two or more fake SINs at a time, one for legal 
+activity like paying rent and going shopping, another 
+for shadier activity, and possibly a third to be used only 
+when it’s time to get the hell outta Dodge.
+Fake license: For those who can’t or won’t go through 
+the standard legal channels, fake licenses are available for 
+all kinds of restricted items and activities. Items with no 
+letter next to their availability don’t require licenses. Items 
+that are Forbidden have no license available. Licenses, 
+therefore, are for Restricted items. Each type of item/ac-
+tivity permission requires a separate license. Things that 
+require licenses include hunting (bow and rifle), posses-
+sion of a firearm, concealed carry of a firearm (separate 
+license), spellcasting, and any Restricted gear or augmen-
+tations, etc. Just as SINs essentially exist on your com-
+mlink, fake licenses exist on your SIN and are linked to it. 
+When you buy a fake concealed-carry license, you don’t 
+buy it for Murderman the professional shadowrunner, 
+you buy it for John Doe, one of Murderman’s fake SINs. 
+Each license must be assigned to a particular (fake) SIN of 
+the player’s choosing. Use the fake license’s rating against 
+verification systems (Fake SIN, p. 367). 
+TOOLS
+Building and repairing items requires the right tools for 
+the job. Tools must be bought separately for a specific 
+skill (for example, an Ar-
+morer shop, a Disguise kit, 
+a Nautical Mechanic facil-
+ity, etc.). A kit is portable 
+and contains the basic gear 
+to make standard repairs. 
+A shop is transportable in 
+the back of a van and con-
+tains more advanced tools 
+for building and repairing. 
+A facility needs a building 
+and is immobile because of the bulky and heavy ma-
+chines involved, but it can be used for very advanced 
+constructions and modifications. Shops and facilities are 
+both stocked with standard spare parts.
+There are some guidelines to help you figure out 
+when a kit, shop, or facility is necessary for a particular 
+job (Building & Repairing, p. 145). The gamemaster gets 
+final say, though, and might even tell you that you need 
+specific or unusual parts you have to get separately.
+OPTICAL AND 
+IMAGING DEVICES
+From wiz shades to bulky goggles, basic vision enhancers 
+are available in several forms. All such devices have—and 
+by default use—wireless capability, although you can use 
+a universal data cable for most of them. Each device has 
+a Capacity that allows you to add vision enhancements. 
+Some of these devices are worn, while others are external 
+sensor devices or even attached to weapons.
+Binoculars: Typically handheld, binoculars come 
+with built-in vision magnification. Binoculars are avail-
+able in optical (which can’t take additional vision en-
+hancements) and electronic versions (which can take 
+vision enhancements).
+Camera: A common visual device, cameras can 
+capture still photos, video, and trideo, including sound. 
+Cameras may also be upgraded with vision enhance-
+ments and audio enhancements. A micro version is 
+available with a Capacity 1.
+Contacts: The most recent display devices are worn 
+directly on the eyes. They are nearly undetectable, but 
+they offer a bit of space for enhancements. Contacts 
+have to be wireless; they don’t have room for a universal 
+data connector.
+Glasses: Glasses are lenses contained in light-
+weight frames worn on the bridge of the nose; numer-
+ous cosmetic styles are available, and vision-enhance-
+ment-equipped glasses are hard to distinguish from 
+prescription glasses or sunglasses at a glance.
+Goggles: Relatively large and bulky, goggles are 
+strapped to the head, making them difficult to dislodge. 
+>> STREET GEAR <<
+CREDSTICKS
+TYPE
+MAX VALUE
+AVAIL
+COST
+Standard
+5,000¥
+—
+5¥
+Silver
+20,000¥
+—
+20¥
+Gold
+100,000¥
+5
+100¥
+Platinum
+500,000¥
+10
+500¥
+Ebony
+1,000,000¥
+20
+1,000¥
+IDENTIFICATION
+TYPE
+AVAIL
+COST
+Fake SIN (Rating 1-6)
+(Rating x 3)F
+Rating x 2,500¥
+Fake license (Rating 1-6)
+(Rating x 3)F
+Rating x 200¥
+TOOLS
+TYPE
+AVAIL
+COST
+Kit
+—
+500¥
+Shop
+8
+5,000¥
+Facility
+12
+50,000¥
+<< Electronics    443
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p449 =====
+Goggles have the potential to install a wide array of vi-
+sion enhancements.
+Imaging Scopes: These are vision enhancers and dis-
+play devices that are usually top-mounted on weapons 
+(Firearm Accessories, p. 431).
+Monocle: A monocle is worn on a headband or hel-
+met with a flip-down arm, or (for the old-fashioned look) 
+on a chain.
+OPTICAL DEVICES
+These devices use optical technology (glass bending or 
+reflecting light), not electronics, to function. They have 
+many uses, one of the most dramatic of which is that 
+they enable a magician to obtain line of sight for spell-
+casting from cover, something that can’t be accom-
+plished with electronic devices. Spellcasting targeted 
+through optics this way suffers a –3 dice pool modifier. 
+Optical devices can’t take vision enhancements.
+Endoscope: This fiber-optic cable is at least 1 meter 
+long, with the first 20 centimeters on either side made 
+up of myomeric rope (p. 449) and an optical lens. It al-
+lows the user to look around corners, under door slits, 
+or into narrow spaces. It is available in any number of 
+lengths, although longer segments can be unwieldy.
+Mage Sight Goggles: These heavy goggles are con-
+nected to a myomeric rope (p. 449) wrapped around a 
+fiber-optic cable that ends in an optical lens. The rope is 
+available in lengths of 10, 20, or 30 meters.
+Periscope: An L-shaped tube with two mirrors, the 
+periscope allows the user to look, shoot, or cast spells 
+around corners.
+VISION ENHANCEMENTS
+A number of options are available for installation in visu-
+al sensors and imaging devices from contacts to camer-
+as. Each enhancement has an associated Capacity cost.
+Low-light vision: This accessory allows you to see 
+normally in light levels as low as starlight. It doesn’t help 
+in total darkness, though.
+Flare compensation: This protects you from blinding 
+flashes of light as well as simple glare. It mitigates the 
+vision modifiers for glare and reduces the penalty from 
+flashing lights, like from a flash-pak.
+Image link: A standard upgrade, this lets you display 
+visual information (text, pictures, movies, the current 
+time, etc.) in your field of vision. This is usually AROs, 
+but you can display pretty much whatever you want on 
+it. You and your team can use it to share tactical and sit-
+uational info in real time. An image link is what you need 
+to truly “see” AR and participate in the modern world.
+Smartlink: This accessory works with a smartgun sys-
+tem to give you the full benefit of the system. The smart-
+gun will tell you the range to various targets, as well as 
+ammunition level (and type), heat buildup, mechanical 
+stress and so on. Without a smartlink, a smartgun system 
+just sends out data that isn’t received by anyone and has 
+no effect. A smartlink installed in a natural eye or in a pair 
+of cybereyes is more effective than a smartlink installed in 
+an external device; see Smartgun System, p. 433.
+Thermographic vision: This enhancement enables 
+vision in the infrared spectrum, enabling you to see heat 
+patterns. It’s a very practical way to spot living beings in 
+areas of total darkness, to check if a motor or machine 
+has been running lately, and so on. 
+Vision enhancement: This sharpens a character’s vi-
+sion at all ranges, providing visual acuity closer to that of 
+the average hawk than that of the average metahuman. 
+It adds its Rating as a positive modifier to your limit on 
+visual Perception Tests.
+Wireless: Add the vision enhancement’s rating as a 
+dice pool modifier to your visual Perception Tests.
+Vision magnification: This zoom function digitally 
+magnifies vision by up to fifty times, allowing distant 
+targets to be seen clearly. For rules on using vision mag-
+nification in ranged combat, see p. 177.
+>> STREET GEAR <<
+OPTICAL & IMAGING DEVICES
+DEVICE
+AVAIL
+COST
+Binoculars (Capacity 1–3)
+—
+Capacity x 50¥
+Binoculars, Optical
+—
+50¥
+Camera (Capacity 1–6)
+—
+Capacity x 100¥
+Micro–Camera (Capacity 1)
+—
+100¥
+Contacts (Capacity 1–3)
+6
+Capacity x 200¥
+Glasses (Capacity 1–4)
+—
+Capacity x 100¥
+Goggles (Capacity 1–6)
+—
+Capacity x 50¥
+Endoscope
+8
+250¥
+Imaging Scopes (Capacity 3)
+2
+300¥
+Periscope
+3
+50¥
+Mage Sight Goggles
+12R
+3,000¥
+Monocle (Capacity 1–4)
+—
+Rating x 120¥
+VISION ENHANCEMENTS
+ENHANCEMENT
+CAPACITY
+AVAIL
+COST
+Low-light vision
+[1]
++4
++500¥
+Flare compensation
+[1]
++1
++250¥
+Image link
+[1]
+—
++25¥
+Smartlink
+[1]
++4R
++2,000¥
+Thermographic vision
+[1]
++6
++500¥
+Vision enhancement
+[Rating]
++Rating x 2
++(Rating 
+x 500)¥
+Vision magnification
+[1]
++2
++250¥
+444    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p450 =====
+AUDIO DEVICES
+There are several common types of audio devices. Each 
+device has a Capacity that allows you to add audio en-
+hancements.
+Directional microphone: This lets you listen in on 
+distant conversations. Solid objects or loud sounds 
+along the line of eavesdropping interfere, of course. It’s 
+as if you’re up to one hundred meters closer to whatever 
+you’re pointing the mic at.
+Ear buds: These ergonomic ear plugs are hard to 
+spot and harder still to differentiate from the standard 
+kind that comes with every music player and commlink.
+Headphones: A full headset with an adjustable 
+headband strap, or attached to a headphone. Earbuds 
+are harder to spot, but headphones pack more capacity.
+Laser microphone: This 
+sophisticated 
+sensor 
+bounces a laser beam against a solid object like a win-
+dowpane, reads the vibrations on the surface, and 
+translates them into the sounds that are occurring on 
+the other side of the surface. Maximum range is 100 
+meters. A laser microphone cannot fit the spatial rec-
+ognizer audio enhancement.
+Omni-directional microphone: A standard omni-
+directional audio pickup and recorder. Usually incor-
+porated into, connected to, or wirelessly linked with a 
+commlink or other recording device. Micro versions are 
+available at Capacity 1 only and have a Maximum Range 
+of only 5 meters.
+AUDIO ENHANCEMENTS
+Audio enhancements are commonly available as in-
+stallable upgrades to any of the audio sensors listed 
+above. Each will play audio input from AR or other 
+sources. Each enhancement has an associated capac-
+ity cost.
+Audio enhancement: Audio enhancement allows 
+the user to hear a broader spectrum of audio frequen-
+cies, including high and low frequencies outside the 
+normal metahuman audible spectrum. The user also 
+experiences fine discrimination of nuances and can 
+block out distracting background noise. Audio en-
+hancement adds its Rating to your limit in audio Per-
+ception Tests.
+Wireless: Add the audio enhancement’s rating as a 
+dice pool modifier to your audio Perception Tests.
+Select sound filter: This lets you block out back-
+ground noise and focus on specific sounds or patterns 
+of sounds. It even includes speech, word, and sound 
+pattern recognition. Each Rating point lets you select a 
+single sound group (such as the footsteps of a patrolling 
+guard or the rotors of a distant helicopter) and focus on 
+it. You only actively listen to one group at a time, but 
+you can record the others for later playback or set them 
+to triggered monitoring (such as sounding an alert if a 
+conversation brings up a certain topic, or if there’s a vari-
+ation in the breathing pattern of a guard dog).
+Spatial recognizer: This hearing accessory pinpoints 
+the source of a sound. You get a +2 bonus on your limit 
+in Perception Tests to find the source of a specific sound.
+Wireless: You get a +2 dice pool modifier to your Per-
+ception Tests when looking for a sound’s source.
+SENSORS	
+Sensors are found almost everywhere. Cheaply pro-
+duced by the billions, miniaturization and integration 
+have made sensors both located everywhere and hard 
+to spot. You can put sensors in just about everything, 
+and lots of people do. Your can of FizzyGoo is watching 
+you and reporting back to marketing. You can play the 
+sensor game, too.
+Sensors need to be placed in a housing or case of 
+some sort, or built into another device. Sensors can re-
+cord data themselves or forward it wirelessly in real-time 
+or as files to other devices. Sensors are available in seven 
+ratings (2–8) and two types: single and array. When you 
+use the sensor array for Perception Tests, you may use 
+your Electronic Warfare skill in place of your Perception 
+skill, and you may use the sensor’s Rating as your limit.
+Sensor array: This sensor package includes up to 
+eight functions listed under Sensor Functions.
+Single sensor: This is a sensor that can do only one 
+function listed under Sensor Functions.
+HOUSINGS
+Sensors can be put into devices that have capacity. 
+Most vehicles and drones come factory-equipped with 
+a sensor array (at a rating listed with their stats). What 
+you can put your sensor in is limited by the Rating of 
+the sensor (see Sensor Housings table).
+>> STREET GEAR <<
+AUDIO DEVICES
+DEVICE
+AVAIL
+COST
+Directional mic (Capacity 1-6)
+4
+Capacity x 50¥
+Ear buds (Capacity 1-3)
+—
+Capacity x 50¥
+Headphones (Capacity 1-6)
+—
+Capacity x 50¥
+Laser mic (Capacity 1-6)
+6R
+Capacity x 100¥
+Omni-directional mic 
+(Capacity 1-6)
+—
+Capacity x 50¥
+AUDIO ENHANCEMENTS
+ENHANCEMENT
+CAPACITY
+AVAIL
+COST
+Audio enhancement 
+(Rating 1-3)
+[Rating]
++Rating x 2
++(Rating 
+x 500)¥
+Select sound filter 
+(Rating 1-3)
+[Rating]
++Rating x 3
++(Rating
+x 250)¥
+Spatial recognizer
+[2]
++4
++1,000¥
+<< Electronics    445
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p462 =====
+light pistol inside your cyberarm, concealing it from nor-
+mal vision. As a Free Action, you can ready the weapon 
+in the slide.
+Cyber holster: You can hold a taser or any pistol- or 
+smaller-sized weapon within the holster, completely en-
+closed until you activate it. Inserting or retrieving a weap-
+on takes one Simple Action. A cyber holster can also be 
+used as a smuggling compartment to store items no larg-
+er than a pistol (the gamemaster has final discretion).
+Wireless: Readying a weapon from the holster is a 
+Free Action.
+Hydraulic jacks: This implant requires you to have 
+two cyberlegs with a hydraulic jack of identical Ratings 
+in each leg. Each Rating point adds a +1 to your Physical 
+limit for jumping and sprinting, adds twenty percent to 
+your maximum jump distance, and reduces your falling 
+distance by two meters for the purpose of calculating 
+falling damage.
+Wireless: The jacks add a +1 dice pool bonus to tests 
+involving jumping, sprinting, or lifting with your legs.
+Large smuggling compartment: This is a larger ver-
+sion of the smuggling compartment (p. 455). It can hold 
+something the size of a heavy pistol or a small SMG 
+(gamemaster’s discretion—think breadbox size as a 
+guide). Getting something out of or putting something 
+into it takes a Complex Action.
+Wireless: Getting something out of or putting some-
+thing into it takes a Simple Action.
+>> STREET GEAR <<
+CYBERLIMBS
+LIMBS
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Obvious limbs
+Full arm
+1
+15
+4
+15,000¥
+Full leg
+1
+20
+4
+15,000¥
+Hand/foot
+0.25
+4
+2
+5,000¥
+Lower arm
+0.45
+10
+4
+10,000¥
+Lower leg
+0.45
+12
+4
+10,000¥
+Torso
+1.5
+10
+12
+20,000¥
+Skull
+0.75
+4
+16
+10,000¥
+Synthetic limbs
+Full arm
+1
+8
+4
+20,000¥
+Full leg
+1
+10
+4
+20,000¥
+Hand/foot
+0.25
+2
+2
+6,000¥
+Lower arm
+0.45
+5
+4
+12,000¥
+Lower leg
+0.45
+6
+4
+12,000¥
+Torso
+1.5
+5
+12
+25,000¥
+Skull
+0.75
+2
+16
+15,000¥
+CUSTOMIZATION
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Each STR or AGI point above 3
+—
+—
+Cyberlimb + 1
++5,000¥
+CYBERLIMB ENHANCEMENTS
+ENHANCEMENT
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Agility (Rating 1-3)
+—
+Rating
+(Rating x 3)R
+Rating x 6,500¥
+Armor (Rating 1-3)
+—
+Rating
+Rating x 5
+Rating x 3,000¥
+Strength (Rating 1-3)
+—
+Rating
+(Rating x 3)R
+Rating x 6,500¥
+CYBERLIMB ACCESSORIES
+ACCESSORY
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Cyberarm gyromount
+—
+[8]
+12F
+6,000¥
+Cyberarm slide
+—
+[3]
+12R
+3,000¥
+Cyber holster
+—
+[5]
+8R
+2,000¥
+Hydraulic jacks (Rating 1-6)
+—
+[Rating]
+9
+Rating x 2,500¥
+Large smuggling compartment
+—
+[5]
+6
+8,000¥
+<< Electronics    457
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p463 =====
+CYBER IMPLANT 
+WEAPONS
+Cyber-implant weapons can be installed into cyberlimbs 
+or directly into the meat. They’re popular with the deni-
+zens of urban wastelands like the Barrens, and with street 
+samurai who never want to go anywhere unarmed.
+Cyberguns: Generally speaking, these are mount-
+ed in a cyberarm or directly into a natural arm, but you 
+could install one in a leg or even your torso. Cyberguns 
+are distinct from cyber holsters in that the gun itself can 
+be controlled and fired directly, as an extension of your 
+body. Depending on the size of the gun, cyberguns take 
+up part of your forearm or replace your arm altogether, 
+with the functional parts of the arm built around the gun. 
+Smaller cyberguns fire through a hidden port in the palm 
+or knuckles, while larger cyberguns fold back the user’s 
+hand at the wrist.
+For extra concealment, cyberguns are built from 
+mostly non-metallic compounds, and any metallic 
+parts are incorporated into the (cyber) arm’s structure. 
+All cyberguns have internal magazines (m) and can be 
+equipped with a hidden external ammo port. Howev-
+er, once you attach a clip to the side of your forearm or 
+the back of your elbow, the cybergun becomes kind of 
+obvious. Laser sights and silencers/sound suppressors 
+are also available; other weapon accessories can’t be 
+installed in cyberguns. All cyberguns are pre-equipped 
+with smartgun systems (p. 433).
+Cyber melee weapons: For a quarter of a centu-
+ry now, cyber-implant melee weapons have been the 
+classic, favored toys of razor guys, from street muscle 
+to professional urban samurai. They are available as cy-
+berarm upgrades, but can also be installed directly into 
+the flesh. Cyber weapons can be readied via muscle 
+flexture, neural impulse, or wireless signal. Attacks with 
+cyber melee weapons use Unarmed Combat skill and 
+the Physical limit.
+Hand razors are blades two to three centimeters long, 
+made of chromed steel or carbon fiber. They either slide 
+out from beneath your fingernails or replace them en-
+tirely. Hand blades slip out the side of the hand opposite 
+the thumb, parallel to the hand, and while they are uni-
+versally thin and sharp, they come in a variety of shapes 
+and styles. Spurs are one to three blades or spikes pro-
+truding from the back of your wrist or your knuckles, 
+sticking out from your fist as much as thirty centime-
+ters. The shock hand is like a shock glove built into the 
+palm of your hand, perfect for inflicting a nasty shock to 
+anything it comes into contact with. Shock hands deal 
+Electricity damage (p. 170) and have ten charges in each 
+hand; when plugged in they recharge at a rate of one 
+charge per ten seconds.
+IMPLANT WEAPONS
+IMPLANT WEAPONS
+CYBERGUNS
+ESS
+CAP
+AVAIL
+COST
+Hold-out pistol
+0.1
+[2]
+8R
+2,000¥
+Light pistol
+0.25
+[4]
+10R
+3,900¥
+Machine pistol
+0.5
+[6]
+12R
+3,500¥
+Heavy pistol
+0.5
+[6]
+12R
+4,300¥
+Submachine gun
+1
+[8]
+12R
+4,800¥
+Shotgun
+1.25
+[10]
+12R
+8,500¥
+Grenade launcher
+1.5
+[15]
+20F
+30,000¥
+External clip port
+0.1
+[1]
+—
++1,000¥
+Laser sight
+—
+[1]
+—
++1,000¥
+Silencer/suppressor
+—
+[2]
+—
++1,000¥
+CYBER MELEE
+ESS
+CAP
+AVAIL
+COST
+Hand blade (retractable)
+0.25
+[2]
+10F
+2,500¥
+Hand razors (retractable)
+0.2
+[2]
+8F
+1,250¥
+Spurs (retractable)
+0.3
+[3]
+12F
+5,000¥
+Shock hand
+0.25
+[4]
+8R
+5,000¥
+WEAPONS
+REACH
+DAMAGE
+AP
+Hand blade
+—
+(STR + 2)P
+–2
+Hand razors
+—
+(STR + 1)P
+–3
+Spurs
+—
+(STR + 3)P
+–2
+Shock hand
+—
+9S(e)
+–5
+>> STREET GEAR <<
+IMPLANT WEAPONS
+CYBERGUNS
+ACCURACY
+DAMAGE
+AP
+MODE
+RC
+AMMO
+Cyber hold-out
+4 (6)
+6P
+—
+SA
+—
+2 (m) / 6 (c)
+Light cyber pistol
+6 (8)
+7P
+—
+SA
+—
+10 (m) / 15 (c)
+Cyber machine pistol
+4 (6)
+6P
+—
+SA / BF
+1
+18 (m) / 32 (c)
+Heavy cyber pistol
+4 (6)
+7P
+–1
+SA
+—
+8 (m) / 12 (c)
+Cyber submachine gun
+4 (6)
+7P
+—
+SA / BF
+2
+18 (m) / 32 (c)
+Cyber shotgun
+4 (6)
+10P
+–1
+SS
+—
+4 (m) / 10 (c)
+Cyber microgrenade launcher
+4 (6)
+as Grenade
+as Grenade
+SS
+—
+2 (m) / 6 (c)
+458    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p464 =====
+BIOWARE
+Bioware is subtler, more holistic, and less invasive than 
+cyberware, at the cost of being substantially pricier. In-
+stead of replacing body parts with machines, bioware 
+augments the body’s own functions and integrates trans-
+planted organs that function as natural features. The 
+application of biotechnology is a tricky business, as the 
+fine balance of homeostasis between the body’s organic 
+systems must be maintained. In the last decade, bionics 
+and bio-engineering techniques have taken bioware from 
+cutting edge to commonplace. Bioware is more expen-
+sive monetarily, costs less Essence, and is much harder to 
+spot. Also—and we’d like to think this goes without say-
+ing—bioware has no wireless capability at all.
+Adrenaline pump: This enhanced gland is implanted 
+in the lower abdomen, connected to both supradrenal 
+glands. When dormant, the pump is merely a reservoir 
+for adrenaline. When activated, a small muscular sac con-
+tracts, sending a surge of concentrated adrenaline into 
+the blood stream. Physical and emotional stress can force 
+your pump to activate if you fail a Composure Test (p. 
+152); otherwise you can trigger it as a Free Action.
+While the pump is active, you ignore injury modifiers 
+and don’t fall unconscious, even if your Stun Condition 
+Monitor is filled. You can’t rest, but the adrenaline pump’s 
+Rating is added to your Strength, Agility, Reaction, and 
+Willpower attributes. The pump works for Rating x 1D6 
+Combat Turns (the pump can’t be switched off early). 
+When time’s up, you crash and take Stun damage equal 
+to the number of Combat Turns the pump was active (use 
+your natural Body + Willpower to resist the damage).
+After the effects end, your attribute values return to 
+normal and you stop ignoring injury modifiers or uncon-
+sciousness from Stun damage. After use, the pump re-
+quires 1 hour to regenerate its supply. During that time, it 
+cannot be activated.
+Bone density augmentation: The molecular struc-
+ture of your bones is altered to increase density and 
+tensile strength. Ligaments are strengthened, and the 
+increased bone density increases your weight a bit. Your 
+Body attribute is increased by the bone density Rating 
+for the purpose of damage resistance tests. You also 
+deal Physical damage in unarmed combat, based on the 
+Rating of the augmentation (see the Bone Density Aug-
+mentation table). Bone density augmentation is incom-
+patible with other augmentations to the bones, includ-
+ing bone lacing cyberware.
+Cat’s eyes: These transgenic vat-grown implants are 
+very literally cats’ eyes with a modified DNA profile and 
+occipital connecting structures. The structure of cat’s eyes 
+amplifies light and enhances night vision, providing low-
+light vision. Cat’s eyes are slit and reflective, just like, well, 
+a cat’s. This bioware is obviously not compatible with cy-
+berware eye enhancements or replacements.
+Enhanced articulation: A number of procedures like 
+joint-surface coating, re-lubrication, and tendon and 
+ligament augmentation lead to more fluid muscle and 
+joint action. Enhanced articulation provides you with a 
++1 dice pool modifier to your Escape Artist skill and a 
++1 increase to your Physical limit (cumulative with other 
+limit modifiers).
+Muscle augmentation: This biological weaving treat-
+ment enhances existing muscle tissue, rather than replac-
+ing it with vat-grown muscles. Specially grown muscle 
+cables are woven into existing muscle fibers, enhancing 
+muscle mass and brute strength while providing a bulk-
+ier look. Muscle augmentation adds its rating to your 
+Strength. This bioware is incompatible with augmenta-
+tions that increase Strength, including the muscle re-
+placements cyberware.
+Muscle toner: This treatment increases muscle fi-
+ber elasticity in existing muscle tension, resulting in in-
+creased muscle tension and flexibility while providing a 
+smooth and ropy physique. Muscle toner adds its rating 
+to your Agility. This bioware is incompatible with aug-
+mentations that increase Agility, including the muscle 
+replacements cyberware.
+Orthoskin: A web of biofibers in the skin provides the 
+equivalent of personal armor while being virtually indis-
+tinguishable from natural skin. Orthoskin adds its Rating 
+to your Armor Rating, and is cumulative with other Ar-
+mor. Orthoskin cannot be combined with skin augmenta-
+tions that give you Armor, including dermal plating.
+Pathogenic defense: This enhanced spleen can pro-
+duce more effective and aggressive white blood cells for 
+combating pathogens. Pathogenic defense adds its Rating 
+to Disease Resistance Tests.
+Platelet factories: Platelet factories increase your 
+body’s ability to handle Physical damage by accelerat-
+ing the production of platelets within bone marrow and 
+their concentration in the blood, which helps stop bleed-
+ing faster. Any time you would take 2 or more boxes of 
+damage to your Physical Condition Monitor, reduce the 
+damage by one box.
+Skin pocket: This skin flap can be located anywhere 
+on your body. A nerveless “sheath” of flesh concealed 
+by the flap is perfect for hiding a small object—it’s the 
+bioware version of a smuggling compartment (p. 455). 
+The skin pocket has a Concealability of –10. It takes a 
+Complex Action to add or remove an item from a skin 
+pocket.
+Suprathyroid gland: Placed on top of your existing 
+thyroid gland, the suprathyroid gland supersedes the met-
+abolic functions of your thyroid. The enhanced metabolism 
+produces more energy, supercharging you. While you’re 
+supercharged, you might want to supersize—to fuel your 
+optimized metabolism, you’ll need to eat twice as much as 
+normal. You get a +1 to your Agility, Body, Reaction, and 
+Strength, along with a 25 percent boost in lifestyle costs. 
+And you might get a bit hyperactive.
+Symbiotes: Tailored micro-organisms in your blood-
+stream greatly enhance your healing. Add the Rating of 
+the symbiotes as a dice pool modifier on healing tests 
+>> STREET GEAR <<
+<< Electronics    459
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p493 =====
+Throwbacks, SR5 232, 421
+Through and through—and into shot, RG 117-18
+Throw person, RG 123, 141, 142
+Throwing
+	
+knife, SR5 181, 424
+Throwing weapons, SR5 132, 181, 423, 424
+	
+in space, RG 164
+	
+table, 204
+Thugs, SR5 381
+	
+life, RF 26
+Thunder strike, RG 141
+Thunderbird, SR5 324
+Thundercloud 
+Morgan, R5 52-53
+Mustang, R5 46-47
+Ti khao, RG 141
+Ticker, DT 56
+Tiffani Élégance shooting bracers, RG 28
+Tiffani-Defiance Protector taser, RG 29
+Time, passage of, SR5 49
+Timer detonator, RG 195-96
+Timer method, scenario switching, DT 176-77
+Tír Ghosts, SR5 384
+Tír na nÓg, RF 49, 67; SG 13-14, 
+	
+26, 31, 37, 47;  RG 90
+Tír Tairngire, DT 24; RF 49, 67; 
+	
+RG 90; SR5 25, 40
+	
+blocking Monads citizenship, CF 221
+	
+details, RF 67
+	
+tour of duty, RF 82-83
+Tire(s) 
+	
+modifications, drone, R5 126
+	
+special, R5 153
+Tirtlenet, DT 24
+TLE-X, CF 59
+TNT, RG 194
+Toadstone, CF 186
+Toggling, SR5 421
+Tomahawk, RG 25
+Toms, Malik, R5 7
+Tongkang Gala Trinity, R5 155
+Too much data, R5 34
+Too pretty to hit, RG 127
+Tools, R5 30; RG 88, 102-5; SR5 443
+	
+buying table, RF 254 
+	
+cleansers, SG 230
+	
+kit, R5 153
+Toolbox, SR5 269
+	
+program, SR5 245
+Tooth compartment, SR5 452
+Totem form, SG 157
+Touch
+	
+link, CF 85, 86
+	
+power, SR5 394
+	
+spells, SR5 306
+Touch sensors, R5 169
+Touch-only attack, RG 124; SR5 187
+Tough as nails, RF 150
+Tough and targeted, CF 60
+Toughness, SR5 77
+Tourist pack/table, RF 239
+Toxic adepts, SG 85-86
+Toxic magic, SG 80-81, 84-87
+Toxic mentor(s), SG 69 
+	
+spirits, SG 85
+Toxic spirits, SG 87-89
+Toxic strike, SG 176
+Toxic wave, SR5 283
+Toxin(s), SR5 408, 409-10
+	
+costs, SR5 409
+	
+extraction of, SR5 460
+	
+resistance to, SR5 77
+	
+using, SR5 409
+Toxin and drug protection table, SR5 408
+Toxin resistance test, SR5 408
+Toyota 
+Gopher, R5 155; SR5 463
+Talon, R5 55-56
+Traceless walk, SR5 311
+Tracer rounds, SR5 434
+Tracheal filter, SR5 460
+Track(ing), SR5 134
+IC, SR5 249
+	
+program, SR5 246
+	
+strip, R5 153
+	
+using, SR5 137
+Trackback action, DT 179
+Tracked propulsion, R5 157
+Tracker ammo, RG 55
+Tractor/trailers table, R5 186
+Trade school. RF 75, 76; R5 35
+Training rate table, SR5 105, 107
+Trainwreck, RF 84-86
+Tranq 
+	
+darter pack/table, RF 234
+	
+patch, SR5 451
+Trance, CF 186
+Transcendent grid, SR5 253
+Transference, CF 53
+Transgenic alteration, CF 164-65 
+	
+table, CF 165
+Transgenics, CF 160-62, 166-67 
+	
+tables, CF 162, 167, 238
+Transitions, SR5 337-38
+Translate, SG 106
+Translate-ear, CF 75
+Transmit phrase, SR5 164
+Trans-Oceanic Mining host, DT 91
+Trans-Polar Aleut Nation, RF 67
+Transponder-embedded keys, SR5 363
+Transportation, R5 19-23; SR5 43
+Transporter, SR5 75
+TransUnion Intercorp Searchnet, SG 19
+Transys Steed, R5 140-41
+Trap ward,  SG 137
+Traps, SR5 358
+Trauma 
+	
+control system, CF 148
+	
+damper, CF 119
+	
+patch, SR5 451
+Traveler lifestyle, RF 217, 218
+Traveling overwatch, RG 102
+Treading water, SR5 137
+Tremor reducer, CF 119-20
+Triads, RF 25, 206; SR5 33, 34, 383
+	
+Johnson (Mr.) from, RF 208
+Trick shot, RG 102; SR5 196
+Tricking, RG 141
+Trickster spirits, SG 189
+Trid
+	
+entertainment illusion, SR5 290-91
+	
+phantasm, SR5 291
+	
+pirate, RF 195
+	
+projection, SR5 439
+	
+stunt driver, R5 35
+Trideo, DT 17-18;  SR5 15, 40
+Trimline, CF 176
+Trip beams, SR5 364-65
+Tripchips, SR5 413
+Tripod, SR5 433
+Tripoli hot zone, RG 153-54
+Trodes,  DT 18; SR5 216, 439
+Trog, SR5 15
+Trojan Nanites, CF 144
+Troll(s), RF 52, 93-95; SR5 34, 50-51
+	
+characters and, RF 53
+	
+eyes, CF 115
+	
+finger popper shot, RG 118
+	
+reduction, CF 108
+	
+society and, RF 53
+	
+street samurai, SR5 110
+Troll Republic, RF 51, 52-53
+Tropes, DT 170
+Trucks, R5 20; SR5 463-64
+	
+table, R5 185
+True Hackers, Lusers & Dirtballs, DT 26
+True names, SG 203
+TrueHacker, DT 29, 30
+Trust, RF 17
+Trust fund, RF 151
+Trustworthy, RF 151
+Tsimshian Protectorate, RG 155; SR5 25
+Tsung, Sally, SR5 24
+Tunisia, SR5 27
+Turkestan Border, RG 154
+Turkish archery, RG 134
+Turn to goo, SG 119
+Turning Lead into Nuyen, SG 208
+Tusk(s), CF 121-22
+Tusker, SR5 15
+	
+toughskin pack/table, RF 237
+Tutorsofts, SR5 443
+Twist(s), SR5 343
+	
+table, SR5 343
+Twisted arts, SG 87
+Twisted way, SG 84-85
+Two-headed snake, RG 141
+Two-weapon 
+	
+attack, RG 141
+	
+defense, RG 141
+Type-O transplants, CF 98, 194-95
+U
+Ultimate Fighting Championship, SG 64
+Ultimax 70 machine pistol, RG 35
+Ultra-glide industrial lubricant, RG 104
+Ultramarine Kingfisher, R5 92
+Ultramax HMG-2, RG 45
+Ultramax MMG, RG  44
+Ultrasound, SR5 446
+	
+sensor, SR5 452
+Ulysses coat, RG 58
+Unable to speak, SG 220
+Unarmed situations
+	
+attack, SR5 167
+	
+combat, SR5 132
+Unbound spirit services, SR5 302
+Uncanny healer, CF 56
+Uncertainty, DT 160
+Unclassifiable, RF 16
+Uncouth, SR5 85
+Undecided way, SG 156
+Underbarrel 
+	
+bola launcher, RG 53
+	
+chainsaw, RG 53
+	
+flamethrower, RG 53
+	
+grapple gun, RG 53
+	
+grenade launcher, RG 53
+	
+weight, RG 53
+Undercover cop, RF 167
+Undergraduate schools, SG 15-16 
+Underwater 
+	
+combat, RG 158
+	
+habitats, RG 160-61
+	
+hazards, RG 156-58
+	
+magic, RG 158-59
+	
+perception modifiers, RG 157
+	
+protection, RG 79-80
+	
+visibility table, RG 157
+	
+vision, RF 118
+Underworld, DT 175-76
+Uneducated, SR5 87
+	
+critter, SR5 401
+Unexplained Genetic Expression (UGE), 
+SR5 20
+United Canadian and American States 
+(UCAS), RF 51, 66 RG 155; SG 26-27, 29, 33, 
+68, 74; SR5 21, 24-25, 38, 419
+	
+details, RF 66
+Monads, AI citizenship, CF 212
+normal in, CF 206
+	
+Online, DT 24
+	
+tour of duty, RF 83
+United Kingdom, RG 155; SR5 27
+United Netherlands, RG 155
+United Talismongers Association, SG 58
+Universal data connection, SR5 232
+Universal environmental protection, RG 75
+Universal Hovercraft Minnesota, R5 65
+Universal mirror material, RG 84, 86
+Universal Omnitech, CF 71, 106-7
+	
+head cases, CF 17
+Universal sealant, CF 154-55
+Universities, SG 16-17; SR5 35
+University of Washington, SR5 35
+Unknown, SG 81-84
+UnlimiTech, CF 202
+Unseen arts, SG 149-50
+Unseen beings theory, SG 39-40
+Unsteady Hands, SR5 87
+Unusual hair, RF 122
+Unwanted cerebral revision
+	
+legal ramifications of, CF 218-19
+	
+legal ramifications of copies, CF 219
+Up the ante shot, RG 118
+Up close and personal pack/table, RF 230
+Upper arm hits, RG 114
+Upper BTL, CF 192
+Urban brawler, CF 61
+Urban Explorer jumpsuit, SR5 437
+Ursine shapeshifter, RF 100-101
+Use 
+	
+sensors, R5 177
+	
+simple device, R5 177
+Used car salesman, RF 195
+Used goods (specific item), RF 222
+Usenet groups, SG 23
+UV host, DT 161
+	
+actions in, DT 161-62
+UV lighting, RF 134
+Uzi IV, SR5 428
+V
+V/STOL, R5 103-6
+Vacation-on-a-ship pack/table, RF 240
+Valentino, Marco “Red Sauce,” CF 38
+Valkyrie module, R5 166
+Vampire, RF 125-31, 140; SR5 406
+Vanguard spirits, SG 189
+Vans, SR5 463-64
+	
+table, R5 185
+Variance, DT 117-18
+sample, DT 117
+Varma, Adi, SG 46
+Vashon Island, RG 58, 60, 61
+Vasocon, CF 162
+Vatjob, SR5 15
+	
+packs, RF 242
+Vector, SR5 408
+Vectored Signal Filter, DT 65
+Vegas Technomancer Massacre, DT 72
+Vehicle(s), SR5 461, 463
+actions, R5 174-77
+assembly/disassembly, R5 163
+body modifications, R5 163-66
+body modifications/table, R5 163-67
+called shot on, SR5 205
+chameleon coating,R5 163-64
+chase example, R5 176
+combat, DT 156-57; SR5 198-99, 202
+combat example, R5 180, 182
+control, R5 174; SR5 203
+cosmetic modifications, R5 169-71
+damage, SR5 205
+damage threshold, RG 179
+disabling, RG 189
+drone support, RG 93
+ejection seats, R5 164
+electronic modifications/table, R5 166-69
+empathy, RF 151
+equipment/table, R5 152-53, 154
+erasing explosive fingerprints, RG 189
+	
+explosive and, RG 185-89
+	
+extra entry/exit points, R5 164
+	
+extreme environment modification, R5 164
+	
+fire weapon, SR5 203
+	
+hits, RG 115
+	
+increased seating, R5 164
+	
+life support, R5 164
+	
+make test for, SR5 203
+	
+mask, SG 113
+	
+mechanical arm, R5 165
+	
+modifications, SR5 461
+	
+modifiers, SR5 201
+	
+-mounted weapons, SR5 176
+	
+nanomaintenance system, R5 165 
+	
+packs, RF 247-48
+	
+range, R5 174
+	
+realistic features, R5 165
+	
+similar models of, SR5 462
+	
+skills, SR5 146-47
+	
+smuggling compartment, R5 165
+	
+special equipment, R5 165-66
+	
+speed, SR5 199, 200
+	
+speed table, SR5 203
+	
+stats, SR5 199
+	
+suppressive fire and, SR5 200
+	
+tag eraser, R5 171
+	
+test(s), R5 177; SR5 199
+	
+test modifier table, SR5 201
+	
+test threshold table, SR5 199
+Valkyrie module, R5 166
+	
+weapon fire, SR5 167
+	
+winch, R5 166
+	
+workshop, R5 166
+Vehicle modification, R5 151-52
+	
+adding example, R5 152
+	
+core, R5 155
+	
+parts and plan, R5 151
+	
+power train, R5 154
+	
+protection, R5 159
+	
+removing, R5 152
+	
+skill, R5 151
+	
+slots, R5 151-52
+>> SHADOWRUN, FIFTH EDITION MASTER INDEX <<
+488    shadowrun, fifth edition master index >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p494 =====
+	
+table, R5 160
+	
+tools, R5 151
+Vendetta, RF 159
+Vengeance, SG 80
+Venom, SR5 401
+Versception, CF 176
+Vertigo, CF 182
+Vessel(s)
+	
+dead/inanimate, SG 197 
+	
+free spirit trading, SG 205
+	
+living, SG 197
+	
+spirits and, SG 192
+Vestigial tail, RF 123
+Vibration detectors, SR5 365
+Victoria Falls, SG 30
+Vigilant Iron Schooling House, SG 60
+Vigor Sanguis, SG 66
+Villiers, Richard, SR5 31
+Vindictive, RF 158
+Vintage, RF 175
+Violating strictures, SG 130-31
+Violence, SG 31; SR5 333
+Virally Induced Toxic Allergy Syndrome 
+(VITAS), SR5 42
+Virtuakinetic abilities, CF 138
+Virtual machine, SR5 269
+	
+program, SR5 245
+Virtual reality (VR), DT 9-15; SR5 54, 216, 217
+	
+pilot using, SR5 201
+	
+rigging and, SR5 266
+Virtual stability AI, DT 151
+Viruses, SR5 42
+Visibility, SR5 174
+	
+weapon mount, R5 163
+Vision
+	
+enhancement(s), SR5 444, 453
+	
+magnification, SR5 444, 446, 453
+Visions of Zosimos, SG 128
+Visualizer, CF 81, 82
+Vitalite, CF 181
+Vitals, SR5 196
+VitaMax, CF 176
+Vodou, SG 20, 50
+Vocal range enhancer, CF 115-16
+Vodyanoy Assault Hovercraft, R5 65-66
+Voice
+	
+control, SR5 311
+	
+mask, CF 81, 82
+	
+mimic, CF 152
+	
+modulator, SR5 452
+	
+recognition, SR5 364
+Vomeronasal organ, RF 118-19
+Vory, RF 206
+	
+Johnson (Mr.) from, RF 206
+Vory v Zakone, SR5 33, 34
+VTOL/VSTOL, SR5 465
+Vulkan Electronaut, SR5 464
+Vulnerability, critter, SR5 401-2
+Vulpine shapeshifter, RF 101
+W
+W Zone, RF 226
+Wagemage, RF 77; SR5 15
+Wageslave, RF 77; SR5 15
+WagonWheel Outreach Program, CF 28
+Wakyambi, RF 96-97
+Walk and Talk Like a Monkey (Wat-lam), 
+DT 160-61
+Walker propulsion, R5 157
+Walk-in freezerm RF 224
+Walking, SR5 161-62
+Walking the Light, SG 128
+Walking People, The, DT 43
+Wall, SG 115 
+	
+running, SR5 311
+Walters, Allen, R5 13
+Wanted, RF 159 
+	
+by GOD, DT 49
+Ward(s), SR5 297
+	
+combining traits, SG 135
+	
+fooling, SG 135
+	
+masking, SG 135
+	
+obfuscating, SG 135-36
+	
+trap, SG 137
+Warden, CF 180
+	
+spirits, SG 188-89 
+Warning shot, RG 118
+Warps, SG 31
+Warrior foundation, CF 190
+Warrior’s way, SG 159
+	
+adept, SG 168-69, 178
+Washington, DC, SG 28
+Wasp spirit, SG 96
+Watada, Aleksya “Spider,” R5 14
+Watcher, SR5 298
+Water 
+	
+damage, SG 105
+	
+jet, CF 89, 90
+	
+spirit, RG 159
+	
+sprite, RF 151
+Water Engulf, SR5 396
+Watercraft, SR5 465
+	
+actions, R5 179
+	
+speed of, SR5 200
+	
+table, R5 187
+Watergate Rift, SG 28
+Watermark, SR5 257
+Wave Works, R5 79
+Weak 
+	
+immune system, SR5 87
+	
+side, SG 220
+Wealth
+	
+free spirit, SG 205
+	
+redistribution, DT 172
+Weapon(s)
+	
+accuracy of, SR5 168
+	
+commlink, RG 53
+	
+cybernetic, CF 69
+	
+expanded  ammunition bay, R5 124-25
+	
+firing modes of, SR5178-80
+	
+foci, SR5 320
+	
+launcher, CF 91, 92
+	
+modifications, R5 162; RG 51
+	
+mounts, R5 163; SR5 461-62
+	
+mounts, drone, R5 124
+	
+packs, RF 229-35
+	
+penetration, SR5 198
+	
+personality, RG 53-54
+	
+pop-out mounts, R5 124
+	
+reach of, SR5 186
+	
+ready, SR5 165
+	
+reloading, SR5 163
+	
+repairs, RG 143
+	
+reservoir, CF 112
+	
+specialist, RF 80; SR5 118
+	
+throwing, SR5 132, 166, 181
+	
+vehicle/drone mounted, SR5 176
+Weapon accessories, RG 50
+	
+advanced safety system, RG 50
+	
+bayonet, RG 50-51
+	
+commlink, RG 53
+	
+concealed quick-draw holster, RG 51
+	
+extreme environment modification, RG 51
+	
+flashlight, RG 51
+	
+folding stock, RG 51-52
+	
+foregrip, RG 52
+	
+gecko grip, RG 52
+	
+guncam, RG 52
+	
+hip pad bracing system, RG 52
+	
+improved range finder, RG 52
+	
+peak-discharge battery packs,RG 52
+	
+personality, RG 53-54
+	
+safe target system, RG 52
+	
+slide mount, RG 52
+	
+sling, RG 52
+	
+tracker, RG 53
+	
+underbarrel, RG 53
+Weaponized nanotech, CF 155 
+	
+table, CF 155
+Weather Control, SR5 401
+Webbed digits, RF 119
+Webbing, hand and foot, CF 113
+Wellesley College, SG 17
+Western dragons, SR5 407-8
+Wetware, DT 152
+Wheeled warrior, CF 88, 89
+“Where Few Dare to Tread, SG 6-9
+Whip fighting, RG 134
+Whipcrack, CF 175
+Whisper of bones, SG 137
+White biotech, CF 97-98
+White collar, RF 69
+White hats, RF 27
+White noise generator, SR5 441
+Who You Know, RF 172
+Whodunit, DT 174
+Wicca, SG 20, 50-51, 76
+Wide area network(s) (WANs), 
+	
+SR5 216, 233, 358-59
+	
+rigger style, SR5 268
+Wild Hunt, RG 63
+Wild spirits, SG 191
+Wildcat, RG 134
+Willpower, SR5 62, 90, 133, 142, 151
+Wilma, R5 41
+Winch, R5 166
+Wind, SR5 174-75
+Wind River Corporation, CF 49
+Winded, SG 220
+Windows, SR5 363
+Winter, Ryanne, SG 46
+Winterhawk, SG 25, 79
+Wirasaup, Franklin, CF 49
+Wire, SR5 364
+	
+packs, RF 239 
+Wired, SR5 15
+	
+reflex optimization, CF 165-66
+	
+reflexes, SR5 455
+	
+security, SR5 360
+Wireless
+	
+bonuses, SR5 421
+	
+functionality, SR5 420-21
+	
+skillsoft networks, CF 78
+	
+smartgun, SR5 178
+Wireless link
+	
+detonation, SR5 181
+	
+projectile triggers, SR5 182
+Wireless Matrix Initiative, CF 67
+Wireless War of ’74, CF 77-79
+Wires table, CF 78
+Wise Warrior, SR5 324
+Witch’s moss, SG 220
+Witchcraft, SG 20
+Witness, DT 174
+Witness my hate, RF 151
+Wiz, SR5 15
+Wizard, SR5 15
+Wizworm, SR5 15
+Woad, CF 184
+Wolf, SR5 324, 403
+Wolverine, CF 202
+Wombat, RG 56
+World of Wheels, R5 41
+World in Your Pocket, The, DT 8
+Worker, SG 99
+Working, SR5 28-29
+Workshop/facility, RF 224
+Wound modifiers, SR5 169-70
+Wraith,  SG 92
+Wrapper, SR5 269
+	
+program, SR5 246
+Wreck, SG 105
+Wrestling
+MMA, RG 135
+	
+professional, RG 134
+	
+sport, RG 134 
+	
+sumo, RG 134
+Wright, CZ, DT 5
+World population breakdown, RF 45
+Worlds traveler pack/table, RF 239
+Wu Lung-Wei, SR5 32
+Wudang sword, RG 135
+Wudu’aku, CF 187
+Wuken, SG 13
+Wuxia, code of, RF 27-28
+Wuxing Incorporated, SG 18, 51-52; 
+	
+SR5 22, 26, 32, 33
+	
+arcane foci, CF 202
+	
+demiGOD in, DT 75-76
+	
+head cases and, CF 17
+Johnson (Mr.) from, RF 206
+Monads grid messages and, CF 217-18
+Monads, AI temporary citizenship, CF 221
+	
+normal in, CF 208
+Prosperity, CF 27, 29
+Wuxing Worldwide Shipping, DT 21-22, 103
+X
+Xapiri thëpë, RF 97
+X-Cite, CF 186
+Xenogenetic materials, CF143
+Xenogenetics, CF 138
+Xenosapient AI, CF 20-25
+Xenosapients, DT 135-36
+Xerxes Positive Research, SG 19
+Xiao MPG-1, DT 62, 64
+Xiao-Renraku v. Horizon, DT 133
+Y
+Yachts, R5 21
+Yak Killer, DT 64
+Yakashima, CF 105
+Yakuza (Yak), DT 90; RF 206; 
+	
+SG 19; SR5 15, 25, 33, 34, 383
+	
+Johnson (Mr.) from, RF 208
+Yamaha
+Growler, R5 155; SR5 462
+Kaburaya, R5 44
+Nodachi, R5 45-46
+Raiden, SR5 428
+Yamana, Korin, SR5 32
+Yantra tattoos, SR5 319
+Yard, RF 224
+Yerzed out, R5 171
+Yielding force, RG 141
+YNT softweave armor, RG 84, 86
+Yongkang Gala Trinity, SR5 464
+Yord Mongkut, SR5 319
+Yorkshire Fringe Toxic Zone, RG 155
+Yucatan, RG 155
+Yuki, RF 24
+Z
+Z, DT 29
+Zaibatsu, SR5 15
+Zapper strip, R5 152-53
+Zen, SR5 412
+	
+control, R5 177
+	
+den, RF 224
+Zero, CF 184
+Zero gravity, RG 162
+movement in, RG 163
+Zero-Zone, DT 74
+Zeta-Imperial Chemicals, CF 201; DT 100
+Zion Amalgamated, CF 71, 105-6
+Zodiac Scorpio, R5 82-83
+Zoé, RG 61
+Zombie Dust, CF 187
+Zone, CF 184
+Zoroastrianist tradition, SG 52-53
+Zulu Nation, RF 49
+Zurich Orbital, RG 166
+	
+platform, DT 9
+Zuvembie Power, CF 186
+>> SHADOWRUN, FIFTH EDITION MASTER INDEX <<
+<< shadowrun, fifth edition master index    489
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p495 =====
+COMBAT ACTIONS
+FREE ACTIONS
+Call a Shot
+Eject Smartgun Clip
+Change Linked Device Mode
+Multiple Attacks
+Drop Object
+Run
+Drop Prone
+Speak/Text/Transmit Phrase
+SIMPLE ACTIONS
+Activate Focus
+Quick Draw 
+Call Spirit
+Ready/Draw Weapon
+Change Device Mode
+Reckless Spellcasting
+Command Spirit
+Reload Weapon (see table)
+Dismiss Spirit
+Remove Clip
+Fire Bow
+Shift Perception
+Fire Weapon (SA, SS, BF, FA)
+Take Aim
+Insert Clip
+Take Cover
+Observe in Detail
+Throw Weapon
+Pick Up/Put Down Object
+Use Simple Device
+COMPLEX ACTIONS
+Astral Projection
+Melee Attack
+Banish Spirit
+Reload Weapon (see table)
+Cast Spell
+Rigger Jump In
+Fire Weapon (FA)
+Sprint
+Fire Long or Semi-Auto Burst
+Summoning
+Fire Mounted or Vehicle Weapon
+Use Skill
+INTERRUPT ACTIONS
+Block
+Hit the Dirt
+Dodge
+Intercept
+Full Defense
+Parry
+SOCIAL SKILL TESTS
+CHARACTER ROLL
+TARGET ROLL
+Con + Charisma [Social]
+Con + Charisma [Social]
+Etiquette + Charisma [Social]
+Perception + Charisma [Social]
+Impersonation + Charisma [Social]
+Perception + Intuition [Mental]
+Intimidation + Charisma [Social]
+Intimidation + Willpower [Social]
+Leadership + Charisma [Social]
+Leadership + Willpower [Social]
+Negotiation + Charisma [Social]
+Negotiation + Charisma [Social]
+Performance + Charisma [Social]
+Charisma + Willpower
+SUCCESS TEST THRESHOLDS
+DIFFICULTY
+THRESHOLD
+Easy
+1
+Average
+2
+Hard
+4
+Very Hard
+6
+Extreme
+8–10
+EXTENDED TEST THRESHOLDS
+DIFFICULTY
+THRESHOLD
+Easy
+6
+Average
+12
+Hard
+18
+Very Hard
+24
+Extreme
+30+
+EXTENDED TEST INTERVALS
+TASK
+TIME INTERVAL
+Fast
+1 Combat Turn
+Quick
+1 minute
+Short
+10 minutes
+Average
+30 minutes
+Long
+1 hour
+Consuming
+1 day
+Exhaustive
+1 week
+Mammoth
+1 month
+MELEE MODIFIERS
+SITUATION
+DICE POOL 
+MODIFIER
+Attacker making charging attack
++2
+Attacker prone
+–1
+Attacker making a Called Shot
+–4
+Character attacking multiple targets
+Split dice pool
+Character has superior position
++2
+Character using off-hand weapon
+–2
+Attacker wounded
+–wound modifier
+Defender receiving a charge
++1
+Environmental modifiers
+Use the Light  
+and Visibility
+Attacker has friends in melee
++1 or Teamwork
+Opponent prone
++1
+Touch-only attack
++2
+INITIATIVE ATTRIBUTE CHART
+INITIATIVE TYPE
+ATTRIBUTES
+BASE INITIATIVE DICE
+Physical
+Reaction + Intuition
+1D6
+Astral
+Intuition x 2
+2D6
+Matrix: AR
+Reaction + Intuition
+1D6
+Matrix: cold-sim VR
+Data Processing + Intuition
+3D6
+Matrix: hot-sim VR
+Data Processing + Intuition
+4D6
+Rigging AR
+Reaction + Intuition
+1D6
+490    TABLES >>
+P. 162
+P. 141
+P. 48
+P. 187
+P. 45
+P. 48
+P. 159

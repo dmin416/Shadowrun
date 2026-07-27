@@ -1,0 +1,1340 @@
+
+
+===== PAGE 18 =====
+For some of us, talking about having “enough weap-
+ons” is like talking about having “enough money.” Peo-
+ple who don’t understand think you should just stop 
+collecting at a certain point, because enough’s enough, 
+right? Except it’s not. As long as there is someone out 
+there who might have enough to take you out, you 
+don’t have enough. In certain circles, accumulating 
+more is not about greed—it’s about survival.
+We’re going to run down a few dozen weapons here, 
+tools for every kind of situation. Choose wisely, train 
+hard, and save your nuyen so that you can buy what you 
+need and use it right. If you need more of an explanation 
+than that, then do us all a favor and don’t buy anything 
+more powerful than a BB gun until you take a class or 
+something. For the rest of us, here’s a guide to some of 
+the things that are out there.
+BLADES
+HIGHLAND FORGE CLAYMORE
+Quality killing in the classic Scottish fashion. An ideal 
+accessory for your Heritage Line clothing or for the troll 
+who thinks a regular sword makes a better toothpick. 
+The Highland Forge Claymore comes with a classic 
+leather scabbard to add that authentic look. The blade 
+is custom-forged with a proprietary technique even the 
+masters of Damascus would be unable to match.
+>	
+The classic leather scabbard can’t be drawn off the back 
+of anyone smaller than a troll. The blade is just too long 
+to clear the scabbard. Get a quickdraw sheath if you 
+aren’t a troll.
+>	
+Hard Exit
+>	
+While the Highland Forge model claymore disses the 
+samurai, the same megacorp that produces it also 
+produces the Nippon Steel Nodachi, a samurai-style 
+extra long blade. 
+>	
+Mihoshi Oni
+HORIZON-FLYNN RAPIER
+Not every street samurai studies the art of kenjutsu. 
+Some prefer the more elegant Fiore dei Liberi and thus 
+choose the rapier over the common katana. Horizon 
+and world-renowned bladesmith Dante Flynn have 
+joined forces to create the ultimate tool for slipping 
+past a flawed defense and finding a home in the heart 
+HIGHLAND FORGE
+CLAYMORE
+HIGHLAND FORGE CLAYMORE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+2
+(STR + 5)P
+–5
+14R
+4,500¥
+The standard scabbard of the Highland Forge 
+requires a Complex Action to Ready Weapon.
+RUN & GUN
+ARSENAL
+18    ARSENAL >>
+
+
+===== PAGE 19 =====
+of an enemy. The Horizon-Flynn blade is a slender com-
+posite designed for strength, flexibility, and stability for 
+maximum armor penetration. 
+>	
+The fact that Horizon has joined up with anyone to create 
+a killing tool seems strange. It actually makes me feel like 
+maybe they are just another mega and not something far 
+more diabolical. 
+>	
+Netcat
+>	
+Very likely the intent of this partnership. Horizon plays 
+so nice in so many areas, having a branded killing tool 
+seems to ground them with the rest of the evil megacorps. 
+Also gets people to talk about something besides killing 
+technomancers and backing the losers of the Azt-Am War.
+>	
+Slamm-0!
+VICTORINOX MEMORY BLADE
+Is it a belt, or is it a deadly weapon? A strange ques-
+tion, but one you must ask yourself when it comes to 
+the Memory Blade. Victorinox uses their SmartSteel 
+technology to provide a flexible material that can be 
+commanded to stiffen and form a blade. They current-
+ly have two “self-defense” designs available for special 
+order. The Belt, a sword length design worn around the 
+waist, and the Bracelet, a design aimed at lady execs 
+who want a little extra protection. Mostly found on 
+executives with too much money, they often find their 
+way into the shadow market after extraction ops. 
+>	
+With a good decker you can modify the basic shape if you 
+don’t want a bracelet or belt. It takes a little bit of skill, 
+but a few Matrix jockey’s have uploaded pre-programmed 
+codes to various sites to reshape them as anklets, 
+bandoliers, connected rings, armbands, even one that 
+turns the sword blade into a full shoe. You need two of the 
+shoes if you want it to look right, but damn is that creative.
+>	
+Stone
+ARES “ONE” MONOSWORD
+“There can be only One” is Ares latest slogan for this 
+classic. This tool of the modernized street samurai fea-
+tures a monofilament line along the edge that provides 
+unmatched penetration potential.
+HORIZON-FLYNN RAPIER
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+7
+1
+(STR + 2)P
+–3
+9R
+500¥
+ARES ‘ONE’ MONOSWORD
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+(STR + 3)P
+–3
+8R
+900¥
+VICTORINOX MEMORY BLADE
+SWORD
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+(STR + 2)P
+–2
+14R
+1,500¥
+DAGGER
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+—
+(STR + 1)P
+–2
+14R
+1,250¥
+The weapon’s sheath can be formed into a piece of clothing 
+or put in some other appropriate place to hide the weapon. If the 
+weapon’s grip is concealed as well the Concealability modifier is 
+–4 in order to detect the weapon. The memory blade requires a 
+Complex Action to harden or become flexible again in addition to 
+the Simple Action for readying or drawing the weapon.
+Changing the shape of the blade requires a Software + Logic 
+[Mental] (8, 1 minute) Extended Test.
+<< Blades    19
+
+
+===== PAGE 20 =====
+COUGAR FINEBLADES
+Finely crafted but also expensive, the Fineblade line of 
+Cougar products are usually only found in the hands 
+of professionals where they belong. They come in two 
+designs, a long blade, currently crafted in the fashion of 
+a gladius; and a short blade, currently fashioned after 
+the Bowie knife. Previous years’ designs have run the 
+gamut since the introduction of the original Fineblade 
+back in the ‘50s.
+CLUBS
+NEMESIS ARMS  
+MAUL STUN STAFF
+Double-sided zapping power! The stun staff is basical-
+ly a staff with stun batons on each end. They’re rather 
+large and a bit ugly but they look quite intimidating in 
+the hands of the guards at Shiawase HQ. 
+EXOTIC MELEE 
+WEAPONS
+GARROTE
+This can be as simple as a string attached to a pair of 
+pencils but is usually a far more professional tool. The 
+garrote is a handheld weapon designed to quietly kill 
+via strangulation. The weapon consists of a central 
+string, usually a semiflexible wire of some sort, at-
+tached to a pair of handles used to pull the weapon 
+tight once it is wrapped around a targets neck. Death is 
+slow and unpleasant as the target usually struggles in-
+tensely, so a strong stomach and skill are both required.
+ARES “QUEEN OF HEARTS” 
+MONOFILAMENT GARROTE
+Leave it to Ares to make something deadly even dead-
+lier. The Queen of Hearts is the nickname for Ares’ 
+monofilament garrote that will often take a head right 
+off well before the target suffocates, though I’m certain 
+that was part of the intended design. Other megacorps 
+have copied the design, but Ares is by far the biggest 
+name out there.
+>	
+Beware mistakes. A misplaced pinky can be the difference 
+between a clean kill and a place on the dishonored 
+yakuza list. The Queen of Hearts and her sister models are 
+unforgiving on untrained fools. 
+>	
+Thorn
+BULLWHIP
+Whether it’s redirecting bulls, snagging wrists, or lash-
+ing infidels, the whip has seen an interesting history as 
+a tool, a showpiece, a torture device, and a weapon. 
+This versatility is both its greatest asset and its biggest 
+detriment. The training that is needed to use this weap-
+on is very specific, but a truly skilled individual can 
+perform feats with this item unmatched by any other 
+weapon. 
+COUGAR FINEBLADES
+SHORT
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+7
+—
+(STR + 2)P
+–1
+5R
+350¥
+LONG
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+7
+—
+(STR + 3)P
+–1
+7R
+600¥
+MAUL STUN STAFF
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+2
+9S(E)
+–5
+8R
+1,000¥
+GARROTES
+STANDARD GARROTE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+—
+(STR + 4)S
+–6
+—
+50¥
+MONOFILAMENT GARROTE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+—
+(STR + 6)P
+–8
+18F
+2,000¥
+Using a garrote requires and initial successful attack test to 
+get the weapon in place similar to subduing combat. The attacker 
+uses their Exotic Melee Weapon (Garrote) skill to initiate the 
+subduing. The attack must use the Called Shot Location modifier 
+and needs at least 1 net hit to succeed. After the weapon is in 
+place, the attacking character can choose to do the damage of 
+the weapon during their next Action Phase along with improving 
+their hold with another Attack Test or knocking the opponent to 
+the ground. 
+Breaking free of the garrote requires an Agility + Unarmed 
+Combat [Physical] Test with a threshold of the attacker’s net hits 
+on all attacks or a successful Knock Out of Hands called shot or 
+similar attack that breaks the attacker’s grip.
+>> ARSENAL <<
+20    Clubs >>
+
+
+===== PAGE 21 =====
+ASH ARMS COMBAT CHAINSAW
+It was popular culture in the late 20th century that 
+made the idea of wielding a tree-trimming tool as an 
+implement of death part of popular myth. After some-
+one made a flatvid film about a chainsaw-wielding kill-
+er in Texas and then slipped a fictional S-Mart model 
+over the stumpy forearm of a time-traveling fighter of 
+evil, the chainsaw somehow became thought of as a 
+sword with a spinning chain blade. Truth is, trying to 
+swing a chainsaw as a weapon is fragging ridiculous, 
+but that doesn’t stop niche market weapons manufac-
+turers from feeding the public hunger. 
+>	
+This model is decent with its special features that remove 
+some of the safety features located on most chainsaws, 
+but cheap street rats will still try and use their local 
+hardware store model in a fight. Most learn about their 
+mistake the hard way. 
+>	
+Hard Exit
+ASH ARMS  
+MONOFILAMENT CHAINSAW
+Monofilament makes everything better or so Ash Arms 
+would like us to believe. While the civilian model is ac-
+tually used for cutting things like concrete and sculpting 
+stone, that is just never enough. Ash has retooled the 
+monofilament cousin of the standard chainsaw as well 
+and made it into a unique weapon that has probably cut 
+off more limbs from brain-dead wielders than their in-
+tended victims. But boy is a successful hit awesome. 
+>	
+Same problems occur here when people try and use the 
+tools as the weapons. Darwin would be proud. 
+>	
+Butch
+BULLWHIP
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+2
+(STR + 1)P
++3
+6
+100¥
+A whip can be used to snare handheld objects, including 
+weapons, or to trip an opponent using the Called Shot rules (p. 
+195, SR5). Disarming or grabbing a held object requires a Blast 
+Out of Hands called shot with an additional Opposed Strength 
+Test to yank the item free and toward, instead of away from, the 
+attacker. The attacker must be within 2 meters of the opponent 
+and gains a +2 dice pool bonus to their Strength Test. Tripping an 
+opponent uses the Knockdown called shot. Again, the attacker 
+must be within 2 meters of the target.
+ASH ARMS CHAINSAWS
+COMBAT CHAINSAW
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+8P
+–4
+6R
+2,000¥
+MONOFILAMENT CHAINSAW
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+12P
+–8
+8R
+7,500¥
+Non-combat versions of the chainsaw and monofilament 
+chainsaw have their Accuracy reduced to 3, Damage Value 
+reduced by 2, Availability changed to 2 and 6R respectively, and 
+prices reduced to 150¥ and 1,500¥.
+ASH ARMS 
+COMBAT CHAINSAW
+>> ARSENAL <<
+<< Exotic Melee WEapons    21
+
+
+===== PAGE 22 =====
+SLEDGE
+HAMMER
+IMPROVISED 
+MELEE WEAPONS
+I’ve seen mannequins, snapped off tree limbs, chairs, 
+park benches, bottles, toilet seats, and manhole covers 
+all used as improvised weapons. And that was all just 
+yesterday in Redmond. Anything that can be swung 
+and has enough mass to knock some sense into the 
+misguided or an edge that can cut to the truth has been 
+used at one point or another in history to lay down the 
+hurt. These tools aren’t all perfect, and you can’t real-
+ly use them with much finesse or style. But if they’re 
+all that’s handy, swing that old iron frying pan and see 
+what momma’s got cookin’ in the kitchen.
+RANGED WEAPONS
+AQUADYNE SHARK-XS 
+HARPOON GUN
+Whether used to spear fish, defend against some of 
+the more aggressive denizens of the oceans, or remind 
+other sentient swimmers that what you’ve found be-
+neath the waves belongs to you, the Aquadyne Shark 
+can be a valuable asset. Powered by CO2 and possess-
+ing an internal magazine, the Shark doesn’t stop after 
+just one pull of the trigger, a feature that has saved 
+many a diver that trusted the Aquadyne brand. For the 
+sport fisherman, the Shark features the QuickClip line 
+system that makes setting up for the next catch faster 
+than ever.
+IMPROVISED WEAPONS
+WEAPON
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+Bottle (unbroken)
+3
+—
+(STR + 1)S
+—
+—
+—
+Bottle (broken, after first hit)
+3
+—
+(STR)P
+—
+—
+—
+Chain
+4
+2
+(STR + 1)P
+—
+—
+10¥
+Chair
+3
+1
+(STR + 2)S
+—
+—
+30¥
+Fork
+4
+—
+(STR – 1)P
++1
+—
+—
+Frying Pan
+3
+—
+(STR + 1)P
+—
+—
+20¥
+Hammer
+4
+—
+(STR + 1)P
+–1/–2
+—
+30¥
+Pistol
+4
+—
+(STR + 1)P
+—
+As weapon
+As weapon
+Pool cue
+4
+—
+(STR)P
++1
+—
+45¥
+Rifle butt
+3
+—
+(STR + 3)S
+—
+As weapon
+As weapon
+Sledge hammer
+3
+1
+(STR + 4)P
+—
+1
+40¥
+AQUADYNE SHARK-XS 
+HARPOON GUN
+>> ARSENAL <<
+22    improvised melee weapons >>
+
+
+===== PAGE 23 =====
+>	
+The Shark has enough force that “fishermen” aren’t 
+limited to standard fishing line. This model pops off 
+with enough power to pull spidersilk cable or other 
+heavier test. 
+>	
+Sounder
+RANGER SLIVER  
+PISTOL CROSSBOW
+The Sliver, as well as some of its other competing mod-
+els, is designed for stealthy operation as opposed to 
+high-damage potential. Due to the preference for 
+stealth over force, the Sliver is most often used with 
+Ranger Puncture Injection Bolts. These supposedly 
+“best in the market” projectiles offer significant pen-
+etrative power to make sure whatever they’re loaded 
+with makes its way into the target.
+>	
+The Punctures are definitely better, but don’t forget that 
+a bolt is really nothing but a short arrow, which means 
+there are ones with interchangeable heads. Titan’s line of 
+explosive and electric heads can help boost the potential 
+of your little Sliver. 
+>	
+Mika
+ARES GIANTSLAYER 
+SLINGSHOT
+Not quite the wrist rocket you had as a kid—if David 
+had the Giantslayer, the end result of his little tiff with 
+Goliath wouldn’t be quite so startling. Modern mate-
+rials throughout make this “kid’s toy” as deadly as any 
+holdout and most light pistols on the market. 
+>	
+The slingshot, whether this Ares model or something 
+more mundane, is great for delivering a variety of 
+ordnance. Most people think marbles or ball bearings and 
+occasionally capsule rounds, but sticky RFID trackers and 
+even a little sticky explosive charge are a few of the more 
+creative uses of the slingshot.
+>	
+Picador
+ARROWHEADS
+BARBED HEAD
+These heads are designed to hurt not only going in but 
+also coming out. Without someone with a steady hand 
+and some medical skill, pulling out an arrow with one 
+of these on the tip is going to be problematic. 
+EXPLOSIVE HEAD
+What happens when you mount a small shaped charge 
+on the head of an arrow? Hit someone with one of 
+these and find out.
+HARPOON GUNS
+STANDARD HARPOON GUN
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+5
+9P
+–2
+SS
+—
+1
+6R
+200¥
+AQUADYNE SHARK-XS HARPOON GUN
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+5
+9P
+–2
+SS
+—
+5(M)
+8R
+800¥
+The harpoon gun uses Light Crossbow ranges underwater 
+and Heavy Pistol ranges when fired outside of the water. The 
+Archery skill is used to fire the weapon.
+PISTOL CROSSBOW
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+7
+4P
+—
+SS
+—
+—
+6R
+300¥
+The pistol crossbow uses Heavy Pistol ranges and is fired 
+with the Archery skill.
+ARES GIANTSLAYER SLINGSHOT
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+7
+2P
+—
+SS
+—
+—
+—
+50¥
+This weapon can be used to fire either hard projectiles, like 
+ball bearings, and do the listed damage; or soft projectiles, such 
+as capsule rounds filled with contact toxins or drugs (p. 408, SR5) 
+and only do damage based on the substance within. 
+A slingshot uses shuriken ranges and is fired with the 
+Archery skill.
+BARBED HEAD
+>> ARSENAL <<
+<< Arrowheads    23
+
+
+===== PAGE 24 =====
+HAMMERHEAD
+I always thought these were just designed to give an 
+archer the same options as a runner with a gel-load-
+ed pistol, but a little research led me to realize these 
+have been around for a long time. Hunters after small 
+game knew that organ punctures could ruin what little 
+meat the beasts had on them, so they’d opt to knock 
+them out instead of take risks with sharper arrowheads. 
+Additionally, poachers who were after exotic birds but 
+knew they lost a lot of value when they were dead 
+helped give this arrowhead a lot of use. 
+INCENDIARY HEAD
+Not the flaming arrows of ancient times, these arrow-
+heads contain a small charge and a pocket of white 
+phosphorous that erupts and sticks to the target, light-
+ing them on fire. Unpleasant beyond just the initial 
+hurting, the fire continues to burn unless it loses its 
+supply of oxygen. 
+SCREAMER HEAD
+Need to signal the team when you know the local air-
+waves are full of patrolling deckers? Fire a screamer 
+head. Though some models do in fact scream, most are 
+designed with less awkward sounds. The pitting pat-
+terns on the hollow pipe of the head are designed to 
+make a wide variety of sounds for signaling and can 
+even be modified fairly quickly out in the field. A handy 
+tool in any wannabe-Robin Hood’s arsenal.
+STICK ‘N’ SHOCK
+Though issues with nanomanufacturing have caused 
+some problems with Stick ‘n’ Shock ammo for firearms, 
+the same has not been completely true with these 
+heads. Or more accurately, with these arrows. The Stick 
+‘n’ Shock head is only a small portion of this latest ar-
+chery innovation. Bowmen who want to gain the full 
+potential of these heads need to combine them with 
+Static Shafts, an Ares innovation that fills the shaft with 
+a powder that builds a charge during flight.
+>	
+Not only during flight. I’ve heard of guys who zap 
+themselves when they jostle these things the wrong way. 
+Care should be taken when trying to use this tech. 
+>	
+Ma’Fan
+BOOMERANG
+This is not the cute toy of your youth that you throw 
+and try to get to come right back to you. This is the 
+Aboriginal hunting stick that can snap the neck of an 
+emu. Made of a wide variety of materials the modern 
+hunting boomerang is either a heavy wood with a dull 
+edge or a lighter composite with a sharp edge. Both are 
+deadly in the right hands.
+>	
+The BoomerEye is a Renraku Australia product that 
+combines a little Australian history with some Japanese 
+innovation. A cheap, unguided surveillance tool, the 
+BoomerEye is a lightweight sport boomerang with a 
+special camera mounted on the bottom. It’s designed 
+to be thrown over a wide arc and get a quick peak at 
+what might be hidden out of sight.
+>	
+Rigger X
+HARPOON/JAVELIN
+There’s a reason why the javelin was part of the 
+original Olympics, which was a militaristic sport-
+ing competition. Metahumans have been using 
+sharpened sticks to kill prey, and each other, for 
+millennia. Improvements to materials technology 
+have just allowed them to throw further, faster, 
+and more accurately. 
+NET
+There always seemed to be no more embarrass-
+ing gladiatorial death than to be trapped in a net 
+and then poked to death. I think the fact that the 
+gladiators who fought with nets were the lowliest 
+of the low makes it even worse. But these days it 
+doesn’t matter. If it works, use it. The net makes 
+a great way to slow an opponent and provide an 
+>> ARSENAL <<
+24    Arrowheads >>
+ARROWHEADS
+ITEM
+ACC
+DV
+AP
+AVAIL
+COST
+Barbed Head*
+—
++1
+—
+5R
+10¥
+Explosive Head
+–1
++2
+–1
+9F
+15¥
+Hammerhead
+–1
++1S
++2
+5
+5¥
+Incendiary Head
+–1
+**
+—
+12F
+100¥
+Screamer Head***
+–2
+–2S
++6
+2
+5¥
+Stick-n-Shock
+–1
+8S(e)
+–5
+6R
+25¥
+Static Shaft
+—
++4S(e)
+—
+6R
+Rating x 25¥
+*Removing a barbed arrow without doing further damage to the target requires a 
+First Aid + Logic [Mental] (3) Test. Failure results in a number of boxes of Physical 
+damage equal to 3 – hits, unresisted.
+**On a successful hit, even a Grazing Hit, the arrow erupts in white phosphorous fire 
+with a DV of 8P and -6 AP. The WP continues to burn for 3 Combat Turns, causing 
+6P (–4 AP) of fire damage each turn (Fire Damage, p. 171, SR5) and possibly igniting 
+and damaging items on the character each turn. 
+Wireless Bonus: The head can be detonated before impact and split between 
+two targets within 1 meter of each other. Both targets roll to avoid the attack 
+separately and neither takes the initial 8P damage, instead just suffering the 6P, 
+–4AP, for 4 Combat Turns, including the current one.
+***Resetting the sound setting requires a Simple Action and a Logic + Intuition (1) Test.
+Wireless Bonus: The sound resetting can be done as a Free Action, even 
+while in flight.
+
+
+===== PAGE 25 =====
+advantage, and isn’t that what life is always about—get-
+ting the advantage?
+>	
+And if it doesn’t work, modify it until it does. While a few 
+attempts at monofilament nets have been tried and failed 
+spectacularly, other more offensive materials have been 
+used with nets. The Terra Cotta ShredNet with its barbed 
+wire netting and the Ares ShockNet with an electrical 
+stun charge built in have been two very popular options 
+to spice things up. 
+>	
+Sticks
+CAVALIER ARMS  
+URBAN TRIBE TOMAHAWK
+This is not your grandfather’s tomahawk. Made from 
+modern composites and balanced for throwing, this 
+modern take on the classic Native American weapon 
+gives as much respect to its predecessors as it can while 
+moving into the 21st century. Popular among the urban 
+tribal street gangs, especially the First Nations in Seattle, 
+these finely crafted killing tools can also be found on the 
+belts of Salish Rangers and Sioux Wildcats.
+ 
+BOOMERANG
+ACC
+DV
+AP
+AVAIL
+COST
+Physical – 1 (STR + 2)P
+—
+4
+50¥
+Throwing and catching a returning boomerang requires two 
+tests spread over two Combat Turns—a Throwing Weapons + 
+Agility [Physical] (2) Test to throw it properly and an Agility + 
+Reaction (4) Test to catch it on the return. A boomerang that hits 
+a target does not return. 
+Boomerangs use the ranges of Aerodynamic Grenades. 
+Horizon BoomerEye: This is a cheap surveillance tool created 
+by some bored engineers out in the desert. The BoomerEye is a 
+video camera attached to a boomerang that can be tossed out and 
+get a bird’s-eye view of an area. The device can be downloaded 
+with a Complex Action on return to the thrower.
+Wireless Bonus: The device can provide live-feed video 
+while in flight.
+HARPOON/JAVELIN
+ACC
+DV
+AP
+AVAIL
+COST
+Physical
+(STR + 3)P
+–1
+6
+125¥
+Harpoons use the Throwing Weapons skill, but they may 
+also be used as melee weapon, using the Blades skill and doing 
+the same damage as the thrown weapon with a Reach of 2. 
+Harpoons and javelins use Aerodynamic Grenade ranges.
+URBAN TRIBE TOMAHAWK
+ACC
+DV
+AP
+AVAIL
+COST
+Physical + 1 (STR + 2)P
+–1
+4
+200¥
+The Urban Tribe tomahawk uses the Throwing Weapons skill with the 
+Thrown Knife range in ranged attacks; for melee attacks, use the Blades 
+skill, with the same damage as the thrown weapon
+NET
+ACC
+DV
+AP
+AVAIL
+COST
+Physical – 2
+—
+—
+6
+350¥
+With a successful attack using rules for a Grazing Hit (p. 173, 
+SR5), the net lands over an opponent and they are considered 
+to be in subduing combat (p. 195, SR5). An attacker must move 
+to the target in order to engage in any of the Subduing actions. 
+To break free of the net, the subdued character rolls Agility 
++ Unarmed Combat (rather than Strength + Unarmed Combat) or 
+Agility + Escape Artist as a Complex Action, against a threshold 
+equal to the attacker’s net hits.
+Nets use half the range of throwing knives (round up) and 
+employ the Exotic Ranged Weapons (Net) skill.
+URBAN TRIBE 
+TOMAHAWK
+>> ARSENAL <<
+<< Arrowheads    25
+
+
+===== PAGE 26 =====
+EXOTIC RANGED 
+WEAPONS
+ARES SCREECH SONIC RIFLE
+This is a nasty little oddball of a weapon. Though it’s 
+called the Screech and its classified as a sonic rifle, 
+anyone with this thing pointed at them will rarely hear 
+a thing other then their own retching as they puke up 
+their latest meal. This devious invention uses focused 
+sound waves to disorient the target while not causing 
+any real damage. Perfect for crowd control as long as 
+the users are prepped with gas masks, since the reek of 
+soybase vomit will fill the air this sucker is fired.
+>	
+Don’t try and use this against spirits. Their lack of a 
+standard biology makes them immune to the effect. 
+Works great on most other things though. Usually seems 
+to depend on whether they have ears that affect their 
+balance and equilibrium.
+>	
+Stone
+BLOWGUN
+Nope, not kidding. The blowgun has been silently neu-
+tralizing targets for hundreds of years. Especially pop-
+ular with stealthy forces that like to poison their targets 
+and then recover their goodies or finish them off once 
+they are no longer able to fight off a flea. They take a lot 
+of skill to use and almost always include a drug or tox-
+in on their needles. Otherwise it would just be ranged 
+acupuncture. 
+BOLAS
+Take a pair of rocks, tie them together with a rope. Now 
+you have basic bolas. Take that and throw it at some-
+thing, letting the extra centrifugal force give it some 
+added punch. Now get fancy and try and wrap it around 
+your target. It’s not easy, but if you hit just right it’s both 
+a takedown and a load of pain all in one. Modern bo-
+las aren’t rocks tied with strings; instead, they’re usually 
+solid steel connected with wire, often with three balls 
+instead of two. They’re a favorite weapon of hunters 
+that prefer to take their prey alive, especially bounty 
+hunters.
+NEMESIS ARMS SURUCHIN 
+MONOFILAMENT BOLAS
+If getting tangled up by a pair of metal balls on a met-
+al wire wasn’t bad enough, imagine if that wire was a 
+monofilament line. There’s very little intention to cap-
+ture and much more to harm, though the company tag 
+line is suppression through intimidation, claiming they 
+wrap and prevent escape by the threat of increased risk 
+of harm. 
+>	
+Sociopathic runners are often at the forefront of interesting 
+derivations and innovations in the arms race. Boom-
+bolas are an example of that. A pair of wireless-enabled 
+grenades, or one grenade and a counterweight, are used 
+to snare the target with a healthy reminder of how bad 
+not surrendering can be. There are also those who simply 
+use the bola design to put the grenades right on top of a 
+target. No longer chunky salsa, more of a fine purée. 
+>	
+Red Anya
+FN-AAL GYROJET PISTOL
+Once advertised as a favorite of the British Special Boat 
+Squadron, FN has increased their market audience to 
+most of the marine-based special operations forces 
+around the world. The gun fires miniature 6mm rockets 
+that explode on impact—an effect that, underwater, is 
+even worse than in the air. 
+>	
+FN makes a full array of alternate munitions that match 
+up well with their standard counterparts. Jelly rockets 
+are awesome. 
+>	
+Sticks
+ARES SCREECH SONIC RIFLE
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+6
+7S
+*
+SS
+—
+10(c)
+16R
+8,000¥
+The sonic rifle can fire with variable beam settings. It uses the 
+same rules as shotguns (p. 180, SR5) for determining the number of 
+targets affected and the DV modifier, as well as ranges. The Exotic 
+Ranged Weapon (Sonic Rifle) skill is used to fire this weapon.
+The Damage Resistance Test uses Willpower instead of Body 
+and ignores all standard armor. Damper earware (p. 454, SR5) 
+provides +2 bonus dice to the resistance test. A Hush or Silence 
+spell reduces the DV by –1 per hit on the Spellcasting Test. 
+Targets hit by a beam suffer the effects of disorientation 
+and nausea (p. 409, SR5; use Damage Resistance Test in place 
+of Toxin Resistance Test). The rifle uses peak discharge battery 
+packs, with each shot consuming 1 power unit.
+>> ARSENAL <<
+BLOWGUN
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+8
+1P
+—
+SS
+1(ml)
+4
+15¥
+Blowguns are fired with the Exotic Ranged Weapon (Blowgun) skill. 
+To deliver a toxin with a blowgun needle, use the Called Shot Location 
+rules to target an area not protected by armor. If the attack succeeds, the 
+poison is delivered. 
+Note that when using a blowgun, a character may inhale his own 
+dart on a critical glitch; some modern blowguns have a safeguard in form 
+of a small cross-like section in the mouthpiece.
+Blowguns use Taser ranges.
+26    Exotic Ranged WEapons >>
+
+
+===== PAGE 27 =====
+MORTIMER OF LONDON 
+“TRAFALGER” GUN CANE
+Where fashion meets defense, this single-shot weapon 
+is a fashion accessory with both form and function. De-
+signed to look just like Mortimer’s regular line of dress 
+canes, the Trafalger tag goes on any of the gun canes 
+no matter what they look like. 
+>	
+The Trafalger line has been copied by cheaper knock-off 
+companies, some that are using heavier rounds but all of 
+them destroy the cane after they are used. 
+>	
+Thorn
+BOLAS
+STANDARD BOLA
+ACC
+DV
+AP
+AVAIL
+COST
+Physical
+(STR + 3)S
++4
+6
+75¥
+MONOFILAMENT BOLA
+ACC
+DV
+AP
+AVAIL
+COST
+Physical
+(STR + 3)S 
+/ 12P
++4 / –8
+18F
+4,000¥
+Bolas can do one of two types of damage based on their use. 
+When thrown to hit a target, make an Exotic Ranged Weapon 
+(Bolas) Attack Test (use the DV and AP stats on the left side of 
+the slash for monofilament bolas).
+When thrown with the intent of wrapping around a 
+specific location on an opponent use the appropriate Called 
+Shot Location modifier to determine success. A standard bola 
+requires the target to make an immediate Agility + Gymnastics 
+[Physical] Test with a threshold of the attacker’s net hits; if they 
+fail, they fall prone. 
+Removing wrapped bolas requires an Agility + Escape Artist 
+[Physical](6, 1 Action Phase) Extended Test or a sharp knife 
+(taking a Complex Action to cut it off). 
+A monofilament bola requires the target to make an 
+immediate Damage Resistance Test using the stats on the right 
+side of the slash along with the Agility + Gymnastics Test. Once 
+wrapped up with a monofilament bola, any character trying to 
+get themselves loose with the above Escape Artist Test or move 
+must make a Damage Resistance Test for each attempt. 
+Bolas use shuriken ranges.
+Boom-bolas: One or two grenades of any fashion bound 
+together. They suffer a –2 Accuracy, and misses are determined 
+much like scatter, except that it is always the maximum distance 
+in the 7 direction. A successful bola attack means the grenades 
+are at 0 distance to the target when they explode, and Multiple 
+Simultaneous Blast rules (p. 183, SR5) apply.
+GUN CANES
+TRAFALGER GUN CANE
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+6
+7P
+—
+SS
+1(b)
+9R
+750¥
+KNOCKOFF GUN CANE
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+5
+9P
+—
+SS
+—
+6R
+150¥
+The gun cane uses taser ranges, can only use caseless 
+ammo, and cannot mount any accessories. It is fired with the 
+Exotic Ranged Weapons (Gun Cane) skill. Its Concealment 
+modifiers are +0 for the whole cane and –6 to detect its true 
+nature (see p. 419, SR5).
+The Knockoff models are destroyed after firing.
+>> ARSENAL <<
+FN-AAL GYROJET PISTOL
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+5
+10P
+–2
+SA
+10(c)
+12F
+2,000¥
+The FN-AAL Gyrojet pistol can mount the same accessories 
+as a heavy pistol and uses the same ranges. When it is used 
+underwater, increase the standard munitions DV ratings by +2 in 
+addition to any other modifiers.
+<< Exotic Ranged WEapons    27
+
+
+===== PAGE 28 =====
+SA RETIARUS NET GUN
+This weapon comes in two models, the basic and the 
+XL. The basic is designed for metahumans, except for 
+trolls, and smaller critters; while the XL is intended for 
+trolls and other larger creatures. 
+>	
+The ShockNet ammo is great for helping with a little extra 
+takedown on those really feisty targets. 
+>	
+Sticks
+TIFFANI ÉLÉGANCE  
+SHOOTING BRACERS
+Elegant and deadly in one high fashion package. Tiffani 
+has made the Élégance for years, and dozens of basic 
+designs are out there now. The truly elite get their brac-
+ers customized to match their newest fashions, and 
+some have gathered quite the collection of Élégance 
+bracers in their closet.
+>	
+Aim on these things is wretched due to the lack of barrel. 
+Tiffani has tried to help make up for that with a laser sight 
+feature available on their newest model.
+>	
+Thorn
+NET GUNS
+BASIC
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+5
+—
+—
+SS
+4(b)
+9
+750/350¥
+XL
+ACC
+DV
+AP
+MODE
+AMMO AVAIL
+COST
+5
+—
+—
+SS
+2(b)
+9
+1,000/400¥
+SHOCKNET
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+as gun
+8S(e)
+–5
+As gun
+As gun
+10R
++250¥
+When a target is hit, apply the rules for nets (see p. 25). 
+If a large net is used against a normal sized target, the target 
+receives a –2 modifier on his Agility, while a large target hit by a 
+normal sized net receives a +2 Agility modifier. Net guns use light 
+pistol ranges and cannot mount any accessories.
+The cost on the left side of the slash is the price of the 
+gun; on the right is the cost of a full load of ammunition for the 
+weapon.
+The ShockNet has two charges. One will activate on 
+contact, the second at the start of the next Combat Turn. 
+SHOOTING BRACER
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+5 (6)
+7P
+—
+SS
+—
+1(b)
+10R
+1,250¥
+The Élégance Shooting Bracer can only use caseless 
+ammunition and uses taser ranges. It cannot mount any 
+accessories. The bracer’s Concealability modifier to hide its true 
+function is –5 (see p. 419, SR5).
+TIFFANI ELEGANCE 
+SHOOTING BRACER
+>> ARSENAL <<
+28    Exotic Ranged WEapons >>
+
+
+===== PAGE 29 =====
+TASERS
+CAVALIER SAFEGUARD
+A reliable self-defense weapon, this taser forgoes 
+some wattage in each dart for a larger ammunition 
+capacity, and backs that up with a top-mounted laser 
+for increased accuracy for a less skilled shooter. It still 
+looks sufficiently enough like a pistol to still intimidate 
+targets who might scoff at a mere taser.
+>	
+This one will give someone my size just a tingle.
+>	
+2XL
+TIFFANI-DEFIANCE PROTECTOR
+A sleek taser designed to accessorize well with wom-
+en’s fashions, with the added benefit of geckogrip to 
+allow it to be set anywhere that is comfortable on the 
+body and a sleek top-mounted laser sight for quick tar-
+geting. This is a perfect choice to go with the immortal 
+little black dress, stored under the dashboard of a car, 
+or put next to the bed for a good night’s sleep.
+TASERS
+CAVALIER SAFEGUARD
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5 (6)
+6S(e)
+–5
+SA
+—
+6(m)
+—
+275¥
+Standard upgrades: Laser sight
+TIFFANI-DEFIANCE PROTECTOR
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5 (6)
+7S(e)
+–5
+SA
+—
+3(m)
+2
+300¥
+Standard upgrades: Laser sight
+Wireless: A successful hit with any taser informs you of the status of 
+the target’s basic health (and Condition Monitors).
+CAVALIER SAFEGUARD
+TIFFANI-DEFIANCE 
+PROTECTOR
+>> ARSENAL <<
+<< Tasers    29

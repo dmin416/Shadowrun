@@ -1,0 +1,969 @@
+\n\n======== PDF 161 ========\n\nDRONE RACK
+A drone rack is an indispensable tool for a rigger who relies 
+on drones to accomplish critical tasks for their team. Drone 
+racks consist of a metal framework or harness designed to 
+allow for quick and easy deployment of a drone in an in-
+stant, turning a vehicle equipped with several of them into 
+a powerful, multipurpose drone carrier. Any drone carried 
+in any kind of drone rack can be deployed by spending a 
+Complex Action, or Simple Action if it is wireless enabled. 
+Each drone rack can carry a single drone of a maximum 
+size depending on the size of the rack. Additionally, each 
+drone rack can be standard or landing type.
+All standard drone racks deploy drones as above but 
+require a manual process to re-embark the drone. This 
+involves physically putting the drone back into the rack, 
+a process that takes about one minute per drone.
+Landing drone racks have a mechanic or electro-
+magnetic grapple system that can automatically re-em-
+bark a drone that is directly beneath or adjacent to them 
+with a Complex Action. This can even be done while the 
+the vehicle is in motion, as long as the target drone can 
+match the vehicle’s speed.
+Micro drone racks can hold up to ten micro drones, 
+mini drone racks can carry a drone of up to Mini size, 
+small drone racks can carry up to a Small drone, medi-
+um drone racks can carry up to a Medium drone, and 
+large drone racks can carry (you guessed it) up to a 
+Large drone.
+GUN PORT
+For those times when you want your vehicle to be less 
+“car” and more “armored personnel carrier,” there is 
+the gun port mod. A gun port is a small flap or slot in-
+stalled strategically in the hull of the vehicle that allows 
+a single passenger (or the driver, if you can multitask) 
+to shoot a hand-held weapon at a target outside the 
+vehicle, while still staying completely protected by the 
+vehicle’s armor. The port provides a ninety-degree 
+cone of visibility, and a small stability harness that pro-
+vides 4 points of Recoil Compensation. The gun port 
+mod can be taken as many times as possible for the ve-
+hicle, though provides no benefit beyond the amount 
+of passengers that a vehicle can reasonably carry.
+MISSILE DEFENSE SYSTEM
+While this item normally reserved for military use, a 
+resourceful and properly connected shadowrunner has 
+been known to get their hands on a missile defense 
+system (MDS). Using a highly complicated and special-
+ized set of software, the system ties in control of one 
+or more on-board weapon systems to shoot down in-
+coming missiles and rockets while in flight. The system 
+requires the vehicle to have a Sensor rating of 5 (min-
+imum) and at least one weapon capable of Full-Auto 
+fire, or a laser weapon, to be attached via remote con-
+trol turret weapon mount. When an incoming projectile 
+is detected, the system takes control of all weapons 
+tied into it in order to intercept in the incoming projec-
+tile. This supersedes any other current controller of the 
+weapon(s). Ballistics weapons use 20 rounds of ammu-
+nition each time the system activates. In game turns, 
+each ballistic weapon tied into the system gives the de-
+fender +2 on Defense Tests made against missiles and 
+rockets. Each laser weapon provides +4 dice.
+PROTECTION MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Anti-Theft System
+Rating 1
+1
+4
+Kit
+— 
+4
+500¥
+Rating 2
+2
+8
+Kit
+— 
+6
+1,000¥
+Rating 3
+4
+12
+Shop
+— 
+8R
+2,500¥
+Rating 4
+6
+16
+Shop
+Demolitions 
+12F
+5,000¥
+Armor
+Standard
+Rating x 2
+Rating x 2
+Shop
+Armorer
+6R
+Rating x 500¥
+Concealed
+Rating x 3
+Rating x 3
+Shop
+Armorer
+12R
+Rating x 3,000¥
+PPS (Rating 1-6)
+2
+Rating x 4
+Shop
+—
+6
+Rating x 2,000¥
+Personal Armor (Rating 1-10)
+2
+Rating x 2
+Shop
+Armorer 
+(Rating)R
+ Rating x 500¥
+Special Armor Modification
+2
+12
+Shop
+Armorer
+(As Mod)
+(As Mod) x 2
+>> RIGGER 5.0 <<
+160    >> BUILDING THE PERFECT BEAST <<
+\n\n======== PDF 162 ========\n\nOIL SLICK SPRAYER
+Some runners say that old tricks are the best tricks, and 
+they’re the ones who most love the simple but effective 
+oil slick sprayer. Using a few nozzles and a reservoir of 
+slick fluid, the ground immediately behind the vehicle 
+can be made extremely hazardous to pursuing ground-
+based vehicles. Activating the oil slick sprayer is a Free 
+Action; following activation, any ground vehicles in 
+pursuit at Short Range must make a Reaction + Vehicle 
+Skill [Handling] (2) Test to avoid crashing. The oil slick 
+sprayer has 6 charges and can be completely refilled 
+for 50 nuyen.
+RAM PLATE
+While ramming might be a last resort for some, it is 
+a first resort for others, and the ram plate is the per-
+fect modification for those people. Ram plates come 
+in a huge variety of shapes and sizes, from wickedly 
+engineered sharpened bifurcating blades to a motley 
+collection of extra car parts that the gangers welded 
+to the front. All are equally effective. When making a 
+Ramming attack (see p. 203, SR5) the damage done by 
+the ramming vehicle is increased by one level, as if it 
+were going one speed category higher. Damage taken 
+to the ramming vehicle is unchanged.
+ROAD STRIP EJECTOR
+The road strip ejector is another classic but effective 
+countermeasure from the good old days. Using a sim-
+ple powered release mechanism, a belt that is extreme-
+ly hazardous to ground vehicles is deployed with a Free 
+Action. A road strip ejector can be equipped with any 
+one type of road strip (see Vehicle Equipment, p. 152). 
+The strip ejector can carry six individual strips. Refills 
+cost the price of six of whatever road strip is desired.
+SMOKE PROJECTOR
+Another oldie but a goodie, the smoke projector contin-
+ues to prove that simple never goes out of style. One or 
+two canisters with aerosol nozzles are attached to the 
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    161
+\n\n======== PDF 163 ========\n\n>> RIGGER 5.0 <<
+WEAPON MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Ammo Bin
+1
+4
+Shop
+Armorer
+6R
+200¥
+Standard Drone Rack
+Mini
+1
+8
+Kit
+— 
+4
+500¥
+Small
+2
+10
+Shop
+— 
+4
+1,000¥
+Medium
+3
+12
+Shop
+— 
+6
+2,000¥
+Large
+4
+16
+Shop
+— 
+8
+4,000¥
+Landing Drone Rack
+Mini 
+2
+10
+Shop
+— 
+6
+1,000¥
+Small
+3
+12
+Shop
+— 
+6
+4,000¥
+Medium 
+4
+14
+Facility
+— 
+8
+10,000¥
+Large
+5
+20
+Facility
+— 
+12
+20,000¥
+Gun Port
+1
+4
+Kit
+— 
+6R
+500¥
+Missile Defense System
+3
+16
+Facility
+Software
+12R 
+15,000¥
+Oil Slick Sprayer
+2
+8
+Shop
+— 
+8F
+500¥
+Smoke Projector
+2
+8
+Shop
+— 
+6R
+750¥
+Thermal Smoke
++100¥
+Road Strip Ejector
+2
+10
+Shop
+— 
+10F
+800¥ + strips
+Weapon Mount
+Light Size
+1
+4
+Kit
+Armorer
+6F
+750¥
+Standard Size
+2
+6
+Shop
+Armorer
+8F
+1,500¥
+Heavy Size
+4
+10
+Shop
+Armorer
+12F
+4,000¥
+External Visibility
+–
+—
+—
+—
+—
+–
+Internal Visibility
++2
++6
+Shop
+—
++2
++1,500¥
+Concealed Visibility
++4
++10
+Shop
+—
++4
++4,000¥
+Fixed Flexibility
+–
+—
+—
+—
+—
+—
+Flexible Flexibility
++1
++4
+Shop
+—
++2
++2,000¥
+Turret Flexibility
++2
++12
+Facility
+—
++6
++5,000¥
+Remote Control
+–
+—
+—
+—
+—
+—
+Manual Control
++1
++4
+Shop
+—
++1
++500¥
+Armored Manual Control
++2
++6
+Shop
+—
++4
++1,500¥
+162    >> BUILDING THE PERFECT BEAST <<
+\n\n======== PDF 164 ========\n\nvehicle, releasing a huge cloud of dense smoke on com-
+mand with a Free Action. Once deployed, all actions of 
+vehicles up to one hundred meters behind the vehicle 
+are affected by the Moderate Smoke Visibility Modifier 
+(p. 175, SR5). For a little bit more nuyen, the system can 
+be installed with thermal smoke (p. 435, SR5).
+WEAPON MOUNT
+Shadowrunning is not a business where one wants to 
+be defenseless (or offense-less, for that matter), so rig-
+gers often awant to put weapons on their vehicle. While 
+a small number of security or military-class vehicles are 
+designed to mount weapon systems, the vast majority 
+of vehicles are designed and built for civilian use, so 
+installing a weapon system is strictly an after-market 
+affair. Just like the weapons that they support, weap-
+on mounts come in a large variety of shapes and sizes 
+to suit the needs of the weapon as well as the owner. 
+All weapon mounts have four attributes: Size, Visibility, 
+Flexibility, and Control.
+Size defines what kind of weapons can be attached 
+to the weapon mount. Light weapon mounts can hold 
+weapons in the following categories: Melee, Tasers, 
+Hold-Out Pistols Light Pistols, Heavy Pistols, Machine 
+Pistols, and Submachine Guns. Standard weapon mounts 
+can hold Tasers, Hold-Outs, Light Pistols, Heavy Pistols, 
+Assault Rifles, Sniper Rifles, Shotguns, Exotic Ranged 
+Weapons, Flamethrowers, and Special Weapons. Heavy 
+weapon mounts can hold any of the previous, as well as 
+weapons from the following categories: Machine Guns, 
+Cannons, Launchers, and Lasers.
+Visibility defines where a weapon is mounted on a 
+vehicle and how noticeable it is. An external mount plac-
+es the weapon on the outside of the vehicle, on its hull 
+somewhere, which is plainly obvious to any observer. 
+An internal mount has the weapon inside the vehicle un-
+til it’s deployed using a Simple Action. Once deployed 
+the weapon is externally visible and easily seen, but 
+while internal the weapon cannot be seen from outside 
+observation. A concealed mount is an internal mount but 
+further conceals the weapon behind false paneling and 
+other vehicle features such that it is not obvious even 
+when searching the inside, requiring a  Perception + In-
+tuition [Intuition] (4) Test to find.
+Flexibility defines how movable a weapon is on its 
+mount. A fixed mount cannot turn independently from 
+the vehicle it is attached to and so relies on the driver 
+of the vehicle to aim the weapon; it cannot change its 
+direction of fire unless the vehicle direction also chang-
+es. A flexible mount has a limited range of motion, able 
+to move ninety degrees horizontally and vertically. A 
+turret mount allows for a full 360-degree of movement 
+but can be constrained depending on where on the hull 
+of the vehicle the weapon is placed. Most smart riggers 
+will put a turret mount on the roof of the vehicle to fully 
+utilize its range of motion.
+Control determines how the weapon attached to 
+the mount can be fired. These days the default is remote, 
+meaning the weapon can be fired by making a Con-
+trol Device Matrix Action (the owner of such a device 
+automatically succeeds). For the security paranoid, or 
+those that just like the hands-on approach, manual con-
+trol can be applied to a weapon. This option removes 
+the possibility of remote, electronic control in favor of 
+direct mechanical operation of the weapon, meaning a 
+metahuman must physically operate the weapon, which 
+tends to put them at bodily risk. Armored manual control 
+is an option where the operator of the weapon is pro-
+tected by armored panels and shields while operating 
+the weapon. This gives the firer +6 armor against ranged 
+attacks while operating the weapon.
+To calculate the final cost of the weapon mount 
+modification, start with the Size. The apply the modifiers 
+to Slot, Threshold, Availability, and Cost when choosing 
+the other options. Use the highest requirement for Tools 
+from the options chosen
+BODY
+Body modifications modify the hull or structure of the 
+vehicle in some form.
+ASSEMBLY/DISASSEMBLY
+No rigger likes to see their vehicle “baby” in pieces, but 
+at least with the assembly/disassembly modification 
+they know it can be put back together. For times when 
+a rigger or their team needs to get a vehicle to (or into) 
+a location but can’t get it there whole, they put in an 
+assembly modification. While this can be used on larg-
+er vehicles to give more flexibility in how they can be 
+transported, it is far more common for smaller vehicles 
+like drones. Secure facilities will commonly search and 
+scan for illegal or banned drones, such as small sur-
+veillance “bugs,” but detection can be circumvented 
+by breaking the drone down into innocuous parts and 
+smuggling those in separately. 
+The assembly/disassembly modification allows a 
+vehicle to be broken down into several smaller pieces 
+and then reassembled for operation. Disassembling or 
+reassembling a vehicle takes a (Vehicle Mechanic Skill) 
++ Logic [Logic] (Body, 30 minutes) Extended Test. When 
+broken down, the parts are extremely difficult to identi-
+fy, requiring a Perception + Intuition [Intuition] (4) Test 
+as well as having an appropriate Knowledge Skill to even 
+recognize that the parts could be a vehicle component.
+CHAMELEON COATING
+Not just for the flighty owner who can’t settle on a paint 
+color for their vehicle, chameleon coating is an essen-
+tial tool for keeping a vehicle used for shadow activities 
+inconspicuous. A vehicle with the coating has its exte-
+rior hull covered in a specialized kind of polymer that 
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    163
+\n\n======== PDF 165 ========\n\nallows it to display any kind of image sent to the sys-
+tem with an electronic signal. This can be as simple as 
+changing the color of the vehicle, or as complex as cov-
+ering it in moving advertisements and video. Changing 
+the output of the coating is a Free Action. Particularly 
+clever riggers have linked the video feed from their ex-
+ternal sensors into the system so that the exterior of 
+the vehicle mimics the environment around it, resulting 
+in a crude (but effective) “cloaking” or blending system. 
+When running in this mode, as long as it is not moving 
+faster than its Walking rate, Perception Tests made to 
+find the vehicle suffer a –3 dice pool penalty.
+EXTRA ENTRY/EXIT POINTS
+There are plenty of situations when a runner may need 
+to get in or out of their vehicle in an unusual way, for an 
+unusual situation. A vehicle equipped with extra entry/
+exit points has a variety of extra points on the vehicle 
+that can be used to get in or out of the vehicle. These 
+could be an ork-sized sunroof, or a special trap door in 
+the floor of the vehicle. In game terms, any occupant 
+of the vehicle is assumed to have a convenient entry 
+or exit point accessible to them, no matter what state 
+the vehicle it is in (including upside down), or from 
+what position they are attempting to access the vehicle 
+(such as from the roof).
+EJECTION SEATS
+Remember that time when there was an annoying or, 
+in the back and you wished you could just push a button 
+and fire him out of the vehicle? Well, with ejection seats 
+you can! Using a simple expanding gas propulsion sys-
+tem, activated remotely with a Free Action, any seat in 
+the vehicle can become a means to eject the occupant 
+of that seat. Seats can be equipped with parachutes if 
+the system is being used for safe egress of someone 
+that you want to be whole when they land, or without 
+if not. Traditionally, ejection seats launch vertically up-
+ward, but they can be configured to launch horizontally, 
+or even straight down (particularly vicious in aircraft or 
+watercraft).
+EXTREME ENVIRONMENT 
+MODIFICATION
+Most vehicles are manufactured with the anticipa-
+tion and intention that they will be used in common 
+or banal environments—basically, those found in the 
+day-to-day life of most of the population. There are 
+plenty of times, however, when a rigger will need his 
+vehicle to operate smoothly in environments outside 
+of those normal conditions. Since most vehicles were 
+never designed to handle such conditions, several spe-
+cial modifications are needed on a variety of systems, 
+depending on the environment. This could include ad-
+ditives and micro-heaters to ensure the vehicle’s liquid 
+systems do not freeze in extreme cold, or super-cool-
+ers to keep it running in extreme heat. Each time this 
+modification is taken, the vehicle can operate normally 
+in a specific selected environment (desert, arctic, etc.). 
+If the environment itself will be damaging to the vehi-
+cle, it needs a special armor modification (see p. 159) 
+to maintain protection. Note that this modification only 
+allows the vehicle itself to continue to operate; keeping 
+occupants of the vehicle alive would be handled by a 
+life support system (below).
+INCREASED SEATING
+While no riggers likes to be the “team mom” or the 
+“runner taxi,” there are plenty of times that they will 
+need to carry more people than their vehicle originally 
+allowed, especially if they’re driving some super-slick 
+European sports car that could only carry two to begin 
+with. With increased seating, a vehicle can comfortably 
+carry more passengers than its original design. This is 
+far more than just jamming a couple of extra think peo-
+ple in the trunk—the modification includes all features 
+for carrying people including comfortable (enough) 
+seating, incorporating the vehicle’s safety systems (in-
+cluding PPS if installed, see p. 159), and other personal 
+comfort features such as ventilation and lighting. This 
+can mean rearranging the internal layout of the vehicle, 
+extending it slightly, or even adding “external” seating, 
+such as a sidecar on a motorcycle. When this modifi-
+cation is taken, the passenger capacity of the vehicle 
+is increased up to a fifty percent increase of its base 
+value, though the gamemaster has final say on exactly 
+how many passengers the vehicle can reasonably carry.
+LIFE SUPPORT
+The world outside of a vehicle is often dangerous or 
+outright hostile to shadowrunners and their targets. In 
+order to keep their occupants secure, many vehicles in-
+stall a Life Support system. This system comes in two 
+levels, depending on the need. In a Level 1 system, all 
+normal “leak points” in a vehicle—such as door and 
+window frames—have been made air and water tight; 
+air only circulates through the vehicle’s ventilation sys-
+tem. The system also includes a variety of detection 
+systems and filters to help prevent airborne toxins and 
+diseases from harming those inside a vehicle. All occu-
+pants of the vehicle gain +4 dice for any resistance test 
+to an airborne drug, toxin, or disease that comes from 
+outside the vehicle. A Level 2 system includes every-
+thing from the Level 1 system while also allowing all 
+external air intakes to be shut off, making the vehicle 
+completely air and water tight. Additionally, the vehi-
+cle is equipped with its own independent air supply, 
+allowing passengers to survive where there is no air, 
+such as under water or in space.  Level 2 also counts as 
+a Chemical Seal (p. 437, SR5) for any game situations 
+where that applies.
+>> RIGGER 5.0 <<
+164    >> BUILDING THE PERFECT BEAST <<
+\n\n======== PDF 166 ========\n\nMECHANICAL ARM
+Did a teammate ever ask you to give a hand? Well, with 
+the mechanical arm modification your vehicle actual-
+ly can! This modification essentially gives your vehi-
+cle an (extra) appendage, and comes in two different 
+forms. Arms in both forms have a length roughly equal 
+to Body x 10 centimeters, and five centimeters for a 
+Body 0 vehicle. The arm has a Strength equal to the 
+vehicle’s Body / 2 (rounded up). A basic mechanical 
+arm is a simple system with a limited range of motion 
+that is very useful for basic grasping and carrying op-
+erations. These are generally used to load and unload 
+cargo from the vehicle or something near it and can be 
+used for any operations reasonably similar to that, such 
+as putting a drone back into a drone rack (see p. 160). 
+An articulated mechanical arm is a mechanical repro-
+duction of a metahuman arm mounted on a vehicle. 
+It has fine motor abilities and can grasp and use tools. 
+A rigger jumped into a vehicle with an articulated me-
+chanical arm can use any of their Technical Skills with 
+the arm, though the gamemaster can impose a pen-
+alty if the vehicle is only equipped with one and the 
+task regularly requires two arms. Most surprisingly (for 
+those that don’t expect it), an articulated mechanical 
+arm can make a melee attack against any target within 
+range. To make a melee attack, roll Melee Skill + Agility 
+[Accuracy]—if a rigger is jumped into the vehicle, the 
+test uses their appropriate melee skill. If the vehicle is 
+attacking autonomously use (autosoft) + Pilot.
+NANOMAINTENANCE SYSTEM
+While many people have (understandably) gotten skit-
+tish about injecting nanites into their head, most of the 
+population still considers it safe to have them operate 
+on something inorganic like their vehicle. The nano-
+maintenance system installs a series of specialized na-
+nobot hives around the body of the vehicle and in key 
+sections designed to repair and maintain the vehicle’s 
+body and systems. This includes reshaping body panels 
+and filling holes, cleaning critical systems, and even re-
+building/reshaping parts on a small scale. Nanomainte-
+nance systems come in Ratings 1 to 4. When repairing 
+damage done to a vehicle, an owner can let the nano-
+maintenance system attempt its job autonomously, or 
+make repairs in conjunction with the system. If repairing 
+autonomously, roll the Rating of the nanomaintenance 
+system. Each hit repairs one box of vehicle damage, 
+with the whole process taking one hour. Alternatively, 
+the owner can repair the damage with the assistance of 
+the system. In this case, the owner makes a standard 
+Repair Test, with the nanomaintence system giving a 
+bonus equal to its Rating (see p. 146, SR5). Either one 
+option or the other must be chosen for each instance of 
+damage to be repaired—the two cannot be combined 
+on the same damages.
+REALISTIC FEATURES
+When undertaking surreptitious surveillance, making a 
+drone look like not a drone is an essential asset. For this 
+reason, many riggers will wrap smaller drones, or any-
+thing up to humanoid size, in a synthetic skin material. 
+The intricacy of the disguise can vary depending on 
+how much time and resources are put into it. This can 
+range from a simple coating of realistic-looking skin 
+made from a synthetic material, to a full covering of liv-
+ing tissue fed by an artificial circulation system with de-
+vices to simulate organs. The realistic features mod has 
+a Rating of 1 to 4. The Rating sets the threshold of the 
+Perception Test to recognize the machine as artificial. 
+When the modification is made, the installer chooses 
+a single living being that the modification is trying to 
+replicate. This modification is designed to be made on 
+vehicles no bigger than the size of a large animal. The 
+gamemaster can decide whether the modification is 
+even possible, given the size and design of the vehi-
+cle, but nearly all drones should be able to accept the 
+modification. The true nature of the vehicle is instantly 
+recognizable by Assensing.
+SMUGGLING COMPARTMENT
+You don’t need to run very long before you encounter a 
+situation where you need to keep something (or some-
+one) hidden from authorities that are trying to find it. In 
+these situations, the smuggling compartment is what 
+you need. This modification adds a storage compart-
+ment to the vehicle, one that is designed to not easily 
+be found. In general, a smuggling compartment can-
+not be seen unless a person is specifically looking for 
+hidden compartments or doing a thorough search of 
+the vehicle, and even in that case the Perception Test 
+to notice the compartment is made with a –6 penal-
+ty. Smuggling compartments are hidden by purely 
+visual means, so if the contents of the compartment 
+make it detectable by other means—chemical, radio-
+active, thermographic—these do not suffer a penalty. 
+Compartments can have shielding installed on them to 
+make the compartment difficult to detect by a particu-
+lar non-visual sense. If this is done, then the –6 penalty 
+applies to that sense as well. Shielding on a smuggling 
+compartment may be taken multiple times, each time 
+specifying a different sensory type (auditory, chemical, 
+radioactive, astral, etc.). The gamemaster determines if 
+an object can fit in a smuggling compartment, based 
+on the size of the vehicle. In general, smuggling com-
+partments are about ten to twenty percent of the over-
+all size of the vehicle itself.
+SPECIAL EQUIPMENT
+Depending upon its intended role, a vehicle may have a 
+variety of specialized equipment. This modification is a 
+“catch-all” category for any specific piece of equipment 
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    165
+\n\n======== PDF 167 ========\n\nthat a rigger may want installed on their vehicle. This 
+could include such things as a dozer blade, snoware-
+moval device, asphalt dispenser, road-paint applicator, 
+or temperature controlled storage. No fixed costs are 
+provided, as the gamemaster has final say on what can 
+be installed on the vehicle and what effect it may have.
+VALKYRIE MODULE
+If you have teammates that just can’t seem to stop from 
+getting themselves critically injured, then they are going 
+to thank you for installing a Valkyrie module. Named af-
+ter the mythical maidens that carry a Viking warrior to 
+the afterlife, the Valkyrie module is a small-scale, porta-
+ble, automated emergency room. The module includes 
+a bed with a transparent, enclosed lid and a host of so-
+phisticated medical equipment with built-in software 
+that can quickly analyze and treat almost any injury. 
+Any person placed in the Valkyrie module is auto-
+matically stabilized (p. 209, SR5). The systems on the 
+Valkyrie module are equivalent to a Rating 6 Medkit (p. 
+450, SR5), with all of the same functionality. Additional-
+ly, the Valkyrie module operates as an autodoc, and so 
+can be operated remotely (p. 208, SR5).
+WINCH
+For those times when a runner needs to pull or tow 
+something and they don’t want to call an underpaid 
+and overweight member of the auto club, there is the 
+winch modification. The basic winch hasn’t changed its 
+design much in about a hundred years. It has a heavy 
+gauge steel cable ending with a hook or latch and wraps 
+around a powered drum. A winch can be mounted on 
+the front or rear of the vehicle, and comes with about 
+one hundred meters of cable and can support a load 
+of up to ten tons, provided the vehicle itself is heavy 
+enough to support this. If wireless enabled, the winch 
+hook can be released remotely with a Free Action. An 
+enhanced winch is generally found in heavy industrial or 
+rescue vehicles but can be useful to a runner. Its winch 
+replaces the hook with an advanced system using a 
+combination of gecko-grip technology and magnetism 
+that can attach to any surface on its target without the 
+need to manually place a hook on an appropriate part. 
+The system can be activated or deactivated remotely 
+with a wireless command (if enabled). The enhanced 
+system can support a load of up to one hundred tons 
+and includes additional stabilizers deployed from the 
+vehicle and onto/into the ground to double the towing 
+vehicle’s weight for lifting purposes.
+WORKSHOP
+For the true tinkerers who can never be apart from their 
+tools, a vehicle with ample enough space can be made 
+into a mobile workshop. Niceties and comfort items are 
+removed to make room for shelving, work spaces, and 
+equipment. A vehicle modified in this way counts as 
+being a Shop for the purposes of tool availability (p. 
+443, SR5). The type of shop (Automotive Mechanic, 
+Armorer) must be chosen at the time of the modifica-
+tion and cannot be changed.
+ELECTROMAGNETIC
+Electromagnetic modifications are connected to or 
+modify a vehicle’s electronic systems.
+ELECTROMAGNETIC SHIELDING
+When a rigger wants absolute control over the signals 
+that come in and out of their vehicle, there isn’t a better 
+option than the electromagnetic shielding modifica-
+tion. This system builds a system of conductive metal 
+bands into the exterior body of the vehicle, designed 
+to conduct away and dissipate all wireless signals that 
+attempt to penetrate the body of the vehicle, going in 
+or out. This modification only works on vehicles that 
+create an enclosed space—it is useless for vehicles that 
+are open, such as a motorcycle. In game terms, the 
+body of the vehicle acts as a Faraday cage for Noise 
+purposes (p. 231, SR5) meaning that no communica-
+tion is possible through the barrier. When the system 
+is installed, the owner can choose to have certain sys-
+tems or features be able to move through the barrier by 
+running a physical wire through the cage. Any device 
+that can connect to the body of the vehicle with a wired 
+connection can bypass the Faraday cage.
+ELECTRONIC 
+COUNTERMEASURES (ECM)
+Savvy riggers and deckers know that it is often easier 
+to attack the signals controlling a device than to attack 
+the device itself. To that end, a vehicle can be equipped 
+with an electronic countermeasures (ECM) suite. This 
+modification allows the vehicle to function exactly like 
+an area jammer (p. 441, SR5), with all of the same rules. 
+Just like a jammer, the modification comes with a Rat-
+ing of 1 to 6.
+GRIDLINK
+Gridlink is a fairly ubiquitous feature for modern ve-
+hicles in the Sixth World, at least in the areas where 
+the sun of corporate control continually shines. Using 
+a system of embedded power lines in the road system, 
+any vehicle equipped with gridlink can use these lines 
+to draw operational power and thus have an unlimit-
+ed running time as long as it is connected. As with ev-
+erything in the Sixth World, there’s a downside. In ex-
+change for the free power, vehicles running on gridlink 
+essentially give up control to the owner of the local 
+GridGuidesystem. A vehicle is identified and tracked 
+every second it is attached to the system, is limited to 
+>> RIGGER 5.0 <<
+166    >> BUILDING THE PERFECT BEAST <<
+\n\n======== PDF 168 ========\n\nthe legal speed limit set for the area, and can be re-
+motely shut down by the owner of the system. Most 
+vehicles constructed come with a gridlink system as 
+standard, but the system can be installed afterward 
+with a vehicle modification.
+In game terms, the host that controls the gridlink sys-
+tem is automatically assumed to have 3 marks (or be the 
+owner) of any vehicle connected. Needless to say, run-
+ners consider the GridGuide system to be a major liabili-
+ty to their work and will always (if they’re smart) remove 
+the system or install a gridlink override (see below).
+GRIDLINK OVERRIDE
+Using a combination of hardware and software mod-
+ifications, a vehicle can be equipped to override its 
+gridlink system, and retain independent control. When 
+activated, the vehicle appears to be a interacting with 
+the system normally but cannot be shut down, can ex-
+ceed the posted speed limit, and randomly rotates its 
+identifier so it cannot be tracked for an extended peri-
+od. Since even runners are pragmatic, the vehicle still 
+draws its operational power from the gridlink system, 
+as long as it is available, because who doesn’t love 
+stealing from the corps?
+PILOT ENHANCEMENT
+More than just another program, vehicle Pilot programs 
+are some of the most sophisticated software programs 
+in use today. Enhancing a drone’s Pilot program takes 
+more than just loading a new program: select chips 
+on the hardware set are replaced and upgraded, new 
+communication channels are installed to enhance in-
+BODY MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Assembly/Disassembly
+2
+Body x 4 (Min. 1) Facility
+— 
+6
+1,000¥
+Chameleon Coating
+2
+10
+Facility
+—
+12F
+Body x 1,000¥
+Extra Entry/Exit Points
+1
+8
+Shop
+—
+8
+2,500¥
+Extreme Environment Modification
+2
+12
+Shop
+—
+6
+2,000¥
+Increased Seating
+2
+6
+Shop
+—
+4
+2,000¥
+Life Support
+Level 1
+2
+10
+Shop
+—
+8
+Body x 500¥
+Level 2
+4
+20
+Shop
+—
+12
+Body x 2,000¥
+Mechanical Arm
+Basic
+2
+8
+Shop
+—
+4
+1,000¥
+Articulated
+3
+16
+Facility
+—
+6
+5,000¥
+Nanomaintenance System (Rating 1-4)
+Rating
+Rating x 4
+Shop
+—
+(R x 5)R
+Rating x 5,000¥
+Realistic Features (Rating 1-4)
+Rating
+Rating x 4
+Shop
+Medicine (R x 3)R
+Rating x Body x 
+1,000¥
+Smuggling Compartment
+3
+16
+Facility
+—
+8F
+1,500¥
+Shielding
+n/a
+12
+Facility
+—
+12F
+3,000¥
+Special Equipment
+variable
+variable
+variable
+variable
+variable
+variable
+Valkyrie Module
+4
+6
+Shop
+Hardware 
+8
+2,000¥
+Winch
+Basic
+1
+8
+Shop
+—
+4
+750¥
+Enhanced
+2
+12
+Facility
+—
+8
+4,000¥
+Workshop
+6
+20
+Facility
+—
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    167

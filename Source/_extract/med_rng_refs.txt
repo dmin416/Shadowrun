@@ -1,0 +1,543 @@
+
+
+===== PDF page 81 =====
+EVO HEL SUIT
+The HEL (Hostile Environment Living) is the every-
+day dress of space-station inhabitants and astronauts. 
+The thin, tight-fitting, puncture- and-tear-resistant suit 
+covers the whole body except the face, which can be 
+protected by a hood and self-attaching breath and 
+eye mask with an internal five-minute supply of highly 
+compressed air that is usually carried within one of the 
+suit’s many pouches. The suit is made of some of the 
+most advanced clothing materials available, offering 
+limited vacuum protection, as well as protection from 
+hot or cold environments and chemicals. Due to its 
+many useful traits and high comfort, the suit has be-
+come increasingly popular with people working in un-
+comfortable earthbound surroundings as well (at least 
+those for whom the suit’s high price is no obstacle).
+>	
+Straight from the Evo catalog! Armand, you’re getting 
+lazy.
+>	
+Slamm-0!
+SPACESUIT
+If you need one of these, you best know all the specs of 
+the suit and then some, but they tend to design these 
+suits with the lowest common denominator in mind. I 
+carry basic models from all the major manufacturers, 
+each with a basic list of features that align pretty well 
+with each other—generally a life-support system, bio-
+monitor, commlink, standard polarized face shield, and 
+a liquid canteen built in for hydration during standard 
+operations. Don’t get in a tussle in one of these—any 
+damage will threaten the integrity of the suit and result 
+in the death of the user shortly after they hit the vacu-
+um of space.
+SECURITY SPACESUIT
+A standard spacesuit for use by security personnel or 
+runners looking to test whether it really is such a bad 
+idea to get into a fight in space.
+>> ARMOR & PROTECTION <<
+EVO HEL SUIT
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Evo HEL Suit
+8
+5
+10
+3,000¥
+Features: Custom Protection (Insulation 4, Fire Resistance 2, Radiation Shield 3, Chemical Protection 2), 
+Custom Fit, Gas Mask
+Wireless Bonus: Records and transmits environmental information.
+SPACESUIT
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Spacesuit
+12
+6
+16
+12,000¥
+Features: Biomonitor, Commlink (Device Rating 3), Custom Fit, Custom Protection (Chemical Seal, 
+Insulation 6, Thermal Damping 4), Flare Compensation
+Special Rules: Spacesuits require an Agility + Reaction (12, 1 minute) Extended Test to put on. Due 
+to the potentially lethal hazard caused by a mistake in putting on a suit, they come with alarms and 
+warning systems. Glitches cost time or have some other non-lethal effect, while critical glitches can be 
+life-threatening but should not result in the instant death of the vacuum of space. The spacesuit’s built-
+in oxygen supply lasts for twelve hours. The power supply lasts for twenty-four hours before it needs 
+recharging.
+Spacesuits require one hour of maintenance for every twelve hours of use. If a spacesuit doesn’t 
+get this maintenance, roll 1D6 each time it is used. On a roll of 1, the suit develops a potentially fatal 
+failure: a cracked seal, an air leak, temperature or power failure, etc. Increase the likelihood of a failure 
+by 1 for every additional 12 hours of use without maintenance (the suit fails on a 1D6 roll of 1 or 2 after 
+24 hours, and so on). Spacesuits come equipped with five emergency slap patches (additional patches 
+cost 50¥ each).
+No other armor can be worn with a spacesuit, but the suits can be equipped with armor add-ons 
+and modifications.
+Wireless Bonus: Records and transmits environmental information.
+<< specialty armor    81
+
+
+===== PDF page 83 =====
+MAGNETIC BOOTS
+In places that lack gravity, sometimes it’s nice to just be 
+able to stick to one place or walk around without using 
+your hands. Magnetic boots are the answer. A combi-
+nation of electromagnets and tiny suction cups make 
+adhesion to virtually any surface possible.  
+>	
+They can work in regular gravity too, but don’t trust them 
+to hold you completely against gravity. These with some 
+gecko tape gloves make scaling buildings easier, even if 
+you do have to climb facing out. 
+>	
+Mika
+SURVIVAL BUBBLE
+This self-inflating mylar bubble is designed for escape 
+and survival in the case of emergency decompression. 
+Or for rich people to entertain themselves rolling down 
+hills, or floating in the ocean. None of those uses are 
+the intended purpose for this thing, but if you’re cre-
+ative you can find other uses, even ones that take place 
+on terra firma. 
+THE NASTY SPOTS
+MCT EE SUIT
+While Evo has focused on spacesuit design due to their 
+extraterrestrial intentions, Mitsuhama has been de-
+signing ways to protect themselves from the messes 
+they keep leaving all over the planet. This is one such 
+effort—it’s a full-body, extreme-environment suit from 
+Mitsuhama and it’s worn by those who deal directly 
+with hazardous materials/environments, especially 
+chemical and biological agents or radiation. 
+>> ARMOR & PROTECTION <<
+MAGNETIC BOOTS
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Magnetic Boots
+—
+4
+12
+2,500¥
+Features: Custom Fit
+Special Rules: Movement in these boots is limited to 1/4 of normal movement rate, with no Sprint Tests 
+allowed. Climbing Tests receive +3 for wearers of these boots, but climbing takes place at half the 
+normal pace.  
+SURVIVAL BUBBLE
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Survival Bubble
+4
+4
+Rating x 3
+2,000¥
+Special Rules: The bubble takes one Combat Turn to inflate around the user(s). The sphere features 
+transparent windows, an airlock, 24 hours of oxygen per person each point of Rating (meaning a Rating 
+2 bubble can provide either 24 hours of oxygen for two people or 48 hours of oxygen for one person), 
+emergency food and water rations, a homing beacon (100 kilometer range), and a medkit (Rating 4). The 
+Rating of the bubble is how many people it will hold (maximum 6).
+Wireless Bonus: The homing beacon transmits supply levels to rescue personnel.
+MCT EE SUIT
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+MCT EE Suit
+6
+5
+10
+2,500¥
+Features: Custom Protection (Chemical Seal, Fire Resistance 4, Radiation Shielding 6).
+Wireless Bonus: Record and transmits environmental information.
+<< specialty armor    83
+
+
+===== PDF page 84 =====
+CUSTOMIZATIONS 
+AND OPTIONS
+Protection may be the primary purpose of armor, but 
+it’s the extra tools, toys, and tricks that can really give 
+most pieces of armor their personal appeal. I, and my 
+suppliers, offer a full range of features and modifica-
+tions for everything we sell. 
+AUTO-INJECTOR
+An auto-injector is a small medical injection unit built into 
+the armor and usually linked to the user’s biomonitor. 
+>	
+Guy I knew, T-Rack, had one dose of his injector loaded 
+with arsenic. Paranoid gangbanger thought it might open 
+an escape option in a capture. T-Rack got snagged by a 
+corporate black-bag team while taking a dip in the AZT 
+Boston Harbor CleanPool. His brother got a runner team 
+together to do an extraction, and he wanted to go along 
+for the ride. Story runs as you’d expect. He grabbed his 
+brother’s jacket—and never made it out the door.
+>	
+2XL
+FRESNEL FABRIC
+I’m not a big tech head, so I don’t know exactly how this 
+stuff works, but it’s a neat addition for anyone looking 
+to maintain lines of communication in difficult areas. 
+According to my tech specialist, this material can focus 
+and concentrate light or radio waves like the lens on a 
+lighthouse, boosting the directional power of a signal.
+PULSE WEAVE
+Talk about a flashy suit! This stuff transforms a suit into 
+one large flashpak. Like a nightclub in motion. 
+SHOCK WEAVE
+This is great at keeping grope-y guys off you at Dante’s 
+or giving a nasty surprise to the sec guard trying to take 
+you down. Shock weave delivers a moderate shock to 
+anyone making contact with the protected area.
+>	
+And how do wearers not shock themselves?
+>	
+/dev/grrl
+>	
+The weave is added to only certain spots. The user just 
+needs to avoid contacting those locations. It’s relatively 
+easy once you’re used to it. Watching people when they 
+first get it is rather humorous, though, as they tend to 
+walk around with their arms out away from them, kind 
+of like a toddler.
+>	
+Sticks
+UNIVERSAL MIRROR MATERIAL
+This is some strange stuff. I originally refused to carry it 
+since it was intended to jam up technomancers. Since 
+then some creative individuals have used it as a defen-
+sive technique. Depending on which way you direct the 
+fabric, this stuff jams wireless signals. 
+YNT SOFTWEAVE ARMOR
+SoftWeave was developed by Yamatetsu Naval Tech-
+nologies for sapients and the less common metavari-
+ents because it’s easier to mold and work into alter-
+native designs than standard armor technologies. It 
+works for the everyday Joe, and it also makes for lighter 
+gear with more flexibility for modifications. 
+RADIATION SHIELDING
+Do I need to express what this is for and who needs it? 
+I think not. If you’re working in an area that’s pumping 
+out the rads, you’ll need this worked into your gear. 
+>> ARMOR & PROTECTION <<
+CUSTOMIZATIONS
+NAME
+CAPACITY
+AVAIL
+COST
+Auto-Injector
+[2]
+4
+1,500¥ + chemical costs
+Fresnel Fabric
+[2]
+14R
+Rating x 1,000¥
+Pulse Weave
+[3]
++8R
+Rating x 3,000¥
+Shock Weave
+[3]
+8
+1,000¥
+Universal Mirror Material  
+(per square meter)
+[3]
+8F
+Rating x 250¥
+YNT Softweave Armor
+—
++4
+x2
+Ruthenium Polymer Coating (Rating 1-4)
+[4]
+16F
+Rating x 5,000¥
+Radiation Shielding
+[Rating]
+Rating x 2
+Rating x 200¥
+Gel Packs
+—
+6
+1,500¥
+Response Interface Gear (RIG)
+[2] + [1]
+8
+2,500¥
+84    customizations and options >>
+
+
+===== PDF page 85 =====
+RUTHENIUM  
+POLYMER COATING
+I’ll admit I loved Manhunt, that remake of the old flatvid 
+with the alien hunting a bunch of mercenaries in the 
+jungle. This stuff makes me think of that trid every time 
+I activate our display. It’s high-tech camouflage at its 
+finest. Add this to your favorite outfit and be ready to 
+blend in anywhere. 
+>	
+The low-grade software/sensor package for this stuff is 
+virtually useless unless you are standing completely still 
+and wearing a full suit. On the other hand the high-end 
+packages can make your armor jacket seem invisible at 
+a full sprint. It’s all a matter of body coverage and sensor/
+software efficiency.
+>	
+Bull
+>	
+Don’t get caught with this stuff. In ‘74 a kid got tossed into 
+a ruthenium bag during a snatch and grab. The ork hauling 
+the kid took a bullet to the brainpan and went down on 
+the street outside the Seattle AZT Pyramid. Knight-Errant 
+cordoned the scene and figured one of the other runners 
+snagged the kid. An hour later they opened the scene to 
+traffic again, and GridGuide rolled a bus over the kid who 
+was still out cold in the street, lying in the bag. Whole 
+thing led to a huge legal ruckus, and this stuff if purely 
+mil-spec now. No civilian usage. 
+>	
+Stone
+GEL PACKS
+This stuff looks silly but can save your life. Gel packs 
+look like a bunch of take-out soy sauce packets layered 
+all over your clothes or armor. They come in a variety of 
+colors and can even be custom ordered with different 
+colors in each packet to make a pattern or just add a lit-
+tle flare. The gel hardens for an instant to absorb some 
+of the force of impact but then gets all squishy again if it 
+isn’t punctured. If the gel makes contact with air it turns 
+dusty and brittle immediately. 
+>	
+Careful with the dust after a puncture. Some manufacturers 
+add an isotope that can be identified and tracked for up 
+to 48 hours. Intended as a way to locate wounded in the 
+field, it has become a tool for the police services to track 
+suspects after an altercation. 
+>	
+Stone
+RESPONSIVE  
+INTERFACE GEAR (RIG)
+This stuff is kind of fun, especially for those logged in 
+to access live broadcasts during Desert Wars engage-
+ments, urban brawl games, or combat biker matches. 
+It’s a full sim-suite and monitoring system. As of July 
+1,  it also carries the official Miracle Shooter line, which 
+comes with the feedback software to give soft simula-
+tions of hits during Miracle Shooter matches. 
+>	
+The new line of pieces for the Miracle Shooter line are 
+fitted into all sorts of regular clothing pieces. The hottest 
+seller so far has been a black baseball cap with the 
+distinctive MS logo along with black fatigues and a black 
+MS turtleneck. They come in armored variations too.
+>	
+Armand
+>> ARMOR & PROTECTION <<
+NEW GEAR RULES
+AUTO-INJECTOR
+If one or more pre-programmed conditions are met (set by 
+the character with a Simple Logic + Computer [Mental] (1) Test), 
+or an instruction is received from the wearer, either manually 
+or through the user’s PAN, the auto-injector dispenses a 
+medication, drug, or chemical directly into the wearer’s 
+bloodstream. Each auto-injector carries five doses that can 
+hold one or more substances in any combination. Refilling the 
+injector takes 1 minute per dose.
+Wireless Bonus: Activating a drug injection is a Free Action.
+FRESNEL FABRIC
+Reduce the Noise penalty by the rating of the Fabric. The 
+Noise reduction is directional and the wearer needs to align 
+their body in the direction of the device they are trying to 
+connect with. 
+Wireless Bonus: Reduce the Noise penalty by 1 more.
+PULSE WEAVE
+Anyone facing the pulse weave suit receives a –4 dice pool 
+modifier on tests to make direct physical attacks on the wearer 
+(flare compensation reduces this modifier to –2). The pulse 
+weave offers a number of charges equal to its rating; it needs 
+fifteen minutes to recharge.
+Wireless Bonus: Increase the Attack Test penalties by 1.
+SHOCK WEAVE
+Anyone entering a Grapple or Clinch with someone wearing 
+active Shock Weave armor must resist 8S(e) damage. The 
+wearer can also choose to take a Block Action when attacked 
+and intentionally block with an active Shock Weave plate on 
+their armor. This test needs to generate at least 2 hits (not 2 
+net hits) for the Shock Weave to be effective. A glitch means 
+the character accidentally zaps themselves. This armor 
+modification cannot be used offensively. 
+Wireless Bonus: The Block Test only needs to generate 1 hit.
+Continued...
+<< customizations and options    85
+
+
+===== PDF page 87 =====
+>> ARMOR & PROTECTION <<
+<< customizations and options    87
+INSTALLED GEAR AND CAPACITY
+Apply the following Capacity for each of these items detailed in the Street Gear chapter of SR5. For gear items in this 
+book, see the individual listings.
+ARMOR ADD-ON
+CAPACITY
+ARMOR ADD-ON
+CAPACITY
+Auto-Picker
+[1]
+Biomonitor
+[1]
+Climbing Gear
+[5]
+Concealed Holster
+[4]
+Flashlight
+[1]
+GPS
+[1]
+Holster
+[3]
+Keycard Copier
+[3]
+Lockpick Set
+[2]
+Medkit
+[5]
+Micro-flare Launcher
+[1]
+Miniwelder w/ 1 fuel canister
+[1]
+Miniwelder fuel canister
+[1]
+Quick-Draw Holster
+[4]
+Sequencer
+[2]
+Survival Kit
+[6]
+Tool Kit
+[6]
+Wire Clippers
+[1]
+ARMOR MODIFICATION
+Chemical Protection
+[Rating]
+Chemical Seal
+[6]
+Environmental Adaptation
+[4]
+Feedback System
+[3]
+Fire Resistance
+[Rating]
+Gas Mask
+[2]
+Internal Air Tank
+[1 per hour]
+Insulation
+[Rating]
+Nonconductivity
+[Rating]
+Respirator
+[2]
+Shock Frills
+[2]
+Thermal Damping
+[Rating]
+AUDIO ENHANCEMENTS
+Audio System
+[1]
+Audio Enhancement
+[Rating]
+Select Sound Filter
+[Rating]
+Spatial Recognizer
+[2]
+COMMUNICATIONS GEAR
+AR Gloves
+[1]
+Commlink
+[2]
+Jammer
+[2]
+Micro-transceiver
+[1]
+RFID Tag-Sim Module
+[1]
+Simrig
+[5]
+Skinlink
+[3]
+Tag Eraser
+[1]
+Trid Projector
+[2]
+Trodes
+[1]
+White Noise Generator
+[2]
+Wireless Link
+—
+SENSORS
+Atmosphere Sensor
+[1]
+Bug Scanner
+[2]
+Camera
+[1]
+Cyberware Scanner
+[1]
+Directional Microphone
+[1]
+Geiger Counter
+[1]
+Laser Microphone
+[2]
+Laser Range Finder
+[1]
+MAD Scanner
+[1]
+Microphone
+[1]
+Motion Sensor
+[1]
+Olfactory Sensor
+[1]
+Omni-directional Microphone
+[2]
+Radio Signal Scanner
+[1]
+Ultrasound
+[1]
+VISION ENHANCEMENTS
+Flare Compensation
+[1]
+Image Link/HUD
+[1]
+Low-Light Vision
+[1]
+Smartlink
+[1]
+Thermographic Vision
+[1]
+Ultrasound Sensor
+[2]
+Vision Enhancement
+[Rating]
+Vision Magnification
+[1]

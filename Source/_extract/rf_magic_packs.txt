@@ -1,0 +1,547 @@
+
+===== PDF PAGE IDX 6 =====
+Subtle Pistol PACK  232
+Light Security P
+ACK
+ 232
+Japanacorp Light Security P
+ACK
+ 232
+Smartgun P
+ACK
+ 233
+Street Slugger P
+ACK
+ 233
+Heavy Security P
+ACK
+ 233
+Cheap Soldier P
+ACK
+ 233
+Ares Alpha Gunner P
+ACK
+ 233
+Sniper P
+ACK
+ 234
+Sportsman P
+ACK
+ 234
+T
+ranq Darter PACK
+ 234
+Squad Assault W
+eapon PACK
+ 234
+Medium Machine Gunner P
+ACK
+ 234
+Rocketeer P
+ACK
+ 235
+Machine Gun Ammo Belt P
+ACK
+ 235
+Ammo Crate #1
+ 235
+Ammo Crate #2
+ 235
+Ammo Crate #3
+ 235
+Ammo Crate #4
+ 235
+Ammo Crate #5
+ 235
+Box of Grenades #1
+ 236
+Box of Grenades #2
+ 236
+ARMOR P
+ACKS
+ 236
+City Slicker P
+ACK
+ 236
+Go Anywhere Jacket P
+ACK
+ 236
+Neon Nights P
+ACK
+ 237
+Nightbird P
+ACK
+ 237
+Stylish Suit P
+ACK
+ 237
+T
+actical Helmet PACK
+ 237
+T
+usker Toughskin PACK
+ 237
+T
+anker PACK
+ 238
+CYBER P
+ACKS
+ 238
+Budget ’Jack P
+ACK
+ 238
+Standard ’Jack P
+ACK
+ 238
+Advanced ’Jack P
+ACK
+ 238
+Basic Wires P
+ACK
+ 239
+Advanced Wires P
+ACK
+ 239
+T
+ourist PACK
+ 239
+W
+orld Traveler PACK
+ 239
+Ambassador P
+ACK
+ 239
+Diploma-on-a-Chip P
+ACK
+ 239
+Degree-on-a-Chip P ACK  240
+Doctorate-on-a-Chip P
+ACK
+ 240
+V
+acation-on-a-Chip PACK
+ 240
+Competence-on-a-Chip P
+ACK
+ 240
+Datacourier P
+ACK
+ 240
+Sim-sational P
+ACK
+ 241
+Basic Combat Eyes P
+ACK
+ 241
+Advanced Combat Eyes P
+ACK
+ 241
+Eagle Eyes P
+ACK
+ 241
+Rabbit Ears P
+ACK
+ 241
+Bulletproof Jeff P
+ACK
+ 241
+Basic Razorboi P
+ACK
+ 242
+Advanced Razorboi P
+ACK
+ 242
+Basic Speedboost P
+ACK
+ 242
+Advanced Speedboost P
+ACK
+ 242
+Basic V
+atjob PACK
+ 242
+Advanced V
+atjob PACK
+ 242
+Basic Rigger P
+ACK
+ 243
+Advanced Rigger P
+ACK
+ 243
+Street Samurai Classic P
+ACK
+ 243
+Bioware Beef P
+ACK
+ 243
+Bioware Lean P
+ACK
+ 243
+Bioware Cat P
+ACK
+ 243
+Bio-Computer P
+ACK
+ 243
+Bioware Company Man P
+ACK
+ 244
+LIFESTYLE P
+ACKS
+ 244
+Bug-Out Bag
+ 244
+Street Rat P
+ACK
+ 244
+Lowlife P
+ACK 
+ 244
+Success in the Shadows P
+ACK
+ 244
+High Life P
+ACK
+ 245
+COLOR P
+ACKS
+ 245
+Cocktail Kid P
+ACK 
+ 245
+Gunbunny P
+ACK 
+ 245
+Drone Mechanic P
+ACK
+ 245
+Mechanic Shop P
+ACK 
+ 245
+Eavesdropper P
+ACK
+ 246
+Surveillance P
+ACK
+ 246
+Breaking and Entering P
+ACK
+ 246
+Jammer P
+ACK
+ 246
+Medic P
+ACK
+ 246
+Medical Patches P ACK  246
+Mountaineering P
+ACK
+ 247
+Infiltration P
+ACK
+ 247
+Demolitionist P
+ACK
+ 247
+VEHICLE P
+ACKS
+ 247
+Bunny Hopper P
+ACK
+ 247
+Racing Bike P
+ACK
+ 247
+Combat Biker P
+ACK
+ 248
+All-American P
+ACK
+ 248
+T
+eam Van PACK
+ 248
+Off Road P
+ACK
+ 248
+Non-combat Rigger P
+ACK
+ 248
+Combat Rigger P
+ACK
+ 248
+DECKER P
+ACKS
+ 248
+Intro to Hacking P
+ACK
+ 248
+Basic Decker P
+ACK
+ 249
+Advanced Decker P
+ACK
+ 249
+Basic Cyberdeck Programs P
+ACK
+ 249
+Advanced Cyberdeck Programs P
+ACK
+ 249
+DRONE P
+ACKS
+ 249
+Basic Drone 
+Commander P
+ACK
+ 249
+Advanced Drone Commander P
+ACK
+ 249
+Rigger Support P
+ACK
+ 250
+Dog Brain P
+ACK
+ 250
+Basic Spy Drone P
+ACK
+ 250
+Advanced Spy Drone P
+ACK
+ 250
+Basic Combat Drone P
+ACK
+ 250
+Advanced Combat Drone P
+ACK
+ 250
+Air Combat Drone
+ 251
+Advanced Air Combat Drone P
+ACK
+ 251
+MAGIC P
+ACKS
+ 251
+Basic Magician P
+ACK
+ 251
+Advanced Magician P
+ACK
+ 251
+Magic W
+and PACK
+ 251
+Magic Staff P
+ACK
+ 251
+Basic Medicine Bag P
+ACK
+ 251
+Advanced Medicine Bag P
+ACK
+ 252
+Basic Spirit Stick P
+ACK
+ 252
+Advanced Spirit Stick P
+ACK
+ 252
+Magic Spear P
+ACK
+ 252
+Buying the Basics
+ 252
+>> RUN FASTER <<
+<< CONTENTS/CREDITS    5
+RUN FASTER CREDITS
+Writing: Raymond Croteau, Kevin Czarnecki, Olivier 
+Gagnon, Patrick Goodman, Jason M. Hardy, Robyn 
+“Rat” King, Adam Large, Eric Lyon-Taylor, Scott Schletz, 
+William Stroud, R.J. Thomas, Thomas Willoughby, Russell 
+Zimmerman
+Editing: Kevin Killiany, Philip A. Lee
+Proofing: Lars Wagner Hansen, Mason Hart, Andrew 
+Marshall, Tim Patrick, CZ Wright
+Art Direction: Brent Evans
+Cover Art: Victor Manuel Leza Moreno
+Original Cover Art: Echo Chernik
+Cover  Layout: Matt “Beardo” Heerdt
+Iconography: Nigel Sade
+Interior Art: Piotr Arendzikowski, Daniel Comerci, Lucas 
+Durham, Matt Hansen, David Hovey, Ian King, Ian Llanas, 
+Dan Masso, Jason Metcalf, Victor Moreno, Mike Perry, 
+Kristen Plescow, Mark Poole, Andrea Radeck, Mickael 
+Rookard, Andreas “AAS” Schroth, Alex Stone, Eric Williams, 
+and Alex Williamson
+Interior Layout: Matt “Beardo” Heerdt
+Shadowrun Line Developer: Jason M. Hardy
+Playtesting & Proofing: Natalie Aked, Rob Aked, Jackson 
+Bruntsing, Karlene Dickens, Derek Dokter, Bruce Ford, 
+Eugen Fournes, Joanna Fournes, Sandy Gamboa, Tim Gray, 
+Kendall Jung, Alex Kadar, Peter Leitch, Dave Lundquest, Chris 
+Maxfield, Jon Naughton, Whitney Pace, Sue Powell, Richard 
+Riessen, Matt Riley, Mark Somers, Dylan Stangel, Ashley 
+Turkowski, Leland Zavadil
+===== PDF PAGE IDX 251 =====
+RIGGER SUPPORT PACK
+(4,000¥/2 KARMA) (9R)
+Regardless of the rigger control console taken, a little 
+support goes a long way. The Rigger Support PACK 
+comes with the basic software you need to augment 
+your RCC, tags to discreetly keep an eye on your 
+drones, a kit for keeping your broadcast strength up, 
+and a handy sidekick with a personality all its own to 
+help operate your drones, butler your home, or just 
+provide conversation.
+DOG BRAIN PACK
+(6,000¥/3 KARMA) (6)
+While any drone can handle the basics with the on-
+board piloting program, they always do better with a 
+little help. 
+(Common choices are (Model) Targeting and (Mod-
+el) Maneuvering for combat drones, (Model) Stealth and 
+Clearsight for spy drones, with Electronic Warfare and 
+First Aid for more specialized drones.)
+As an additional option, you might purchase an 
+Agent (2) program (2,000¥/1 Karma and 6 availability) 
+to serve as a personality matrix for a drone or vehicle, 
+allowing them fully autonomous operation. Never know 
+when you’ll need to whistle for your car.
+BASIC SPY DRONE PACK
+(2,000¥/1 KARMA) (8)
+All it takes is a little upgrade to the optical and audio 
+sensors to make the already impressive Kanmushi into 
+an excellent spy.
+ADVANCED SPY DRONE PACK
+(22,000¥/11 KARMA) (10)
+For those who need an eye in the sky, you can’t do bet-
+ter than an upgraded Lockheed. Vision magnification 
+lets you get good detail on the ground so far below, 
+while the select sound filter allows you to follow a par -
+ticular engine.
+BASIC COMBAT DRONE PACK
+(6,000¥/3 KARMA) (5R)
+The heavy support of choice for most riggers is both 
+semi-legal and dangerous. The Colt Cobra SMG is able 
+to keep a high rate of fire for an extended period, but 
+stray shots aren’t likely to punch through walls. Keep it 
+civil, kids!
+ADVANCED COMBAT  
+DRONE PACK
+(28,000¥/14 KARMA) (10R)
+There’s heavy support, and then there’s heavy support. 
+The Steel Lynx is an unmanned tank in all but name, 
+but you can still get a license for it with the right con-
+nections. For this reason, it comes unarmed, but ready 
+to mount whatever you think you can get away with, 
+from tasers and tranq darts to medium machine guns 
+or rocket launchers. 
+DOG BRAIN PACK
+ITEMS
+Four Autosoft (3) programs 
+>> RUN FASTER <<
+250    PACK YOUR KIT >>
+RIGGER SUPPORT PACK
+ITEMS
+Basic programs: 
+Encryption, Signal Scrub, 
+and Toolbox
+Ten stealth tags
+Hacking program: Sneak Electronic Warfare kit
+Pilot Program (3)
+BASIC SPY DRONE PACK
+ITEMS
+Shiawase Kanmushi with low-light vision and select 
+sound filter (2)
+ADVANCED SPY DRONE PACK
+ITEMS
+Lockheed Optic-X2 with vision enhancement (1), vision 
+magnification, and select sound filter (1)
+BASIC COMBAT DRONE PACK
+ITEMS
+GM-Nissan Doberman with Colt Cobra TZ-120 
+submachine gun and 170 rounds of regular ammo
+ADVANCED COMBAT DRONE PACK
+ITEMS
+Steel Lynx with low-light vision, smartlink, and 
+thermographic vision
+(Don’t forget to buy a weapon PACK for the drone!)
+===== PDF PAGE IDX 252 =====
+AIR COMBAT DRONE
+(8,000¥/4 KARMA) (8F)
+The MCT-Nissan rotodrone is the single most modified 
+thing in the sky, but they get real antsy when you strap 
+a gun to it.
+ADVANCED AIR  
+COMBAT DRONE PACK
+(18,000¥/9 KARMA) (8F)
+Death from the skies, be they blue, black, or cloudy. The 
+twin weapon mounts give you some serious options 
+for firepower. 
+MAGIC PACKS
+An important aspect of magical PACKs is that many re-
+quire extra Karma, beyond the monetary cost. This is re-
+flected with a second cost of +X Karma on each PACK.
+BASIC MAGICIAN PACK
+(2,000¥/1 KARMA) (8)
+Easily the standard for all mages, including street sha-
+mans, the magical lodge materials are vital for any 
+summoner.
+ADVANCED MAGICIAN PACK
+(4,000¥/2 KARMA) (12)
+For those following the higher mysteries, a top-flight 
+lodge is combined with ample reagents for all manner 
+of trickery.
+MAGIC WAND PACK
+(36,000¥/18 KARMA) (+12 KARMA) (8R)
+While a power focus can take any shape, a magic wand 
+is a staple for many hermetic mages. You have to love 
+the classics.
+MAGIC STAFF PACK
+(54,000¥/27 KARMA)  
+(+18 KARMA) (12R)
+Everyone knows that wands are great, but if you really 
+want to show off your power as a spellcaster, you carry a 
+staff. Of course, carrying around a big stick may be cum-
+bersome, so the “staff” in question might be a branch-
+shaped lapel pin, but the basic principle remains.
+BASIC MEDICINE BAG PACK
+(8,000¥/4 KARMA) (+4 KARMA) (6R)
+The medicine bag used here is but one of many spell 
+foci that you can use. In this case, a shaman’s tradition-
+al bag is used for healing magic, but a dreamcatcher 
+for counterspelling, an amulet for sustaining, or a drum 
+for ritual magic are all the same cost. If you need more 
+power, opt for the Advanced Medicine Bag PACK.
+ADVANCED MAGICIAN PACK
+ITEMS
+Magical lodge materials (6) Fifty drams of reagents
+>> RUN FASTER <<
+<< PACK YOUR KIT    251
+BASIC MAGICIAN PACK
+ITEMS
+Magical lodge materials (4)
+MAGIC WAND PACK
+ITEMS
+Power focus (2) 
+MAGIC STAFF PACK
+ITEMS
+Power focus (3) 
+BASIC MEDICINE BAG PACK
+ITEMS
+Spell focus: Spellcasting (Health) (2)
+ADVANCED SPY DRONE PACK
+ITEMS
+MCT-Nissan Rotodrone with low-light vision
+Standard weapon mount
+(Don’t forget to buy a weapon PACK for the drone!)
+ADVANCED AIR COMBAT 
+DRONE PACK
+ITEMS
+Cyberspace Designs Dalmatian with low-light vision, 
+smartlink, and thermographic vision
+Two standard weapon mounts
+(Don’t forget to buy a weapon PACK for the drone!)

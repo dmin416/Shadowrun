@@ -1,0 +1,239 @@
+rapid response forces, especially those belonging to jap-
+anacorps, including the Renraku Red Samurai. It comes 
+armed with two weapon mounts to ensure that its pre-
+cious cargo survives even the hottest dustoffs and dic-
+iest landings.
+Northrup Wasp: This one-man rotorcraft is designed 
+for police and security service. A wasp, lightly armored 
+and equipped with a heavy weapon mount, is the stan-
+dard, rote corporate security response to ever-mounting 
+shadowrunner problems.
+VTOL/VSTOL
+Vectored thrust crafts are operated with the Pilot Air-
+craft skill.
+Ares Venture: This small, cheap LAV is manufac-
+tured from off-the-shelf parts at environmentally friend-
+ly plants for use by smugglers worldwide. The Venture 
+sees a wide variety of legitimate, security, and military 
+use besides being a favorite of smugglers on a budget. 
+It is often used as a cargo or passenger transport, and 
+heavily armed and armored variants exist for patrol duty. 
+The Venture sells well among third-world customers.
+GMC Banshee: This lightning-fast, supersonic aircraft 
+is the classic, iconic t-bird, and it has the armor, arma-
+ments, and sensor suites to prove it. This LAV sees mili-
+tary use in reconnaissance and courier duty, and is a fa-
+vorite of elite smugglers for white-knuckle illegal border 
+crossings, with its ability to fly under the radar through 
+canyons at high speeds.
+Federated Boeing Commuter: This tilt-wing passen-
+ger aircraft sees heavy use as an inter-city shuttle, hop-
+ping between corporate-controlled aerospaceports and 
+ferrying sararimen around the world. Shadowrunners 
+are unlikely to use it as their own equipment, but they 
+may run into it, particularly if they’re on an extraction or 
+executive-protection detail.
+MICRODRONES
+The skill used to pilot a microdrone varies from drone 
+to drone.
+Shiawase Kanmushi: This is a four-legged “bug” 
+crawler drone that is hard to tell from a natural insect at 
+a glance. It’s ideal for penetrating confined areas, and 
+its gecko-tipped extremities and light weight render it 
+capable of crawling on walls and ceilings; it is, however, 
+quite fragile, and merely being stepped on or a tag eras-
+er can easily destroy it. This drone is operated with the 
+Pilot Walker skill.
+Sikorsky-Bell Microskimmer: Quiet and durable, 
+this disc-shaped skimmer is smaller than a frisbee and 
+can even skim over water. It moves with small and rather 
+weak hoverjets. It is easier to spot than the Kanmushi, 
+but still very small. It is operated with the Pilot Ground-
+craft skill; the hovercraft specialization applies.
+MINIDRONES
+Horizon Flying Eye: This spherical flying drone uses 
+omnidirectional thrust nozzles to stay airborne. Just 
+about eyeball-sized, it can roll itself on the ground, 
+though it needs to fly to overcome obstructions like 
+stairs and curbs. A version with a built-in flash-pak and 
+smoke grenade costs 500¥ extra; detonating them de-
+stroys the drone. Use Pilot Aircraft to operate.
+>> STREET GEAR <<
+VEHICLES
+WATERCRAFT
+HANDL
+SPEED
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Samuvani Otter
+4
+3
+2
+12
+6
+2
+2
+8
+—
+21,000¥
+Yongkang Gala Trinity
+5
+6
+3
+10
+6
+1
+1
+3
+8
+37,000¥
+Morgan Cutlass
+5
+4
+2
+16
+10
+3
+5
+6
+14R
+96,000¥
+Proteus Lamprey
+3
+2
+1
+6
+6
+1
+3
+4
+—
+14,000¥
+Vulkan Electronaut
+3
+3
+1
+12
+10
+4
+4
+2
+10
+108,000¥
+AIRCRAFT
+HANDL
+SPEED
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Artemis Nightwing
+6
+3
+1
+4
+0
+1
+1
+1
+8
+20,000¥
+Cessna C750
+3
+5
+3
+18
+4
+2
+2
+4
+8
+146,000¥
+R-F Fokker Tundra-9
+3
+4
+3
+20
+10
+3
+3
+24
+12
+300,000¥
+Ares Dragon
+4
+4
+3
+22
+8
+3
+3
+18
+12
+355,000¥
+Nissan Hound
+5
+4
+3
+16
+16
+2
+4
+12
+13R
+425,000¥
+Northrup Wasp
+5
+5
+3
+10
+8
+3
+3
+1
+12R
+86,000¥
+Ares Venture
+5
+7
+4
+16
+14
+4
+4
+6
+12F
+400,000¥
+GMC Banshee
+6
+8
+4
+20
+18
+4
+6
+12
+24F
+2,500,000¥
+Fed-Boing Commuter
+3
+3
+3
+16
+8
+3
+3
+30
+10
+350,000¥
+<< VEHICLES and DRONES     465

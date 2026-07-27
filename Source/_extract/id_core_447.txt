@@ -1,0 +1,131 @@
+rent. An appropriate shopsoft—one exists for each type 
+of product like electronics, firearms, melee weapons, ar-
+mor, et cetera—provides a +1 bonus to your Social limit 
+for all Availability and Negotiation tests you make to buy 
+and sell those items.
+Tutorsofts: These virtual private tutors aid you in 
+learning a specific skill. The tutorsoft makes Instruction 
+Tests with a dice pool equal to its Rating x 2. Tutorsofts 
+cannot teach skills based on Magic or Resonance.
+SKILLSOFTS
+A skillsoft program is a recorded skill—digital knowl-
+edge and muscle memory. When used in conjunction 
+with the proper augmentations (a skilljack for know-
+softs and linguasofts, and a skillwire system for active-
+softs) skillsofts let you know and do things you’ve nev-
+er otherwise learned. Even kung fu.
+Skillsofts aren’t educational tools; you can’t actually 
+learn from them. They’re highly favored by corporations 
+interested in a cheaper labor force (when the difference 
+between a skilled and unskilled worker can be as simple 
+as slotting a chip, the difference in salary is smaller).
+When a skill test is called for, the character may use 
+the skillsoft rating in place of the skill. Downside: tests 
+made with a skillsoft may not be boosted with Edge in 
+any way.
+Activesofts: Activesofts replace physical active 
+skills, basically every Active skill that isn’t based on Mag-
+ic or Resonance. A skillwire system (p. 455) is needed to 
+translate the ‘softs into usable muscle memory. There’s 
+a limit to the number of skills you can use at once, based 
+on your skillwire’s rating.
+Knowsofts: Knowsofts replicate Knowledge skills, 
+actively overwriting the user’s knowledge with their own 
+data. Knowsofts must be accessed with a skilljack, and 
+the number you can use at once is limited by the skilljack.
+Linguasofts: Linguasofts replicate language skills, 
+allowing a user to speak a foreign language by auto-
+matically translating signals from the speech cortex, 
+although chipped speech can be awkward and stilted—
+then again, so can anyone speaking a language that’s 
+not their native tongue. Linguasofts must be accessed 
+with a skilljack, which limits how many skillsofts you can 
+use at a time.
+ID AND CREDIT
+IDs and credsticks are discussed in more detail under 
+Identification, p. 366.
+Certified credstick: Cash for the late 21st century. A 
+certified credstick is not registered to any specific person—
+the electronic funds encoded on it belong to the holder, re-
+quiring no special ID or authorization to use. The bad news 
+is that you can be physically mugged, any money you have 
+on your credstick jacked and rolled. The good news is that 
+certified credsticks are completely untraceable. They’re not 
+even wireless—you have to slot them into a universal data 
+connector to transfer cash onto or off of them. This makes 
+them enduringly popular with shadowrunners and the Mr. 
+Johnsons who love to hire them.
+Each type of credstick can only hold up to a certain 
+amount of money, listed on the table. This is the maxi-
+mum amount it can carry, not the amount it always has 
+on it—so don’t get excited when you see a gold cred-
+stick until you’ve slotted it and checked its balance.
+Credit account: A credit account is an online bank-
+ing account that can be accessed at any time via your 
+commlink. Transactions require passcode or biometric 
+verification to be authorized. The good news is no one 
+can (physically) steal your bank account, and hacking 
+credit accounts often requires a run to Zurich Orbital or 
+something equally suicidal. The bad news is that digi-
+tal transactions leave a “paper trail” that, while it can be 
+hidden or concealed, is entirely too traceable for seri-
+ous criminal activities. Each account must be registered 
+to a particular (usually fake) SIN, unless the account is 
+handled by an anonymous underworld banking service 
+(with its own risks and complications). The cost of bank-
+ing services is included in your lifestyle costs if you’ve 
+got a Low Lifestyle or better—otherwise you’ll need to 
+keep all your money on credsticks.
+Fake system identification number (SIN): In 2075, 
+you’re just a number. A SIN (or its international equiv-
+alents) is what makes a mere metahuman into a real 
+person. Solid citizens receive their SINs at birth and car-
+ry them until they die. Not having a SIN means living 
+outside the system, living with restricted or non-existent 
+civil rights. Shadowrunners by default are SINless—they 
+>> STREET GEAR <<
+SOFTWARE
+PROGRAM/SOFTWARE
+AVAIL
+COST
+Agent (Rating 1–3)
+Rating x 3
+Rating x 1,000¥
+Agent (Rating 4–6)
+Rating x 3
+Rating x 2,000¥
+Autosoft
+Rating x 2
+Rating x 500¥
+Cyberprogram, common use
+—
+80¥
+Cyberprogram, hacking
+6R
+250¥
+Datasoft
+4
+120¥
+Mapsoft
+4
+100¥
+Shopsoft
+4
+150¥
+Tutorsoft (Rating 1–6)
+Rating
+Rating x 400¥
+SKILLSOFTS
+SKILLSOFT
+AVAIL
+COST
+Activesofts (Rating 1–6)
+8
+Rating x 5,000¥
+Knowsofts (Rating 1–6)
+4
+Rating x 2,000¥
+Linguasofts (Rating 1–6)
+2
+Rating x 1,000¥
+442    Electronics >>

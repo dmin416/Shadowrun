@@ -1,0 +1,1432 @@
+
+
+===== runandgun.pdf p144 =====
+Watching the temperature numbers drop on the AR display while sitting in the cozy warmth of his MCT EnviroGen 
+extreme environment tent made Grant Toshi beam with pride over the advanced temperature regulation systems he 
+had helped to develop. It was thrilling to finally be out of the lab and in the field. Though he had some doubts in the 
+beginning about using his precious vacation time to do some private field testing, he was past all that now. 
+As the wind outside continued to howl and he watched the display slide past –30° Celsius, he slipped off the last 
+of his garments to truly enjoy the cozy 24° C air inside the spacious tent. He considered the howling and pulled up 
+another window in the AR field to jot down notes for a proposed upgrade, a model with more sound dampening. That 
+note was quickly followed by a few more notes on how to develop that without compromising the other systems. 
+He was in the middle of a heat absorption equation for MCT’s new Sairento™ advanced sound dampening material 
+when Shiyonin, his agent program, informed him of a message he had just received. 
+<Get dressed, exit the tent, and walk away.> No signature. No transmission authentication code. 
+Toshi considered his options. Doing as the message said was not one of them. He had only reached his current 
+location with the help of his guide, Shan-jun, who was currently assisting another climber on a distress call the pair 
+had received about an hour earlier. He wouldn’t survive long without the guide, and he knew it. Toshi thought it best 
+to simply negotiate. 
+He tapped the AR reply icon and began to type on the AR keypad. <I understand the nature of your message and don’t 
+wish to argue or insult, but I do not think I can exit…>
+At the sound of a pair of quick slapping pops, Toshi stopped typing. He felt a chill immediately start to fill the air 
+and looked up to see two holes near the top of the tent, which were flapping and growing larger with the gusting wind. 
+Toshi tapped the voice operation command for typing and began to speak the rest of the message as he grabbed the 
+repair kit and hurried to work on the holes.
+“… this tent and survive, period, I would like to make an alternate arrangement, period, is your intention to get this 
+tent for a corporate employer other than MCT, question mark, end message, send.” His voice was relatively calm and 
+monotone while his hands frantically sprayed the InstaSeal™ repair fluid over the holes. The tent was resealed only a 
+moment after the message was sent.
+The reply came quickly.
+Another slapping pop was followed almost instantly by something small and fast slamming into, and through, his 
+gut before proceeding out the other side of the tent. 
+Toshi didn’t bother to look down; he knew he’d been shot. It wasn’t as painful as he had always imagined it would 
+be. His knees gave out quickly and he fell back onto the pile of clothes he had discarded to enjoy the warmth of the 
+tent. He tried to sit up but found the muscles of his abdomen unresponsive. He craned his neck up and down and saw 
+the clean hole where the bullet had come in and then the blood spattered mess around the tent’s exit wound. 
+The cold air blowing in from the exit hole passed over his face and turned his breath to an icy mist. A freezing wind 
+iced his shredded abdomen. He finally looked down and saw the steam rising from his warm blood. The blood was 
+freezing fast, and instead of coagulating to seal the wound, the blood was forming an icy bandage. 
+The calm suddenly left him, replaced by a rush of panic and fear. “Help!” Toshi screamed, again and again. A small 
+part of his mind knew that the howling of the wind was much louder than his injury-hampered screams, and the 
+screams grew quieter and less frequent with each breath of freezing air he drew into his lungs. 
+It wasn’t long before the air in the tent was painful to breathe and Toshi began to waver on the edge of con-
+sciousness. 
+He remembered seeing the tent open and Shan-jun appear. He remembered the frigid chill as he was dragged out 
+onto the snowy mountainside. He remembered the feeling of not-feeling, the complete loss of physical sensation. He 
+remembered the thunderous explosion and the avalanche. He remembered the light, the voices, the warmth of the 
+nutrient tank. He remembered the face of Shan-jun and the icy death to which he was left.   
+RUN & GUN
+STAYING
+ALIVE
+144    STAYING ALIVE >>
+
+
+===== runandgun.pdf p145 =====
+INTRODUCTION
+Surviving in the shadows is not just about having the 
+best armor or the fastest wires. Sometimes it’s about 
+knowing when not to wear that armor, or knowing 
+when those wires should be turned off so that a run-
+ner’s body doesn’t start to cannibalize itself to stay 
+alive. Smart runners know that the surrounding envi-
+ronment can kill a runner just as dead as a bullet to the 
+head, and it’s often far more painful.
+The environment is also an important element in a 
+Shadowrun story. “It was a dark and stormy night” is a 
+clichéd beginning, but it’s repeated so often for a rea-
+son—the elements evoke a particular mood. Surround-
+ing conditions can play a role in any story, setting the 
+mood, restricting travel or movement when required by 
+a scene, or supplying a challenge that cannot be over-
+come with bullets, blades, bombs, or bone lacing. 
+This chapter gives gamemasters and runners more 
+information about surviving extreme environments, of-
+fering new tests for runners and expanding on the ba-
+sic Fatigue From Environments rules in Shadowrun, Fifth 
+Edition (p. 172), especially defining the characteristics of 
+those environmental categories. The chapter also pro-
+vides some new rules to create extended effects for 
+long-term campaigns that come from over-exposure 
+to certain negative aspects of the environment. Fatigue 
+rules focus on the immediate or short-term effects of 
+exposure to extremes of the environment. These ef-
+fects can come into play during any game or any session 
+when the environment is being used as an obstacle. The 
+rules for long-term effects, by contrast, can come into 
+play over extended campaigns, and perhaps may mani-
+fest as character Qualities.
+Players would be wise to use this section in conjunc-
+tion with the Arsenal (p. 18), Armor & Protection (p. 
+56), and Tactics & Tools (p. 88) chapters so they can se-
+lect the handy tools they may need to survive their next 
+trip into the most dangerous parts of the Sixth World.
+WORLDLY 
+HAZARDS
+Through rain, snow, sleet, and hail, the run must go on. 
+Not to mention scorching heat, oppressive humidi-
+ty, blood-chilling cold, gut-wrenching pollution, and 
+cell-searing radiation. Runners don’t always operate 
+in the best conditions, and making the weather more 
+than just a backdrop adds richness, excitement, and 
+challenge to running in the Sixth World.
+Each of the following sections describes the basic 
+hazards of a different environment, defines in better de-
+tail what the categories mean for that environment in 
+the Shadowrun, Fifth Edition, and provides various mod-
+ifiers to stay healthy and shoot straight in various envi-
+ronments. 
+HEAT
+The hazards of heat are not limited to the flamethrow-
+er in the hands of the local Halloweeners. Most of the 
+dangers of a temperature excess are much more subtle, 
+and though the rules in the core rulebook can be used 
+to handle vague situations, here we’ll present more de-
+tailed scene guidelines and some limit and skills mod-
+ifiers to bring the real danger of spending too much 
+time in the oven to the gaming table.
+The metahuman body can be quite resilient when it 
+comes to extremes of heat, up to a point. Perspiration, 
+conduction, convection, and radiation are the primary 
+ways that the metahuman body maintains a stable core 
+temperature. Problems arise in three of the four methods 
+once the ambient air temperature exceeds the regulated 
+metahuman body temperature, and those methods be-
+come almost completely ineffective. Only perspiration 
+continues as an effective way to discharge excess heat 
+when it gets too warm. However, perspiration costs the 
+body additional resources and creates other problems 
+for the overheated shadowrunner.
+The basic heat environment is covered here. The 
+sidebar Water in the Air covers how humidity can af-
+fect the different environments and how the Fatigue 
+From Environment durations shift based on humidity. 
+<< Introduction    145
+
+
+===== runandgun.pdf p146 =====
+The deadly end of things is very high, but at those tem-
+peratures, the average metahuman can only survive for 
+under a minute. Stay out of the oven!
+ENVIRONMENT SEVERITY
+MILD
+Mild heat environments range from 32° to 38° Cel-
+sius (90° to 100° Fahrenheit). These temperatures can 
+be found all over the world, especially in the tropics. 
+During the summer months, even spots as far north as 
+Nome, Athabaskan Council and as far south as Tierra 
+del Fuego, Argentina have been reaching these tem-
+peratures. A summer urban heat wave can keep tem-
+peratures in this range for days at a time, long enough 
+to wear down a runner on the street (Squatter or Street 
+Lifestyle) and keep them worn down for the duration.
+This level of temperature isn’t hard to survive for an 
+average metahuman. They will only start being affected 
+after eighteen hours or so. Usually by that point night 
+has fallen and temperatures will be dropping, putting 
+an end to temperature threats. An average metahuman 
+will have to be exposed to temperatures in this range 
+for thirty-six straight hours without any intervention or 
+protection to fall unconscious and sixty straight hours to 
+die. This makes these temperatures a great way to kill a 
+runner slow or torture them (wink, wink, nudge, nudge), 
+but not exactly a deadly environment. 
+MODERATE
+Moderate heat environments range from 38° to 43° C 
+(100° to 110° F). Temperatures this high usually occur 
+only during extreme heat waves in northern and south-
+ern latitudes but can be a regular daily summer high in 
+the middle latitudes, or many desert regions.
+This temperature range is a bit more unpleasant but 
+still not a quick killer. The average metahuman can stay 
+conscious in this environment for eighteen hours, which 
+should be plenty of time to find a spot to cool down. On 
+average, death only comes after thirty hours out in this 
+temperature. If a shadowrunner is stuck in this kind of 
+heat for that long without finding a place to cool down, 
+they probably deserve to die. 
+HARSH
+Harsh heat environments range from 43° to 55° C 
+(110° to 130° F). These are some of the nastiest places 
+in the Sixth World: Death Valley, PCC; the Gobi Desert 
+in Asia, which touches half a dozen nations; and the 
+Arabian Desert, where daily temperatures, even during 
+the milder months, push up into this range. The sum-
+mer months in these places sometimes move into the 
+Extreme range. These temperatures are also found 
+in some of the Sixth World’s deepest mines, where 
+megacorporations dig through the earth trying to tear 
+out every ounce of resources they can muster for a 
+profit, or hide a project from prying eyes.
+This is a temperature level that can be dangerous 
+over shorter periods of time. The average metahuman 
+can only survive in this environment for ten hours, less 
+than the daylight period in many hot regions, and they 
+risk unconsciousness after only six hours in the oppres-
+sive heat.
+EXTREME 
+Extreme heat environments range from 55° to 71° C 
+(130° to 160° F). These are usually the highest recorded 
+temperatures for normal surface environments on Earth. 
+These are also the temperatures you find inside the 
+deepest mines on the planet when the ventilation mal-
+functions (whether through breakdowns or sabotage). 
+These temperatures can also be created in other places 
+by hot machinery, forges with molten metals, or plac-
+es with poor safety measures put in place by uncaring 
+megacorporations who value profit over worker safety.
+This temperature range is at the limits of extended 
+metahuman tolerance. The average metahuman can 
+only handle these extremes for about six minutes before 
+passing out. By the ten-minute mark, they’re going to be 
+done. Well done.
+DEADLY
+Deadly heat environments are those in excess of 71° 
+C (160° F). Luckily these temperatures aren’t normally 
+found in nature, but metahuman ingenuity has man-
+aged to create a lot of things not found in nature. In 
+nature, this temperature is only found near lava flows 
+or lava plains and in mines deeper than two thousand 
+meters. Digs to that depth are not common, but a 
+few megacorporations have not limited the depths to 
+which they will sink for resources and thus dig further 
+each day. 
+This level of temperature is truly deadly. The average 
+metahuman will only survive in this environment for one 
+minute and will only remain conscious in the environ-
+ment for about forty seconds. 
+PERSPIRATION  
+AND DEHYDRATION
+Hot environments make people sweat, and cold envi-
+ronments make people wear lots of layers, which will 
+often cause them to sweat and then absorb the pre-
+cious liquid. Sweat is water leaving the body through 
+the skin, water that the body would normally have used 
+for other biological processes that are necessary to the 
+continuation of life. Each different Environmental Se-
+verity has a differing effect on how quickly characters 
+need to make Resistance Tests against Fatigue from 
+thirst. The increased rate only needs to be considered 
+for Mild, Moderate, and Harsh Severity areas; Extreme 
+and Deadly Severity areas will bring death well before 
+dehydration is a concern.
+>> STAYING ALIVE <<
+146    Worldly Hazards >>
+
+
+===== runandgun.pdf p147 =====
+In a Mild Severity Environment, characters have only 
+eight hours before they need to start replenishing the 
+water lost due to perspiration. Fatigue Tests then follow 
+every six hours after that until the character falls uncon-
+scious. Once the character is unconscious, the body im-
+proves the efficiency of water use and the tests occur 
+every twelve hours. Drinking half a liter of water at any 
+time restarts the Fatigue Test durations in this environ-
+mental severity. 
+In a Moderate Severity Environment, characters have 
+only four hours before they need to start replenishing the 
+water lost due to perspiration. Fatigue Tests then follow 
+every three hours after that until the character falls un-
+conscious. Once the character is unconscious, the body 
+improves the efficiency of water use, and the tests occur 
+every eight hours. Drinking half a liter of water restarts 
+the Fatigue Test durations in this environmental severity.
+In a Harsh Severity Environment, characters have 
+only two hours before they need to start replenishing the 
+water lost due to perspiration. Fatigue Tests then follow 
+every 1.5 hours after that until the character falls uncon-
+scious. Once the character is unconscious, the tests occur 
+every six hours. Drinking half a liter of water restarts the 
+Fatigue Test durations in this environmental severity.
+These time increments and environments assume a 
+normally dressed individual doing little to exert them-
+selves. Characters exerting themselves through physical 
+labor, extended overland movement, combat, or im-
+proper or excessive clothing suffer dice pool penalties 
+based on the Environmental Test Modifiers Table. 
+SUNBURN
+Not that it wasn’t bad enough that it’s hot and your 
+character is sweating but that damn Sol, giver of all 
+life on Earth, is glaring down at you trying to sear your 
+flesh. For the less poetic, that means the sun is trying to 
+give you sunburn. 
+Sunburn can be more than just an annoyance. If 
+you’ve spent time in a desert or just too much time 
+outside at the beach and got some of those really nas-
+ty sunburns that blister the skin, you know how badly 
+ENVIRONMENTAL TEST MODIFIERS
+CONDITION
+FATIGUE ROLL MODIFIER
+DURATION MODIFIER
+Heat
+Shorts
++1
+—
+Armor
+– (1/2 Armor Value)
+—
+Humidity: High
+—
+Standard ÷ 2
+Humidity: Low
+—
+Standard ÷ 2
+Sunburn
+Sunblock
++2
+Standard x 1.5
+Clothing
++2
+—
+Cloud cover
++2
+—
+Cold
+Being wet
+–2
+—
+Dehydration
+Armor
+– (1/2 Armor Value)
+—
+Combat
+—
+Every 3 Combat Turns
+Humidity: High (90-100%)
+—
+Standard ÷ 2
+Humidity: Medium (10-30%)
+—
+Standard ÷ 2
+Humidity: Low (0-10%)
+—
+Standard ÷ 3
+Engaged in manual labor
+–1
+Standard ÷ 2
+Overland movement
+—
+Standard ÷ 2
+Shorts
+–1
+—
+>> STAYING ALIVE <<
+<< Worldly Hazards    147
+
+
+===== runandgun.pdf p148 =====
+sunburn can affect the life of whoever gets it—right up 
+to ending said life.
+Sunburn damage is based on a lot of factors, but 
+these rules focus on three: latitude, season, and time 
+of day. The rest of the factors are handled as modifiers, 
+found on the Environmental Test Modifiers table. 
+Summer, December 20 to March 20 in southern lat-
+itudes, and June 20 to September 20 in northern lati-
+tudes, is the time when those areas of the planet get the 
+most direct and concentrated rays of the sun, and thus 
+offers the highest risk of sunburn. The winter months, 
+the reverse of the dates above, offer the least risk. The 
+most direct rays of the sun blast down on the tropics, 
+Cancer and Capricorn, during their summer months and 
+decrease in intensity throughout the rest of the year or 
+as you move north or south of those lines during their 
+respective seasons. Autumn and spring are about equal 
+for the northern and southern latitudes, but those are 
+the times of year when the equator gets the most direct 
+sunlight. As for the time of day, that’s simpler. Between 
+the hours of 1000 and 1600, the sun hits with its great-
+est intensity.
+The duration between Resistance Tests and the base 
+DV of the tests are listed on the Sunburn Resistance im-
+age. These numbers are for the height of each season 
+and those unpleasant midday hours. The first DV listed 
+is the starting DV for the Damage resistance tests. The 
+second DV kicks in once a character has suffered at least 
+4 boxes of Stun damage from the sun. At that point the 
+damage stops being Stun and turns to Physical. Sunburn 
+Damage Resistance Tests use only natural unaugmented 
+Body. Cyberlimbs do not count as exposed flesh for the 
+purposes of tests, so wearing shorts over your cyberlegs 
+doesn’t incur the modifiers from the table. 
+RADIANT HEAT
+Direct sunlight isn’t the only way your skin can get 
+scorched—radiant heat can do damage as well. Charac-
+ters with exposed skin need to resist an increasing DV, 
+starting at 1S and rising each Combat Turn, if they are 
+exposed to intense radiant heat. This heat can come 
+from being within proximity (exact distance is up to 
+the gamemaster) of a lava flow, extremely hot surface, 
+open flame, welding torch, etc. 
+KILLING FROST
+Metahumans are not evolved to be cold-weather crea-
+tures. Over the millennia we have lost our insulating 
+hair, we don’t put on thick layers of blubber to keep 
+warm, and we complain when the temperature gets be-
+low 20° C (68° F). We have developed tools and tech-
+nologies to keep us warm, but sometimes those aren’t 
+around to help you, or it might get so cold that even 
+an Ares ThermalWeave™ jacket isn’t going to keep you 
+from chattering your teeth and possibly losing some 
+digits if you stay out too long.
+Staying warm is basically a combination of two 
+things, producing and retaining heat. The metahuman 
+body will produce plenty of heat to keep itself comfort-
+able, but only down to a certain point on the thermom-
+eter. The body will stop perspiring, restrict blood flow to 
+the surface, and release bio-chemicals to increase heat 
+production, but each of these actions can have their own 
+negative effects and damaging impact.
+Stopping perspiration is a great way to limit heat loss, 
+but it is one of the first mechanisms the body triggers to 
+cool back down after exertion. In the cold, having skin 
+covered in sweat can cost you. Any extended period 
+of exertion or sudden temperature change can cause 
+sweating to occur, and once the beads start to form, Jack 
+Frost will start nipping at your nose and whatever other 
+body parts are vulnerable. 
+Restricting blood flow to the skin’s surface prevents 
+heat exchange between the blood and the air, helping 
+to preserve the heat within the blood. Problem is, ex-
+tremities such as fingers, toes, ears, the nose, and every 
+square centimeter of skin are then at risk. The ambient 
+cold then begins to cause cellular damage that most 
+folks refer to as frostbite.
+As for the release of various bio-chemicals to in-
+crease body temperature, the balance is a dangerous 
+one. Too much and the body starts to sweat to cool off, 
+too little and the effect isn’t great enough to actually do 
+any good. In Shadowrun, this effect is taken into account 
+with the Resistance roll that includes Body.  
+The tricky thing about cold is that the metahuman 
+body can usually survive for a little while no matter 
+how cold it is. Until temperatures get to the point where 
+things instantly freeze, the metahuman body is able to 
+regulate for a little while. An average metahuman (Body 
+3, Willpower 3) can survive an Extreme environment for 
+about ten minutes with average rolls. Keep that in mind 
+when planning the environment the players will face.
+ENVIRONMENT SEVERITY
+MILD
+Mild cold environments range from 10° to –1° C (50° 
+to 30° F). These temperatures may not seem very cold 
+until you are stuck standing outside in them for a really 
+long time in normal clothing. In northern and southern 
+latitudes temperatures in this range for extended peri-
+ods are common in every season besides summer. That 
+means runners who have failed to provide themselves 
+with proper regular shelter (Squatter or Street Lifestyle) 
+can be affected every day. While deserts are usually 
+thought of as hot, their nighttime temperatures often 
+drop into this range and sometimes even lower. 
+This range of temperatures isn’t hard to survive for 
+an average metahuman. They will only start being af-
+fected after eighteen hours or so, but unlike the hot side 
+where evening can bring a cool respite, evening usually 
+>> STAYING ALIVE <<
+148    Worldly Hazards >>
+
+
+===== runandgun.pdf p149 =====
+makes the cold worse. An average metahuman will have 
+to be exposed to temperatures in this range for thirty-six 
+straight hours to fall unconscious, and sixty straight 
+hours to die. Remember, this is the average metahuman, 
+and they are not dressed for the weather. Wearing a 
+jacket and long pants with a regular shirt will double the 
+duration between Fatigue Tests in this category.
+MODERATE
+Moderate cold environments range from –2° to –13° C 
+(30° to 10° F). Temperatures this low are common during 
+the winter months in the northern and southern latitudes 
+but are rarely found outside of freezers or at the tops of 
+mountains in the middle latitudes. Deserts will occasion-
+ally drop into this range at night during winter months. 
+This temperature range is a bit more unpleasant but 
+still not a quick killer. The average metahuman can stay 
+conscious for eighteen hours in this environment. Hope-
+fully they spend that time trying to find a spot to warm 
+up. Death pays a visit around the thirty hour mark if shel-
+ter and heat can’t be found. Wearing a jacket and long 
+pants with a regular shirt doubles the duration between 
+Fatigue Tests in this kind of environment.
+HARSH
+Harsh cold environments range from –14° to –39° C 
+(10° to –40° F). These are the places where people 
+learn respect for the cold and truly understand how it 
+can kill them. Winter months in the Arctic and Antarc-
+tic bring these temperatures for weeks or months at a 
+time, and even the summer months get this chilly rath-
+er frequently. These are also the temperatures found at 
+high altitudes, where the snow never melts, the air is 
+thin, and death hovers over every step.
+This type of cold can be dangerous even for short pe-
+riods of time. The average metahuman can only survive 
+in this environment for ten hours, and they risk uncon-
+sciousness after only six hours of this bone-chilling cold.
+EXTREME 
+Extreme cold environments range from –40° to –72° 
+C (–40° to –100° F). This category contains the lowest 
+recorded temperatures on Earth. Winter in Antarctica is 
+regularly this cold. Outside of the polar regions, these 
+temperatures occasionally occur during winter storms 
+in northern and southern regions. Though the storms 
+usually only last for hours, metahumans are only resis-
+tant to them for minutes when it’s this cold. 
+This temperature range is at the limits of metahu-
+man tolerance. The average metahuman can only han-
+dle these extremes for about six minutes before passing 
+out. After ten minutes, they’re iced!
+DEADLY
+Deadly cold environments are those colder than –73° 
+C (–100° F). Like the deadly end of heat, these temps 
+are not usually found in nature on Earth. But again, 
+metahuman ingenuity has managed to create a lot of 
+things not found in nature. Advanced research labs 
+have facilities that can get this cold to test all sorts of 
+things, especially advanced science procedures that 
+might be of value to rival corporations. If you’re raiding 
+one of these facilities, bring an epically heavy coat. Or 
+about twenty layers of clothing.
+These temperatures will kill quickly, but luckily most 
+of the nerves will be frozen and numb well before that 
+point, so death won’t hurt much. The average metahu-
+man can only survive in this environment for one min-
+ute, and will only remain conscious in the environment 
+for about forty seconds. 
+PHYSICAL DAMAGE FROM COLD
+FROSTBITE
+Frostbite is a painful reality of exposure to cold tempera-
+tures. The metahuman body tries to maintain its core 
+temperature by pulling blood from the extremities and 
+letting them fend for themselves, on the idea that it’s 
+better to lose a few fingers or toes than to die. Frostbite 
+is not a quick killer. Those who die from frostbite usually 
+die from infection, not from the actual cold damage. 
+The risk of frostbite begins when a character is ex-
+posed to a Moderate or greater severity environment—
+temperatures below freezing. Each Environmental Se-
+verity increases the damage and decreases the duration 
+between tests according to the Frostbite Damage table. 
+Damage from frostbite has a cap of 4 boxes on each 
+Condition Monitor. If the 4 boxes are reached on the 
+Stun Condition Monitor, further Stun damage becomes 
+Physical at a rate of 2 Stun to 1 Physical. The same goes 
+in reverse if 4 boxes are reached on the Physical Condi-
+tion Monitor—further Physical damage becomes Stun at 
+a rate of 1 Physical to 2 Stun. 
+After a character suffers their first box of damage, 
+Stun or Physical, they are considered to have frostbite 
+and suffer a –2 dice pool penalty to all actions per-
+formed with their extremities. At the first box of Physical 
+damage, the character’s Agility is treated as 2 lower for 
+the purposes of determining Movement. Gloves pro-
+vide a +1 dice pool bonus to Damage Resistance Tests 
+against frostbite; if the gloves are insulated, they provide 
+extra dice to resist this damage. 
+FROSTBITE DAMAGE
+CONDITION
+DAMAGE
+TIME
+Moderate
+1S
+30 minutes
+Harsh
+2S
+10 minutes
+Extreme
+1P
+1 minute
+Deadly
+2P
+2 Combat Turns
+>> STAYING ALIVE <<
+<< Worldly Hazards    149
+
+
+===== runandgun.pdf p150 =====
+COLD SURFACES/SUBSTANCES
+Yup, we’re talking about sticking your tongue on that 
+metal pole and the serious consequences of such an 
+action. This also includes touching dry ice (solid state 
+carbon dioxide), dipping a finger in liquid nitrogen (ox-
+ygen, helium, etc.), or flipping that aerosol can over and 
+spraying it in someone’s face. The damages for such as-
+inine (or maybe heroic) actions are located on the Cold 
+Substance Damage Table. The damage is resisted every 
+time the character is exposed to the substance. In the 
+case of submersion, make 3 Damage Resistance Tests 
+for each Combat Turn (basically 1 per second). 
+Splashing a supercooled liquid on someone or 
+spraying them with something cold counts as a Ranged 
+Attack Test and only applies damage once for each at-
+tack. Glitches mean some of the stuff sprayed back, and 
+the attacking character will have to resist the damage 
+as well. Critical glitches means the attacker dropped the 
+substance on themselves—they get to resist the dam-
+age, while their target gets none, except maybe from 
+pulling a muscle due to laughter. 
+PERSPIRATION  
+AND COLD DAMAGE
+The rules for perspiration and dehydration (p. 146) also 
+apply to cold weather environments. At low tempera-
+tures, there is very little moisture in the air, so the body 
+will lose it quickly to the environment and the clothes 
+they are wearing. Losing it to the environment is better, 
+since losing it to the clothes may pull the character into 
+the dangers of being wet in the cold. 
+INJURY MODIFIERS, 
+ENVIRONMENTAL EFFECTS, 
+AND COLD DAMAGE
+So what benefit is there to being numbed by the cold 
+when it comes to being injured? Well, none really. Since 
+the cold is going to pull blood flow from the extremities 
+and make the character shiver, and blood leaving the 
+body will take heat with it, the two pretty much balance 
+out most of the time. The gamemaster can decide what 
+actions might be effected by shivering and whether 
+blood loss from injury should increase the frequency of 
+Damage Resistance Tests due to the cold. 
+POLLUTION
+Too often metahumankind does not look at the long 
+term. They go for the short gain, which often comes 
+with a low monetary expense but a high cost in terms 
+of the health of the planet. Then afterwards, they simply 
+bury the toxic waste they created beneath the ground 
+or sink it in the oceans. Or worse, their mistakes cost 
+too much to clean up and are simply left to mar the 
+Earth with their blight. 
+Areas with high levels of pollution can cause a wide 
+range of effects. Some come with immediate unpleas-
+ant effects, but others can be part of a long-term cam-
+paign as runners who are too interested in collecting 
+next paycheck fail to realize what is happening inside 
+their bodies. 
+COLD SUBSTANCE DAMAGE
+SUBSTANCE
+DAMAGE
+AP
+Inverted Aerosol Sprays
+2P
++2
+Metals below 0° C
+4P
++2
+Liquids –50° to –100° C
+12P
+–2
+Liquids –100° to –200° C
+18P
+–4
+Liquids below –200° C
+28P
+–6
+WATER IN THE AIR
+Extremes of temperature are one thing, but add in an extreme of 
+humidity and life gets shorter and much less pleasant. High or low 
+humidity during normal temperature ranges just makes life mildly 
+uncomfortable, so humidity is only a factor at the extremes and 
+should be considered in addition to the nasty effects of heat and the 
+lack thereof.
+HIGH HUMIDITY: RELATIVE HUMIDITY 90–100 PERCENT
+Often the unpleasant counterpart to heat, the issues with humidity 
+are two-fold depending on the temperature. A lot of humidity (water 
+vapor) in the air makes hot environments feel even hotter and helps 
+the already deadly heat sap the water out of your body even faster. 
+On the other end, a lot of humidity in cold air, rare but possible, makes 
+keeping warm even harder as the water pulls the heat from your 
+body faster than you can produce it.
+THE LACK OF HUMIDITY: RELATIVE HUMIDITY 0–30 PERCENT
+Being parched is uncomfortable when you’re trying to deliver a 
+few slick lines as you nervously try and get past a security guard, but 
+it’s downright deadly when it happens in an extreme environment. 
+Just like when humidity is abundant, the lack of humidity messes 
+with the temperature regulation systems in the metahuman body. 
+The effects of arid air are similar but even more extreme than 
+humid air, as the moisture of the body is sapped even faster in arid 
+environments. 
+>> STAYING ALIVE <<
+150    Worldly Hazards >>
+
+
+===== runandgun.pdf p151 =====
+In polluted environments, Fatigue Tests are based on 
+an overall concept of the environment that a gamemas-
+ter wants and its toxicity. Whether it’s acid rain, fog-like 
+air pollution, or chemicals in the water supply or in the 
+air, the gamemaster sets the scene to create a mood 
+and level of threat for his players, or a sense of urgen-
+cy where the players know they only have so long to 
+get the job done before the environment does the sec 
+guard’s job for them.
+ENVIRONMENT SEVERITY
+MILD
+Mild pollution environments can be traversed as long 
+as you do not endure prolonged exposure. Usually just 
+going indoors is enough to remove the worst of the ef-
+fects, and as long as you get away from the filth for a bit 
+of time you shouldn’t suffer any enduring effects from it. 
+An average metahuman can resist all ill effects in a 
+Mild pollution area for up to eighteen hours, and endure 
+about thirty-six hours before the local toxic gas levels 
+or high toxic metal count takes them to their knees. Un-
+checked. The gasses will finish them off around the sixty 
+hour mark of nonstop exposure. When considering ar-
+eas for pollution, keep in mind that even Mild areas are 
+polluted enough to kill in just a weekend. 
+MODERATE
+Moderate pollution environments are worse. They’re 
+usually devoid of all life, since most things are smart 
+enough to get out while the getting’s good, or they’re 
+home to animals that have adapted to the toxic envi-
+ronment—frequently paranormal animals. This is the 
+nasty area around the pollution-spewing factories that 
+Average Joe works at. When he leaves to go back to his 
+apartment he never really feels well, but he comes back 
+because it’s his only source of nuyen.
+These environments kill in just over a day (about thirty 
+hours, to be specific) and incapacitate in about eighteen 
+hours. When Average Joe starts getting woozy around 
+hour nine or starts coughing uncontrollably around hour 
+twelve he might be rethinking pulling that double shift. 
+Hopefully he’ll know to get out while he still can or make 
+sure to keep some extra filters handy for his mask.  
+HARSH
+Harsh pollution environments will have someone 
+wheezing in a few hours and unable to stand in as little 
+as five hours, and will leave their body to decompose 
+in about ten. Luckily, there are plenty of bacteria and 
+other microorganisms that adapt quickly to pollution 
+to help that process. Places like this should be fresh or 
+frequent dumping grounds for toxic waste or low-lying 
+spots where heavier air pollutants are concentrated in 
+the still air.  
+>> STAYING ALIVE <<
+<< Worldly Hazards    151
+
+
+===== runandgun.pdf p168 =====
+that they spend in those environments. If any metatype 
+falls below their racially modified minimum they are 
+barely able to move their own mass. These decreases 
+are permanent and must be bought back up with Karma 
+in order to be repaired or maintained. Agility can be in-
+creased by a maximum of 2 and only up to characters’ 
+metatype maximum. Characters with Muscle Replace-
+ment cyberware are not susceptible to these effects. 
+A heavy-G environment works the opposite way, but 
+in a limited fashion. Characters in heavy G gain 1 point 
+of Strength and lose 1 point of Agility for every three 
+months they spend in a heavy-G environment, up to 2 
+points each. Increases cannot take a character above 
+their metatype modified maximum, but decreases can 
+drop Agility to 0, at which point the character is un-
+able to maintain muscle control in the environment and 
+needs a regular gravity environment for rehabilitation.  
+MAGIC
+Due to the lack of mana in space, spellcasting be-
+comes challenging away from the surface of Earth. Ele-
+ment-based spells do not function in a vacuum, so they 
+cannot be cast across empty space. Space locations 
+function as astral voids, meaning spellcasters receive a 
+dice pool penalty when they attempt any test that uses 
+their Magic attribute. The penalty ranges from –8 (for 
+places with decent concentrations of life for non-Earth 
+locations, such as the Moon or a large space station) to 
+–18 (for deep space). Note that the corps have noticed 
+this difference and are encouraged by the fact that at 
+least some extension of mana into space is possible. 
+They are hard at work looking for ways to enhance 
+magical abilities away from Earth, but the amount of se-
+verely impaired mages they keep sending back to the 
+surface indicated their success is mixed at best.
+If you’re thinking about assensing or, worse, astral 
+projecting in space, don’t. Attempting to perceive with 
+your soul something that is completely absent is a good 
+way to effectively have your soul sucked right out of 
+>> STAYING ALIVE <<
+168    Worldly Hazards >>
+
+
+===== runandgun.pdf p169 =====
+you, which tends to leave lasting wounds. Anyone at-
+tempting to assense away from the safety of Earth must 
+make a Willpower + Logic (5) Test. If they fail, their Log-
+ic is permanently reduced to 1 (though it can be raised 
+again with Karma).
+Anyone foolish enough to astrally project in the 
+emptiness of space doesn’t deserve a chance to stay 
+sane. Their Logic drops to 1 as above, and they also lose 
+2 points of their Magic Rating due to the soul-scarring 
+nature of becoming one with nothingness (though again 
+they can rebuild those points with Karma). Spirits cannot 
+be summoned in space, as the summoning power of a 
+conjurer away from Earth is not strong enough to con-
+vince them to be suicidal. 
+QUALITIES
+NEGATIVE QUALITIES 
+BLIGHTED 
+(6 MONTHS, +5 KARMA; 12 MONTHS, 
++10 KARMA; 24 MONTHS, +15 KARMA) 
+This quality has multiple levels to represent the dif-
+ferent long-term effects of radiation and pollution 
+damage to the character’s system and how drastical-
+ly it affects everyday life for the runner. The quality 
+can be taken at character generation to represent a 
+life growing up in really bad parts of the sprawl, or it 
+can be gained by dossing down in those spots for an 
+extended period. 
+The exact effects are not specified, only the effects 
+it will have on rolls for the character. The penalties can 
+be caused by organ shutdown, muscle spasms, cancer-
+ous growths, etc. This quality cannot be taken in cam-
+paigns that do not face the environments it is designed 
+for without gamemaster approval.
+Make an Edge (3) Test at the beginning of each game 
+session. Success means no complications for that game 
+session. Failure means they feel the pain of their rough 
+upbringing in a harsh environment full of excess chem-
+ical or radioactivity exposure. (To be clear, you cannot 
+spend Edge on an Edge roll.)
+6 months: Characters face a –1 penalty on all Phys-
+ical actions.
+12 months: Characters face a –1 penalty on all Ac-
+tions.
+24 months: Characters face a –2 penalty on all Physi-
+cal actions and a –1 penalty on all other actions. 
+EARTHER
+(+3 KARMA)
+Some people are just not meant to explore the stars. 
+Space flight training usually weeds these people out, but 
+most runners never go through an official space flight 
+program. Characters who take this quality are especially 
+inept in alternate gravities. They suffer a –2 dice pool 
+penalty on all Physical actions taken in a gravity other 
+than Earth norm. This quality cannot be taken in cam-
+paigns that do not face the environments it is designed 
+for without gamemaster approval.
+POSITIVE QUALITIES
+RADIATION SPONGE
+(–5 KARMA)
+Something about the cells of characters with this qual-
+ity makes them more resistant to radiation’s harmful 
+effects, but it also makes them hold onto that radiation 
+for longer. The character always faces one less step for 
+Fatigue from Environments in Radiation environments, 
+and therefore never faces a Deadly environment. If a 
+character spends time in a Deadly environment, treat 
+it as an Extreme environment for Fatigue purposes; use 
+the Deadly environment times and double the length of 
+time for carrying Radiation with them.
+For example, Glowboy is a Radiation Sponge who 
+makes a two-minute jaunt into the heart of Glow City 
+in Redmond to prove a point. He comes out a little 
+tired but excited to tell his pals all about the trip. When 
+his pals start falling over, Glowboy tries to help them 
+but they only seem to get worse. Glowboy is carrying 
+a Deadly environment around with him for 4 minutes 
+after he leaves, plenty of time to kill his less-radia-
+tion-friendly pals. He will also be carrying around a 
+Harsh environment for 48 hours and a Mild environ-
+ment for 48 more. Best he keeps away from other peo-
+ple for awhile. 
+RAD-TOLERANT
+(–3 KARMA)
+Sometimes characters are just different. Being able to 
+stand on the outskirts of the Cermak Blast and just stare 
+into the nothing for days on end, or even living there 
+with no ill effects can be a blessing in disguise. Charac-
+ters with this quality double the time before they gain 
+the Blighted quality. Characters also always face one 
+less step for Fatigue from Environments in Radiation 
+environments, just like the Radiation Sponge. 
+This Quality is incompatible with the Radiation 
+Sponge Quality. 
+SPACER
+(–3 KARMA)
+Some people are just naturally comfortable in alterna-
+tive-gravity environments. They perform every action 
+with a certain additional grace and style. These char-
+acters gain a +1 dice pool bonus to all Physical actions 
+taken in a gravity other than Earth norm.
+>> STAYING ALIVE <<
+<< Qualities    169
+
+
+===== runandgun.pdf p170 =====
+<Damn it, Finesse,> Phantom texted his chummer via commlink as they climbed through the ventilation shaft 
+of the MCT drone factory they had evacuated only minutes ago. <Why didn’t your charges go off?>
+<Not sure, boss,> replied the young elven street sam. <Might be a loose wire. Maybe the circuit failed. 
+Could be a million different things. Can’t tell until I check the charges.>
+<On four separate charges?!> Phantom fumed. <You fragging assured me you were good with explosives, 
+and not a single one of them went off? That kind of crap risks our lives, screws up our run, and can trash our 
+rep. I’m sure you don’t give a damn about my team’s reputation, but I do.>
+Moving in silence out of the ventilation shaft and into a darkened hallway, the two shadowrunners 
+cautiously slunk through the shadows. Retracing their original paths through the factory, the pair avoided the 
+MCT night patrol and other security measures to arrive back at the drone assembly line, where the charges 
+were placed. Once the two were certain their overwatch hacker had looped the security cameras feeds and 
+the patrols were wandering other parts of the building, they began rechecking the charges.
+“Yep,” Finesse whispered. “Detonator failed on this one, boss. I’m replacing it.”
+“You gotta use better material than this,” Phantom replied. “And this charge has such sloppy wiring I can 
+see two separate spots where it could’ve failed. And here, this wiring is frayed. How the fuck do you miss that? 
+You’re lucky I’ve got a ’soft I can slot to fix this.”
+Slipping a knowsoft into his skilljack, Phantom rewired the charge himself, fixing it in a few minutes’ time. 
+“I shouldn’t have to be doing your job, noob,” he mumbled under his breath. Pissed did not even begin to 
+describe what he felt for the young runner and the empty promises he’d made to score this job.
+“There were also loose wires on charge number three,” said Finesse. “It’s all good now. They’re set.”
+That was when Phantom saw what the elf had done to fix the last charge. “Wait, you fucking used Econo-
+value batteries?!” Phantom exclaimed, unable to contain the cold rage in his voice any longer. “Made in 
+Aztlan?! Batteries over a year old with no fucking charge left in them?! You’re done. I have no time for your 
+bullshit!”
+Triggering his wired reflexes, Phantom pulled his silenced pistol from its holster and without hesitation put 
+two bullets into the elf’s skull. He re-holstered his pistol and rechecked the two charges Finesse had worked 
+on and claimed were set. On his inspection, he discovered the elf had managed to get them right the second 
+time around—a job that should’ve been done correctly fifteen minutes ago. Too little and too late for Finesse, 
+as far as Phantom was concerned.
+“Phantom, is everything all right?” asked the disembodied voice of Cypher, their overwatch support. “I see 
+your gun went off twice. Should I send the rest of the team?”
+“No need,” Phantom replied as he dragged the body over to the nearest charge. “Finesse bullshitted me 
+one too many times, so I put an end to his incompetence.” He then pulled the dead runner’s commlink from 
+his tactical vest and pocketed it, leaving nothing on the body to tie the dead runner to him or his team.
+RUN & GUN
+BLOW UP GOOD
+170    BLOW UP GOOD >>
+
+
+===== runandgun.pdf p171 =====
+ADVANCED 
+DEMOLITIONS
+POSTED BY: BEAKER
+A lot of young runners out there think playing with ex-
+plosives and demolitions is exciting or exotic, or some-
+thing they want to do just because it looks like hot drek 
+from the trids or they just get a hard-on for making “big 
+booms.” They don’t take into consideration that work-
+ing with explosives is dangerous, and it takes a lot of 
+skill, patience, precision, focus, and a steady hand to 
+get the job done right. Demolition work is very much a 
+science, and you simply must have a head for it. Being 
+a quality demolitions expert takes as much dedication 
+and street smarts as does being a skilled spellslinger or 
+a wiz decker, especially if you like living. It isn’t some-
+thing you can become an expert on overnight or do 
+as a part-time hobby; to excel at it, you must devote 
+a good part of your life to it. And don’t even get me 
+started on all those slots out there who think all they 
+need to know about explosives can come from skill-
+softs they can buy on the streets. Most techniques in 
+the demolitions field come from firsthand experience 
+that develops over time, not from an optical chip writ-
+ten by Lofwyr-knows-who. The last thing you want is 
+to make a mistake with your explosives just because 
+the person who wrote your knowsoft got something 
+wrong and passed their mistake to you. I have heard 
+too many horror stories of would-be demolitions ex-
+perts accidentally blowing themselves up in their own 
+safehouses because they didn’t know what the fuck 
+they were doing or they relied on error-laden know-
+softs. Even one simple mistake can prove deadly. And 
+even if these dubious knowsoft authors had some sem-
+blance of an idea of how to shape and set a charge, 
+they often didn’t take into consideration all the para-
+noid precautions necessary to purchase, make, and 
+store explosives. They were simply too careless and 
+left trails for others to find. Because of that, they found 
+law-enforcement agencies charging through their front 
+door, or they found other opportunistic runners gun-
+ning for them, trying to steal their stash of explosives. 
+Oftentimes this gets said runner killed.
+If you want to be a demolitions expert and don’t 
+already have a military or engineering background 
+or corporate training, the first thing you need to 
+know is that law enforcement does not want you to 
+have explosives. They don’t trust your motives, and 
+explosives in particular, especially in great quantities or 
+higher grades, can do a lot of damage to a government’s 
+or a corporation’s interests—not to mention killing or 
+maiming countless innocent bystanders. Explosive 
+devices on the streets tend to be hotter than any other 
+stolen commodity on the black market, and if you don’t 
+know what you are doing, you will get burned.
+Fences and runners who regularly deal with 
+explosives always have to be wary of sting operations 
+designed to nab those who sell and buy illicit explosives. 
+If you ever pay attention to the news, you know security 
+corporations and other law enforcement agencies love 
+to publicize their efforts in going after those who illegally 
+possess and traffic in explosive material. It’s great PR: 
+it makes them look competent and makes the masses 
+feel safer. The only thing you might hear about more 
+on the news is drug busts and the closure of betameth 
+labs. If you intend to buy explosives and you absolutely 
+need to use a SIN, use a fake SIN and use it only once. 
+Consider it burned after that, and use a brand new fake 
+SIN for your next purchase of explosive materials. The 
+last thing you want is to accumulate a datatrail for all of 
+your explosives-related purchases on the SIN and have 
+law enforcement agencies actively start tracking that 
+fake SIN back to you. If they start looking for you, you’re 
+already in trouble. Yes, ditching fake SINs that frequently 
+will get expensive, but the anonymity is well worth it.
+Next, if you are in the market for explosives or the 
+compounds to make explosives and a fence is offering 
+you too good of a deal or is promising to get you large 
+quantities quickly, walk away. They could be trying to 
+dump their inventory because they know someone 
+is actively looking for it, and they simply don’t want 
+to be caught. Sure, it may seem like a good deal now, 
+but it might not be such a good idea a few days later, 
+especially if you find yourself facing down a dozen 
+Knight Errant cops.
+Also, the fence presenting you a “too good to be 
+true” offer may be trying to pull off a sting for Knight 
+<< Advanced Demolitions    171
+
+
+===== runandgun.pdf p172 =====
+Errant or Lone Star. The seller may not necessarily be 
+an undercover cop, but chances are he’s already been 
+pinched by the fuzz and is trying to get leniency by 
+rolling over on his buyers. Knowing who you’re working 
+with, what explosives should generally cost on the 
+streets, and how your contacts operate is crucial to 
+avoid acquiring materials that can bite you in the ass. 
+And keep track of the news. Be street smart. 
+If there are a lot of incidents dealing with explosives 
+in your area from other runner teams, you can bet 
+Knight Errant or Lone Star are taking steps to end it, 
+which means stepping up sting operations. So don’t 
+start putting out feelers for explosives immediately 
+after an incident; wait for the heat to die down first. 
+This usually happens within a month or two at most, 
+as most metahumans tend to have very short memory 
+spans and are easily distracted by the latest news net 
+headlines. I wish I didn’t have to keep repeating this 
+message, but runners keep getting caught by these 
+bogus offers and sting operations by being stupid, so I 
+guess the advice is still needed.
+If you happen to be a brand-new runner team trying to 
+acquire explosives, plan for initial difficulties and delays 
+in getting your first batch. Your contacts want to avoid jail 
+just as much as you do, so they will be cautious with any 
+new business coming their way, especially if you seem 
+like a deal too good to be true and don’t have the street 
+cred to back up your claims. Trust issues run both ways, 
+chummer. So my advice to any new runner team is this: 
+When starting out with your career in the shadows, work 
+toward obtaining your first batch of explosives—a small 
+batch that won’t raise many red flags—as soon as you 
+can. Your team may not initially need any explosives, but 
+months later you might. And it will be a lot easier on your 
+team if you already have a small stockpile of explosives 
+as opposed to having to pay unfamiliar people for large 
+quantities of untested explosives and risk becoming the 
+target of a sting operation. Always plan ahead. That’s 
+the sign of a good demolitions expert. And once you’ve 
+established reliable contacts to buy explosive material, 
+greater quantities and greater variety of materials will 
+become available to you. As they say, good things come 
+to those who wait.
+>	
+If that fails, you can always acquire your own bomb-
+making shop or facility and make it yourself. Saves you 
+the trouble of navigating a shady black market and gives 
+you something to do between jobs.
+>	
+Balladeer
+>	
+Although a facility is ideal for demolitions work, it 
+doesn’t come without its share of drawbacks. The biggest 
+problem is facilities aren’t mobile. If you set one up, 
+you’re going to start building a rep for making explosives, 
+commodities that other runners want desperately, and 
+many aren’t afraid to try taking them from you. If you 
+invest in a demolitions facility, you’re going to have to 
+invest in security unless you want to start guarding your 
+shit 24/7. Wherever your demolitions facility is hidden, you 
+should contact local gangers to see if you can arrange a 
+deal where they can look after your facility, particularly 
+when you are out on runs. The big thing here is making 
+your facility tough enough to break into that any thieving 
+bastards out there won’t consider it worth their time to 
+>> BLOW UP GOOD <<
+CRIMINAL PENALTIES FOR ILLEGAL 
+POSSESSION OF EXPLOSIVES
+Posted by: Zhaaganaash
+Listen up, chummers. Beaker is not lying to you when 
+she says the law enforcement community takes a dim view 
+on us selling and possessing illegal explosives. Of course, 
+these penalties always vary according to local, national, and 
+corporate laws, but this is the ballpark of the hard time you’ll 
+be serving if you’re caught with any amount of explosives 
+and you’re determined to be unlawfully in possession of said 
+explosives. So be careful. And if you break the shadowrunner’s 
+commandment and are caught, let’s just say I hope you’re an 
+elf. Perhaps you’ll still be in good enough shape to resume 
+shadowrunning once you get paroled with your brand-new 
+criminal SIN in the year 2125. On the other hand, I suppose if 
+you’re an elf, that means you’re relatively pretty, and you know 
+what happens to pretty people in gen pop, so perhaps in jail 
+that notoriously long life expectancy would end up being more 
+of a curse than a blessing. But anyway … 
+Most jurisdictions don’t care about how much explosives 
+you’re carrying. Most just slap you with prison time based on 
+the grade of the explosives in your possession. If you’re caught 
+carrying multiple explosives with multiple grades, you will be 
+facing multiple charges with multiple sentences. Most judges will 
+be happy to give you consecutive sentences for those crimes.
+For those unfortunate souls found to have used explosives 
+in an attack (e.g., enough to destroy a building or used in a car 
+bomb), the penalty is typically a life sentence. If fatalities were 
+involved in the bombing, you could be facing the death penalty 
+or worse. I hear the corps are still looking for “volunteers” in 
+their Head Crash medical testing programs. From what I’ve 
+been told, that is something you want to avoid at all costs. 
+PRISON TIME AND FINES FOR  
+ILLEGAL POSSESSION OF EXPLOSIVE
+Rating of Explosives	
+Prison Term	
+Monetary Fine
+1–5	
+5 years	
+50,000¥
+6–10	
+15 years	
+100,000¥
+11–20	
+25 years	
+250,000¥
+20+	
+50 years	
+500,000¥
+172    Advanced Demolitions >>
+
+
+===== runandgun.pdf p173 =====
+try. Perhaps they’ll choose to break into someone else’s 
+facility a few blocks down, the place whose owner hasn’t 
+taken the same precautions. At that point, better them 
+than you.
+>	
+Sticks
+Most runners who specialize in demolitions have 
+dedicated fixers who focus on acquiring, transporting, 
+and selling explosives. Many of these fixers have ties 
+to the underworld and organized crime, such as the 
+Vory, the Yakuza, and the Triads, groups that have 
+considerable influence and resources to move product 
+like explosives around with relative ease—through 
+bribery and connections with corrupt law-enforcement 
+officials, if nothing else. These individuals are valuable 
+for knowing where the merchandise is coming from 
+and whether it’s reliable. So if you don’t already have 
+relationships with these kinds of fixers, I would suggest 
+building connections like that as soon as possible. They 
+could mean all the difference between a successful run 
+and being sabotaged by various complications.
+If you don’t have a quality fixer and are forced to 
+obtain black-market materials from unsavory fences, 
+you’ll find that purchasing explosives this way can 
+be risky. You could luck out and buy material that’s 
+commercially produced, which would be the most 
+reliable, but it would also likely be stolen. If commercially 
+produced explosive materials are stolen from anywhere 
+in significant quantities, an immediate investigation 
+frequently involves cooperation between corporations 
+and national law-enforcement agencies, entities that 
+may go so far as to employ other shadowrunners to track 
+down and recover the stolen goods. Explosive materials 
+have a very real shelf life, and they have to be moved 
+fast. As I said earlier, you should be able to recognize 
+the materials a fence is eager to get rid of quickly, as 
+most fences will offer ridiculously good discounts to 
+just dump the shit before law enforcement can track 
+them down. Sometimes it’s worth taking the chance and 
+buying those quality materials if only for the guarantee 
+they will work; other times it could cost you and your 
+chummers prison time or even your lives. Taking offers 
+like these is always a gamble. I can’t tell you to always 
+walk away from a deal like this, but I am saying there is 
+generally a better way of getting what you need.
+If you don’t want to take the chance of buying material 
+that could bring heat on you or your team, there is always 
+the option of buying homemade explosive materials on 
+the black market. Lots of demolitions experts cook and 
+sell their own explosives as a means of bringing in extra 
+income during downtime between jobs. The advantage 
+of homemade explosives is that they tend to be less 
+traceable than commercially produced materials. They 
+also show  up on the black market in greater quantities, 
+so homemade tends to be cheaper and more available 
+than commercially manufactured explosives. However, 
+a significant downside of homemade explosives is they 
+>> BLOW UP GOOD <<
+<< Advanced Demolitions    173
+
+
+===== runandgun.pdf p174 =====
+tend to be far more volatile. Some chummers do a 
+good job mixing the compounds together, which makes 
+the explosives nearly as reliable as commercial-grade 
+materials. Other do-it-yourselfers, however, apparently 
+failed their high-school chemistry classes, and their 
+product is so volatile that it could produce a much 
+larger explosion than needed, a much smaller explosion 
+incapable of getting the job done, or it might not even 
+explode at all. When purchasing homemade shit, make 
+sure you always ask for a test of the material before 
+purchasing it. Knowing how the batch of explosives 
+performs will save you a lot of trouble later on.
+>	
+When you ask a fence for a demonstration, make sure 
+you’re able to choose the sample to be tested. Some 
+dishonest fences will pad their stock, half with the real 
+shit, half with bogus material like modeling clay. And 
+they’ll be happy to pick out the real stuff to demonstrate 
+to you that it’s all good. And then, once you get back 
+to your safehouse, you’ll discover that half of the 
+merchandise is counterfeit and you were ripped off. If 
+they don’t let you pick the sample to be tested, tell them 
+you’re not interested. 
+>	
+2XL
+>	
+Having a face present at the buy is essential. After all, 
+even if the fence lets you choose the sample to test, you 
+could still be unlucky and choose a sample that works. 
+Any face worth their salt should be able to key off of 
+visual cues and discern that the fence might be trying to 
+con you. Notably, your face should be able to tell if the 
+fence is paying special attention to a particular block of 
+explosive or whether he’s subtly trying to guide you to a 
+particular block of plastique. The face should also be able 
+to tell if the fence gets nervous when you start inspecting 
+the merchandise. If the fence seems to be perspiring 
+more than normal or if their heart starts racing at any 
+time during the buy, you should walk away. If you have 
+a face at the buy and you still get burned, I would say it’s 
+time for a new face. 
+>	
+Clockwork
+>	
+Or instead of trying to buy straight from a fence, 
+runners should always go through their fixer. Never try 
+to cut out the middle man. That’s what we’re here for 
+and why we are so good at our jobs: to make sure you, 
+the runners, don’t get fucked over. We can tell you a lot 
+of things and give good advice, like when it’s too hot to 
+be buying explosives. 
+>	
+Am-Mut
+>	
+Like fixers can’t ever be screwed over by fences 
+either. Especially in the case of explosives, when 
+some drekheads decide to be clever and package 
+bad, homemade explosives in counterfeit commercial 
+packaging. Knockoffs and counterfeits can be as much 
+the bane of a fixer’s life as they are for any runner out 
+there. Some of those counterfeit products out there are 
+really convincing, sad to say.  
+>	
+Bull
+>	
+And of course, there are always those legitimately bad 
+products out there like the Ares Excalibur …
+>	
+Slamm-0!
+Those of you looking to buy explosives should 
+know that you have a lot of options available on the 
+black market. Your standard commercial, foam, and 
+plastic explosives can produce an explosion as big and 
+powerful as you want or as small and controlled as you 
+need. You also have the option of detonating cord, 
+which allows for a much more controlled explosion 
+and can also serve as a fuse to set off other explosive 
+charges simultaneously. Explosives can also be used to 
+cut through material. Linear cutting charges reduce the 
+amount of explosive charge you need to cut through 
+a material, and they come already tamped so that you 
+don’t have to do anything special to modify the charge. 
+You also have liquid explosives, which are capable of 
+doing things that normal, plastic explosives cannot. This 
+means you have a wide variety of tools at your disposal 
+to handle a wide variety of jobs that call for demolitions 
+work. Because of the inherent dangers involved, these 
+jobs tend to pay higher (anywhere from five to twenty 
+grand more than your average run), which explains 
+why many runner teams are willing to take the risks 
+associated with these types of jobs.
+So what kind of work is available for demolitions 
+experts? The most common jobs require runners to 
+breach a secured location. Some bounty hunters use 
+charges to breach locks to reach a fugitive. Others use 
+explosives to breach vaults. These could be small wall 
+safes, bank vaults, or even vaults within various research 
+laboratories where top-secret research materials are 
+stored. Sometimes runners need to break into storage 
+lockers or other secured areas. Acquiring keys, passcodes, 
+or other avenues for authorized access are not always 
+feasible options, and the only way to get into a secured 
+area is by creating your own entry point. Bank vaults in 
+particular are difficult for runners to penetrate without 
+explosives. Most modern vaults are set on time locks 
+that are hardwired to unlock at specific times and cannot 
+be overridden even by hackers. To bypass a time lock, a 
+runner team would need to drill through the vault door 
+to reach the locking mechanism and simply reprogram 
+it, which can take a lot of time, and most vault doors 
+have mechanisms that will seal the door if tampered 
+with. The two choices for runners become hitting the 
+bank while the vault is open (i.e., during business hours, 
+creating all sorts of additional complications) or using 
+explosives to blow the vault door off of its hinges when 
+the vault is locked. Having a capable demolitions expert 
+>> BLOW UP GOOD <<
+174    Advanced Demolitions >>
+
+
+===== runandgun.pdf p175 =====
+on the team is crucial for these jobs. Some vaults protect 
+delicate materials that can easily be destroyed if your 
+demo “expert” miscalculates and the resulting blast 
+penetrates the interior of the vault.
+Explosions can also be used to disable vehicles. This 
+type of job usually happens during extractions, when 
+runners feel it’s better to grab a target during transit as 
+opposed to grabbing them from home or work. Runners 
+will usually use explosives to cut through axles or 
+disable the transmission to bring a car to a screeching 
+halt. Explosives can also be used to disable vehicles 
+for heists, such as when a runner team wants to stop 
+a semi truck to raid the contents it is carrying. Other 
+demolitions experts use their talents for wetwork jobs. 
+Car bombs are a preferred choice for assassins, but 
+a quality demolitions expert with the right tools can 
+wire almost anything to explode, be it light switches, 
+cyberdecks, commlinks, cyberware, and so on. There 
+are also occasions when a runner team is needed to 
+blow up buildings. These jobs typically involve relatively 
+small structures, from warehouses and retail shops to 
+houses and apartments. Very rarely do Johnsons ask 
+for bigger buildings due the high-profile nature of the 
+job and the potential blowback should things go wrong. 
+But such requests do happen. Recently, a runner team 
+in San Francisco imploded a twenty-story Universal 
+Omnitech office building, but the corp quickly covered 
+it up so the news didn’t spread. NeoNET has also had a 
+few office buildings in Boston blown up recently, both 
+apparently tied to the panic surrounding the Cognitive 
+Fragmentation Disorder phenomenon.
+One thing you’re unlikely to learn from knowsofts 
+is that explosives can impact magic use. Most small-
+scale explosive devices won’t affect spellcasting or do 
+anything to create what magic users call a “background 
+count”—I’m not a magic-user, so don’t bother asking 
+me about the intricacies of background counts—but 
+runners who use magic have told me that at a certain 
+threshold, the violent impact of large-scale explosions 
+can increase the ambient background count, sometimes 
+permanently. This won’t really affect a job when the 
+explosion comes at the end of the run, though. I’m 
+talking about times when a runner team sets off an 
+explosion in the middle of the job, such as cutting 
+through the wall of a vault. Demolitions experts should 
+be able to gauge the explosive potential of a charge and 
+tell the rest of the team whether it could impact a magic-
+user’s ability to channel mana. This is important, since all 
+magic-users have told me that temporary background 
+counts caused by explosions dissipate slowly, over the 
+course of hours. Capable demolitions experts need to 
+be aware of this possible complication to their team 
+dynamic and prepare accordingly, in case their magical 
+support suddenly becomes less effective in the wake of 
+an explosion.
+But I’ve gone on long enough about explosives. 
+There’s only so much I can say without giving away 
+trade secrets. And if you want trade secrets, you’re 
+going to have to pay me. So stay safe, follow the rules 
+I’ve provided, and if you need more, contact me. I’ll be 
+happy to negotiate a price.
+HOMEMADE VERSUS 
+COMMERCIAL GRADE
+In Shadowrun two kinds of explosives are available to 
+characters: commercially produced explosives and 
+homemade explosives. Commercially produced explo-
+sives are much more reliable, as they are produced un-
+der strict standards and quality control in a legitimate 
+facility, using all the proper tools and compounds that 
+are considered the industry standard. When the ex-
+plosives are rated by a manufacturer, a consumer has 
+a reasonable amount of confidence that the explosive 
+material has the alleged rating and will do what the 
+manufacturer says it will. On the other hand, home-
+made explosives tend to vary greatly in quality and re-
+liability, particularly those sold on the black market, and 
+the character has no idea who made them or whether 
+the producer mixed the chemicals properly. Charac-
+ters buying homemade explosives on the black market 
+cannot be certain that claims about the explosives be-
+ing sold are true. Some fences will even try to pass off 
+homemade explosives as commercial quality by pack-
+aging them in convincing, counterfeit packaging—cor-
+porate logos and all—to make a sale. When it comes to 
+buying explosives, it is truly buyer beware.
+All types of explosives for sale are also available as 
+homemade explosives. The rating, availability, and cost 
+for explosives on p. 436, SR5, and in the Demolitions 
+Equipment and Supplies table are for commercially 
+produced explosives.
+When dealing with homemade explosives, the 
+Damage Value of a particular material can range from 
+being too volatile and too powerful to being too diluted 
+and too weak. This variance can be as much as + or –15 to 
+the Damage Value (applied secretly by the gamemaster). 
+Sometimes, because the explosive compound is made 
+incorrectly, it is incapable of exploding. When a character 
+decides to buy homemade explosive material from 
+the black market, he must choose the base rating he 
+wishes to buy. The gamemaster will secretly modify the 
+effective rating based on how rich or poor the explosive 
+material turns out to be. Sometimes, there might be no 
+change; homemade explosives can be made properly, 
+but it is always a gamble.
+Homemade explosives have a few advantages over 
+commercial explosives. Homemade explosives tend to 
+be less traceable and made from reasonably available 
+and affordable materials. As such, a much higher 
+quantity of homemade explosive material is available on 
+the black market compared to commercially produced 
+explosives, which are tightly controlled. On top of 
+that, homemade tends to be cheaper. If purchasing 
+>> BLOW UP GOOD <<
+<< Advanced Demolitions    175

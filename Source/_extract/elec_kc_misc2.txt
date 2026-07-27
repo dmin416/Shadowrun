@@ -1,0 +1,1442 @@
+
+
+===== killcode.pdf p68 =====
+ESS
+AVAIL
+COST
+0.5
+12
+5,000¥
+MCT BIOLINK
+This is some drek, and we all know where the re-
+search came from, even though no one is ever 
+going to admit it. The BioLink is best described 
+as a wireless datajack. A small cluster of tissue is 
+grown across a section of the midbrain. The tis-
+sue acts in a fashion similar to the same areas of 
+the brain of a technomancer and allows the user 
+to connect to wireless devices without the use 
+of a datajack. It’s what some call the first step in 
+understanding and recreating the technomancer 
+phenomenon, but anyone in the shadows with 
+half a conscience knows this all came at the cost 
+of hundreds if not thousands of technomancers. 
+Getting this implant is paying back into the 
+pockets of a mega that has hunted and killed more 
+innocent technomancers than GOD. 
+The bioware doesn’t open the subject to the 
+Resonance and doesn’t offer a Matrix persona, 
+but it does allow a direct feed of Matrix data to 
+the brain and potential access to other Matrix-ac-
+cessing devices like commlinks and cyberdecks 
+via DNI but without any wires. 
+>	
+Great. Now we can make freaks.
+>	
+Clockwork 
+>	
+Already could. Isn’t that how you got here?
+>	
+Respec 
+>	
+The stealth hacking options here are the real advantage 
+this allows. I’m as unhappy as the next person that the 
+megacorps do all sorts of testing and even torture people 
+to get their info, but to let those people die in vain seems 
+a far worse offense. Better to arm ourselves with the tech 
+and tools they discover and use it against them.
+>	
+/dev/grrl
+ESS
+AVAIL
+COST
+0.5
+10
+15,000¥
+IC
+Sometimes it’s not just good to know what we’re 
+able to buy, but also what might be sliding onto 
+the market to make your lives hell. I don’t offer 
+any kind of real sales figures here, as the corps 
+that make this stuff code it all in house, and when 
+they sell it, we’re talking corp-to-corp deals, 
+which are not my area of expertise. 
+ 
+FLICKER
+Megacorporations have been developing IC for a 
+long time and have largely focused on lethal at-
+tacks or significant interference.  Last year, NYPD, 
+Inc. gained a non-lethal contract to protect sever-
+al buildings in Boston, and they included cyber-
+security as a part of that package.  Unwilling to 
+just dump a hacker, the boys in blue spent some 
+money on non-lethal IC that also allows them to 
+study your avatar.  Almost as soon as the IC was 
+developed, it was licensed to almost everyone on 
+the Matrix.
+SLEUTHER
+With the development of Flicker providing a minor 
+marketing boost, Lone Star began developing their 
+own non-lethal IC. Instead of focusing on an intrud-
+er’s avatar, Sleuther attempts to work out your hab-
+its and trackable characteristics from the trail your 
+virtual presence leaves. The IC has had limited suc-
+cess in stopping hackers but has provided the con-
+tact details of many hackers that can be found—and 
+possibly recruited—by the Star.
+FLICKER RULES
+Attack: Host Rating x 2 [Attack] v. Logic + Firewall
+Flicker link-locks you when it hits and puts a mark on you. If 
+you have two marks on you, it disconnects you from the Matrix, 
+dealing dumpshock damage if appropriate. Although you 
+have been disconnected from the Matrix, your avatar doesn’t 
+disappear until you log back in using the same device, or after 
+[Device Rating] rounds. It remains where you left it, unable to 
+act, while other IC can attempt to trace your location or analyze 
+your avatar.  
+>> KILL CODE <<
+<< DIPS & CHIPS    67
+SLEUTHER RULES
+Attack: Host Rating x 2 [Attack] v. Logic + Firewall
+This IC puts a mark on you if it hits. Each mark provides a 
+legitimate user with +2 dice on any Matrix Search actions or 
+Matrix Perception tests involving you. It works by applying 
+different behavioral algorithms and heuristics to try to work out 
+what sort of person you are. This IC also installs tracker code 
+into your avatar, enabling the IC to identify which grids and 
+hosts your avatar visits after the mark lands. Marks from this IC 
+may be removed normally.
+
+
+===== killcode.pdf p69 =====
+BLUE GOO
+Sometimes Matrix security designers want IC 
+that is immediately threatening, stuff that will at-
+tack you as soon as it detects you with a level of 
+force that would ruin your day. Other times, they 
+want IC that is sneakier, stuff that might draw you 
+into a fight, lead you to think you are doing well, 
+only to blow up in your face when you think the 
+battle’s won. Security designers who want the 
+latter effect want Blue Goo. This Wuxing creation 
+hits back if it’s hurt—the damage enters a quick 
+feedback loop in the programming and is spit 
+back out as a withering attack. This destroys the 
+IC, but it will also do a number on the target. So 
+if you think you see some IC that looks like a fat, 
+juicy target that you can take out easily, be aware 
+of what might happen as it goes down.
+COMMLINKS AND RCC
+Though commlinks are basic tech in the eyes 
+of most, several of the megas have made some 
+significant shifts and advancements in their 
+development. Their efforts have worked as 
+intended—I now have trouble deciding which 
+one to buy for myself, because there are so 
+many good options out there. Here are a few 
+of the newer ones.
+SHIAWASE CYBER-6 RCC
+Shiawase has been focusing on large projects 
+for a long time, and some of the things that sup-
+plement large building and security projects are 
+drones. In order to build capital quickly, Shiawase 
+has released one of their internal command con-
+soles as a consumer product, skipping a lot of re-
+search and design, other than adding a rugged 
+rubberized case. This model allows a rigger to 
+process much more input from remotely con-
+trolled drones, at the cost of a closer, deeper neu-
+ral connection. 
+SPINRAD GLOBAL  
+SKIRMISHER RCC
+When Spinrad and Global Sandstorm merged, 
+the disruption to the company upended a lot of 
+settled thinking. The SpinRad Global Skirmisher 
+is one of the products produced as the company 
+finds its feet again. Not the most powerful ma-
+chine on the market, the Skirmisher has bet large 
+on multiple processors and parallel inputs to the 
+point where it is extremely good at processing 
+some of the threat and input information from 
+client drones. 
+Whether Spinrad Global fully develops this 
+technology depends on where the internal chaos 
+of the corporate restructure settles. This piece of 
+technology could become the centerpiece of the 
+Spinrad Global digital strategy, or it may become a 
+footnote in the history of the company. 
+HORIZON FLOW COMMLINK
+Horizon has the best sorting and sifting algo-
+rithms on the Matrix. In an attempt to leverage 
+these, Horizon has produced the Flow, a com-
+mlink designed to help you navigate the depths 
+of the Matrix faster and more accurately than a 
+normal ’link can. As long as you are willing to en-
+able the smart assistant, the Flow will download 
+up-to-date algorithms from Horizon’s servers 
+and use those algorithms to seek the knowledge 
+you are after. 
+>	
+The Flow is meant to return “anonymous” usage statistics 
+back to Horizon to fold back into the algorithm, but any 
+decent decker can disable that in a variety of ways.  
+>	
+Slamm-0!
+WUXING  
+FREQUENCY COMMLINK
+Wuxing may not have been as deeply embroiled 
+in the “technomancer controversy” as other 
+megacorps, but they must have engaged in some 
+experimentation, as shown by this commlink. 
+BLUE GOO RULES
+Attack: Host Rating x 2 [Attack] v. Logic + Firewall
+If an avatar successfully deals Matrix damage to this IC, 
+it deactivates by exploding. Make a Host Rating x 2 [Attack] v. 
+Logic + Firewall Opposed Test. If this attack hits, the avatar is 
+link-locked by the host that launched the Blue Goo. The avatar 
+must resist (Attack) DV, and it is marked by the host. The avatar 
+must successfully Jack Out of the host to end the link-lock.
+>> KILL CODE <<
+68    DIPS & CHIPS >>
+CYBER-6 RCC RULES
+While a rigger is jumped into the drone, this deck provides 
+all drones commanded from the console with +2 Initiative, and 
++1 limit on all tasks. If the rigger is dumped from the console, 
+dumpshock damage is increased by 4.
+
+
+===== killcode.pdf p70 =====
+Wuxing issues these commlinks to guards in sensi-
+tive areas that may be targeted by technomancers. 
+The basic idea of the ’link is to gain enough in-
+formation to try to differentiate technomancers 
+from non-technomancers and have that show up 
+as part of their icon. There are a lot of subtleties 
+that go into the attempt to mark someone as a 
+technomancer, so the device is generally not fool-
+hardy enough to clearly rate someone as definitely 
+a technomancer or definitely not a technomancer. 
+Instead, it supplies interpretation of key bits of 
+data as colors around the edge of virtual perso-
+nas, leaving it to individual users to interpret what 
+they think those colors mean. The devices work as 
+designed, though the rarity of meeting a techno-
+mancer means that most guards don’t bother to 
+check every icon to see whether it might be one. 
+Even if they checked regularly, the guards who are 
+issued the device are generally not as technologi-
+cally savvy as a decker, and they might well fail to 
+interpret the colors correctly. Even so, if this tech-
+nology becomes more widespread, it will get sig-
+nificantly harder for technomancers to hide.
+SAEDER-KRUPP  
+LAST CHANCE LINK
+Saeder-Krupp has a decent share of corporate 
+executives who have been involuntarily recruited 
+by opposing corporations. Sometimes the targets 
+of an extraction are more willing to leave than it 
+might first appear, but in cases where it truly hap-
+pens against the exec’s will, Saeder-Krupp has 
+provided the Last Chance Link. 
+Almost impossible to detect when inactive, the 
+Last Chance Link is contained in a plastic sheet that 
+sits in the nasal cavity. Usually turned off, it can be 
+activated by means of a plastic strip that reaches 
+down the throat. It’s generally easy to conceal the 
+activation as a sneeze or cough. Without much in 
+the way of battery, the link has enough power for 
+about an hour of activity, and it can be turned on 
+and off to maintain contact. This gives captured 
+executives a last chance to contact security.
+I got the following from a friend we share. No, 
+not Armand—Picador! She dropped me a little 
+heads-up that gave me a solid line on a supplier, 
+so I feel I can include her write-up over here and 
+remind everyone that Estaban’s Electronics Extrav-
+aganza has all your tech needs!
+PI-TAC UPGRADES  
+AND ACCESSORIES
+POSTED BY: PICADOR
+In modern warfare, many consider the Person-
+al Integrated Tactical Network (PI-Tac) to be the 
+SKIRMISHER RCC RULES
+Drones that are commanded using the Control Device 
+action from the Global Skirmisher gain a +2 dice pool modifier 
+and +1 limit to their Gunnery and Perception Tests.
+FREQUENCY RULES
+The commlink provides a +5 dice pool modifier and +2 Limit 
+on Matrix Perception Tests to specifically identify an icon as a 
+technomancer. It takes five net hits on a Matrix Perception Test 
+(p. 241, SR5) to spot a technomancer.
+LAST CHANCE LINK RULES
+The Last Chance link has a concealability modifier of –8. 
+The device can cause irritation if worn for more than a few 
+weeks at a time, giving the gamemaster the option to impose 
+distraction penalties on relevant tests.
+FLOW RULES
+The Horizon Flow gains +2 limit and a +1 dice pool modifier 
+to any Data Search Test made with the link.
+GEAR
+RATING
+DATA PROC.
+FIREWALL
+AVAIL
+COST
+Cyber-6RCC
+5
+5
+5
+12R
+72,000¥
+Skirmisher
+4
+5
+5
+8R
+50,000¥
+Last Chance
+3
+3
+3
+11
+5,000¥
+Frequency
+4
+4
+4
+10
+3,500¥
+Flow
+5
+5
+5
+12
+4,000¥
+>> KILL CODE <<
+<< DIPS & CHIPS    69
+
+
+===== killcode.pdf p71 =====
+pinnacle of battlefield communication and co-
+ordination, the culmination of years of research 
+and development combined with rigorous field 
+testing. While others think they’re nothing more 
+than overpriced, overcomplicated pieces of junk. 
+However, despite your opinion on them, PI-TAC 
+networks are a common sight on the battlefield—
+for those who can afford them. 
+But a new player has entered the tactical market 
+and has caused a few waves. Calling themselves 
+Pantheon Industries, they’ve released on the open 
+market a series of upgrades specifically designed 
+to work on all PI-Tac models, regardless of manu-
+facturer (and much to many corporations’ dismay). 
+Full disclosure: My unit was given a few of these 
+“tactical apps” to test. Can’t say I’m one hundred 
+percent sold on them, but so far (at least in simula-
+tions), they’re proving quite useful. And from what 
+I have been told by Pantheon reps, these are only 
+the first in a possible new line of Matrix products. 
+>	
+Okay, gotta ask the obvious: who, what, and why 
+should I care?
+>	
+Stone
+>	
+Interestingly enough, my searches found next to nothing. 
+What I did find says that the CEO, COO, CFO, and “lead 
+R&D programmer” is one E.D. “Ed” Lockwood. His 
+home address is in Detroit, but it’s three years old and 
+has no connections to a business. Lockwood is a former 
+Ares tech who worked on the Excalibur, and from the 
+information I found, he was basically one of several 
+sacrificial lambs when the project went down the 
+drekker. Other than that, nothing. 
+>	
+Netcat
+>	
+So this guy is what, doing all this out of his garage or 
+something?
+>	
+X-Prime
+>	
+Yeah, I think he is. Only way you can get their products 
+is online.
+>	
+Netcat
+PANTHEON INDUSTRIES  
+PI-TAC “TACTICAL APPS”
+Introduced by Pantheon Industries only six 
+months ago, tactical apps (tac-apps) are meant 
+to both enhance a PI-TAC and allow users to cus-
+tomize it for their specific needs or mission pro-
+file. They function like programs in a cyberdeck 
+but are coded to operate exclusively in PI-Tac 
+units and cannot be used in cyberdecks that do 
+not have a linked PI-Tac. All bonuses and benefits 
+of a tac-app are cumulative with bonuses from 
+a linked cyberdeck or RCC but are geared more 
+toward decker usage. 
+A PI-Tac master unit can load a number of tac-
+apps equal to its rating plus two. Example: A level 
+two PI-Tac can have four tac-apps loaded at any 
+given time. Unlike cyberdecks and programs, it 
+takes a Simple Action to unload a running tac-app 
+and load a new one from storage. 
+CO-PILOT: MK I, II, AND III
+One of the main features of Level III PI-Tacs 
+is the network operator’s ability to take limit-
+ed emergency control of a linked-in vehicle or 
+drone. The Co-Pilot series of tac-apps takes that 
+function a step further. Note: For these apps to 
+work properly, a PI-Tac operator must have ad-
+min access and a wireless link to all target vehi-
+cles and drones. 
+The MK I app is for Level III units and designed 
+to give enhanced functions versus the standard 
+benefits. With the MK I, an operator can operate 
+the target vehicle or drone directly as if operating 
+in cold-sim, assuming they have the necessary 
+skill or skillsoft. However, control is less than opti-
+mal and inferior to a traditional rigger setup. Man-
+ufacturer warns that this program is best used only 
+for emergencies or non-combat situations. 
+>	
+Yeah. Since when do we actually listen to the 
+manufacturer’s warnings? 
+>	
+Chainmaker
+>	
+This time we should. Based on my copy, it’s definitely not 
+meant to replace a rigger system. I tested a drone swarm 
+with it to see how far I could push. And sure enough, 
+in simulated combat the signal started to degrade and 
+control went down the drekker because the code couldn’t 
+keep up. But desperate times … 
+>	
+Clockwork 
+The MK II allows Level I and II PI-Tacs to re-
+motely control a target vehicle and/or drone as if 
+they were a basic Level III unit. However, MK I and 
+II apps are currently incompatible with each other. 
+>	
+For being some kind of new “innovative” products, these 
+tactical programs already seem to have some serious 
+limitations. 
+>	
+Cayman
+>> KILL CODE <<
+70    DIPS & CHIPS >>
+
+
+===== killcode.pdf p72 =====
+>	
+Like any new tech, you have to make it work. Then make 
+it better. 
+>	
+Rigger X
+>	
+Also, “currently” incompatible. Someday, the future will 
+be now.
+>	
+Kane
+The MK III allows a PI-Tac operator to di-
+rectly assist a pilot in operating their vehicle’s 
+secondary systems, such as sensors or commu-
+nications, allowing the pilot to concentrate on 
+primary tasks. In emergencies, the PI-Tac opera-
+tor can assist should one or more pilots become 
+incapacitated. In extreme cases, the MK III al-
+lows a PI-Tac operator to take emergency con-
+trol should all pilots become incapacitated and/
+or the auto-pilot systems become inoperative.
+>	
+A chum in the 180th IAR is testing these for the regiment 
+and says that when two people are operating the same 
+vehicle or drone together and running the MK III, they get 
+the odd sensation of being cramped and crowded. 
+>	
+Turbo Bunny
+DOOR GUNNER
+Similar to the Co-Pilot, this app is specifically de-
+signed to give PI-Tac operators the ability to re-
+motely operate powered weapon mounts (such 
+as turrets) or launch weapons (such as missiles or 
+rockets) on a linked vehicle. Because of the nar-
+row focus of this program, there are no penalties 
+associated with its use. 
+ECM-WARRIOR
+Electronic warfare and electronic countermea-
+sures continue to be mainstays of modern com-
+bat, so the ECM-Warrior tac-app is designed to 
+give the PI-Tac operator some extra electronic 
+ammo, whether defending against them or at-
+tacking with them. 
+>> KILL CODE <<
+PANTHEON INDUSTRIES  
+“CO-PILOT” MK I
+AVAIL
+COST
+12R
+400¥
+Rules: Allows a Level III PI-Tac operator to control a target 
+vehicle or drone as if by remote, using cold-sim. Additionally, all 
+piloting skills have an automatic –2 penalty while operating the 
+target vehicle in safe conditions, –3 in combat conditions. 
+PANTHEON INDUSTRIES  
+“CO-PILOT” MK II
+AVAIL
+COST
+12R
+400¥
+Rules: Allows Level I and II operators to control drones as if 
+in “captain’s chair mode.”
+PANTHEON INDUSTRIES  
+“CO-PILOT” MK III
+AVAIL
+COST
+12R
+400¥
+Rules: Allows operator to access vehicle’s secondary 
+systems with no penalty and assist with Pilot tests at a –1 
+dice pool penalty. If using this program as sole pilot, penalty 
+increases to –3. 
+PANTHEON INDUSTRIES  
+“DOOR GUNNER”
+AVAIL
+COST
+12R
+200¥
+Rules: No penalties for use; linked weapon must have 
+smartlink and secure wireless connection. Not for use with 
+drones. Operator must have necessary skill or skillsoft. 
+PANTHEON INDUSTRIES  
+“ECM-WARRIOR”
+AVAIL
+COST
+12R
+200¥
+Rules: This program provides a bonus of +3 for all Electronic 
+Warfare tests
+<< DIPS & CHIPS    71
+
+
+===== killcode.pdf p73 =====
+MOBILE CNC
+This piece of software is designed to help com-
+manders coordinate and communicate with 
+multiple PI-Tac systems in large operations by 
+enhancing overall communications. This enables 
+the overall field or operational commanders to 
+assist the users of other networks, usually run by 
+subordinates, with various tasks and objectives 
+directly through the linked network. 
+SHIELD WALL
+This is a simple app that adds layers of benign, 
+shifting “junk code” that an opposed hacker must 
+get through in order to reach the PI-Tac and linked 
+cyberdeck; thereby creating additional layers of 
+defenses against attack. 
+PI-TAC ACCESSORIES
+PANTHEON INDUSTRIES 
+TACTICAL PROGRAM DONGLE
+With modern combat being dynamic and fluid, 
+PI-Tac operators can’t plan for every contingency 
+and run all the appropriate tac-apps. Pantheon re-
+alized this and created a specialized tactical pro-
+gram dongle that allows operators to run one ad-
+ditional tac-app, beyond the usual number that a 
+Pi-Tac master unit can load (Level + 2). The dongle 
+also allows the Pi-Tac operator to rapidly unload a 
+running tac-app and load a new one from storage 
+using a Free Action instead of a Simple Action, as 
+if reconfiguring a cyberdeck (p. 228, SR5). A PI-
+TAC unit can only accept one dongle. Switching 
+out tactical programs in combat requires a Simple 
+Action. Placing additional tactical programs on a 
+dongle requires a Software + Logic [Mental] (re-
+maining number of program slots on dongle) Test. 
+PANTHEON INDUSTRIES  
+HARD CASE CCOB 
+(COMBAT COMMUNICATIONS  
+AND OPERATIONS BACKPACK)
+Modern electronics such as cyberdecks and RCCs 
+are extremely valuable pieces of equipment, and 
+they are equally vulnerable in a combat situation, 
+especially when used on the front lines or ab-
+sent cover. Based on the widely available gener-
+ic combat backpack the Hard Case is specifically 
+designed to provide front-line electronic warriors 
+additional protection for their most important 
+devices. It can be worn normally or attached to 
+heavier armors, and it has an internal armored 
+shell engineered to protect fragile cyberdecks or 
+RCC units. In addition to this protective shell, the 
+Hard Case comes standard with a drag handle 
+for emergencies, a quick-charge battery pack, a 
+fiber-optic cable port for easy access, and three 
+micro-hardpoints for mounting external gear 
+such as sat-links, toolkits, or collapsible transmit-
+ter dishes. 
+>	
+Several companies across the globe produce the same 
+generic product, but with different names and logos. They 
+all do the same thing, some for a better price.
+>	
+Danger Sensei 
+>	
+And with varying quality, don’t forget that. But Pantheon’s 
+Hard Case is specifically designed with the electronic 
+warrior in mind and is produced under license by an outfit 
+PANTHEON INDUSTRIES MOBILE CNC
+AVAIL
+COST
+12R
+300¥
+Rules: This program gives the user a dice pool of six for 
+navigation tests, teamwork tests, or combat maneuvers. 
+This bonus dice pool can be allocated to multiple additional 
+operators. It also gives a bonus of +2 against noise. 
+PANTHEON INDUSTRIES SHIELD WALL
+AVAIL
+COST
+12R
+200¥
+Rules: The program gives a +3 bonus to the Firewall of a 
+linked cyberdeck for defense against offensive actions such 
+Brute Force or Data Spike. 
+PANTHEON INDUSTRIES 
+TACTICAL PROGRAM DONGLE
+AVAIL
+COST
+10R
+Rating x 200¥
+>> KILL CODE <<
+72    DIPS & CHIPS >>
+
+
+===== killcode.pdf p74 =====
+in Cincinnati, Ohio, UCAS. From what I’ve heard, they do 
+solid if not spectacular work. 
+>	
+Red Anya
+>	
+Nice piece of gear, but is it really a good idea for any 
+decker—or rigger, for that matter—to go full VR in the 
+middle of a firefight? No thanks, not for me. 
+>	
+Pistons 
+SPINRAD GLOBAL/ 
+PANTHEON INDUSTRIES 
+MERCURY-ALPHA BATTLEFIELD 
+SIGNAL BOOSTER 
+On the wireless battlefields of the Sixth World, 
+electronic warfare has greater significance than 
+ever before. Cutting off or limiting an enemy’s 
+ability to communicate while maintaining one’s 
+own is often a decisive factor in victory. The Mer-
+cury-Alpha Signal Booster is designed to give PI-
+Tac users/operators and their commanders addi-
+tional advantages during combat or for normal 
+use in remote areas. 
+The Mercury-Alpha consists of three compo-
+nents: a main unit (or brain) that contains all neces-
+sary hardware, software, batteries, and data ports; 
+a foldable/detachable micro-dish transmitter; and 
+an optional, hardened fiber-optic cable that can 
+directly link the brain and transmitter together. 
+The brain weighs only about 450g and comes in 
+a variety of shapes, depending on the user’s pref-
+erence. It attaches directly to a PI-Tac master unit, 
+commlink, cyberdeck, or RCC. 
+When in use, the Mercury-Alpha has three dis-
+tinct modes. The first is passive mode, which is 
+specifically designed to overcome most normal 
+obstacles, such as extreme distance or natural ob-
+OPTIONAL RULE: SURPLUS OR REFURBISHED PI-TAC UNITS
+Arguably one of the most useful (and expensive) pieces of 
+battlefield technology out there, PI-Tac’s are coveted pieces of 
+equipment. Since their introduction years ago, the market for 
+surplus or refurbished units is at an all-time high. But, like any 
+secondhand piece of equipment, getting these types of units comes 
+with a price. If a gamemaster wishes to allow their players access 
+to them, here are a few general rules/suggestions:
+1) For every 25 percent reduction on the base cost of a new 
+unit, the surplus unit should have lost the functionality of one of its 
+main features. Repairing each function requires both Hardware 
+and Software + Logic [Mental] (Level x 3) Extended Tests, and the 
+necessary replacement parts cost two percent of the original value 
+value of the PI-Tax at +4 Availability)
+2) Surplus and refurbished units are more prone to breakdown 
+and susceptible to glitches. If an operator should glitch while 
+using one of these units, one main feature will fail and will need 
+to be repaired through a Hardware or Software + Logic [Mental] 
+(Level) Test. Gamemasters can also elect to have different kinds of 
+hidden code or commands in the unit. These can cause the unit to 
+act in unpredictable ways such as broadcasting all information in 
+the open or going into diagnostic mode at inconvenient times. Get 
+creative with the ways the players are inconvenienced! 
+3) Such units are more susceptible to both physical and Matrix 
+damage and will take one additional box when receiving either type 
+of damage. 
+>> KILL CODE <<
+PANTHEON HARD CASE CCOB
+ARMOR
+CAPACITY
+AVAIL
+COST
+12/14*
+8
+12R
+1,700¥
+Rules: Provides protection for contents against physical 
+damage only. Does not stack with other armor.
+Standard Upgrades: Drag handle, internal armored shell 
+(for RCC or cyberdecks) [14]*, 3 micro-hardpoints, quick-charge 
+battery pack.
+GENERIC CCOB
+ARMOR
+CAPACITY
+AVAIL
+COST
+8
+8
+10
+1,000¥
+Rules: Does not stack with other armor
+Standard Upgrades: Drag handle, micro-hardpoint, weapon 
+holster (SMG, shotgun, or assault rifle), quick-access medkit 
+pouch (up to Rating 4).
+PERSONAL DRONE RACK
+AVAIL
+COST
+12R
+500¥
+Rules: Can mount 3 micro drones or one small drone. 
+Requires one micro-hardpoint. 
+<< DIPS & CHIPS    73
+
+
+===== killcode.pdf p75 =====
+structions. The second is active or defensive mode, 
+which is used as an electronic counter-counter-
+measure against enemy electronic warfare attacks, 
+giving the defending PI-Tac operator bonuses. The 
+third, called aggressive mode, is when a PI-Tac 
+operator (in conjunction with appropriate equip-
+ment) uses the Mercury-Alpha’s broadcasting 
+power to enhance an Electronic Warfare attack.
+>	
+Details are still hush-hush, but what I’ve been able to dig 
+up is that Pantheon agreed to license the design and the 
+operating system code in exchange for SG manufacturing. 
+And of course, some corps are not happy about this. 
+>	
+Pistons
+>	
+Of course not, since someone who is not them is making 
+money off their products! Only a matter of time before 
+someone goes after Pantheon. If they can find them. 
+>	
+Mr. Bonds
+PANTHEON INDUSTRIES 
+“MERCURY-ALPHA” 
+BATTLEFIELD SIGNAL BOOSTER
+DR
+AVAIL
+COST
+5
+12R
+3,500¥
+Rules: Can only be used in one mode at a time; switching 
+modes is a Simple Action. In passive mode, provides a +4 dice pool 
+bonus against all sources of noise and doubles effective range. 
+In defensive and aggressive modes, provides +2 for pertinent 
+Electronic Warfare tests. Linked PI-Tac units can also distribute 
+some or all of their +2 bonuses to assist other operators without 
+a teamwork test; this requires a Simple Action. All functions and 
+bonuses are cumulative with tactical programs and associated 
+devices such as satellite links and re-trans units. 
+PANTHEON INDUSTRIES 
+MICRO-DISH TRANSMITTER
+AVAIL
+COST
+10R
+1,200¥
+>> KILL CODE <<
+74    DIPS & CHIPS >>
+CYBERDECKS EX-SERIES
+DECK
+COST
+AVAIL
+Deck Rating
+(Deck Rating x 2)R 
+Rating x 10,000¥
+Attack
+—
+Rating^3 x 500¥
+Sleaze
+—
+Rating^2 x 500¥
+Data Processing
+—
+Rating^2 x 500¥
+Firewall
+(Rating x 4)R
+Rating^3 x 500¥
+AMMO
+TYPE
+DAMAGE 
+MOD
+AP  
+MOD
+AVAIL
+COST (PER  
+10 ROUNDS)
+E0-E0
+—
+—
+5R
+50¥*
+E0-E0 Rifle
+–4
+–4
+5R
+100¥
+Fuzzy rounds
+     LP, MP, AR
+10R
+30¥
+     HP, SMG, S
+12R
+50¥
+Looper
+     1
+7R
+20¥
+     2
+8R
+ 30¥
+     3
+9R
+40¥
+     4
+10R
+50¥
+     5
+11R
+100¥
+     6
+12R
+200¥
+Zapper rounds
++0M
+—
+12R
+140¥
+ARROWLINK
+TYPE
+AVAIL
+COST
+50m
+6R
+25¥
+100m
+8R
+75¥
+200m
+10R
+200¥
+500m
+12R
+400¥
+GRENADES
+TYPE
+AVAIL
+COST
+CoS
+10R
+500¥
+Douser
+(Rating x 2)F
+Rating x 50¥
+Fuzzy
+10R
+20¥ x Power
+DumDum
+(Rating x 2)R
+Rating x 50¥
+CYBERWARE & BIOWARE
+ITEM
+ESS
+AVAIL
+COST
+BioLink
+0.5
+10
+15,000¥
+Cranial Shield
+0.5
+12
+5,000¥
+Datajack plus
+0.15
+4
+Rating x 3,500¥
+EARRS
+0.75
+10R
+30,000¥
+CYBERDECKS N-SERIES
+DECK
+COST
+AVAIL
+Deck Rating
+(Deck Rating x 2)R
+Rating x 5,000¥
+Attack
+—
+Rating^3 x 500¥
+Sleaze
+—
+Rating^2 x 500¥
+Data Processing
+—
+Rating^2 x 500¥
+Firewall
+—
+Rating^3 x 500¥
+
+
+===== killcode.pdf p76 =====
+>> KILL CODE <<
+SECURITY CYBERDECKS
+MODEL
+RATING
+ATT
+SLEAZE
+DATA 
+PROC.
+FIRE-
+WALL
+AVAIL
+COST
+Guard
+2
+3
+1
+2
+4
+3R
+39,000¥
+Programs: Encryption
+Shield
+4
+4
+1
+3
+5
+6R
+98,000¥
+Programs: Encryption, Shell
+Fortress
+6
+6
+1
+5
+8
+9R
+377,000¥
+Programs: Encryption, Shell, Armor
+Great Wall
+8
+8
+1
+6
+10
+12R
+774,000¥
+Programs: Encryption, Shell, Armor, Biofeedback Filter
+HUNTER CYBERDECKS
+MODEL
+RATING
+ATT
+SLEAZE
+DATA 
+PROC.
+FIRE-
+WALL
+AVAIL
+COST
+Fox
+2
+4
+1
+3
+4
+4R
+68,500¥
+Programs: Track, Shell, Hammer
+Wolf
+4
+5
+1
+4
+5
+8R
+133,000¥
+Programs: Track, Shell, Hammer, Decryption
+Tiger
+6
+8
+1
+6
+8
+12R
+530,000¥
+Programs: Track, Shell, Hammer, Decryption, Hammer
+Shark
+8
+10
+1
+8
+10
+16R
+1,032,000¥
+Programs: Track, Shell, Hammer, Decryption, Hammer, Mugger, Fork
+MISC. CYBERDECKS
+MODEL
+RATING
+ATTRIBUTE 
+ARRAY
+PROGRAMS
+AVAIL
+COST
+Shadow Warrior
+3
+6 5 4 3
+3 
+10R 
+225,000¥
+Sublime
+4 
+7 6 5 5 
+4 
+12R 
+375,000¥
+Destiny Blade
+4
+7 6 5 5 
+4
+12R
+400,000¥
+Defender 
+5 
+8 7 5 5 
+5 
+14R
+560,000¥
+Sleeper 
+4 
+7 5 5 4 
+4 
+14F 
+375,000¥
+COMMLINKS & RCC
+GEAR
+RATING
+DATA PROC.
+FIREWALL
+AVAIL
+COST
+Cyber-6RCC
+5
+5
+5
+12R
+72,000¥
+Skirmisher
+4
+5
+5
+8R
+50,000¥
+Last Chance
+3
+3
+3
+11
+5,000¥
+Frequency
+4
+4
+4
+10
+3,500¥
+Flow
+5
+5
+5
+12
+4,000¥
+MISC. ITEMS
+ITEM
+AVAIL
+COST
+Booster Chips
+   Attack Booster
+—
+Rating x 50¥
+   Sleaze Booster
+—
+Rating x 50¥
+Data Processing 
+Booster
+—
+Rating x 50¥
+   Firewall Booster
+—
+Rating x 50¥
+Armor Defeating
+(Rating x 4)R
+Rating x 250¥
+Slick Willy
+(Rating x 4)R
+Rating x 250¥
+Data Dynamo
+(Rating x 4)R
+Rating x 250¥
+Fortified
+(Rating x 4)R
+Rating x 250¥
+Booster Cloud
+   Brute Force
+6R
+250¥
+   Control Device
+6R
+200¥
+   Crack File
+6R
+150¥
+   Crash Program
+6R
+150¥
+   Data Spike
+8R
+300¥
+   Edit File
+—
+150¥
+   Erase Mark
+6R
+150¥
+   Hack on the Fly
+6R
+250¥
+   Hide
+6R
+150¥
+   Jam Signals
+6R
+150¥
+   Matrix Perception
+—
+100¥
+   Reboot Device
+6R
+250¥
+   Snoop 
+6R
+200¥
+   Spoof Command
+6R
+250¥
+   Trace Icon
+8R
+200¥
+Custom Case
+6
+200¥
+Faceless
+(Rating x 2)F
+Rating x 500
+   Generic face
+ +2
++1000
+Specific face
+ +4
++5000
+MOS
+6
+Rating x 4,000¥
+Trode Patch
+4
+1,250¥
+   Patch Cover
+—
+250¥
+<< DIPS & CHIPS    75
+PI-TAC UPGRADES & ACCESSORIES
+ITEM
+AVAIL
+COST
+Battlefield Signal Booster 5
+12R
+3,500¥
+“Co-Pilot” MK I
+12R
+400¥
+“Co-Pilot” MK II
+12R
+400¥
+“Co-Pilot” MK III
+12R
+400¥
+“Door Gunner”
+12R
+200¥
+“ECM-Warrior”
+12R
+200¥
+Micro-Dish Transmitter
+10R
+1,200¥
+Mobile CnC
+12R
+300¥
+Personal Drone Rack
+12R
+500¥
+Shield Wall
+12R
+200¥
+Tactical Program Dongle
+10R
+Rating x 200¥
+ARMOR
+ITEM
+ARM
+CAP
+AVAIL
+COST
+Generic CCOB
+8
+8
+10
+1,000¥
+Hard Case 
+CCOB
+12/14*
+8
+12R
+1,700¥
+
+
+===== killcode.pdf p77 =====
+There are a million hosts on the Matrix, and billions 
+upon billions of data points. Most of them are triv-
+ial or obvious, which means one of the traits of a 
+quality hacker is to sort through the dross to find 
+the gold. There is no one right way to do this—the 
+right way is the one that works. This chapter has 
+qualities, complex forms, and Life Modules to 
+help hackers make themselves individual, distinct, 
+and capable of finding the Matrix’s most valuable 
+and tightly guarded secrets.
+POSITIVE 
+QUALITIES
+DECK BUILDER 
+COST: 4 KARMA
+The character has been messing around with 
+tech their whole life; it was only a matter of time 
+before they found a way to push their deck’s hard-
+ware further so that it could do more than it was 
+supposed to.
+The character may install 1 additional cyber-
+deck module (p. 64, Data Trails) into their deck. 
+This quality may only be selected once.
+IMPENETRABLE LOGIC 
+COST: 3 KARMA
+Some would call it precognition—this hacker 
+calls it quick thinking. When things in the Matrix 
+start going sideways, they keep their cool, main-
+tain their focus, and think their way around the 
+problem. Which may well be some brutal IC bear-
+ing down on them.
+This quality allows the character to use their 
+Logic in place of their Willpower attribute while 
+using Matrix Full Defense.
+ROOTKIT 
+COST: 8 KARMA
+The character knows how to find the crack in 
+any system, even if it’s a minuscule one. Getting 
+the code just right, and hitting that chain on its 
+weakest link take a lot of mental fortitude and ac-
+curacy. A helping of luck doesn’t hurt.
+As a Free Action, a character may take a –8 pen-
+alty to their dice pool when they are performing 
+a Data Spike or Resonance Spike Action one that 
+same turn. On a successful hit, the character may 
+add their device rating to the DV of the attack. 
+SILENCE IS GOLDEN
+COST: 9 KARMA
+It might be anemia from all that soykaf, or per-
+haps there’s something about the character—may-
+be the Matrix just likes them. Whatever the case, 
+for some reason the ever-present noise of the Ma-
+trix is muted near this character. 
+The noise penalty for the character and anyone 
+within ten meters of them is reduced by 2. Any-
+one outside the radius who attempts to connect 
+to the character does not benefit from the noise 
+reduction.
+NEGATIVE 
+QUALITIES
+AVRSE 
+BONUS: 9 KARMA
+The character knows too many hackers who 
+have been taken out while in VR, and they never 
+saw it coming. They see VR as a trap—how can you 
+get out of a bad situation if your consciousness is 
+not firmly inside your body? Unwilling to take that 
+sort of risk, the character has made AR their mode 
+of choice. 
+KILL CODE
+DISK JOCKEYS & 
+LIGHTSTREAM RIDERS
+76    DISK JOCKEYS & LIGHTSTREAM RIDERS >>
+
+
+===== killcode.pdf p78 =====
+When in VR, the character suffers a –4 penalty 
+to all actions if they are not in a secure location 
+(such as a secured lair or safehouse). This location 
+must be a place that they believe will not offer ac-
+cess to anyone besides themselves and their clos-
+est allies.
+ 
+BASEMENT DWELLER 
+BONUS: 8 KARMA
+The character didn’t have a lot of friends when 
+they were a kid … and now they still don’t have that 
+many. What friends the character has tend to be 
+on the Matrix, and the character’s social anxiety 
+prompts them to keep it that way. Basically, peo-
+ple in real life are unpredictable and scary, and the 
+character would rather interface from the comfort 
+of their home. 
+The character suffers a –2 dice pool modifier for 
+all Social tests when meeting a someone in person 
+for the first time. This modifier does not apply to 
+second and subsequent encounters.
+BIG BABY
+BONUS: 4 KARMA
+Pain is a fact of life in the Sixth World, and shad-
+owrunners know that better than most. While most 
+runners accept that they are going to get hurt and 
+are prepared to deal with it, others flinch from the 
+possibility of damage, and this gets more severe 
+each time they actually get hurt. When they’re 
+out on the job, if they are burned, shot, zapped, 
+punched, or otherwise damaged, the character 
+becomes extremely reluctant to rejoin the fray.
+When a character with this quality is dealt Phys-
+ical damage, they suffer a –1 penalty to combat 
+dice pools until the enemy or obstacle that dealt 
+the damage is overcome or destroyed.
+ 
+BUDDY SYSTEM
+BONUS: 9 KARMA
+Every runner knows that working with a team is 
+always safer than acting alone. Because of stories 
+they’ve heard or personal experience, the character 
+gets anxious when no one’s watching their back. 
+The character suffers a –2 to all Matrix actions 
+other than Matrix Perception and the Hide action if 
+they are alone, or a –1 penalty if they have an agent 
+slotted in or a sprite compiled to back them up.
+ 
+DISCOMBOBULATED
+BONUS: 12 KARMA
+Whoever thought up simsense was a genius. A 
+character with this quality doesn’t want to imagine 
+life without it, especially because everything is a 
+little too real. Characters who suffer from discom-
+bobulation experience feelings of disorientation 
+whenever they work in the physical world, without 
+virtual reality to steady their all-too-tactile hands. 
+The character receives a –2 dice pool modifier 
+to all tests when acting outside of AR or VR.
+ 
+DOWN THE RABBIT HOLE
+BONUS: 2 KARMA (MAX 4) 
+The character is a sucker for clickbait, even 
+when it’s obvious that it has nothing to do with the 
+search they’re pursuing. They’ll start searching for 
+building schematics for a heist, and end reading 
+rumors about Dunkelzahn’s assassination. How 
+did the search lead them there? No idea, but at 
+least they learned a lot of rubbish along the way.
+For each level of Down the Rabbit Hole (maxi-
+mum 4), reduce the number of 1s necessary to roll 
+a glitch by one whenever the character attempts 
+to search the Matrix (so that on a roll of 8 dice with 
+two levels of the quality, the character can glitch 
+with only three 1s, instead of the normal five). 
+The gamemaster may also require the character 
+<< DISK JOCKEYS & LIGHTSTREAM RIDERS    77
+
+
+===== killcode.pdf p79 =====
+to make Matrix Search tests that would otherwise 
+succeed automatically to see whether or not a 
+glitch occurs.
+ECHO CHAMBER
+BONUS: 10 KARMA
+The character has a trusty source or two who 
+align with their social, political, psychological, 
+and criminal aims, which makes some informa-
+tion gathering a cinch. Finding info outside of your 
+echo chamber, however, is pretty hard work, espe-
+cially when wading through all the idiot drek that’s 
+out there.
+When Matrix Searching as an extended test, 
+the character benefits from a +2 dice pool bonus, 
+but the number of rolls needed to get a glitch is 
+decreased by 1.
+ 
+FROSTBITE 
+BONUS: 3 KARMA
+The character tussled with Black IC, and it got 
+the better of them. They lost something to it that 
+they can never get back. 
+Select one skill from the following group: Com-
+piling, Computer, Cybercombat, Decompiling. 
+Electronic Warfare, Hacking, Registering, Soft-
+ware. The selected skill must be one in which the 
+character has ranks. The character permanently 
+suffers a –2 dice pool penalty to that skill whenev-
+er IC (besides Patrol IC) is active in a host they are 
+occupying.
+ 
+INFORMATION 
+AUCTIONEER
+BONUS: 4 KARMA
+Now and then a hacker will grab some data 
+that’s outside the lines of the job. Everyone will 
+pay to keep their secrets, and this data will end up 
+with whoever is willing to pay the most for it. 
+The character earns a minimum 1,000¥ extra 
+per job during which they collected paydata. Their 
+Matrix persona is familiar to any former auction 
+attendee. When interacting with a character with 
+this quality, an NPC may make a memory test to 
+recognize the character’s persona; the NPC gains 
++1 to their dice pool for every 10,000¥ they spent 
+buying data. If the NPC recognizes the player char-
+acter, the gamemaster may decide if this NPC was 
+slighted or aided by one of the character’s auc-
+tions—that is, whether they are angry at or hap-
+>> KILL CODE <<
+78    DISK JOCKEYS & LIGHTSTREAM RIDERS >>

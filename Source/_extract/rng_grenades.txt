@@ -1,0 +1,1580 @@
+
+===== PAGE 100 =====
+CROSSFIRE
+Successes required: 6
+Description: This maneuver consists of placing two 
+elements of the team into separate positions from which 
+both can envelope a single target from two different di-
+rections. The team leader must first identify suitable lo-
+cations for his people to take up firing positions (solo 
+Small Group Tactics + Intuition Test, Simple Action). The 
+second step is maneuvering the team members into 
+those positions (normal Combat Maneuver Test). This 
+can be done either before combat as part of an ambush, 
+or during combat as a tactical maneuver. 
+Benefits: Attackers on the team receive a +3 attack 
+bonus.
+DIAMOND FORMATION
+Successes required: 4
+Description: The Diamond Formation is employed 
+by teams of four and used defensively when moving 
+through an open area of unknown potential danger. 
+It is also used when the team is searching for a tar -
+get/objective. The Diamond makes 360 degrees 
+of overlapping fields of view and fire possible—en-
+abling quick assessment of and response to incoming 
+threats. The classic Diamond formation has the leader 
+at the forward-most point of the diamond, a tail at the 
+point directly behind her, and two other team mem-
+bers at the diamond’s left and right points halfway be-
+tween them. Larger groups can use modifications of 
+the Diamond, such as placing additional team mem-
+bers along the sides or at the points of the Diamond. 
+It’s also common to use the Diamond formation as a 
+defensive perimeter around whatever’s being protect-
+ed—client, wounded, objective—at the center. A team 
+in Diamond formation doesn’t have to waste time 
+turning; the lead simply transfers to the point nearest 
+the new direction of travel. Obviously the Diamond 
+formation is not well adapted to narrow settings such 
+as hallways and impossible to use when terrain forces 
+the team to move single-file. 
+Benefits: +1 bonus against any surprise/ambush 
+checks, +2 on Initiative roll
+DOG PILE
+Successes required: varies
+Description: A favorite of gangs who want to put the 
+beat-down on larger metatypes or formidable individ-
+uals, the Dog Pile looks like a mad rush but is in fact a 
+tightly coordinated physical attack. The group swarms 
+their intended victim, focused on disabling his or her 
+extremities (thus, most common defensive moves sim-
+ply make their targets easier to hit). Once the target is 
+immobilized or brought down, the attackers strike vital 
+areas until the target is neutralized. This maneuver is 
+slightly different than others in its execution.
+Benefits: For every 3 successes (rounded down) the 
+leader makes in their Small Unit Tactics roll, team mem-
+bers receive number +1 to their attack bonus. 
+DYNAMIC ENTRY, STANDARD
+Successes required: 4
+Description: First developed by law-enforcement 
+tactical response teams for use against barricaded sub-
+jects and/or in hostage situations, the standard Dynamic 
+Entry tactic is to suddenly fill a confined area with over -
+whelming force and neutralize the threat. In a rare case 
+of military adapting law enforcement tactics, the Dy -
+namic Entry has become commonplace in small-scale, 
+urban military actions. With Dynamic entry the team first 
+“stacks up” outside the entrance(s) to the confined and/
+or barricaded position, out of sight of their target. On 
+signal they enter fast—it takes planning, choreography, 
+and above all practice, practice, practice to be able to get 
+a team through a narrow opening and overwhelm op-
+ponents in a confined area without everyone tripping all 
+over each other. Standard practice is for the team to go 
+through in pairs, breaking left and right as they cross the 
+threshold, until everyone is through. If a door must be 
+breached, the “door kicker” blasts it with shaped charges 
+or specialized ammo and the first pair go through before 
+the smoke clears. (It’s not uncommon to send in drones 
+or spirits as the first pair of team members.) As each 
+pair enters, the team spreads along the perimeter of the 
+room so each has a clear field of fire. The team leader is 
+responsible for assigning positions in the line and select-
+ing which direction they go in. The last team member 
+who opened the door secures the entrance.
+Benefits: If the attacking team breaches before they 
+are seen by defenders, they receive a +3 attack modifier. If 
+their approach and breach is known, the bonus is only +1. 
+DYNAMIC ENTRY,  
+“CHUCK AND CHARGE”
+Successes required: 4
+Description: This is the Dynamic Entry with 
+explosives. Before the first pair crosses the threshold, 
+the door kicker deploys an explosive device—i.e., 
+pitches a grenade—into the room (normal Throwing 
+Weapons Test applies). The team then waits for the 
+device to detonate before breaching. Depending on the 
+explosive device used, this can have dire consequences 
+if not performed properly. 
+Benefits: Same as the standard dynamic entry, but 
+with any added benefits of the explosive device. 
+FIRE SHIELD
+Successes required: see description
+Description: A variation of the old “Shoot and 
+Scoot” artillery tactic, Fire Shield involves using long-
+range artillery fire (grenades, rockets, mortars, offensive 
+>> TACTICS & TOOLS  <<
+100    APPLYING THE LESSONS >>
+===== PAGE 101 =====
+magic, etc.) and “walking” it toward a target or objective. 
+As an offensive maneuver, members of the team/unit 
+follow the fire shield in, mopping up any remaining en-
+emies. It can be used as a defensive maneuver when an 
+enemy force is close to a friendly position. Artillery fire 
+is deployed behind enemy positions and then walked 
+forward until the enemy force is neutralized or when 
+it comes too close to a friendly position. This is a risky 
+maneuver because to complete it, the team members 
+deploying the artillery fire must succeed on an attack 
+roll, with teamwork help from those walking it forward. 
+A glitch will always require a grenade scatter test to see 
+how close the weapon comes to team members, while 
+a critical glitch drops artillery fire right on the heads of 
+friendly forces. 
+Benefits: +4 for all friendly forces maneuvering un-
+der the shield, –2 for all enemy actions because of com-
+bined artillery and regular fire. 
+MARCHING FIRE
+Successes required: 6
+Description: This tactic is straightforward: The team 
+maneuvers as a unit towards a objective, laying down 
+suppressive fire as they advance. When the team is close 
+enough to the objective, the steady advance becomes a 
+charge. In most military situations, this is accompanied 
+by either artillery or heavy weapons support and is used 
+as a final push against an objective. The serious draw -
+back to this tactic from a small unit standpoint is it was 
+designed for use by military forces with lots of expend-
+able personnel available. The Marching Fire maneuver 
+requires you leave any cover behind, counting on the 
+volume of your suppressive fire to keep the enemy from 
+shooting you. Obviously fully automatic weapons are 
+best for this maneuver. At one time firing while advanc-
+ing greatly reduced accuracy, but with modern technol-
+ogy this is no longer a significant factor. The team leader 
+doesn’t coordinate in this maneuver much beyond des-
+ignating the target and giving the order. 
+Benefits: +4 for all attack rolls with semi-auto, burst-
+fire, or fully automatic firearms. 
+>> TACTICS & TOOLS  <<
+<< APPLYING THE LESSONS    101
+===== PAGE 102 =====
+SLICING THE PIE
+Successes required: varies
+Description: Technically not a combat maneuver be-
+cause it’s normally used before combat begins, Slicing 
+the Pie (also known as Cutting the Cake) is a maneuver 
+that’s been used by Law Enforcement/Security officers 
+for decades and has become popular with military units 
+engaged in urban warfare. Used during building search-
+es, this maneuver is designed to look around corners 
+into open hallways, through open doors into rooms, or 
+around tall obstacles. Using a corner/wall/edge as cover, 
+the searcher moves in a lateral or semi-circular pattern 
+(with weapon up and ready) behind cover. This is done 
+until they can visually identify the target/subject of their 
+search. If done correctly, the searcher will only minimal-
+ly expose themselves and then can take whatever action 
+they deem necessary. The searcher may carry over the 
+gained bonuses from this from Combat Turn to Combat 
+Turn as long as they don’t move and other combatants 
+stay in the same general area where they were first seen. 
+Benefits: Defensive bonus to the searcher only 
+based on number of successes when performing the 
+maneuver. Maneuver fails if no successes are rolled, giv-
+ing the searcher no bonuses or penalties. A glitch gives 
+the searcher a –2 defensive penalty, while a critical glitch 
+means they are seen by the enemy, who moves on them 
+to force them from their position.
+TRAVELING OVERWATCH
+Successes Required: 2
+Description: Similar to Bounding Overwatch, Trav -
+eling Overwatch is a preventative maneuver. It’s meant 
+to be used when speed is essential and best intel indi-
+cates contact with an enemy is unlikely. When the team 
+is in motion, one—or preferably two—members take a 
+trailing position and periodically stop to carefully survey 
+their surroundings. If the main body of the unit is at-
+tacked, the overwatch pair can respond with either long 
+range-support or engage in a flanking maneuver. In us-
+ing this tactic, a drone or spirit will either complement or 
+replace a team member in the rear overwatch position. 
+The drawback to this tactic is that the rear overwatch has 
+a chance of being separated from the main group or be-
+ing eliminated without the main group realizing. This is 
+why drone and spirit use has become popular in this po-
+sition. For this maneuver, the team leader is always the 
+team member in the overwatch position. 
+Benefits: + 1 on all Perception Tests and + 2 to the 
+overwatcher’s Initiative roll if combat is initiated.
+THE TOOLS 
+OF THE TRADE
+Tactics and teamwork are important for a shadowrun-
+ning team, but having the right tools is also rather im-
+portant. As the saying goes: you’ve got nothing to fear 
+if you got the gear. Below are few low-tech items that 
+have been serving ‘runners well for years and a few of 
+the latest gadgets for the tech-freaks.
+PAINT GRENADE
+A low-tech way of defeating pesky invisibility spells, 
+marking something in a hurry, or just slotting someone 
+off. Available in a variety of colors, the paint grenade 
+has the same blast radius as the standard high-explo-
+sive grenade but none of the nasty death-aftereffects. 
+Subjects within the blast radius are covered with a 
+splatter of paint. Radioactive tracking dye can also be 
+added for an additional 50 nuyen. 
+DAM AP BLAST AVAIL COST
+— — 10m radius 8R 100¥
+TELESCOPING MIRROR ON A STICK
+Approximately the size of a human hand, the MOAS 
+is perfect for covert around-the-corner surveillance 
+when wireless or technological devices aren’t feasible. 
+It comes with a fifteen-centimeter telescoping probe 
+with magnetic clamp for extra length. 
+AVAIL COST
+10 35¥
+GRENADE-CAM
+A dodecahedron-shaped multi-purpose sensor plat-
+form twice the size of a baseball, the G-Cam is usually 
+thrown into an unknown area. Its reinforced casing is 
+strong enough to survive a twenty-meter fall, and its 
+shape ensures that it will eventually stop rolling. Mul-
+tiple sensor apertures enable the G-Cam to obtain 
+three-dimensional images of an area. Image link comes 
+standard, and extra sensor options can be added. 
+CAPACITY AVAIL COST
+1-5 16R Capacity x 1,500¥
+>> TACTICS & TOOLS  <<
+102    THE TOOLS OF THE TRADE >>
+GOING DARK
+Not everyone in the shadows is keen on the wireless Matrix, 
+especially after the new Matrix protocols were enacted. For 
+some the potential drawbacks to being wireless—such as 
+having your augmentations unexpectedly shut down—far 
+outweigh any benefits. These niche operators prefer to use 
+throwback technology and routinely disable wireless devices 
+when they can. Even though the team’s riggers and deckers 
+rely on current technology, a team may opt to “go dark” 
+temporarily to avoid detection. This can be a viable tactic for 
+secretly getting an asset in position to do real damage. When 
+facing an opponent with superior Matrix assets, isolating all 
+combatants can level the playing field. Operating in the dark is 
+difficult but not impossible in 2075, and those who do develop 
+skills that make up for their lack of reliance on tech. 
+===== PAGE 103 =====
+PERISCOPE CAM
+An inexpensive, hand-held sensor package used to 
+look around corners or over top of obstacles. Image 
+link is standard and it comes with limited upgrading 
+capabilities. It can be accessed wirelessly or viewed di-
+rectly through a small viewfinder at the base. 
+CAPACITY AVAIL COST
+1-3 10R Capacity x 600¥
+BATTERING RAMS
+Sometimes, when a maglock pass key or a lock pick 
+just can’t get the job done, a more robust method be-
+comes necessary. Popular with entry teams, battering 
+rams range from hunks of metal to high-tech wireless 
+devices. Battering rams are not recommended for use 
+as a melee weapon but can be used as such (use Ex-
+otic Melee Weapon (Battering Rams) skill, assuming 
+you had the foresight to select it). Battering rams use 
+Strength + Agility for the attack test (see Destroying 
+Barriers, p.197, SR5).
+Standard Ram: A metal tube weighing approximately 
+20 kilograms with a blunted end and handles along the 
+sides, this is a no-frills entry tool that relies on the user’s 
+Strength for breaching. The standard ram is normally 
+used by one individual, but heavier versions are available 
+and can be used by two average humans.
+ACC REACH DAM AP AVAIL COST
+4 — (STR+2)P –1 10R 2,000¥
+Fluid-Motion Ram: The same as the standard 
+battering ram, but it includes an internal ten-liter liquid 
+reservoir. When used, the ram is swung backwards and 
+then forward to strike the target. On impact the internal 
+fluid in the ram creates extra momentum that increases 
+the impact damage. Very useful against more durable 
+doors, but using it requires two average-size humans or 
+one average-size troll.
+ACC REACH DAM AP AVAIL COST
+5 1 (STR*+3)P –1 10R 3,500¥
+*Strength Rating to be used is  
+(combined Strength of all users) / (number of users)
+>> TACTICS & TOOLS  <<
+<< THE TOOLS OF THE TRADE    103
+===== PAGE 104 =====
+Pneumatic Ram: Also known as the P-Ram, a 
+pneumatic ram’s breaching power comes from a large, 
+battery-powered pneumatic piston. A P-Ram is too 
+large and heave to be swung. The quad-legged device 
+is securely positioned at the door or barrier before 
+operation and triggered by a touch pad or wirelessly. Its 
+power comes at the expense of mobility; it requires a 
+four-person team of average humans to deploy. 
+ACC REACH DAM AP AVAIL COST
+6 — 16P –4 18R 10,000¥
+Shock Ram: Users call it the Shock Knocker. It’s 
+a shock ram is designed to disable electronic locks 
+or defenses when it breaches a door or barrier. Four 
+large conductive spikes protrude from the ram’s head 
+that penetrates the barrier to deliver the charge. A 
+metahuman in contact with the barrier or the spikes must 
+resist shock damage per normal rules. Shock rams can 
+be wirelessly discharged. Though an effective breaching 
+tool, a shock ram requires frequent maintenance and 
+constant monitoring, as repeated use can damage the 
+mechanism and insulating protective casing. A glitch on 
+a use test results in the batteries failing; a critical glitch 
+results in a shock to the operator. 
+ACC REACH DAM AP AVAIL COST
+4 1 (STR+2)P 
++ 12(e) –3 10R 15,000¥
+BLAST SHIELD
+The blast shield is a two meter by one meter vari-
+able-geometry shaped charge consisting of thermite 
+strips and several high-explosive devices. Handle 
+straps in the center allow it to be carried and used like 
+a shield until it’s deployed. Adhesives or magnets can 
+secure the blast shield to any surface. The charge can 
+be detonated with a timer or remotely. To use as a me-
+lee weapon, wielders must have Exotic Weapon (Blast 
+Shield) skill; the accuracy rating of the item is 4. 
+DAM AP BLAST AP AVAIL COST
+20P — Target –4 8R 20,000¥
+ARES PED (PERSONAL  
+EXTRICATION DEVICE) MARK III
+Originally called the “body bag,” the PED is a means 
+to transport unconscious or immobile individuals that’s 
+marketed to the general public as a lifesaving device. 
+Essentially a flexible bag of woven Kevlar, the PED of-
+fers protection roughly equivalent to medium armors, 
+and it is available in sizes to fit all metatypes. The PED 
+can form an airtight seal and sufficient insulation to 
+protect in hot, cold, or toxic environments; a tank with 
+sufficient oxygen to survive an hour is optional. Emer -
+gency GPS beacons are standard. 
+ARMOR RATING AVAIL COST
+12 10R 2,500¥
+ULTRA-GLIDE INDUSTRIAL LUBRICANT
+ImpZetaChem initially intended to develop an innovative 
+industrial-grade degreaser. On paper and in computer 
+modeling, that’s exactly what they did. But when they 
+tested their creation, they discovered the viscous liquid 
+not only didn’t remove grease, it was itself almost im-
+possible to remove without specialized solvents. More 
+importantly, any surface coated with their experimental 
+cleaner became for all practical intents and purposes 
+friction-free. ImpZetaChem wasted no time in rebrand-
+ing their failed cleaner as an industrial lubricant. Though 
+chemically improbable, Ultra-Glide works—the coating 
+produces a zero-friction surface that all but eliminates 
+wear and heat in machinery. Sold to consumers in jugs 
+and spray cans, Ultra-Glide is popular with security pro-
+viders who use it to coat approaches to potential breach 
+points. It can also be used in squirt weapons or in stan-
+dard paint grenades (applicable skill tests apply). To move 
+across a surface (per meter) coated with Ultra-Glide re-
+quires an Gymnastics + Agility (3) [Physical] Test, or an 
+Agility (4) Test to hold on to an Ultra-Glide coated item. 
+AVAIL COST
+12 30¥ (per liter)
+HOLD-FAST ADHESIVE SPRAY
+Hold-Fast was developed at MIT&T as an effort to 
+meet—and cash in on—Dunkelzhan’s call for a non-le-
+thal alternative to conventional firearms. Its intend-
+ed purpose is to quickly immobilize subjects without 
+harming them. Though initially rejected by the Draco 
+Foundation for “not meeting the necessary criteria,” 
+Hold-Fast was adopted by Lone Star after their own in-
+dependent trials, conducted on the streets of several 
+CAS cities, proved it to be effective in apprehension 
+and crowd control. Hold-Fast is a liquid that is deliv -
+ered through a sprayer not unlike a fire extinguisher. 
+Once exposed to oxygen, the liquid hardens to form a 
+clear plastic-like shell in about thirty seconds. Standard 
+Hold-Fast become brittle after two hours, while the 
+long-lasting formula is stable until removed with a sol-
+vent. Use Taser ranges for Hold-Fast sprayer. Breaking 
+free of Hold-Fast requires a Strength (4) Test. 
+ACC DAM AP AMMO AVAIL COST
+–2 Special — 10 12 50¥
+PERSONAL INTEGRATED 
+TACTICAL NETWORK
+The PI-Tac (a.k.a. P-Tac, or—to old timers—Tac-Net) is the 
+latest generation of personal tactical network. Used by 
+both security and military forces, PI-Tac units are now 
+available to civilians—once said civilian has passed a 
+background check and been issued a permit. The Tac-Net 
+concept is not new; team networking devices of one sort 
+>> TACTICS & TOOLS  <<
+104    THE TOOLS OF THE TRADE >>
+===== PAGE 187 =====
+an explosion, do not switch the damage from Physical 
+to Stun, even if it does not exceed the modified Armor 
+Rating. All damage caused by an explosive device is 
+Physical in nature.
+CAR BOMBS AS TOOLS 
+FOR ASSASSINS
+If you have ever seen an action adventure or organized 
+crime movie, you know car bombs are a favorite way 
+of doing away with snitches, witnesses, and other tar -
+gets. In the Sixth World, using car bombs to kill targets 
+remains a popular way of getting a wetwork job done.
+In Shadowrun, there are a couple of different ways 
+to plant car bombs to kill the passengers inside. There 
+are the “dumb bombs” and the “smart bombs.” Dumb 
+bombs are designed to respond to a specific trigger, not 
+necessarily a specific target. A common dumb bomb 
+wires an explosive device into the vehicle’s ignition via 
+an electrical detonator. This type of car bomb remains 
+inert until the person starts the car and allows the electric 
+current from the car’s ignition system to detonate the 
+explosives, killing the unfortunate metahuman(s) caught 
+in the blast. Another type of dumb bomb is connected 
+to a pressure-sensitive detonator and placed under the 
+seat the target is expected to use; the bomb triggers 
+when a certain amount of weight sits on the seat. This 
+type of bomb can be placed under the driver’s seat, the 
+front passenger seat, or the rear bench seat. The problem 
+with dumb explosives is there’s a very good chance 
+they won’t hit the target. Many vehicles in 2075 have 
+a rigger interface, so a rigger can start the car remotely, 
+triggering the dumb ignition bomb and destroying an 
+empty car. If a car lacks a rigger interface, a bodyguard 
+or valet can collect the car—again, the bomb hits the 
+wrong target. Also, all but the cheapest models of cars 
+allow the driver to start from several meters away by 
+using a commlink. The problem gets compounded if the 
+target uses multiple cars or has family members who 
+might swap cars with the target at an inopportune time, 
+which means so ignition trigger can easily catch the 
+wrong person—or no person.
+Other runners might choose to use a radio detonator; 
+once the team has visual confirmation the target is 
+in the appropriate seat, the bomb can be remotely 
+detonated, assuring the success of the job. However, 
+this costs runners time. Also, using a radio detonator 
+requires runners to worry about noise interfering 
+with the detonator signal. This is why experienced 
+shadowrunners invest in smart car bombs that do the 
+work for them.
+A smart car bomb always uses an optical detonator 
+and is always considered to be a complex explosive 
+device. An optical detonator can be connected to 
+sensors either wirelessly or via fiber-optic cable. Once 
+the sensors confirm the target is in the vehicle, the bomb 
+will detonate. An optical detonator has a processor 
+as sophisticated as a standard commlink. Some 
+runners will hide a micro-camera inside the passenger 
+compartment (in the dashboard, in the dome light, etc.), 
+which is wirelessly connected to the optical detonator. 
+The detonator has been preloaded with a facial 
+recognition program and images of the target. Once the 
+program confirms the target, it triggers the explosion. 
+Since some high-level targets use body doubles, and 
+with the quality of cosmetic modifications available in 
+2075, a number of runners are uncomfortable relying 
+on facial recognition to get a confirmed kill. A variant 
+of this smart bomb uses biometric scanners to confirm 
+the presence of the target’s DNA or other biometric 
+information before detonating. These scanners 
+normally collect airborne particulates to confirm the 
+target’s identity, or they can be configured to scan for 
+fingerprints on the vehicle’s most commonly touched 
+surfaces such as the seat belt, steering wheel, and glove 
+compartment. Spray-on nanoprint scanners for these 
+surfaces are becoming common for this type of work, 
+with the nanoprint scanners feeding data to the optical 
+detonator. Of course, this method requires a sample of 
+the target’s DNA for biometric comparison by the smart 
+bomb. Smart bombs can also be programmed to send 
+a text message to the runner team prior to detonation, 
+which informs the team that the target has been 
+acquired and the detonation sequence has started. If 
+set up with a camera, the smart bomb can send footage 
+of the target prior to the explosion, which can be used 
+as proof of death for the Johnson (though remember 
+that the more wireless devices used in an explosive, 
+the more opportunities there are to be discovered). 
+This allows a runner team to be nowhere near the bomb 
+when it goes off, ensuring a clean getaway.
+To set up a vehicle bomb meant to kill only the 
+passengers, the explosive needs to be placed inside 
+the passenger compartment, such as under a seat. 
+Otherwise, the explosive device will have to be powerful 
+enough to breach the Structure and Armor ratings of the 
+vehicle. The explosive device has to be shaped to create 
+a directional blast that forces the brunt of the explosion 
+toward the victim. When the device detonates, the 
+explosion is considered a penetrating weapon for any 
+barriers between it and the target, such as the seat, and 
+the barrier itself absorbs one box of damage. The rest 
+of the damage transfers to the target and anyone sitting 
+within a 60-degree arc of the blast. Those outside the 
+60-degree arc treat the explosion as a circular blast, with 
+the blast’s damage dropping by 2 per meter. In this case, 
+deal the damage to the individuals inside the vehicle 
+first. All damage from the explosive device is considered 
+Physical, no matter what the passengers’ Armor Ratings 
+are. Once the passengers have taken damage, the 
+vehicle resists the remaining damage: subtract from the 
+Damage Value each hit the characters inside the vehicle 
+rolled for resisting damage. Because the primary targets 
+were the passengers and not the vehicle itself, only 
+>> BLOW UP GOOD <<
+<< RULES FOR EXPLOSIVES AND VEHICLES    187
+===== PAGE 188 =====
+apply –2 AP to the vehicle’s Armor Rating. If the vehicle 
+took at least one box of damage but is not entirely 
+destroyed by the explosion, it is considered to be on 
+fire. For every Combat Turn the vehicle is on fire, it takes 
+1 automatic box of damage. If this fills up the damage 
+track for a vehicle with a fuel-based engine, the vehicle 
+explodes. Anyone still in the vehicle who survived the 
+original blast would have to resist another 20P blast from 
+the car’s exploding fuel tank.
+When planting an explosive inside a vehicle’s 
+passenger compartment, some players may choose 
+to remove the door paneling and stick a tamped 
+explosive inside. When the explosive device goes 
+off, multiply the Damage Value of the explosion by 4 
+instead of just doubling it. This extreme version of a 
+car bomb is usually reserved for hard-to-kill targets, 
+such as heavily armored and extensively augmented 
+trolls. 
+EXAMPLE
+DUMB BOMB
+Cold Heart was hired by a Manhattan Mafia Johnson to elim-
+inate a witness in an upcoming trial. The UCAS Federal WitSec 
+program relocated the snitch to Seattle until the trial date. Cold 
+Heart does his research on the witness and learns he lives alone 
+and works for Federated Boeing as an engineer. He also learns 
+that he drives himself to work each day. The witness has no spe-
+cial protection, only a new identity meant to keep him safe. Unfor-
+tunately for the witness, a UCAS Marshal was happy to give up his 
+identity and location for some cold, hard nuyen. Cold Heart found 
+the target doesn’t carpool with anyone else and is a bit of a loner. 
+Studying the car model the witness drives, Cold Heart learns that 
+it’s limited to manual ignition and lacks a rigger interface. For Cold 
+Heart, this is a perfect situation for a dumb car bomb.
+One night, while the witness is asleep at home, Cold Heart 
+breaks into his garage and tampers with his Ford Americar. Rolling 
+an Automotive Mechanic + Logic [Mental] (3) Test, Cold Heart gets 
+4 hits. He uses an electrical detonator and connects the ignition to 
+1 kilo of Rating 14 plastic explosive. He places the explosive device 
+underneath the steering column. Cold Heart also makes a Demoli-
+tions + Logic [Mental] Test to shape the charge and gets 2 hits. The 
+device now effectively produces 16P damage. 
+The next morning, the witness turns on his car for work 
+and it explodes inside his garage. The way it was planted, the 
+shaped explosive device is considered directional. Since the 
+distance between the explosive blast and the witness is less 
+than 1 meter, he gets the full blast (16P). The witness rolls 4 hits 
+on his Damage Resistance Test, but takes 12 boxes of Physi-
+cal damage. The target is still alive but is 2 boxes into physical 
+overflow (Body of 4). 
+The Ford Americar now has to resist 12P damage from the 
+explosion (16P – 4). The gamemaster rolls the vehicle’s Body and 
+Armor Rating, –2 AP (15 dice), and gets 5 hits. The vehicle takes 
+7P from the explosion and has caught on fire. Unless the witness 
+regains consciousness and gets out of the vehicle within 4 Com-
+bat Turns, the vehicle will explode and he will take another 20P 
+damage. Needlessly to say, the target dies just prior to the car 
+exploding.
+SMART BOMB
+Warhawk has taken a job to eliminate one of Mr. Johnson’s 
+megacorporate rivals. He intends to plant a smart bomb inside 
+the target’s armored limousine and has acquired 1 kilo of Rating 
+20 plastic explosive. Warhawk connects the detonator to a mi-
+cro-camera that will be planted inside the dome light of the lim-
+ousine. He loads images of the target into the optical detonator’s 
+facial recognition program. Warhawk researches the make and 
+model of the limo in question and gets the precise dimensions for 
+the rear bench seat, which will allow him to construct the bomb 
+to fit underneath. Because the bomb uses an optical detonator, 
+the device is considered a complex device. For the Extended 
+Test, Warhawk will need to get 18 hits with an interval of 1 day. 
+Warhawk has a dice pool of 13, and a Mental Limit of 6; he takes 
+6 days to assemble the device.
+Warhawk then waits for an opportunity to plant the bomb. He 
+learns from his legwork that the target’s security will be taking 
+the limo into an auto-detailing shop for some work. He bribes the 
+owner of the shop to allow him access to the limousine, and he 
+plants the bomb underneath the rear passenger bench seat.
+The limousine is picked up from the shop a day later, and the 
+human target, a troll bodyguard, and a human driver take it for a 
+drive downtown later that day. Once the smart bomb confirms 
+the identity of the target via facial recognition, it detonates. The 
+target is sitting right on top the explosive device. The seat ab-
+sorbs 1 box of the initial blast, so the target resists 19P , with an 
+AP of –2. The human target only gets three hits on his Damage 
+Resistance Test, so the target is killed instantly in the explosion.
+The troll bodyguard is also caught within the directional ex-
+plosive’s 60-degree arc and is sitting less than 1 meter away from 
+the blast; he also has to contend with 19P damage. The body-
+guard is wearing full body armor (Rating 15) and has titanium 
+bone lacing. After resisting damage, the bodyguard suffers 10 
+boxes of damage and survives.
+The driver of the limousine sat approximately 1.75 meters 
+from the victim, which is rounded up to 2 meters for determin-
+ing damage. At this distance, the explosive blast is considered 
+circular, not directional. By the time the blast gets to the driver, 
+he must resist 15P damage. The driver only gets one hit on his 
+Damage Resistance Test, so he dies also.
+The gamemaster subtracts the hits the characters rolled re-
+sisting damage from the 19P blast, which is 14 hits. The limousine 
+easily absorbs the 5P . The limo may be fragged up on the inside, 
+but it is not in danger of exploding. 
+>> BLOW UP GOOD <<
+188    RULES FOR EXPLOSIVES AND VEHICLES >>
+===== PAGE 189 =====
+DISABLING VEHICLES
+Players may choose instead to disable a vehicle using an 
+explosive charge. Explosive charges planted on a target 
+vehicle’s axles can disable the vehicle, which is useful for 
+allowing a runner team to extract a target during a com-
+mute. Planting a charge near the vehicle’s transaxle (the 
+front axle and transmission assembly) is another effective 
+way to immediately disable a vehicle. Instead of using the 
+vehicle’s full Body + Armor Ratings to resist the damage 
+from the explosion, only use the material Rating of the 
+axle or transmission housing instead. Most standard vehi-
+cle components are considered heavy material (Structure 
+6, Armor 8), unless the target vehicle is a heavily armored 
+security vehicle, in which case the components are con-
+sidered to be made of reinforced material (Structure 8, 
+Armor 12). Follow the rules for Breaching Charges, p. 191. 
+If targeting an axle with an explosive device, use the di-
+ameter of the axle as the thickness threshold required to 
+cut through. If the component takes as much damage as 
+its Structure Rating, it is considered either cut in half or 
+destroyed. Should the explosion generate more energy 
+than necessary to disable the vehicle, the vehicle could 
+end up flipping onto its side or even rolling onto its roof. 
+If the explosion produces 5P damage more than what is 
+necessary to destroy the component, the car’s wheels lift 
+off the ground and the vehicle flips onto its side. If the ex-
+plosion causes 10P damage more than what was neces-
+sary to destroy the component, the car rolls onto its roof. 
+With each box above 10P, the car will roll an additional 
+time, potentially killing everyone in the vehicle.
+When planting the explosive charge, the character 
+must make a Demolitions + Logic [Mental] (3) Test. A 
+glitch on this test results in the explosion hitting the 
+vehicle’s gas tank (provided the vehicle has one), which 
+increases the DV of the explosion by 20P. 
+ERASING EXPLOSIVE 
+FINGERPRINTS
+Most demolitions specialists who wish to keep a low 
+profile from law enforcement choose to mimic the 
+signatures of other bomb makers and have their work 
+blamed on someone else. To accomplish this, the char -
+acter needs a copy of a classified forensics reports 
+detailing the traits of another bomb maker’s signa-
+ture. Once she acquires such a report, she will need to 
+make a Forgery + Logic [Mental] Test while crafting her 
+charges. Double the threshold for her Extended Tests 
+for making the devices, as she is intentionally taking 
+extra time to make her work look like someone else’s.
+USING EXPLOSIVES  
+WITH DRONES
+Demolitions-focused characters may also use drones in 
+their work. Drones can be used to locate non-traditional 
+entry points through which they can smuggle explosive 
+charges into a building, such as open windows, a loading 
+bay, or a roof door left ajar. Unfortunately, most drones 
+lack the dexterity to physically plant charges them-
+selves. Should a player use a drone to plant charges, the 
+drone receives a –3 dice pool penalty for the attempt. 
+The exceptions to this rule are drones with articulated 
+arms that have a full range of motion and match the dex-
+terity of a metahuman’s hands and arms.
+>> BLOW UP GOOD <<
+EXAMPLE
+Pyro and his team have been hired to extract a 
+Shiawase scientist in Neo-Tokyo. After digging up info 
+about their target, they realize it would be difficult to 
+extract him unless he is in transit, as the target lives 
+and works in a Shiawase arcology. The runner team 
+believes the arcology’s security would be insurmount-
+able should things go wrong while inside the struc-
+ture. Instead they have their hacker grab the target’s 
+schedule to see if the scientist will ever be outside the 
+arcology, where they can more easily grab him. They 
+are in luck: He will be going on a seven-day cruise and 
+will be en route to the cruise ship via car, with only one 
+security detail. Pyro’s team decides to plant an explo-
+sive on the axle of the vehicle used to transport the 
+scientist. They will set off the explosive charge at a 
+given time and location, allowing them to pick an ideal 
+spot along the route for an ambush. 
+Pyro studies the target vehicle and realizes it’s a 
+security vehicle with components made of reinforced 
+material. Pyro is going to plant a device that will cut 
+through the axle. For this model, the axle has a di-
+ameter of 10 centimeters. Given that the material is 
+reinforced, Pyro calculates that the axle’s Structure 
+Rating is 1 (8 x 0.1, round up) and the Armor Rating is 1 
+(12 x 0.1, AP reduces it by half, round up). Pyro wants 
+to make sure he will take care of that axle, so he de-
+cides on an explosion that can generate a minimum 3P 
+worth of damage.  
+Pyro decides to use a single device consisting of 
+1 kilo of Rating 2 commercial explosive (which was 
+reduced from 5 to 2 using a Demolitions Test). After 
+his team learns which car will be used to transport 
+the scientist for this vacation, the team sneaks into 
+the motor pool. Pyro shapes the charge around the 
+rear axle and puts the charge on a remote detonator. 
+Pyro makes his Demolitions + Logic [Mental] Test and 
+scores three hits. The charge is placed in a way that 
+will not hit the gas tank. 
+When the time comes for the scientist to go on 
+his vacation, Pyro’s team follows the vehicle. Just 
+as they reach the ambush point, Pyro detonates the 
+charge. Because it is planted on the axle itself, the 
+charge does 4P worth of damage (DV x 2) to the axle. 
+The gamemaster rolls the Structure plus Armor of the 
+axle to resist it (1 + 1) and gets no hits. No damage 
+is absorbed, so the axle is broken and the vehicle is 
+successfully disabled.
+<< RULES FOR EXPLOSIVES AND VEHICLES    189
+===== PAGE 190 =====
+Some demolitions experts plant an explosive 
+device inside the drone itself and then set off the 
+charge once the drone reaches its target. Microdrones 
+and minidrones cannot be equipped with explosive 
+devices due to their bodies being too small. Small- 
+and medium-sized drones may be planted with an 
+explosive device of the same weight in kilos as the 
+drone’s Body rating divided by 2. For example, an 
+Aztechnology crawler—a small drone—may be planted 
+with up to 2 kilos of explosives (Body 3 divided by 2 = 
+1.5, rounded up to 2). A large drone may be implanted 
+with an explosive device up to the same weight in kilos 
+as the drone’s Body rating. For example, a Steel Lynx 
+(Body 6) may have up to 6 kilos explosives strapped 
+within its chassis. A rigger or someone with the proper 
+Mechanic skill would need to plant the explosives, as 
+sometimes the internal workings of the drone must 
+be modified to make them fit inside. For blowing up a 
+drone, apply the same rules for blowing up a car (as 
+outlined in this section).
+>> BLOW UP GOOD <<
+190    RULES FOR EXPLOSIVES AND VEHICLES >>
+DEMOLITIONS SUPPLIES AND EQUIPMENT
+ACCESSORIES RATING AVAILABILITY COST
+Atomizer 1-10 (Rating x 2) R Rating x 300¥
+Electrical 1-6 8R Rating x 150¥
+Optical 1-6 14R Rating x 250¥
+Hard-shell briefcase 
+(hermetically sealed) 1-12 10R Rating x 100¥
+Safety Fuse — 6R 5¥ per meter
+Redundant Power Supply — 6R 50-500¥
+Nanoprint Scanners 1-6 16F Rating x 500¥
+DETONATORS RATING AVAILABILITY COST
+Blasting cap — 8R 20¥
+Electrical — (Rating x 4)R Rating x 30¥
+Optical 1-6 (Rating x 7)F Rating x 200¥
+Pull — 9F 80¥
+Push — 9F 80¥
+Radio 1-3 10R 75¥
+Timer 1-3 (Rating x 6)F Rating x 50¥
+EXPLOSIVES (PER KILO) RATING AVAILABILITY COST
+Ammonium nitrate 4 5 80¥
+ANFO 6 7 100¥
+Commercial 5 8R 100¥
+Dynamite 3 8R 350¥
+Foam 6-25 12F Rating x 100¥
+Nitroglycerin 6 11F 350¥
+TNT 5 12R 200¥
+Plastic 6-25 16F Rating x 100¥
+Detonating cord (per meter)
+Low Yield 3 10R 100¥
+High Yield 6 14R 150¥
+Binary 1-20 18F Rating x 125¥
+Linear charge 1-25 16R Rating x 250¥
+Liquid 1-25 16F Rating x 150¥
+===== PAGE 191 =====
+RULES FOR 
+BREACHING/
+CUTTING
+Destroying vehicles and buildings is not the only func-
+tion of explosives. Explosives can also be used to 
+breach barriers or cut various materials. The following 
+are rules for these smaller jobs. 
+BREACHING CHARGES
+The rules so far have presented a way of punching 
+consistent, 1-meter holes in barriers and have shown 
+how it is possible to create larger-diameter holes in 
+barriers. Complications arise when the barrier possess-
+es a depth greater than 1 meter but does not require 
+enough explosives to produce a 2-meter hole, and a 
+character needs to calculate the proper explosive pow -
+er between those values to breach the material. Some-
+times a character wants to damage the barrier in such 
+a way that it is not completely breached, such as taking 
+out a locking mechanism while leaving the other side 
+of the barrier intact. After all, valuable art or delicate 
+medical vials stored in a vault would not survive re-
+ceiving even a small amount of force from a breaching 
+charge. Electronics or optical chips could also be dam-
+aged or destroyed by a blast. Just as there are rules to 
+deal with breaching a barrier that is 1.75 meters thick, 
+the breaching rules are also meant to help players and 
+gamemasters calculate how to penetrate barriers thin-
+ner than 1 meter. For example, a car door may only be 
+20 centimeters in thickness, or 20 percent of 1 meter.
+The first step is to determine the thickness of 
+the material being breached and decide whether 
+the breaching charge needs to completely breach 
+the material or just partially damage the structure. 
+Ultrasound sensors can help provide an exact 
+measurement of the thickness of a specific material. If 
+a precise measurement is not available, a runner can 
+use a suitable Knowledge skill, such as Metallurgy, 
+to provide an estimate of the material’s thickness. 
+Getting a thickness measurement with ultrasound 
+sensors requires a Complex Action. Once a character 
+has determined whether the breaching charge should 
+breach the material entirely or only partially breach 
+it, the player needs to reduce the material’s Structure 
+and Armor Ratings by the appropriate percentage of 
+how much thicker or thinner the material is related to 
+the 1-meter benchmark. Using the example of the 
+20-centimeter-thick car door, a charge would require 
+only 20 percent of the DV normally needed to penetrate 
+the Structure and Armor rating of 1 meter of the same 
+material. Assuming the car door is made of reinforced 
+material (Structure 8, Armor 12), reducing the Structure 
+rating to 20 percent of its normal value produces a value 
+of 1.6 (8 x 0.2), rounded up to 2. The Armor Rating goes 
+from 12 to 2.4, rounded up to 3 (12 x 0.2). If applying 
+a –half AP to the Armor, the Armor Rating becomes 1.5, 
+but with rounding up, it stays at 2. A player wanting to 
+completely breach the 20-centimeter-thick car door 
+should have an explosive charge capable of inflicting 3 
+boxes of damage (to be able to overcome the damage 
+the door is likely to resist). If he only wishes to produce a 
+partial breach (e.g., to destroy the door lock), he may be 
+able to get away with a lesser charge. 
+Note that most explosives produce a Damage Value 
+of 5P or more. When creating breaching charges, a 
+character may use a Demolitions + Logic [Mental] Test 
+to reduce the effective rating of the explosive, allowing 
+characters to create a more precise charge, usually 
+through removing excess explosive compound. Since a 
+breaching charge is always placed on the surface area 
+of the barrier being breached, the charge’s DV is always 
+doubled. In addition, the Structure rating receives a –
+half AP to resist the damage. Use this same method for 
+determining how to breach materials that require an odd 
+amount of force to either breach entirely or to create a 
+partial breach.
+>> BLOW UP GOOD <<
+<< RULES FOR BREACHING/CUTTING    191
+EXAMPLE
+Night Demon has been hired to break into a Horizon ex-
+ecutive’s hotel room while the exec is at the country club and 
+then break into the wall safe to grab optical data chips and 
+work-related commlinks believed to be stored inside. Night 
+Demon does his research on the particular model of wall safe 
+and calculates that its door is 25 centimeters thick. He’s not a 
+safecracker, but he knows how to use breaching charges, and 
+his magician chummer can cast a Silence spell to make sure 
+the explosion is kept quiet.
+Night Demon knows that the safe door is reinforced mate-
+rial (Structure 8, Armor 12). Because the items in the safe are 
+considered delicate, he cannot afford to allow the explosion 
+to penetrate the safe’s interior. In his calculations, Night De-
+mon reduces the value of the Structure and Armor Rating of 
+the vault door to one-fourth of their original Ratings (x 0.25). 
+This gives a Structure Rating of 2 and an Armor Rating of 3 (x 
+0.25). Figuring that the Structure and Armor rating of the wall 
+safe can resist at least 1 box of damage, Night Demon knows 
+he needs an explosive device capable of producing only 2 box-
+es of damage: 1 box will likely be absorbed by the Armor, and 
+the other box will punch a hole in the Structure and destroy 
+the locking mechanism. He takes 1 kilo of Rating 5 commercial 
+explosive and makes his Demolitions + Logic [Mental] Test. 
+Night Demon gets 4 hits and reduces the effective Rating for 
+the explosives to 1. When he plants the explosive directly on 
+the wall safe door, this will double the Damage Value of the 
+charge while reducing the Armor of the vault door in the pro-
+cess by half (to 1.5, rounded up to 2). The gamemaster rolls for 
+the door’s defense, and the final result is the desired partial 
+breach in the wall safe door, destroying the locking mecha-
+nism but preserving the contents of the safe. Night Demon is 
+then able to swing open the door and collect Mr. Johnson’s 
+merchandise.
+===== PAGE 192 =====
+CUTTING CHARGES
+Cutting charges are used to cut into a particular mate-
+rial or structure, such as beams, girders, or trees. They 
+can be used to produce specifically shaped holes in 
+material such as spherical or cubical shapes, depend-
+ing on how the charges are arranged. Generally, a linear 
+cutting charge, detonating cord, or explosive foam (p. 
+436, SR5) is used for cutting charges.
+When setting cutting charges, the character must 
+know the type and thickness of the material. Ultrasound 
+sensors can give precise measurements for preparing 
+cutting charges. Once that information is known, the 
+character can begin to calculate the amount of explosive 
+needed and plant the necessary charges to cut through 
+the material. Follow the rules for creating a charge as 
+outlined on p. 436, SR5, and as outlined in this chapter. 
+When building a cutting charge, count the charge as one 
+device instead of multiple charges. Follow the rules for 
+Extended Tests for one device, p. 182.
+Planting cutting charges is a precise art, as opposed 
+to randomly sticking a block of commercial explosive on 
+a structural support point and detonating it. To plant a 
+cutting charge, the character must make a Demolitions + 
+Logic [Mental] (5 minutes) Extended Test, with a threshold 
+equal to twice the number of kilograms of explosive 
+used. If using detonating cord, the threshold becomes 
+twice the number of meters of detonating cord used. The 
+runner may choose to prepare this cutting charge ahead 
+of time by using a frame charge, which is a wooden 
+structure on which the charge can be set. Attaching a 
+frame charge to the surface of the material that will be cut 
+requires a Complex Action. A lot of runners avoid using 
+frame charges. Since they are generally large—the size of 
+the intended hole—and conspicuous as to their purpose, 
+they are hard to sneak into areas without being caught. 
+If the target being cut is cylindrical, use the diameter as 
+the thickness necessary to cut through. The character will 
+still need to make the Extended Test, but this test could 
+be made in the comfort of a chemistry shop instead of 
+on-site, where the character may have to start dodging 
+bullets. Once the charge is planted, it can be detonated 
+as normal via blasting cap, detonating cord, detonator, 
+and so on. 
+COOKING 
+EXPLOSIVES
+To cook explosives, a character must at least have ac-
+cess to a demolitions shop (p. 443, SR5). A kit is insuf-
+ficient for this kind of work, but it may be used to make, 
+arm, and disarm explosive devices. Also, if a character 
+is trying to mix explosives while using a shop inside a 
+vehicle, any tests made while the vehicle is in motion 
+requires 1 fewer ones for a glitch. A permanent facility 
+is the preferred method for cooking explosives. Using 
+a facility instead of a shop reduces the threshold for Ex-
+tended Tests by 4. A chemistry shop/facility will suffice 
+for mixing explosives, but using anything but a proper 
+demolitions shop/facility works similarly to defaulting 
+on skills. Chemistry and demolitions shops/facilities 
+are similar, but the former may not possess all the spe-
+cialized tools necessary to make explosives. Apply a 
+–2 dice pool modifier when using a chemistry shop/
+facility, as the tools are considered inadequate.
+To make explosives, a character must have the proper 
+chemicals. These are not included with a shop or facility, 
+so they must be obtained separately. Without proper 
+chemicals, making explosive material is impossible. To 
+cook explosives, the character must chose the rating of 
+the compound that they are trying to make. A character 
+cooking homemade explosives must make a Demolition 
++ Logic [Mental] (30 minutes) Extended Test with a 
+threshold for the appropriate explosive as given on the 
+Making Explosives Table.
+Cooking homemade explosives can produce volatile 
+results. Mixtures must be precise for the explosive to 
+have the desired rating. If an Extended Test roll produces 
+no hits, the gamemaster adds to or subtracts from the 
+rating of the explosive material by + or – 1. A glitch on a 
+particular roll modifies the explosive’s rating by + or – 5. 
+The final damage value of a batch of explosives may be 
+modified up to a maximum of + or – 15. A critical glitch sets 
+off the explosive being made, using the current effective 
+rating of the device as the DV for the blast; the explosion 
+is considered circular, which has a Blast Value reduction of 
+–2 per meter. If using a shop, the shop is destroyed. The 
+explosion could also destroy the vehicle the shop is set 
+in or catch it on fire. The blast has an AP of –2. A facility, 
+however, can survive the blast. A character may need to 
+>> BLOW UP GOOD <<
+192    COOKING EXPLOSIVES >>
+EXAMPLE
+A runner team is breaking into a bank vault by 
+going through the back wall and cutting through the 
+rear vault wall. The vault wall is considered armored 
+material (Structure 14, Armor 24). Ultrasound sensors 
+inform the demolitions expert that the wall is 80 cen-
+timeters thick. The demolitions expert calculates the 
+explosives needed to cut into the vault wall and ar -
+rives at the value of 22P to produce a 1-meter hole. 
+However, because the demolitions expert desires to 
+make a 1.5-meter hole, she multiplies the 22P by 1.5, 
+for a total of 33P (an extra 11P).
+For the vault wall, the demolitions expert brought a 
+linear cutting charge. The charge tamps the explosive 
+contained inside, providing a x 4 multiplier. The explo-
+sive device, using 2 kilos of Rating 6 powdered explo-
+sives, is now dealing 36P damage (9P x 4), with –half 
+AP . The explosion efficiently cuts a 1.5-meter hole in 
+the vault wall. Now, the runner team pushes the cut-
+out part of the wall into the vault and heads directly to 
+the safe deposit boxes.
+===== PAGE 193 =====
+invest nuyen in fixing the facility (gamemaster discretion), 
+but the cost to fix a facility should not exceed half the 
+facility’s original cost (25,000¥).  
+EXPLOSIVES
+AMMONIUM NITRATE
+Ammonium nitrate is regularly used as a component of 
+fertilizer. As such, ammonium nitrate can be easy to ac-
+quire legally. However, governments and corporations 
+are well aware that ammonium nitrate can be used in 
+explosives, so they monitor and track the sales of this 
+particular chemical. Buying too much at any given time 
+from a legal source will likely raise red flags that law en-
+forcement will investigate. Because of this, most runners 
+involved in bomb making will acquire ammonium nitrate 
+from black-market sources as opposed to legal avenues.
+Ammonium nitrate consists of a powder or granules 
+and requires a container to hold it before a detonator 
+can be fitted. 
+Ammonium nitrate will catch fire if set alight, but it 
+will only explode if burned when enclosed in a container. 
+Ammonium nitrate will not detonate when wet. It can 
+be used as an oxidizing agent for other explosives 
+and can also be used to modify their detonation rates. 
+Other chemicals ammonium nitrate has been used with 
+include nitroglycerin.
+ANFO
+Ammonium nitrate/fuel oil is a binary explosive, com-
+bining ammonium nitrate and fuel oil. The two are 
+mixed to enhance the effectiveness of the ammonium 
+nitrate. ANFO is a common commercial explosive used 
+frequently in mining, quarrying, and civil construc-
+tion. ANFO is considered blaster cap insensitive, so 
+it requires a primer to be detonated, such as a small 
+amount of dynamite or TNT.
+DETONATING CORD
+Detonating cord is a thin, plastic tube filled with a small 
+amount of high-grade explosive, with an explosive po-
+tential that can be adjusted based on the length of the 
+cord. Det cord, as it is commonly called, can be used on 
+its own, wrapped around an object for use as a cutting 
+charge, or used as a breaching charge to punch a hole in 
+a barrier. It can also be connected to other explosives and 
+used as a means to set off connected charges simultane-
+ously as a high-speed fuse.
+Det cord comes in two different sizes: low yield and 
+high yield. Low-yield det cord is often used for special 
+effects in various trideo productions and tends to be 
+used against average material. High-yield det cord is 
+more powerful and can be used on heavier materials. 
+Low-yield det cord has a base Damage Value of 3P per 
+meter; high-yield det cord has a base Damage Value of 
+6P. For simplicity, add or subtract 1P from the power level 
+of the detonating cord for every one-third of a meter (34 
+cm) added or subtracted to the total length of detonating 
+cord used. For example, if a player only uses one-third of 
+a meter of low-yield detonating cord, the base Damage 
+Value for the detonating cord is 1P. 
+DYNAMITE
+Dynamite is typically packed in sticks weighting 0.25 
+kilograms each, but individual sticks can be taped to-
+gether quickly to create larger charges. Dynamite is 
+typically sold per kilogram. Although a powerful explo-
+sive on its own, dynamite can also be used as a primer 
+for other explosives, such as ANFO. 
+GUNPOWDER
+This is a catch-all name for modern smokeless gun-
+powder, older black powder, and all other propellants 
+used in firearm ammunition. Like ammonium nitrate, 
+gunpowder must be put into a container before a det-
+>> BLOW UP GOOD <<
+MAKING EXPLOSIVES TABLE
+EXPLOSIVE
+THRESHOLD 
+(W/ SHOP)
+THRESHOLD 
+(W/ FACILITY) AVAILABILITY COST
+Ammonium nitrate 12 8 5 75¥
+ANFO 16 12 5 65¥
+Commercial explosive 16 12 5 60¥
+Dynamite 16 12 6 80¥
+Foam explosive 20 16 8R Rating x 200¥
+Gunpowder 16 12 3 25¥
+Liquid explosive 20 16 8R Rating x 225¥
+Nitroglycerin 16 12 10 150¥
+Plastic explosive 16 12 8R Rating x 200¥
+TNT 16 12 10R 100¥
+<< EXPLOSIVES    193
+===== PAGE 194 =====
+onator can be inserted. Setting fire to gunpowder not 
+in an enclosed container will only burn it, not cause it 
+to explode. Gunpowder will neither burn nor detonate 
+if it is wet.
+An easy way to obtain gunpowder is to remove it 
+from cased ammunition (caseless ammunition contains 
+a plastic explosive instead of gunpowder), although 
+about 500 rounds are needed to produce 1 kilogram.
+LINEAR CUTTING CHARGE
+Developed for making precise, clean cuts through ma-
+terial with minimum effort, this is an inverted V-shaped 
+sheath, typically made of lead, copper, or tin, with a 
+layer of high explosive contained within. This device fo-
+cuses the explosive blast onto the line to be cut, giving 
+much greater penetration of the target material. Lin-
+ear cutting charges automatically tamp the explosive, 
+giving it the x 4 multiplier when detonated. One me-
+ter of cutting charge contains 1 kilogram of explosives 
+of the charge’s rating. Linear cutting charges are nor -
+mally filled with granular explosives such as RDX, but 
+other high explosives can also be use, including PETN 
+(pentaerythritol tetranitrate). Linear cutting charges are 
+available in Ratings 1–25.
+LIQUID EXPLOSIVES
+Liquid explosives are frequently referred to as “liquid 
+plastique.” Liquid explosives function identically to 
+plastic explosives, except that liquid explosives can be 
+poured in desired quantities (1 liter is the approximate 
+equivalent of 1 kilogram of plastic explosive). Liquid 
+explosives are available in Ratings 1–25 and are fre-
+quently used with an atomizer to maximize damage 
+(see p. 196).
+NITROGLYCERIN
+A very powerful explosive that has been around since 
+1847, nitroglycerin is well known for its instability—it can 
+detonate from mere jolts, let alone other explosions. Any 
+time a character handles nitroglycerin, roll an Agility + Re-
+action Test—a glitch means that the nitro detonated by 
+accident (the only reason for the test is to see if there is a 
+glitch; the number of hits does not matter). Transporting 
+it in a vehicle requires the driver to make a Vehicle Test 
+(p. 199, SR5), with a glitch setting it off. Have the pas-
+sengers resist damage from the explosion before having 
+the vehicle resist damage, subtracting any hits the pas-
+sengers get on their Damage Resistance Tests. If anyone 
+carrying nitroglycerin is knocked down, or if nitroglycerin 
+is falls more than half a meter for any reason, the shock 
+may make it detonate. Roll an Object Resistance dice pool 
+of 8; on a glitch, the nitro accidentally detonates. Follow 
+the same rules for a car explosion found under Car Bombs 
+as Tools for Assassins (p. 187). Treat 1 liter of nitroglycerin 
+as 1 kilogram of Rating 6 explosives.
+TNT
+The standard by which all other explosives are mea-
+sured, trinitrotoluene has been used as an explosive 
+compound for 200 years. TNT is highly regulated and 
+hard to obtain legally without proper permits and li-
+censes.
+TNT is available in blocks of varying weight that can 
+either be cut up when smaller amounts are needed or 
+taped together for larger charges. Any kind of detonator 
+can be used to set off TNT.
+DETONATORS
+Listed below are several detonator options. To simplify 
+demolitions for Shadowrun players and gamemasters, a 
+purchased detonator is always considered to come with 
+the appropriate power supply or primer necessary to set 
+off the explosive material in question. The power supply 
+for a detonator only becomes an issue for detonators with 
+specific ratings. Rating 1 detonators are the cheapest and 
+are most likely to suffer from malfunctioning power sup-
+plies, but Rating 2 detonators have been known to also 
+fail. When dealing with a Rating 1 detonator, the game-
+master rolls 1D6. On a roll of 1 or 2, the power supply is 
+bad and will not initiate the explosive device. For a Rating 
+2 device, the gamemaster rolls a 1D6, and the power sup-
+ply only malfunctions on a result of 1. Rating 3 devices 
+are well constructed, so failure rates for these devices are 
+so rare as to not be an issue in game terms.
+Redundant power supplies for detonators can be 
+purchased and vary in price from 50 nuyen to 500 
+nuyen. Adding redundant power supplies ensures that 
+if one fails, the other will trigger the explosion, but this 
+adds to the complexity of the device and thus requires 
+more time to build.
+BLASTING CAP
+The most commonly used detonator in construction 
+and demolitions work is the blasting cap. Blasting caps 
+come in three different types: electric, non-electric, 
+and fuse caps. Blasting caps are wired into a prima-
+ry explosive material. Once ignited, this provides the 
+energy necessary to set off the secondary explosives. 
+Electric blasting caps are normally hardwired to an ex-
+ploder, which produces the necessary electrical pulse 
+that travels through wires from the exploder to set off 
+the explosives from a safe distance. Fuse caps allow for 
+a safety fuse to be ignited, to delay the explosion until 
+the fire reaches the cap. Whereas detonator caps can 
+be used to set off charges remotely with a self-con-
+tained power supply or explosives, blasting caps have 
+a manual component, either lighting a fuse or pushing 
+the plunger on the exploder to set off the explosion. 
+Because of this limitation, detonator caps are the pre-
+ferred choice for detonation.
+>> BLOW UP GOOD <<
+194    DETONATORS >>
+===== PAGE 195 =====
+Explosives used in blasting caps are considered 
+primary explosives or primers, the most common being 
+mercury fulminate, lead azide, lead styphnate, tetryl, 
+and DDNP.
+ELECTRICAL DETONATOR
+This type of detonator sends an electrical charge to ex-
+plosives sensitive to electricity and detonates them. It 
+can create booby traps by being wired to things like a 
+light switch, a trideo set, or a vehicle’s ignition. Electri-
+cal detonators require a strong electrical pulse to func-
+tion; this is sometimes supplied by a exploder, but it 
+can also be supplied from a car battery, a wall socket, or 
+a power supply designed to work with the detonator. 
+The current provided by a normal battery, as used in 
+electronic appliances, is not enough. Electrical detona-
+tors are frequently used in dumb bombs.
+OPTICAL DETONATOR
+A more high-tech alternative to the electrical detonator, 
+this detonator has a powerful processor that can inter -
+pret data from outside sources, such as facial recognition 
+programs or biometric nanoscanners, to obtain positive 
+identification of a target. The processor inside an optical 
+detonator is as powerful as one found in an average com-
+mlink. Optical detonators must be attached to fiber-optic 
+cables and can be planted in such things as cyberware, 
+drones, computers, or commlinks. Runners who desire a 
+smart bomb can use an optical detonator to greatly en-
+hance their chances of hitting the right target.
+When utilizing an optical detonator with accessories 
+such as a camera or biometric nanoscanners, roll the Data 
+Processing attribute of the optical detonator (Device 
+Rating) against a threshold of 1. A successful roll means 
+the device has correctly identified the target. A failed 
+roll results in inconclusive findings and requires another 
+test; the system requires 1 minute before another 
+identification attempt can be made. If the test results in 
+a glitch or critical glitch, the device improperly identifies 
+someone else as the target and detonates, likely killing 
+the wrong target, or it does not recognize the right 
+target and does not detonate. Optical detonators have 
+a Device Rating from 1 to 6.
+Any explosive device using an optical detonator is 
+considered a complex device.
+PULL DETONATOR
+Pull detonators trigger explosives when a ring on the 
+detonator is pulled out; a string or wire can be tied to the 
+ring to either set up a tripwire or connect it to a nearby 
+object. For example, a pull detonator can be set off when 
+a door opens to pull the ring out of the detonator.
+Pull detonators can also be set in a “pull release” 
+mode. In this case, the detonator is set up with a constant 
+pull on the ring, usually from a taut tripwire. When the 
+ring is pulled out, the detonator goes off as usual, but 
+it will also detonate when the resistance is taken off the 
+ring. This prevents someone from disarming the booby 
+trap by simply cutting the wire, as doing so triggers an 
+immediate explosion. To disarm the explosive device 
+without setting it off, a character will need to make a 
+Demolitions + Logic [Mental] (5) Test.
+PUSH DETONATOR
+One of the most notorious booby traps, push detonators 
+set off their explosives when the trigger is pushed with 
+a specific amount of force. The character setting the det-
+onator can choose the minimum amount of pressure in 
+kilograms that must be exerted on the detonator before 
+it goes off. For example, if used in a car bomb, one of the 
+target’s young children sitting in the driver seat won’t set 
+off the explosives underneath the seat. However, once 
+the target gets behind the wheel, the bomb will explode. 
+Push detonators can be set up with a minimum and 
+maximum weight that will set off the explosive.
+A push detonator may also be set up so that once a 
+target steps or sits on the detonator, it will not trigger 
+until the pressure is removed.
+RADIO DETONATOR
+One of the most common detonator types in both mili-
+tary and civilian demolitions, a radio detonator sets off 
+the explosive charge when it receives the correct radio 
+signal. Modern radio detonators are wireless-enabled 
+devices detonated by commlinks.
+Radio detonators come in three ratings. Rating 1 
+radio detonators are the cheapest but also possess the 
+weakest receivers and have the greatest chance of not 
+receiving a signal, particularly in a building that has not 
+been properly prepped for demolition. Increase the 
+Noise Level by 2 when using a Rating 1 radio detonator. 
+Rating 2 radio detonators are stronger and more reliable 
+but are still sensitive to noise. Increase the Noise Level 
+by 1 when using a Rating 2 radio detonator. Rating 3 
+radio detonators are the most reliable on the market and 
+decrease Noise Level by 1.
+Disposable commlinks can be set up as makeshift 
+radio detonators. The commlink can be programmed 
+to accept only one number of the demolition expert’s 
+choosing. Turning a commlink into a radio detonator 
+requires two tests: a Hardware + Logic [Mental] (4) Test 
+and a Demolitions + Logic [Mental] (3) Test. A commlink 
+rigged in this manner has a Rating equal to its Device 
+Rating, to a maximum of 3.Commlinks set up as radio 
+detonators are always set to run silent (p. 235, SR5) to 
+diminish the chances of being discovered.
+TIMER DETONATOR
+A timer detonator is an electronic or mechanical clock 
+that sets off the explosives. It can be used to either det-
+>> BLOW UP GOOD <<
+<< DETONATORS    195
+===== PAGE 196 =====
+onate at a specific time or count down from the desired 
+delay. Timer detonators come in three ratings. Rating 
+1 is the cheapest timer detonator available, but the 
+cheaply made device has a high rate of failure and is 
+known for losing or gaining time. Rating 1 timer deto-
+nators can lose or gain up to 2 minutes, (assuming the 
+device works at all). Rating 2 timer detonators can lose 
+or gain up to 1 minute, while Rating 3 timer detonators 
+keep exact time and are considered the most reliable 
+detonators.
+Commlinks can be set up to act as improvised 
+timer detonators. All commlinks have clock and timer 
+programs loaded onto them. Turning a commlink 
+into a makeshift timer detonator requires two tests: a 
+Hardware + Logic [Mental] (3) Test and a Demolitions 
++ Logic [Mental] (3) Test. Assume a commlink rigged 
+in this manner has a Rating of 3, as long as it has an 
+active Matrix connection. Without that connection, it 
+drops to Rating 1. Commlinks set up as timer detonators 
+are always set to run silent (p. 235, SR5) to help avoid 
+detection.
+Timer detonators have the option of featuring a 
+display showing the countdown. Oftentimes they do 
+not come with this feature, but commlinks modified as a 
+timer detonator always display the time. A bomb maker 
+will often set up decoy timer detonators and have each 
+of them display different countdowns, forcing anyone 
+trying to disarm the bomb to guess which time is the 
+right one (if any).
+EXPLOSIVE 
+ACCESSORIES
+ANTI-REMOVAL 
+MODIFICATIONS
+Many bomb makers like to make their devices compli-
+cated so they are more difficult for someone to disarm 
+before they go off. Common anti-removal modification 
+tricks include the following: multiple detonators as fail-
+safes, multiple blast machines/power supplies, wires 
+that are all the same color, false wires and leads, metal 
+sheaths to prevent a bomb expert from accessing the 
+detonator, fake time displays, and a mixture of different 
+detonator types.
+For each modification designed to prevent tampering, 
+the device gains 1 die to resist being disarmed; 
+maximum rating of this dice pool is 12. The character 
+attempting to disarm the bomb rolls a Demolitions + 
+Logic Opposed Test versus the bomb’s dice pool. If the 
+character succeeds, the bomb is disarmed. However, 
+if the bomb gets more hits, the explosive detonates. 
+Alternatively, the gamemaster may choose to have 
+the character roll an Opposed Test versus the bomb’s 
+dice pool, with each successful test disarming one of 
+the anti-removal devices and removing 1 die from the 
+dice pool. The character must then continue to disarm 
+each anti-removal modification, removing 1 die from 
+the pool each time. When the bomb has no dice left in 
+its anti-removal modification dice pool, the device is 
+considered disarmed.
+ATOMIZER
+Similar to bottles that spray water or perfume, an atom-
+izer works on a larger scale to quickly spray a cloud of 
+liquid explosives. The atomizer can hold a number of 
+liters equal to its rating, and this liquid can be sprayed 
+at a rate of 1 liter per Complex Action, each liter being 
+roughly equivalent to 1 kilogram of plastic explosive. 
+Each liter fills one cubic meter when properly atomized, 
+and the explosive will settle to the ground in about 1 
+minute. The liquid explosive must still be present in the 
+air to be ignited by a detonator.
+The advantage of atomization is that the Damage 
+Value is the same throughout the cloud; the Blast Rating 
+(for circular blasts) is only applied outside of the cloud.
+EXPLODER
+An exploder is a handheld device that provides an 
+electrical pulse needed to set off an electrical or opti-
+cal detonator (p. 195). Electrical and optical detonators 
+need compatible exploders to work, so an exploder of 
+one kind cannot activate the other type of detonator. 
+Exploders are only necessary for devices that are wired 
+together and require a manual detonation, usually with 
+blasting caps and detonating cord. Many remote deto-
+nators feature their own power supply, making an ex-
+ploder unnecessary.
+A number of circuits equal to the exploder’s rating 
+can be connected to it at a time. These circuits can be 
+set off simultaneously, or a user can vary the detonating 
+times between the different circuits, creating the desired 
+blast pattern. However, all charges wired on the same 
+circuit will detonate simultaneously. An exploder can set 
+off a number of detonators up to its Rating x 4 at the 
+same time.
+Operating an exploder requires a Complex Action, 
+regardless of the number of circuits being detonated.
+HARD-SHELL BRIEFCASE 
+(HERMETICALLY SEALED)
+A hard-shell briefcase can be hermetically sealed to al-
+low for easier transportation of explosive material and 
+provide a convenient way of smuggling explosives into 
+a secure building without setting off chemsniffers. The 
+Rating of the briefcase provides a negative dice pool 
+modifier to any chemsniffer/olfactory sensors trying to 
+detect the explosive material. For example, a hermeti-
+cally sealed Rating 3 briefcase removes 3 dice from the 
+>> BLOW UP GOOD <<
+196    EXPLOSIVE ACCESSORIES >>
+===== PAGE 197 =====
+sensor’s dice pool for detecting the explosives. Her -
+metically sealed hard-shell briefcases come in Ratings 
+1 to 12.
+SAFETY FUSE
+A safety fuse is a length of waterproof cord that burns 
+at a rate of 1 centimeter per second (3 centimeters per 
+Combat Turn), allowing it to be used as a cheap and 
+simple delay by inserting it into a blasting cap. It can 
+be lit with a cigarette lighter or a similar flame source.
+ 
+GEAR QUALITIES
+COUNTERFEIT 
+(FUNCTIONAL AND NON-FUNCTIONAL)
+On the black market, not everything for sale is the gen-
+uine article. Cheap knockoff guns are frequently mod-
+ified to look like Ares Predators or Colt Manhunters 
+and passed off as such to unsuspecting buyers. Device 
+Rating 6 cyberdeck cases are often sold as Device Rat-
+ing 6 cyberdecks despite having Rating 1 components 
+inside. Counterfeit BTLs and simsense recordings have 
+a poorer quality than the original. Modeling clay mas-
+querades as blocks of plastic explosive. 
+Characters conned into buying Counterfeit 
+merchandise that is functional get a working product, 
+albeit at a reduced Rating. Device Rating and Accuracy 
+can be reduced by as much as 5 (to a minimum of 1). 
+Explosives can either have their desired Ratings reduced 
+by 5 or the number of kilograms purchased reduced 
+by half, replaced by modeling clay or other fraudulent 
+product. Homemade explosives may be packaged as 
+commercial-grade explosives; in this case, follow the 
+rules for modifying homemade explosives on the black 
+market. Armor may have been repaired to be sold as 
+new, with its Armor Rating reduced by as much as 5. 
+Functional Counterfeit products also have a nasty track 
+record of breaking. Functional Counterfeit gear provides 
+a challenge for players, and if they survive they should 
+be rewarded. If a functional Counterfeit is purchased 
+by a character and that gear then becomes an in-game 
+complication for the character, the gamemaster should 
+give the character who owns it 1 extra point of Karma at 
+then end of the current mission.
+Non-functional Counterfeit goods do not work at all. 
+For example, the firing mechanism of the gun is broken 
+or missing; cyberware components in a shiny new 
+shell are broken and burned out; explosives are either 
+entirely phony product or the mixture of compounds is 
+so bad that it simply won’t detonate. A character who 
+inadvertently receives a non-functional Counterfeit 
+piece of gear in an adventure and survives complications 
+from the gear receives 2 Karma at the end of the game 
+session.
+DEFECTIVE
+Even when an item is brand new, that does not guar -
+antee that it is without defect. Defects in materials, 
+assembly line errors, and even successful shadowruns 
+can negatively impact item quality, rendering it defec-
+tive. It’s common for black marketeers to sell products 
+that were recalled or disposed of by the manufacturer 
+(due to concerns over a potentially defective batch), 
+meaning said products might end up in the hands of 
+runners and fixers. Even if the piece of gear functions 
+when it is sold, it may suddenly stop working at an in-
+convenient time. The Defective quality often strikes 
+power supplies in electronics, from commlinks and 
+cyberdecks to electronic timers and batteries. Game-
+masters can secretly assign this quality to a piece of 
+gear to add a twist to the mission, but players should 
+be rewarded for dealing with it. If a character received 
+a Defective piece of gear that failed in the course of 
+the mission, and they manage to survive, they should 
+receive 1 extra point of Karma at the end of the run.
+HOT
+On the black market, some items are ridiculously dis-
+counted, sometimes by as much as fifty percent or 
+more. The reason? The fences have to get rid of the 
+product fast, and any nuyen they can get, even if they 
+take a loss, is better than simply ditching the goods 
+altogether. Guns sold this way typically can be tied to 
+crimes through ballistic forensics. Get caught with a 
+gun connected to a high-profile homicide, and you are 
+in deep drek, chummer. Oftentimes hot products still 
+have serial numbers on them, and in some rare cases, 
+their RFID tags are still active. Stolen delta-grade cy -
+berware and bioware are always considered Hot. So are 
+vehicles and explosives. Common items such as low-
+end cyberdecks and commlinks worth less than 1,000 
+nuyen are not given this quality unless they are sold 
+in large quantities (usually more than what one runner 
+would ever think of buying). The gamemaster should 
+only consider giving this quality to an item she fully in-
+tends to cause a runner problems during the game.
+>> BLOW UP GOOD <<
+OPTIONAL RULES
+SUPPLEMENTAL DETECTION MODIFIERS  
+FOR THE CHEMICAL DETECTION MODIFIERS TABLE
+In Run & Gun, the rules for explosives have moved away 
+from calculating explosives in grams. For the sake of simplicity, 
+all amounts are calculated in kilograms. To reflect this change, 
+the gamemaster may choose to modify the values on the 
+Chemical Detection Modifiers Table on p. 365, SR5, as follows:
+MATERIAL MODIFIER
+Every 1 kilogram of (non-plastique) explosive +1
+Every 2 kilograms of plastique explosive +1
+<< GEAR QUALITIES    197
+===== PAGE 198 =====
+ “—I told you we shoulda gone with them!”
+My indignant shout was drowned out by two very loud nois-
+es; the sharp BANG! of my high-ex grenade detonating, which 
+temporarily muffled the dull KRUMPFS! from Megazard’s mas-
+sive Krime Cannon as he laid down suppressive fire.
+“Stay with me ’til we hit the door, Azimuth!” the enormous 
+troll shouted.
+“Like I got a choice?!”
+All this happened as we charged straight at the latest cluster 
+of sec men spilling out of a nondescript, white, ten-story build-
+ing twenty-five meters away. In their matching corp body armor 
+and helmets, they looked like angry, grey-clad ants.
+My mystic armor took a few hits as two opened fire with 
+their Ares assault rifles. Correction: heavily armed and seriously 
+pissed-off ants.
+Still, we barreled forward. I launched another aerodynamic 
+grenade as I ran, dropping it exactly where I wanted: behind a 
+huge plascrete garden container near the front of the building. 
+It held several artfully sculpted evergreen trees providing cover 
+for three rent-a-cops.
+The grenade fell out of sight, and the sharp report that fol-
+lowed sprayed pine needles, branches, and sec guard bodies ev-
+erywhere. We both clomped into the cloud of smoke laid down 
+by our chosen weapons, taking advantage of the temporary 
+cover as we reloaded. I plucked two more grenades off my belt 
+while Megazard slapped another circular magazine into the ev-
+er-hungry maw of his assault cannon. And all the while, we kept 
+running toward the building.
+You got it, chummer—we were heading in, not out.
+It was not one of my better runs—or days, for that matter. 
+But an empty credstick and looming rent, not to mention a 
+constantly growling stomach, makes for one hungry dwarf—in 
+more ways than one. So, when my supposed friend Megazard 
+pinged me about what sounded like a simple cover-and-carry 
+mission, I didn’t look too closely at the particulars.
+Big mistake.
+The leaders of the team—a couple run-and-gun studs who’d 
+been sleazing the Seattle shadows for all of six months—were 
+cocky even at the initial meet. But their money was good—and 
+real—for what was supposed to be an easy job: overwatch on 
+the street while they swapped places with a maintenance crew 
+and infiltrated during the end-of-day shift change. One false fire 
+alarm later, and they would get whatever they’d come to get 
+and scoot. If anything went bad, that’s where we came in, guns 
+and grens booming, to extract them.
+And of course, somebody tripped something, leading us 
+to make our spectacular entrance. The target was some off-
+the-main-drag corp building in Ravenna, so I’d packed fairly 
+HOSTILE  
+EXTRACTION
+198    HOSTILE EXTRACTION

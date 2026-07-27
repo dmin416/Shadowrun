@@ -2,13 +2,13 @@
 
 **Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · [SL](../Source%20Texts/Street%20Lethal/INDEX.md) · Hard Targets\* · [CT](../Source%20Texts/Complete%20Trog/INDEX.md) · [RF](../Source%20Texts/Run%20Faster/INDEX.md)
 
-\*No Hard Targets PDF in `Source/PDF` — HT section unverified.
+\*No Hard Targets PDF in `Source/PDF` - HT section unverified.
 
 **Verified from:** `Source/PDF` Core, Run & Gun, Street Lethal, Complete Trog, Run Faster (not web dumps).
 
 Related: [Armor Modifications](Armor%20Modifications.md) · [Combat / Damage Armor and Wounds](../Mechanics/Combat/Damage%20Armor%20and%20Wounds.md)
 
-Modern ballistic fabrics (spiderweave, ceramictitanium composites, liquid packs, ruthenium coats) make armor light enough to look like clothes — or heavy enough to look like walking tanks. This entry covers **what you wear**. Capacity upgrades live in [Armor Modifications](Armor%20Modifications.md).
+Modern ballistic fabrics (spiderweave, ceramictitanium composites, liquid packs, ruthenium coats) make armor light enough to look like clothes - or heavy enough to look like walking tanks. This entry covers **what you wear**. Capacity upgrades live in [Armor Modifications](Armor%20Modifications.md).
 
 ---
 
@@ -23,7 +23,7 @@ If an attack dealing **Physical** damage has modified DV **less than** AP-modifi
 ### Stacking & encumbrance
 
 - Only the **highest** worn armor rating counts as primary Armor.
-- Items listed with **`+N`** (helmets, shields, PPP kits, etc.) are **accessories** — they add their bonus to Armor for resistance tests.
+- Items listed with **`+N`** (helmets, shields, PPP kits, etc.) are **accessories** - they add their bonus to Armor for resistance tests.
 - Accessory bonus total is capped by **Strength**. For every **2 full points** the bonus exceeds Strength, suffer **−1 Agility and Reaction**.
 - Coats listed **A/+B** (e.g. 10/+3): use **A** alone as primary armor, or wear over other armor for **+B** (coat customization).
 
@@ -52,10 +52,10 @@ Mil-spec suits are also **Restrictive**, usually **Custom Fit**, and often grant
 
 | Name | Armor | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Clothing | 0 | 0 | — | 20¥–100,000¥ | Everyday wardrobe. Price tracks quality, brand, and how corp you need to look. No Armor unless upgraded. |
-| Electrochromic Modification | — | — | +2 | +500¥ | Add to clothing: wireless color/pattern shift. Party trick and poor-man’s disguise aid. |
-| Feedback Clothing | — | — | 8 | +500¥ | Haptic / tactile feedback layer — AR feel, training suits, novelty clubs. |
-| (Synth)Leather | 4 | 4 | — | +200¥ | Leather or synthleather upgrade. Light Armor 4 with Capacity 4 for mods — classic biker / club look. |
+| Clothing | 0 | 0 | - | 20¥-100,000¥ | Everyday wardrobe. Price tracks quality, brand, and how corp you need to look. No Armor unless upgraded. |
+| Electrochromic Modification | - | - | +2 | +500¥ | Add to clothing: wireless color/pattern shift. Party trick and poor-man’s disguise aid. |
+| Feedback Clothing | - | - | 8 | +500¥ | Haptic / tactile feedback layer - AR feel, training suits, novelty clubs. |
+| (Synth)Leather | 4 | 4 | - | +200¥ | Leather or synthleather upgrade. Light Armor 4 with Capacity 4 for mods - classic biker / club look. |
 
 ### Run Faster wardrobe prices
 
@@ -64,31 +64,31 @@ Non-armor shopping list for lifestyle / cover identities (Armor 0 unless you buy
 | Tier | Examples | Typical cost |
 | --- | --- | --- |
 | One-use / disposable | Shirt, pants, skirt, shoes, gloves | 2¥ each |
-| Cheap | Shirt, pants, skirt, shoes, gloves, jewelry, watch, socks, undergarments | 2–10¥ |
-| Hat / ski mask / coveralls | — | 5–50¥ |
+| Cheap | Shirt, pants, skirt, shoes, gloves, jewelry, watch, socks, undergarments | 2-10¥ |
+| Hat / ski mask / coveralls | - | 5-50¥ |
 | Good | Shirt, pants, skirt, shoes, gloves, jewelry, watch | ~50¥; dress/suit ~1,000¥ (Avail 4) |
 | Nice | Shirt, pants, skirt, shoes, gloves, jewelry, watch | ~200¥; dress/suit ~10,000¥ (Avail 8) |
-| Tuxedo rental | — | 75¥ |
+| Tuxedo rental | - | 75¥ |
 | Diamond rings | Decent / large | 500¥ / 5,000¥ |
 
 ---
 
-## Armor — Core
+## Armor - Core
 
 | Name | Armor | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Actioneer Business Clothes | 8 | 8 | 8 | 1,500¥ | Looks like a real suit. Walk into a mid-level corp lobby without looking like a runner — until someone scans you. |
+| Actioneer Business Clothes | 8 | 8 | 8 | 1,500¥ | Looks like a real suit. Walk into a mid-level corp lobby without looking like a runner - until someone scans you. |
 | Armor Clothing | 6 | 6 | 2 | 450¥ | Everyday armorweave. Lowest-profile “real” armor. Easy start for SINners who still get shot at. |
 | Armor Jacket | 12 | 12 | 2 | 1,000¥ | The shadowrunning default. Tough, common, Capacity 12 for a full mod suite. |
 | Armor Vest | 9 | 9 | 4 | 500¥ | Flexible wrap under shirts/jackets. Good second layer story; only highest Armor counts if you stack wrong. |
 | Lined Coat | 9 | 9 | 4 | 900¥ | Classic longcoat. Hides holsters and SMGs; trench-noir silhouette. |
 | Urban Explorer Jumpsuit | 9 | 9 | 8 | 650¥ | Traceur / parkour cut. Form-fitting, lots of runners’ “second skin.” Optional helmet. |
-| Urban Explorer Jumpsuit, Helmet | +2 | — | — | +100¥ | Matching lid; accessory Armor. |
+| Urban Explorer Jumpsuit, Helmet | +2 | - | - | +100¥ | Matching lid; accessory Armor. |
 | Chameleon Suit | 9 | 9 | 10R | 1,700¥ | Full-body ruthenium + sensors: scan surroundings and paint the image on the suit. **+2 Limit** on Sneaking tests to hide. **Wireless:** also **+2 dice** to those Sneaking tests. Restricted and expensive. |
-| Full Body Armor | 15 | 15 | 14R | 2,000¥ | Impossible to conceal. Military/security heavy ops kit — pouches, webbing, intimidation cut. Draw heat everywhere. |
-| Full Body Armor, Helmet | +3 | 6* | — | +500¥ | Included helmet; treat Capacity 6 for vision/audio like a normal helmet. |
-| Full Body Armor, Chemical Seal | — | — | +6 | +6,000¥ | Purchase option: airtight environmental seal vs contact toxins / bad air (must include helmet). |
-| Full Body Armor, Environmental Adaptation | — | — | +3 | +1,000¥ | Purchase option: hot- or cold-weather kit for the suit. |
+| Full Body Armor | 15 | 15 | 14R | 2,000¥ | Impossible to conceal. Military/security heavy ops kit - pouches, webbing, intimidation cut. Draw heat everywhere. |
+| Full Body Armor, Helmet | +3 | 6* | - | +500¥ | Included helmet; treat Capacity 6 for vision/audio like a normal helmet. |
+| Full Body Armor, Chemical Seal | - | - | +6 | +6,000¥ | Purchase option: airtight environmental seal vs contact toxins / bad air (must include helmet). |
+| Full Body Armor, Environmental Adaptation | - | - | +3 | +1,000¥ | Purchase option: hot- or cold-weather kit for the suit. |
 
 \*Helmet accessory capacity for enhancements.
 
@@ -104,13 +104,13 @@ Non-armor shopping list for lifestyle / cover identities (Armor 0 unless you buy
 
 ## High-fashion armor clothing (Run & Gun)
 
-Looks like money. Armor ratings compete with street jackets while Social Limit / Etiquette scenes stay intact — until someone MAD-scans the weave.
+Looks like money. Armor ratings compete with street jackets while Social Limit / Etiquette scenes stay intact - until someone MAD-scans the weave.
 
 ### Armanté
 
 | Name | Armor | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Armanté Suit | 8 | 4 | 10 | 2,500¥ | Top-shelf tailored armor suit. Low Capacity — pick mods carefully. |
+| Armanté Suit | 8 | 4 | 10 | 2,500¥ | Top-shelf tailored armor suit. Low Capacity - pick mods carefully. |
 | Armanté Dress | 8 | 4 | 10 | 2,500¥ | Same protection, evening cut. |
 
 ### Mortimer of London
@@ -124,7 +124,7 @@ Looks like money. Armor ratings compete with street jackets while Social Limit /
 | Summit Dress | 7 | 5 | 7 | 2,200¥ | |
 | Greatcoat | 10/+3 | 10 | 8 | 3,000¥ | Wear alone (10) or over armor (+3). Signature Mortimer silhouette. |
 | Ulysses Coat | 10/+3 | 12 | 8 | 3,100¥ | Same stacking; higher Capacity. |
-| Argentum Coat | 12/+4 | 14 | 10 | 3,600¥ | Heaviest Mortimer coat — alone 12, or +4 over other armor. |
+| Argentum Coat | 12/+4 | 14 | 10 | 3,600¥ | Heaviest Mortimer coat - alone 12, or +4 over other armor. |
 
 ### Vashon Island
 
@@ -141,7 +141,7 @@ Looks like money. Armor ratings compete with street jackets while Social Limit /
 | Steampunk | 10 | 14 | 7 | 2,250¥ | Fashion-forward; huge Capacity 14. |
 | Synergist Business Line | 9 | 5 | 8 | 1,500¥ | Competes with Actioneer at higher polish. |
 | Synergist Business Line Longcoat | 10/+3 | 6 | 8 | 2,300¥ | Coat stacking like Mortimer. |
-| Sleeping Tiger | 13 | 10 | 10 | 13,500¥ | Prestige combat fashion — street jacket Armor with a five-digit tag. |
+| Sleeping Tiger | 13 | 10 | 10 | 13,500¥ | Prestige combat fashion - street jacket Armor with a five-digit tag. |
 
 ### Zoé
 
@@ -177,7 +177,7 @@ Looks like money. Armor ratings compete with street jackets while Social Limit /
 | Chain Mail | 8 | 2 | 8 | 900¥ | Modern or neo-medieval mail. Heavy style, little Capacity. |
 | Padded Leather | 7 | 2 | 8 | 600¥ | Club / gang leather with real padding. |
 | Murder Armor | 13 | 4 | 12R | 5,000¥ | Hollywood practical-effects armor: built-in **Biomonitor**, **Custom Fit**, **Holster**. When hit, can **Interrupt (−5 Initiative)** to play dead: Charisma + Performance [Social] vs Intuition + Perception [Mental]; observers take **−4**. Success → they ignore you (no Defense vs your next attack). Mess cleans with warm water. |
-| Gorepak | — | — | 8R | 200¥ | Replaceable blood/gore cassette for Murder Armor. Install/refresh: Logic + Armorer [Mental] (4, 1 hour) Extended Test. |
+| Gorepak | - | - | 8R | 200¥ | Replaceable blood/gore cassette for Murder Armor. Install/refresh: Logic + Armorer [Mental] (4, 1 hour) Extended Test. |
 | Forearm Guards | +1 | 3 | 6 | 300¥ | Bracers; accessory Armor. |
 | Ballistic Mask | +2 | 8 | 6 | 150¥ | Face protection; high Capacity for vision/audio in a mask form factor. |
 | Custom Ballistic Mask | +2 | 8 | 6 | 300¥ | Personalized / intimidating ballistic mask. **+2 Social Limit** on Intimidation while visible. |
@@ -190,7 +190,7 @@ Looks like money. Armor ratings compete with street jackets while Social Limit /
 
 | Name | Armor | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Security Armor, Light | 15 | 12 | 14R | 8,000¥ | Corp / KE tactical shell. Not hardened — still terrifying in public. |
+| Security Armor, Light | 15 | 12 | 14R | 8,000¥ | Corp / KE tactical shell. Not hardened - still terrifying in public. |
 | Security Armor, Medium | 18 | 14 | 16R | 14,000¥ | |
 | Security Armor, Heavy | 20 | 16 | 18R | 20,000¥ | |
 | Security Armor, Helmet | +3 | 5 | 8R | 5,000¥ | Matching lid. |
@@ -221,23 +221,23 @@ Looks like money. Armor ratings compete with street jackets while Social Limit /
 | Ghillie Suit | Universal | 4 | 4 | 6 | 600¥ | Sniper/camo drape. Light Armor; meant for hiding, not firefights. |
 | Ares Armored Survivalist | Universal | 8 | 6 | 10 | 1,500¥ | General wilderness armored survival suit. |
 | Desert Suit | Heat | 3 | 2 | 8 | 1,000¥ | Heat management first; light Armor. |
-| Snake Mesh Socks | Heat | +2 | — | 6 | 50¥ | Accessory vs fangs / underfoot nastiness; +2 Armor. |
-| Coldsuit | Cold | — | 4 | 4 | 800¥ | Insulation suit; no inherent Armor rating. |
+| Snake Mesh Socks | Heat | +2 | - | 6 | 50¥ | Accessory vs fangs / underfoot nastiness; +2 Armor. |
+| Coldsuit | Cold | - | 4 | 4 | 800¥ | Insulation suit; no inherent Armor rating. |
 | Polar Survival Suit | Cold | 6 | 6 | 8 | 2,000¥ | Arctic survival with real Armor. |
 | Ares Arctic Forces Suit | Cold | 15 | 14 | 16R | 11,000¥ | Military cold-ops shell. |
 | Ares Armored Coldsuit | Cold | 9 | 6 | 6 | 1,200¥ | Armored coldsuit middle ground. |
-| Ares Polar Sneak Suit | Cold | 6 | 4 | 16F | 10,000¥ | Stealth arctic infiltration — Forbidden. |
-| Enclosed Breathing Helmet | Aquatic | — | 6 | 8 | 900¥ | Full breathing helmet; Capacity for sensors. |
-| Full Face Mask | Aquatic | — | 4 | 8 | 300¥ | Dive mask; less coverage than enclosed helmet. |
-| Drysuit | Aquatic | — | 4 | 6 | 2,500¥ | Keeps you dry in cold water; not ballistic armor. |
+| Ares Polar Sneak Suit | Cold | 6 | 4 | 16F | 10,000¥ | Stealth arctic infiltration - Forbidden. |
+| Enclosed Breathing Helmet | Aquatic | - | 6 | 8 | 900¥ | Full breathing helmet; Capacity for sensors. |
+| Full Face Mask | Aquatic | - | 4 | 8 | 300¥ | Dive mask; less coverage than enclosed helmet. |
+| Drysuit | Aquatic | - | 4 | 6 | 2,500¥ | Keeps you dry in cold water; not ballistic armor. |
 | Diving Armor | Aquatic | 7 | 4 | 6 | 1,750¥ | Armored dive suit. |
 | Arctic Diving Suit | Aquatic | 1 | 4 | 8 | 3,000¥ | Extreme cold dive; token Armor. |
 | Evo HEL Suit | Space | 8 | 5 | 10 | 3,000¥ | Hazardous Environment / light EVA. |
 | Spacesuit | Space | 12 | 6 | 16 | 12,000¥ | Standard EVA. |
 | Security Spacesuit | Space | 15 | 10 | 24 | 25,000¥ | Armored EVA for station security. |
 | Evo Armadillo Armored Spacesuit | Space | 16 | 10 | 24R | 35,000¥ | Heavy armored space shell. |
-| Magnetic Boots | Space | — | 4 | 12 | 2,500¥ | Stick to hulls; Capacity 4. |
-| Survival Bubble | Space | 4 | 4 | Rating × 3 | 2,000¥ | Inflatable shelter bubble. Rating 1–6; Avail = Rating × 3. |
+| Magnetic Boots | Space | - | 4 | 12 | 2,500¥ | Stick to hulls; Capacity 4. |
+| Survival Bubble | Space | 4 | 4 | Rating × 3 | 2,000¥ | Inflatable shelter bubble. Rating 1-6; Avail = Rating × 3. |
 | MCT EE Suit | Space | 6 | 5 | 10 | 2,500¥ | Mitsuhama environmental / EVA work suit. |
 
 ---
@@ -247,20 +247,20 @@ Looks like money. Armor ratings compete with street jackets while Social Limit /
 | Name | Armor | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Urban Explorer Daedalus | 9 | 4 | 8 | 3,200¥ | Looks like Urban Explorer, but deploys **microfiber wings** (Complex Action) into a wingsuit. Holds up to **320 kg**. Glide ~**3 m horizontal per 1 m fallen**; Freefall + Body each Combat Turn to stay in control (threshold by GM). Losing control: −2 (cumulative on consecutive fails). Max safe speed per Rigger tables. Can hard-bank stop (threshold 4) or use packed one-shot BASE chute. Do not stack with other primary armor if you want the chute/wings to work as designed. |
-| Urban Explorer Daedalus Helmet | +2 | 6 | — | 100¥ | Matching accessory helmet. |
+| Urban Explorer Daedalus Helmet | +2 | 6 | - | 100¥ | Matching accessory helmet. |
 | Ares Arms Bug Stomper Custom Armor | 20 | 20 | 30F | 35,000¥ | Firewatch-grade custom bug-hunting shell. Extremely Forbidden; table-breaker if sold casually. |
 | Yamatetsu Naval Technologies Rampart | +10 | 10 | 12F | 3,000¥ | Portable ballistic emplacement / shield accessory (**+10**). Treat as heavy accessory vs Strength encumbrance; Forbidden. |
 
 ---
 
-## Hard Targets — UNVERIFIED (no local PDF)
+## Hard Targets - UNVERIFIED (no local PDF)
 
 | Name | Armor | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Cloak | 0 | Rating | 1 | Rating × 100¥ | Pending HT PDF. |
 | Designer Cloak | 0 | Rating | 1 | (Rating × 100¥) + 300¥ | Pending HT PDF. |
-| Ruthenium Polymer Cloak | 0 | — | 14F | Rating × 4,000¥ | Pending HT PDF. |
-| Shiawase Arms Simoom | +1 | — | 14R | 1,500¥ | Pending HT PDF. |
+| Ruthenium Polymer Cloak | 0 | - | 14F | Rating × 4,000¥ | Pending HT PDF. |
+| Shiawase Arms Simoom | +1 | - | 14R | 1,500¥ | Pending HT PDF. |
 
 ---
 

@@ -1,0 +1,1800 @@
+
+===== PDF PAGE IDX 210 =====
+INTRODUCTION
+The ideals of alchemy have been around for a long 
+time. It gained popularity as a pseudoscientific attempt 
+to change mundane metals into precious ones. Trans-
+mutation and elemental magic have their roots in al-
+chemy. Since the Awakening, alchemy has also been 
+used for retrieving reagents. Enchanting skills have 
+progressed from foci and fetishes to other permanent 
+magical items and the pairing of magic and technology 
+known as “manatech.” More than sixty years of dab-
+bling and esoteric research have produced a wide va-
+riety of items, with some presented in Shadowrun, Fifth 
+Edition (pp. 304–306, SR5) and here.
+ALCHEMY BASICS: 
+THE PREPARATION
+From potions to flying carpets to scrolls containing 
+words of power, legends have told of miracles wrought 
+through the skills of the enchanter. Since the Awaken-
+ing, such items can be created in the Sixth World as 
+preparations. Preparations, like almost all magic, require 
+a lynchpin, which channels magical energies from the 
+astral plane to the physical plane. With preparations, the 
+lynchpin is not only the words and images used but also 
+the object that accompanies them. Anchored spells and 
+foci contain a lynchpin that acts as the conduit for magic; 
+when casting a spell, the magician himself is considered 
+the lynchpin. And like geeking the mage, destroying a 
+lynchpin breaks the magic. Damage to a preparation, 
+even a scratch, can destroy the object’s lynchpin prop-
+erties and release the magic within. The object itself may 
+still be functional, but the prepared magic is gone. This is 
+a preparation’s primary weakness.
+Many alchemists have attempted to use a prepara-
+tion as “manatech” weapon. They soon discovered that 
+bullets and other high-velocity projectiles make poor 
+preparations as they or the natural materials used in the 
+preparation are scratched, heated, and/or deformed 
+when fired. Low-velocity projectiles like arrows and 
+knives have better success. Usually a command trigger 
+is used: the magician’s partner fires the projectile, and 
+the magician activates the preparation’s trigger. Con-
+tact triggers carry inherent risk to the projectile’s firer, 
+and if the projectile misses, odds are it will be too dam-
+aged to act as a lynchpin or will remain live and po-
+tentially trigger when a friendly or a bystander touches 
+it. With a command trigger, even a prepared shot that 
+misses can still be effective if it’s connected to an ar -
+ea-effect spell.
+Alchemical preparations are not as smart as anchored 
+spells (p. 152). Once the trigger condition has been met, 
+the preparation (not the magician) sustains the spell for 
+a finite duration, which cannot be stopped unless a ma-
+gician dispels the spell early. The advantage of prepa-
+rations is they remain in a suspended state that allows 
+them to be transported through wards (see p. 297, SR5). 
+Preparations are a single-use spell. Once the spell has 
+been triggered, the preparation must be re-prepared to 
+cast the spell again with the same trigger. Compared to 
+traditional spellcasting, repeated use of preparations is 
+impractical.
+Basic preparations a magician learns represent ob-
+jects inscribed or decorated with their tradition’s formu-
+la for the alchemical spell. However, the idea of potions 
+and poultices as preparations is not lost to alchemists. 
+Studying advanced alchemy is required for learning how 
+to combine ingredients into a preparation (see p. 218) or 
+magical compounds.
+ORICHALCUM, THE 
+STANDARD OF REAGENTS
+According to Platonic legend, the priest-kings of an-
+cient Atlantis discovered orichalcum, but by Plato’s 
+time it was known only by name. This orange-gold alloy 
+is utterly absurd from any metallurgical standpoint, as 
+only alchemy can create it. For a brief time during the 
+passing of Halley’s comet, orichalcum could be found 
+in the earth. This came as a surprise to alchemists and 
+parageologists who believed orichalcum could not 
+occur naturally. The orichalcum rush was short-lived, 
+however. After Halley’s comet passed, the minable 
+veins of orichalcum disappeared. Some suspect that 
+the ore’s discovery was coincidental to the passing of 
+<< TURNING LEAD INTO NUYEN    209
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 211 =====
+Halley’s comet and miners had actually unearthed ar -
+cheological remnants of a very old age.
+Scientific examination is difficult because spectro-
+scopic analysis breaks orichalcum down into its com-
+ponent mundane metals. Orichalcum possesses many 
+of the physical properties of gold, such as being dense 
+and highly malleable. It alloys easily with iron, making 
+it preferred for weapon foci construction. Aqua regia 
+dissolves orichalcum, but the magical metal can be re-
+claimed.
+A magician can create a single dram of orichalcum 
+with the Alchemy skill. It takes thirty drams of radical 
+reagents: ten of gold, ten of copper, and ten of cinna-
+bar. The reagents circulate in an alchemical lab for an 
+average of twenty-eight days, with different traditions 
+adding or subtracting a day or two. Hermetics tend to 
+have formulae relating to the orbit of the moon, which 
+is twenty-seven days, while most shamanistic traditions 
+adhere to a full twenty-nine-day lunar cycle—from new 
+moon to new moon. Regardless of the time, this circu-
+lation involves the slow heating, cooling, blending, and 
+precipitation of the reagents; any faster and the magic 
+is lost. The magician must tend the circulation by check-
+ing the process and adjusting things every ten hours or 
+so. Again, hermetic mages and more modern traditions 
+tend to adopt the industrial revolution’s work shift of 
+eight hours, while shamanistic traditions follow a twelve-
+hour schedule and tend to the circulation at sunrise and 
+again at sunset. After the circulation time, the magician 
+completes the cool-down process, which results in one 
+coin-size dram of orichalcum from the gases and ashes 
+of the reagents. Note that the amount of orichalcum is 
+small compared to the amount of materials used in its 
+creation. Magicians have attempted to collect and con-
+dense the remaining vapors into more orichalcum, but 
+this is just as hazardous as failing to create orichalcum 
+in the first place. Failure to create orichalcum presents a 
+risk of magical and neurological damage from alchemi-
+cal lead vapors produced by the slag.
+CREATING REFINED  
+AND RADICAL REAGENTS
+A magician can use the Alchemy skill to distill raw 
+reagents into refined reagents and radical reagents. 
+Refined reagents are a step up from raw reagents col-
+lected from the field. Radical reagents are powerful, at 
+least for reagents. Refined and radical reagents open 
+more options for the Enchanting skill.
+To distill a batch of raw reagents into refined reagents, 
+the alchemist must circulate ten reagents in an alchem-
+ical lab for around ten hours. Again, hermetic and mod-
+ern traditions have adopted the industrial eight-hour 
+work shift for their formulae, while shamanistic tradi-
+tions have a slower, twelve-hour process tied to sunrise 
+and sunset. At the end of this circulation, the alchemist 
+makes an Alchemy + Magic [Astral] (3) Test. Success re-
+>> STREET GRIMOIRE  <<
+QUICK ANSWERS TO QUESTIONS  
+ABOUT PREPARATIONS (PP . 304–306, SR5)
+• A  preparation sustains the magic for the spell through the 
+lynchpin (p. 304, SR5).
+•
+ A preparation that is not active is considered a sympathetic
+ 
+link (p. 146) to the magician who created it.
+•
+ Only one preparation can be activated per Combat T
+urn, using 
+a Simple Action.
+•
+ When the preparation activates, it rolls Force + Potency
+ 
+[Force] as though its spell was just cast. Reagents do not 
+change the limit for the preparation’s activation; they only 
+increase potency during creation.
+•
+ Preparations become dual-natured only when active, so they
+ 
+cannot be triggered from the astral plane.
+•
+ A preparation can be disenchanted through contact with 
+the object.
+•
+ Once the prepared spell is triggered, it can be dispelled or
+ 
+resisted like any other spell.
+•
+ A preparation can only handle one alchemical spell at a time.
+•
+ Once triggered, a preparation’
+s magic is released. 
+•
+ Preparations with a contact trigger affect the magician and
+ 
+opponent alike after the magician completes the preparation 
+and stops touching the preparation. This is similar to the delay 
+from a hand grenade.
+•
+ As with a successful touch attack, the subject of a contact-
+triggered preparation cannot dodge the attack and can only
+ 
+resist the effect.
+•
+ If the preparation takes even a single box of Physical damage,
+ 
+the magic potential is lost. 
+•
+ Once triggered, the spell cannot be stopped unless it is
+ 
+dispelled or its duration ends.
+CREATING ORICHALCUM
+At the end of the circulation, the magician must make an Alchemy 
++ Magic [Astral] (3) Test. Failure to meet the threshold of this test 
+consumes the reagents but results in alchemical slag (unusable for 
+magic purposes). Success produces one dram of orichalcum.
+With a failure, the magician must make a Body + Magic 
+(3) Test to resist the detrimental effects of radical lead vapors. 
+Failing this test means the character suffers the occasional 
+effects of disorientation (p. 409, SR5) from hallucinations. 
+Each net deficit results in eight hours of hallucinations. This 
+disorientation isn’t continuous, but it occurs during stressful or 
+long events in that time period; exactly how this madness plays 
+out is up to the gamemaster. Every subsequent failure to create 
+orichalcum permanently adds an additional eight hours to the 
+next orichalcum-creation failure. This represents the slow spiral 
+into alchemical madness.
+210    TURNING LEAD INTO NUYEN >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 212 =====
+sults in one dram of refined reagents, and the raw re-
+agents’ magic is used up. Failure to meet the threshold 
+means that some of the reagents’ magic escaped. The 
+failure difference to the threshold is how many raw re-
+agents were consumed and have to be replaced when 
+trying again. A critical glitch in this test means that all 
+the raw reagents were wasted and the magician needs a 
+new batch to start over.
+Refined reagents can be distilled into radical reagents 
+by using the same method: every ten full drams of re-
+fined reagents distill into one dram of radical reagents.
+TALISMONGER SHOP  
+(ALL SALES FINAL!)
+Besides the usual reagents and foci, all sorts of products 
+can be created by a magician skilled in enchanting. While 
+all these products can be used by any magician, those 
+produced with the Artificing skill must be attuned before 
+they can be functional. This is an Intuition + Magic [Astral] 
+(5, 1 hour) Extended Test. An attuned item is considered 
+a sympathetic link to the magician when used in ritual 
+magic (p. 121). The base Potency of purchased items is 6.
+AQUA FICTUS
+A fool’s gold solution that can be used to make false re-
+agents or make an object such as an alchemical prepa-
+ration or a ritual circle appear to be magical. Aqua fictus 
+looks like a swirling metallic solution that emits occa-
+sional flashes of light. Any item coated with aqua fictus 
+appears to glow with a concentrated-mana aura like that 
+of reagents. This trick is difficult to detect. A successful 
+Alchemy + Magic [Mental] (3) Test lets a magician no-
+tice the false magic coating on a mundane object. Sales 
+of such items are hit or miss because of the variety of 
+reagents required, and the coating fades entirely after 
+twelve hours. This solution is used in the creation of fake 
+magical items, such as a paper lotus (p. 215).
+AQUA FORTIS
+This substance detects traces of orichalcum and other 
+true elements. An eight-ounce spray bottle can cover 
+one square meter. Any traces of orichalcum left be-
+hind, such as from spilled aqua regia, glow gold. Other 
+Awakened elements glow violet. Aqua fortis allows the 
+user to Observe in Detail (p. 165, SR5) to see if orichal-
+cum or other Awakened elements are present. The 
+gamemaster determines the threshold of the test.
+AQUA REGIA
+This solution can dissolve orichalcum without dam-
+aging the metal’s magical properties. This makes the 
+material very easy to transport discreetly. Eight ounces 
+of aqua regia can dissolve 1 dram of orichalcum. Aqua 
+regia is a corrosive acid (p. 1 70, SR5) capable of dis-
+solving any metal. The base Damage Value is 14P with 
+an AP of –4.
+To extract orichalcum once it has been dissolved in 
+aqua regia, the magician must subject the solution to 
+near-freezing temperatures. This breaks down the for -
+mula and neutralizes the alchemical properties. Once 
+the neutralization begins, the orichalcum begins to pre-
+cipitate. The aqua regia then vaporizes into yellowish 
+green smoke and dissipates.
+AQUA VITAE
+More of an alchemist’s joke, aqua vitae is an alcoholic dis-
+tillation created through alchemical means. Since soy is 
+the prevalent food staple in the Sixth World, alchemists 
+have worked out ways to distill liquor from just about any-
+thing (which gives “hair of the dog” a whole new mean-
+>> STREET GRIMOIRE  <<
+MISPLACED MAGIC ITEMS
+There are days when you’ll find yourself drunk at a bar 
+and your misplaced wand ends up being used by the brew 
+master as a fruit skewer in some lady’s cocktail. So how does 
+that affect practicing magic with that wand? Besides the odd 
+citrus smell, there is a chance that the ambient mana levels 
+caused discord in the item, which forces the magician to re-
+attune the item in order to use it again. He does not, however, 
+need to re-spend Karma. In general, if the attuned item is not 
+in the magician’s possession or at a location where he has an 
+active lodge or circle, the gamemaster should make a daily 
+test of Background Count x 2 (3) (for more information on 
+background counts, see p. 30). If successful, the item is no 
+longer attuned to the magician.
+Adept-attuned items (p. 124) and foci may also feel discord 
+if lost or left behind, and such items will lose their attunement 
+bonuses until they are re-attuned. Adepts re-attune items the 
+same way magicians do.
+MAGICIANS’ CURRENCY
+While nuyen is always accepted, such transactions 
+are easy to track, and some unlicensed or unregistered 
+magicians prefer an alternative currency that is accepted by 
+all practitioners of magic. To fill this need, small vials of aqua 
+regia containing a single dram of orichalcum are often used in 
+bartering for magical goods. Half vials are rare but acceptable 
+for smaller exchanges. While orichalcum cannot be used as 
+a reagent in this state, it can be used by anyone with magic 
+talent once it has precipitated from the solution.
+<< TURNING LEAD INTO NUYEN    211
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 213 =====
+ing). Such brews are more potent than standard alcohol. 
+Aqua vitae has an Addiction Rating of 4 (p. 414, SR5)
+ASTRAL POWDER
+Astral powder, also known as fairy dust, is attracted to 
+sustained magic like static cling. Astral powder was de-
+veloped as an alternative to using FAB (fluorescing astral 
+bacteria) to detect astral entities, since some consider 
+FAB an environmental hazard regardless of the genetic 
+variant. Astral powder clings to spirits, astrally projecting 
+beings, wards, and sustained or quickened spells. This 
+allows non-Awakened characters to use an Observe in 
+Detail action (p. 165, SR5) on such things, though the 
+observer will not know exactly what the object is. For 
+example, a person targeted with an Invisibility spell 
+would look no different under astral powder than an as-
+trally projecting magician would. The dispersal device 
+is a paper sphere preparation, which is learned as part 
+of astral powder’s formula. This sphere detonates after 
+being thrown, and the astral powder contained within 
+disperses a cloud with a three-meter radius.
+Since astral powder is physical, it cannot move 
+through other physical objects. If an astral spirit coated 
+in astral powder goes through a wall, the powder stops 
+at the wall. If a sustained spell is dropped, the powder 
+also drops to the floor. Astral powder doesn’t glow like 
+FAB, so visibility modifiers apply. Other conditions, such 
+as rain, wash off the astral powder after a few minutes. 
+Requires Psychometry (see p. 144).
+FETISH
+An alchemist can create a magical device that reduces 
+Drain when cast with a spell suited to fetishes (p. 212). 
+Such spells have to be learned specifically with the fe-
+tish, meaning that a character would have to learn a spell 
+twice if he wants to cast it both with and without a fetish. 
+An alchemist needs 1 dram of radical reagents to make 
+the fetish functional for magical use. A magician casting a 
+fetish spell either through Spellcasting or Ritual Spellcast-
+ing can reduce the Drain Value by 2 (to a minimum of 2).
+GOVI
+In the vodou traditions, govi are specially prepared clay 
+pots to hold work loa (watcher spirits). The houngan 
+shapes clay into a pot, etches it with images of their 
+mait-tete, and paints it. Since 2057, govi have been 
+created from glass bottles or other modern containers 
+properly designed with vevers (symbolic images of the 
+loa). Other traditions have taken up creating their own 
+versions of govi to contain watchers. These brooches 
+and talismans are marked with spiritual symbols of the 
+magician’s tradition and incorporate a small compart-
+ment to contain the watcher.
+A govi is created like other preparations, with the 
+govi’s Force determining the Force of the watcher it 
+can contain. To determine Drain for the preparation, 
+roll (Force of watcher x 2) test; the hits are Drain, plus 
+any modifications for the trigger (p. 305, SR5). Roll 
+separately to resist Drain for the Watcher Ritual Spell-
+casting. Potency reduces by 1 point of Force per week, 
+instead of the customary 1 per hour. The magician can 
+offer (Potency x 25) drams of reagents after creation 
+to prevent the govi’s Potency from reducing for half a 
+year. This offering can be done every six months. Af-
+ter creation, a watcher is created specifically for that 
+govi. Only one spirit can be connected to a govi at a 
+time. In the case of a watcher, the govi keeps the enti-
+ty suspended within it, allowing the magician to break 
+>> STREET GRIMOIRE  <<
+PROFESSION:  
+BREW MASTER WITCH/WARLOCK
+With trids propagating the myths of love potions and good 
+luck charms, alchemists are constantly approached to provide 
+such items to mundanes. Unfortunately, magic doesn’t work 
+exactly that way. The positive that grew from this myth is the 
+alchemists’ Guild of Brew Masters. A brew master witch or 
+warlock learns how to use alchemy to create his or her own 
+alcoholic beverages and how to be a bartender, serving mixed 
+drinks akin to mythical potions.
+Several upscale bars hire brew master witches or warlocks 
+to provide harmless entertainment with contact-triggered 
+magical drinks. Love Potion Number Nine and Potions of Healing 
+or Wishes are names for mixed drinks that the witch or warlock 
+makes for the average Joe in the bar.
+Guild members also learn how to brew more exotic aqua 
+vitae. These brews have different magical properties than normal 
+formulas. Such brews include Tír Alamestra, Japanese Toso, and 
+Mediterranean Styx. These may not bring good luck, but to high-
+paying clientele, the end result is worth the price.
+FLUORESCING ASTRAL BACTERIA
+Science has had some success in cultivating mana-sensitive 
+bacteria strains as part of astral security. Three strains exist: 
+FAB I, FAB II, and FAB III. The first strain dies when an astral form 
+or magical force such as a spell passes through it. In death the 
+bacteria release a chemical that can be seen with UV light. The 
+second strain is dual-natured, making it difficult for astral forms 
+to pass through it, and the displacement can be seen physically. 
+The third strain was a mutation that actively seeks out and feeds 
+on astral forms and can be lethal to dual-natured creatures.
+212    TURNING LEAD INTO NUYEN >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 214 =====
+up the watcher’s allotted time. It also allows for quick 
+use of a watcher without having to perform the ritual. 
+Releasing a watcher from a govi is a Simple Action.
+If a govi is destroyed, the watcher associated with it 
+is also destroyed, whether it was residing in the govi or 
+not. Govi can be found, but the watcher within can only 
+be commanded by the magician who created it. A magi-
+cian can attune a found govi, but the watcher associated 
+with it is dispelled. Requires Invocation (see p. 147).
+HAND OF GLORY 
+The Hand of Glory is an alchemical formula found in the 
+banned witchcraft book Compendium Maleficarum. This 
+preparation’s lynchpin is the hand of a talented, de-
+ceased individual (the formula romanticizes this as the 
+hand of a hanged criminal, but any hand will do). This 
+unique alchemical preparation allows the magician to 
+use the remembered talent of the individual when per -
+forming a task. In game terms, the Hand of Glory is tied 
+to one physical Active skill known by the previous own-
+er. The skill is limited by the Force of the ritual instead of 
+any other limit, including Accuracy. Reagents used must 
+be refined quality or better. When triggered, the magi-
+cian can use the skill for a number of minutes equal to 
+the Potency. The Hand of Glory, once created, is bonded 
+to the magician and cannot be unbound until the Hand is 
+destroyed or used. It also doesn’t lose Potency.
+The Hand of Glory can be reused without re-prepar -
+ing the item, but this requires the magician’s blood (and 
+thus leads down the path to blood magic). Normally an 
+object used in an alchemical preparation can be re-pre-
+pared if it hasn’t been destroyed, but the Hand’s talent 
+fades twenty-four hours after being used. In order for 
+the Hand to remember its talent, the magician must take 
+Physical damage with a DV equal to the preparation’s 
+Force, then transfer his blood to the Hand to recharge it. 
+This wound cannot be healed by magic.
+The Compendium Maleficarum warns of trying to own 
+more than one Hand of Glory, saying that the Hands 
+may seek vengeance on their creator if not used—idle 
+hands being the devils tools and all that. Requires Nec-
+romancy (see p. 143).
+>> STREET GRIMOIRE  <<
+<< TURNING LEAD INTO NUYEN    213
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 215 =====
+INANIMATE VESSEL 
+PREPARATION
+Preparing a vessel requires a number of radical re-
+agents equal to five times the Force of the spirit that 
+will possess or inhabit the vessel. Preparing a vessel is 
+done in the same way as a standard preparation, with a 
+minimum Force equal to the Force of the spirit that will 
+enter the vessel. This creation is challenging to craft, as 
+the magician’s Alchemy test must exceed the vessel’s 
+Object Resistance (p. 295, SR5) or Force, whichever 
+is greater. Time to complete is ten days minus the net 
+hits from the Alchemy test (minimum of 1 day). Failure 
+means that a number of reagents equal to the hits from 
+the Opposed Test are lost and the magician has to start 
+again. Requires Channeling (see p. 148).
+MANA-SENSITIVE FILM PLATE
+Modern magicians have updated the ancient process 
+of daguerreotype photography, exchanging the essen-
+tial chemical actions with an alchemical process. The 
+layers of chemicals used are mana-sensitive, derived 
+from various Awakened plants and animals, allowing 
+auras, spirits, and even background count to be record-
+ed on the plate. Mana-sensitive film plates are used 
+with mortis optigrams and quicksilver cameras.
+MORTIS OPTIGRAM
+According to an old, oft-ignored theory, in death the 
+eyes record the last moments of life. Necromancers 
+have found good reason to believe this theory, and 
+they can photograph such images on astral film by us-
+ing a mortis optigram and the eyes of the deceased. 
+The eyes are positioned to face the plate in the cam-
+era. As the magician takes the picture, the last thing the 
+eyes saw is captured on the mana-sensitive film plate. 
+The process takes twenty minutes to complete.
+The practice of using the mortis optigram varies 
+greatly, as does the use of such an item as legal evi-
+dence. In a criminal case, Tír Tairngire treats a mortis 
+optigram no differently than any physical evidence. 
+The UCAS and CAS permits law-enforcement forensic 
+thaumaturgists to create mortis optigrams as part of an 
+investigation, but the image is considered a valid lead 
+rather than evidence. NAN governments don’t allow 
+the creation of mortis optigrams in any instance due to 
+claims that the process is an aberrant ritual. Amazonia is 
+mixed, depending on the severity of the crime.
+The mortis optigram is not always a reliable source 
+of information, as the eyes may be closed at the time of 
+death. Other issues include drugs or cybernetics. Note 
+that cybereye replacements cannot be used in a mortis 
+optigram. The resulting image is almost realistic and oddly 
+three dimensional on the mana-sensitive plate. If the de-
+ceased suffered from hallucinations, even ones induced by 
+drugs, those hallucinations can appear on the plate. If the 
+deceased had the ability to astrally perceive, astral space 
+may also appear on the plate (see Quicksilver Camera, p. 
+215). Astral photos from a mortis optigram are not pretty 
+since they are tainted with echoes of pain and emotional 
+turmoil. Requires Necromancy (see p. 143).
+MYSTIC RESTRAINTS  
+(CUFFS/MASK/JACKET)
+For confining petty Awakened criminals, law-enforce-
+ment officers use cuffs and hoods that distract the in-
+carcerated with lights and sounds or use electric shock 
+to keep twitchy fingers in line. For the hardened crimi-
+nal magicians, however, police use individually tailored 
+mystic restraints. The shape of these restraints acts 
+like acupuncture that restricts the magician’s access to 
+magic. Mystic restraints (cuffs, masks, or jackets) have 
+to be crafted with the Artificing skill, using the same 
+Force requirements as crafting a symbolic link. Perma-
+nently creating the restraint requires 1 Karma.
+Net hits from the Artificing Test determine the Force 
+of the restraint, and the Force of the restraint reduces the 
+Magic rating of the Awakened individual (including ad-
+epts). Adepts restrained this way temporarily lose Pow-
+er Points associated with Magic loss; they may choose 
+which powers are affected. There are many pressure 
+points to use, but each restraint is limited to how much 
+Magic it can it restrain. While restraints are made for a 
+specific individual, an existing restraint can be attuned to 
+another individual, but it will be half as effective. This re-
+quires an Intuition + Magic (5, 1 hour) Extended Test and 
+requires either assensing the subject or having a material 
+link of the subject to be used in attuning the restraints.
+Mystic cuffs are made of steel or titanium and can 
+have a maximum Force of 8; they are ineffective if the 
+subject has one or more cyberarms. Masks are made of 
+steel and leather or ceramic and have a maximum Force 
+of 12. Similar to a straitjacket, a mystic jacket can have 
+embedded brass studs on the inside and woven symbols 
+on the outside. A mystic jacket can have a Force up to 18.
+If the subject has the Flux metamagic (p. 150), he can 
+reduce the effectiveness of the mystic restraints by his 
+initiate grade while his aura is in flux.
+>> STREET GRIMOIRE  <<
+DEAD VESSELS AND SPIRITS
+While a corpse can be prepared for inhabitation, most 
+spirits don’t like the concept of being confined to such a thing. 
+Necromancers say “the bones rub them the wrong way.” Some 
+mages find that the spirit inhabiting a corpse will do or say odd 
+things as they channel some of the memories of the previous 
+owner. Such is the risk of creating zombies or corps cadavres.
+214    TURNING LEAD INTO NUYEN >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 216 =====
+PAPER LOTUS
+Not all talismongers are nice or play fair. The ability to 
+falsify magical material for financial gain is a strong mo-
+tivator. Besides the few pre-Awakening artifacts that 
+have shown up, “paper lotus” is a general term for using 
+the Artificing skill (p. 306, SR5) to create a counterfeit 
+magical item. These magical items are indistinguishable 
+from the real thing unless an observer passes a Percep-
+tion Test (see below), but they cannot be used for any 
+magical purpose. These magical items are considered to 
+have the Counterfeit quality (p. 197, Run & Gun). If the 
+item can be bonded, the bonding will fail when attempt-
+ing to spend Karma, and the item will be exposed as 
+counterfeit. Fake reagents don’t do anything when ex-
+pended. In both cases, the illusion eventually expires, so 
+any magician can see that the object is fake.
+When the Artificing ritual is complete, the number of 
+net hits becomes the threshold for an observer deter -
+mining if the item is a fake through a Perception Test. The 
+Force of the Artificing ritual determines how many days 
+the item appears to be magical. Paper lotus creators run 
+the risk of someone detecting their items as a fake and 
+then using them in ritual magic as retribution against the 
+artificer. These items are sympathetic links while the illu-
+sion lasts. Requires Masking (see p. 149).
+QUICKSILVER CAMERA
+The quicksilver camera is a handheld camera with a 
+built-in collapsible tripod. It can hold five mana-sensitive 
+film plates, with only one being exposed at a time. This 
+camera can take an astral photograph in two minutes.
+Early astral photography required several hours of 
+exposure, but six years ago, technology and thaumatur-
+gical research reduced the exposure time to only thirty 
+minutes per mana-sensitive plate. These plates allowed 
+anyone to take a picture of the astral world, and while 
+beautiful enough to have a gallery at the MoMA in New 
+York, they capture a very blurry view of astral space. As-
+tral space is very dynamic, so it cannot sit still for thirty 
+minutes. Also, the mana-sensitive plate could be over -
+exposed since mana isn’t tied to light exposure, and 
+whole sets of plates could be ruined if an astral entity 
+moved through the camera during exposure.
+To improve the process, alchemists altered the plates 
+so that the Awakened photographer acted as the plate’s 
+catalyst. To take a photo, the photographer removes the 
+cap to expose the plate to visible light and activates the 
+plate’s chemicals to record the astral world. Once acti-
+vated, the exposure process cannot be stopped, and it 
+completes in two minutes. Moving the camera before 
+the full exposure time ruins the photograph (astrally and 
+visibly). One the exposure time has elapsed, the astral 
+photo automatically develops with a secondary alchem-
+ical process.
+FAKE MAGIC ITEMS
+ITEM
+MINIMUM FORCE OF
+ARTIFICING RITUAL
+UNITS OF AQUA 
+FICTUS REQUIRED
+Reagent (10 drams) 2 1
+Fetish 4 1
+Refined Reagent (10 drams) 4 2
+Quicksilver Camera 5 1
+Radical Reagent (10 drams) 5 4
+Alchemical Preparation 6 1/2 Force
+Focus 8 1/2 Force
+Artifact * *
+*Gamemaster should decide the Force of the ritual required, as artifacts are unique. In many 
+cases, additional requirements/reagents are needed in falsifying an artifact.
+>> STREET GRIMOIRE  <<
+MAGECUFF AND MAGEMASK
+Magecuffs are crafted with glomoss (a form of 
+bioluminescent plant that glows in response to magic or 
+astral entities) and a light-triggered shock device. If the cuffs 
+detect spellcasting or astral projection, the cuffs subject the 
+incarcerated individual to a 15S electrical attack (p.170, SR5).
+A magemask is a plastic hood and gag that cuts off 
+the incarcerated individual’s line of sight and produces a 
+combination of light and sounds that disorient the magician 
+and deters astral projection. Attempting astral projection while 
+wearing a magemask requires a Willpower + Intuition (4) Test.
+<< TURNING LEAD INTO NUYEN    215
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 217 =====
+Physically the image is in color as seen with a normal 
+camera but with iridescent marks overlaying the image. 
+These swirls and spots represent the alchemical reac-
+tion to recording the astral plane, not what mundanes 
+believe are auras and spirits captured on film. Viewing 
+the picture astrally reveals another image: a snapshot of 
+the flow of astral energies at that point in time. This astral 
+image captures astral signatures, background count lev-
+els, and the auras of wards, sustained spells, Awakened 
+individuals, spirits, critters, preparations, and bonded 
+foci. The photograph can be replicated through alchem-
+ical means. The auras in the photo can only be read and 
+recognized through astral perception. 
+Characters may attempt to use Assensing to ana-
+lyze any astral being, aura, or signature captured in an 
+original astral photo; the threshold for an Assensing 
+Test is 2 more than normal, and the limit for the test is 
+fixed at 4 due to the camera’s limitations. Astral entities 
+or objects that pass through the area while the photo 
+is being taken show up as ghostly images, but no in-
+formation can be gleaned from them. Copies of astral 
+photos also lose a level of detail, making the fixed limit 
+for the Assensing Test 3.
+Since astral photographs capture auras, the plate 
+can serve as a sympathetic link (p. 145) to any entity or 
+object that remained in the shot for the duration of the 
+exposure. Duplications of the original photograph can 
+be used as a symbolic link (p. 216), with the photograph 
+meeting the “Creator has met the target” condition. An 
+original astral photograph’s aura can be wiped through 
+smudging (p. 136). The wiped photograph is treated the 
+same as a copy, though the photograph is considered to 
+have a Force 12 psychic imprint.
+SHOFAR
+The shofar, which is a more impressive name than “the 
+horn that scares spirits,” derives from the Judean tradi-
+tion of exorcism. The shofar’s sound causes spirits to be 
+shaken and leave the area. When using it, make an Op-
+posed Test pitting the spirit’s Force + Willpower against 
+the shofar’s Force x 2. Materialized or manifested spirits 
+that fail the Opposed Test stop what they are doing and 
+retreat back to astral space, wasting the service they 
+are in process of fulfilling. Materialized or manifested 
+free spirits attempt to leave the area as if affected by 
+the Fear power for a number of Combat Turns equal to 
+the shofar’s Potency. Spirits inhabiting a living or non-
+living vessel are only distracted by the noise and suffer  
+a –2 dice penalty to all actions for that Combat Turn. 
+The shofar effect is instantaneous, but after activating 
+it, the item disintegrates. The shofar has a longer shelf 
+life than other compounds, as its Potency reduces by 1 
+per week. Requires Exorcism (see p. 148).
+SYMBOLIC LINK
+From effigies to drawings, a symbolic link is a represen-
+tation of a spell’s target. The most notorious of sym-
+bolic links are voodoo dolls, which a magician can use 
+to inflict curses upon the individual the doll represents. 
+The magician uses the Artificing skill to create a sym-
+bolic link, but the required Force depends on how well 
+the magician knows the subject. The symbolic link is 
+viable for a number of days equal to the net hits in the 
+Artificing Test. The downside to symbolic links is that 
+the object contains the creator’s astral signature while 
+the link remains viable. This means that a voodoo doll 
+can be used as a material link against the creator. Re -
+quires Psychometry (see p. 144).
+SYMBOLIC LINK CREATION
+CONDITION REQUIRED FORCE
+Creator knows the target intimately 
+or has a material link 2
+Creator has assensed the target or 
+has an original astral photograph 4
+Creator has a copy of an astral 
+photograph of the subject 8
+Creator has met the target 12
+Creator is personally unfamiliar with 
+the target 16
+>> STREET GRIMOIRE  <<
+216    TURNING LEAD INTO NUYEN >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 218 =====
+MAGIC ITEM PRICE INDEX
+ITEM SKILL THRESHOLD BASE TIME MATERIAL 
+COST AVAILABILITY PURCHASE 
+COST
+AgHexHex — — — — 8 Force x 500¥
+Aqua fictus Alchemy 3 10 hours 850¥ 8 1,000¥
+Aqua fortis Alchemy 3 10 hours 43¥ 4 50¥
+Aqua regia Alchemy 3 10 hours 85¥ 5 100¥
+Aqua vitae Alchemy 3 4 hours 13¥ 1 15¥
+Astral powder Alchemy 4 2 day 70¥ 4 120¥
+BDNB — — — — 8 Force x 500¥
+FAB I — — — — 10 50¥ per cubic 
+meter
+FAB II — — — — 16R Force x 50¥ per 
+cubic meter
+FAB III — — — — 20F Force x 25,000¥ 
+per cubic meter
+Fetish Artificing 2 1 day 1,700¥ 4 2,000¥
+Govi — — — — Force Force x 50¥
+Hand of Glory — — — — (Force x Force)
+R Force x 1,500¥
+Lot’s Curse — — — — 14F Force x 1,000¥
+Magecuff — — — — 5 1,000¥
+Magemask — — — — 2R 200¥
+Mana-sensitive 
+film plate Alchemy 4 3 days 21¥ 4 25¥
+Mortis optigram Artificing 4 1 week 2,550¥ 6 3,000¥
+Mystic cuff — — — — (Force)R Force x 200¥
+Mystic jacket — — — — (Force)R Force x 500¥
+Mystic mask — — — — (Force)R Force x 400¥
+Quicksilver 
+camera Artificing 4 1 week 2,125¥ 4 2,500¥
+Sage — — — — (Force x 6)R Force x 800¥
+Shofar — — — — Force Force x 800¥
+Spirit strength — — — — (Force x 6)R Force x 3,000¥
+Symbolic link Artificing — 1 day — — —
+Witch’s moss — — — — (Force x 6)R Force x 1,600¥
+>> STREET GRIMOIRE  <<
+<< TURNING LEAD INTO NUYEN    217
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 219 =====
+ADVANCED 
+ALCHEMY
+Initiation into the advanced alchemy metamagic (p. 
+152) allows the magician to create more specific trig-
+gers, including a delayed timer and specific target con-
+tact, to be added. It also allows the magician to create 
+magical compounds with unique properties.
+MAGICAL COMPOUNDS
+Some preparations are very unique in design, requir -
+ing specific reagents in its creation. While they can be 
+similar to other alchemical preparations, these magical 
+compounds require specific refined reagents to create 
+and, if the magician wishes, to improve Potency. For ex-
+ample, a magician creating the sage compound must 
+have at least 1 refined dram of lichen reagent. If he 
+prepares the sage at Force 4 but wants a Potency of 8, 
+he must add an additional 8 drams of refined reagents. 
+Magicians who know the formula for these prepara-
+tions are leery of giving up such secrets, so starting 
+characters are not allowed to learn these formulas. 
+Magical compounds still use alchemical preparation 
+rules in their creation (p. 304, SR5). 
+While inactive, a magical compound can be dis-
+pelled like any other alchemical preparation. When ac-
+tive, these compounds are trickier to dispel. The magi-
+cian must be in contact with the compound and can use 
+the Disenchant skill to resist or reverse the compound’s 
+effect. The compound can resist with twice its Force. 
+Each net hit against the magical compound reduces 
+its Force. If the Force is reduced to 0, the compound 
+no longer functions, and its aftereffects begin. For oth-
+er compounds, the secondary effects still apply for the 
+compound’s complete duration until healing is applied. 
+Magical compounds have an active duration that lasts 
+(Potency x 10) minutes. Inactive magic compounds de-
+grade slower, reducing Potency by 1 every day.
+EMPOWERED MAGICAL 
+COMPOUNDS
+These compounds give the subject a spell-like ability 
+or critter power, which the magician can turn off with a 
+Simple Action. The power lasts for either (Potency x 10) 
+minutes or until it has been dispelled. When the subject 
+uses an ability, the test uses the preparation’s Potency 
+in place of Spellcasting and the preparation’s Force in 
+place of Magic, with the usual Force for the limit. 
+Every time the spell is activated after the initial ac-
+tivation, the subject feels strain from the spell’s Drain 
+Value based on the Force of the preparation. For critter 
+powers, Drain equals the preparation’s Force. The magi-
+cian resists the Drain Value with Willpower alone or per 
+>> STREET GRIMOIRE  <<
+FORBIDDEN KNOWLEDGE
+There are several magical books that law enforcement 
+tries to keep out of public hands. These are similar to guides 
+on how to get away with murder or how to make a dirty bomb, 
+but for questionable magical activity. Legal actions vary for 
+those caught with one of these tomes, but consequences 
+can involve the magician’s license to practice magic being 
+revoked or being added to a security watch list. They aren’t 
+exactly instructional guides on how to do blood magic. 
+Instead they’re like a gateway drug that gives the magician a 
+little taste of the dark stuff.
+COMPENDIUM MALEFICARUM
+The Compendium Maleficarum is a handbook on 
+necromancy and other dark rituals. The Maleficarum was 
+originally published in Italy in 1608, and a magician named 
+Lopiccolo partially revised the tome in 2041, applying modern 
+black-magic terminology and techniques in his translation. 
+Lopiccolo did not complete his revision, unfortunately; he 
+died horrifically while attempting to revise the ritual on page 
+251 of the tome.
+DE PRAESTIGIIS DAEMONIUM
+This is a handbook on witchcraft—the bad kind. Originally 
+published in 1563, it was first translated from Latin to English 
+in 1928, and no one revised it for the Sixth World until 2028. 
+De Praestigiis Daemonium discusses curses, potions, and 
+avoiding being drowned or burned at the stake.
+MORTUUS MALUM
+First bound in the twelfth century, Mortuus Malum  
+collects Roman accounts from Gallic, Celtic, and other 
+tribal rituals as the Roman legions conquered Europe from 
+60–33 BC. These rituals didn’t involve your garden-variety 
+free spirits: they were meant for calling down demons to 
+disembowel the Roman army. Demons didn’t actually attack 
+the Romans during their conquest of Europe; however, like 
+many mystical items, scholars believe there’s a grain of truth 
+to Mortuus Malum’s rituals.
+99 BOTTLED DEMONS ON THE WALL
+Published circa 2058, this modern neo-anarchist book 
+covers using alchemy and ritual sorcery for terrorist activities. 
+A similar book is The Neo-Anarchist’s Guide to Street Magic 
+from 2065, which offers tips and tricks for using sorcery and 
+conjuring for crime and profit.
+218    TURNING LEAD INTO NUYEN >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 220 =====
+the magician’s tradition. If the subject is sustaining the 
+spell or the power is considered always on, he suffers a 
+–2 penalty to all actions. At the end of the spell’s dura-
+tion or when it is dispelled, the compound’s aftereffects 
+take effect. This aftereffect lasts for an equivalent orig-
+inal duration (not the duration before it was dispelled) 
+and cannot be treated even by magic.
+Other magical compounds have a negative effect in-
+stead of benefitting the user. These magical compounds 
+either target a subject with a spell, or the compound 
+reduces an Awakened creature’s ability by the com-
+pound’s Potency. While this negative effect is active, the 
+secondary effect is untreatable.
+Magical compounds unfortunately don’t function 
+well in combination with augmentations. When used on 
+such a subject, reduce both the compound’s Force and 
+Potency by the amount of Essence the subject has lost 
+to augmentations.
+AGHEXHEX
+AgHexHex, more formally known as silver hexamag-
+nohexaphosphate, is a magical alchemical compound 
+found to have a detrimental effect against Awakened 
+creatures capable of transforming into vapor particles 
+(Mist Form), keeping them corporeal.
+Trigger: Contact
+Effect: Once in contact, if the Potency exceeds the 
+target’s Magic attribute, the Mist Form power is negated 
+completely for the duration of the compound. If the tar-
+get is using Mist Form when sprayed by AgHexHex, the 
+target forcibly reverts to solid form for that Combat Turn 
+regardless of Potency, causing (Force + 4) Stun damage.
+Aftereffect: Nauseated side effect
+Required Reagent: Refined silver
+>> STREET GRIMOIRE  <<
+TRIGGERS FOR PREPARATIONS AND ANCHORED SPELLS
+COMMAND (P . 305, SR5)
+Anchored Version: A magician can trigger this spell with 
+a Simple Action, regardless of range or line of sight. If the 
+preparation is out of sight, then the magician cannot chose the 
+target of the activated spell.
+Advanced Command (Delay Timer): When the magician sets 
+up a Command trigger, he can choose to delay its activation for up 
+to 60 seconds.  The length of the time delay must be chosen when 
+the preparation is created. This trigger adds 2 to the Drain Value 
+of the preparation’s creation.
+CONTACT (P . 305, SR5)
+Anchored Version: This trigger can be activated either 
+when a living aura, a previously assensed aura, or any aura 
+not belonging to the spellcaster comes into direct physical or 
+astral contact with the anchor. Note that without the lynchpin, 
+the anchor is invisible on the physical plane and takes up space 
+equal to the caster’s size.
+Advanced Contact (Target-Specific): Creating a preparation 
+with this contact trigger requires a material link to the subject. After 
+successful creation, the preparation only activates on contact with 
+the person associated with the material link. This trigger adds 1 to 
+the Drain Value of the preparation’s creation. Such a preparation 
+can be used as a sympathetic link to both the preparer and the 
+subject it was created for. This trigger is for preparations only.
+Advanced Contact (Gender/Metatype-Specific): This contact 
+trigger allows the preparation to only trigger when touched by 
+someone of either a specific gender (which includes a full range 
+of genders rather than the traditional binary two; people should be 
+treated as the gender with which they identify) or metatype. This 
+trigger adds +3 to the Drain Value of the preparation’s creation.
+TIMED (P . 305, SR5)
+Anchored Version: A timed trigger can range from 1 Combat 
+Turn up to (Force) months before the spell activates.
+BACKGROUND COUNT (ANCHORED SPELLS ONLY)
+This trigger activates if the background count of the area is 
+modified in any way: raised, lowered, or undergoes an aspected 
+change (see Background Count, p. 30). At the gamemaster’s 
+discretion, any magic use in the area may create sufficient minor, 
+temporary background fluctuations to trigger the construct. This 
+trigger adds 1 to the Drain Value of the anchored spell.
+DETECTION SPELL (ANCHORED SPELLS ONLY)
+If a Detection spell is part of the anchor, the triggered spell 
+can only target someone or something in direct physical or astral 
+contact with it. In addition, if a Detection spell serves as the 
+trigger, this spell can aim the anchored spell at any valid target it 
+detects within range. This second spell must be quickened (p. 326, 
+SR5) and linked to the anchor. This trigger adds +1 to the Drain 
+Value of the anchored spell.
+<< TURNING LEAD INTO NUYEN    219
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 221 =====
+BDNB
+Also known as “Bad Dog! No Biscuit!,” this compound 
+is commonly used for hunting Awakened game. 
+Trigger: Contact 
+Effect: Reduce the subject’s Magic attribute by the 
+Force of the compound when the subject uses the Par -
+alyzing Howl power (p. 399, SR5). If the Force exceeds 
+the target’s Magic attribute, the power is negated com-
+pletely for the duration of the compound.
+Aftereffect: Unable to Speak side effect
+Required Reagent: Refined hell hound’s tongue 
+(Cynoglossum magiofficinale)
+LOT’S CURSE
+Lot’s Curse is a poison made from the Awakened Go-
+morrah tree, whose fruit causes calcification of flesh 
+and death when eaten.
+Trigger: Contact
+Effect: The target is subjected to a Petrify spell. Even 
+if the target resists the immediate petrification, the sec-
+ondary effect is still petrifying the target from the inside. 
+Upon the target’s death, the petrification becomes per -
+manent. If the victim is still alive at the end of the dura-
+tion, they return to normal.
+Aftereffect: Slow Death side effect
+Required Reagent: Refined Gomorrah apple
+SAGE
+Trigger: Contact 
+Effect:
+ The target is empowered with the Detect 
+Magic, Extended spell. 
+Aftereffect: Both eyes suffer the Blinded side effect
+Required Reagent: Refined Cladonia stellaris lichen 
+from the North American tundra
+SPIRIT STRENGTH
+Trigger: Contact 
+Effect:
+ The target is empowered with the Hardened 
+Mystic Armor power (p. 397, SR5). 
+Aftereffect: Reduce the target’s Physical limit to 1 
+for an equivalent duration.
+Required Reagent: Refined teonanácatl mushroom 
+from Aztlan
+WITCH’S MOSS
+Trigger: Contact
+Effect:
+ The target is empowered with the Paralyzing 
+Touch power (p. 400, SR5).
+Aftereffect: Both arms suffers the Broken Grip and 
+Weak Side side effects.
+Required Reagent: Refined barghest blood
+>> STREET GRIMOIRE  <<
+220    TURNING LEAD INTO NUYEN >>
+MAGICAL COMPOUND SIDE EFFECTS
+This is a list of side effects that can be applied to the 
+user/target of a magical compound. 
+BLINDED
+One eye: –4 all actions involving sight. Two eyes: –8 on all 
+actions, no vision-based Perception tests allowed.
+STUNNED
+Subtract 10 from Initiative score at the beginning of the 
+Combat Turn while the effect is active.
+DEAFENED
+One ear: –2 all actions involving hearing. Two ears: –4 on 
+all actions involving hearing, no hearing-based Perception 
+tests allowed.
+UNABLE TO SPEAK
+The target loses the ability to form understandable 
+speech. He can mutter, gesture, groan, and drool, but 
+everything they try to speech comes out as gibberish.
+BLEED OUT
+The target suffers 1P damage, unresisted, for every 
+action she performs that does not use the First Aid skill.
+ONE-ARMED BANDIT 
+The target’s arm is ineffective, and he is unable to perform 
+any actions with that limb.
+WEAK SIDE 
+The target suffers a –2 dice penalty on all melee Defense 
+Tests while the affected arm is ineffective.
+BROKEN GRIP
+The target is unable to maintain her grip on anything, 
+and she suffers a –1 dice pool penalty per injured arm for all 
+Subduing or Clinching attacks. Any item in her hand drops.
+FATIGUED 
+The target makes a Damage Resistance test using Body 
+against a DV of (Potency)S. This is a one-time side effect.
+WINDED 
+The target is unable to perform Sprint actions.
+NAUSEATED
+Make a Body + Willpower (4) Test. Each hit less than 
+the threshold causes the target to double over and begin 
+vomiting for one Combat Turn. A vomiting target suffers a –4 
+dice pool penalty to all actions.
+SLOW DEATH
+Physical Damage only; causes internal injury. Target 
+suffers unresisted 2P damage every 1 minute.
+SLOWED 
+The target’s movement, both Walk and Run rate, is halved.
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 222 =====
+>> STREET GRIMOIRE  <<
+<< TURNING LEAD INTO NUYEN    221
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 223 =====
+The charging piasma swung its massive claw at the 
+chest of its target—a troll runner called Hammer. Mov -
+ing faster than the Awakened bear, the cybered troll 
+shifted his body to the right, narrowly avoiding the vio-
+lent blow. With the silver-haired bear drawn into a vul-
+nerable position by its own inertia, the runner put all his 
+weight behind the swing of his axe, burying it into the 
+back of the enraged bear. The bear roared ferociously in 
+pain as blood splattered everything nearby, including 
+the troll. The piasma staggered backwards, and after a 
+second or two, aggressively charged again at its prey, 
+razor-sharp tusks lowered and ready to swing up and 
+into vulnerable flesh. 
+“Chummer, are you sure this is the only way to collect 
+this pelt? This seems a bit extreme to me,” gasped 
+Hammer as he scrambled to get out of the way of the 
+piasma’s massive maw as the bear snapped at him. 
+“Quite sure,” replied the calm voice of the human 
+onlooker, standing just inside the camp. “You’re no good 
+at using bows. And simply shooting the beast using a 
+gun would contaminate the pelt with gunpowder residue 
+and metallic residue. Enchanting with it after that would 
+simply be impossible for me. Same thing goes with 
+tranquilizers and other drugs. This animal must be killed 
+with a properly prepared melee weapon per United 
+Talismonger Association regulations, which in this case 
+is the axe you are wielding.”
+“How about magic?” the female elf called Silver 
+asked. “I could simply stun this bear out with a spell, and 
+make this a simple kill for him.” 
+“I’m sorry, my dear,” the talismonger replied. 
+“Your astral signature could also affect the pelt’s aura 
+negatively, potentially ruining the specimen for me. This 
+needs to be a clean kill. If you want to be paid, this is how 
+it needs to go down.”
+The piasma charged once more at the troll. This 
+time, the piasma connected with its claw, ripping into 
+Hammer’s left shoulder with its claw and slamming 
+the troll to the ground. Despite the obvious gash in his 
+arm and shoulder, the troll rolled away from the bear 
+towering over him on its hind legs and scrambled back 
+to his feet with blood trickling liberally down the left arm 
+of his body armor. 
+“And I’m sorry, there’s nowhere on that bear that I can 
+jack into. So I’m pretty much useless here,” chimed in the 
+team’s hacker, Megapulse. “Sorry, Hammer.” 
+“That’s all fine and good, but I also don’t want to see 
+my chummer get killed,” Silver replied, simply ignoring 
+their decker. After a few seconds, Silver asked, “Well, 
+what if I were to cast on him? Would an armor spell on 
+Hammer be out of the question?”
+The talismonger thought about it for a few seconds. 
+“No, I don’t see how that would screw things up.”
+Without waiting for further explanation or permission, 
+Silver cast her spell, enveloping the troll in a blue, 
+translucent energy field, just as the bear swatted the troll 
+again with its paw, this time connecting with the troll’s 
+center mass. The troll once again went skittering along 
+the forest floor, getting a mouthful of dirt in the process. 
+But this time, the claws did not penetrate the troll’s flesh.   
+“ARGH … THAT FUCKING HURT,” roared the troll, 
+grabbing at his ribs. It was likely at least a couple of them 
+were broken from the mighty blow. Rising once more to 
+his feet, Hammer swung furiously at the piasma. Swing 
+after swing the troll struck the silver bear, drawing greater 
+amounts of blood on the blade of the axe. Unrelenting, the 
+very pissed-off troll swung his axe at the bear again and 
+again until the bear fell before the Hammer’s feet, dead. 
+“There’s your fucking pelt,” growled the Hammer, 
+throwing down the talismonger’s axe in rage. Looking 
+at the female elf standing next to Mr. Johnson, Hammer 
+grimaced, “First Cheyenne and that wonderful job that 
+got both of our asses kicked, and now this! You certainly 
+have a way of picking the crappy jobs for us! Never again 
+will I go on one of these excursions where I get mauled! 
+Contrary to popular belief, trolls are not meant to pick 
+fights with Awakened bears!” The blood-stained troll 
+started to move past the onlookers, heading toward his 
+tent where he could patch up his shoulder and attend to 
+his ribs. Glaring down at his chummer, Hammer looked 
+down at his torn up shoulder and then back up to Silver. 
+“And by the way, elf, you owe me a new set of armor.”
+ 
+STREET GRIMOIRE
+THE LIFE OF A
+TALISMONGER
+222    THE LIFE OF A TALISMONGER >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 224 =====
+POSTED BY: LYRAN
+It is no exaggeration to say that talismongers are a 
+magic user’s best friend. Talismongers provide access 
+to reagents; reagents that runners would have to take 
+time away from their runs to hunt down and collect 
+themselves if talismongers were not available. Many 
+urban shadowrunners would lack the skills, experience, 
+and the proper gear to adequately undertake these 
+excursions into remote and uninhabited parts of the 
+world where some of the best reagents exist. In many 
+hostile environments, if you don’t know precisely what 
+you’re doing, your inexperience will get you killed. 
+Once the reagents have been gathered, suitable 
+telesma have been acquired. With their broad 
+knowledge of the arcane, talismongers undertake 
+the complicated enchanting process to combine all 
+these elements and turn them into powerful foci and 
+alchemical preparations of all varieties. These can be 
+invaluable to your typical shadowrunner at the street 
+level, particularly when a runner team is going up against 
+a potent magic-based threat such as a corporate wage 
+mage or a toxic shaman who may have their own foci 
+and other magical gear. In short, a quality talismonger 
+can turn any magic-using slot with a small amount of 
+talent into an elite, magic-using shadowrunner over 
+time. This is an asset that no magician or adept should 
+ever be without. Talismongers’ services can, and very 
+often do, keep a magic user alive, even when the rest 
+of the world may want him dead. 
+> Talismongers: the magic fixers of the world. Not only do 
+they enchant foci, but they run their own networks for 
+obtaining hard-to-get reagents, often times bartering and 
+leveraging favors for the items they need among each 
+other. Many times, these established networks will save 
+talismongers time and effort. Why go out and harvest the 
+reagents yourself, when another talismonger you know 
+in the network has extra reagents they can sell you, or 
+trade you for something you have that they need? Most 
+talismongers are also best friends with smugglers and 
+poachers, often to be able to bypass customs with some 
+of their less-than-legal acquisitions. And many times, 
+talismongers will act as Johnsons, hiring runners to help 
+them obtain the items that they can’t obtain on their own. 
+And also, they need runners to keep them safe from other 
+talismongers out in the wild that might see them as easy 
+prey for robbery.   
+> Stone
+> So, how does that make talismongers any different from 
+talisleggers?
+> Lone Rider
+> Legitimate talismongers, although we will bend the rules 
+on occasion to acquire some illegal stuff for their clients, 
+will, as a general rule, follow the vast majority of legal 
+restrictions for the materials they collect imposed on 
+them by the various governments. This means carrying 
+legal-ish permits and licenses for gathering reagents. 
+Talismongers also (more or less) adhere typically to 
+the talismongering guidelines as laid out by the United 
+Talismongers Association. So if the UTA says, “Hey, this 
+is dangerous and you should not do it, ” a talismonger 
+frequently follows that practice. Or if the message is “Hey, 
+this animal is near extinction, don’t hunt it, ” a reputable 
+talismonger heeds that advisory, or at the very least acts 
+responsibly by not hunting and killing pregnant female 
+specimens of the paranormal critter. A talislegger basically 
+says “fuck you” to the authorities and will do anything and 
+everything they want for a profit. Also, talismongers tend 
+to be more independent, or if they work for someone, 
+they work for a legitimate organization such as an UTA-
+affiliated magic group. Talisleggers, on the other hand, 
+tend to work for organized crime. 
+> Lyran
+> Like you and the Koshari?
+> Ma’fan
+> That’s different. They’re a client, not my employer. I have 
+also been contracted to do jobs for the Yakuza and the 
+Triads. I am independent, and I follow my own path.  
+> Lyran
+> You can add the “not using dragon reagents” to the list of 
+things that legitimate talismongers will not do any more, 
+and for good reason. Seeing as though a vast majority 
+ 
+<< THE LIFE OF A TALISMONGER    223
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 225 =====
+of talismongers that participated in that practice are no 
+longer in business today. 
+> Jimmy No
+> Or alive.     
+> Slamm-0!
+Talismongers, because of the nature of their work, 
+will work out of a physical shop. A talismonger needs 
+tools, some place to store their reagents, and a proper 
+work area to enchant (also commonly referred to as their 
+magic lodge). This would typically be a storefront known 
+as a lore shop, which most reputable talismongers prefer 
+as it makes it easy for their clients to find them. Alter -
+nately this could be the back of a van or other type of 
+vehicle, as some talismongers prefer to remain mobile 
+and harder to find, while also keeping the location of 
+their permanent magic lodge secret. It is a lot harder to 
+steal from a mobile talismonger when you’re not sure 
+where they’re ever going to be. You should not judge a 
+talismonger based on how they conduct their business, 
+however. Instead, you should judge talismongers based 
+on the quality of their work as well as their street cred. 
+Some talismongers do not engage in fine craftsmanship; 
+choosing instead to mass produce foci, and turning any-
+thing and everything into a focus, from crappy cigarette 
+lighters to ugly, cheap-ass rings that cost no more than 
+twenty nuyen, with no sense of quality control or aes-
+thetics. From my perspective, those crappy talismongers 
+are no different than these megacorporate subsidiaries 
+that approach talismongering and enchanting as a “one-
+size-fits-all” operation and lack any individuality, subtly, 
+or soul in their work. Honestly, I fail to see how they can 
+do their jobs without infusing even a small amount of 
+passion and creativity into their work. Others, such as 
+myself, are true artisans, and will spend a lot of time and 
+effort getting the aesthetics perfect on a particular fo-
+cus. We’re quite particular in what we will enchant and 
+how we will enchant it. Talismongers like myself know 
+no limits when it comes to our art. Craftsmanship is 
+something we take great pride in, and we go to great 
+lengths to satisfy the customer, no matter how far we 
+must travel or what remote parts of the world we must 
+visit to gather various unique reagents for the purpose 
+of creating just the right custom focus for our customers. 
+Even if it means tossing out our first or second attempts 
+at enchanting a focus, we’ll do it, if only to make sure our 
+art form is perfect and our reputations as true artisans 
+are preserved. 
+So what does it take to be a talismonger? It really 
+depends on who you ask. I would say the first and fore-
+most quality of being a good talismonger is possessing 
+a fundamental knowledge of alchemy, herbalism, metal-
+lurgy, geology, geography, and of course thaumaturgy. 
+You have to be able to identify which herbs, plants, met-
+als, gems, and paranormal critters are good for enchant-
+ing and which ones possess the highest-grade qualities 
+THE ROLE OF THE ARTISAN  
+SKILL AND ENCHANTING
+Outside factors, including background counts, emotions, 
+and environmental destruction are well known to influence 
+the conditions of reagents. And so, too, when a talismonger 
+is crafting a focus, emotions that a talismonger invest in the 
+enchanting process can either make things easier to create a 
+focus—or more difficult. Crafting a focus as a work of art, and 
+infusing it with creativity and passion, is one way talismongers 
+can influence the enchanting process and make it easier. Prior 
+to making the Enchanting Test, a talismonger may elect to make 
+an Artisan + Intuition [Mental] (5, 1 Day) Extended Test. Net 
+hits represent the creativity and the passion the talismonger 
+is infusing into his work. If a mystic adept has an adept power 
+that can influence their creativity, such as Pied Piper, they 
+may choose to use that power and make that test instead. 
+The character may only make this test if the focus they are 
+constructing is being individually made and is not being mass 
+produced. Taking one’s time to craft a focus instead of merely 
+assembling one requires an investment of time. The character 
+decides how much time they have put into crafting the focus, 
+with a minimum time being 1 day. Some talismongers will take 
+several days working on one focus, much like a sculptor or 
+painter does on their art forms, while others take weeks and 
+some take months to add artistic flourishes to their work, from 
+engravings and inlaid jewels to elegant drawings. Some very 
+rare talismongers sometimes takes a year or longer crafting 
+the telesma before making the final Enchantment Test. The net 
+hits from the Artisan Test are then used as bonus dice for the 
+Enchanting Test, in addition to any enchanting focus they may 
+be using.  The maximum amount of bonus dice that can come 
+from this process equals the ranks in the skill used as part of 
+the Extended Test.
+Alternatively, negative emotions can have a detrimental 
+impact on the design of a focus. If the character is mentally 
+distracted or is emotionally distraught in some way while they 
+are making an enchantment, the gamemaster make call for 
+a Composure Test (p. 152, SR5) with a threshold of 2, higher 
+if the emotions involved are especially intense. A successful 
+test allows the character to keep their emotions in check while 
+they are designing a focus. A failure imposes a –2 dice pool 
+modifier to the final Enchanting Test, and a glitch means a –4 
+dice pool modifier. A critical glitch causes the character to 
+make a critical mistake, which ruins the entire enchantment 
+and wastes the reagents.  
+>> STREET GRIMOIRE  <<
+224    THE LIFE OF A TALISMONGER >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 226 =====
+for enchanting purposes. You also need to know how 
+to determine whether a specimen is of good quality or 
+whether it has become tainted by environmental factors 
+and is unusable. A good talismonger is always looking 
+for ways to perfect their techniques and will frequent-
+ly barter and haggle with other talismongers for tips on 
+how to refine their enchanting process. In remote areas, 
+such as in South America and Africa, there is a lot more 
+fluidity with governmental forces. One day, you may be 
+working with one government, and in the next, you have 
+a different government with new rules breathing down 
+your neck. You need to be adaptable to change. This 
+also means there could be new government officials to 
+bribe. So keeping up with current events in geo-political 
+hot spots is also crucial for the success and the long-
+term survival of a talismonger.
+> Making sure you have goods you set aside to use in bribes—
+it’s just as important as having ammunition for your guns. 
+In remote areas, soldiers are not going to be interested in 
+your cred sticks and electronic accounts. Those things are 
+useless in places where wireless connectivity is limited. 
+Instead, they’ll be interested in gemstones, silver, gold, or 
+other valuable commodities. In many third-world spots, 
+be prepared to lose approximately fifteen percent of the 
+reagents that you harvest to these opportunistic sons of 
+bitches in the form of bribes.
+> Traveler Jones
+> Yes, this is why I will still harvest crappy reagents when 
+I come across them. The things that I can’t use but still 
+look like they are worth a lot of nuyen, I will pass off to the 
+uninitiated. What’s not valuable to me might be valuable 
+to them. And the best thing about it is they probably will 
+never know the difference. 
+> Lyran  
+The best places to visit for harvesting reagents tend 
+to be remote locations that are difficult to access and 
+less likely to have been impacted negatively by metahu-
+man contact. Amazonia is perhaps one of the best loca-
+tions for finding pristine specimens of fauna and para-
+>> STREET GRIMOIRE  <<
+<< THE LIFE OF A TALISMONGER    225
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 227 =====
+normal critters for your enchanting needs, particularly in 
+the heart of the Amazon Rainforest. However, with Az-
+tlan’s encroachment into the northern parts of the rain-
+forest, you need to stay away from the northern areas 
+where Aztlan has moved in since the Azt-Am War, as the 
+Azzies are not treating the area gently. Also remember 
+that there are many dangers to be found in the Awak -
+ened rainforest, including carnivorous trees (which can 
+provide powerful reagents if they don’t kill you first), the 
+ghost cartels, deadly insects, and venomous paranor -
+mal critters, some of which have yet to be classified by 
+today’s science. Africa continues to be another popular 
+spot for reagent gathering. But again, rapid urbanization 
+of wilderness areas, irresponsible poaching, and strip 
+mining operations continue to whittle away at sourc-
+es of radical-quality reagents. Asia also suffers similar 
+problems, particularly with the rapid loss or wilderness. 
+One part of the world that does not suffer as much 
+metahuman intrusion is Australia. With all the wild mag-
+ic, mana storms, and highly venomous Awakened para-
+normal critters, Australia’s outback is one of the best 
+places in the world to harvest untainted reagents. In 
+North America, there are still a few locations that are ide-
+al for harvesting reagents. Mount Shasta, despite being 
+devastated by the events surrounding the climax of the 
+Great Dragon Civil War, still has locations that are ideal 
+for talismongering. The Mohave Desert is also known for 
+its exemplary reagents. The main drawback, besides the 
+unbearable temperatures during the summer months, is 
+you might just have to endear hostile spirits, resulting in 
+many talismongering expeditions disappearing into the 
+desert and never being seen again. And the NAN na-
+tions, particularly the Sioux Nation and the Pueblo Cor -
+porate Council, have territory that has been protected 
+from metahuman abuse, making them ripe for reagent 
+hunting. The downside of these locations should be ob-
+vious: these lands are generally restricted, meaning only 
+talismongers belonging to the tribes that are native to 
+those nations can enter. Even then, there are tight re-
+strictions on what they can and cannot harvest. Talis-
+mongers from outside find it difficult at best to work in 
+these areas without overtly breaking the law. Many tal-
+ismongers find that they have no choice but to break the 
+law to make a living in these areas, even if they would 
+prefer to remain law-abiding. 
+> Yes, talismongers have it rough. Not only do they have to 
+worry about governments and all the dangers associated 
+with doing their jobs properly, they also have to worry 
+about the criminal syndicates. Some will just try and kill 
+you outright for competing for their resources. Those that 
+don’t will try to intimidate you into giving up a share of 
+your reagents for the privilege of staying in business. And 
+many will give in to those shakedown demands, ’cause 
+it’s better to be alive than dead. 
+> Hard Exit
+Talismongering has become much more complicat-
+ed thanks to the dragons. Talismongers typically have 
+locations that they have staked out and have claimed as 
+their own territory for prime reagent harvesting. Due to 
+prime specimens of reagents being so hard to come by, 
+talismongers are very protective of the areas that pro-
+duce decent reagents. Independent talismongers regu-
+larly hire runners to help defend their turf. Talisleggers 
+wil generally have the muscle of the syndicate they are 
+working for to keep rival operations out of their way, in 
+order to protect syndicate profits. Don’t expect a rival 
+talismonger to be willing to negotiate for rights to use 
+HIGHLIGHTED FOCUS: COMBAT KNIFE FROM THE UNITED STATES’  
+CONFLICT AGAINST NATIVE AMERICAN NATIONS IN 2016
+In the Museum of Sioux History in Cheyenne lies a combat knife 
+used during the Native American Nations’ battle for independence 
+against the United States Government. According to historians, this 
+combat knife is among the first weapon focuses used during that 
+conflict, and it is believed to have belonged to War Chief Ossiolachiih 
+from the Muscogee tribe. The blade was used for sixteen confirmed 
+kills of United States military personnel during that conflict. 
+What is interesting about this combat focus, beyond its historical 
+significance, is the fact that after nearly sixty years, the enchantment 
+on the weapon focus retains a significant amount of its power 
+nearly sixty years later. Typically in those early years, enchanting 
+was very rudimentary, and enchantments rarely survived past ten 
+years. The quality of this enchantment speaks to the talent and skill 
+of Ossiolachiih as a master enchanter. The Museum of Sioux History 
+also holds three other weapon foci recovered from that conflict: 
+a tomahawk and two combat axes, all of which have had their 
+enchantments break over time. Currently there is a great demand 
+from collectors looking to acquire artifacts from that era. At various 
+battle sites within the Native American Nations, valuable relics may 
+remain, waiting to be unearthed by the right hunter. However, many 
+battle sites from that conflict are off limits to outsiders, and anyone 
+who violates these tribal laws could end up serving lengthy prison 
+time. Some see the risk worth it for hunting these historical relics, and 
+for the nuyen they can net. Examination of War Chief Ossiolachiih’s 
+combat knife suggests that it was likely a very powerful focus in its 
+day, but has lost perhaps half of its potency.
+>> STREET GRIMOIRE  <<
+226    THE LIFE OF A TALISMONGER >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 228 =====
+the land. Your intrusion into their territory threatens their 
+livelihood, and they are more than likely willing to take 
+you out than share their turf. 
+When the dragons extracted their vengeance on the 
+talismonger population for using dragon reagents, they 
+shook up the balance of power within the talismonger 
+community. Many of these optimal locations that were 
+previously claimed by veteran talismongers have since 
+gone abandoned. Ever since the conclusion of the Great 
+Dragon Civil War, there have been power grabs by tal-
+ismongers and talisleggers over this newly unclaimed 
+territory all around the world, while criminal syndicates 
+have been trying to shore up the operations they have 
+already established and take over areas where rival op-
+erations were devastated by the dragons’ intervention. 
+So far, the fighting over land use has been bloody. The 
+shifting territories have yet to be resolved, and each day 
+new talismongers are looking to use the chaos to mus-
+cle in on the more lucrative territories. If you intend to 
+make talismongering your life, you better watch your 
+back. There’s going to people gunning for it, trying to 
+get their hands on the same reagents that you’ll be look-
+ing for. Life for a talismonger will remain tough for the 
+foreseeable future, until a new pecking order amongst 
+the talismonger community is all sorted out.
+TALISMONGERS 
+AND REAGENTS
+The enchanting process is a delicate one. Any number 
+of variables can enter the process at any step, causing 
+unintended flaws in the product and perhaps ruining 
+cause the focus. It is because of this the United Talis-
+mongers Association recommends that when a talis-
+monger is collecting materials, they should only use 
+properly prepared tools in gathering reagents. The UTA 
+has approved the sell of a cleanser that, using an indus-
+try-recognized process, can eliminate a vast amount 
+of impurities from a talismonger’s tools (ranging from 
+chisels, pickaxes, scalpels, and knives to melee weap-
+ons, which are handy if you’re collecting pelts of para-
+normal critters), and prevent cross-contamination 
+between reagents. The last thing you would want, for 
+example, is for flecks of dried blood from the pelt of 
+a phoenix from your last kill to end up on the pelt of a 
+horned bear that you just collected. Or a trace amount 
+of diamond dust ending up in an enchanting that does 
+not need it. It may seem like minimal contamination, 
+but it would not be a minor detail later if the focus’ en-
+chantment breaks due to the adulteration of the two 
+materials. This is perhaps the easiest part of a talismon-
+gers’ jobs—keeping their tools immaculately clean and 
+ready for the next batch of reagents. Unfortunately, I 
+know of too many talismongers who are lazy or who 
+overlook this step, risking contamination for the sake 
+of expediency. They claim it makes no discernible dif-
+ference in their work, but I can tell you there is a sig-
+nificant difference in the way the focus is constructed 
+and how well crafted (or shoddy) that enchantment is. 
+There have been stories of enchantments randomly 
+shattering on a runner because of how it was made. 
+So if you are looking to be a talismonger and excel in 
+this field, learn to do the right thing at the start of your 
+career, practice proper habits and keep your tools and 
+workspace clean. It may save you a lot of wasted re-
+agents later on. And if you are a runner looking for a 
+talismonger, always pay attention to the street rep of a 
+talismonger. Just like there are shady fences out there 
+who will sell you modeling clay for explosives, so too 
+are there shady talismongers out there that will cut cor -
+ners to increase their profit margins.  
+Keep in mind talismongering is never as easy or as 
+glamorous as the trid movies make it out to be, especial-
+ly when it comes to gathering reagents. You don’t just 
+go out to a remote area and spend time looking around 
+on the astral. You have to actively search for them. This 
+means hiking, climbing, sifting and panning rivers, track-
+ing, and digging. This is often tedious and grueling work. 
+Depending on the kind of reagents you are looking for, 
+you could easily spend weeks, if not months, outside 
+of modern civilization. Trust me, the lifestyle is not for 
+everyone. Living inside tents, wearing bulky or bur -
+densome environmental suits, being filthy without the 
+possibility of hot showers for weeks on end, living off 
+of pre-packaged, dehydrated food, encountering exotic 
+diseases that make your life a living hell, and living in 
+extreme temperatures without hardly any modern con-
+veniences are all things that talismongers have come to 
+expect in their line of work. This on top of the risk of al-
+ways stumbling into dangers that are not natural, but in-
+stead, are metahuman-caused. Minefields are the most 
+common threat in my line of work, but so are chemical 
+spills that someone “forgot” to report, as well as radio-
+active hot spots and toxic waste spills that have been 
+covered up.  
+If the living conditions and dangers were not enough 
+to discourage you from the lifestyle, you might want to 
+consider the frustration that comes from the realization 
+that not all specimens of reagents share a uniform quali-
+ty. You could be stuck in the middle of nowhere, chasing 
+a vein of gold to mine, only to find that the vein of gold 
+you finally stumble upon has been contaminated by a 
+chemical spill from MCT, and any gold you unearth will 
+be unusable to you, as the gold no longer contains any 
+trace of magic potential. Or you could wind up spending 
+all your time looking for a paranormal critter specimen 
+when it turns out that it has become mutated or turned 
+toxic by its environment. There is nothing more frustrat-
+ing than having to start your search all over again when 
+you invested dozens of hours or more on your current 
+search, only to find out that the pot of gold you have 
+been chasing is nothing more than a cauldron of tox-
+>> STREET GRIMOIRE  <<
+<< THE LIFE OF A TALISMONGER    227
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 229 =====
+ic sludge. But that is a reality of today’s talismongers: 
+you encounter failure and more failure before you finally 
+strike success.  
+Experienced talismongers have come to accept 
+there are variations in the quality of reagents. Besides 
+those that have been contaminated to the point of being 
+worthless, there are other reagents that have been se-
+verely damaged but can still be used with a lot of effort. 
+Other specimens are only moderately damaged and can 
+be used with less effort; usually these are considered to 
+be “inferior” specimens. And there are still others that 
+are only considered “subpar,” meaning they only have 
+moderate imperfections due to various health and en-
+vironmental factors. If you are lucky, you will stumble 
+across what are called baseline specimens. These are 
+the specimens which are meant to be the normal ex-
+pressions of the species. In my opinion, the lowest 
+grade of reagents you should ever consider using for 
+enchanting are your baseline specimens. Anything else 
+and you risk ruining the focus by interjecting flaws into 
+the enchantment process. The flaws from these poor 
+specimens can still carry over to the finished product 
+even after the reagents have been turned into refined 
+or radical reagents. Also, the more damaged the spec-
+imen of reagent is from various environmental factors, 
+the less you can harvest to use for your enchantments. 
+A vein of silver containing ten drams of material might 
+only be able to produce six drams if it is considered to 
+be of inferior quality. If the severity of the contamination 
+exceeds the amount of drams a source of reagents can 
+produce, than nothing can be harvested and you have 
+wasted your time. So it is more worth your time seeking 
+out higher quality reagents and to get more for your ef-
+fort than settling for subpar materials.
+REAGENT QUALITY AND AMOUNT THAT MAY BE HARVESTED
+QUALITY AMOUNT HARVESTED
+Unusable No reagent can be harvested from source
+Tainted –6 drams 
+Inferior –4 drams
+Subpar –2 drams
+Baseline No modifier, all drams that the source of material is capable of producing can be harvested
+Superior No modifier, all drams that the source of material is capable of producing can be harvested
+Prime No modifier, all drams that the source of material is capable of producing can be harvested
+Superior and Prime specimens take less time to refine into refined and radical reagents. Reduce the time it takes to 
+convert Superior reagents into refined and radical reagents by 25 percent (round up). Reduce the time it takes to convert 
+Prime specimens into refined and radical reagents by 50 percent (round up). 
+An Assensing + Intuition [8, 10 minutes] Extended Test before the talismonger collects the reagents will inform him of 
+the quality of specimen. 
+HIGHLIGHT FOCUS: GUNGNIR
+Anyone who is a history buff and is familiar with the 
+events of the Second Matrix Crash may have heard of 
+Gungnir. Gungnir was the weapon focus belonging to the 
+Winternight cult leader known as Wednesday. Wednesday 
+used a number of foci during his day, but none were as well 
+known or as visible to his movement as Gungnir, a weapon 
+focus, enchanted into the form of a spear. No one truly knew 
+how powerful this weapon focus was, as Wednesday kept it 
+masked most of the time. Reports and rumors suggested it 
+was quite powerful, possibly a Force 12 weapon focus. When 
+Europol captured Wednesday, they learned that it was a Force 
+8 weapon focus, decorated with Norse runes and inscribed 
+in gold lettering. Europol also confirmed that it was a toxic 
+weapon focus. For nearly a decade, it was left in an evidence 
+locker room. In 2073, when someone went to destroy the 
+weapon focus, Europol learned that the spear had vanished. 
+They still have no idea when it disappeared. They believe that 
+remaining Winternight cells or other, newer neo-Winternight 
+groups, may have been responsible for its theft. Its location is 
+still a mystery. There is a 25,000 nuyen bounty on its recovery, 
+as well as the capture of anyone behind the theft. So far, there 
+are still no good leads as to where this toxic weapon focus 
+has gone. 
+>> STREET GRIMOIRE  <<
+228    THE LIFE OF A TALISMONGER >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 230 =====
+If you are prepared to spend a lot more time hunting 
+reagents, it is possible to gather reagents from superior 
+and prime specimens of plant, mineral, or animal life. 
+These specimens are extraordinarily hard to come by 
+in this age of ground, water, and air contamination, so 
+if you have your heart set on acquiring these types of 
+reagents, be prepared to spend even longer periods of 
+time hunting for them. However, the qualities of these 
+superior and prime specimens allow for a higher quality 
+of focus to be made, and will allow the enchantment 
+on the focus to last much longer. This is why I general-
+ly stick to using superior and prime specimens for my 
+reagents, and choosing to only use baseline-grade re-
+agents when I absolutely have to. The location where 
+you harvest is key to your success at locating superi-
+or and prime specimens. If you are harvesting in plac-
+es like Amazonia, you have a much greater chance of 
+locating superior and prime specimens that have not 
+been tainted by pollution or toxins. However, if you try 
+talismongering in places like Aztlan, which still has a 
+problem of excessive mana warps, or Tsimshian, which 
+has become the poster child for toxic waste dumps the 
+world over, all you’re going to find are severely tainted 
+and unusable reagents. This is why finding a good place 
+to harvest and protecting it from other talismongers 
+and talisleggers is key to your success. 
+As a talismonger, it is also important to keep in mind 
+that the methods you use to gather reagents can impact 
+the quality of the specimen of reagent, particularly with 
+paranormal critters. The way you choose to collect ani-
+mal pelts may either be neutral and does minimal dam-
+age to the pelt, or can be recklessly applied and cause 
+severe harm to the pelt of the creature that it actually 
+degrades its quality. Talismongers early on realized that 
+shooting an animal up with bullets is a bad thing, as 
+there’s a chance of contaminating the pelt with metallic 
+and gunpowder residue that can fuck with the enchant-
+ment process. Not to mention that gunshot wounds in-
+flict traumatic damage on the body of a paranormal crit-
+ter, causing you to lose potential drams of reagents. To 
+minimize damage to a specimen, the UTA recommends 
+using a basic bow and arrow if you are hunting an an-
+>> STREET GRIMOIRE  <<
+<< THE LIFE OF A TALISMONGER    229
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 231 =====
+imal at a distance. Both the bow and the arrow should 
+be properly treated and prepared using the approved 
+UTA cleanser to avoid contamination of the specimen 
+from foreign particulates. Using tranquilizers and other 
+drugs on a specimen also has a negative reaction on the 
+specimen and degrades its quality. Combat spells cast 
+on paranormal critters have been known to adversely 
+affect reagents that are harvested from their bodies. If 
+you cannot use a bow and arrow, the next best thing to 
+collecting material is engaging the paranormal critter in 
+melee combat with a treated melee weapon. Any other 
+method risks damaging the pelt, and risk damaging the 
+reagents you are looking to preserve.
+>> STREET GRIMOIRE  <<
+TOOL CLEANSERS
+ITEM AVAILABILITY COST
+Tool cleanser (15 uses) 10 50¥
+For each tool a talismonger uses, they make an Artificing 
++ Magic [4, 10 minutes] Extended Test to properly clean each 
+tool and get it ready for harvesting reagents. If improperly 
+cleaned tools are used to harvest reagents, roll 1D6; on a 1, 
+the reagents have their quality downgraded by one line (e.g., 
+going from baseline to subpar, or subpar to inferior). Tools 
+that use lasers or produce flame to cut or melt reagents, or 
+otherwise do not allow for cross contamination of reagents, 
+do not need to go through this process.
+230    THE LIFE OF A TALISMONGER >>
+IMPORTANCE OF INDIVIDUALIZING A FOCUS FOR A SPECIFIC USER
+Due to how reagents work, talismongers must take the person 
+that they are building the focus for into consideration. This also 
+includes their mentor spirit. During the enchantment process, if a 
+talismonger uses at least one reagent that has a direct connection 
+with the mentor spirit (or totem), such as the use of eagle feathers 
+as reagents for a focus for a follower of the Eagle totem, the 
+person buying that focus will find it easier to bond to that focus. In 
+game terms, the character receives a –1 reduction to the Karma 
+cost that the character has to pay to bond to that focus. If all 
+reagents used for a focus are related to the individual’s mentor 
+spirit, that reduction increases to a –2 to the bonding Karma cost. 
+For example, if a talismonger constructs a focus for a follower of 
+the sea totem and uses nothing but coral reef, naturally grown 
+pearls, and conch shells as reagents, that bonus becomes a –2. 
+This bonus is only available to individuals that have mentor spirits. 
+There is a price, however, for this Karma reduction. Using 
+reagents that hold a connection to a mentor spirit gives the 
+mentor spirit power over that focus. This typically is not a big 
+deal, but should the follower upset the mentor spirit, in addition to 
+taking away certain bonuses the follower receives for upsetting 
+the mentor spirit, the mentor spirit could also turn off any focus 
+where this connection was established and where the follower 
+took advantage of this Karma reduction. If a follower chooses 
+not to take the Karma cost reduction for bonding to the focus 
+and chooses to pay full value, however, this connection is not 
+established with the mentor spirit, which means the mentor spirit 
+has no control over the focus. 
+Also, should the follower ever decide to change their beliefs 
+and follow a different totem or mentor spirit, the connection with 
+that mentor spirit is severed, and the focus becomes inert until the 
+character spends the full Karma cost to re-bond to the focus—
+provided the character wants to re-bond to the focus that was 
+basically dedicated to the purpose of their former totem. Bonding 
+to an old focus that was dedicated to an old mentor spirit could 
+be perceived by the current mentor spirit as a slight against them 
+and could risk the anger of the new mentor spirit.
+UPGRADING AN EXISTING FOCUS
+There are questions that persist as to whether a runner who 
+wishes to use a higher rated focus than the one they currently 
+using must purchase a brand new focus or if they can simply 
+upgrade it. The truth is, foci can be upgraded under the right 
+circumstances. The main restriction on upgrading any focus 
+is that it must be done by the same talismonger who forged the 
+focus in the first place. A focus cannot have the astral signatures 
+of two talismongers interwoven into its tapestry. Attempting 
+to do so automatically shatters the enchantment. This means 
+that foci taken from other magicians and you do not know who 
+enchanted them cannot be upgraded. Also, the focus must simply 
+be upgraded to the same, stronger version of itself. It may not be 
+repurposed as another type of focus. A power focus may not be 
+upgraded to become a sustaining focus. 
+The talismonger will need to add regents to the enchantment 
+equal to difference in karma costs for bonding the old focus 
+and bonding the upgraded version. For example, if a character 
+wishes to upgrade a Force 3 Spell focus to a Force 5 Spell focus, 
+the talismonger will need to use 4 reagents to upgrade the focus 
+(10 being the new cost for bonding the focus, 6 being the cost 
+of bonding to the Force 3 focus). The talismonger will need to 
+make another Enchanting Test to re-forge the focus. They may, if 
+they so choose, make another Artisan + Intuition test to rework 
+the aesthetics of the focus to incorporate the changes into its 
+design. Because the character was only bonded to the previous 
+version, they will only need to pay 4 Karma to fully bond with the 
+upgraded focus.
+InMediaRes Productions LLC (Order #38901858)

@@ -19,7 +19,7 @@ Monthly nuyen costs escalate sharply. Prepaid months can be bought at creation w
 
 - Assumed clothing and basic gear appropriate to the level
 - A place to sleep and recover (healing rates improve with care)
-- Social camouflage — High Lifestyle characters look “legit”
+- Social camouflage - High Lifestyle characters look “legit”
 - Bills, neighbors, and paper trails as plot hooks
 
 ## Safehouses

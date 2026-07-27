@@ -1,0 +1,713 @@
+﻿==== 54 ====
+FUZZY ôBOOM BOOM  
+BUNNIESö GRENADE
+First the ôBoom Boom Bunniesö explanation. 
+Byom has an odd sense of humor, and when first 
+constructing these, he managed to convince 3D 
+that sticking the device in little stuffed rabbits 
+they found lying around a warehouse on a run 
+and coding the noise as a horde of rapidly repli-
+cating rabbits would help them remember field-
+test usage and would also have the benefit of be-
+ing absolutely hilarious. Needless to say, some of 
+that coding stuck, but not every grenade (except 
+those bought on the black market from Byom) 
+comes with a soft, fuzzy bunny cover. 
+The actual grenade is based on the same tech 
+as the fuzzy rounds except they affect a wider 
+area of targets. The grenade pops, jams the lo-
+cal airwaves (or fills VR and AR with rabbits), and 
+for a moment thereÆs too much noise to get any-
+thing constructive (or destructive) done in the 
+Matrix.
+>	
+So basically they made high-intensity spam-jammers, 
+with visual coding, that are disposable. 
+>	
+Bull 
+>	
+But the rabbits are so funny! I did a little program tweaking 
+and mine all have little Slamm-0! style bats for ears.
+>	
+Slamm-0!
+>	
+I made cat ones. Duh.
+>	
+Netcat
+FUZZY GRENADE RULES
+Fuzzy grenades come in varying Power levels. The Power 
+is the base Noise modifier for the grenade. This Power goes 
+down by 1 for every 2 meters from the point of origin. The 
+maximum Power currently available is 20. The Noise lasts for 
+2 Combat Turns.
+GRENADE
+AVAIL
+COST
+Fuzzy
+10R
+20Ñ x Power
+>> KILL CODE <<
+<< DIPS & CHIPS    53
+
+
+==== 55 ====
+COS (CANCELLATION  
+OF SERVICE) GRENADE
+Another Byom and 3D invention turned corpo-
+rate moneymaker. In Chicago, Byom thought it 
+funny to use these to playfully knock 3D off the 
+Matrix and make him ôpay attention to me,ö to 
+quote Byom. TheyÆre like an old married couple. 
+While it was cute to cut off AR, cutting off full VR 
+was painful, which Byom discovered inadvertent-
+ly by having another Hoodville hacker too close 
+to his playful device. A conversation later, and 
+Byom and 3D were once again weaponizing their 
+entertainment. 
+The CoS grenade is a complex little bit of elec-
+tronics. When it ôexplodes,ö it sends out a five-me-
+ter pulse that cuts off all devices from the Matrix. 
+Most devices simply reconnect after a few sec-
+onds, but for devices that function based on a 
+Matrix connection, or personas, it can be a handy 
+(or painful) momentary problem. The grenades 
+are usually used to cut off comms or kill wireless 
+connectivity for high-tech toys, and riggers and 
+hackers hate these things when theyÆre rocking full 
+VR or a rigger just gave his drone a command he 
+wants to change.  
+>	
+Technos hate these even more. The momentary separation 
+from the Matrix can be debilitating. 
+>	
+Clockwork
+DOUSER
+I am an advocate for the advancement of ben-
+eficial (especially to my credstick) technology. 
+That said, I will openly admit that I take issue with 
+some of the drek coming out of Evo, because I 
+know full well how they got it. On the backs of 
+Monad slaves that somehow bought into EvoÆs 
+ômeta-friendlyö image and decided it was better 
+to work for them than to escape the shackles of 
+this world and shoot off into the stars. 
+Okay, maybe IÆm a little jealous, but Evo has 
+been working their big brains and using them to 
+develop tech that is leaps and bounds ahead of 
+competitors (until they get stolen) for nothing 
+more than a prison within their own corp.
+Sorry for the sidetrack. Douser is all sorts of 
+scary. The basic adverts for the grenade seem 
+pretty mundane. Toss it out and let it wear down 
+the protective code of all local hardware. Slight-
+ly more technical, it does a focused attack on the 
+Firewall of every device in the area of effect. How 
+it d
+
+==== 56 ====
+>	
+Biggest issue IÆve come across with current ops on Evo: 
+overlap. Teams running into other teams going after R&D 
+in the same facility. 
+>	
+Mika 
+>	
+Hackers running Wrapper programs to look like locals are 
+getting into scuffles with fellow runners and bringing IC 
+down on everyoneÆs head. ItÆs ugly out there, kiddos. 
+>	
+Bull 
+DUMDUM
+While attacking the Firewall of a system was a 
+great first step and seemed logical, the techs at 
+Evo then went a step further. Why not ignore 
+the protection protocols completely and instead 
+flood the processing system with pointless func-
+tions to the point of overload and shut down de-
+vices that way?
+DumDum goes after the Data Processing sys-
+tem instead of the Firewall software. Instead of 
+leaving a device defenseless or forcing it to shut 
+down, the cloud of DumDum nanites gobs up the 
+system with junk processes and prevents the sys-
+tem from performing normal operations. There 
+is no shutdown warning with DumDum, just a 
+sudden inability to complete any kind of task. A 
+successful barrage will make even voice or text 
+transmission impossible, and the only report you 
+get is the ôthinkingö icon of your particular device. 
+Transys devices are particularly humorous, as the 
+little fighting knight slows down and moves in a 
+herky-jerky slow motion. A full shutdown/reboot 
+gets the system clean, but it has to be a hard shut-
+down and restart (a.k.a. holding down the power 
+button), because the reboot process is slowed by 
+the attack as well. Devious little system they de-
+veloped here. No real warning until you need to 
+do something.
+>	
+I canÆt decide whether the use of weaponized nanites 
+so soon after the events of Albuquerque and Boston is 
+a sign that we have way too short a memory, that weÆre 
+extremely resilient when it comes to tech, or that weÆre 
+just that fragging stupid.
+>	
+Bull
+>	
+The last option. Definitely!
+>	
+Slamm-0!
+>	
+Widespread understanding of the truth of CFD just isnÆt 
+there. Every corp puts enough spin to make its citizens 
+feels safe, and most of the major nations of the world get 
+their news from corp feeds. 
+>	
+Snopes 
+>	
+Blaming nanites for CFD is like blaming a gun for shooting 
+someone. They we
+
+==== 57 ====
+The style varies to suit the user, but the effect is 
+all the same. Bought in the form of an accessory 
+(lapel pin, earrings, ring, cuff link, etc.), an em-
+bedded micro-device runs a constant series of 
+local mini-hacks on nearby devices that rewrites 
+your face on any Matrix connected or wireless re-
+cording device that captures it within range. The 
+base device has several levels and options to en-
+hance the range and software capabilities along 
+with how it alters the facial footage, as it can blur 
+the loaded face, overlay a generic face, or overlay 
+a specific face.
+IÆve actually stocked up on these, as I think 
+everyone should use them. Well, that and the 
+megacorps are not happy with how well they work 
+and have been cracking down on production and 
+distribution, trying to keep them all for their own 
+company suits. They donÆt work against every-
+thing but usually enough to keep you anonymous, 
+and the things they donÆt work on are usually over-
+looked by the authorities.
+>	
+Every runner in the world needs to use these things. 
+TheyÆre killer high-end tech, with the price tag to match, 
+but these babies are bringing the shadow back to 
+shadowrunning. 
+>	
+Mika 
+>	
+I know a fellow who is quite protective of his anonymity 
+and used both a nanopaste mask and the Faceless lapel 
+pin in the form of a rose to make sure no one can be sure 
+itÆs him passing through security.
+>	
+Thorn
+>	
+A rose, eh? DonÆt know who that could be. Is it an Irish 
+rose perhaps?
+>	
+Slamm-0!
+>	
+ItÆs advice without pretension, Slammy. You should try it 
+sometime.
+>	
+Thorn
+>	
+Seriously, talking about someone else when we all know 
+itÆs you is pretty much the definition of pretentious.
+>	
+Slamm-0!
+>	
+DonÆt sell the authorities short on getting to those devices 
+that actually snag your face. That hardwired convenience 
+store cam may have gotten you, but the cash they slipped 
+the owner, or the beating they gave him, just make the 
+intel less useful in a court of law.
+>	
+Black Knight
+>	
+Like most of us will ever see a court of law.
+>	
+Balladeer
+BOOSTER CLOUD
+Another creation using nanites coming out of 
+EvoÆs labs, but also being produced by Saed-
+er-Krupp and Renraku. Which means we know 
+
+
+==== 74 ====
+in Cincinnati, Ohio, UCAS. From what IÆve heard, they do 
+solid if not spectacular work. 
+>	
+Red Anya
+>	
+Nice piece of gear, but is it really a good idea for any 
+deckerùor rigger, for that matterùto go full VR in the 
+middle of a firefight? No thanks, not for me. 
+>	
+Pistons 
+SPINRAD GLOBAL/ 
+PANTHEON INDUSTRIES 
+MERCURY-ALPHA BATTLEFIELD 
+SIGNAL BOOSTER 
+On the wireless battlefields of the Sixth World, 
+electronic warfare has greater significance than 
+ever before. Cutting off or limiting an enemyÆs 
+ability to communicate while maintaining oneÆs 
+own is often a decisive factor in victory. The Mer-
+cury-Alpha Signal Booster is designed to give PI-
+Tac users/operators and their commanders addi-
+tional advantages during combat or for normal 
+use in remote areas. 
+The Mercury-Alpha consists of three compo-
+nents: a main unit (or brain) that contains all neces-
+sary hardware, software, batteries, and data ports; 
+a foldable/detachable micro-dish transmitter; and 
+an optional, hardened fiber-optic cable that can 
+directly link the brain and transmitter together. 
+The brain weighs only about 450g and comes in 
+a variety of shapes, depending on the userÆs pref-
+erence. It attaches directly to a PI-Tac master unit, 
+commlink, cyberdeck, or RCC. 
+When in use, the Mercury-Alpha has three dis-
+tinct modes. The first is passive mode, which is 
+specifically designed to overcome most normal 
+obstacles, such as extreme distance or natural ob-
+OPTIONAL RULE: SURPLUS OR REFURBISHED PI-TAC UNITS
+Arguably one of the most useful (and expensive) pieces of 
+battlefield technology out there, PI-TacÆs are coveted pieces of 
+equipment. Since their introduction years ago, the market for 
+surplus or refurbished units is at an all-time high. But, like any 
+secondhand piece of equipment, getting these types of units comes 
+with a price. If a gamemaster wishes to allow their players access 
+to them, here are a few general rules/suggestions:
+1) For every 25 percent reduction on the base cost of a new 
+unit, the surplus unit should have lost the functionality of one of its 
+main features. Repairing each function requires both Hardware 
+and Software + Logic [Mental] (Level x 3) Extended Tests
+
+==== 75 ====
+structions. The second is active or defensive mode, 
+which is used as an electronic counter-counter-
+measure against enemy electronic warfare attacks, 
+giving the defending PI-Tac operator bonuses. The 
+third, called aggressive mode, is when a PI-Tac 
+operator (in conjunction with appropriate equip-
+ment) uses the Mercury-AlphaÆs broadcasting 
+power to enhance an Electronic Warfare attack.
+>	
+Details are still hush-hush, but what IÆve been able to dig 
+up is that Pantheon agreed to license the design and the 
+operating system code in exchange for SG manufacturing. 
+And of course, some corps are not happy about this. 
+>	
+Pistons
+>	
+Of course not, since someone who is not them is making 
+money off their products! Only a matter of time before 
+someone goes after Pantheon. If they can find them. 
+>	
+Mr. Bonds
+PANTHEON INDUSTRIES 
+ôMERCURY-ALPHAö 
+BATTLEFIELD SIGNAL BOOSTER
+DR
+AVAIL
+COST
+5
+12R
+3,500Ñ
+Rules: Can only be used in one mode at a time; switching 
+modes is a Simple Action. In passive mode, provides a +4 dice pool 
+bonus against all sources of noise and doubles effective range. 
+In defensive and aggressive modes, provides +2 for pertinent 
+Electronic Warfare tests. Linked PI-Tac units can also distribute 
+some or all of their +2 bonuses to assist other operators without 
+a teamwork test; this requires a Simple Action. All functions and 
+bonuses are cumulative with tactical programs and associated 
+devices such as satellite links and re-trans units. 
+PANTHEON INDUSTRIES 
+MICRO-DISH TRANSMITTER
+AVAIL
+COST
+10R
+1,200Ñ
+>> KILL CODE <<
+74    DIPS & CHIPS >>
+CYBERDECKS EX-SERIES
+DECK
+COST
+AVAIL
+Deck Rating
+(Deck Rating x 2)R 
+Rating x 10,000Ñ
+Attack
+ù
+Rating^3 x 500Ñ
+Sleaze
+ù
+Rating^2 x 500Ñ
+Data Processing
+ù
+Rating^2 x 500Ñ
+Firewall
+(Rating x 4)R
+Rating^3 x 500Ñ
+AMMO
+TYPE
+DAMAGE 
+MOD
+AP  
+MOD
+AVAIL
+COST (PER  
+10 ROUNDS)
+E0-E0
+ù
+ù
+5R
+50Ñ*
+E0-E0 Rifle
+û4
+û4
+5R
+100Ñ
+Fuzzy rounds
+     LP, MP, AR
+10R
+30Ñ
+     HP, SMG, S
+12R
+50Ñ
+Looper
+     1
+7R
+20Ñ
+     2
+8R
+ 30Ñ
+     3
+9R
+40Ñ
+     4
+10R
+50Ñ
+     5
+11R
+100Ñ
+     6
+12R
+200Ñ
+Zapper rounds
++0M
+ù
+12R
+140Ñ
+ARROWLINK
+TYPE
+AVAIL
+COST
+50m
+6R
+25Ñ
+100m
+8R
+75Ñ
+200m
+10R
+200Ñ
+500m
+12R
+400Ñ
+GRENADES
+TYPE
+AVAIL
+COST
+CoS
+10R
+500Ñ
+Dou
+
+==== 76 ====
+>> KILL CODE <<
+SECURITY CYBERDECKS
+MODEL
+RATING
+ATT
+SLEAZE
+DATA 
+PROC.
+FIRE-
+WALL
+AVAIL
+COST
+Guard
+2
+3
+1
+2
+4
+3R
+39,000Ñ
+Programs: Encryption
+Shield
+4
+4
+1
+3
+5
+6R
+98,000Ñ
+Programs: Encryption, Shell
+Fortress
+6
+6
+1
+5
+8
+9R
+377,000Ñ
+Programs: Encryption, Shell, Armor
+Great Wall
+8
+8
+1
+6
+10
+12R
+774,000Ñ
+Programs: Encryption, Shell, Armor, Biofeedback Filter
+HUNTER CYBERDECKS
+MODEL
+RATING
+ATT
+SLEAZE
+DATA 
+PROC.
+FIRE-
+WALL
+AVAIL
+COST
+Fox
+2
+4
+1
+3
+4
+4R
+68,500Ñ
+Programs: Track, Shell, Hammer
+Wolf
+4
+5
+1
+4
+5
+8R
+133,000Ñ
+Programs: Track, Shell, Hammer, Decryption
+Tiger
+6
+8
+1
+6
+8
+12R
+530,000Ñ
+Programs: Track, Shell, Hammer, Decryption, Hammer
+Shark
+8
+10
+1
+8
+10
+16R
+1,032,000Ñ
+Programs: Track, Shell, Hammer, Decryption, Hammer, Mugger, Fork
+MISC. CYBERDECKS
+MODEL
+RATING
+ATTRIBUTE 
+ARRAY
+PROGRAMS
+AVAIL
+COST
+Shadow Warrior
+3
+6 5 4 3
+3 
+10R 
+225,000Ñ
+Sublime
+4 
+7 6 5 5 
+4 
+12R 
+375,000Ñ
+Destiny Blade
+4
+7 6 5 5 
+4
+12R
+400,000Ñ
+Defender 
+5 
+8 7 5 5 
+5 
+14R
+560,000Ñ
+Sleeper 
+4 
+7 5 5 4 
+4 
+14F 
+375,000Ñ
+COMMLINKS & RCC
+GEAR
+RATING
+DATA PROC.
+FIREWALL
+AVAIL
+COST
+Cyber-6RCC
+5
+5
+5
+12R
+72,000Ñ
+Skirmisher
+4
+5
+5
+8R
+50,000Ñ
+Last Chance
+3
+3
+3
+11
+5,000Ñ
+Frequency
+4
+4
+4
+10
+3,500Ñ
+Flow
+5
+5
+5
+12
+4,000Ñ
+MISC. ITEMS
+ITEM
+AVAIL
+COST
+Booster Chips
+   Attack Booster
+ù
+Rating x 50Ñ
+   Sleaze Booster
+ù
+Rating x 50Ñ
+Data Processing 
+Booster
+ù
+Rating x 50Ñ
+   Firewall Booster
+ù
+Rating x 50Ñ
+Armor Defeating
+(Rating x 4)R
+Rating x 250Ñ
+Slick Willy
+(Rating x 4)R
+Rating x 250Ñ
+Data Dynamo
+(Rating x 4)R
+Rating x 250Ñ
+Fortified
+(Rating x 4)R
+Rating x 250Ñ
+Booster Cloud
+   Brute Force
+6R
+250Ñ
+   Control Device
+6R
+200Ñ
+   Crack File
+6R
+150Ñ
+   Crash Program
+6R
+150Ñ
+   Data Spike
+8R
+300Ñ
+   Edit File
+ù
+150Ñ
+   Erase Mark
+6R
+150Ñ
+   Hack on the Fly
+6R
+250Ñ
+   Hide
+6R
+150Ñ
+   Jam Signals
+6R
+150Ñ
+   Matrix Perception
+ù
+100Ñ
+   Reboot Device
+6R
+250Ñ
+   Snoop 
+6R
+200Ñ
+   Spoof Command
+6R
+250Ñ
+   Trace Icon
+8R
+200Ñ
+Custom Case
+6
+200Ñ
+Faceless
+(Rating x 2)F
+Rating x 500
+   Generic face
+ +2
++1000
+Specific face
+ +4
++5000
+MOS
+6
+Rating x 4,000Ñ
+Trode Patch
+4
+1,250Ñ
+   Patch Cover
+ù
+250Ñ
+<< DIPS & CHIPS    75
+PI-TAC UPGRADES & ACCESSORIES
+ITEM
+AVAIL
+COST
+Battlefield Signal Booster 5
+12R
+3,500Ñ
+ôCo-Pilotö MK I
+12R
+400Ñ
+ôCo-Pil
+

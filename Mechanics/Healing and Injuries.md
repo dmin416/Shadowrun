@@ -17,7 +17,7 @@
 
 - Longer-term Physical healing uses **Medicine** skill and facilities.
 - Hospitalized lifestyle / clinic quality changes healing rate and cost.
-- Surgery for implants or critical trauma — extended care, Essence risks for new ware.
+- Surgery for implants or critical trauma - extended care, Essence risks for new ware.
 
 ## Magical healing
 

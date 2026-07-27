@@ -1,0 +1,467 @@
+
+===== CF p201 =====
+well as various abilities, arcane and emergent, associat-
+ed with other species. 
+>	
+I’ve heard that before. It’s like cold fusion—claims mean 
+nothing until they can be duplicated.
+>	
+Nephrine
+The loss of their primary work in Boston was a major 
+setback, but it was only the first. They made the mistake 
+of petitioning the Corporate Court for access to their 
+Boston arkoblock on the grounds that they were on the 
+verge of a fundamental breakthrough. Not only did they 
+fail to make their case, they painted a big bulls-eye on 
+every one of their facilities around the world. All of their 
+sites, and all the sites of their subsidiaries, have been 
+raided; everything from subtle incursions to smash-and-
+grabs. The complaint also attracted the positive atten-
+tion of several A- and AA-rated megacorps that have 
+approached them with offers to collaborate on what has 
+come to be called the “Megacorporate Revision.” This 
+widespread attention, both positive and negative, has 
+kept Proteus from regaining their lost work or making 
+progress in recreating their original research.
+>	
+Reports can be faked. They could just be trying to make 
+other corps think they were further along than they were. 
+Get them to throw resources into the black hole that is 
+Boston.
+>	
+Mr. Bonds
+>	
+Proteus has taken too many other hits for this to be a 
+ploy. They lost a big chunk of resources in Boston, and 
+they are not among those in control of the situation. The 
+AAA megas have pushed out all of the smaller megas in 
+control of the NEMAQZ. 
+>	
+Glitch
+NANOTECHNOLOGY
+The potential uses and benefits of nanotechnology are 
+far too great for even something as potentially dev-
+astating as CFD to completely shut down. The future 
+in this area will remain uncertain until the problem of 
+blocking out or eradicating CFD infections is solved. 
+But isolated facilities with safety and security precau-
+tions beyond BSL-4 have been working on both solv-
+ing that problem and developing a new class of nanites 
+that are impervious to CFD. Currently leading the re-
+search in this field are Aztechnology and Mitsuhama. 
+I was not assigned to investigate NeoNET’s and Evo’s 
+nanotech, but I think it’s very likely they’ve made sig-
+nificant advances as well.
+Aztechnology has been focusing primarily on using 
+nanites for short-term boosts, much like combat drugs, 
+but with a more concentrated main effect and fewer side 
+effects. To limit risk of CFD, the nanites have hard cod-
+ing that cannot be modified and limited, non-recharge-
+able energy storage. The nanites act as a very specific 
+delivery and/or operating system and then clear out 
+of the system and shut down when their work is done. 
+They follow their pre-programmed series of commands, 
+with the system flush as the final part of the command 
+sequence, and that’s it. These systems boost speed, 
+strength, reflex, agility, mental acuity, pheromone re-
+lease, wound repair, and toxin resistance. Once the CFD 
+issue is dealt with, expect Aztechnology to flood the 
+market with these, especially with security firms and 
+military organizations.
+MCT has been looking for the silver lining around the 
+cloud of CFD. They’ve been using information gathered 
+from studying the CFD sufferers—“head cases” I believe 
+you call them—and analyzing what those nanites can do 
+for the host. Their discoveries have been primarily focused 
+on the physical capabilities, but MCT recently discovered 
+the ability of some nanites within a head case to function 
+as a Matrix device and allow the head case access to the 
+Matrix without the use of a commlink or cyberdeck. 
+Physical enhancements are very similar to the work 
+being performed by Aztechnology, and my reading of 
+their documents showed enough similarities to suspect 
+corporate espionage. One of the primary divergence 
+points in the MCT work is the function of the nanites. 
+AZT wants the nanites to function as a focused deliv-
+ery system for known compounds to enhance certain 
+attributes, while MCT’s research focuses on the use of 
+the nanites themselves as the enhancement system. 
+Their efforts show requirements for higher quantities 
+of nanites with simpler command structures. These sys-
+tems perform their single purpose and then flush from 
+the system or, as an interesting optional development, 
+they self-destruct into biologically useful substances.  
+>	
+Information I’ve heard says that the “corporate espionage” 
+in question might be a collaborative effort. Especially 
+since these two had some involvement in the various 
+projects in Boston. 
+>	
+Mika
+>	
+As Clear suspects, both NeoNET and Evo have projects 
+in the works to advance the field of nanotechnology. 
+NeoNET seems focused on the use of nanites to form 
+simple networks to act as devices with a variety of 
+purposes that can be completely internal and very difficult 
+to detect when they aren’t in use. The nanites don’t interact 
+until a command is given, and then they act as whatever 
+device they need to emulate. Civilian applications are as 
+simple as a commlink that controls all the devices in your 
+home. Militaries and special operations units could have 
+cyberdecks, jammers, commlinks, or radio detonators 
+hidden in their members. 
+Evo is not running from CFD. Everything I’ve seen 
+points toward them being the first corp to start accepting 
+>> CHROME FLESH <<
+200    THE MURKY FUTURE >>
+
+===== CF p202 =====
+head cases as citizens or at least offering asylum. This also 
+means they’ll have the CFD nanites to study, along with 
+the head cases controlling them when they want to utilize 
+the technology for the next phase of their evolution.
+>	
+Plan 9
+CHEMICAL 
+ENHANCEMENTS
+When talking augmentations, most people think in terms 
+of permanent solutions to temporary problems. Being 
+enhanced helps with specific tasks, of course, but the rest 
+of the time? Useless, or annoying, or in the way. There 
+are enough drawbacks that a number of corps, including 
+one AA in particular, are developing chemical augmenta-
+tions that have short, task-specific durations. The biggest 
+hurdles in this area are mitigating the after-effects and 
+minimizing the likelihood of addiction. Paralleling this re-
+search is a form of augmentation that involves the use of 
+chemical compounds that have more permanent effects. 
+These drugs offer a long-term boost without surgery or 
+risk of detection from cyberware scanners or x-ray imag-
+ing. Zeta-ImpChem is the frontrunner in perfecting both 
+chemical types, but at least one other megacorporation 
+has access to their research thus far.  
+For single-use chemical boosts, Z-IC has been up-
+grading and modifying current combat-enhancement, 
+pain-reduction, attention-focusing, and data-processing 
+enhancement drugs by adding secondary chemicals that 
+allow higher doses and suppress side effects. They’ve 
+progressed from clinical to field trials, and with the ex-
+ception of addiction issues with the data-processing en-
+hancements, they’ve been very successful. Test subjects 
+who become addicted to the data-processing report that 
+the world seems flat and uninteresting after they’ve seen 
+it so clearly. Corporate directives are quite blunt about the 
+dangers of mental enhancers and describe serious conse-
+quences for any researchers who do not take proper pre-
+cautions to confine their effect to prescribed parameters.
+>	
+Corps don’t want citizens who can think. The employees 
+who get most frequently reassigned to the dirt have high 
+IQs and tend to be independent thinkers. Corps monitor 
+everyone to avoid too much free thought.
+>	
+Clockwork
+Z-IC was on the verge of introducing Chemoware™, 
+their long-term chemical-augmentation regimen, when 
+the Boston situation sent the corporate world into turmoil. 
+They pulled back on marketing and pushed the stock they 
+had on hand out for more field-testing. Quite a bit of that 
+stock was dropped into the Quarantine Zone. The effects 
+of these chemical augmentation systems are not as ex-
+treme as their cybernetic or bionetic parallels, but that’s 
+part of the point. They’re less obvious, more difficult to 
+detect, and the user experiences limited, often negligible, 
+disruptions to their biological integrity. An unexpected 
+result of this impromptu field test has been the discovery 
+that these chemicals seem detrimental to technomancers 
+and magicians. The effect is similar to the addiction other 
+subjects developed to short-term intellectual enhancers, 
+though of course there are no withdrawal symptoms as 
+the drugs are always present. The subjects feel as though 
+they are more aware and in tune, and they are unaware 
+that the careful balance of body and mind they need to 
+maintain when manipulating mana or working with reso-
+nance is impeded. The extent to which their abilities are 
+reduced varies from individual to individual.
+>	
+Z-IC is poised to make a big jump up the ranks with this. 
+That, along with some of the connections we’ve seen 
+them make in regard to the Revision, might mean a seat at 
+the big table on Z-O or one of the Big Ten getting demoted 
+to let the revised Z-IC jump up. 
+>	
+Icarus
+>	
+I’ve pulled some numbers together using all the 
+connections we’ve seen, speculated, and know for sure. 
+Even if only half of those A and AA megas make the 
+moves to merge, S-K will no longer be number one. 
+Not even close. No wonder work has been so abundant 
+lately. Even the biggest of the big boys is at risk of losing 
+something here.
+>	
+Glitch 
+Cybertechnology, bioware, genetech, nanotechnolo-
+gy, and chemical enhancement are the five augmenta-
+tion techniques most widely known, but my employer 
+directed me to investigate other approaches to aug-
+mentation that are not so mainstream. Among these 
+are various arcane augmentation enhancements, a new 
+procedure known as e-loading, and even more obscure 
+frontiers. None of these techniques is likely to be on the 
+menu at street clinics anytime soon, but they are out 
+there as options to anyone willing to volunteer as a test 
+subject for one of the megacorporations. The megacor-
+porations have no shortage of volunteers looking for an 
+edge on the street, and no compunction about prom-
+ising them whatever they want from the procedure. Of 
+course, rounding up involuntary test subjects is a pretty 
+straightforward proposition as well. 
+>	
+I will warn any who are easy to scare (Slamm-0!, I’m 
+looking at you) that the arcane uses of augmentation 
+enhancement are the stuff of nightmares.
+>	
+Netcat
+  
+ARCANE ENHANCEMENTS
+Cybermancy is a scary term. Manatech, a name bor-
+rowed from more mundane systems like MCT’s Lucifer 
+Lamps, has not acquired the same stigma. Yet. While 
+>> CHROME FLESH <<
+<< THE MURKY FUTURE    201
+
+===== CF p203 =====
+standard augmentations are installed and cause inter-
+ference with the body’s natural stability, manatech uses 
+arcane rituals that bind the augmentation to the user’s 
+aura prior to installation. The device is then installed, 
+and the biological stability is maintained through ar-
+cane bonding. The system has its drawbacks. Primarily 
+the fact that the binding forces the user to be perpet-
+ually active on and connected to the astral plane. This 
+causes issues with wards and manipulation by astral 
+entities, among other things. The information on these 
+techniques was not acquired from a megacorporate 
+site, but from intercepting a courier. Efforts to connect 
+the courier and/or the project to the corporation be-
+hind the research were unsuccessful. 
+MCT and Wuxing are currently working to perfect 
+arcane foci that bind or strengthen the subject’s biolog-
+ical stability in order to enable enhancements beyond 
+what the natural metahuman form could accommo-
+date. These foci, called Essence Anchors, are designed 
+using principles similar to the cybermantic techniques 
+that bind a soul to a body. However, instead of binding 
+once the body’s stability is gone, these foci reinforce 
+that stability while the subject is still viable. I don’t claim 
+to understand ninety percent of the magespeak in the 
+research documents, but I understand enough to know 
+that the technique works.
+>	
+This process has blood magic or some kind of vampiric 
+draining/transference written all over it. This is not going 
+to be an astrally clean process. I would want to get an 
+astral peek at subjects using either of these techniques 
+and see what kind of astral damage they are causing. 
+Cybermancy creates quite a haze, and it damages the 
+astral space around it rather quickly. 
+>	
+Lyran
+I have questioned whether to put this last part here, 
+as it isn’t exactly an augmentation that anyone should 
+volunteer for, but it is a lesson in the lengths to which 
+some of the megacorporations will go in order to up-
+grade their assets. The relationship between Ares and 
+the insect spirits is becoming increasingly known, but 
+the extent and characteristics of their relationship are 
+not. The public sees Ares as the bug killers. They fought 
+to hold them in Chicago, destroyed hives all over the 
+world, and then helped clean them out of Chicago so 
+that the Containment Zone could be opened. 
+They learned how to fight them by utilizing the clas-
+sic strategy of studying and understanding your enemy. 
+A strategy that always bears the risk of understanding 
+the enemy to the point of becoming just like them. Us-
+ing your enemy’s own weapons, strengths, and methods 
+against them becomes an appealing option. During their 
+research into insect spirits, Ares found a technique to in-
+fuse their men with some of the strengths and abilities of 
+the very enemy they hunted. The designs I was able to 
+document included exoskeletal armor, poisoned claws, 
+superhuman strength and reflexes, and visual access to 
+the astral plane. 
+The research and efforts are primarily being per-
+formed by UnlimiTech, an Ares subsidiary, but plenty of 
+members of Knight Errant, Hard Corps, and Wolverine 
+are getting these modifications while working at their 
+facilities. Entire Firewatch units are getting augmented 
+so that they can better fight the spirits. I didn’t see any-
+thing about making these augmentations publicly avail-
+able, but if it can boost the bottom line, Ares will sell it 
+to someone.
+>	
+Interesting perspective from a non-insider, Clear. While 
+this may seem like an augmentation, and while Ares may 
+try to sell it as such, it is in fact simply variations on how 
+well the merge goes when a spirit takes over a host. This 
+in not augmentation, this is assimilation.
+>	
+Sticks
+>	
+I’ve seen some of the results of this, and they’re fairly 
+standardized. I’m not entirely sure Clear is wrong here. 
+Ares may just be using genetech or biotech to modify its 
+citizens with insect features. Insects are successful around 
+the world, and they have been the inspiration for a lot of 
+inventions over the ages. 
+>	
+Chainbreaker
+E-LOADING
+This was one of the first pieces I studied when I start-
+ed my survey of experimental approaches to augmen-
+tation. The connections to CFD research were right in 
+the beginning of the work, and I have been fascinated 
+by the virus since first learning about it. This research 
+could be part of the silver lining that MCT is looking for 
+as well, but it is currently being led by NeoNET.
+E-loading uses nanites loaded with specific pro-
+gramming to install memories and skills. Using a pro-
+cess similar to CFD, the nanites overwrite the user’s 
+memories to the point she not only has the desired 
+skills, she also has complete memories of learning, 
+mastering, and using those skills, making them instant-
+ly second-nature. The process has a long list of pros 
+and cons to be considered. On the plus side, e-load-
+ing is less invasive than skillwires, the skills can’t be lost 
+like programs or chips, and there’s no evident damage 
+to the psyche or biological integrity of the subject. The 
+list of negatives is longer. The skills can’t be switched 
+out on the fly, each skill must be loaded individually, 
+each must be fully assimilated and integrated before 
+the next can be added, and the overwriting creates po-
+tentially confusing or disorienting memory gaps and 
+overlaps. Of course the biggest negative, and a possi-
+ble deal-breaker, is the use of nanites. They are already 
+experimenting with new delivery procedures that do 
+not involve nanites, but none of these has been per-
+>> CHROME FLESH <<
+202    THE MURKY FUTURE >>
+
+===== CF p204 =====
+fected or thoroughly tested. The new procedures em-
+ploy various ways of making modifications directly to 
+the brain. Every one is dangerous; every one requires 
+time-consuming and meticulous open-skull surgery; 
+but they eliminate any and all risk of CFD infection.
+>	
+That kind of surgery is likely to leave you dead or brain-
+fragged. Adding a few skills or memories doesn’t seem 
+worth the risk. If we’re talking gold-medal gymnast skills, 
+great, but if we’re just looking to help you understand 
+which end of the gun the bullets come out of, leave my 
+cranium intact. I’ll just visit the range.
+>	
+Stone
+>	
+The secondary implications of this are intense. Cloned 
+bodies could have memories and skills written directly 
+onto their blank brains. 
+>	
+KidCode
+>	
+If memories can be added, they can be subtracted, too. 
+What’s to prevent the megacorps from using this as another 
+control technique as they make people think a certain way 
+or delete the memories of their recent activities to protect a 
+run, conceal a project, or even hide a murder? Assuming it 
+can be made to work on a broad level.
+>	
+Snopes
+DARK DATA
+This last point concerns the future and the past of aug-
+mentations and all of the information that’s out there, 
+somewhere. The information I’ve gathered came from 
+megacorporate sources around the world: A, AA, AAA, 
+and even a few that are unrated. Many of these data-
+stores are isolated and self-contained; none of the cor-
+porations have obvious ties to anyone else. The corps 
+aren’t cooperating on this issue the way they have for 
+the new Matrix or Boston, but all of them are working 
+on it, in parallel if not in tandem
+A moment ago I mentioned cybermancy and its 
+frightening reputation. Until recently I thought I had a 
+general idea what cybermancy was, but I didn’t have a 
+practical understanding of the process. As it turned out, 
+I had less than no idea what it is and absolutely no un-
+derstanding of what it involved. A month ago I came 
+across my first mention of cyberzombies, which caused 
+me to look deeper so I could ferret out hard data. What 
+I found scared the hell out of me. I’ll let what follows ex-
+plain why that is. Right now, suffice it to say research into 
+cybermancy falls into four broad categories: Process 
+Perfection, Field Advancement, Subject Production, and 
+Subject Appropriation. Some corporations are exploring 
+more than one area, but none are working in all of them. 
+This is a situation that generates a lot of work for runners 
+as each corp tries to discover all it can about what all the 
+other corps have learned.
+PROCESS PERFECTION
+The biggest megacorporations involved in cybermancy 
+are working to perfect the process. The major research 
+directions focus on astral hazing, subject memory re-
+tention, stability duration, ritual times, ritual material 
+needs, and facility requirements. 
+Eliminating the astral hazing effects that damage 
+the manasphere around the subject is a high priority. 
+Variations on shielding metamagic have been the most 
+successful thus far, but the process requires powerful ar-
+canists with a deep understanding of advanced shield-
+ing techniques. Individuals like that are rare and several 
+have been hot targets for extractions. Dr. Augusta Vides-
+sence has been “employed” by four different megacor-
+porations over the past year. 
+Subject memory retention gained a lot of focus 
+after the megacorporations started researching CFD. 
+What they found suggested possible ways memories 
+could be written in or, in the case of cybermancy sub-
+jects, reinforced. Memory retention, memory of self, is 
+essential if subjects are to remain viable and under their 
+own control. 
+Stability duration is also important. Subjects can break 
+down quickly once they become active, and their need for 
+frequent stability boosts limits their usefulness. The objec-
+tive of stability duration research is to find ways to extend 
+the time between boosts. Ideally, of course, they’d like to 
+eliminate the need for boosts entirely. I was unable to find 
+evidence anyone believes that’s possible, but unexpected 
+impossible breakthroughs are made all the time. 
+Work on the ritual times and materials are often inter-
+mingled with two objectives in mind: First, to make the 
+process as inexpensive and quick as possible. Second, 
+to standardize the procedure so it’s consistent and easy 
+for anyone to master. One of the biggest issues here is, 
+again, researcher availability. Hermetic magicians with 
+the skill level required for this process are rare to start 
+with, and the pool gets further narrowed by the need 
+for an understanding of several advanced metamagical 
+techniques and the moral flexibility to work with very 
+non-traditional arcane techniques and unwilling test 
+subjects. The already-small list of magicians who meet 
+those criteria has been decreasing of late, as likely can-
+didates have been turning up dead. 
+Experimentation of this type requires a very specific 
+setting and very expensive accoutrements. The equip-
+ment is hard to come by and expensive, but the bigger 
+difficulty is finding and maintaining a location that meets 
+all the astral requirements. Maintaining the balance be-
+comes more difficult with the performance of each rit-
+ual, and eventual relocation is inescapable. While astral 
+balance can’t be manufactured, researchers are working 
+to develop alternative, less-expensive equipment. The 
+attached datafile on field tests and device specifications 
+from several megacorp research teams is worth a small 
+fortune to the right buyer. 
+>> CHROME FLESH <<
+<< THE MURKY FUTURE    203

@@ -1,0 +1,396 @@
+﻿==== SL 24 ====
+> The battery replacement also means that they donÆt 
+need to be thrown out after a year as the batteries lose 
+their ability to hold a charge, unlike other (eventually 
+disposable) stun gloves on the market. áKrime also only 
+builds the gloves and densiplast knuckles, while the 
+electrical work is farmed out all around Euskal Herria 
+whose quality ranges from ôwell, thatÆs Krime for youö all 
+the way to ôwow, they almost put effort into this!ö
+> Clockwork
+KRIME STUN LANCE
+When Krime was approached by the newly re-
+formed Winged Hussars, asking that they provide 
+proper lances to ride into battle with, their crew 
+of negotiators, after many rounds of vodka and a 
+very long history lesson on who the Hussars are, 
+finally asked, ôFor what, on horseback?ö ôNo,ö the 
+response came. ôCombat motorcycles.ö Well, the 
+agreement was signed right fragging then and 
+there because that kind of stuff is right up KrimeÆs 
+alley. The Krime Lance is the result, after many 
+hours of research, development, and working 
+with a variety of Polish and Serbian experts in the 
+combat biker and urban brawl fields. This three-
+meter-long stun baton allows a charge that will 
+leave any rioter jerking in the streets. Available 
+in a variety of colors and with heraldic additions. 
+Ballistic streamers extra.
+Note: The Krime Stun Lance comes in troll sizes 
+only; see Using Unadapted Gear (p. 420, SR5).
+KRIME STUN LANCE (EXOTIC MELEE WEAPON)
+ACC REACH DAM AP AVAIL COST
+4 2 10S(e) û5 9R 900Ñ
+> Stun batons are just the right length, weight, and 
+balance to be easy to use. These, not so much. On the 
+other hand, facing a bunch of people on motorcycle-
+back doing an old-skool calvary charge would put the 
+fear of Ghost into anyone!
+> DangerSensei
+> It took all of fifteen seconds for go-gangers to find these 
+and rediscover jousting. Most ôheraldicö additions are 
+just gang signs. Although, if you think of older armies as 
+the original street gangs, that makes sense. On the other 
+hand, my boyfriend wants one for when heÆs riding slitch 
+on my Triumph and thinks the purple streamers he wants 
+with it are pretty, yet manly powerful.
+> RRW
+PROJECTILE 
+WEAPONS
+KRIME TROLLBOW 
+On a trip to England to try to set up a trade deal, 
+a Krime sales team got to watch an archery com-
+petition, largely because the beer was on special. 
+They came back with lots of notes and one of 
+the archers, who was enticed with the promise 
+of even more beer and bows. They promptly in-
+sisted that the company start making composite 
+bows. There were questions about the company 
+making such an ôelfyö weapon, but after watch-
+ing an arrow go through a radiator, the doubters 
+immediately changed their tune, only demanding 
+that engineers add blades onto the form so that it 
+could have some proper ôtroll horns.ö Krime be-
+lieves they have perfected the modern archery 
+weapon for the Sixth World: the Trollbow! Accept 
+no substitutes, troll not included!
+KRIME TROLLBOW (BLADES)
+ACC REACH DAM AP AVAIL COST
+3 1 (STR + 1)P û1 (Rating)R Rating X 
+150Ñ
+KRIME TROLLBOW (BOWS)
+ACC REACH DAM AP AVAIL COST
+4 (Rating + 2)P û(Rating / 4) ù ù ù
+Note: This weapon is only available at Ratings between 6 and 12 
+and requires a Strength equal to its Rating to use properly.
+> You occasionally get archers in the shadows here and 
+there, and they fall into two categories: áReally, really 
+good, or really, really idiotic. KrimeÆs heavily chromed 
+and bladed bow is just going to bring out more of the 
+second type.
+> Bull
+> The draw weight on these things limit them to beefy orks, 
+trolls, or otherwise augmented metahumans. And youÆll 
+>> STREET LETHAL  <<
+24    EXPANDED ARSENAL >>
+
+==== SL 25 ====
+need both arms augmented to use one. Just saw a kid 
+with a cyberlimb think he could do everything with it who 
+came up short when the rest of his body failed him.
+> Zhaganaash
+WINCHESTER AIRBOW
+The Winchester Airbow uses compressed air to 
+fire specially constructed, arrow-length bolts at 
+speeds of almost one hundred forty meters per 
+second. Largely marketed toward hunters, the 
+Airbow has found niche use in the shadows as 
+an ôurban huntingö weapon that can skirt vari-
+ous restrictions on firearms. The Airbow uses 
+Medium Crossbow ranges and is fired with the 
+Archery skill. It can fire five shots before the 
+air tank needs to be refilled. Refilling requires 
+3 Combat Turns using an automatic pump (in-
+cluded with the purchase) or three minutes if 
+pumped by hand.
+WINCHESTER AIRBOW (BOW)
+ACC DAM AP MODE RC AMMO AVAIL COST
+5 10P û2 SS ù 1(ml) 10R 800Ñ
+Note: This weapon has top, under, side, internal, and stock mod-
+ification slots. áIt may be fired substituting the Longarms skill with a 
+û3 dice pool penalty. The Airbow can only fire arrows of Rating 6 or 
+higher.
+> Word to the wise: DonÆt confuse using air with being 
+silent. It doesnÆt sound like a gunshot, but this still makes 
+a noticeable sound when fired.
+> Fianchetto
+> True, but most people have an instinctive reaction to 
+hearing a gunshot. Very few have the same reaction to a 
+loud hiss, especially on a noisy street. That window may 
+be all the difference you need.
+> Thorn
+> So à itÆs a speargun?
+> Netcat
+> Not exactly. This doesnÆt play well with water, but it can 
+be modded like a normal rifle for the most part. ItÆs also 
+slightly smaller, roughly the size of a bullpup rifle, which 
+makes it easier to smuggle into places than a crossbow.
+> Sounder
+> It canÆt be hacked and doesnÆt set off common forms of 
+detection spells like guns or ammunition. On the other 
+hand, itÆs a pain to reload and doesnÆt have nearly the 
+range of most rifles.
+> Balladeer
+TASERS
+KRIME TINGLER
+The story they tell about this one at Krime HQ goes 
+like this: The head of HR was shot with a taser by a 
+blue crew the other day for driving her new BMW 
+(ôIs this your car, maÆam?ö *ZAP*), and it barely 
+fazed her. The taser, that isùshe was raging mad 
+about being pulled over for driving while tusked. 
+When her coworkers learned about what happened, 
+they pondered how the HR chief is small for a troll, 
+and they decided to up their taser game a bit. They 
+took their shotgun-shell stun dart, which was in full 
+production, and they figured it could shoot out of 
+a taser just as easily. A bit more development, and 
+the Krime Tingler was introducedùand the HR exec 
+is hoping to never be on the wrong end of one.
+KRIME TINGLER (TASERS)
+ACC DAM AP MODE RC AMMO AVAIL COST
+3 10S(e) û5 SS ù 2 (m) 6 240Ñ
+* This weapon has a Concealability Modifier of 0
+> Most tasers straddle the line between holdout and light 
+pistols, but this model is right up there with heavy pistols 
+in size, and it only holds two shots. However, those darts 
+are out and obvious, which makes it far more intimidating 
+than youÆd expect.
+> /dev/grrl
+>> STREET LETHAL  <<
+<< EXPANDED ARSENAL    25
+
+==== SL 26 ====
+> Same range as other tasers, however, but compressed 
+air quiet. ThatÆs not entirely silent, mind you, but much 
+quieter than a pistol shot. Shotgun stick-and-shock rounds 
+will get you more range, but will wake the neighbors for 
+sure. Right tool for the right job.
+> Zhaganaash
+> After doing a bit of undercover work for a corp, I have just 
+the HR slitch to shoot with this thing. Hard part will be not 
+reloading and doing it again.
+> Netcat 
+> Reload and shoot them again for me, please.
+> Sunshine
+HOLD-OUT PISTOLS
+NARCOJECT ONE 
+The Narcoject-brand dart pistol has gone through 
+a thorough redesign since its heyday in the 2050s. 
+Its smaller, sleeker features belie the research and 
+craftsmanship that make this newer model so 
+special. The main difference between NarcojectÆs 
+pistol and that of their competitor, Parashield, is 
+that Narcoject has purposely designed their gun 
+to have the look and feel of a light pistol, rather 
+than the clunky dart guns of the past, which re-
+quired special training to use. Most dart weapons 
+can use other toxins, but the Narcoject One only 
+uses NarcojectÆs patented darts, and therefore 
+cannot employ any other toxins.
+NARCOJECT ONE (LIGHT PISTOL)
+ACC DAM AP MODE RC AMMO AVAIL COST
+5 as 
+Narcoject ù SA ù 6(c) 6R 1,200Ñ
+Note: This weapon uses Hold-out Pistol ranges.
+> I knew a runner who used these exclusively. And not 
+for hostage taking or trafficking. He just didnÆt want to 
+damage his soul by killing everybody who got in his way. 
+A minority opinion in the shadows, for sure, but it didnÆt 
+stop him from being successful. Everything has a price.
+> Bull
+> Past tense? Sounds like he ran up against someone who 
+didnÆt share his humanitarian convictions.
+> Butch
+> True. Oddly enough, he was using these for exactly that 
+circumstance.
+> Bull
+RAECOR STING
+With its now-classic ôlemon-squeezerö design, 
+the Sting is a sleek, unobtrusive hold-out pistol 
+thatÆs surprisingly effective against lightly ar -
+mored targets. Designed so the barrel protrudes 
+between the userÆs middle and index fingers, the 
+Sting is fired by simply tightening oneÆs grip. Con-
+structed entirely with non-metallic materials, the 
+Sting is completely invisible to MAD scanners. 
+This pistol can only fire flechette ammunition.
+Standard Accessories: Ceramic Components 
+(Rating 6)
+RAECOR STING (HOLD-OUT PISTOL)
+ACC DAM AP MODE RC AMMO AVAIL COST
+4 8P(f) +5 SS ù 4(m) 6R 350Ñ
+Note: This weapon has a concealability modifier of 2
+> ItÆs worth reminding folks that while the gun might not 
+show up on a MAD scanner, the bullets most certainly 
+will.
+> Bull
+> Yeah, but itÆs a lot easier to fit four bullets in a gimmicked 
+stylus than it is a pistol.
+> Mika
+>> STREET LETHAL  <<
+26    EXPANDED ARSENAL >>
+
+==== SL 48 ====
+MELEE WEAPONS
+WEAPON ACC REACH DAM AP AVAIL COST
+Krime Bill 5 1/3* (STR+3)P û2 12R 1,500Ñ
+Krime Reaver Axe 4 1 (STR+3)P û1 ù 300Ñ
+Krime Reaver Pick 4 1 (STR+1)P û4 ù ù
+Krime Reaver Knob 4 1 (STR+3)P ù ù ù
+Krime Shiv 5 1 (STR+2)P -2 6R 550Ñ
+Macuahuitl, traditional 6 1 (STR+3)P û2 7R 3,000Ñ
+Macuahuitl, modern 4 1 (STR+2)P û1 5R 200Ñ
+Nodachi 5 2 (STR+5)P û5 12R 2,500Ñ
+Fluid-Motion Mace 4 1 (STR+4)P ù 9 1,500Ñ
+Gunstock War Club 5 1 (STR+3)P û1 10 200Ñ
+Nunchaku 5 1 (STR+2)P ù 6R 75Ñ
+Tonfa 4 1 (STR+3)P ù 4 75Ñ
+Krime Gloves: Knucks Physical Limit ù (STR)P ù 8R 600Ñ
+Krime Gloves: Stun Pad Physical Limit ù 8S(e) û5 ù ù
+Krime Stun Lance 4 2 10S(e) û5 9R 900Ñ
+Krime Trollbow, blade 3 1 (STR+1)P û1 (Rating)R Rating X 150Ñ
+Krime Whammy, club 4 1 (STR+2)P ù ù ù
+PROJECTILE WEAPONS
+WEAPON ACC DAM AP AVAIL COST
+Krime Trollbow, bow 4 (Rating + 2)P û(Rating / 4) Rating(R) Rating X 150Ñ
+>> STREET LETHAL  <<
+48    EXPANDED ARSENAL >>
+
+==== SL 49 ====
+>> STREET LETHAL  <<
+<< EXPANDED ARSENAL    49
+RANGED WEAPONS
+WEAPON ACC DAM AP MODE RC AMMO AVAIL COST
+Winchester Airbow 5 10P û2 SS ù 1(ml) 10R 800Ñ
+Krime Tingler 3 10S(e) û5 SS ù 2 (m) 6 240Ñ
+Narcoject One 5 as Narcoject ù SA ù 6(c) 6R 1,200Ñ
+Raecor Sting 4 8P(f) +5 SS ù 4(m) 6R 350Ñ
+Terracota Arms Pup 4(6) 6P ù SA ù 5(c) 4R/6F 500Ñ/900Ñ
+Browning Ghost 5(7) 6P ù SA 1 10(c) 10R 1,250Ñ
+Colt Coral Snake 5(6) 7P û1 SS ù 5(cy) 3R 320Ñ
+Ares Striker 5 8P û1 SA ù 12(c) 4R 400Ñ
+Barrens Special 4 8P û1 SS ù 5(cy) 2F 150Ñ
+Browning Phantom 4(6) 8P û1 SA 1 12(c) 12R 1,500Ñ
+Cavalier Champion 6 10P û2 SS ù 1(b) 8R 650Ñ
+Cavalier Thunderstruck 5(7) 8P û1 BF 3 12(c) 12F 1,150Ñ
+Hammerli Gemini 5 7P û3 * ù 8x2(c) 10R 700Ñ
+HK Urban Fighter 5 8P û1 SA 1 10(c) 15F 1,950Ñ
+Morrissey Alta 5(6) 8P û1 SA ù 12(c) 7F 800Ñ
+Morrissey Elite 4(5) 8P û1 SA ù 5(c) 6R 500Ñ
+Nemesis Arms Praetorian 4(6) 8P û1 SA 1 12(c) 7R 750Ñ
+Onotari Arms Vagabond 5 8P û2 SA 1 6(cy) 6R 375Ñ
+WW Infiltrator 5 7P û1 SA ù 15(c) 14R 1200Ñ
+Cavalier Flash 4(6) 7P ù SA/BF ù 24(c) 8R 1,850Ñ
+Esprit Tsunami 4(6) 7P ù BF/FA ù 40(c) 8R 750Ñ
+Onotari Arms S-3k 4(6) 7P ù BF/FA (1) 30(c) 8R 725Ñ
+Ares Stalwart 5 9P û2 SA/BF/FA (1) 36(c) 6R 750Ñ
+Colt M23A2 5(7) 9P û2 SA/BF/FA 1 40(c) 10R 3,150Ñ
+Izom Artemis 5(6) 9P û2 BF/FA ù 30(c) 8F 1,800Ñ
+     Grenade launcher 3(4) * * SS ù 1(m) ù ù
+Cavalier Frontier 5 10P û2 SA/BF/FA ù 30(c) 6R 1,750Ñ
+Krime Happiness 3 9P û2 FA ù 100 (belt) 6F 500Ñ
+Onotari HL13 5(7) 10P û2 SA/BF/FA ù 30(c) 15F 3,500Ñ
+     Personal defense weapon 4(6) 7P ù SA/BF/FA ù 30(c) ù ù
+     Urban Assault 3(5) 9P û2 SA/BF/FA ù 30(c) ù ù
+     Sniper Support 6(8) 11P û2 SA/BF ù 30(c) ù ù
+PSG Enforcer 6 12P û4 SA ù 2x12(c) 12F 11,000Ñ
+Beretta Northstar 4(6) 11P û1 SA ù 6(m)x2 12R 2,000Ñ
+Krime Boom 4 10P û1 FA ù 20 (m) 15F 750Ñ
+Krime Whammy 3 12P û1 SS 1 5(m) 12F 4,000Ñ
+Krime Triple-Troll 3(5) 10P û4 FA ù 100(belt) 18F 2,000Ñ
+Krime Tripe-Ork 3(5) 8P û2 FA ù 100(belt) 16F 1,400Ñ
+Krime Tripe-Dwarf 3(5) 7P ù FA ù 100(belt) 14F 1,000Ñ 
+HK 82A1 3 * * SS (1) 1(b) 6F 1,500Ñ
+M79B1 LAW Rocket 4 * * SS ù 1(ml) 9F 750Ñ
+Phalanx Systems VogeljΣger II 5 * * SS ù 1(ml) 20F 2,600Ñ
+Terracotta X-6 MGL 4 * * SS 1 6(cy) 8F 2,000Ñ
+Narcoject Gas Gun 5 As toxin ù SS ù 5x2(c) 8R 1,500Ñ
+Narcoject PEP 6 10S ù/û5* SS ù 2x10(c) or 12R 7,500Ñ
+Narcoject Trackstopper 5 ù ù SS ù 6 15R 8,500Ñ
+* indicates damage comes from values of rocket or grenade.
+
+==== SL 50 ====
+POSTED BY: HARD EXIT
+So weÆve covered the new (and new-ish) weap-
+ons that are more broadly available, but thatÆs 
+not the true bleeding edge of combat technolo-
+gy. For that, you have to dive into the megacor -
+porate labs and see the ideas and concepts 
+theyÆre testing. Some of these ideas will never 
+make it to mass productionùthey may not be 
+feasible to produce in large numbers, or they just 
+plain may not work. But this is what the corps 
+are working on, so you should know so you can 
+keep up with what might be coming at you in the 
+near futureùand start building your wish list for 
+future birthdays.
+ 
+ARES ARMS DPC-002A 
+ôSLAM DANCERö
+Always on the lookout for a new gun to sell, Ares 
+Arms has been experimenting with a concept 
+they call a ôdirectional particle cannonö on be-
+half of Ares Space. The initial concept was not a 
+weapon at all, but a device to assist manned and 
+unmanned spacefaring vessels travel through 
+space. Based on a concept from an old flat-vid 
+science-fiction franchise, the idea was to use a 
+low-powered energy beam to deflect small and 
+microscopic debris (that could still severely dam-
+age a vessel) safely away from the intended flight 
+path. Plans to develop the device for its initial pur-
+pose ended in 2065 when Ares Arms engineers 
+realized its potential use as an energy-based ve-
+hicle weapon.
+> If they thought they could make nuyen from it, Ares would 
+try to develop a combat potato gun.
+> Netcat
+Ares Arms R&D started work on the initial con-
+cept in 2053, and according to secondhand ac-
+counts, significant progress had been made. The 
+project, known as Galaxy Navigator, went from 
+proof-of-concept to preliminary working proto-
+type. Ares Arms changed gears and re-named 
+the project Slam Dancer, but most of the data and 
+specs on it and Galaxy Navigator were lost in the 
+Second Matrix Crash of 2064. Left with a proto-
+type device and no data on how exactly it oper -
+ates, Ares engineers did the smart thing (for once) 
+and spent the next few years reverse-engineering 
+and re-testing it. 
+> Another group of Ares engineers also re-started the 
+Galaxy Navigator project, running it parallel with Slam 
+Dancer. With the two devices operating on the same basic 
+concept, the idea was to kill two birds with one stone. 
+Ironically, Galaxy Navigator progressed much faster and 
+its developments kept Slam Dancer afloat despite a series 
+of mishaps and constant budget overruns. While Slam 
+Dancer is still struggling, Ares Space already has plans to 
+ship the first run of Navigator units to Ares Space and the 
+Space Rescue Service by end of fiscal year 2083. 
+> Orbital DK 
+After nearly a decade of trial and error (mostly 
+error), Ares Arms was finally able to complete six 
+(semi) reliable prototype devices in 2073. Classi-
+fied as the DPC-001, test units one through four 
+were shipped to AresÆ Antarctic Base for further 
+testing, while units five and six were placed in a 
+secure Ares vault at corporate HQ in Detroit. These 
+first units were large, weighing over 450 kilos and 
+were six meters long and consisted of an emitter 
+unit and power supply. These units could only be 
+transported by large vehicles. 
+Late last year, after years of testing and refine-
+ment, Ares Arms began field testing a new refined 
+and scaled-down unit known as the DPC-002A. 
+The 002A is still large by weapon standards but 
+can be mounted on heavy vehicles such as battle 
+tanksùwhich may be what the current device is 
+designed for.
+STREET LETHAL
+MILITARY AND
+FUTURE WEAPONS
+50    MILITARY AND FUTURE WEAPONS >>
+
+

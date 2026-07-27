@@ -1,0 +1,244 @@
+
+===== completetrog.pdf PDF 144 =====
+Though cyber replacements are commonly 
+available, Sounder wears an eyepatch when the 
+mood suits her. When asked, she says it helps with 
+the nautical feel of her smuggling operation. 
+>	
+She has a cybereye, and she only wears the eyepatch 
+when she’s trying to play the pirate. Or just feels like 
+looking cool.
+>	
+Turbo Bunny
+Despite her obvious affinity with pirates, she 
+doesn’t perform piracy on the shipping in the 
+Seattle area. Rather, she quietly moves her cus-
+tomers’ goods up and down the Pacific coast. 
+Despite the disagreement with the one Yakuza 
+boss, she continues to move guns for them into 
+and out of Seattle. She has numerous contacts in 
+the San Francisco area of the California Free State 
+and even has a couple of ships registered in the 
+CFS. She has a lot of connections in the Seattle 
+area and is an enduring figure in the club scene, 
+though she favors the dark and moody spots 
+over the hot and trendy ones. If you’re going to 
+be one of the top smugglers in Seattle, you need 
+to be able to make your way into Tír Tairngire, 
+so Sounder has a few ways in. Not easy ones, 
+though, because nothing about the Tír is easy. 
+That means, of course, that it’ll cost you more to 
+smuggle things across that border.
+I was going to stop with the well-known people 
+there and move on to some up-and-comers, but it 
+was suggested I should include myself. So read on!
+SOUNDER
+FEMALE ORK
+SR5 STATS
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+7 (8)
+3
+6 (9)
+4
+4
+4
+3
+5
+1.2
+5
+Initiative
+9(12) + 1D6
+Condition Monitor
+12/10
+Limits
+Physical 7(9), Mental 5, Social 6
+Armor
+13
+Active Skills
+Blades 8, Con 8, Demolitions 4 ,Disguise 4, 
+ElectronicsWarfare 6, Etiquette 8, Gunnery 7, 
+Longarms 9, Nautical Mechanic 8, Navigation 9, 
+Palming 6, Perception 7, Pilot Aircraft 4, Pilot Ground 
+Craft 7, Pilot Watercraft 10, Sneaking 5, Survival 4, 
+Throwing Weapons 5, Unarmed Combat 7
+Knowledge Skills
+Puget Sound (area) 7, Ocean Currents 6, Organized 
+Crime 6, Northwest Yakuza Hierarchy, 7  Pacific 
+Northwest 4, Smuggling Routes 7
+Languages
+English N, Japanese 6 (Cityspeak +2), Or’zet 5
+Qualities
+Distinctive Style (eye patch), High Pain Threshold 2, 
+Quick Healer, Toughness
+Augmentations
+Bone lacing (plastic), control rig 3 (betaware), 
+reaction enhancers 3, simrig, smartlink, voice 
+modulator
+Gear
+Hermes Ikon, medkit (Rating 6), nautical mechanic 
+shop
+Vehicles
+Ares Venture (Aircraft, Handl 5, Speed 7, Accel 4, Bod 
+16, Armor 14, Pilot 4, Sensor 4, Seats 6)
+Aztech Profit (Watercraft, Handl 2, Speed 2, Accel 1, 
+Bod 14, Armor 22, Pilot 3, Sensor 2, Seats 10)
+Echo Motors Metaway (Groundcraft, Handl 4/2, Speed 
+4, Accel 1, Body 10, Armor 4, Pilot 1, Sensor 2, 
+Seats 1)
+Harley-Davidson Nightmare (Groundcraft, Handl 4/3, 
+Speed 5, Accel 2, Body 8, Armor 8, Pilot 2, Sensor 
+3, Seats 2)
+MCT-Nissan Roto-Drone (Medium Drone, Handl 4, 
+Speed 4, Accel 2, Bod 4, Armor 4, Pilot 3, Sensor 3)
+Proteus A.G. “Krake” (Small Drone, Speed 3, Accel 4, 
+Body 2, Armor 2, Pilot 4, Sensor 3, w/ 4 micro-
+torpedoes [chemical, DV 6P, AP –4, 1m radius, w/ 
+acid damage])
+Weapons
+Enfield AS-7 [shotgun, Acc 4(5), DV 11S(e), AP –1, SA/
+BF, RC —, 24(d), w/stick and shock ammo]
+Survival knife [Knife, Acc 5, Reach 0, DV 7P, AP –1,]
+>> THE COMPLETE TROG <<
+<< TROG RUNNERS    143
+
+===== completetrog.pdf PDF 145 =====
+SOUNDER
+FEMALE ORK
+SR: ANARCHY STATS
+S
+A
+W
+L
+C
+EDG
+4
+3
+4
+4
+5
+5
+Condition 
+Monitor
+10/10
+Armor
+9
+Skills
+Pilot (Ground) 3 + A, Pilot (Other) 5 + A, Con 4 + C, 
+Firearms 3 + A, Negotiation 4 + C, Organized Crime (K)
+Shadow Amps
+Essence 3
+Control Rig 3 (Cyberware. Control vehicle in VR, +1 die to 
+vehicle actions, may reroll 3 dice, –2 Essence)
+Smartlink (Cyberware. +1 die to firearms or heavy 
+weapons. –1 Essence)
+Qualities
+Distinctive style (eye patch), Gearhead, Home Ground 
+(Puget Sound)
+Gear
+Ares Venture (A 12, D 10), Aztech Profit (A 18, D 12), Echo 
+Motors Metaway (A 3, D 8), Harley-Davidson Nightmare 
+(A 6, D 6), Hermes Ikon, MCT-Nissan Roto-Drone (A 3, D 
+3), Mechanic toolkit, medkit, Proteus A.G. “Krake” (A 2, D 
+2), Survival kit
+Weapons
+Enfield AS-7 shotgun [DV 9P, Close OK, Near –2, Far —, 
+at Close range can take -2 dice pool penalty to attack 
+two targets]
+Knife [DV 3P, Close OK, Near —, Far —]
+SUNSHINE
+I was born the second son of two mid-level execu-
+tives of Novatech in Denver in 2052. It was a different 
+time and town then. I wasn’t born with a silver spoon 
+in my tusks, but I wasn’t born into poverty, either. My 
+father was a rising star who broke through a lot of bar-
+riers that had been in place up until then. I learned a 
+lot from my father; for example, he taught me about 
+office politics and how important reading people is. 
+He didn’t always know I was listening—or even that I 
+was there—when I absorbed some of these lessons. 
+For example, once when I was five, I was hiding in the 
+closet and overheard his negotiations with his new 
+boss. As a mid-level exec, he was generally supposed 
+to act grateful for having a job that was not complete-
+ly horrible, and senior executives typically expected 
+a lot of sucking up. But my father watched his boss 
+carefully and saw that if he appeared as a total door-
+mat, he would quickly lose any chance at gaining 
+the woman’s respect. So he gently pushed back on 
+an item or two, staying polite but letting her know he 
+wasn’t just rolling over on everything. She became 
+more engaged in the conversation as it went on, be-
+cause she enjoyed exchanging ideas more than she 
+would have liked giving orders. He read her correctly 
+and met her on a level she would respond to. 
+That didn’t mean he had found a permanent 
+home. In 2058, he jumped ship for greener pas-
+tures at Erika, or so he thought. 
+Part of my ongoing education was that I learned 
+that the megacorps are ruthless, and the people are 
+just cogs in the machine. Everything is about the 
+value you can currently offer—past contributions 
+aren’t worth a thing. My mother was a Matrix spe-
+cialist who lost her life during Crash 2.0. The cor-
+poration gave my dad two days off and their con-
+dolences. It wasn’t long after that when Novatech, 
+Erika, and Transys Neuronet merged to form Neo-
+NET. Suddenly, my father was working alongside 
+people he’d left behind when he went to Erika. They 
+all said there were no hard feelings, but I’d learned 
+enough by then to know it wasn’t true. My older 
+brother followed in my father’s footsteps and joined 
+NeoNET. I was top of my class, and everyone ex-
+pected I would soon be joining them as well. 
+Instead, I walked away and joined the shadows 
+as a deep-cover operative. I got out on time—my 
+father was unceremoniously fired a year after my 
+graduation, his people-skills no match for the of-
+fice powers aligned against him. On the outside, 
+I work the long con, finding out the dirt and in-
+formation the corporations or companies want 
+to keep hidden, then making sure those secrets 
+come to light. FastJack saw the value of what I was 
+doing and invited me here. Simple enough. 
+Most recently, I’ve been working deep cover in-
+side Horizon in Los Angeles. You saw some of what 
+I learned back in the Twilight Horizon download, but I 
+decided there was more to learn, so I continued find-
+ing ways to work with the corp, especially as they 
+worked to evolve the new version of the Consensus.
+>	
+Don’t tease us—what have you found out?
+>	
+Cosmo
+>	
+I don’t want to detract from the main subject here, but 
+the main issue is figuring out when crowds are wise 
+and when they’re not. Remember that while we may 
+curse the corps until our faces turn blue, the Shiawase 
+decision and other such matters never had a chance to be 
+overturned because there wasn’t a popular movement to 
+change them until it was far too late. Crowds didn’t have 
+the wisdom to shoot that down as soon as they needed 
+to, simply because crowds didn’t have the information 
+they needed to evaluate the situation properly. So that’s 
+what Consensus 2.0 is working on; not just taking the 
+temperature of Horizon employees to help keep the corp 
+on a steady path, but providing useful information and 
+weighting responses based on the expected expertise of 
+the responders. There is also a question about how quickly 
+the Consensus can affect real-time decision making, and 
+that’s still the subject of many heated discussions.
+>	
+Sunshine
+So that’s my bio. What about my orkness? How 
+>> THE COMPLETE TROG <<
+144    TROG RUNNERS >>

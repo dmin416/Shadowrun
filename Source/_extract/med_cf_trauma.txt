@@ -1,0 +1,523 @@
+
+
+===== PDF page 147 =====
+ESSENCE COSTS
+Nanoware does not carry an Essence cost, nor does it 
+currently come in grades. Nanocybernetic augmenta-
+tions, however, as specialized cybernetics, do carry an 
+Essence cost. 
+USING NANOWARE
+While nanotech sees myriad applications, nanoware 
+is the term for nanotech implanted in living organ-
+isms as a form of enhancement. What sets nanoware 
+apart from other forms of enhancement is the role of 
+nanotech itself. The most common type of nanoware 
+consists of free-floating nanite colonies designed to 
+supplement or replace a body’s physiological systems, 
+to enhance metabolic processes, or to act as a prophy-
+lactic measure. To this end, nanoware circulates via the 
+blood, lymph, and extra-cellular fluids to reach all parts 
+of the body. Other types of nanoware install them-
+selves in the vicinity of a particular organ to either en-
+hance organ functions or build and maintain ultra-fine 
+nanostructures. Various types of neural nanoware, fil-
+tration systems, and organ enhancements fall into this 
+category, and what distinguishes them from cyberware 
+is the need for active nanite colonies.
+Nanoware uses either hard machines delivered using 
+an aerosol or injection or soft machines delivered via in-
+jection or ingestion vectors to make precise adjustments 
+to biological systems. Once introduced, nanites become 
+active in about a minute. Nanoware systems are consid-
+ered to be always active unless a nanohive implant is 
+present. Among other functions, nanohives allow for 
+controlled activation of nanoware systems or colonies, 
+recovering them, and storing them during 
+“downtime.” Another defining aspect 
+of nanoware is that it’s not usually 
+permanent. Despite modern tech-
+niques that provide nanites with 
+protein-matched 
+immune 
+markers to stave off the 
+worst, a living body is 
+still an incredibly hostile environment to the little guys, 
+and sooner or later nanites are flushed or absorbed by 
+the system.
+NANOWARE RATINGS  
+AND DEGRADATION
+All nanoware has a Rating that represents that specific 
+nanite colony’s hardiness, versatility, and level of per-
+formance—whether it is used in “bladeless surgery,” 
+cyberware implantation, antidote treatment, or as a 
+form of enhancement or stimulant. Nanoware systems 
+are transient in nature, meaning they are purged in due 
+course by the body’s filtration, digestive, and immune 
+processes. To represent this transient nature, the Rat-
+ings of nanoware systems permanently degrade over 
+time, at the rate of 1 Rating point per week. A func-
+tioning nanohive (p. 151) counters this nanite loss by 
+providing a safe environment for replenishing feed-
+stocks and colony numbers—regardless of whether the 
+system involves hard or soft machines.
+Active nanoware in the organism also suffers degra-
+dation when the body takes serious wounds—bleeding 
+out or straying into contact with foreign bodies or phys-
+iological systems that they aren’t designed to tolerate. 
+For every 3 boxes of Physical damage taken by the host, 
+reduce the Rating of any active nanoware systems by 1. 
+This loss can be recovered over time with a nanohive.
+When a nanoware system’s Rating reaches 0, it is de-
+stroyed. A nanohive can still replenish the system nor-
+mally.
+The nanoware in a CFD sufferer does not degrade, 
+instead finding other ways to remain active.
+DETECTING SOFT NANITES
+The threshold to detect soft nanites via na-
+no-scanner or clinical tests is increased by +2 
+(see Nanoscanner, p. 153). They are pow-
+ered by natural organic processes 
+and function much like bacteria 
+or parasites, and for the 
+>>	
+CHROME FLESH <<
+146    HACKING THE METAHUMAN CODE >>
+
+
+===== PDF page 148 =====
+most part appear just like their natural counterparts, 
+making them much harder to detect.
+REPROGRAMMING  
+HARD NANITES
+One of the advantages offered only by hard nanites 
+is the ability to reprogram hard nanite systems. Hard 
+nanites are reprogrammed through the body’s own 
+conductive tissues by a hard nanohive.
+When hard nanites are reprogrammed, they change 
+their type, becoming a new kind of hard nanoware. Re-
+programming itself requires the hard nanites to suspend 
+whatever operation they were performing and receive 
+their new instructions. A hard nanohive does not reduce 
+the Rating of its nanites.
+HARD NANITES AND THE 
+MATRIX
+Hard nanites use conductive tissue and other surfaces 
+and UV radiation to communicate. They do not use the 
+Matrix, and so they do not show up as icons in the Ma-
+trix. Hard nanites can be indirectly affected by hackers via 
+a hard nanohive, a devices that has its own Matrix icon.
+NANOWARE 
+SYSTEMS
+HARD NANOWARE 
+SYSTEMS
+The following are the nanoware systems on the mar-
+ket that are certified against CFD infection.
+ANTI-RAD
+Popular among spacers and workers in high-ambi-
+ent radiation environments such as the SOX, anti-rad 
+nanoware is a new development and quite expensive. 
+This free-floating system scours the body via the lym-
+phatic system for telltale isotope traces, free radicals, 
+and radiation damaged cells. Anti-rad nanites bind 
+contaminants in a solvent cage and inject damaged or 
+mutated cells with a compound that induces cell death. 
+The anti-rad nanites then attach to the waste and trans-
+port it to the nearest lymph node to be processed and 
+evacuated normally.
+Anti-rad nanoware reduces the Power of radiation 
+damage by its Rating. Anti-rad is intended as a prophy-
+lactic measure and is unable to eliminate metastasized 
+cancers or pre-existing cell mutations.
+CONTROL RIG BOOSTER
+This specialized breed of neural amplifier nanites 
+are designed to complement implanted control rigs 
+(p. 452, SR5). The nanites organize themselves into 
+artificial neural pathways, building and maintaining 
+a network of nanofilaments. This extends the nor-
+mal interface between the control rig and the mid-
+dle brain to parts of the dorsolateral prefrontal cor-
+tex, cerebellum, and thalamus—areas of the brain 
+that manage subconscious movement, sensory in-
+terpretation, and instinctive decision-making. The 
+booster colony’s dedicated neural pathways allow 
+a rigger to make greater use of the brain’s intuitive 
+understanding of spatial positioning and capacity 
+for instinctive motion control when jumped in to 
+a vehicle or drone. The control rig itself translates 
+the resulting neural impulses into rigging data like 
+speed control, inertia handling, and so forth.
+The booster applies its Rating as a dice pool modifier 
+to your Vehicle Tests when you’re jumped into a drone 
+or vehicle. It cannot be combined with the control rig 
+optimization genetech.
+IMPLANT MEDIC
+This nanoware system is installed along with a specific 
+cyberware implant. The free-floating nanites in this sys-
+tem are designed to monitor the health and well-being 
+of that implant, and to immediately act to repair it if any 
+malfunction or damage occurs. If the nanites detect a 
+problem, they work to restore the implant to its stan-
+dard operating parameters by rejoining neural connec-
+tions, sealing fractures, repairing circuitry, removing 
+foreign bodies or damaged tissue, and so on.
+An implant medic system automatically seeks to re-
+pair a damaged implant. If an implant takes Matrix dam-
+age, this system begins repairing it on the next Combat 
+Turn, using its Rating x 2 as its Hardware + Logic dice 
+pool and its Rating as its Mental limit. You can read more 
+on repairing Matrix damage on p. 228, SR5.
+NANITE HUNTERS
+Nanite hunters seek out and destroy active nanites 
+other than their own colony. By default, hunter nanites 
+seek out all nanites, but they can be reprogrammed by 
+the usual method for hard nanites to target nanites of 
+a specific type (hard, soft, or a specific system). Repro-
+gramming nanite hunters in this way never reduces the 
+system’s rating.
+At the end of each Combat Turn that a nanite hunt-
+er system is active, make a Rating x 2 [Rating] v. Tar-
+get’s Rating x 2 Test. For each net hit the hunters get, 
+reduce the target nanites’ Rating by 1. The hard nanite 
+hunters have a hard time targeting soft nanites, taking 
+a –2 dice pool modifier when attacking them. If more 
+than one valid target is available to the nanite hunters, 
+the system chooses its target at random each Combat 
+Turn.
+Hunter nanites are unable to breach a nanohive to 
+attack dormant nanite systems.
+>>	
+CHROME FLESH <<
+<< HACKING THE METAHUMAN CODE    147
+
+
+===== PDF page 149 =====
+MARKERS
+These nanites are sealed microscopic optical chips 
+used for transporting valuable data without being de-
+tected. Data is typically divided up and downloaded 
+into multiple nanites, building in redundancy against 
+nanite loss. Later, a simple blood sample is all that is 
+needed to collect enough datacapsules to reconsti-
+tute the data within. Markers are designed to defeat 
+nanoscanners: reduce the nanoscanner’s dice pool by 
+the marker’s Rating for the Detection test. Markers can 
+carry one or multiple files.
+NANOTATTOOS
+Once injected, nanotattoo hard machines embed them-
+selves as a lattice of liquid crystal microdisplays under 
+the subject’s skin. A Rating 1 nanotattoo covers one limb 
+or the face, Rating 2 covers half the body, and Rating 3 
+covers the whole body. A nanotattoo (or “nanotat”) can 
+be reprogrammed to display any image the user wishes, 
+including preprogrammed animation. They can also be 
+programmed to be inactive and appear indistinguish-
+able from your normal skin. Reprogramming nanotats in 
+this manner does not reduce its rating.
+Nanotattoos can provide effective camouflage, if 
+you have a full body treatment and you’re not wearing 
+much, imposing a –1 dice pool modifier to Perception 
+tests to detect you visually.
+TAGGANTS
+Unlike most nanites, taggants emit a signal that can be 
+detected by a standard wireless device. This produces 
+an ARO and icon in the Matrix. Taggants can be used 
+to advertise the subject’s criminal convictions or legal 
+status, commercial goods, political propaganda, or 
+any other information programmed into the system. 
+Taggants can have their icon and the information they 
+broadcast changed via reprogramming—such repro-
+gramming does not reduce the taggants’ rating.
+TRAUMA CONTROL SYSTEM
+This nanoware system seeks out and gathers around 
+vital organs. Some component nanites apply elec-
+tro-stimulation to the heart and respiratory muscles, 
+while others regulate blood flow away from wounds 
+without starving the brain of oxygen. While you’re busy 
+dying from overflow damage to your Physical Condi-
+tion Monitor, the TCS attempts to stabilize you every 
+minute, using its Rating in place of both First Aid and 
+Logic in the Stabilization Test (p. 209, SR5).
+REPLICATORS
+Nanoware has some disadvantages. It only has 
+one function, or maybe one function at a time if you’re 
+reprogramming hard nanites. It can lose its potency over time. 
+It’s very expensive to buy and upkeep. But there’s one kind of 
+nanite that can perform multiple roles, actually gains strength 
+as it works, and best of all it’s free of charge: REPLICATORS!
+Replicators are only found in CFD victims … all CFD 
+victims. These nanites have been altered by the virus to let 
+them build nanites of other types. They can construct both soft 
+and hard nanites given sufficient raw materials, which they will 
+happily take out of the victim’s food, blood, or body. The virus 
+camouflages them as other types of nanites to conceal them 
+and prevent detection, but the mechanism for this is unknown, 
+and there still isn’t a way to detect them … until it’s too late.
+So if you want a powerful nanoware system at absolutely 
+no cost, contact your nearest head case and join the unknown 
+but secretly growing multitudes who use replicators! Your new 
+personality will thank you for it!
+HARD NANOWARE SYSTEMS
+NANOWARE
+RATING
+AVAILABILITY
+COST
+Anti-rad
+1–6
+14F
+Rating x 6,000¥
+Control rig booster
+1–3
+12F
+Rating x 6,000¥
+Implant medic
+1–6
+12F
+10% of implant cost
+Nanite hunters
+1–6
+16R
+Rating x 5,000¥
+Markers
+1–3
+12
+Rating x 2,000¥
+Nanotattoos
+1–3
+12F
+Rating x 1,000¥
+Taggants
+1–3
+12
+Rating x 600¥
+Trauma control system
+1–6
+12F
+Rating x 4,000¥
+>>	
+CHROME FLESH <<
+148    HACKING THE METAHUMAN CODE >>
+
+
+===== PDF page 150 =====
+SOFT NANOWARE 
+SYSTEMS
+ANTI-TOX
+These nantidotes are designed to counter a broad spec-
+trum of toxins. They carry active charcoal, tannic acid, 
+magnesium, and other chemicals to absorb toxins from 
+the digestive tract and bloodstream, and also enhance 
+the body’s natural detoxification processes. Reduce 
+the Power of any toxin affecting you by the nanoware’s 
+Rating. If the toxin’s Power is reduced below 1, further 
+effects and/or damage are halted.
+Anti-tox will also protect against the effects of alco-
+hol, caffeine, and other drugs. Reduce the duration of 
+drugs by a factor equal to the Rating of the anti-tox sys-
+tem (i.e., divide the duration by the rating).
+CARCERAND-PLUS
+Carcerand-plus is the nanotech version of carcerands, 
+hollow molecular spheres designed to carry a drug pay-
+load that they slowly dispense as they circulate the body 
+and break down over time. Normal carcerands are pas-
+sive, designed to break down within a narrow period.
+Carcerand-plus triggers under either of two condi-
+tions. It can be tailored to respond to a certain chemical 
+in the body, such as a certain food or drug, introduced 
+from outside the body; the trigger condition must be 
+specified before the nanites are installed. It is also 
+triggered if its Rating is reduced to 0. Once triggered, 
+carcerand-plus nanites release their payload into the 
+bloodstream.
+Once injected, carcerand-plus colonies circulate 
+through the body until the trigger condition is met or they 
+are purged. Carcerand-plus nanoware contains the equiv-
+alent of one dose of a compound. The requisite dose 
+of compound must be bought and paid for separately. 
+Carcerand-plus cannot be supported by a soft nanohive.
+NANOSYMBIOTES
+Nanosymbiotes are colonies of specialized nanites that 
+permeate the user’s anatomy. Once they have fully de-
+ployed, they adopt specialized functions appropriate to 
+their location. These are all focused on returning the subject 
+to a healthy physiological baseline. Nanosymbiotes adjust 
+body chemistry, assist cell formation, and even mimic cer-
+tain cell functions themselves, acting to speed clotting and 
+healing. Functioning nanosymbiotes allow the user to heal 
+and recover from wounds faster. Add the nanosymbiotes’ 
+Rating to your dice pool when making tests to heal dam-
+age through natural recovery (p. 207, SR5).
+NANTIDOTES
+Nantidotes are hollow nanites that float in the user’s 
+bloodstream and carry a specific toxin’s antidote inside 
+an outer membrane. When a nanite comes into con-
+tact with the predefined toxin or compound, this out-
+er membrane automatically dissolves or cycles open, 
+administering the antidote at the poisoned site. Nan-
+tidotes affect only one type of toxin or venom, cho-
+sen when the nanites are created. If the nantidotes are 
+already present in the body, their effect is instanta-
+neous—they provide complete immunity, and the toxin 
+has no effect. Every time a dose of toxin is neutralized. 
+reduce the nantidote’s Rating by 1 point; if the Rating 
+is reduced to 0, the nantidotes can offer no more pro-
+tection. This Rating degradation may be restored by a 
+nanohive normally.
+NEURAL AMPLIFIERS
+This form of neural nanoware has been in development 
+since the very first days of the datajack. Nanotechnol-
+ogy has finally developed to the point where scientists 
+can foray deeper into the brain and central nervous sys-
+tem without excessive risks. Neural amplifiers use soft 
+nanites to manufacture artificial neurons and expand 
+neural pathways between specific parts of the brain’s 
+or body’s neural network. After growing the expand-
+ed neural architecture, the dedicated nanite colony 
+falls into a support role, electrochemically stimulating 
+the newly formed pathways—a process that emulates 
+natural reinforcement of neural pathways in the brain 
+through learning, practice, and experience. Each type 
+of neural amplifier targets specific neuron tracts, en-
+hances glial cell functions (in the brain), and increases 
+axon density and width with superconductive nanofil-
+aments sheathed with nu-myelin (a transgenic protein 
+that reduces interference with neural impulses and 
+neurotransmitter “signal degradation”). Neural amplifi-
+ers create a significant increase in specific brain func-
+tions and response time.
+Only two neural amplifiers can function at peak ef-
+ficiency per subject, after which point the additional 
+neural traffic becomes increasingly distracting and con-
+fusing. If you have more than two neural amplifiers at 
+a time, you take a –2 dice pool modifier to all actions 
+related to each system.
+Learning Stimulus: These neural amplifiers facilitate 
+comprehension and memorization of skills the charac-
+ter already possesses by enhancing the brain’s ability 
+to cross-reference learned skill memories and the lan-
+guage comprehension functions of the parietal-tem-
+poral-occipital complex. When raising a Knowledge 
+or Language skill the character already possesses, this 
+nanoware reduces the Karma cost by 1 for each Rating 
+point, to a minimum of 2 Karma.
+Limbic: Limbic neural amplifiers rewire parts of the 
+limbic system to areas of the parietal, temporal, and oc-
+cipital lobes that produce cohesive sensory perceptions 
+(from neural sensory stimuli). This system grants a +1 
+dice pool modifier and increases the Mental limit by its 
+Rating when using Intuition-linked skills.
+>>	
+CHROME FLESH <<
+<< HACKING THE METAHUMAN CODE    149
+
+
+===== PDF page 151 =====
+Neocortical: Neocortical neural amplifiers enhance 
+frontal lobe activity, which is essential to a metahu-
+man’s abstract thought processes and problem-solv-
+ing ability. When using Logic-linked skills, this implant 
+grants a +1 dice pool modifier and a Mental limit bonus 
+equal to its Rating.
+Recall: Recall neural amplifiers enhance sensory 
+memory storage and recall by ensuring neural path-
+ways to stored memories are reinforced and do not 
+fall into disuse. Recall grants a dice pool modifier 
+equal to its Rating to any Memory Tests (p. 152, SR5) 
+to remember facts, events, or other information the 
+character has directly experienced and concentrated 
+on memorizing.
+O-CELLS
+O-cells, or Omega cells, function as enhanced lym-
+phocytes (white blood cells) integrated into the body’s 
+auto-immune system. O-cells are gene-modified and 
+augmented from T- and B-cells, which are part of the 
+body’s adaptive immune system. These natural cell 
+types retain a record of previous infections so that they 
+can mount a quicker and stronger response to the cul-
+prit antigen(s) or pathogen in cases of re-infection. Un-
+like natural lymphocytes, which only store memories of 
+previous infections (or inoculations), O-cell soft nanites 
+come equipped with broad-spectrum pharmacologi-
+cal microdoses and an inbuilt library of responses to 
+a wide array of common pathogens. O-cell nanoware 
+reduces the Power of any viral or bacterial pathogens 
+that infect the host by its Rating.
+OXYRUSH
+Oxyrush nanites store blood oxygen and release it to 
+maintain healthy blood-oxygen levels, like super-effi-
+cient red blood cells. A character with this nanoware 
+can hold his breath for a half-hour for every Rating 
+point. Additionally, oxyrush also adds its Rating to the 
+character’s dice pool on any Fatigue Tests.
+NANOCYBERNETICS
+Nanocybernetics bridge the gap between nanoware 
+systems and ordinary cybernetics. What makes them 
+unique and different from standard cyberware aug-
+mentation is that working nanocolonies are an inte-
+gral, and in fact essential, part of the implant. Nano-
+cybernetics can and do perform a wide variety of 
+functions. Some, such as the nanohive, are necessary 
+for free-floating nanites to exist within a metahuman 
+body. Others use nanites as ultrafine sensors to mon-
+itor the body’s health. Unlike nanoware, all nanocy-
+bernetics are permanent and non-degrading implants 
+despite using active nanite colonies. The implant it-
+self normally contains feedstocks and limited storage 
+during downtimes. All are cyberware (p. 451, SR5) 
+and follow the basic cyberware rules. All have an Es-
+sence cost and are available in all standard cyberware 
+grades. Some nanocybernetics can be installed within 
+cyberlimbs; these have Capacity costs listed in their 
+descriptions.
+HARD NANOWARE SYSTEMS
+NANOWARE
+RATING
+AVAILABILITY
+COST
+Anti-tox
+1-9
+16F
+Rating x 5,000¥
+Carcerand plus
+1-6
+10F
+Rating x 3,000¥ (+ drug)
+Nanosymbiotes
+1-3
+16F
+Rating x 6,000¥
+Nantidotes
+1-6
+8F
+Rating x 1,500¥
+Nanotattoos
+1-3
+12F
+Rating x 500¥
+Neural amplifiers
+Learning stimulus
+1-3
+14F
+Rating x 5,000¥
+Limbic
+1-3
+16F
+Rating x 7,500¥
+Neocortical
+1-3
+16F
+Rating x 7,500¥
+Recall
+1-3
+12F
+Rating x 3,500¥
+O-Cells
+1-9
+12F
+Rating x 5,000¥
+Oxyrush
+1-5
+12F
+Rating x 1,500¥
+>>	
+CHROME FLESH <<
+150    HACKING THE METAHUMAN CODE >>

@@ -1,0 +1,1729 @@
+
+===== PDF p184 =====
+way for many to “bulk up.” At the end of the duration, the 
+user takes 2 boxes of Stun damage (unresisted) due to 
+fatigue; some of the muscle growth, however, remains. 
+Regular use (at least three times a day for three to six 
+weeks) of ripper reduces the Karma cost for improving 
+the Strength attribute by 1.
+Muscles developed with ripper often leave users 
+disproportioned. Side effects of prolonged use may 
+include sterility, baldness, lack of sexual desire, devel-
+opment of secondary sexual characteristics of the op-
+posite sex (such as breast growth in males), and cancer 
+of the testes or ovaries. Ripper is most often sold in der-
+mal patches or disposable syringes, though heavy users 
+have taken to wearing portable chemical injectors for a 
+constant dose.
+SLAB (COEUR D’HIVER, 
+GHULPILLE)
+Vector: Injection
+Speed: 2 Combat Turns
+Duration:  (10 – Body) hours, minimum 1 hour 
+Power: 16
+Addiction Type: n/a
+Effect: Suspended animation (see below)
+Originally designed as a surgical aid, slab places the 
+user in a state of near hibernation where breathing and 
+heart rate are lowered to almost imperceptible levels. 
+A Perception + Intuition (6) Test or a Medicine + Log-
+ic (4) Test is required to determine the character is still 
+alive without proper medical equipment (a medkit is in-
+sufficient). At the end of the duration, the user receives 
+a –4 modifier to Reaction for a number of hours equal 
+to half the equivalent duration of the drug (rounded 
+down). Side effects commonly include shakes, chills, 
+and excessive appetite. Reaper, an Awakened version 
+utilizing mana-rich mytotoxins, also causes the aura to 
+appear dormant and effectively dead, giving a –8 dice 
+pool penalty to anyone attempting to assense the aura.
+SNUFF (AZTECH CHEW,  
+INDIAN TOBACCO)
+Vector: Ingestion, Inhalation
+Speed: 1 minute
+Duration: 10 x 1D6 minutes
+Addiction Type: Both
+Effect: +1 Reaction, Pain Resistance 1
+This legal drug first gained popularity in the early 
+days of the Native American Nations and is traditionally 
+made from an ancient formula including tobacco leaves, 
+cannabis resin, and willow bark. Modern snuff typical-
+ly forgoes the expensive natural ingredients by directly 
+combining the active chemical compounds involved: 
+THC, nicotine, and salicin. Snuff users claim the drug 
+has a calming effect. Once the effect wears off, users 
+experience –1 Intuition for a time period equivalent to 
+twice the original duration. At the gamemaster’s discre-
+tion, long-term snuff users may be more susceptible to 
+Fatigue damage and cancer. 
+SOBER TIME
+Vector: Contact
+Speed: 1 Combat Turn
+Duration: 10 x 1D6 minutes
+Addiction Type: Both
+Effect: This drug temporarily counteracts the buzz of 
+alcohol or drugs. For the its duration, the drug removes 
+negative penalties to Charisma, Intuition, Reaction, and/
+or Willpower, up to a maximum of 6 dice worth of pen-
+alties between those attributes. If the total penalties are 
+greater than 6, the drug’s benefits are applied evenly 
+across all attributes that have suffered a negative penal-
+ty, and any leftover benefits can be applied as desired to 
+other applicable attributes that still have penalties. Once 
+the drug wears off, all negative penalties return at twice 
+the effect for the penalty’s whole original duration, even 
+if part of that penalty’s duration had already passed. This 
+only is true for attributes that had their penalty reduced 
+by the drug.
+Sober time only negates penalties already in effect. 
+Any penalties incurred after sober time is taken will be 
+suffered as normal.
+If any attribute is reduced below 1 when the negative 
+penalties return, the character will be rendered immo-
+bile and fall into a trance until the effect wears off.
+>> CHROME FLESH <<
+<< QUICK & DIRTY AUGMENTATIONS    183
+SOBER TIME EXAMPLE
+Wrecker is drunk and under the influence of a couple other 
+drugs, just like any other ganger during their downtime. He is 
+currently under the following penalties: Charisma –2, Intuition –2, 
+Logic –1, and Willpower –2. Vindicator comes into the bar and 
+says some Halloweeners are nosing around in search of their 
+stolen deepweed. Wrecker, knowing this is trouble, injects sober 
+time to reduce his impairments so he’ll be ready when the bullets 
+start flying. One point of penalties comes off each of the affected 
+attributes, making the penalties Charisma –1, Intuition –1, Logic —, 
+and Willpower –1. He has used four of the six points of reduction 
+that sober time provides; he has two left, and three attributes still 
+penalized. Deciding there won’t be much talking at this point, he 
+leaves the – 1 penalty in place on his Charisma and takes away 
+the penalties remaining on his Willpower and Intuition. If Wrecker 
+decides to use his custom combat drug when the Halloweeners 
+bust the door open, he will suffer the custom drug’s negative 
+penalties just like normal, since it was administered after he took 
+sober time (and he’ll also have to test for drug interaction).
+When the sober time wears off in forty minutes—assuming 
+he lives that long—all the penalties will be doubled, meaning 
+they will be Charisma –4, Intuition –4, Logic –2, and Willpower –4 
+(note that if Wrecker had chosen to not remove the penalty on 
+one of those attributes, such as Logic, the other penalties would 
+have been doubled, but the unaffected attribute would remain 
+unchanged). Sadly for Wrecker, his base Willpower is 3, as is his 
+Intuition, meaning they will both be reduced below 1. That means 
+he’ll be zoned out in the corner for the next hour until the drugs start 
+wearing off naturally.
+
+===== PDF p185 =====
+SOOTHSAYER
+Vector: Contact
+Speed: 1 minute
+Duration: (12 – Body) hours, minimum 1 hour
+Addiction Test: None
+Effect: 8S, resisted with Body only. Unless all dam-
+age is resisted, the subject also suffers Willpower –3 
+and Social limit –1. Each additional application reduces 
+the DV by 1 as the subject builds up a resistance to the 
+drug’s effects, no matter how long it has been since the 
+last application.
+This new interrogation drug mixes several different 
+plants, including the gympie gympie (Dendrocnide mo-
+roides). This gel uses the tiny hairs of the gympie gympie 
+plant to inject the drug through the skin, causing excru-
+ciating pain that makes the subject more susceptible to 
+interrogation. So yeah, “interrogation drug” is a handy 
+euphemism in this case.
+WOAD (BOZOKU, FRENITICO)
+Vector: Ingestion
+Speed: 1 Combat Turn
+Duration: 5 x 1D6 minutes
+Addiction Type: Both
+Effect: +2 to Agility, Berserk (see below)
+A synthetic hallucinogen derived from North Euro-
+pean mushroom species, woad is the cheapest legal 
+combat drug on the market. Users automatically go ber-
+serk when wounded, in a manner similar to Bear magi-
+cians (p. 321, SR5), but you also gain +2 to your Agility 
+while the berserk rage lasts. Side effects include frothing 
+at the mouth, fever, and a desire to bite. When the drug 
+wears off, users suffer –2 to all Social tests for the origi-
+nal duration x 10.
+ZERO (CYBERTRAM, DOCTOR 
+BOB’S ALLERGY ELIXIR)
+Vector: Ingestion, Injection
+Speed: 1 hour
+Duration: (20 – Body) hours, minimum of 1
+Addiction Type: Physiological
+Effect: Allergy and Addiction reduction, promotion 
+of cyberware adaptation, –2 to Disease Resistance Tests 
+and Toxin Resistance Tests
+Zero is the street name for a number of different im-
+munosuppressant drugs used to help the body adjust 
+to new cyberware or reduce the effects of allergic reac-
+tions. Street docs commonly use small quantities of the 
+drug to suppress the body’s immune system for a period 
+of time, reducing the chances that the body will reject 
+implanted ’ware. Habitual drug users use zero to lower 
+their tolerance to other drugs. When this drug is used 
+in a clinical setting under the supervision of a trained 
+doctor, the user does not take the penalties from mixing 
+drugs (see p. 178).
+For the duration of effect, zero users are no longer 
+subject to penalties from allergies, though they still suf-
+fer damage for Severe allergies (see p. 78, SR5). Further-
+more, users can treat any Addictions they may have as 
+if they are one level lower than they actually are for the 
+duration of the effect. At the gamemaster’s discretion, 
+characters who undergo surgery for implants may be 
+dosed with zero.
+ZONE (SELECTIVE SEROTONIN 
+RE-UPTAKE INHIBITORS, OR 
+SSRIS)
+Vector: Ingestion
+Speed: 1 hour
+Duration: (12 – Body) hours, minimum 1 hour
+Addiction Type: Both
+Effect: Can ignore Mild to Moderate Phobias
+A fear of heights can be a major inconvenience 
+when scaling the outside of an office skyscraper. A 
+fear of enclosed spaces is a pain when you are hiding 
+in someone’s trunk, waiting for them to unknowingly 
+drive you to the location of a secret research lab. For 
+these occasions and more, you have SSRIs. This drug 
+has the positive effect of calming phobias (see Pho-
+bia quality, p. 157, Run Faster), and it also makes users 
+restless and light sensitive. Users receive a Mild Allergy 
+to light while the drug is in effect (p. 78, SR5) and –1 
+to Perception tests. Any applicable Glare penalties are 
+increased by 1.
+AWAKENED DRUGS
+AYAO’S WILL
+Vector: Ingestion
+Speed: 2 Combat Turns
+Duration: 10 x 1D6 minutes
+Addiction Type: Psychological
+Effect: +2 dice pool bonus to resist Manipulation 
+spells.
+This bioengineered form of an Awakened cotton 
+plant is processed for its seeds; the seeds are ingested 
+to get the effect, which is to act as a mana blocker for a 
+period of time. It provides +2 dice to resist the effects 
+of any Manipulation spells, whether they are intended 
+harmfully or beneficially. It was originally developed 
+in MCT labs but has now been replicated by all of the 
+megacorporations, and it is just starting to trickle down 
+to major sprawls around the world.
+CRIMSON ORCHID  
+(H-RED, SCARLET BLISS)
+Vector: Injection
+Speed: 1 Combat Turn
+Duration: (12 – Body) hours, minimum 1 hour
+Addiction Type: Both
+>> CHROME FLESH <<
+184    QUICK & DIRTY AUGMENTATIONS >>
+
+===== PDF p186 =====
+Effect: –3 Reaction, +1 to all thresholds, Pain Resis-
+tance 6
+The red orchid is a Southeast Asian Awakened plant 
+whose dual-natured pollen attracts dual-natured insects. 
+This distinctive red pollen, while not a narcotic itself, ampli-
+fies the narcotic properties of the poppy-derived opiates 
+such as bliss and heroin, resulting in crimson orchid. In pre-
+vious years, crimson orchid was the subject of vicious Triad 
+wars in the Golden Triangle, but the dust has since settled, 
+leaving Scarlet Bliss in the control of the Yellow Lotus. Ru-
+mors suggest this was achieved with the quiet support of 
+Wuxing, but there is no solid evidence to confirm it.
+Users of crimson orchid possess a distinctive red tint to 
+their auras and gain the Astral Beacon negative quality (see 
+p. 78, SR5) for the duration of the effect.
+HECATE’S BLESSING
+Vector: Ingestion
+Speed: Immediate
+Duration: 10 x 1D6 minutes
+Addiction Type: Both
+Effect: +1 dice pool bonus for drain rolls
+A bioengineered drug distilled from the sap of an 
+Awakened maple, Hecate’s blessing helps a magic-using 
+character channel more mana through their bodies, giving 
+them +1 die to their drain rolls for the drug’s duration. The 
+downside is that once the drug wears off, the user’s magi-
+cal capability is reduced by –1 for a period of time equal to 
+twice the original duration.
+LAÉS (LEÄL, LAÉSAL WINE)
+Vector: Ingestion, Inhalation, Injection
+Speed: 1 Combat Turn
+Duration: 20 x 1D6 minutes
+Addiction Type: n/a
+Effect: Stun Damage (see below), Memory Loss (see 
+below)
+Laés was created by the government of Tír Tairngire 
+from the Awakened laésal fruit, thought to grow only in 
+their government-controlled orchard. Upon taking a dose 
+of laés, the character must resist 12S damage or fall uncon-
+scious for the drug’s duration, with her memories of the last 
+(12 – Body, minimum 1) hours erased retroactively from 
+the mind, starting from the moment the Awakened drug 
+was administered and working backward. Laés changes the 
+chemical structure of the memories themselves, rendering 
+them impossible to recover with technology or magic.
+Laés can be ingested, injected, or even rolled into spe-
+cially prepared cigarettes to poison unwitting smokers. 
+Laésal wine is a type of brandy made from the fruit of 
+the laésal tree—its effects are the same as those of laés. 
+Leäl is a less potent—and expensive—version of laés, and a 
+popular date-rape drug among the Seattle club scene. Leäl 
+has the same effects as laes, but the user only loses the 
+last (120 – Body, minimum 100) minutes of memories; the 
+duration is 5 x 1D6 minutes.
+>> CHROME FLESH <<
+<< QUICK & DIRTY AUGMENTATIONS    185
+
+===== PDF p187 =====
+ONEIRO (DREAMSAGE, DELPHI) 
+Vector: Inhalation
+Speed: Immediate
+Duration: 3D6 minutes
+Addiction Type: Psychological
+Effect: Paralysis, allows the use of the Divination 
+metamagic while active.
+Provides vivid dreams in sleep, usually with prophet-
+ic insights. Burned like incense, the vapors are inhaled, 
+providing vivid visions and dreams with prophetic in-
+sight. The user is allowed to use Divination using Log-
+ic + Intuition (threshold set by the table on p.125, Street 
+Grimoire). If the user has the Augury and Sortilege ritual, 
+they may use it to interpret the Divination as normal. If 
+they do not, the user is Disoriented afterwards for a du-
+ration equal to the time the drug was in effect. Addiction 
+often occurs because of the tantalization of seeing the 
+future, the feeling there was something important just 
+about to be revealed, and for mundanes, the chance to 
+touch real magic for a moment. Long-term users have 
+been known to develop chronic indecision and paranoia, 
+unable to take action without forewarning of some sort.
+OVERDRIVE (X-CYTE)
+Vector: Inhalation
+Speed: 1 Combat Turn
+Duration: (10 – Body) hours, minimum 1 hour 
+Addiction Type: Both
+Effect: +1 Reaction, +1 to all Logic-linked skills
+From the steamy jungle pharmacopoeia of Latin 
+America comes a central nervous stimulant with siz-
+zle. At the end of this drug’s duration, users suffer 8S 
+damage (unresisted). Aside from a few brain-damaged 
+hacker junkies who complain that overdrive causes 
+nosebleeds, most users of the so-called “hacker drug” 
+report few side effects other than a pleasant tingling 
+across the forebrain and the sudden crash. Long-term 
+users have been known to develop narcissistic person-
+ality disorder (use Poor Self-Control: Braggart, p. 158, 
+Run Faster) or paranoid personality disorder (use Para-
+noia, p. 158, Run Faster).
+PIXIE DUST (BLEEDER, 
+NEVERLAND)
+Vector: Inhalation
+Speed: Immediate
+Duration: 1D6 minutes
+Addiction Type: Both
+Effect: +1 Charisma, +1 Perception, High Pain Toler-
+ance 1, Memory Loss (see below)
+A recent bastardization of traditional cocaine cut 
+with leäl, and sometimes with other substances includ-
+ing raw sugar, ground glass, and powdered caffeine tab-
+lets. A character on pixie dust loses all memory of the 
+past 1D6 minutes after the drug takes effect; this effec-
+tively means they forget they ever took the drug, but the 
+high remains.
+Snorting pixie dust is the painful but preferred meth-
+od of taking the drug because users forget the agony 
+almost immediately. Consequently, nosebleeds are a 
+common side effect of using pixie dust. Recovery from 
+pixie dust addiction is notoriously difficult, because us-
+ers cannot remember how often they use it, and over-
+doses are common.
+TRANCE (TOADSTONE, 
+ZUVEMBIE POWDER) 
+Vector: Inhalation
+Speed: 1 Combat Turn
+Duration: (6 – Body) hours, minimum 1 hour
+Addiction Type: Both
+Effect: +1 Intuition, +2 to all Logic-linked skills, Paral-
+ysis (see below)
+A paralytic neurotoxin secreted by an Awakened Lat-
+in American tree frog, trance is often erroneously sold 
+as an opiate. Popular with hackers, magicians, and oth-
+er professions that don’t require excessive movement, 
+trance causes paralysis and a speeding up of the higher 
+brain functions. At the end of the duration, users remain 
+paralyzed (see Paralysis, p. 409, SR5) for an equivalent 
+duration. This paralysis only affects voluntary muscle 
+groups; breathing and other autonomous functions are 
+not affected.
+MAGICAL COMPOUNDS
+ANIMAL TONGUE 
+Vector: Ingestion
+Speed: 3D6 minutes
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Psychological
+Effect: This mixture grants the critter power of Ani-
+mal Control. 
+Exotic Ingredient: A natural herbal radical of pulp 
+from the manzana cactus in Aztlan.
+When animal tongue wears off, the user has an un-
+natural fear of animals for a period of time equal to the 
+mixture’s duration. Treat this as if animals—mundane or 
+paranormal—that come near the character exude the 
+Fear power. Spirits do not count as animals.
+IMMORTAL FLOWER  
+Vector: Ingestion
+Speed: 16 Combat Rounds
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Both
+Effect: This mixture grants the critter power of Re-
+generation.
+Exotic Ingredient: A natural herbal radical of petals 
+from the immortal flower in the Mojave Desert.
+>> CHROME FLESH <<
+186    QUICK & DIRTY AUGMENTATIONS >>
+
+===== PDF p188 =====
+For every 20 boxes of damage sustained while the 
+user is under the influence, permanently reduce the char-
+acter’s Essence by 0.1. A character with cyberware or 
+bioware who takes this drug also suffers 2D6 boxes of 
+Physical damage (unresisted) when the drug wears off, as 
+the regeneration ability attempts to “repair” the implants.
+LITTLE SMOKE
+Vector: Inhalation
+Speed: 2D6 minutes
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Psychological
+Effect: This mixture grants the Concealment and 
+Confusion critter powers.
+Exotic Ingredient: Three units of natural herbal re-
+fined grasses from the Great Plains of North America.
+At the end of the duration, the user’s Perception and 
+Willpower are reduced to 1 for an equivalent duration.
+ROCK LIZARD BLOOD
+Vector: Ingestion
+Speed: 30 minutes
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Physical
+Effect: This mixture grants the critter power of Im-
+munity against Diseases and Toxins.
+Exotic Ingredient: A natural herbal radical of pulp 
+from a North American weeping tree.
+At the end of the duration, the character suffers 2P 
+damage (unresisted) and –4 dice for all tests to resist dis-
+eases and toxins for an equivalent duration.
+SHADE
+Vector: Inhalation
+Speed: Immediate
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Psychological
+Effect: Astral projection
+Exotic Ingredient: A natural herbal radical of pollen 
+from the red orchid of Southeast Asia.
+This compound forces the user, even a mundane, 
+to astrally project. This grants all users, including mun-
+danes, access to the metaplanes if they are in the 
+company of a spirit guide or initiate. At the end of the 
+duration, the user suffers 10 boxes of Stun damage 
+(unresisted). Characters must return to their bodies 
+before the duration ends or they die. Shade allows 
+Awakened users to retain their astral form longer than 
+normal, adding the duration of the drug to their nor-
+mal astral time.
+WUDU’AKU
+Vector: Ingestion, Inhalation
+Speed: 2D6 minutes
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Psychological
+Effect: The user receives +2 dice on all Conjuring skill 
+group tests and adds +2 to her effective Charisma when 
+dealing with spirits of man.
+Exotic Ingredient: A natural mineral radical of pow-
+dered fossils from the Australian Outback.
+While the drug helps summon spirits of man, it’s not 
+so good for other conjuring activities. Once the drug is 
+ingested,  users suffer –2 dice to Conjuring skill group 
+tests and –2 Charisma when summoning any other type 
+of spirit for twenty-four hours afterward.
+ZOMBIE DUST
+Vector: Contact, Injection
+Speed: 2 Combat Turns
+Duration: Essence +1D6 hours, maximum 12 hours
+Addiction Type: Physiological
+Effect: Prepares target for possession.
+Exotic Ingredient: Exotic metahuman remains
+With powdered puffer fish, marine toad, and hyla 
+tree frog combined in an alchemical mixture, this re-
+finement of an ancient traditional voodoo formula 
+causes a target to be instantly prepared for possession. 
+While this can offer a rapid conversion for a friendly 
+ally, it can also be used aggressively against unwilling 
+targets. Note they still get their Intuition + Willpower 
+Test to resist possession.
+CHIPS
+PSYCHCHIPS
+Speed: Immediate
+Duration: 48 hours
+Addiction Type: Psychological
+Effect: Removes effects from negative psychological 
+qualities. See below.
+PsychChips are a treatment for psychological disor-
+ders, coming in a number of varieties to compensate 
+for anything from OCD to phobias and everything else 
+you might imagine. While under their influence, the 
+user no longer suffers from any negative penalties due 
+to qualities related to their psychological state. Mess-
+ing around with mental composition, though, has cer-
+tain side effects. Users tend to feel sluggish, and they 
+have a –1 Reaction penalty for the chip’s duration. If 
+the user develops an Addiction and stops using the 
+chips as a result, the quality it counteracted is instead 
+increased by one degree (for example, a Moderate 
+Phobia becomes Severe).
+Legal PsychChips can handle Mild and Moderate 
+qualities. BTLs can compensate for Severe qualities.
+>> CHROME FLESH <<
+<< QUICK & DIRTY AUGMENTATIONS    187
+
+===== PDF p189 =====
+>> CHROME FLESH <<
+ADDICTION TABLE
+SUBSTANCE
+ADDICTION RATING
+ADDICTION THRESHOLD
+AEXD
+1
+1
+Aisa
+5
+2
+Betel
+Special (see entry)
+2
+Betameth
+9
+3
+Cereprax
+9
+3
+Dopadrine
+3
+2
+eX
+5
+2
+Galak
+6
+3
+G3
+2
+1
+Guts
+5
+3
+Hurlg
+4
+3
+K-10
+11
+3
+Nightwatch
+1
+2
+NoPaint
+3
+1
+Oxygenated Fluorocarbons
+2
+1
+Push
+4
+3
+Red Mescaline
+5
+3
+Ripper
+5
+3
+Snuff
+2
+2
+Woad
+5
+2
+Zero
+1
+3
+AWAKENED DRUGS
+Ayao’s will
+5
+2
+Crimson Orchid
+9
+3
+Hecate’s blessing
+4
+2
+Overdrive
+5
+3
+Oneiro
+6
+3
+Pixie Dust
+10
+4
+Trance
+6
+3
+MAGICAL COMPOUNDS
+Animal Tongue
+3
+2
+Immortal Flower
+8
+3
+Little Smoke
+6
+3
+Rock Lizard Blood
+6
+3
+Shade
+7
+3
+Wudu’aku
+4
+1
+Zombie Dust
+2
+3
+CHIPS
+Psych Chips (legal)
+3
+2
+Psych Chips (illegal)
+6
+3
+188    QUICK & DIRTY AUGMENTATIONS >>
+
+===== PDF p190 =====
+>> CHROME FLESH <<
+<< QUICK & DIRTY AUGMENTATIONS    189
+DRUG COSTS
+SUBSTANCE
+AVAILABILITY
+COST (PER DOSE)
+AEXD
+4
+80¥
+Aisa
+4
+25¥
+Animal Tongue
+6R
+1,500¥
+Ayao’s Will
+14F
+750¥
+Betel
+4
+5¥
+Betameth
+5F
+30¥
+Cereprax
+14F
+800¥
+Crimson Orchid
+6F
+300¥
+Dopadrine
+8
+45¥
+eX
+3R
+20¥
+Forget-Me-Not
+10F
+400¥
+Galak
+4R
+45¥
+G3
+2
+15¥
+Guts
+8R
+60¥
+Hecate’s Blessing
+12F
+500¥
+Hurlg
+2R
+10¥
+Immortal Flower
+14R
+2,500¥
+K-10
+16F
+900¥
+Laés
+12F
+750¥
+Leäl
+10F
+400¥
+Little Smoke
+12F
+1,800¥
+Memory Fog
+6R
+100¥
+Nightwatch
+3R
+25¥
+NoPaint
+3
+15¥
+Oneiro
+6F
+1,250¥
+Oxygenated Fluorocarbons
+12R
+2,000¥
+Overdrive
+10F
+800¥
+Pixie Dust
+8F
+800¥
+Push
+4F
+25¥
+PsychChips (illegal)
+6F
+500¥
+PsychChips (legal)
+4R
+350¥
+Red Mescaline
+4R
+¥50
+Ripper
+6F
+60¥
+Rock Lizard Blood
+10R
+1,700¥
+Shade
+6R
+1,000¥
+Slab
+8R
+250¥
+Snuff
+1R
+10¥
+Sober Time
+6F
+125¥
+Soothsayer
+12F
+150¥
+Trance
+10F
+1,100¥
+Woad
+3R
+15¥
+Wudu’aku
+12F
+2,350¥
+Zero
+8R
+150¥
+Zombie Dust
+12F
+1,500¥
+
+===== PDF p191 =====
+GRADES OF DRUGS
+Street cooked: These are the drugs a local ganger 
+makes in a basement or warehouse. The cook cuts the 
+pure drugs to get more product to sell and keep prof-
+its up. Street-cooked drugs are half the cost of standard 
+drugs, but crash times (meaning the duration of negative 
+effects after drugs wear of) are doubled. Any drug inter-
+action rolls are at +1 to the roll; if multiple street-cooked 
+drugs are used, this modifier is cumulative.
+Standard: The default drug grade unless otherwise 
+stated. No changes in effect or cost. 
+Pharmaceutical: High-end controls used to mini-
+mize impurities and standardize effects. Costs are dou-
+bled. Any crash effects are halved in time duration. The 
+Addiction Threshold is reduced by 1. Pharmaceutical 
+grade is the minimum grade for customized drugs.
+Designer: A drug made specifically for one person, 
+further reducing side effects and optimizing benefits. 
+Cost is triple that of a pharmaceutical grade of the same 
+drug (making it six times the Standard cost), and the 
+cook making the drug must keep a sample of the user’s 
+DNA on file. The crash isn’t as severe since it is tailored 
+for the individual, so the duration is quartered. If all the 
+drugs used are designer grade, then drug interaction 
+rolls are at –1.
+If someone uses a Designer drug intended for some-
+one other than themselves, treat it as Street Cooked.
+CUSTOMIZING DRUGS
+Perhaps you have perused the catalog of available 
+drugs and found them lacking. You have a vision for a 
+drug, and you want to make it happen. Well, this is the 
+section for you. Customizing a drug involves two steps: 
+choosing a foundation and then adding one or more 
+blocks to it.
+FOUNDATIONS
+Foundations are the starting point for a customized de-
+signer drug. A cook chooses one foundation and builds 
+off it. Each foundation has a specific theme that can 
+help you decide if it’s right for your purposes
+FOUNDATION 1 (TANK)
+Body +2, Willpower +1, Pain Resistance 3, Charisma –2 
+FOUNDATION 2 (DEFENDER)
+Agility +1, Reaction +1, Intuition +1, Strength –1, Logic –1 
+FOUNDATION 3 (GENIUS)
+Logic +2, Intuition +2, Willpower –1, Reaction –1
+FOUNDATION 4 (CHARMER)
+Charisma +1, Social limit +1, Agility –1
+FOUNDATION 5 (WARRIOR)
+Strength +1, Agility +1, Body +1, Willpower –1
+BLOCKS
+Blocks have two or three levels. A block that has a neg-
+ative modification is incompatible with another block 
+that has a positive modification on the same attribute. 
+Additionally, if a foundation has a negative modifier for 
+an attribute, only Level 1 or Level 2 or a block positive-
+ly modifying that attribute can be used. 
+When using custom drugs, remember that an Attri-
+bute can’t be modified below 1. If someone takes a drug 
+that will modify the Attribute to 0 or below, the person 
+is paralyzed as their body is unable to function until the 
+drug wears off.
+BLOCK 1 (CRUSH)
+Level 1: Strength +1, Intuition –1
+Level 2: Strength +2, Intuition –1, crash effect: 2S 
+damage, unresisted
+Level 3: Strength +3, Intuition –1, Low Pain Tolerance 
+quality (p. 82, SR5), crash effect: 2S damage, unresisted
+BLOCK 2 (BRUTE)
+Level 1: Body +1, Logic –1
+Level 2: Body +2, Logic –1, crash effect: 2S damage, 
+unresisted
+Level 3: Body +3, Logic –1, Intuition –1, crash effect: 
+2S damage, unresisted
+BLOCK 3 (STRIKE)
+Level 1: Agility +1, Strength –1
+Level 2: Agility +2, Strength –1, crash effect: 2S dam-
+age, unresisted)
+Level 3: Agility + 3, Strength –1, Unsteady Hands 
+quality (p. 87, SR5), crash effect: 2S damage, unresisted
+BLOCK 4 (LIGHTNING)
+Level 1: Reaction +1, Logic –1
+Level 2: Reaction +2, Logic –1, Willpower –1
+Level 3: Reaction +3, Logic –1, Willpower –1, crash 
+effect: 2S damage, unresisted
+BLOCK 5 (EINSTEIN)
+Level 1: Logic +1, Willpower –1
+Level 2: Logic +2, Willpower –1, Intuition –1
+Level 3: Logic +3, Willpower –1, Intuition –1, crash 
+effect: –1D6 Initiative Dice
+BLOCK 6 (GUT CHECK)
+Level 1: Intuition +1, Strength –1
+Level 2: Intuition +2, Strength –1, Reaction –1
+>> CHROME FLESH <<
+190    QUICK & DIRTY AUGMENTATIONS >>
+
+===== PDF p200 =====
+>	
+I’ve seen write-ups of the work in this area. It’s useful 
+without being completely alien. What interested me 
+most were the side effects. Genetic memory flashbacks 
+that caused the subjects to dream from the perspective 
+of the species that had been implanted. Lots of alternate 
+hypotheses as to why, all pretty much boiling down to 
+“not a clue” but the effect seems universal, present in 
+every subject to some degree. No doubt the Azzies will PR 
+the drek out of that. Make it sound like a plus.
+>	
+Butch
+At this point Aztechnology hasn’t solved the prob-
+lem of multiple genetic memories. That is to say that 
+while the physical attributes of different species can 
+be implanted, the genetic memories of only one of 
+those species can be assimilated. Aztechnology is 
+glossing over this by gathering and producing a wide 
+array of Instinctual Infusions, maximizing what can be 
+done with any one donor species. But they are try-
+ing to find ways to combine species; the methods of 
+testing and data derived indicate Owains BioNatural 
+is involved in this research. There are unsubstantiated 
+reports they’ve had some success blending the genet-
+ic memories of two species with similar characteris-
+tics, but no luck combining wildly divergent or multi-
+ple species.  
+There’s evidence that Proteus managed to push 
+further into this field than anyone, and in a different di-
+rection. The evidence is difficult to confirm, however, 
+because Proteus consolidated all of their research and 
+development assets, from top theorists to test subjects, 
+in a single location: Boston. The Proteus arkoblock that 
+had been planted in the harbor as a sign of the megacor-
+poration’s commitment to the city was the primary data-
+store while their labs and testing facilities were spread 
+throughout the Boston area of the NEMA. Which now is 
+almost entirely within the Quarantine Zone. Reports can 
+be found that indicate Proteus was successful in what 
+is currently the pinnacle of genetic augmentation re-
+search: Magic and Resonance infusion. Proteus reports 
+indicate that they were able to infuse and activate genes 
+in subjects to provide arcane and electrokinetic talent as 
+>> CHROME FLESH <<
+<< THE MURKY FUTURE    199
+
+===== PDF p201 =====
+well as various abilities, arcane and emergent, associat-
+ed with other species. 
+>	
+I’ve heard that before. It’s like cold fusion—claims mean 
+nothing until they can be duplicated.
+>	
+Nephrine
+The loss of their primary work in Boston was a major 
+setback, but it was only the first. They made the mistake 
+of petitioning the Corporate Court for access to their 
+Boston arkoblock on the grounds that they were on the 
+verge of a fundamental breakthrough. Not only did they 
+fail to make their case, they painted a big bulls-eye on 
+every one of their facilities around the world. All of their 
+sites, and all the sites of their subsidiaries, have been 
+raided; everything from subtle incursions to smash-and-
+grabs. The complaint also attracted the positive atten-
+tion of several A- and AA-rated megacorps that have 
+approached them with offers to collaborate on what has 
+come to be called the “Megacorporate Revision.” This 
+widespread attention, both positive and negative, has 
+kept Proteus from regaining their lost work or making 
+progress in recreating their original research.
+>	
+Reports can be faked. They could just be trying to make 
+other corps think they were further along than they were. 
+Get them to throw resources into the black hole that is 
+Boston.
+>	
+Mr. Bonds
+>	
+Proteus has taken too many other hits for this to be a 
+ploy. They lost a big chunk of resources in Boston, and 
+they are not among those in control of the situation. The 
+AAA megas have pushed out all of the smaller megas in 
+control of the NEMAQZ. 
+>	
+Glitch
+NANOTECHNOLOGY
+The potential uses and benefits of nanotechnology are 
+far too great for even something as potentially dev-
+astating as CFD to completely shut down. The future 
+in this area will remain uncertain until the problem of 
+blocking out or eradicating CFD infections is solved. 
+But isolated facilities with safety and security precau-
+tions beyond BSL-4 have been working on both solv-
+ing that problem and developing a new class of nanites 
+that are impervious to CFD. Currently leading the re-
+search in this field are Aztechnology and Mitsuhama. 
+I was not assigned to investigate NeoNET’s and Evo’s 
+nanotech, but I think it’s very likely they’ve made sig-
+nificant advances as well.
+Aztechnology has been focusing primarily on using 
+nanites for short-term boosts, much like combat drugs, 
+but with a more concentrated main effect and fewer side 
+effects. To limit risk of CFD, the nanites have hard cod-
+ing that cannot be modified and limited, non-recharge-
+able energy storage. The nanites act as a very specific 
+delivery and/or operating system and then clear out 
+of the system and shut down when their work is done. 
+They follow their pre-programmed series of commands, 
+with the system flush as the final part of the command 
+sequence, and that’s it. These systems boost speed, 
+strength, reflex, agility, mental acuity, pheromone re-
+lease, wound repair, and toxin resistance. Once the CFD 
+issue is dealt with, expect Aztechnology to flood the 
+market with these, especially with security firms and 
+military organizations.
+MCT has been looking for the silver lining around the 
+cloud of CFD. They’ve been using information gathered 
+from studying the CFD sufferers—“head cases” I believe 
+you call them—and analyzing what those nanites can do 
+for the host. Their discoveries have been primarily focused 
+on the physical capabilities, but MCT recently discovered 
+the ability of some nanites within a head case to function 
+as a Matrix device and allow the head case access to the 
+Matrix without the use of a commlink or cyberdeck. 
+Physical enhancements are very similar to the work 
+being performed by Aztechnology, and my reading of 
+their documents showed enough similarities to suspect 
+corporate espionage. One of the primary divergence 
+points in the MCT work is the function of the nanites. 
+AZT wants the nanites to function as a focused deliv-
+ery system for known compounds to enhance certain 
+attributes, while MCT’s research focuses on the use of 
+the nanites themselves as the enhancement system. 
+Their efforts show requirements for higher quantities 
+of nanites with simpler command structures. These sys-
+tems perform their single purpose and then flush from 
+the system or, as an interesting optional development, 
+they self-destruct into biologically useful substances.  
+>	
+Information I’ve heard says that the “corporate espionage” 
+in question might be a collaborative effort. Especially 
+since these two had some involvement in the various 
+projects in Boston. 
+>	
+Mika
+>	
+As Clear suspects, both NeoNET and Evo have projects 
+in the works to advance the field of nanotechnology. 
+NeoNET seems focused on the use of nanites to form 
+simple networks to act as devices with a variety of 
+purposes that can be completely internal and very difficult 
+to detect when they aren’t in use. The nanites don’t interact 
+until a command is given, and then they act as whatever 
+device they need to emulate. Civilian applications are as 
+simple as a commlink that controls all the devices in your 
+home. Militaries and special operations units could have 
+cyberdecks, jammers, commlinks, or radio detonators 
+hidden in their members. 
+Evo is not running from CFD. Everything I’ve seen 
+points toward them being the first corp to start accepting 
+>> CHROME FLESH <<
+200    THE MURKY FUTURE >>
+
+===== PDF p202 =====
+head cases as citizens or at least offering asylum. This also 
+means they’ll have the CFD nanites to study, along with 
+the head cases controlling them when they want to utilize 
+the technology for the next phase of their evolution.
+>	
+Plan 9
+CHEMICAL 
+ENHANCEMENTS
+When talking augmentations, most people think in terms 
+of permanent solutions to temporary problems. Being 
+enhanced helps with specific tasks, of course, but the rest 
+of the time? Useless, or annoying, or in the way. There 
+are enough drawbacks that a number of corps, including 
+one AA in particular, are developing chemical augmenta-
+tions that have short, task-specific durations. The biggest 
+hurdles in this area are mitigating the after-effects and 
+minimizing the likelihood of addiction. Paralleling this re-
+search is a form of augmentation that involves the use of 
+chemical compounds that have more permanent effects. 
+These drugs offer a long-term boost without surgery or 
+risk of detection from cyberware scanners or x-ray imag-
+ing. Zeta-ImpChem is the frontrunner in perfecting both 
+chemical types, but at least one other megacorporation 
+has access to their research thus far.  
+For single-use chemical boosts, Z-IC has been up-
+grading and modifying current combat-enhancement, 
+pain-reduction, attention-focusing, and data-processing 
+enhancement drugs by adding secondary chemicals that 
+allow higher doses and suppress side effects. They’ve 
+progressed from clinical to field trials, and with the ex-
+ception of addiction issues with the data-processing en-
+hancements, they’ve been very successful. Test subjects 
+who become addicted to the data-processing report that 
+the world seems flat and uninteresting after they’ve seen 
+it so clearly. Corporate directives are quite blunt about the 
+dangers of mental enhancers and describe serious conse-
+quences for any researchers who do not take proper pre-
+cautions to confine their effect to prescribed parameters.
+>	
+Corps don’t want citizens who can think. The employees 
+who get most frequently reassigned to the dirt have high 
+IQs and tend to be independent thinkers. Corps monitor 
+everyone to avoid too much free thought.
+>	
+Clockwork
+Z-IC was on the verge of introducing Chemoware™, 
+their long-term chemical-augmentation regimen, when 
+the Boston situation sent the corporate world into turmoil. 
+They pulled back on marketing and pushed the stock they 
+had on hand out for more field-testing. Quite a bit of that 
+stock was dropped into the Quarantine Zone. The effects 
+of these chemical augmentation systems are not as ex-
+treme as their cybernetic or bionetic parallels, but that’s 
+part of the point. They’re less obvious, more difficult to 
+detect, and the user experiences limited, often negligible, 
+disruptions to their biological integrity. An unexpected 
+result of this impromptu field test has been the discovery 
+that these chemicals seem detrimental to technomancers 
+and magicians. The effect is similar to the addiction other 
+subjects developed to short-term intellectual enhancers, 
+though of course there are no withdrawal symptoms as 
+the drugs are always present. The subjects feel as though 
+they are more aware and in tune, and they are unaware 
+that the careful balance of body and mind they need to 
+maintain when manipulating mana or working with reso-
+nance is impeded. The extent to which their abilities are 
+reduced varies from individual to individual.
+>	
+Z-IC is poised to make a big jump up the ranks with this. 
+That, along with some of the connections we’ve seen 
+them make in regard to the Revision, might mean a seat at 
+the big table on Z-O or one of the Big Ten getting demoted 
+to let the revised Z-IC jump up. 
+>	
+Icarus
+>	
+I’ve pulled some numbers together using all the 
+connections we’ve seen, speculated, and know for sure. 
+Even if only half of those A and AA megas make the 
+moves to merge, S-K will no longer be number one. 
+Not even close. No wonder work has been so abundant 
+lately. Even the biggest of the big boys is at risk of losing 
+something here.
+>	
+Glitch 
+Cybertechnology, bioware, genetech, nanotechnolo-
+gy, and chemical enhancement are the five augmenta-
+tion techniques most widely known, but my employer 
+directed me to investigate other approaches to aug-
+mentation that are not so mainstream. Among these 
+are various arcane augmentation enhancements, a new 
+procedure known as e-loading, and even more obscure 
+frontiers. None of these techniques is likely to be on the 
+menu at street clinics anytime soon, but they are out 
+there as options to anyone willing to volunteer as a test 
+subject for one of the megacorporations. The megacor-
+porations have no shortage of volunteers looking for an 
+edge on the street, and no compunction about prom-
+ising them whatever they want from the procedure. Of 
+course, rounding up involuntary test subjects is a pretty 
+straightforward proposition as well. 
+>	
+I will warn any who are easy to scare (Slamm-0!, I’m 
+looking at you) that the arcane uses of augmentation 
+enhancement are the stuff of nightmares.
+>	
+Netcat
+  
+ARCANE ENHANCEMENTS
+Cybermancy is a scary term. Manatech, a name bor-
+rowed from more mundane systems like MCT’s Lucifer 
+Lamps, has not acquired the same stigma. Yet. While 
+>> CHROME FLESH <<
+<< THE MURKY FUTURE    201
+
+===== PDF p203 =====
+standard augmentations are installed and cause inter-
+ference with the body’s natural stability, manatech uses 
+arcane rituals that bind the augmentation to the user’s 
+aura prior to installation. The device is then installed, 
+and the biological stability is maintained through ar-
+cane bonding. The system has its drawbacks. Primarily 
+the fact that the binding forces the user to be perpet-
+ually active on and connected to the astral plane. This 
+causes issues with wards and manipulation by astral 
+entities, among other things. The information on these 
+techniques was not acquired from a megacorporate 
+site, but from intercepting a courier. Efforts to connect 
+the courier and/or the project to the corporation be-
+hind the research were unsuccessful. 
+MCT and Wuxing are currently working to perfect 
+arcane foci that bind or strengthen the subject’s biolog-
+ical stability in order to enable enhancements beyond 
+what the natural metahuman form could accommo-
+date. These foci, called Essence Anchors, are designed 
+using principles similar to the cybermantic techniques 
+that bind a soul to a body. However, instead of binding 
+once the body’s stability is gone, these foci reinforce 
+that stability while the subject is still viable. I don’t claim 
+to understand ninety percent of the magespeak in the 
+research documents, but I understand enough to know 
+that the technique works.
+>	
+This process has blood magic or some kind of vampiric 
+draining/transference written all over it. This is not going 
+to be an astrally clean process. I would want to get an 
+astral peek at subjects using either of these techniques 
+and see what kind of astral damage they are causing. 
+Cybermancy creates quite a haze, and it damages the 
+astral space around it rather quickly. 
+>	
+Lyran
+I have questioned whether to put this last part here, 
+as it isn’t exactly an augmentation that anyone should 
+volunteer for, but it is a lesson in the lengths to which 
+some of the megacorporations will go in order to up-
+grade their assets. The relationship between Ares and 
+the insect spirits is becoming increasingly known, but 
+the extent and characteristics of their relationship are 
+not. The public sees Ares as the bug killers. They fought 
+to hold them in Chicago, destroyed hives all over the 
+world, and then helped clean them out of Chicago so 
+that the Containment Zone could be opened. 
+They learned how to fight them by utilizing the clas-
+sic strategy of studying and understanding your enemy. 
+A strategy that always bears the risk of understanding 
+the enemy to the point of becoming just like them. Us-
+ing your enemy’s own weapons, strengths, and methods 
+against them becomes an appealing option. During their 
+research into insect spirits, Ares found a technique to in-
+fuse their men with some of the strengths and abilities of 
+the very enemy they hunted. The designs I was able to 
+document included exoskeletal armor, poisoned claws, 
+superhuman strength and reflexes, and visual access to 
+the astral plane. 
+The research and efforts are primarily being per-
+formed by UnlimiTech, an Ares subsidiary, but plenty of 
+members of Knight Errant, Hard Corps, and Wolverine 
+are getting these modifications while working at their 
+facilities. Entire Firewatch units are getting augmented 
+so that they can better fight the spirits. I didn’t see any-
+thing about making these augmentations publicly avail-
+able, but if it can boost the bottom line, Ares will sell it 
+to someone.
+>	
+Interesting perspective from a non-insider, Clear. While 
+this may seem like an augmentation, and while Ares may 
+try to sell it as such, it is in fact simply variations on how 
+well the merge goes when a spirit takes over a host. This 
+in not augmentation, this is assimilation.
+>	
+Sticks
+>	
+I’ve seen some of the results of this, and they’re fairly 
+standardized. I’m not entirely sure Clear is wrong here. 
+Ares may just be using genetech or biotech to modify its 
+citizens with insect features. Insects are successful around 
+the world, and they have been the inspiration for a lot of 
+inventions over the ages. 
+>	
+Chainbreaker
+E-LOADING
+This was one of the first pieces I studied when I start-
+ed my survey of experimental approaches to augmen-
+tation. The connections to CFD research were right in 
+the beginning of the work, and I have been fascinated 
+by the virus since first learning about it. This research 
+could be part of the silver lining that MCT is looking for 
+as well, but it is currently being led by NeoNET.
+E-loading uses nanites loaded with specific pro-
+gramming to install memories and skills. Using a pro-
+cess similar to CFD, the nanites overwrite the user’s 
+memories to the point she not only has the desired 
+skills, she also has complete memories of learning, 
+mastering, and using those skills, making them instant-
+ly second-nature. The process has a long list of pros 
+and cons to be considered. On the plus side, e-load-
+ing is less invasive than skillwires, the skills can’t be lost 
+like programs or chips, and there’s no evident damage 
+to the psyche or biological integrity of the subject. The 
+list of negatives is longer. The skills can’t be switched 
+out on the fly, each skill must be loaded individually, 
+each must be fully assimilated and integrated before 
+the next can be added, and the overwriting creates po-
+tentially confusing or disorienting memory gaps and 
+overlaps. Of course the biggest negative, and a possi-
+ble deal-breaker, is the use of nanites. They are already 
+experimenting with new delivery procedures that do 
+not involve nanites, but none of these has been per-
+>> CHROME FLESH <<
+202    THE MURKY FUTURE >>
+
+===== PDF p204 =====
+fected or thoroughly tested. The new procedures em-
+ploy various ways of making modifications directly to 
+the brain. Every one is dangerous; every one requires 
+time-consuming and meticulous open-skull surgery; 
+but they eliminate any and all risk of CFD infection.
+>	
+That kind of surgery is likely to leave you dead or brain-
+fragged. Adding a few skills or memories doesn’t seem 
+worth the risk. If we’re talking gold-medal gymnast skills, 
+great, but if we’re just looking to help you understand 
+which end of the gun the bullets come out of, leave my 
+cranium intact. I’ll just visit the range.
+>	
+Stone
+>	
+The secondary implications of this are intense. Cloned 
+bodies could have memories and skills written directly 
+onto their blank brains. 
+>	
+KidCode
+>	
+If memories can be added, they can be subtracted, too. 
+What’s to prevent the megacorps from using this as another 
+control technique as they make people think a certain way 
+or delete the memories of their recent activities to protect a 
+run, conceal a project, or even hide a murder? Assuming it 
+can be made to work on a broad level.
+>	
+Snopes
+DARK DATA
+This last point concerns the future and the past of aug-
+mentations and all of the information that’s out there, 
+somewhere. The information I’ve gathered came from 
+megacorporate sources around the world: A, AA, AAA, 
+and even a few that are unrated. Many of these data-
+stores are isolated and self-contained; none of the cor-
+porations have obvious ties to anyone else. The corps 
+aren’t cooperating on this issue the way they have for 
+the new Matrix or Boston, but all of them are working 
+on it, in parallel if not in tandem
+A moment ago I mentioned cybermancy and its 
+frightening reputation. Until recently I thought I had a 
+general idea what cybermancy was, but I didn’t have a 
+practical understanding of the process. As it turned out, 
+I had less than no idea what it is and absolutely no un-
+derstanding of what it involved. A month ago I came 
+across my first mention of cyberzombies, which caused 
+me to look deeper so I could ferret out hard data. What 
+I found scared the hell out of me. I’ll let what follows ex-
+plain why that is. Right now, suffice it to say research into 
+cybermancy falls into four broad categories: Process 
+Perfection, Field Advancement, Subject Production, and 
+Subject Appropriation. Some corporations are exploring 
+more than one area, but none are working in all of them. 
+This is a situation that generates a lot of work for runners 
+as each corp tries to discover all it can about what all the 
+other corps have learned.
+PROCESS PERFECTION
+The biggest megacorporations involved in cybermancy 
+are working to perfect the process. The major research 
+directions focus on astral hazing, subject memory re-
+tention, stability duration, ritual times, ritual material 
+needs, and facility requirements. 
+Eliminating the astral hazing effects that damage 
+the manasphere around the subject is a high priority. 
+Variations on shielding metamagic have been the most 
+successful thus far, but the process requires powerful ar-
+canists with a deep understanding of advanced shield-
+ing techniques. Individuals like that are rare and several 
+have been hot targets for extractions. Dr. Augusta Vides-
+sence has been “employed” by four different megacor-
+porations over the past year. 
+Subject memory retention gained a lot of focus 
+after the megacorporations started researching CFD. 
+What they found suggested possible ways memories 
+could be written in or, in the case of cybermancy sub-
+jects, reinforced. Memory retention, memory of self, is 
+essential if subjects are to remain viable and under their 
+own control. 
+Stability duration is also important. Subjects can break 
+down quickly once they become active, and their need for 
+frequent stability boosts limits their usefulness. The objec-
+tive of stability duration research is to find ways to extend 
+the time between boosts. Ideally, of course, they’d like to 
+eliminate the need for boosts entirely. I was unable to find 
+evidence anyone believes that’s possible, but unexpected 
+impossible breakthroughs are made all the time. 
+Work on the ritual times and materials are often inter-
+mingled with two objectives in mind: First, to make the 
+process as inexpensive and quick as possible. Second, 
+to standardize the procedure so it’s consistent and easy 
+for anyone to master. One of the biggest issues here is, 
+again, researcher availability. Hermetic magicians with 
+the skill level required for this process are rare to start 
+with, and the pool gets further narrowed by the need 
+for an understanding of several advanced metamagical 
+techniques and the moral flexibility to work with very 
+non-traditional arcane techniques and unwilling test 
+subjects. The already-small list of magicians who meet 
+those criteria has been decreasing of late, as likely can-
+didates have been turning up dead. 
+Experimentation of this type requires a very specific 
+setting and very expensive accoutrements. The equip-
+ment is hard to come by and expensive, but the bigger 
+difficulty is finding and maintaining a location that meets 
+all the astral requirements. Maintaining the balance be-
+comes more difficult with the performance of each rit-
+ual, and eventual relocation is inescapable. While astral 
+balance can’t be manufactured, researchers are working 
+to develop alternative, less-expensive equipment. The 
+attached datafile on field tests and device specifications 
+from several megacorp research teams is worth a small 
+fortune to the right buyer. 
+>> CHROME FLESH <<
+<< THE MURKY FUTURE    203
+
+===== PDF p205 =====
+FIELD ADVANCEMENT
+Men and women willing to expand the limits of cyber-
+mancy don’t have to be morally corrupt—they need to be 
+morally bankrupt. Pushing the limits in this field requires a 
+very special blend of sociopathy and psychopathy, a kind 
+of mental illness traditionally (and thankfully) possessed 
+by a rare few. That’s why these primary researchers are 
+first targets for runs by rival corporations. When ex-
+tractions are pre-arranged, these jobs are usually smooth. 
+When the extraction is hostile, the results are mixed. The 
+two most common outcomes are new subjects for the 
+experiments being added to the target corporation’s pool 
+of “volunteers,” or the researchers ending up dead to pre-
+vent them from falling into the hands of a rival. 
+Increasing implant capacity is a top priority. Every re-
+search group is trying to find ways to stuff as much met-
+al as they can into the subject while keeping them men-
+tally stable enough to perform tasks more complex and 
+useful than a suicide run. Efforts are being made to both 
+enhance the arcane rituals that bind the soul (or whatev-
+er) to the body and make the equipment more compati-
+ble with the subject’s biological integrity. Some of these 
+innovations are, or are potentially, universally applica-
+ble, which means marketable. But many solutions in-
+volve merging magic and technology in ways that can’t 
+be replicated outside tightly controlled settings.
+One line of experimentation involved test subjects I 
+found incomprehensible. Magicians who trained them-
+selves to control the mana warping using what little 
+magic they had left as the process ran its course. From ev-
+erything I’ve been able to find, the results were inconclu-
+sive—or worse, not at all encouraging—but at least three 
+major corporations continue to conduct experiments.
+>	
+This is horrible, but it may have some validity. The inherent 
+magical talent of the subject could prove beneficial to 
+making the process stick.
+>	
+Lyran
+>	
+Maybe it would work really well on those who can 
+manipulate Resonance? Another great place to drop off 
+technomancers for some worthwhile research.
+>	
+Clockwork
+>> CHROME FLESH <<
+204    THE MURKY FUTURE >>
+
+===== PDF p234 =====
+>> CHROME FLESH <<
+<< COMPILED AUGMENTATION TABLES    233
+SYMBIONTS
+HARD NANOWARE
+DEVICE
+ESSENCE
+AVAILABILITY
+C0ST
+REF
+Cleaner leech
+—
+4
+100¥ 
+p. 123
+Booster endosont
+0.2
+12
+10,000¥ 
+p. 123
+Digester endosont
+0.2
+12
+10,000¥ 
+p. 123
+Electroreceptor endosont
+0.2
+12
+10,000¥ 
+p. 123
+Gut Flora
+0.15
+6
+1,000¥ 
+p. 123
+     Allergy Resistance
+     Mild
+0.2
+8
+10,000¥ 
+p. 123
+     Moderate
+0.2
+12
+30,000¥ 
+p. 123
+     Severe
+0.2
+16
+50,000¥ 
+p. 123
+     Lactose tolerance
+-
+2
+50¥ 
+p. 124
+Mender endosont
+0.2
+12
+30,000¥ 
+p. 124
+Slimworm
+0.2
+4
+1,000¥ 
+p. 124
+Stalwart endosont
+0.2
+12
+10,000¥ 
+p. 124
+DEVICE
+RATING
+AVAILABILITY
+C0ST
+REF
+Anti-rad
+1–6
+14F
+Rating x 6,000¥ 
+p. 147
+Control rig booster
+1–3
+12F
+Rating x 6,000¥ 
+p. 147
+Implant medic
+1–6
+12F
+10% of implant cost 
+p. 147
+Nanite hunters
+1–6
+16R
+Rating x 5,000¥ 
+p. 147
+Markers
+1–3
+12
+Rating x 2,000¥ 
+p. 148
+Nanotattoos
+1–3
+12F
+Rating x 1,000¥ 
+p. 148
+Taggants
+1–3
+12
+Rating x 600¥ 
+p. 148
+Trauma control system
+1–6
+12F
+Rating x 4,000¥ 
+p. 148
+NANOWARE
+DEVICE
+RATING
+AVAILABILITY
+C0ST
+REF
+Anti-tox
+1-9
+16F
+Rating x 5,000¥ 
+p. 149
+Carcerand plus
+1-6
+10F
+Rating x 3,000¥ (+ drug) 
+p. 149
+Nanosymbiotes
+1-3
+16F
+Rating x 6,000¥ 
+p. 149
+Nantidotes
+1-6
+8F
+Rating x 1,500¥ 
+p. 149
+Nanotattoos
+1-3
+12F
+Rating x 500¥ 
+p. 148
+Neural amplifiers
+Learning stimulus
+1-3
+14F
+Rating x 5,000¥ 
+p. 149
+Limbic
+1-3
+16F
+Rating x 7,500¥ 
+p. 149
+Neocortical
+1-3
+16F
+Rating x 7,500¥ 
+p. 150
+Recall
+1-3
+12F
+Rating x 3,500¥ 
+p. 150
+O-Cells
+1-9
+12F
+Rating x 5,000¥ 
+p. 150
+Oxyrush
+1-5
+12F
+Rating x 1,500¥ 
+p. 150
+
+===== PDF p235 =====
+>> CHROME FLESH <<
+234    COMPILED AUGMENTATION TABLES >>
+DRUGS
+DRUG
+AVAIL
+COST (PER DOSE)
+REF
+AEXD
+4
+80¥
+p. 179
+Aisa
+4
+25¥ 
+p. 179
+Animal Tongue
+6R
+1,500¥ 
+p. 186
+Ayao’s Will
+14F
+750¥ 
+p. 184
+Betameth
+5F
+30¥
+p. 180
+Betel
+4
+5¥ 
+p. 180
+Bliss
+3F
+15¥
+p. 411, SR5
+Caldwell lily extract
+10R
+600¥
+p. 181, Stolen Souls
+Caldwell lily extract, 
+concentrated
+12R
+1,000¥
+p. 188, Stolen Souls
+Cereprax
+14F
+800¥ 
+p. 180
+Chloral hydrate
+6R
+50¥
+p. 188, Stolen Souls
+Chloroform
+4R
+75¥
+p. 188, Stolen Souls
+Cram
+2R
+10¥
+p. 411, SR5
+Crimson Orchid
+6F
+300¥ 
+p. 184
+Deepweed
+8F
+400¥
+p. 411, SR5
+DMSO
+5R
+50¥
+p. 188, Stolen Souls
+Dopadrine
+8
+45¥ 
+p. 180
+eX
+3R
+20¥ 
+p. 180
+Forget-Me-Not
+10F
+400¥ 
+p. 180
+Galak
+4R
+45¥ 
+p. 180
+Gamma-scoplomine
+14F
+200¥ 
+p. 188, Stolen Souls
+G3
+2
+15¥ 
+p. 181
+Guts
+8R
+60¥ 
+p. 181
+Hecate’s Blessing
+12F
+500¥ 
+p. 185
+Hurlg
+2R
+10¥ 
+p. 181
+Immortal Flower
+14R
+2,500¥ 
+p. 186
+Jazz
+2R
+75¥
+p. 411, SR5
+K-10
+16F
+900¥ 
+p. 181
+Kamikaze
+4R
+100¥
+p. 412, SR5
+Laés
+12F
+750¥ 
+p. 185
+Leäl
+10F
+400¥ 
+p. 185
+Liquid nutrients
+4R
+75¥ 
+p. 189, Stolen Souls

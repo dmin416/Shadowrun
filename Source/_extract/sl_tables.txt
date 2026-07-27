@@ -1,0 +1,1418 @@
+
+
+===== PAGE 45 =====
+Gun doesn’t shoot bullets or lob explosive devic-
+es, but rather it creates a stream of toxic gas using 
+compressed air cartridges that are loaded from 
+side- and top-mounted clips. Armor is useless 
+against this attack, but respiratory protection will 
+help guard the target (see the Toxin and Drug Pro-
+tection Table, p. 408, SR5).  The Gas Gun can be 
+used to attack a single target or, with a Complex 
+Action, attack up to three targets within a four-me-
+ter spread. Each target rolls their own Defense Test 
+against a single Attack Test. Using the Gas Gun to 
+attack multiple targets consumes two “rounds” 
+of toxin. The cloud generally lasts two Combat 
+Turns (less in a windy area, longer in an area that is 
+confined or with poor ventilation, per gamemas-
+ter discretion). Using the Gas Gun in an enclosed 
+space is likely a bad idea for everyone involved.
+The Gas Gun uses “clips” of compressed air 
+that mix with separate doses of toxin. Refilling 
+the compressed air tank using an electric pump 
+(included with the weapon’s cost) requires three 
+minutes. 
+NARCOJECT GAS GUN (EXOTIC RANGED WEAPON)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+As toxin
+—
+SS
+—
+5x2(c)
+8R
+1,500¥
+Note: This weapon uses Taser ranges.
+>	
+Hah. I gotta get one of these. My favorite superhero uses 
+a gas gun.
+>	
+Slamm-0!
+>	
+The last Green Wasp movie was terrible. I can’t believe 
+you liked it.
+>	
+Glitch
+>	
+I was talking about Blackwing Bird. Philistine.
+>	
+Slamm-0!
+NARCOJECT PEP
+The Narcoject PEP is an interesting device. The 
+PEP, or Pulsed Energy Projectile, could easily have 
+been turned into a killing machine, and a rather 
+brutal one at that. Instead, the PEP fires short, 
+intense laser pulses. These pulses vaporize the 
+surface of whatever they hit, creating plasma. 
+This plasma then absorbs all other energy the 
+PEP sends to it, detonating with a flash, bang, and 
+pulse. The PEP is designed to prevent outright 
+killing of targets, as the stun effects caused by the 
+pulse are quite effective.
+NARCOJECT PEP (EXOTIC RANGED WEAPON)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+6
+10S
+—/–5*
+SS
+—
+2x10(c)
+12R
+7,500¥
+* If the target is wearing armor that is capable of supporting a 
+Chemical Seal, the attack has no AP. If the target is wearing clothing 
+or armor with gaps, the attack’s AP is –5.
+Note: This weapon uses Heavy Pistol ranges. It can only accept 
+top- and underbarrel accessories. The PEP is powered by peak-dis-
+charge battery packs (p. 52, Run & Gun) and uses two power units 
+per shot. It typically takes 2 units with ten charges apiece.
+>	
+This hardly sounds non-lethal. Creating plasma on 
+someone’s body cannot be healthy.
+>	
+Netcat
+>	
+Oh, it won’t kill you, usually. But you’re right—it makes 
+your skin look like it’s been boiled in hot sauce. Plastic 
+surgery might be needed after this “humane” weapon is 
+done with you.
+>	
+Mihoshi Oni
+NARCOJECT 
+TRACKSTOPPER
+The Narcoject Trackstopper was adapted from the 
+discontinued Ares Fogger Glop Cannon. When 
+Ares began to divert all non-essential weapons 
+research, development, and production to the Ex-
+calibur rifle, the Glop Cannon (which hadn’t been 
+selling all that well) was discontinued. Seeing an 
+opportunity, Narcoject bought the name and the 
+research for a modest sum, which suited both par-
+ties at the time.
+>> STREET LETHAL <<
+44    EXPANDED ARSENAL >>
+
+
+===== PAGE 46 =====
+The Trackstopper has the look of a firehose 
+crossed with a sub-machine gun. It connects to a 
+pack worn on the user’s back and fires a stream of 
+liquid foam at the target. Unlike the original formu-
+lation of Freeze Foam, Narcoject Foam won’t help 
+you build a bridge, but it will harden in 1 Combat 
+Round. For every net hit the user gets to hit the tar-
+get, the target suffers a –1 penalty to their Agility. 
+If the target’s Agility reaches 0, they are unable to 
+move or take any actions that require use of their 
+limbs. Once hardened, the foam has a Structure 
+Rating of 4 and an Armor Rating of 6. Narcoject 
+Foam is specially formulated at the microscopic 
+level to allow encased victims to breathe. Narcoject 
+Foam dissolves completely in one hour, or imme-
+diately with the application of Narcoject-brand sol-
+vent (free with purchase of Narcoject Foam refills).
+NARCOJECT TRACKSTOPPER (EXOTIC WEAPON)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+—
+—
+SS
+—
+6
+15R
+8,500¥
+Note: This weapon uses Light Pistol ranges. Foam refills cost 
+500¥ per 6 charges and have an Availability of 15R.
+>	
+Read the instructions on this one. Some new runner who 
+called himself Rh0ghi just got wasted because he sprayed 
+this stuff, expecting to freeze his pursuers in their tracks. 
+Turns out these razorboys still had plenty of time to cut 
+him down before the foam hardened.
+>	
+Hannibelle
+>	
+A few high-security places have started using the same 
+foam that the Trackstopper uses as a flame suppressant. If 
+your decker can get control of the system, it can be a great 
+form of crowd control.
+>	
+Rigger X
+>	
+Look at you, advocating non-lethal solutions.
+>	
+Bull
+>	
+Immobile targets are easier to hit.
+>	
+Rigger X
+WEAPON 
+ACCESSORIES
+ADDITIONAL CLIP/
+MAGAZINE
+Requiring a nearly complete rebuilding of the 
+weapon, this modification allows the weapon to 
+add an additional clip or magazine, depending on 
+the weapon’s original. If installed on a pistol, each 
+clip or magazine holds seventy-five percent of the 
+weapon’s original capacity; they otherwise retain 
+their original capacity. This modification adds a +2 
+modifier to the weapon’s Concealability Modifier 
+and gives the weapon Custom Look (Level 1), but 
+with no bonus to Intimidation rolls. Switching be-
+tween clips/magazines is a Simple Action.
+Wireless bonus: Switching between clips/maga-
+zines is a Free Action.
+ADDITIONAL CLIP/MAGAZINE (WEAPON MODIFICATION)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Side
+20
+1 day
+Facility
+Weapon 
+cost
+10R
+Armorer
+>	
+I like to switch between different colors of tracers. It’s 
+pretty.
+>	
+Slamm-0!
+>	
+Can we ban an admin from commenting on guns?
+>	
+Cayman
+KRIME PACK
+The innovative minds at Krime know exactly how 
+right-sized people feel when looking at most 
+weapons that suit them. “A mere 100-rounds 
+per belt before reloading? What scrawny person 
+did they design these for?” Deciding that the en-
+tire world does not consist of tiny people, Krime 
+make an ammunition holder for bigger folks—or, 
+as they like to say, “the right-sized person lurk-
+ing inside all of us.” The Krime Pack is a backpack 
+ammunition feeding system that uses an articu-
+lated feed belt, which means no struggling with 
+fiddly little bullets in smaller belts and undersized 
+charging handles every time users feel like let-
+ting loose. Capable of holding 2,500 rounds for 
+weapons like the Krime Happiness, or Gatling 
+guns like the newly-released Krime Triple series. 
+Sick of reloading? Get a Krime Pack!
+KRIME PACK (WEAPON ACCESSORY)
+AVAIL
+COST
+14R
+500¥
+Wireless Bonus:   Pushes out Krime-based spam to other AR 
+overlays, screaming “KRIME!” at the maximum volume allowed by the 
+audio system. Operates as an Area Jammer (Device Rating 2; p. 441, 
+SR5), but instead of inhibiting wireless functionality, reduce a DR to 
+zero, indicating that the system’s audio (if any) has been overridden.
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    45
+
+
+===== PAGE 47 =====
+>	
+Ares had a similar design that was in development for the 
+longest time, and its tendency to keep misfeeding was 
+a major, but not the only, problem. Then the project just 
+“died” and Krime came out with this six months later with 
+some rather dodgy looking evidence that they developed 
+it themselves in secret. Run gone well?
+>	
+Clockwork
+KRIME STUN-O-NET
+After one of Krime’s Thursday design discus-
+sions/bar fights, some of their people ran across 
+one of the local heroes of the area, John Zubiri 
+the Bouncer. He had a beat-up shotgun with a 
+bayonet lug on it, and he had placed a jury-rigged 
+stun baton on the damn thing. They knew a win-
+ner when they saw one—Zubiri now works for the 
+development team full time (though he still acts 
+as a bouncer in his uncle’s bar, since it’s a passion 
+of his). The Stun-O-Net reflects Zubiri’s mentality 
+of being ready to deal with the full range of meta-
+humanity and paracritters in the world, putting 
+more than a sharp chunk of metal on the end of 
+a rifle for the firearms owners of the world to use.
+KRIME STUN-O-NET (WEAPON ACCESSORY)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+9S(e)
+–5
+10R
+800¥
+KRIME STUN-O-NET (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+SKILL
+Underbarrel
+10
+1 hour
+Kit
+Armorer
+Note: This weapon has 10 charges and recharges at a rate of 1 
+charge per minute when plugged in.
+>	
+It’s a stun baton that can be hooked onto a rifle like 
+a typical bayonet. And it is selling, big time. I’m on the 
+waiting list for my crew to get a bunch, as we’re looking 
+at some escort jobs through a city, er, somewhere, and 
+having an option that doesn’t get people sliced up would 
+be a nice change.
+>	
+Picador
+>	
+There are some street gangs and crowd-clearing crews 
+out there that have made “stun pikes” by welding stun 
+batons to metal or plastic pipes. Putting a bayonet 
+mount on those pipes and being able to choose using 
+them as pikes or batons will open up options for those 
+headbreakers.
+>	
+Zhaganaash
+NARCOJECT DAZZLER
+The Dazzler name is rather on-the-nose for this 
+non-lethal piece of equipment. When triggered, 
+the dazzler emits intense, focused radiation to 
+temporarily disable its target with flash blindness. 
+The Dazzler can be tuned to various parts of the 
+light spectrum to target either the normal range 
+of visible light or infrared, allowing the weapon 
+to be used against metahumans and sensors with 
+thermographic capabilities. The Dazzler cannot 
+affect both spectrums at the same time.
+Looking directly at someone using a Dazzler for 
+any appreciable length of time is extremely danger-
+ous. On their first Initiative Pass, the viewer suffers 
+from Moderate Glare penalties (p. 175, SR5). If the 
+viewer has some form of low-light vision enhance-
+ment, these penalties are increased to Blinding 
+Glare. Flare compensation reduces the penalties by 
+one category. For each subsequent Initiative Pass 
+that the viewer continues to look at the Dazzler’s 
+user, the penalty increases by one category. If the 
+viewer suffered Blinding Glare penalties on their 
+previous Initiative Pass and continues to look at 
+the Dazzler, they must make an immediate unaug-
+mented Body [Physical] (4) Test. Failure temporarily 
+blinds the viewer for a number of hours equal to 4 
+minus the number of hits rolled on the test.
+The Narcoject Dazzler is commonly purchased 
+as a Heavy Pistol-sized device on its own (at the 
+same cost), but is also available as a top-mount-
+ed weapon accessory that can fit on weapons that 
+have a Concealability Modifier of +4 or greater. Its 
+price and Availability remain the same. Narcoject 
+prides itself on its patented array of optic lasers, 
+offering a full guarantee if any targets are perma-
+nently blinded.
+>> STREET LETHAL <<
+46    EXPANDED ARSENAL >>
+
+
+===== PAGE 48 =====
+NARCOJECT DAZZLER (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Top
+5
+30 
+minutes
+Kit
+15R
+1,000¥
+Armorer
+Note: This item can be used for 10 Combat Turns before it needs 
+to be recharged. It recharges at a rate of 1 Combat Turn of use per 15 
+minutes.
+RED DOT SIGHTS
+This archaic sight projects light onto a curved 
+lens, overlaying a red dot onto the user’s target. 
+It increases the weapon’s Accuracy by 1 and pro-
+vides a +1 dice pool modifier when used at Short 
+range. At Medium range, it only increases Accu-
+racy by 1, with no dice pool bonus. Red dot sights 
+have no effect at Long and Extreme ranges. Red 
+dot sights are not compatible with smartlink sys-
+tems, laser sights, holographic sights, or any form 
+of vision magnification.
+RED DOT SIGHT (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Top
+4
+10 
+minutes
+Kit
+75¥
+4
+Armorer
+>	
+Good God, they still make these?
+>	
+Bull
+>	
+As basic as basic gets, but there’s no wireless signal to 
+trace back to your location and ... well, that’s about it. Get 
+a smartlink. Hire a decker.
+>	
+Thorn
+ARMOR
+URBAN EXPLORER 
+DAEDALUS
+Already a favorite among traceurs, the Daeda-
+lus looks like the standard Urban Explorer Jump-
+suit, but it can deploy microfiber wings under each 
+arm and between the legs, creating an on-demand 
+wingsuit. Deploying the wings requires a Complex 
+Action. The Daedalus can hold up to 320 kilo-
+grams aloft. The user can cover three meters hor-
+izontally for every meter fallen and rolls Freefall + 
+Body to maneuver, with a threshold determined 
+by the gamemaster (p. 199, SR5). Like the Control 
+Vehicle action, this test must be performed once 
+per Combat Turn or the user loses control of her 
+descent. Losing control imposes –2 dice pool pen-
+alty to all rolls, including the next Freefall + Body 
+test. Failures on consecutive Combat Turns result 
+in a cumulative penalty. Successfully hitting the 
+threshold eliminates the penalty. The maximum 
+safe speed a user can reach is 2R (p. 124, Rigger 
+5). Although it is possible to make a hard bank to 
+come to a safe stop without assistance (threshold 
+4), the Daedalus comes equipped with a discreet-
+ly-packed BASE parachute for the safety-inclined 
+runner. This parachute is a one-use item.
+URBAN EXPLORER DAEDALUS (SPECIALITY ARMOR)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Top
+4
+10 
+minutes
+Kit
+75¥
+4
+Armorer
+Note: Parachutes for this item cost 750¥.
+>	
+The number of Daedalus fail MeFeeds out there is 
+staggering. Given some of the content, you’d think they’d 
+try to get them taken down, but I guess there really is no 
+such thing as bad publicity.
+>	
+Slamm-0!
+>	
+Just make sure you do your math beforehand. There’s 
+nothing quite as embarrassing as miscalculating and 
+coming in ten meters below target but still at a decent 
+altitude.
+>	
+Turbo Bunny
+>	
+With a little assistance from a drone, getting the altitude 
+you need for any standard building insertion isn’t hard. 
+Coming to a stop on a small rooftop is hard, but if your 
+mage knows the levitate spell, it’s much easier.
+>	
+Mika
+>	
+An alarming number of runners come up with plans that 
+revolve around these things and only realize post-jump 
+that they’ve never trained with them.
+>	
+Kat o’ Nine Tales
+>	
+Natural selection at work. Leave more jobs for the rest 
+of us.
+>	
+Clockwork
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    47
+
+
+===== PAGE 49 =====
+MELEE WEAPONS
+WEAPON
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Krime Bill
+5
+1/3*
+(STR+3)P
+–2
+12R
+1,500¥
+Krime Reaver Axe
+4
+1
+(STR+3)P
+–1
+—
+300¥
+Krime Reaver Pick
+4
+1
+(STR+1)P
+–4
+—
+—
+Krime Reaver Knob
+4
+1
+(STR+3)P
+—
+—
+—
+Krime Shiv
+5
+1
+(STR+2)P
+-2
+6R
+550¥
+Macuahuitl, traditional
+6
+1
+(STR+3)P
+–2
+7R
+3,000¥
+Macuahuitl, modern
+4
+1
+(STR+2)P
+–1
+5R
+200¥
+Nodachi
+5
+2
+(STR+5)P
+–5
+12R
+2,500¥
+Fluid-Motion Mace
+4
+1
+(STR+4)P
+—
+9
+1,500¥
+Gunstock War Club
+5
+1
+(STR+3)P
+–1
+10
+200¥
+Nunchaku
+5
+1
+(STR+2)P
+—
+6R
+75¥
+Tonfa
+4
+1
+(STR+3)P
+—
+4
+75¥
+Krime Gloves: Knucks
+Physical Limit
+—
+(STR)P
+—
+8R
+600¥
+Krime Gloves: Stun Pad
+Physical Limit
+—
+8S(e)
+–5
+—
+—
+Krime Stun Lance
+4
+2
+10S(e)
+–5
+9R
+900¥
+Krime Trollbow, blade
+3
+1
+(STR+1)P
+–1
+(Rating)R
+Rating X 150¥
+Krime Whammy, club
+4
+1
+(STR+2)P
+—
+—
+—
+PROJECTILE WEAPONS
+WEAPON
+ACC
+DAM
+AP
+AVAIL
+COST
+Krime Trollbow, bow
+4
+(Rating + 2)P
+–(Rating / 4)
+Rating(R)
+Rating X 150¥
+>> STREET LETHAL <<
+48    EXPANDED ARSENAL >>
+
+
+===== PAGE 50 =====
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    49
+RANGED WEAPONS
+WEAPON
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+Winchester Airbow
+5
+10P
+–2
+SS
+—
+1(ml)
+10R
+800¥
+Krime Tingler
+3
+10S(e)
+–5
+SS
+—
+2 (m)
+6
+240¥
+Narcoject One
+5
+as Narcoject
+—
+SA
+—
+6(c)
+6R
+1,200¥
+Raecor Sting
+4
+8P(f)
++5
+SS
+—
+4(m)
+6R
+350¥
+Terracota Arms Pup
+4(6)
+6P
+—
+SA
+—
+5(c)
+4R/6F
+500¥/900¥
+Browning Ghost
+5(7)
+6P
+—
+SA
+1
+10(c)
+10R
+1,250¥
+Colt Coral Snake
+5(6)
+7P
+–1
+SS
+—
+5(cy)
+3R
+320¥
+Ares Striker
+5
+8P
+–1
+SA
+—
+12(c)
+4R
+400¥
+Barrens Special
+4
+8P
+–1
+SS
+—
+5(cy)
+2F
+150¥
+Browning Phantom
+4(6)
+8P
+–1
+SA
+1
+12(c)
+12R
+1,500¥
+Cavalier Champion
+6
+10P
+–2
+SS
+—
+1(b)
+8R
+650¥
+Cavalier Thunderstruck
+5(7)
+8P
+–1
+BF
+3
+12(c)
+12F
+1,150¥
+Hammerli Gemini
+5
+7P
+–3
+*
+—
+8x2(c)
+10R
+700¥
+HK Urban Fighter
+5
+8P
+–1
+SA
+1
+10(c)
+15F
+1,950¥
+Morrissey Alta
+5(6)
+8P
+–1
+SA
+—
+12(c)
+7F
+800¥
+Morrissey Elite
+4(5)
+8P
+–1
+SA
+—
+5(c)
+6R
+500¥
+Nemesis Arms Praetorian
+4(6)
+8P
+–1
+SA
+1
+12(c)
+7R
+750¥
+Onotari Arms Vagabond
+5
+8P
+–2
+SA
+1
+6(cy)
+6R
+375¥
+WW Infiltrator
+5
+7P
+–1
+SA
+—
+15(c)
+14R
+1200¥
+Cavalier Flash
+4(6)
+7P
+—
+SA/BF
+—
+24(c)
+8R
+1,850¥
+Esprit Tsunami
+4(6)
+7P
+—
+BF/FA
+—
+40(c)
+8R
+750¥
+Onotari Arms S-3k
+4(6)
+7P
+—
+BF/FA
+(1)
+30(c)
+8R
+725¥
+Ares Stalwart
+5
+9P
+–2
+SA/BF/FA
+(1)
+36(c)
+6R
+750¥
+Colt M23A2
+5(7)
+9P
+–2
+SA/BF/FA
+1
+40(c)
+10R
+3,150¥
+Izom Artemis
+5(6)
+9P
+–2
+BF/FA
+—
+30(c)
+8F
+1,800¥
+     Grenade launcher
+3(4)
+*
+*
+SS
+—
+1(m)
+—
+—
+Cavalier Frontier
+5
+10P
+–2
+SA/BF/FA
+—
+30(c)
+6R
+1,750¥
+Krime Happiness
+3
+9P
+–2
+FA
+—
+100 (belt)
+6F
+500¥
+Onotari HL13
+5(7)
+10P
+–2
+SA/BF/FA
+—
+30(c)
+15F
+3,500¥
+     Personal defense weapon
+4(6)
+7P
+—
+SA/BF/FA
+—
+30(c)
+—
+—
+     Urban Assault
+3(5)
+9P
+–2
+SA/BF/FA
+—
+30(c)
+—
+—
+     Sniper Support
+6(8)
+11P
+–2
+SA/BF
+—
+30(c)
+—
+—
+PSG Enforcer
+6
+12P
+–4
+SA
+—
+2x12(c)
+12F
+11,000¥
+Beretta Northstar
+4(6)
+11P
+–1
+SA
+—
+6(m)x2
+12R
+2,000¥
+Krime Boom
+4
+10P
+–1
+FA
+—
+20 (m)
+15F
+750¥
+Krime Whammy
+3
+12P
+–1
+SS
+1
+5(m)
+12F
+4,000¥
+Krime Triple-Troll
+3(5)
+10P
+–4
+FA
+—
+100(belt)
+18F
+2,000¥
+Krime Tripe-Ork
+3(5)
+8P
+–2
+FA
+—
+100(belt)
+16F
+1,400¥
+Krime Tripe-Dwarf
+3(5)
+7P
+—
+FA
+—
+100(belt)
+14F
+1,000¥ 
+HK 82A1
+3
+*
+*
+SS
+(1)
+1(b)
+6F
+1,500¥
+M79B1 LAW Rocket
+4
+*
+*
+SS
+—
+1(ml)
+9F
+750¥
+Phalanx Systems Vogeljäger II
+5
+*
+*
+SS
+—
+1(ml)
+20F
+2,600¥
+Terracotta X-6 MGL
+4
+*
+*
+SS
+1
+6(cy)
+8F
+2,000¥
+Narcoject Gas Gun
+5
+As toxin
+—
+SS
+—
+5x2(c)
+8R
+1,500¥
+Narcoject PEP
+6
+10S
+—/–5*
+SS
+—
+2x10(c) or
+12R
+7,500¥
+Narcoject Trackstopper
+5
+—
+—
+SS
+—
+6
+15R
+8,500¥
+* indicates damage comes from values of rocket or grenade.
+
+
+===== PAGE 51 =====
+POSTED BY: HARD EXIT
+So we’ve covered the new (and new-ish) weap-
+ons that are more broadly available, but that’s 
+not the true bleeding edge of combat technolo-
+gy. For that, you have to dive into the megacor-
+porate labs and see the ideas and concepts 
+they’re testing. Some of these ideas will never 
+make it to mass production—they may not be 
+feasible to produce in large numbers, or they just 
+plain may not work. But this is what the corps 
+are working on, so you should know so you can 
+keep up with what might be coming at you in the 
+near future—and start building your wish list for 
+future birthdays.
+ 
+ARES ARMS DPC-002A 
+“SLAM DANCER”
+Always on the lookout for a new gun to sell, Ares 
+Arms has been experimenting with a concept 
+they call a “directional particle cannon” on be-
+half of Ares Space. The initial concept was not a 
+weapon at all, but a device to assist manned and 
+unmanned spacefaring vessels travel through 
+space. Based on a concept from an old flat-vid 
+science-fiction franchise, the idea was to use a 
+low-powered energy beam to deflect small and 
+microscopic debris (that could still severely dam-
+age a vessel) safely away from the intended flight 
+path. Plans to develop the device for its initial pur-
+pose ended in 2065 when Ares Arms engineers 
+realized its potential use as an energy-based ve-
+hicle weapon.
+>	
+If they thought they could make nuyen from it, Ares would 
+try to develop a combat potato gun.
+>	
+Netcat
+Ares Arms R&D started work on the initial con-
+cept in 2053, and according to secondhand ac-
+counts, significant progress had been made. The 
+project, known as Galaxy Navigator, went from 
+proof-of-concept to preliminary working proto-
+type. Ares Arms changed gears and re-named 
+the project Slam Dancer, but most of the data and 
+specs on it and Galaxy Navigator were lost in the 
+Second Matrix Crash of 2064. Left with a proto-
+type device and no data on how exactly it oper-
+ates, Ares engineers did the smart thing (for once) 
+and spent the next few years reverse-engineering 
+and re-testing it. 
+>	
+Another group of Ares engineers also re-started the 
+Galaxy Navigator project, running it parallel with Slam 
+Dancer. With the two devices operating on the same basic 
+concept, the idea was to kill two birds with one stone. 
+Ironically, Galaxy Navigator progressed much faster and 
+its developments kept Slam Dancer afloat despite a series 
+of mishaps and constant budget overruns. While Slam 
+Dancer is still struggling, Ares Space already has plans to 
+ship the first run of Navigator units to Ares Space and the 
+Space Rescue Service by end of fiscal year 2083. 
+>	
+Orbital DK 
+After nearly a decade of trial and error (mostly 
+error), Ares Arms was finally able to complete six 
+(semi) reliable prototype devices in 2073. Classi-
+fied as the DPC-001, test units one through four 
+were shipped to Ares’ Antarctic Base for further 
+testing, while units five and six were placed in a 
+secure Ares vault at corporate HQ in Detroit. These 
+first units were large, weighing over 450 kilos and 
+were six meters long and consisted of an emitter 
+unit and power supply. These units could only be 
+transported by large vehicles. 
+Late last year, after years of testing and refine-
+ment, Ares Arms began field testing a new refined 
+and scaled-down unit known as the DPC-002A. 
+The 002A is still large by weapon standards but 
+can be mounted on heavy vehicles such as battle 
+tanks—which may be what the current device is 
+designed for.
+STREET LETHAL
+MILITARY AND
+FUTURE WEAPONS
+50    MILITARY AND FUTURE WEAPONS >>
+
+
+===== PAGE 52 =====
+>	
+I recently heard that Ares Arms is looking to develop a 
+new line of armored vehicles and air-defense systems 
+based around this weapon. What intrigues me is how fast 
+Ares Arms went from a large, clunky prototype to a much 
+more streamlined unit in a relatively short period of time 
+for a project like this. Cost cutting, cutting corners, or does 
+someone really want these in the field?
+>	
+Clockwork
+>	
+Yeah, but does the damn thing work?
+>	
+Balladeer
+>	
+According various sources, all tests have been listed as 
+mixed. But maybe the rapid development has something 
+to do with the Slam Dancers and their crews who have 
+been seen around the Kilimanjaro Mass Driver. Has 
+anyone heard from Sticks lately? I have some Ares-related 
+inquiries for him.
+>	
+Red Anya
+>	
+Negative, Anya. Nothing substantial recently.
+>	
+Glitch
+>	
+Contact of mine says initial field tests are proving … 
+challenging. While the test units performed well under 
+low-power tests, they tended to burn out the focusing 
+emitters at higher power, causing the containment beam 
+to fail and the charged particles to act unpredictably. Not 
+something you want to be near when things go bad. 
+>	
+Cosmo
+>	
+Yeah, but this is the new Ares, where fifty percent reliability 
+is considered a success.
+>	
+Slamm-0!
+ 
+Both the 001 and the 002A operate on the prin-
+ciple of supercharging ambient particles in a par-
+ticular area and then projecting or focusing said 
+particles in the desired direction. The first part of 
+this process involves activating a quantum-mag-
+netic confinement beam. This beam is specifically 
+designed to contain, focus, and aim the charged 
+particles into the desired direction. The second 
+part of this process is achieved by a Zero-Point 
+Energy Emitter that excites and supercharges the 
+targeted particles, sending them into a high kinet-
+ic energy state. This creates what engineers have 
+dubbed “kinetic lighting.” Once the particles are 
+charged, they travel away from the emitter and 
+along the confinement beam toward the target. 
+After the particles have impacted with the tar-
+get, the confinement beam is disengaged, which 
+is usually accompanied by a loud and distinctive 
+auditory “crack-boom.” The time from weapon ac-
+tivation to impact on target is usually 1.3 seconds. 
+>	
+Interesting. The effects seem similar to a NeoNET device 
+that was reportedly being used in Boston during the 
+quarantine. Wonder if Ares somehow got ahold of the 
+specs from NeoNET … or maybe the other way around. 
+>	
+Rigger X
+To increase the unit’s versatility in the field, the 
+containment beam can be set to narrow disper-
+sion for a concentrated attack against a single tar-
+get, or wide dispersion to engage multiple targets. 
+However, the wider the dispersion, the weaker the 
+attack. With current ammunition capacitors, the 
+Slam Dancer can fire between five to ten times be-
+fore recharging, depending on the weapon’s focus 
+settings. 
+>	
+So basically this is a ghost-damned energy shotgun for 
+tanks? Fraggin’ A! When can I get one that’s at least troll-
+sized?
+>	
+Beaker
+>	
+Or an energy flak gun, take your pick.
+>	
+Hard Exit
+>	
+If the data I have regarding the Navigator units, which are 
+by all accounts scaled-down, low-powered versions of the 
+Slam Dancer, the energy output needed to make these 
+<< MILITARY AND FUTURE WEAPONS    51
+
+
+===== PAGE 53 =====
+things a viable weapon is enormous. Good luck carrying a 
+large enough capacitor with you to make it work, even for 
+someone of your large stature, Beak. 
+>	
+Orbital DK
+>	
+For what this thing is capable of as a potential anti-
+aircraft/weapon platform, I wouldn’t be surprised to see it 
+mounted on naval vessels in the near future. If it works.
+>	
+Sounder
+If current field testing proves to be successful, 
+Ares Arms hopes to begin wide-scale deployment 
+to their military and para-military forces by 2088, 
+with sales to preferred customers in 2089.
+ARES ARMS DPC-002A (HEAVY VEHICLE MOUNTED WEAPON)
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+COST
+AVAIL
+4
+20P*
+—
+SS
+—
+10 (charges)**
+N/A
+N/A
+Standard Equipment: Smartgun targeting system
+*Damage: Narrow beam DV: adjust DV by –5 for medium beam, 
+–10 for wide beam. Uses Choke rules, page 180-181 SR5.
+**Charges: After all charges used, weapon requires six stan-
+dard hours to re-charge.
+AZTECHNOLOGY-DASSAULT 
+HALCÓN DE SANGRE/
+BLOOD HAWK MK I
+In 2075, Aztechnology and Dassault Aviation 
+stunned the attendees at the Paris Air Show and 
+the aviation community as a whole with the un-
+veiling of their new Blood Hawk Mk I superiority 
+fighter and Mk II fighter-bomber. Witnesses at 
+the event reported seeing a “sleek aircraft that 
+seemed to morph and shift in mid-flight” and that 
+they “had never seen such maneuverability in a 
+manned aircraft before.” The surprise unveiling 
+at Paris was a PR bulls-eye for Aztechnology and 
+Dassault. Despite the Blood Hawk being years 
+away from its first full production run, it’s been 
+reported that current back-orders may take the 
+next twenty years to fill.  
+>	
+And it almost caused an international incident. Security and 
+secrecy was so tight about the Blood Hawks that the event 
+coordinators and local governments were completely in 
+the dark. So when a totally new aircraft comes screaming 
+in at only 460 meters, completely evading all local radar 
+and aerial sensors and then coming to a dead stop (yeah, 
+that’s right) above the crowd with weapons bays open, a 
+lot of people needed to change their shorts.
+>	
+Sunshine
+>	
+Yes, but lately it’s hard to stay mad at Aztechnology. Didn’t 
+you know they’re fragging heroes? And those were just 
+dummy munitions after all, so no big deal. Besides, they 
+also know the exact palms to grease. 
+>	
+Pyramid Watcher
+For the past two decades, there were rumors 
+of Aztechnology experimenting with new, cut-
+ting-edge aerospace technologies. Numerous 
+sightings of unidentified, high-performance air-
+craft along the Aztlan/CAS border continued to 
+bolster such rumors, and they gained additional 
+credence during the Az-Am War, when Aztechnol-
+ogy was rumored to be heavily investing in what 
+is generally referred to as “anti-dragon weapons.”
+During a press conference after the unveil-
+ing in Paris, Dassault gave a history lesson about 
+their new product. According to their official 
+statements and releases, the Blood Hawk will be 
+the first ninth-generation fighter aircraft. They’re 
+also the production models of the Ala de Sangre 
+(or Blood Wing) prototype test-bed aircraft first 
+conceived in 2060 and built in the early 2065. 
+Once a series of tests and evaluations are com-
+pleted, Dassault said that the first Blood Hawks 
+are scheduled to enter service with their respec-
+tive air forces by spring of 2084. 
+>	
+Interesting. They’re trying to make it seem like this is a 
+normal developmental cycle. In actuality, the original 
+Blood Wing was initially part of Aztechnology’s anti-
+A NOTE ON PURCHASING 
+AND USING FUTURE WEAPONS
+The vast majority of weapons and ammo in this chapter 
+do not have a listed cost or availability, simply because they 
+are not available for purchase, even if you have a great 
+black-market connection. For the most part, they have not 
+been manufactured in high enough numbers for anyone to be 
+selling them (though there are a few exceptions). The items in 
+this chapter potentially carry a lot of power, so gamemasters 
+should be careful about letting players obtain and use them 
+with any degree of reliability. The weapons may be subject to 
+frequent breakdowns, or other runners might be anxious to 
+steal them away from the players. Use the weapons to make 
+fun games and interesting plot twists, not to give the players 
+powers no shadowrunner should possess for long.
+>> STREET LETHAL <<
+52    MILITARY AND FUTURE WEAPONS >>
+
+
+===== PAGE 54 =====
+dragon program. It was supposed to have made its big 
+debut against Sirrurg in Operation: Marauder, being the 
+spearhead against the big wyrm. But delays and sabotage 
+kept the Blood Wing from participating. Without one of 
+their big guns, Aztlan and Aztechnology were forced to 
+go with Plan B, using scores of drones and mere eighth-
+generation fighters. 
+>	
+Rigger X
+>	
+Yeah, bet they won’t ever mention that the Blood Wing 
+was created from data stolen from the CAS’ Skyknight 
+program. The Confederates weren’t too happy about that. 
+And you might say a little birdie told me that as payback, 
+the CAS might have had something to do with the Blood 
+Wing’s delayed deployment. That, and I think they just 
+wanted to see Sirrurg take a few more chunks out of 
+Aztlan’s hide.
+>	
+Kane
+>	
+If this thing was such a big secret, why reveal it now? Isn’t 
+that tipping their hand?
+>	
+Stone
+>	
+Nuyen, my man, nuyen and PR. After the war, the cat 
+was, for the most part, out of the bag on the whole “anti-
+dragon weapons” thing. The public may not have known 
+specifics, but they knew the Azzies had something. This is 
+just another way of riding their current popularity wave all 
+the way to the bank. 
+>	
+Dr. Spin
+According to the releases, the Blood Hawk 
+Mk I is a multi-role fighter-bomber. It comes 
+with standard internal weapons bays that can 
+carry a variety of payloads such as conventional 
+munitions or direct-beam weaponry. The Blood 
+Hawk is capable of carrying air-to-air and air-to 
+>> STREET LETHAL <<
+<< MILITARY AND FUTURE WEAPONS    53

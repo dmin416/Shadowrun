@@ -1,0 +1,573 @@
+# Seattle Sprawl loss-check
+
+Total hard-miss phrases: 1
+Total rare missing tokens: 537
+
+Hard-miss = ALL-CAPS/title phrases from PDF where <60% of words appear in MD.
+Rare missing = PDF tokens len>=5 with freq<=8 absent from MD (noise expected from headers/OCR).
+
+## 01 - Contents and Credits.md (PDF idx 2-5)
+- PDF chars (no ws): 4118
+- MD chars (no ws): 1585
+- MD/PDF char ratio: 0.38
+- PDF tokens: 595 unique=254
+- Hard-miss phrases (1):
+  - organized crime
+- Rare PDF tokens missing from MD (94):
+  - family (pdf x3)
+  - stuck (pdf x2)
+  - river (pdf x2)
+  - night (pdf x2)
+  - hospital (pdf x2)
+  - general (pdf x2)
+  - facility (pdf x2)
+  - death (pdf x2)
+  - correctional (pdf x2)
+  - boeing (pdf x2)
+  - zalensky (pdf x1)
+  - yuuma (pdf x1)
+  - white (pdf x1)
+  - watch (pdf x1)
+  - villa (pdf x1)
+  - ultra (pdf x1)
+  - talisman (pdf x1)
+  - supermall (pdf x1)
+  - street (pdf x1)
+  - stilettos (pdf x1)
+  - station (pdf x1)
+  - stars (pdf x1)
+  - spiders (pdf x1)
+  - sonya (pdf x1)
+  - sleep (pdf x1)
+  - silcox (pdf x1)
+  - shotozumi (pdf x1)
+  - shoppe (pdf x1)
+  - shigeda (pdf x1)
+  - sheraton (pdf x1)
+  - ... +64 more
+
+**FLAG: low MD/PDF ratio 0.38**
+
+## 02 - Whirlwind Tour.md (PDF idx 6-9)
+- PDF chars (no ws): 15232
+- MD chars (no ws): 15216
+- MD/PDF char ratio: 1.00
+- PDF tokens: 2622 unique=1162
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (18):
+  - curity (pdf x2)
+  - wrecked (pdf x1)
+  - trust (pdf x1)
+  - tired (pdf x1)
+  - thusiastic (pdf x1)
+  - suing (pdf x1)
+  - suers (pdf x1)
+  - sponse (pdf x1)
+  - provo (pdf x1)
+  - nessed (pdf x1)
+  - multi (pdf x1)
+  - juries (pdf x1)
+  - import (pdf x1)
+  - guide (pdf x1)
+  - guess (pdf x1)
+  - force (pdf x1)
+  - ceeded (pdf x1)
+  - cation (pdf x1)
+
+## 03 - Emerald Shadows.md (PDF idx 10-12)
+- PDF chars (no ws): 14661
+- MD chars (no ws): 14622
+- MD/PDF char ratio: 1.00
+- PDF tokens: 2499 unique=1088
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (39):
+  - sions (pdf x2)
+  - vulnera (pdf x1)
+  - versation (pdf x1)
+  - tures (pdf x1)
+  - troduction (pdf x1)
+  - tling (pdf x1)
+  - terference (pdf x1)
+  - tates (pdf x1)
+  - spective (pdf x1)
+  - sources (pdf x1)
+  - plete (pdf x1)
+  - physi (pdf x1)
+  - neighbor (pdf x1)
+  - neigh (pdf x1)
+  - nancial (pdf x1)
+  - ments (pdf x1)
+  - mates (pdf x1)
+  - mants (pdf x1)
+  - longstand (pdf x1)
+  - laxed (pdf x1)
+  - lation (pdf x1)
+  - knowl (pdf x1)
+  - infrastruc (pdf x1)
+  - infor (pdf x1)
+  - incom (pdf x1)
+  - inaccu (pdf x1)
+  - evated (pdf x1)
+  - ership (pdf x1)
+  - dents (pdf x1)
+  - crimi (pdf x1)
+  - ... +9 more
+
+## 04 - Downtown.md (PDF idx 13-17)
+- PDF chars (no ws): 18136
+- MD chars (no ws): 18124
+- MD/PDF char ratio: 1.00
+- PDF tokens: 3064 unique=1384
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (28):
+  - penum (pdf x2)
+  - tional (pdf x1)
+  - tificially (pdf x1)
+  - sults (pdf x1)
+  - spond (pdf x1)
+  - remem (pdf x1)
+  - ready (pdf x1)
+  - ployers (pdf x1)
+  - organ (pdf x1)
+  - nanigans (pdf x1)
+  - mortal (pdf x1)
+  - mored (pdf x1)
+  - memen (pdf x1)
+  - loweeners (pdf x1)
+  - leggers (pdf x1)
+  - itable (pdf x1)
+  - havior (pdf x1)
+  - education (pdf x1)
+  - crimi (pdf x1)
+  - cording (pdf x1)
+  - corded (pdf x1)
+  - compar (pdf x1)
+  - clared (pdf x1)
+  - chase (pdf x1)
+  - chaot (pdf x1)
+  - challeng (pdf x1)
+  - breathtak (pdf x1)
+  - barbe (pdf x1)
+
+## 05 - Bellevue.md (PDF idx 18-23)
+- PDF chars (no ws): 23594
+- MD chars (no ws): 23571
+- MD/PDF char ratio: 1.00
+- PDF tokens: 3988 unique=1707
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (25):
+  - levue (pdf x2)
+  - brick (pdf x2)
+  - turion (pdf x1)
+  - tually (pdf x1)
+  - tiple (pdf x1)
+  - tions (pdf x1)
+  - techno (pdf x1)
+  - tamount (pdf x1)
+  - speck (pdf x1)
+  - rently (pdf x1)
+  - niello (pdf x1)
+  - meaning (pdf x1)
+  - mancers (pdf x1)
+  - lutants (pdf x1)
+  - indepen (pdf x1)
+  - grammers (pdf x1)
+  - founda (pdf x1)
+  - education (pdf x1)
+  - depart (pdf x1)
+  - curiosi (pdf x1)
+  - chased (pdf x1)
+  - bunra (pdf x1)
+  - bigot (pdf x1)
+  - bellev (pdf x1)
+  - ations (pdf x1)
+
+## 06 - Tacoma.md (PDF idx 24-29)
+- PDF chars (no ws): 19216
+- MD chars (no ws): 19244
+- MD/PDF char ratio: 1.00
+- PDF tokens: 3245 unique=1487
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (22):
+  - watch (pdf x1)
+  - verted (pdf x1)
+  - ulation (pdf x1)
+  - trance (pdf x1)
+  - tracts (pdf x1)
+  - thrill (pdf x1)
+  - termath (pdf x1)
+  - terday (pdf x1)
+  - selves (pdf x1)
+  - puter (pdf x1)
+  - nizations (pdf x1)
+  - merce (pdf x1)
+  - membrance (pdf x1)
+  - lensky (pdf x1)
+  - education (pdf x1)
+  - differ (pdf x1)
+  - dampening (pdf x1)
+  - carious (pdf x1)
+  - ating (pdf x1)
+  - astated (pdf x1)
+  - associa (pdf x1)
+  - agement (pdf x1)
+
+## 07 - Everett.md (PDF idx 30-33)
+- PDF chars (no ws): 19524
+- MD chars (no ws): 19529
+- MD/PDF char ratio: 1.00
+- PDF tokens: 3335 unique=1381
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (29):
+  - trict (pdf x2)
+  - versus (pdf x1)
+  - ularity (pdf x1)
+  - tains (pdf x1)
+  - tablishments (pdf x1)
+  - subordi (pdf x1)
+  - sidiary (pdf x1)
+  - respon (pdf x1)
+  - pires (pdf x1)
+  - pendence (pdf x1)
+  - outnum (pdf x1)
+  - nates (pdf x1)
+  - manent (pdf x1)
+  - mains (pdf x1)
+  - librari (pdf x1)
+  - lections (pdf x1)
+  - kempt (pdf x1)
+  - itude (pdf x1)
+  - includ (pdf x1)
+  - ifying (pdf x1)
+  - erately (pdf x1)
+  - education (pdf x1)
+  - eccentrici (pdf x1)
+  - dorchid (pdf x1)
+  - distur (pdf x1)
+  - commod (pdf x1)
+  - cided (pdf x1)
+  - cently (pdf x1)
+  - bance (pdf x1)
+
+## 08 - Renton.md (PDF idx 34-38)
+- PDF chars (no ws): 17235
+- MD chars (no ws): 17266
+- MD/PDF char ratio: 1.00
+- PDF tokens: 2910 unique=1289
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (29):
+  - vices (pdf x1)
+  - tually (pdf x1)
+  - tribal (pdf x1)
+  - tical (pdf x1)
+  - sored (pdf x1)
+  - sions (pdf x1)
+  - sional (pdf x1)
+  - shots (pdf x1)
+  - reputa (pdf x1)
+  - phernalia (pdf x1)
+  - opposi (pdf x1)
+  - olence (pdf x1)
+  - nipulation (pdf x1)
+  - metahu (pdf x1)
+  - lishment (pdf x1)
+  - gerous (pdf x1)
+  - finan (pdf x1)
+  - ficially (pdf x1)
+  - faced (pdf x1)
+  - estab (pdf x1)
+  - eslaves (pdf x1)
+  - education (pdf x1)
+  - derground (pdf x1)
+  - curity (pdf x1)
+  - communi (pdf x1)
+  - commodations (pdf x1)
+  - cially (pdf x1)
+  - cialists (pdf x1)
+  - cated (pdf x1)
+
+## 09 - Auburn.md (PDF idx 39-44)
+- PDF chars (no ws): 19463
+- MD chars (no ws): 19489
+- MD/PDF char ratio: 1.00
+- PDF tokens: 3308 unique=1497
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (28):
+  - tomated (pdf x1)
+  - tition (pdf x1)
+  - tising (pdf x1)
+  - super (pdf x1)
+  - sters (pdf x1)
+  - slight (pdf x1)
+  - petition (pdf x1)
+  - perform (pdf x1)
+  - oners (pdf x1)
+  - nually (pdf x1)
+  - nival (pdf x1)
+  - nique (pdf x1)
+  - nections (pdf x1)
+  - metahu (pdf x1)
+  - mestic (pdf x1)
+  - manding (pdf x1)
+  - invest (pdf x1)
+  - formation (pdf x1)
+  - erything (pdf x1)
+  - erations (pdf x1)
+  - equip (pdf x1)
+  - education (pdf x1)
+  - destrian (pdf x1)
+  - deploy (pdf x1)
+  - compe (pdf x1)
+  - commen (pdf x1)
+  - brick (pdf x1)
+  - adver (pdf x1)
+
+## 10 - Snohomish.md (PDF idx 45-51)
+- PDF chars (no ws): 28518
+- MD chars (no ws): 28418
+- MD/PDF char ratio: 1.00
+- PDF tokens: 4895 unique=1829
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (47):
+  - homish (pdf x6)
+  - snohom (pdf x3)
+  - vesting (pdf x1)
+  - utaries (pdf x1)
+  - tributar (pdf x1)
+  - trance (pdf x1)
+  - tracts (pdf x1)
+  - tling (pdf x1)
+  - tiques (pdf x1)
+  - talis (pdf x1)
+  - stron (pdf x1)
+  - sponders (pdf x1)
+  - selves (pdf x1)
+  - rested (pdf x1)
+  - proper (pdf x1)
+  - paranor (pdf x1)
+  - opportuni (pdf x1)
+  - metapho (pdf x1)
+  - materi (pdf x1)
+  - legging (pdf x1)
+  - knife (pdf x1)
+  - juries (pdf x1)
+  - interwo (pdf x1)
+  - interest (pdf x1)
+  - helicop (pdf x1)
+  - hallow (pdf x1)
+  - gested (pdf x1)
+  - festi (pdf x1)
+  - exceptional (pdf x1)
+  - exception (pdf x1)
+  - ... +17 more
+
+## 11 - Fort Lewis.md (PDF idx 52-56)
+- PDF chars (no ws): 17122
+- MD chars (no ws): 17116
+- MD/PDF char ratio: 1.00
+- PDF tokens: 2971 unique=1199
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (30):
+  - itary (pdf x2)
+  - wonder (pdf x1)
+  - vides (pdf x1)
+  - train (pdf x1)
+  - toler (pdf x1)
+  - tarian (pdf x1)
+  - stand (pdf x1)
+  - scrub (pdf x1)
+  - purchas (pdf x1)
+  - posed (pdf x1)
+  - person (pdf x1)
+  - onsworld (pdf x1)
+  - nigans (pdf x1)
+  - marshals (pdf x1)
+  - irrita (pdf x1)
+  - includ (pdf x1)
+  - illic (pdf x1)
+  - ficker (pdf x1)
+  - entertain (pdf x1)
+  - education (pdf x1)
+  - distrib (pdf x1)
+  - diers (pdf x1)
+  - descrip (pdf x1)
+  - commis (pdf x1)
+  - commemorat (pdf x1)
+  - coked (pdf x1)
+  - build (pdf x1)
+  - bility (pdf x1)
+  - batants (pdf x1)
+  - authori (pdf x1)
+
+## 12 - Redmond.md (PDF idx 57-61)
+- PDF chars (no ws): 17793
+- MD chars (no ws): 17814
+- MD/PDF char ratio: 1.00
+- PDF tokens: 3048 unique=1285
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (25):
+  - whompsnappers (pdf x1)
+  - vacoke (pdf x1)
+  - tional (pdf x1)
+  - technolo (pdf x1)
+  - tations (pdf x1)
+  - tated (pdf x1)
+  - tacts (pdf x1)
+  - strang (pdf x1)
+  - shadow (pdf x1)
+  - quarters (pdf x1)
+  - pecially (pdf x1)
+  - napping (pdf x1)
+  - moral (pdf x1)
+  - idence (pdf x1)
+  - humans (pdf x1)
+  - hallow (pdf x1)
+  - green (pdf x1)
+  - education (pdf x1)
+  - doned (pdf x1)
+  - different (pdf x1)
+  - dalism (pdf x1)
+  - correc (pdf x1)
+  - ciety (pdf x1)
+  - cause (pdf x1)
+  - berware (pdf x1)
+
+## 13 - Puyallup.md (PDF idx 62-66)
+- PDF chars (no ws): 17364
+- MD chars (no ws): 17373
+- MD/PDF char ratio: 1.00
+- PDF tokens: 2971 unique=1288
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (27):
+  - puyal (pdf x2)
+  - unpre (pdf x1)
+  - troubleshoot (pdf x1)
+  - tooth (pdf x1)
+  - tioning (pdf x1)
+  - tials (pdf x1)
+  - siders (pdf x1)
+  - realistical (pdf x1)
+  - rating (pdf x1)
+  - quarters (pdf x1)
+  - politi (pdf x1)
+  - personal (pdf x1)
+  - neces (pdf x1)
+  - nabes (pdf x1)
+  - istic (pdf x1)
+  - holes (pdf x1)
+  - fully (pdf x1)
+  - fluence (pdf x1)
+  - education (pdf x1)
+  - dropped (pdf x1)
+  - discussed (pdf x1)
+  - dictably (pdf x1)
+  - derbelly (pdf x1)
+  - creden (pdf x1)
+  - ciation (pdf x1)
+  - cians (pdf x1)
+  - appre (pdf x1)
+
+## 14 - Council Island.md (PDF idx 67-71)
+- PDF chars (no ws): 19323
+- MD chars (no ws): 19232
+- MD/PDF char ratio: 1.00
+- PDF tokens: 3268 unique=1397
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (29):
+  - tures (pdf x1)
+  - tolerat (pdf x1)
+  - toler (pdf x1)
+  - struc (pdf x1)
+  - reputa (pdf x1)
+  - rennial (pdf x1)
+  - reaucrats (pdf x1)
+  - peace (pdf x1)
+  - orful (pdf x1)
+  - numbers (pdf x1)
+  - marily (pdf x1)
+  - lomatic (pdf x1)
+  - friend (pdf x1)
+  - forms (pdf x1)
+  - facil (pdf x1)
+  - environmen (pdf x1)
+  - emergen (pdf x1)
+  - draco (pdf x1)
+  - diplo (pdf x1)
+  - dence (pdf x1)
+  - confronta (pdf x1)
+  - cilities (pdf x1)
+  - cific (pdf x1)
+  - celebrations (pdf x1)
+  - brating (pdf x1)
+  - bound (pdf x1)
+  - aries (pdf x1)
+  - ameri (pdf x1)
+  - accurate (pdf x1)
+
+## 15 - Outremer.md (PDF idx 72-82)
+- PDF chars (no ws): 42924
+- MD chars (no ws): 42823
+- MD/PDF char ratio: 1.00
+- PDF tokens: 7571 unique=2244
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (46):
+  - ganized (pdf x2)
+  - volve (pdf x1)
+  - volting (pdf x1)
+  - ulation (pdf x1)
+  - tween (pdf x1)
+  - tradi (pdf x1)
+  - tracts (pdf x1)
+  - tivals (pdf x1)
+  - tival (pdf x1)
+  - tions (pdf x1)
+  - terror (pdf x1)
+  - sultants (pdf x1)
+  - struction (pdf x1)
+  - sider (pdf x1)
+  - serve (pdf x1)
+  - river (pdf x1)
+  - reflec (pdf x1)
+  - raphers (pdf x1)
+  - priate (pdf x1)
+  - precise (pdf x1)
+  - pensive (pdf x1)
+  - oners (pdf x1)
+  - nized (pdf x1)
+  - nigan (pdf x1)
+  - ments (pdf x1)
+  - master (pdf x1)
+  - longs (pdf x1)
+  - investiga (pdf x1)
+  - inent (pdf x1)
+  - gashira (pdf x1)
+  - ... +16 more
+
+## 16 - The Seattle Underground.md (PDF idx 83-87)
+- PDF chars (no ws): 18338
+- MD chars (no ws): 18270
+- MD/PDF char ratio: 1.00
+- PDF tokens: 3161 unique=1334
+- Hard-miss phrases (0):
+- Rare PDF tokens missing from MD (21):
+  - commu (pdf x2)
+  - viding (pdf x1)
+  - twenty (pdf x1)
+  - ribly (pdf x1)
+  - punctuat (pdf x1)
+  - prove (pdf x1)
+  - protec (pdf x1)
+  - passag (pdf x1)
+  - opportu (pdf x1)
+  - nities (pdf x1)
+  - majori (pdf x1)
+  - humans (pdf x1)
+  - hearted (pdf x1)
+  - fisti (pdf x1)
+  - dividual (pdf x1)
+  - derground (pdf x1)
+  - depart (pdf x1)
+  - cuffs (pdf x1)
+  - cloth (pdf x1)
+  - cient (pdf x1)
+  - branded (pdf x1)

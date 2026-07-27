@@ -1,0 +1,909 @@
+﻿==== RNG 21 ====
+SLEDGE
+HAMMER
+IMPROVISED 
+MELEE WEAPONS
+IÆve seen mannequins, snapped off tree limbs, chairs, 
+park benches, bottles, toilet seats, and manhole covers 
+all used as improvised weapons. And that was all just 
+yesterday in Redmond. Anything that can be swung 
+and has enough mass to knock some sense into the 
+misguided or an edge that can cut to the truth has been 
+used at one point or another in history to lay down the 
+hurt. These tools arenÆt all perfect, and you canÆt real-
+ly use them with much finesse or style. But if theyÆre 
+all thatÆs handy, swing that old iron frying pan and see 
+what mommaÆs got cookinÆ in the kitchen.
+RANGED WEAPONS
+AQUADYNE SHARK-XS 
+HARPOON GUN
+Whether used to spear fish, defend against some of 
+the more aggressive denizens of the oceans, or remind 
+other sentient swimmers that what youÆve found be-
+neath the waves belongs to you, the Aquadyne Shark 
+can be a valuable asset. Powered by CO 2 and possess-
+ing an internal magazine, the Shark doesnÆt stop after 
+just one pull of the trigger, a feature that has saved 
+many a diver that trusted the Aquadyne brand. For the 
+sport fisherman, the Shark features the QuickClip line 
+system that makes setting up for the next catch faster 
+than ever.
+IMPROVISED WEAPONS
+WEAPON ACC REACH DV AP AVAIL COST
+Bottle (unbroken) 3 ù (STR + 1)S ù ù ù
+Bottle (broken, after first hit) 3 ù (STR)P ù ù ù
+Chain 4 2 (STR + 1)P ù ù 10Ñ
+Chair 3 1 (STR + 2)S ù ù 30Ñ
+Fork 4 ù (STR û 1)P +1 ù ù
+Frying Pan 3 ù (STR + 1)P ù ù 20Ñ
+Hammer 4 ù (STR + 1)P û1/û2 ù 30Ñ
+Pistol 4 ù (STR + 1)P ù As weapon As weapon
+Pool cue 4 ù (STR)P +1 ù 45Ñ
+Rifle butt 3 ù (STR + 3)S ù As weapon As weapon
+Sledge hammer 3 1 (STR + 4)P ù 1 40Ñ
+AQUADYNE SHARK-XS 
+HARPOON GUN
+>> ARSENAL <<
+22    IMPROVISED MELEE WEAPONS >>
+
+==== RNG 22 ====
+> The Shark has enough force that ôfishermenö arenÆt 
+limited to standard fishing line. This model pops off 
+with enough power to pull spidersilk cable or other 
+heavier test. 
+> Sounder
+RANGER SLIVER  
+PISTOL CROSSBOW
+The Sliver, as well as some of its other competing mod-
+els, is designed for stealthy operation as opposed to 
+high-damage potential. Due to the preference for 
+stealth over force, the Sliver is most often used with 
+Ranger Puncture Injection Bolts. These supposedly 
+ôbest in the marketö projectiles offer significant pen-
+etrative power to make sure whatever theyÆre loaded 
+with makes its way into the target.
+> The Punctures are definitely better, but donÆt forget that 
+a bolt is really nothing but a short arrow, which means 
+there are ones with interchangeable heads. TitanÆs line of 
+explosive and electric heads can help boost the potential 
+of your little Sliver. 
+> Mika
+ARES GIANTSLAYER 
+SLINGSHOT
+Not quite the wrist rocket you had as a kidùif David 
+had the Giantslayer, the end result of his little tiff with 
+Goliath wouldnÆt be quite so startling. Modern mate-
+rials throughout make this ôkidÆs toyö as deadly as any 
+holdout and most light pistols on the market. 
+> The slingshot, whether this Ares model or something 
+more mundane, is great for delivering a variety of 
+ordnance. Most people think marbles or ball bearings and 
+occasionally capsule rounds, but sticky RFID trackers and 
+even a little sticky explosive charge are a few of the more 
+creative uses of the slingshot.
+> Picador
+ARROWHEADS
+BARBED HEAD
+These heads are designed to hurt not only going in but 
+also coming out. Without someone with a steady hand 
+and some medical skill, pulling out an arrow with one 
+of these on the tip is going to be problematic. 
+EXPLOSIVE HEAD
+What happens when you mount a small shaped charge 
+on the head of an arrow? Hit someone with one of 
+these and find out.
+HARPOON GUNS
+STANDARD HARPOON GUN
+ACC DV AP MODE RC AMMO AVAIL COST
+5 9P û2 SS ù 1 6R 200Ñ
+AQUADYNE SHARK-XS HARPOON GUN
+ACC DV AP MODE RC AMMO AVAIL COST
+5 9P û2 SS ù 5(M) 8R 800Ñ
+The harpoon gun uses Light Crossbow ranges underwater 
+and Heavy Pistol ranges when fired outside of the water. The 
+Archery skill is used to fire the weapon.
+PISTOL CROSSBOW
+ACC DV AP MODE RC AMMO AVAIL COST
+7 4P ù SS ù ù 6R 300Ñ
+The pistol crossbow uses Heavy Pistol ranges and is fired 
+with the Archery skill.
+ARES GIANTSLAYER SLINGSHOT
+ACC DV AP MODE RC AMMO AVAIL COST
+7 2P ù SS ù ù ù 50Ñ
+This weapon can be used to fire either hard projectiles, like 
+ball bearings, and do the listed damage; or soft projectiles, such 
+as capsule rounds filled with contact toxins or drugs (p. 408, SR5) 
+and only do damage based on the substance within. 
+A slingshot uses shuriken ranges and is fired with the 
+Archery skill.
+BARBED HEAD
+>> ARSENAL <<
+<< ARROWHEADS    23
+
+==== RNG 23 ====
+HAMMERHEAD
+I always thought these were just designed to give an 
+archer the same options as a runner with a gel-load-
+ed pistol, but a little research led me to realize these 
+have been around for a long time. Hunters after small 
+game knew that organ punctures could ruin what little 
+meat the beasts had on them, so theyÆd opt to knock 
+them out instead of take risks with sharper arrowheads. 
+Additionally, poachers who were after exotic birds but 
+knew they lost a lot of value when they were dead 
+helped give this arrowhead a lot of use. 
+INCENDIARY HEAD
+Not the flaming arrows of ancient times, these arrow -
+heads contain a small charge and a pocket of white 
+phosphorous that erupts and sticks to the target, light-
+ing them on fire. Unpleasant beyond just the initial 
+hurting, the fire continues to burn unless it loses its 
+supply of oxygen. 
+SCREAMER HEAD
+Need to signal the team when you know the local air -
+waves are full of patrolling deckers? Fire a screamer 
+head. Though some models do in fact scream, most are 
+designed with less awkward sounds. The pitting pat-
+terns on the hollow pipe of the head are designed to 
+make a wide variety of sounds for signaling and can 
+even be modified fairly quickly out in the field. A handy 
+tool in any wannabe-Robin HoodÆs arsenal.
+STICK æNÆ SHOCK
+Though issues with nanomanufacturing have caused 
+some problems with Stick ænÆ Shock ammo for firearms, 
+the same has not been completely true with these 
+heads. Or more accurately, with these arrows. The Stick 
+ænÆ Shock head is only a small portion of this latest ar -
+chery innovation. Bowmen who want to gain the full 
+potential of these heads need to combine them with 
+Static Shafts, an Ares innovation that fills the shaft with 
+a powder that builds a charge during flight.
+> Not only during flight. IÆve heard of guys who zap 
+themselves when they jostle these things the wrong way. 
+Care should be taken when trying to use this tech. 
+> MaÆFan
+BOOMERANG
+This is not the cute toy of your youth that you throw 
+and try to get to come right back to you. This is the 
+Aboriginal hunting stick that can snap the neck of an 
+emu. Made of a wide variety of materials the modern 
+hunting boomerang is either a heavy wood with a dull 
+edge or a lighter composite with a sharp edge. Both are 
+deadly in the right hands.
+> The BoomerEye is a Renraku Australia product that 
+combines a little Australian history with some Japanese 
+innovation. A cheap, unguided surveillance tool, the 
+BoomerEye is a lightweight sport boomerang with a 
+special camera mounted on the bottom. ItÆs designed 
+to be thrown over a wide arc and get a quick peak at 
+what might be hidden out of sight.
+> Rigger X
+HARPOON/JAVELIN
+ThereÆs a reason why the javelin was part of the 
+original Olympics, which was a militaristic sport-
+ing competition. Metahumans have been using 
+sharpened sticks to kill prey, and each other, for 
+millennia. Improvements to materials technology 
+have just allowed them to throw further, faster, 
+and more accurately. 
+NET
+There always seemed to be no more embarrass-
+ing gladiatorial death than to be trapped in a net 
+and then poked to death. I think the fact that the 
+gladiators who fought with nets were the lowliest 
+of the low makes it even worse. But these days it 
+doesnÆt matter. If it works, use it. The net makes 
+a great way to slow an opponent and provide an 
+>> ARSENAL <<
+24    ARROWHEADS >>
+ARROWHEADS
+ITEM ACC DV AP AVAIL COST
+Barbed Head* ù +1 ù 5R 10Ñ
+Explosive Head û1 +2 û1 9F 15Ñ
+Hammerhead û1 +1S +2 5 5Ñ
+Incendiary Head û1 ** ù 12F 100Ñ
+Screamer Head*** û2 û2S +6 2 5Ñ
+Stick-n-Shock û1 8S(e) û5 6R 25Ñ
+Static Shaft ù +4S(e) ù 6R Rating x 25Ñ
+*Removing a barbed arrow without doing further damage to the target requires a 
+First Aid + Logic [Mental] (3) Test. Failure results in a number of boxes of Physical 
+damage equal to 3 û hits, unresisted.
+**On a successful hit, even a Grazing Hit, the arrow erupts in white phosphorous fire 
+with a DV of 8P and -6 AP . The WP continues to burn for 3 Combat Turns, causing 
+6P (û4 AP) of fire damage each turn (Fire Damage, p. 171, SR5) and possibly igniting 
+and damaging items on the character each turn. 
+Wireless Bonus: The head can be detonated before impact and split between 
+two targets within 1 meter of each other. Both targets roll to avoid the attack 
+separately and neither takes the initial 8P damage, instead just suffering the 6P , 
+û4AP , for 4 Combat Turns, including the current one.
+***Resetting the sound setting requires a Simple Action and a Logic + Intuition (1) Test.
+Wireless Bonus: The sound resetting can be done as a Free Action, even 
+while in flight.
+
+==== RNG 24 ====
+advantage, and isnÆt that what life is always aboutùget-
+ting the advantage?
+> And if it doesnÆt work, modify it until it does. While a few 
+attempts at monofilament nets have been tried and failed 
+spectacularly, other more offensive materials have been 
+used with nets. The Terra Cotta ShredNet with its barbed 
+wire netting and the Ares ShockNet with an electrical 
+stun charge built in have been two very popular options 
+to spice things up. 
+> Sticks
+CAVALIER ARMS  
+URBAN TRIBE TOMAHAWK
+This is not your grandfatherÆs tomahawk. Made from 
+modern composites and balanced for throwing, this 
+modern take on the classic Native American weapon 
+gives as much respect to its predecessors as it can while 
+moving into the 21st century. Popular among the urban 
+tribal street gangs, especially the First Nations in Seattle, 
+these finely crafted killing tools can also be found on the 
+belts of Salish Rangers and Sioux Wildcats.
+ 
+BOOMERANG
+ACC DV AP AVAIL COST
+Physical û 1 (STR + 2)P ù 4 50Ñ
+Throwing and catching a returning boomerang requires two 
+tests spread over two Combat Turnsùa Throwing Weapons + 
+Agility [Physical] (2) Test to throw it properly and an Agility + 
+Reaction (4) Test to catch it on the return. A boomerang that hits 
+a target does not return. 
+Boomerangs use the ranges of Aerodynamic Grenades. 
+Horizon BoomerEye: This is a cheap surveillance tool created 
+by some bored engineers out in the desert. The BoomerEye is a 
+video camera attached to a boomerang that can be tossed out and 
+get a birdÆs-eye view of an area. The device can be downloaded 
+with a Complex Action on return to the thrower.
+Wireless Bonus: The device can provide live-feed video 
+while in flight.
+HARPOON/JAVELIN
+ACC DV AP AVAIL COST
+Physical (STR + 3)P û1 6 125Ñ
+Harpoons use the Throwing Weapons skill, but they may 
+also be used as melee weapon, using the Blades skill and doing 
+the same damage as the thrown weapon with a Reach of 2. 
+Harpoons and javelins use Aerodynamic Grenade ranges.
+URBAN TRIBE TOMAHAWK
+ACC DV AP AVAIL COST
+Physical + 1 (STR + 2)P û1 4 200Ñ
+The Urban Tribe tomahawk uses the Throwing Weapons skill with the 
+Thrown Knife range in ranged attacks; for melee attacks, use the Blades 
+skill, with the same damage as the thrown weapon
+NET
+ACC DV AP AVAIL COST
+Physical û 2 ù ù 6 350Ñ
+With a successful attack using rules for a Grazing Hit (p. 173, 
+SR5), the net lands over an opponent and they are considered 
+to be in subduing combat (p. 195, SR5). An attacker must move 
+to the target in order to engage in any of the Subduing actions. 
+To break free of the net, the subdued character rolls Agility 
++ Unarmed Combat (rather than Strength + Unarmed Combat) or 
+Agility + Escape Artist as a Complex Action, against a threshold 
+equal to the attackerÆs net hits.
+Nets use half the range of throwing knives (round up) and 
+employ the Exotic Ranged Weapons (Net) skill.
+URBAN TRIBE 
+TOMAHAWK
+>> ARSENAL <<
+<< ARROWHEADS    25
+
+==== RNG 25 ====
+EXOTIC RANGED 
+WEAPONS
+ARES SCREECH SONIC RIFLE
+This is a nasty little oddball of a weapon. Though itÆs 
+called the Screech and its classified as a sonic rifle, 
+anyone with this thing pointed at them will rarely hear 
+a thing other then their own retching as they puke up 
+their latest meal. This devious invention uses focused 
+sound waves to disorient the target while not causing 
+any real damage. Perfect for crowd control as long as 
+the users are prepped with gas masks, since the reek of 
+soybase vomit will fill the air this sucker is fired.
+> DonÆt try and use this against spirits. Their lack of a 
+standard biology makes them immune to the effect. 
+Works great on most other things though. Usually seems 
+to depend on whether they have ears that affect their 
+balance and equilibrium.
+> Stone
+BLOWGUN
+Nope, not kidding. The blowgun has been silently neu-
+tralizing targets for hundreds of years. Especially pop-
+ular with stealthy forces that like to poison their targets 
+and then recover their goodies or finish them off once 
+they are no longer able to fight off a flea. They take a lot 
+of skill to use and almost always include a drug or tox-
+in on their needles. Otherwise it would just be ranged 
+acupuncture. 
+BOLAS
+Take a pair of rocks, tie them together with a rope. Now 
+you have basic bolas. Take that and throw it at some-
+thing, letting the extra centrifugal force give it some 
+added punch. Now get fancy and try and wrap it around 
+your target. ItÆs not easy, but if you hit just right itÆs both 
+a takedown and a load of pain all in one. Modern bo-
+las arenÆt rocks tied with strings; instead, theyÆre usually 
+solid steel connected with wire, often with three balls 
+instead of two. TheyÆre a favorite weapon of hunters 
+that prefer to take their prey alive, especially bounty 
+hunters.
+NEMESIS ARMS SURUCHIN 
+MONOFILAMENT BOLAS
+If getting tangled up by a pair of metal balls on a met-
+al wire wasnÆt bad enough, imagine if that wire was a 
+monofilament line. ThereÆs very little intention to cap-
+ture and much more to harm, though the company tag 
+line is suppression through intimidation, claiming they 
+wrap and prevent escape by the threat of increased risk 
+of harm. 
+> Sociopathic runners are often at the forefront of interesting 
+derivations and innovations in the arms race. Boom-
+bolas are an example of that. A pair of wireless-enabled 
+grenades, or one grenade and a counterweight, are used 
+to snare the target with a healthy reminder of how bad 
+not surrendering can be. There are also those who simply 
+use the bola design to put the grenades right on top of a 
+target. No longer chunky salsa, more of a fine purΘe. 
+> Red Anya
+FN-AAL GYROJET PISTOL
+Once advertised as a favorite of the British Special Boat 
+Squadron, FN has increased their market audience to 
+most of the marine-based special operations forces 
+around the world. The gun fires miniature 6mm rockets 
+that explode on impactùan effect that, underwater, is 
+even worse than in the air. 
+> FN makes a full array of alternate munitions that match 
+up well with their standard counterparts. Jelly rockets 
+are awesome. 
+> Sticks
+ARES SCREECH SONIC RIFLE
+ACC DV AP MODE RC AMMO AVAIL COST
+6 7S * SS ù 10(c) 16R 8,000Ñ
+The sonic rifle can fire with variable beam settings. It uses the 
+same rules as shotguns (p. 180, SR5) for determining the number of 
+targets affected and the DV modifier, as well as ranges. The Exotic 
+Ranged Weapon (Sonic Rifle) skill is used to fire this weapon.
+The Damage Resistance Test uses Willpower instead of Body 
+and ignores all standard armor. Damper earware (p. 454, SR5) 
+provides +2 bonus dice to the resistance test. A Hush or Silence 
+spell reduces the DV by û1 per hit on the Spellcasting Test. 
+Targets hit by a beam suffer the effects of disorientation 
+and nausea (p. 409, SR5; use Damage Resistance Test in place 
+of Toxin Resistance Test). The rifle uses peak discharge battery 
+packs, with each shot consuming 1 power unit.
+>> ARSENAL <<
+BLOWGUN
+ACC DV AP MODE AMMO AVAIL COST
+8 1P ù SS 1(ml) 4 15Ñ
+Blowguns are fired with the Exotic Ranged Weapon (Blowgun) skill. 
+To deliver a toxin with a blowgun needle, use the Called Shot Location 
+rules to target an area not protected by armor. If the attack succeeds, the 
+poison is delivered. 
+Note that when using a blowgun, a character may inhale his own 
+dart on a critical glitch; some modern blowguns have a safeguard in form 
+of a small cross-like section in the mouthpiece.
+Blowguns use Taser ranges.
+26    EXOTIC RANGED WEAPONS >>
+
+==== RNG 26 ====
+MORTIMER OF LONDON 
+ôTRAFALGERö GUN CANE
+Where fashion meets defense, this single-shot weapon 
+is a fashion accessory with both form and function. De-
+signed to look just like MortimerÆs regular line of dress 
+canes, the Trafalger tag goes on any of the gun canes 
+no matter what they look like. 
+> The Trafalger line has been copied by cheaper knock-off 
+companies, some that are using heavier rounds but all of 
+them destroy the cane after they are used. 
+> Thorn
+BOLAS
+STANDARD BOLA
+ACC DV AP AVAIL COST
+Physical (STR + 3)S +4 6 75Ñ
+MONOFILAMENT BOLA
+ACC DV AP AVAIL COST
+Physical (STR + 3)S 
+/ 12P
++4 / û8 18F 4,000Ñ
+Bolas can do one of two types of damage based on their use. 
+When thrown to hit a target, make an Exotic Ranged Weapon 
+(Bolas) Attack Test (use the DV and AP stats on the left side of 
+the slash for monofilament bolas).
+When thrown with the intent of wrapping around a 
+specific location on an opponent use the appropriate Called 
+Shot Location modifier to determine success. A standard bola 
+requires the target to make an immediate Agility + Gymnastics 
+[Physical] Test with a threshold of the attackerÆs net hits; if they 
+fail, they fall prone. 
+Removing wrapped bolas requires an Agility + Escape Artist 
+[Physical](6, 1 Action Phase) Extended Test or a sharp knife 
+(taking a Complex Action to cut it off). 
+A monofilament bola requires the target to make an 
+immediate Damage Resistance Test using the stats on the right 
+side of the slash along with the Agility + Gymnastics Test. Once 
+wrapped up with a monofilament bola, any character trying to 
+get themselves loose with the above Escape Artist Test or move 
+must make a Damage Resistance Test for each attempt. 
+Bolas use shuriken ranges.
+Boom-bolas: One or two grenades of any fashion bound 
+together. They suffer a û2 Accuracy, and misses are determined 
+much like scatter, except that it is always the maximum distance 
+in the 7 direction. A successful bola attack means the grenades 
+are at 0 distance to the target when they explode, and Multiple 
+Simultaneous Blast rules (p. 183, SR5) apply.
+GUN CANES
+TRAFALGER GUN CANE
+ACC DV AP MODE AMMO AVAIL COST
+6 7P ù SS 1(b) 9R 750Ñ
+KNOCKOFF GUN CANE
+ACC DV AP MODE AMMO AVAIL COST
+5 9P ù SS ù 6R 150Ñ
+The gun cane uses taser ranges, can only use caseless 
+ammo, and cannot mount any accessories. It is fired with the 
+Exotic Ranged Weapons (Gun Cane) skill. Its Concealment 
+modifiers are +0 for the whole cane and û6 to detect its true 
+nature (see p. 419, SR5).
+The Knockoff models are destroyed after firing.
+>> ARSENAL <<
+FN-AAL GYROJET PISTOL
+ACC DV AP MODE AMMO AVAIL COST
+5 10P û2 SA 10(c) 12F 2,000Ñ
+The FN-AAL Gyrojet pistol can mount the same accessories 
+as a heavy pistol and uses the same ranges. When it is used 
+underwater, increase the standard munitions DV ratings by +2 in 
+addition to any other modifiers.
+<< EXOTIC RANGED WEAPONS    27
+
+==== RNG 27 ====
+SA RETIARUS NET GUN
+This weapon comes in two models, the basic and the 
+XL. The basic is designed for metahumans, except for 
+trolls, and smaller critters; while the XL is intended for 
+trolls and other larger creatures. 
+> The ShockNet ammo is great for helping with a little extra 
+takedown on those really feisty targets. 
+> Sticks
+TIFFANI ╔L╔GANCE  
+SHOOTING BRACERS
+Elegant and deadly in one high fashion package. Tiffani 
+has made the ╔lΘgance for years, and dozens of basic 
+designs are out there now. The truly elite get their brac-
+ers customized to match their newest fashions, and 
+some have gathered quite the collection of ╔lΘgance 
+bracers in their closet.
+> Aim on these things is wretched due to the lack of barrel. 
+Tiffani has tried to help make up for that with a laser sight 
+feature available on their newest model.
+> Thorn
+NET GUNS
+BASIC
+ACC DV AP MODE AMMO AVAIL COST
+5 ù ù SS 4(b) 9 750/350Ñ
+XL
+ACC DV AP MODE AMMO AVAIL COST
+5 ù ù SS 2(b) 9 1,000/400Ñ
+SHOCKNET
+ACC DV AP MODE AMMO AVAIL COST
+as gun 8S(e) û5 As gun As gun 10R +250Ñ
+When a target is hit, apply the rules for nets (see p. 25). 
+If a large net is used against a normal sized target, the target 
+receives a û2 modifier on his Agility, while a large target hit by a 
+normal sized net receives a +2 Agility modifier. Net guns use light 
+pistol ranges and cannot mount any accessories.
+The cost on the left side of the slash is the price of the 
+gun; on the right is the cost of a full load of ammunition for the 
+weapon.
+The ShockNet has two charges. One will activate on 
+contact, the second at the start of the next Combat Turn. 
+SHOOTING BRACER
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (6) 7P ù SS ù 1(b) 10R 1,250Ñ
+The ╔lΘgance Shooting Bracer can only use caseless 
+ammunition and uses taser ranges. It cannot mount any 
+accessories. The bracerÆs Concealability modifier to hide its true 
+function is û5 (see p. 419, SR5).
+TIFFANI ELEGANCE 
+SHOOTING BRACER
+>> ARSENAL <<
+28    EXOTIC RANGED WEAPONS >>
+
+==== RNG 28 ====
+TASERS
+CAVALIER SAFEGUARD
+A reliable self-defense weapon, this taser forgoes 
+some wattage in each dart for a larger ammunition 
+capacity, and backs that up with a top-mounted laser 
+for increased accuracy for a less skilled shooter. It still 
+looks sufficiently enough like a pistol to still intimidate 
+targets who might scoff at a mere taser.
+> This one will give someone my size just a tingle.
+> 2XL
+TIFFANI-DEFIANCE PROTECTOR
+A sleek taser designed to accessorize well with wom-
+enÆs fashions, with the added benefit of geckogrip to 
+allow it to be set anywhere that is comfortable on the 
+body and a sleek top-mounted laser sight for quick tar -
+geting. This is a perfect choice to go with the immortal 
+little black dress, stored under the dashboard of a car, 
+or put next to the bed for a good nightÆs sleep.
+TASERS
+CAVALIER SAFEGUARD
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (6) 6S(e) û5 SA ù 6(m) ù 275Ñ
+Standard upgrades: Laser sight
+TIFFANI-DEFIANCE PROTECTOR
+ACC DV AP MODE RC AMMO AVAIL COST
+5 (6) 7S(e) û5 SA ù 3(m) 2 300Ñ
+Standard upgrades: Laser sight
+Wireless: A successful hit with any taser informs you of the status of 
+the targetÆs basic health (and Condition Monitors).
+CAVALIER SAFEGUARD
+TIFFANI-DEFIANCE 
+PROTECTOR
+>> ARSENAL <<
+<< TASERS    29
+
+==== RNG 29 ====
+HOLD-OUTS
+FICHETTI TIFFANI  
+SELF-DEFENDER 2075
+A purse pistol that has been updated to include the lat-
+est in fashion programming for its color-change coat-
+ing, allowing it to be an excellent accessory for any 
+outfit. Updates are available for a modest annual fee.
+> This is for blending in with the fashionable crowd, not 
+for actual shooting. If your plan calls on using this as a 
+primary or secondary weapon, re-plan.
+> Marcos
+LIGHT PISTOLS
+FICHETTI EXECUTIVE ACTION
+ôManage your danger with Executive Action!ö is the 
+latest in a long series of taglines for this pistol, which 
+incorporates a burst-fire option as standard. With no 
+other truly compelling features, marketing is what this 
+firearm mostly has going for it, but that appears to be 
+all it needs to keep selling well.
+HOLD-OUTS
+FICHETTI-TIFFANI SELF-DEFENDER 2075
+ACC DV AP MODE RC AMMO AVAIL COST
+4 6P ù SS ù 4(c) 3R 350Ñ
+LIGHT PISTOLS
+FICHETTI EXECUTIVE ACTION
+ACC DV AP MODE RC AMMO AVAIL COST
+6 7P ù SA/BF* ù 18(c) 10R 300Ñ
+FICHETTI TIFFANI 
+SELF-DEFENDER 2075
+FICHETTI EXECUTIVE 
+ACTION
+>> ARSENAL <<
+30    HOLD-OUTS >>
+
+==== RNG 200 ====
+realize death had dropped in on Æem from above before the frags 
+reduced them to shredded red meat. I slapped MegazardÆs leg 
+as the echoes away. ôLetÆs roll.ö
+Covering the stairwell with his assault cannon, dwarf slung 
+over his other shoulder, Megazard took the steps three at a 
+time. The rest of us scrambled to catch up.
+The first floor landing looked like itÆd been sprayed with a 
+crimson water cannon. I left a little surprise for anyone enter -
+ing the stairwell from the main hall, and kept moving. Careful 
+not to slip in the muck coating the floor, we descended to the 
+basement, then even further, to the parking levels below that.
+In the small room just before the garage, SliceNDice sagged 
+again, then straightened up with a jerk. ôNo sign of KE or any 
+security. WeÆre out the door, get the truck, and get the hell out 
+of here.ö
+Grenades in hand, I nodded at Megazard. ôGo.ö Not that I 
+didnÆt trust the other adeptÆs recon, but à okay, I didnÆt trust the 
+other adeptÆs recon.
+The troll cautiously opened the door, and I peeked out, 
+ready to frag anything that moved. The plascrete floor was qui-
+et, littered with parked cars and nothing else. Not even a peep 
+from my combat senses.
+ôClear.ö I took point as we headed toward the nondescript, 
+battered panel truck that had gotten them inside, and which 
+I hoped was sturdy enough to get us all back out againùes-
+pecially with an additional five hundred kilograms of troll and 
+dwarf aboard.
+The rest of the runners followed, Megazard bringing up the 
+rear. We had just reached the truck when the hacker jerked and 
+raised his head with a snort.
+ôWhere the hellÆre we?ö
+ôEvacÆing, thatÆs where,ö SliceNDice told him. ôWe booked 
+when you went down from the IC.ö
+ôSheeit, I may have been down, but I wasnÆt out,ö the hacker 
+protested. ôBesides, I almost got what we came for. Just need 
+another one, two minutes, tops.ö He glanced down at his troll 
+ride. ôMind putting me down, treetop?ö
+ôBut Slycer, we gotta stay onsite for you to complete the 
+download,ö the human adept said as the hacker was lowered 
+to the ground.
+ôNo shit,ö the dwarf replied as he climbed into the back of 
+the truck. ôBet I can do it in ninety seconds, easy.ö
+ôNo paydirt, no payday,ö the guy elf said.
+ôYeah. DonÆt know about you, but IÆd rather not go back to 
+Mr. Johnson empty-handed,ö his sister said with a frown.
+SliceNDice glanced at them, then at us. ôAll right then, you 
+four buy Slycer the time he needs. IÆll stay with him and the 
+truck, each of you take a position where you can cause a dis-
+traction. Once heÆs got the stuff, IÆll pick you all up, and weÆre 
+out of here. Move out.ö
+Megazard and I split up to cover the right side of the 
+parking structure. I ducked behind behind a glossy, midnight 
+blue BMW X89 parked near the down ramp from the upper 
+level. The huge troll found his own hiding place, managing to 
+squeeze between two company panel trucks.
+I was about to needle him on his hiding spot when my com-
+bat senses pinged as I heard the squeak of rubber on plascrete. 
+<Vehicle coming.>
+<You got LOS?>
+<Yup.> I watched a classic GMC Bulldog in corp security col-
+ors, with a heavy-duty ram bar and run-flat tires, come down 
+the ramp. HereÆs where it got a bit trickyùI had to disable the 
+van without blocking our exit. I texted Megazard. <Gonna take 
+them at your corner. Need an extra push when I do.>
+<Got it.>
+I popped two hi-ex ball grenades and calcÆed fuses, dis-
+tance to target, and travel time. A few meters before the vehicle 
+reached a safe distance, I stepped out from between the cars, 
+popped both pins, and bowled the pair of grens toward the left 
+rear corner of the armored van. Again, the little round bombs 
+went exactly where I wanted them to, and I clued Megazard in 
+as they went. <Boom in three, two, oneùNOW.> 
+At the precise moment my grenades exploded under the 
+BulldogÆs left rear axle, Megazard also stepped out and fired his 
+Krime Cannon at the upper driverÆs side of the GMCÆs roof. He 
+wasnÆt using armor-piercing rounds, howeverùthat wouldnÆt 
+have accomplished what we wanted.
+The twin sets of high explosions, set off at the right time and 
+impacting the right places, knocked the van over on its side, 
+making it skid to a stop in a shriek of overstressed metal and 
+plastic.
+As the smoke and noise died away, we got the call. <Pack -
+age acquired. Be ready for pick-up.> That was accompanied by the 
+shriek of complaining wheels on the garage floor. Seconds later, 
+the panel truck slewed around the corner, almost sideswiping 
+the overturned van. It corrected, and I broke into a run when 
+I saw the back door open, with both elves waving us forward.
+Megazard was right beside me, and grabbed me in one 
+huge hand as he lunged for the truckÆs back door. The suspen-
+sion shrieked in protest, but held as we scrambled aboard. I 
+looked back to see two dazed sec men struggling out of the 
+bulldog, and popped a pair of smoke grenades to cover us.
+ôSlycer, get that gate open!ö 
+ôWorking on it à there!ö
+The mesh metal security gate squealed up as we rounded the 
+last corner and sped toward the exit. Megazard pulled the back 
+doors shut and sat against the groaning wall to catch his breath.
+ôHey, slow down there, Andretti,ö I called to the adept behind 
+the wheel. ôMaintenance has no reason to speed outta here.ö
+He shook his head but did as I said. We drove up the ramp, 
+out the maintenance exit, and into the late afternoon sunshine. 
+Two right turns later, we were leaving the rear of the building 
+grounds as a small army of Knight Errant security converged on 
+its still-smoking front. Two klicks later, we pulled onto an on-
+ramp and merged with the rest of the traffic on I5. Just another 
+maintenance van on its way back from a job.
+Blowing out a relaxed breath, I exchanged a satisfied glance 
+with Megazard as the rest of the team celebrated their success-
+ful run. ThatÆs the other advantage of making a big boom going 
+inùno one ever expects you to be quiet coming back out.
+HOSTILE EXTRACTION    201
+
+
+==== RNG 201 ====
+202    RUN & GUN TABLES >>
+RUN & GUN TABLES
+BLADES
+ITEM ACC REACH DV AP AVAIL COST PAGE
+Combat axe 4 2 (STR+5)P û4 12R 4,000Ñ 422, SR5
+Combat knife 6 ù (STR+2)P û3 4 300Ñ 422, SR5
+Cougar Fineblade (Long) 6 ù (STR+3)P û1 7R 600Ñ 20
+Cougar Fineblade (Short) 6 ù (STR+2)P û1 5R 350Ñ 20
+Forearm snap-blades 4 ù (STR+2)P û2 7R 200Ñ 422, SR5
+Highland Forge Claymore (Blade) 5 2 (STR+5)P û5 14R 4,500Ñ 18
+Horizon-Flynn Rapier 7 1 (STR+2)P û3 9R 500Ñ 18
+Katana 7 1 (STR+3)P û3 9R 1,000Ñ 422, SR5
+Knife 5 ù (STR+1)P û1 ù 10Ñ 422, SR5
+Monofilament Sword 5 1 (STR+3)P û3 8R 900Ñ 19
+Pole arm 5 3 (STR+3)P û2 6R 1,000Ñ 422, SR5
+Survival knife 5 ù (STR+2)P û1 ù 100Ñ 422, SR5
+Sword 6 1 (STR+3)P û2 5R 500Ñ 422, SR5
+Victorinox Memory Blade (Sword) 5 1 (STR+2)P û2 14R 1,500Ñ 19
+Victorinox Memory Blade (Dagger) 5 ù (STR+1)P û2 14R 1,250Ñ 19
+CLUBS
+ITEM ACC REACH DV AP AVAIL COST PAGE
+Club 4 1 (STR+3)P ù ù 30Ñ 422, SR5
+Extendable baton 5 1 (STR+2)P ù 4 100Ñ 422, SR5
+Sap 5 ù (STR+2)P ù 2 30Ñ 422, SR5
+Staff 6 2 (STR+3)P ù 3 100Ñ 422, SR5
+Stun baton 4 1 9S(e) û5 6R 750Ñ 422, SR5
+Stun Staff 6 2 9S(e) û5 8R 1,000Ñ 20
+Telescoping staff 4 2 (STR+2)P ù 4 350Ñ 422, SR5
+OTHER
+ITEM ACC REACH DV AP AVAIL COST PAGE
+Knucks Physical ù (STR+1)P ù 2R 100Ñ 422, SR5
+Monofilament whip 5(7) 2 12P û8 12F 10,000Ñ 423, SR5
+Shock gloves Physical ù 8S(e) û5 6R 550Ñ 423, SR5
+EXOTIC MELEE WEAPONS
+ITEM ACC REACH DV AP AVAIL COST PAGE
+Garrote 5 ù (STR+4)S û6 ù 50Ñ 20
+Monofilament garrote 5 ù (STR+6)P û8 18F 2,000Ñ 20
+Bullwhip 6 2 (STR+1)P +3 6 100Ñ 20
+Ash Arms combat chainsaw 5 1 8P û4 6R 2,000Ñ 21
+Ash Arms monofilament 
+chainsaw 5 1 12P û8 8R 7,500Ñ 21
+
+==== RNG 202 ====
+<< RUN & GUN TABLES    203
+RUN & GUN TABLES
+IMPROVISED WEAPONS
+ITEM ACC REACH DV AP AVAIL COST PAGE
+Bottle (unbroken) 3 ù (STR+1)S ù ù ù 22
+Bottle (broken, after first hit) 3 ù (STR)P ù ù ù 22
+Chain 4 2 (STR+1)P ù ù 10Ñ 22
+Chair 3 1 (STR+2)S ù ù 30Ñ 22
+Fork 4 ù (STR-1)P +1 ù ù 22
+Frying pan 3 ù (STR+1)P ù ù 20Ñ 22
+Hammer 4 ù (STR+1)P û1/û2 ù 30 22
+Pistol 4 ù (STR+1)P ù As weapon As weapon 22
+Pool cue 4 ù (STR)P +1 ù 45Ñ 22
+Rifle butt 3 ù (STR+3)S ù As weapon As weapon 22
+Sledge hammer 3 1 (STR+4)P ù 1 40Ñ 22
+PROJECTILE WEAPONS
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+AquaDyne Shark-XS harpoon gun 5 9P û2 SS ù 5(m) 8R 800Ñ 22
+Bow 6 (Rating + 
+2)P û(Rating/4) n/a n/a n/a Rating Rating x 
+100Ñ 423, SR5
+Pistol crossbow 7 4P ù SS ù ù 6R 300Ñ 23
+Slingshot 7 2P ù SS ù ù ù 50Ñ 23
+Standard harpoon gun 5 9P û2 SS ù 1 6R 200Ñ 22
+CROSSBOWS
+ITEM ACC DV AP AVAIL COST PAGE
+Light 7 5P û1 2 300Ñ 423, SR5
+Medium 6 7P û2 4R 500Ñ 423, SR5
+Heavy 5 10P û3 8R 1,000Ñ 423, SR5
+ARROWHEADS
+ITEM ACC DV AP AVAIL COST PAGE
+Arrow ù ù ù Rating Rating x 2Ñ 423, SR5
+Barbed head ù +1 ù 5R 10Ñ 23
+Bolt ù ù ù 2 5Ñ 423, SR5
+Explosive head û1 +2 û1 9F 15Ñ 23
+Hammerhead û1 +1S +2 5 5Ñ 24
+Injection bolt ù ù ù 8R 50Ñ 423, SR5
+Incendiary head û1 special ù 12F 100Ñ 24
+Injection arrow ù ù ù (Rating + 2)R Rating x 20Ñ 423, SR5
+Screamer head û2 û2S +6 2 5Ñ 24
+Stick ænÆ Shock û1 8S(e) û5 6R 25Ñ 24
+Static shaft ù +4S(e) ù 6R Rating x 25Ñ 24
+
+==== RNG 203 ====
+204    RUN & GUN TABLES >>
+RUN & GUN TABLES
+THROWING WEAPONS
+ITEM ACC DV AP AVAIL COST PAGE
+Boomerang Physical û 1 (STR+2)P ù 4 50Ñ 24
+Harpoon/Javelin Physical (STR+3)P û1 6 125Ñ 24
+Net Physical û 2 ù ù 6 350Ñ 24
+Throwing knife/shuriken Physical (STR+1)P û1 4R 25Ñ 423, SR5
+Urban Tribe Tomahawk Physical + 1 (STR+2)P û1 4 200Ñ 25
+EXOTIC RANGED WEAPONS
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+Ares Screech Sonic Rifle 6 7S * SS ù 10(c) 16R 8,000Ñ 26
+Blowgun 8 1P ù SS n/a 1(ml) 4 15Ñ 26
+Bolas Physical (STR+3)S +4 n/a n/a n/a 6 75Ñ 26
+Monofilament Bolas Physical (STR+3)
+S/12P +4/û8 n/a n/a n/a 18F 4,000Ñ 26
+FN-AAL Gyrojet Pistol 5 10P û2 SA ù 10(c) 12F 2,000Ñ 26
+Trafalger Gun Cane 6 7P ù SS ù 1(b) 9R 750Ñ 27
+Knockoff Gun Cane 5 9P ù SS ù ù 6R 150Ñ
+Net Guns
+Basic 5 ù ù SS n/a 4(b) 9 750Ñ/350Ñ 28
+XL 5 ù ù SS n/a 2(b) 9 1,000Ñ/400Ñ 28
+ShockNet as gun 8S(e) û5 as gun n/a as gun 10R +250 28
+Shooting Bracer 5(6) 7P ù SS ù 1(b) 10R 1,250Ñ 28
+TASERS
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+Cavalier SafeGuard 5 (6) 6S(e) û5 SA ù 6(m) ù 275Ñ 29
+Defiance EX Shocker 4 9S(e) û5 SS ù 4(m) ù 250Ñ 424, SR5
+Tiffani-Defiance 
+Protector 5 (6) 7S(e) û5 SA ù 3(m) 2 300Ñ 29
+Yamaha Pulsar 5 7S(e) û5 SA ù 4(m) ù 180Ñ 425, SR5
+HOLD-OUT PISTOLS
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+Fichetti Tiffani Needler 5 8P(f) +5 SA ù 4(c) 5R 1,000Ñ 425, SR5
+Fichetti Tiffani  
+Self-Defender 2075 4 6P ù SS ù 4(c) 3R 350Ñ 30
+Streetline Special 4 6P ù SA ù 6(c) 4R 120Ñ 425, SR5
+Walther Palm Pistol 4 7P ù SS/BF ù 2(b) 4R 180Ñ 425, SR5
+
+==== RNG 204 ====
+<< RUN & GUN TABLES    205
+RUN & GUN TABLES
+LIGHT PISTOLS
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+Ares Light Fire 75 6(8) 6P ù SA ù 16(c) 6F 1,250Ñ 425, SR5
+Ares Light Fire 70 7 6P ù SA ù 18(c) 3R 200Ñ 425, SR5
+Beretta 201T 6 6P ù SA/BF (1) 21(c) 7R 210Ñ 425, SR5
+Colt America L36 7 7P ù SA ù 11(c) 4R 320Ñ 425, SR5
+Fichetti Executive 
+Action 6 7P ù SA/BF ù 18 (c) 10R 300Ñ 30
+Fichetti Security 600 6(7) 7P ù SA (1) 30(c) 6R 350Ñ 426, SR5
+Nitama Sporter 6(7) 6P ù SA 1 5(m) 4R 270Ñ 31
+Shiawase Armaments 
+Puzzler 4 6P ù SA ù 12(c) 14R 900Ñ 31
+Taurus Omni-6 5(6) 6P/7P 0/û1 SA/SS ù 6(cy) 3R 300Ñ 426, SR5
+HEAVY PISTOLS
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+Ares Predator V 5(7) 8P û1 SA ù 15(c) 5R 725Ñ 426, SR5
+Ares Viper Slivergun 4 9P(f) +4 SA/BF ù 30(c) 8F 380Ñ 426, SR5
+Browning Ultra-Power 5(6) 8P û1 SA ù 10(c) 4R 640Ñ 426, SR5
+Cavalier Deputy 6 7P û1 SA ù 7 (cy) 3R 225Ñ 32
+Colt Government 2066 6 7P û1 SA ù 14(c) 7R 425Ñ 426, SR5
+Onotari Arms Violator 5 7P û1 SA 1 10 (c) 7R 550Ñ 33
+PSK-3 Collapsible Heavy 
+Pistol 4 8P û1 SA ù 10 (c) 16F 1,050Ñ 32
+Remington Roomsweeper 4 7P û1 SA ù 8(m) 6R 250Ñ 426, SR5
+w/ flechettes ù 9P(f) +4 ù ù ù ù ù
+Ruger Super Warhawk 5 9P û2 SS ù 6(cy) 4R 400Ñ 427, SR5
+Savalette Guardian 5 (7) 8P û1 SA/BF 1 12 (c) 6R 870Ñ 33
+MACHINE PISTOLS
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+Ares Crusader II 5(7) 7P ù SA/BF 2 40(c) 9R 830Ñ 427, SR5
+Ceska Black Scorpion 5 6P ù SA/BF (1) 35(c) 6R 270Ñ 427, SR5
+Onotari Arms Equalizer 4(5) 7P ù BF/FA (1) 12(c) 7R 750Ñ 34
+PPSK-4 Collapsible Machine 
+Pistol 5(6) 6P ù SA/BF (1) 30(c) 17F 2,800Ñ 34
+Steyr TMP 4 7P ù SA/BF/FA ù 30(c) 8R 350Ñ 427, SR5
+Ultimax 70 5(6) 6P ù BF/FA 2 15(c) 7R 800Ñ 35
+
+==== RNG 205 ====
+206    RUN & GUN TABLES >>
+RUN & GUN TABLES
+SUBMACHINE GUNS
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+Colt Cobra TZ-120 4(5) 7P ù SA/BF/FA 2(3) 32(c) 5R 660Ñ 427, SR5
+Ares Executioner 4(6) 7P ù SA/BF/FA (1) 30(c) 14F 1,000Ñ 35
+FN P93 Praetor 6 8P ù SA/BF/FA 1(2) 50(c) 11F 900Ñ 427, SR5
+HK-227 5(7) 7P ù SA/BF/FA (1) 28(c) 8R 730Ñ 427, SR5
+HK Urban Combat 7(9) 8P ù SA/BF/FA 2 36(c) 16F 2,300Ñ 36
+Ingram Smartgun X 4(6) 8P ù BF/FA 2 32(c) 6R 800Ñ 427, SR5
+SCK Model 100 5(7) 8P ù SA/BF (1) 30(c) 6R 875Ñ 428, SR5
+Uzi 4(5) 7P ù BF (1) 24(c) 4R 450Ñ 428, SR5
+ASSAULT RIFLES
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+AK-97 5 10P û2 SA/BF/FA ù 38(c) 4R 950Ñ 428, SR5
+AK-98 5 10P û2 SA/BF/FA ù 38(c) 8F 1,250Ñ 36
+Grenade Launcher 3 Grenade Grenade SS ù 6(m) ù ù ù
+Ares Alpha 5(7) 11P û2 SA/BF/FA 2 42(c) 11F 2,650Ñ 428, SR5
+Grenade Launcher 4(6) ù ù SS ù 6(c) ù ù 428, SR5
+Ares HVAR 5(7) 8P ù SA/BF/FA 3(4) 50(c) 11F 2,400Ñ 37
+Colt M23 4 9P û2 SA/BF/FA ù 40(c) 4R 550Ñ 428, SR5
+FN HAR 5(6) 10P û2 SA/BF/FA 2 35(c) 8R 1,500Ñ 428, SR5
+HK XM30
+Assault Rifle 6(8) 9P û2 SA/BF/FA (1) 30(c) 15F 4,500Ñ 37
+Carbine 6(8) 9P û2 SA/BF/FA (1) 30(c) ù ù ù
+Sniper 7(9) 9P û2 SA 2(3) 10(c) ù ù ù
+LMG 6(8) 9P û2 BF/FA 2(3) 100(belt) ù ù ù
+Shotgun 3(5) 10P û1 SA (1) 10(c) ù ù ù
+Grenade Launcher 4 Grenade Grenade SS ù 6(c) ù ù ù
+Nitama Optimum II 5(7) 9P û2 SA/BF/FA 1 30(c) 10F 2,300Ñ 38
+Shotgun 4(6) 10P û1 SA 1 5(m) ù ù ù
+Yamaha Raiden 6(8) 11P û2 BF/FA 1 60(c) 14F 2,600Ñ 428, SR5
+SNIPER RIFLES
+ITEM ACC DV AP MODE RC AMMO AVAIL COST PAGE
+Ares Desert Strike 7 13P û4 SA (1) 14(c) 10F 17,500Ñ 428, SR5
+Barret Model 122 7(9) 14P û6 SA (2) 14(c) 20F 38,500Ñ 40
+Cavalier Arms Crockett EBR 6 12P û3 SA/BF (1) 20(c) 12F 10,300Ñ 428, SR5
+Onotari JP-K50 7 12P û3 SA/BF 1 25(c) 13F 12,500Ñ 39
+Pioneer 60 5 10P û1 SS ù 5(m) 2R 500Ñ 39
+Ranger Arms SM-5 8 14P û5 SA (1) 15(c) 16F 28,000Ñ 429, SR5
+Remington 950 7 12P û4 SS ù 5(m) 4R 2,100Ñ 429, SR5
+Ruger 100 6 11P û3 SA (1) 8(m) 4R 1,300Ñ 429, SR5
+Terracotta Arms AM-47 7(9) 15P û4 SA 1(3) 18(c) 14F 35,000Ñ 38
+

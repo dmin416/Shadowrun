@@ -1,0 +1,1604 @@
+
+
+===== runandgun.pdf p36 =====
+HK URBAN COMBAT
+HK continues to offer the Urban Combat as its high-end 
+entry into the submachine gun market. The weapon is 
+entirely constructed with non-metallic components 
+and is not detectable with traditional MAD sensors. 
+H&K has spared no expense in the weapon’s construc-
+tion with an internal smartlink, a fixed sound suppres-
+sor, and a customized hydraulic recoil compensation 
+system. The price of these bonuses is that the weapon 
+is unable to accept further modifications.
+>	
+I met a runner who called himself Killzone2 who carried 
+one of these. He never said where he got it from.
+>	
+/dev/grrl
+>	
+He worked exclusively for Ares until he tried to exceed his 
+mission parameters. I heard he eventually ended up in a 
+Lone Star facility.
+>	
+Sticks
+ASSAULT RIFLES
+AK-98
+This rifle is an AK-97 with an integral under-barrel gre-
+nade launcher. Recently removed from the Russian in-
+ventory as it has largely been replaced by the AN-39, it 
+is still being manufactured for export customers.
+>	
+I can provide bulk discounts, if any of you are interested.
+>	
+Red Anya
+>	
+I know a couple of minor players who might be interested 
+in a few cases each. Can you arrange shipping?
+>	
+Picador
+>	
+I wouldn’t recommend this for serious work. The grenade 
+launcher is too inaccurate for urban room clearing.
+>	
+Hard Exit
+>	
+I find they work well enough when you use non-lethal 
+chemical agents. Then again I try to minimize killing off 
+potential future customers.
+>	
+Marcos
+HK URBAN COMBAT
+AK-98
+SUBMACHINE GUNS
+HK URBAN COMBAT
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+7 (9)
+8P
+—
+SA/BF/FA
+2
+36(c)
+16F
+2,300¥
+Standard upgrades: Smartlink, sound suppressor
+ASSAULT RIFLES
+AK-98
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+10P
+–2
+SA/BF/FA
+—
+38(c)
+8F
+1,250¥
+Grenade Launcher
+3
+*
+*
+SS
+—
+6(m)
+—
+—
+*As grenade
+>> ARSENAL <<
+36    Assault Rifles >>
+
+
+===== runandgun.pdf p37 =====
+ARES HVAR
+The longest continually produced member of Ares’ hy-
+per velocity line, the HVAR is a complete small arms 
+solution. It features an integral smartlink, a rigid stock 
+with shock pad and a custom recoil reduction system, 
+which is optimized for the weapon’s high rate of fire. 
+Capable of accepting limited modification, the HVAR’s 
+barrel is unable to support further additions.
+>	
+Spray and pray at its best. Or worst. I’ve never been that 
+fond of the theory behind these weapons. They cause a 
+tremendous logistics issue for field operations.
+>	
+Picador
+>	
+I’ve found them effective is target-rich environments. The 
+rifle lays down suppressive fire like nobody’s business, 
+but unlike Picador I don’t play in jungles.
+>	
+Sticks
+HK XM30
+The XM30 is H&K’s modular weapon system. Each kit 
+comes with a shock-pad-equipped stock, smartgun 
+system, imaging scope, two underbarrel secondary 
+weapons, a secondary feed mechanism, and four dif-
+ferent barrels along with a bipod for the heavy options. 
+The XM30 is intended to equip entire military or police 
+units with the ability to change roles based on the op-
+erational situation. 
+>	
+I find them too complex for most of the runners who get 
+them. The type of street sam who tends to shoot first 
+seem to get confused with which option to use first.
+>	
+Glitch
+>	
+I don’t have a problem with mine. It’s easier to stow a 
+bag of parts than keep a half dozen full-sized rifle-caliber 
+weapons properly stored.
+>	
+Rock Pilot
+ASSAULT RIFLES
+ARES HVAR
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5 (7)
+8P
+—
+SA/BF/FA
+3 (4)
+50(c)
+11F
+2,400¥
+Standard upgrades: Shock pad, smartlink
+HK XM30
+ARES HVAR
+>> ARSENAL <<
+<< Assault Rifles    37
+ASSAULT RIFLES
+HK XM30 ASSAULT RIFLE
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+6 (8)
+9P
+–2
+SA/BF/FA
+(1)
+30(c)
+15F
+4,500¥
+Carbine
+6 (8)
+9P
+–2
+SA/BF/FA
+(1)
+30(c)
+—
+—
+Sniper
+7 (9)
+9P
+–2
+SA
+2 (3)
+10(c)
+—
+—
+LMG
+6 (8)
+9P
+–2
+BF/FA
+2 (3)
+100(belt)
+—
+—
+Shotgun
+3 (5)
+10P
+–1
+SA
+(1)
+10(c)
+—
+—
+Grenade Launcher
+4
+*
+*
+SS
+—
+6(c)
+—
+—
+Standard upgrades: Imaging scope, shock pad, smartlink
+The XM30 takes an Automatics + Agility (5, 1 minute) Extended 
+Test to refit to a new configuration. The Carbine uses the SMG 
+range table. 
+*As Grenade
+
+
+===== runandgun.pdf p38 =====
+NITAMA OPTIMUM II
+The standard weapon of the Imperial Japanese mili-
+tary, the Optimum II is getting a long in the tooth. The 
+weapon gained mass-media fame with General Saito’s 
+troop’s performance in San Francisco. It has a recoil-ab-
+sorbing shock pad and a smartgun system.
+>	
+Japan has announced a competition to replace the 
+Optimum II, and Nissan wasn’t even offered a tender.
+>	
+Baka Dabora
+>	
+Using the shotgun to open doors is an effective technique 
+in close quarter combat. It also works well when the 
+bounty decides to hunker down waiting for back up.
+>	
+Sticks
+>	
+I’m more interested in where the rifles will end up once 
+Japan starts to dispose of them.
+>	
+Red Anya
+>	
+I’ve heard Shiawase has the inside track on the new 
+contract. The Fatal Light is popular with the generals, and 
+I’m sure the future work opportunities don’t hurt either.
+>	
+Beaker
+SNIPER RIFLES
+TERRACOTTA ARMS AM-47
+The AM-47 is a large sniper rifle, primarily intended 
+for the larger metahuman species. The rifle features a 
+number of advanced electronics to assist the shooter in 
+destroying their target. The AM-47 is provided with an 
+imaging scope, smartgun system, underbarrel weight, 
+bipod, and a safe target system with an extended barrel 
+for increased range over the competition.
+>	
+I’m still amazed with the size of this rifle. I’ve seen trolls 
+struggle with carrying it, and it’s longer than some elves 
+are tall.
+>	
+Beaker
+>	
+The extended barrel helps with the longer-range shots—
+and the shorter-ranged ones too.
+>	
+Rock Pilot
+NITAMA OPTIMUM II
+ASSAULT RIFLES
+NITAMA OPTIMUM II
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5 (7)
+9P
+–2
+SA/BF/FA
+1
+30(c)
+10F
+2,300¥
+Shotgun
+4 (6)
+10P
+–1
+SA
+1
+5(m)
+—
+—
+Standard upgrades: Shock pad, smartlink
+SNIPER RIFLES
+TERRACOTTA ARMS AM-47
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+7 (9)
+15P
+–4
+SA
+1 (3)
+18(c)
+14F
+35,000¥
+Standard upgrades: Bipod, commlink (Device Rating 5), imaging 
+scope (low-light vision, image link, vision magnification), smartgun
+TERRACOTTA ARMS 
+AM-47
+>> ARSENAL <<
+38    Sniper Rifles >>
+
+
+===== runandgun.pdf p39 =====
+ONOTARI ARMS JP-K50
+The Onotari JP-K50 has an unusual past, being origi-
+nally conceived for the next round of the Euro Wars, 
+which never came about. Or at least, haven’t yet. It 
+was shelved for decades, and only recently came back 
+into the production queue during the so-called Drag-
+on Civil War. Able to switch between long-range fire 
+against a single hard armored target (such as a drag-
+on) or firing bursts against clusters (such as drakes), it 
+was seen as a weapon that could be issued to entire 
+squads. Not mass produced, but produced enough that 
+cost trumped quality in many ways, the final result is 
+a sort of super-sized assault rifle rather than the kind 
+of high-quality precision design that Saeder-Krupp is 
+world famous for.
+>	
+I had trouble believing that the dragon-run corp would 
+create an anti-dragon gun, but then every mercenary 
+that was hired to take out Alamais got to take one of 
+these with them.
+>	
+Stone
+>	
+And not a lot of them survived. Just sayin’.
+>	
+Sticks
+PIONEER 60
+Morgan Boone’s been the face of the Kentucky Long 
+Rifle Company for decades, and his Pioneer 60 is a 
+household staple in rural areas across the CAS and 
+UCAS even if his company refuses to sell it to anyone 
+in the NAN. Simple but effective, it’s a rugged design 
+that’s perfect for someone that just wants to get out of 
+the house for a weekend of drinking beer and popping 
+off a few rounds into the local fauna. 
+>	
+Boone’s got a powerful hate-on for the NAN, especially 
+the Sioux. His ancestor’s rolling in his grave.
+>	
+Stone
+>	
+He was in the army back in the day. He was in Denver 
+when the war got called off and never got his chance to 
+go fight. Sixty years later, he’s still waiting for that war.
+>	
+Sticks
+>	
+He and Clayton Wilson used to be tight. Went on vacations 
+together, took business trips together, even hired him on 
+as a consultant for a year after Clay got forced out of Lone 
+Star as a favor. He’s against “messing with God’s will,” and 
+they stopped talking after Clay underwent léonization. Old 
+Boone is just too mean to die.
+>	
+Kay St. Irregular
+SNIPER RIFLES
+ONOTARI JP-K50
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+7
+12P
+–3
+SA/BF
+1
+25(c)
+13F
+12,500¥
+Standard upgrades: Shock pad
+PIONEER 60
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+10P
+–1
+SS
+—
+5(m)
+2R
+500¥
+ONOTARI ARMS  
+JP-K50
+>> ARSENAL <<
+<< Sniper Rifles    39
+
+
+===== runandgun.pdf p49 =====
+ARES ARCHON HEAVY MP LASER
+Pushing the limits of the MP denotation, the Archon 
+is Ares’ biggest personal laser system. Too heavy and 
+awkward for most users the Archon comes standard 
+with a bipod and a mount for either a tripod or gy-
+ro-mount. This bad boy will make anyone stand up and 
+take notice. 
+>	
+More like duck for cover if they’re smart!
+>	
+Slamm-0!
+>	
+Actually, more like stand up and raise their arms in 
+surrender. This beast cuts through cover.
+>	
+Sticks
+FLAMETHROWERS
+Flamethrowers are terrifying weapons that ignite 
+a stream of gasoline and oil or napalm so they can 
+spew flaming death. Older model flamethrowers 
+store their fuel in a backpack-like tank, while the 
+user holds a pistol-grip nozzle with a hose attached 
+to supply the fuel. Modern handheld flamethrowers 
+merge everything into a portable package about the 
+size of a submachine gun or assault rifle. This means 
+less fuel but a lot less shoot-the-fuel-tank-type situ-
+ations. 
+LASER WEAPONS
+ARES ARCHON HEAVY MP LASER
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+7
+10P
+–10
+SA
+—
+External 
+source
+24F
+35,000¥
+Standard upgrades: Bipod, tripod mount, or gyro stabilization 
+unit mount, sound suppressor
+The Archon uses 4 power unit per shot and is powered by either 
+an external battery pack (almost always a power backpack) or by 
+linking it directly into the local energy sources when used as part 
+of a permanent emplacement (for unlimited ammo as long as the 
+energy supply remains online). 
+The Archon uses sniper rifle ranges.
+ARES ARCHON HEAVY 
+MP LASER
+>> ARSENAL <<
+<< Flamethrowers    49
+ALL ABOUT FLAMETHROWERS
+Flamethrowers require a small flame to ignite the fuel mixture. 
+Igniting the flame require a Complex Action to ready it. If the 
+flamethrower is connected via wireless to the users PAN, it’s 
+only a Simple Action. A wireless DNI connection makes it a Free 
+Action.
+Flamethrowers can be used to blast a single target or they 
+can be used to spread flame over a wider area in an attempt to 
+strike multiple targets. The area attack takes a Complex Action 
+and allows the user to attack up to two additional targets within 
+two meters of another target. A single Attack Test is made against 
+all targets, and they make their Defense Tests separately. The DV 
+is reduced by 2 for each additional target the flame is engulfing. 
+Flamethrowers can also be used for laying down Suppressive Fire 
+(p. 179, SR5), consuming four shots, and they can take advantage 
+of the same rules as Flechette Suppressive Fire (p. 120). 
+Flamethrowers deal fire damage (p. 171, SR5) and will set fire 
+to almost every item caught in the attack’s area of effect for at 
+least a short period of time (gamemaster’s discretion). 
+Flamethrowers use Taser ranges but suffer only a –1 penalty 
+at Extreme range and no penalty at Long range or closer. 
+Flamethrowers use the Exotic Ranged Weapon (Flamethrowers) 
+skill.
+Flamethrowers cannot mount any accessories except 
+biometric safety systems (Advanced Safety, p. 50).
+
+
+===== runandgun.pdf p50 =====
+SHIAWASE BLAZER
+Handheld flaming death! The Blazer is small and easily 
+portable. Used heavily during the Az-Am War to root 
+out Amazonian guerillas, the Blazer has found its way 
+into the standard arsenal of many mercenary and spe-
+cial operations units around the world. 
+WEAPON ACCESSORIES
+Got a gun? Great. Is it just like it was when you bought it, 
+the same model any schmuck can buy in their neighbor-
+hood Lock ‘n’ Load? Then you’re doing it wrong. You’re 
+not some ordinary, off-the-shelf person, right? You’ve 
+got your own skills and characteristics, the things that 
+make you different from anyone else, the things that 
+give you your edge. Your character’s weapon should re-
+flect that—it should have qualities that accentuate your 
+strong points and mitigate your weaknesses. 
+Let’s start with the basics of how you’re going to add 
+stuff to your weapon. When you want to add something 
+to your weapon, it’s going to go into one of six places. 
+1) One top of the weapon; 2) Underneath the barrel of 
+a weapon; 3) On the side of a weapon; 4) Internal to the 
+weapon, meaning it is built into the weapon and integral 
+to its systems; 5) Replacing or adding to the barrel; 6) 
+Replacing or adding to the stock. 
+Some accessories are easy to add—a snap-on part 
+here, a screw there, and boom, it’s done. Other parts are 
+a little more complicated and should only be put on by 
+someone who knows what they are doing.
+Given that you want to do something to modify your 
+weapon—because we just told you that you do—we 
+should talk about what you might do to your weapon. 
+So here are the mods, and what you need to know to 
+get them in place.
+Advanced safety system (modification): It’s always 
+good to make sure your weapon only goes off when you 
+want it to. The advance safety system works along with 
+your smartlink (meaning that you need a smartlink to 
+have one of these) to make sure only an authorized user 
+fires the gun. There are a few ways to pull this off—one 
+is to have biometric scanners in the grip or butt of the 
+weapon, or the system can scan for an authorized RFID 
+tag or PAN within 1 meter of the weapon. (This works 
+similarly to a maglock card reader, system, p. 363, SR5.) 
+If the authorized user(s) is present or holding the gun, 
+it’ll be ready to fire. If not, no dice. These systems have a 
+default Device Rating of 3.
+The basic system keeps unauthorized users from firing 
+the gun, but you can put on a few extras to make things 
+a little more interesting for people trying to mess with 
+your stuff. The immobilizer locks everything up so that it 
+will take more than a biometric scan to get it going again; 
+instead, you need an Armorer took kit and an Armorer 
++ Logic (12, 5 minutes) Extended Test to get it working 
+again. Self destruct bricks the thing but good, damaging 
+the internals beyond repair. Explosive self destruct is the 
+next step up, blowing the weapon up with 14P(f) damage 
+(AP –5 for the person holding the weapon, +4 for anyone 
+else) and a –2/m blast radius. Electro shocker delivers 5S(e) 
+damage to the miscreant using your weapon; it can go off 
+three times before it needs to be recharged. You can only 
+have one extra deterrent as part of your safety system. 
+The system, whether it’s the basic one or a fancier version, 
+can only go in the internal slot.
+Bayonet (accessory): Some people think the bayonet 
+charge became obsolete around the time of the Amer-
+SHIAWASE BLAZER
+FLAMETHROWERS
+SHIAWASE BLAZER
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+6
+10P
+–6
+SA/BF/FA
+—
+4(c)
+16F
+2,200¥
+Replacing the fuel tank requires a full Combat Turn.
+>> ARSENAL <<
+50    Weapon Accessories >>
+
+
+===== runandgun.pdf p51 =====
+ican Civil War. Some people are not creative enough. A 
+blade on the end of your firearm means more options, 
+and in the shadows, this can be a very good thing to 
+have. Bayonets can be fixed to the top or underneath 
+slots of rifle-sized or larger weapons (though honestly, 
+fixing one on top of your HMG is not going to be terribly 
+useful). When attached on a weapon, it has Reach 2, DV 
+(STR +1)P, and AP –1; it has the same stats when de-
+tached, only its Reach is 0. In either case, use the Blades 
+skill when attacking with it.
+Concealed quick-draw holster (accessory): What 
+more do you want a holster to do? You get to reduce the 
+Concealability modifier of your weapon by 1 while the 
+threshold to quick-draw a holstered weapon drops by 1. 
+It won’t fire the thing for you, though, so buckle down 
+and do it yourself. The holster does not take any slots 
+in your weapon. Please excuse our compulsion to point 
+out fairly obvious stuff like that.
+Extreme environment modification (modification): 
+When you need to keep the cold from freezing the lubri-
+cants in your machinery, or when you want to keep sand 
+from getting in every nook and cranny and gumming 
+up the works, this is what you need. This won’t make a 
+weapon work in a place where the basic laws of physics 
+say it won’t function—your flamethrower’s not going to 
+work underwater, no matter how much you tinker with it. 
+There are different levels for this upgrade: Level 1 allows 
+for normal use in polar or desert climates; Level 2 allows 
+for use in all extreme environments. When used in normal 
+atmospheric conditions or underwater, weapons with the 
+Level 2 modification have all range levels cut in half. They 
+also need to be serviced after every 100 rounds fired. 
+This takes 500 nuyen worth of materials and requires an 
+Armorer + Logic (12, 1 hour) [Mental] Extended Test.
+This modification does not take up any slots in the 
+weapon and requires a tool shop to install.
+Flashlight (accessory): Because, well, light helps 
+you see. This light is designed to point where your gun 
+is without being obvious; a recessed light source makes 
+it tough for outside observers to see exactly where the 
+light is coming from. Unless you’re directly in its path, in 
+which case you see it to well. If the light’s shining right 
+at you and it’s the type of light that would normally help 
+you, then you get a Weak Glare modifier (p. 175, SR5).
+There are three kinds of flashlights. Standard flash-
+lights provide Partial Light; low-light flashlights uses a 
+soft red light to help people with low-light vision, mov-
+ing them up one row on the Environmental Modifiers 
+chart (p. 175, SR5); it is useless to characters without 
+low-light vision. Infrared flashlights work similar to low-
+light flashlights, only for characters with infrared vision 
+instead of those with low-light vision. They move the 
+modifier one row up the chart, and they do nothing for 
+people without infravision.
+Folding stock (modification): This is a stock. That 
+folds into the weapon. Got it? It provides 1 point of re-
+MODIFYING WEAPONS
+Each accessory in this section is classified as an “accessory” 
+or a “modification.” An accessory can be installed with little 
+difficulty by pretty much anyone onto the top, bottom, or side 
+slots. Just buy it, snap it on one of your available mounts, and 
+you’re off and running. Note, though, that these accessories 
+cannot be snapped on and off in a short amount of time (unless 
+you have a slide mount, p. 52). Assume swapping them on and off 
+takes at least five minutes while sitting still, making it impractical 
+to do while in the middle of a firefight.
+In case it needs to be said, you can’t install the same 
+modification or accessory twice and expect to double the benefits. 
+If you really want to, you can install the same modification in two 
+different spots, but you’ll only get the benefit once, so you’ll be 
+wasting a slot. You also can only have one modification per slot. 
+Some types of weapons have further limitations—for example, 
+light pistols can only take top and barrel-mounted accessories, 
+while hold-outs can’t take accessories at all.
+If you add an accessory to the stock, barrel, or internal slots, or 
+add a modification, a little more work is needed. Here’s what to do.
+1) Make sure you know what to do. Make a [Type of Weapon 
+Knowledge skill] + Logic (4) [Mental] Test to see if you know 
+how to make the necessary modification. If you want a little 
+help on the test, you can search for plans that might provide 
+guidance. This can be a Matrix Search (Computer + Intuition 
+[Data Processing]) with a threshold based on the availability 
+of the modification (see Matrix Search, p. 241, SR5). Restricted 
+mods should have a threshold of at least 3, and forbidden 
+items should have a threshold of at least 6. Players can also 
+ask their contacts for plans; use the basic legwork rules (p. 
+387, SR5) to discover if the contact knows what to do and is 
+willing to share it with the player’s character. If you are able 
+to find plans, add 6 dice to your test to see if you know how to 
+make the modification.
+2) Prepare the proper tools. Unless otherwise noted, a kit is 
+sufficient to attach accessories to the top, underneath, or 
+side slots, while a shop is needed for internal, barrel, or stock 
+modifications.
+3) Roll the test. For weapons modifications, this is generally 
+going to be an Armorer + Logic [Mental] Extended Test, with 
+thresholds and intervals determined using the guidelines on p. 
+48, SR5.
+>> ARSENAL <<
+<< Weapon Accessories    51
+
+
+===== runandgun.pdf p52 =====
+coil compensation—but only, of course when it is out 
+and braced against the user’s shoulder. It must be in-
+stalled in the stock slot and requires a Simple Action to 
+move in or out; there is a motorized version that makes 
+folding and unfolding it a Free Action.
+Foregrip (accessory): This is a handle you put on in 
+the front of the weapon to give you a sturdier grip. It can 
+be mounted on the Barrel or Underneath slots, and it can 
+not be used on Pistols and Hold-outs. It provides 1 point 
+of Recoil Compensation and adds 1 to the Concealabili-
+ty of the weapon to which it’s attached.
+Gecko grip (modification): Have trouble holding on 
+to your gun? Then maybe you shouldn’t have one. But if 
+that’s not an option, then try gecko grip, which makes 
+your piece stick in your hand like, well, a gecko hanging 
+on a wall. This gives your grip a bunch of tiny fibers that 
+are awfully clingy to just about anything. The fibers can 
+be turned on and off via wireless command if you have a 
+smartgun—if not, pressing two buttons at the same time 
+does the trick. The mod gives a +6 bonus on any tests to 
+see if a character keeps grip on the gun. This can go on 
+any weapon with a grip, whether they have a stock slot 
+or not; if they have a stock slot, this takes it up.
+Guncam (accessory): The device that launched a 
+thousand stupid-ass MeFeed videos. Whatever the gun 
+is pointing at, it records. Yeah, you don’t always want 
+a record of what you’re about to shoot, but sometimes 
+that footage is invaluable—whether you need to show 
+Mr. Johnson what you managed to pull off, review foot-
+age to help you plan your next move, or doctor what 
+you filmed to make you look good, the video you film 
+has plenty of possible uses. Its Device Rating fills in for 
+any necessary stats. Guncams can be installed in the 
+Top, Underneath, Barrel, Side, or Internal slots.
+Hip pad bracing system (accessory): Some weapons 
+are, quite simply, a huge load. This system allows you 
+to move some of the weight of the weapon to your hip, 
+distributing the weight more and letting you brace it bet-
+ter. The end result is that the user gets 1 point of recoil 
+compensation. It uses the stock slot.
+Improved range finder (accessory): Laser range 
+finders are standard equipment on smartlinks, but if 
+you have the scratch you can make its range calculation 
+functions even better. It combines three technologies—
+microwave, laser, and radar—to give you an extreme-
+ly accurate calculation of range. The effect of this is to 
+reduce range modifiers by 1. This only can be used in 
+weapons that have a smartlink; it can be positioned in 
+any slot besides the one that has the smartlink. This bo-
+nus cannot be combined with any bonuses from image 
+magnification on the weapon.
+Peak-discharge battery packs (accessory): For 
+weapons that need a power source, this is it. It does not 
+take up a slot; weapons that need it already have a spot 
+for it. It charges at a rate of 1 power unit per 30 minutes. 
+The number of power units used per shot is listed with 
+each weapon. 
+These packs come in three forms: power clips, which 
+hold 10 power units and fit into a weapon like a clip 
+would; satchel power packs that hold 20 power units, are 
+about the size of a canteen, and are usually attached to 
+belts, and power backpacks, which hold 30 power units 
+and are worn on the back, of all places. Satchels and 
+backpacks are attached to weapons with a self-recoiling 
+cord that requires a Simple Action to attach.
+Many hundreds of hours have gone into testing and 
+refining the makeup of these batteries to make it so they 
+are not susceptible to explosions. So no, you can’t use 
+one as an improvised explosive device.
+Safe target system (accessory): The goal of this sys-
+tem is to avoid those situations where your mates are 
+chewing you out for accidentally shooting them in the 
+hoop. Using information about your teammates’ ap-
+pearance and the electronics in their PAN, this system 
+attempts to recognize when you are aiming at any spot 
+within 1 meter of a friendly target. In these situations, the 
+system locks the trigger, preventing you from firing. Once 
+the friendly target isn’t at risk anymore, you can start fir-
+ing again. Note that the system interprets risk broadly—if 
+there is something between you and a friendly target, the 
+system will lock you out, unless that “something” is an 
+entire office building or Mt. Rushmore or something. 
+The basic system can mark up to 10 RFID profiles (or 
+GPS coordinates if you want to designate fixed locations 
+as “safe”); for a few extra nuyen you can add more pro-
+files. If you want a little more accuracy, allowing you to 
+easily shoot the drekhead who stole your buddy’s com-
+mlink without difficulty, then upgrade to the image rec-
+ognition system. You’ll need a guncam or smartlink to 
+use this function. The base image recognition allows you 
+to enter up to 10 different visual profiles, which can be 
+as broad as “anyone wearing the Ancients’ logo” or as 
+narrow as precise scans of members of your team. As 
+with the GPS/RFID system, you can spring for extra pro-
+files if you need them.
+The safe target system can be mounted on any loca-
+tion besides the stock.
+Slide mount (accessory): By installing this on the 
+top, underneath, or side slots, you can make it much 
+easier to install and remove items in these locations. 
+Items may be taken on or off using a Simple Action.
+Sling (accessory): For Special Forces troops, this is a 
+sturdy piece of mesh or canvas custom-fitted to the user 
+and positioned on the weapon in a way to ensure it can 
+be readied as quickly as possible. For guerilla warriors, 
+this might be a piece of rope, and old belt, or anything 
+else that can be rigged up to help them keep from drop-
+ping their weapon. No matter how complex or simple, 
+the function is basic—it makes sure your weapon doesn’t 
+fall to the ground when you’re running or diving from an 
+explosion or in the middle of being shot or whatever. It 
+may be shot out of your hands, but getting it ready again 
+is a Simple Action. The sling does not take up any slots 
+on a weapon.
+>> ARSENAL <<
+52    Weapon Accessories >>
+
+
+===== runandgun.pdf p53 =====
+Tracker (accessory): This is a customized RFID tag 
+that combines the functions of security and stealth 
+RFIDs, giving you the chance to track down your weap-
+on if for some reason you don’t know where it is. Use 
+the rules for RFID tags, p. 440, SR5; assume the tracker 
+has the function of a security tag and a stealth tag. The 
+tracker does not take up any slots in a weapon.
+Underbarrel bola launcher (modification): Would 
+your weapon be enhanced by the ability to throw out two 
+balls connected by a thin rope that can entangle and trip 
+up your opponent? If your answer is “no,” please go back 
+and read the questions again. As the name indicates, this 
+goes on the underneath slot, and it can only go on weap-
+ons rifle-sized or larger The launched bola works in the 
+same way as a regular bola (p. 27) as thrown by someone 
+with Strength 5. It uses Heavy Pistol ranges, and wielders 
+fire it with the Exotic Ranged Weapon (Bola) skill.
+Underbarrel chainsaw (modification): Very useful in 
+case you need to chop wood for a campfire while out on 
+a run, or cut some lumber to repair floorboards.
+Ha! Who are we kidding? This is there for those times 
+when you might want to use a bayonet but would prefer 
+something louder and messier. If you don’t know what 
+times might require that, you haven’t been in the shadows 
+long enough. Use the Exotic Melee Weapons (Chainsaw) 
+skill for this; when used against a barrier, double its Dam-
+age Value. It can only be mounted on the underneath slot 
+and must be used on rifle-sized weapons or larger. Sorry 
+for killing your dreams of a chainsaw pistol.
+Underbarrel flamethrower (modification): We’ve 
+known runners so fond of fire that they might mount one 
+of these on an actual flamethrower. This can go on the 
+underbarrel slot of a rifle-sized weapon. For rules cover-
+ing flamethrower use, see p. 49.
+Underbarrel grapple gun (modification): It’s a grap-
+ple gun mounted on the underneath slot of a rifle-sized 
+weapon or larger. No muss, no fuss. For grapple gun 
+rules, see p. 449, SR5.
+Underbarrel grenade launcher (modification): Give 
+yourself the ability to lob grenades out there with your 
+weapon. It can be mounted (say it with us now!) on the 
+underneath slot of a rifle-sized weapon or larger. See 
+p. 434, SR5, for more information on using grenade 
+launchers.
+Underbarrel weight (accessory): It may be a crude 
+way to reduce recoil, but it still works. By placing some 
+weight in the underneath slot of a weapon, you prevent 
+the kick from being as severe as it would be otherwise. 
+This provides 1 point of recoil compensation when us-
+ing the weapon in Full Auto mode.
+Weapon commlink (accessory): Once you get over 
+the idea that using your commlink means touching it all 
+the time, placing one in your weapon becomes a sen-
+sible move. Your weapon becomes the heart of your 
+PAN. Many users like to use this with the weapon per-
+sonality mod.
+Weapon personality (accessory): Does your gun 
+need its own software complete with an artificial per-
+RECOIL COMPENSATION COMPATIBILITY
+Recoil compensation is important to anyone who likes to fill the air with lead. There are a number of options to reduce your recoil, 
+but they are not all compatible with each other. Here’s a quick list of those options and which of the other options don’t stack with them. 
+Remember that as with other accessories and modifications, accessories are also not compatible with each other—you can’t put the 
+same item on twice and expect to double the benefit.
+THIS OPTION…
+DOES NOT STACK WITH…
+Bipod
+Foregrip, gyro mount, sling, tripod, underbarrel weight
+Folding stock
+Hip pad bracing system, shock pad, sling
+Foregrip
+Bipod, gyro mount, tripod, underbarrel weight
+Gyro mount
+Bipod, foregrip, tripod, sling, underbarrel weight
+Hip pad bracing system
+Folding stock, shock pad, sling
+Shock pad
+Folding stock, hip pad bracing system, shock pad, sling
+Sling
+Bipod, folding stock, gyro mount, hip pad bracing system tripod, underbarrel 
+weight
+Tripod
+Bipod, foregrip, gyro mount, sling, underbarrel weight
+Underbarrel weight
+Bipod, foregrip, gyro mount, sling, tripod
+>> ARSENAL <<
+<< Weapon Accessories    53
+
+
+===== runandgun.pdf p54 =====
+sonality to provide information in a 
+more chatty fashion instead of just pro-
+viding numbers, crosshairs, and other 
+similar data? Depends on how you func-
+tion. If meta-to-meta interaction is how 
+you prefer to get your information, you 
+might want a weapon personality, which 
+provides a metahuman-like interface 
+so you can chat away. The guttural Neil 
+the Ork Barbarian with its “scalped ‘em” 
+grunt to tell you when you got a hit is 
+especially popular.
+AMMO
+Not in the mood for a new gun, but 
+still want a different experience with 
+your firearm? Then load out some new 
+ammo! Check out these options to add 
+some extra pop or flare to your gun.
+EX-EXPLOSIVE
+What is better than something blow-
+ing up? Something blowing up bigger 
+of course. These little darlings pack a 
+punch and always seem to get the job 
+done. My hats off to the chummer who 
+decided he needed a better boom in his 
+life.
+FRANGIBLE
+Sometimes you want a bullet that can 
+shoot through walls, other times you 
+want something that will hurt the soft 
+targets in range but leave the hardware 
+alone. Frangible bullets can put some 
+hurt on a metahuman target, but they 
+break up when hitting something hard, 
+meaning they won’t damage nearby 
+metal-encased gear. Or armored-up 
+trolls, so select it with caution.
+FIREARM ACCESSORIES AND MODIFICATIONS
+ITEM
+AVAILABILITY
+COST
+Advanced safety system
+4
+600¥
+Immobilization
+6
+100¥
+Self destruct
+6
+200¥
+Explosive self destruct
+11F
+400¥
+Electro shocker
+6R
+350¥
+Bayonet
+4R
+50¥
+Concealed quick-draw holster
+6
+275¥
+Extreme environment modification
+8
+Level x 1,500¥
+Flashlight
+Standard
+2
+50¥
+Low light
+4
+200¥
+Infrared
+6
+400¥
+Folding stock
+2
+30¥
+Foregrip
+2
+100¥
+Gecko grip
+6
+100¥
+Guncam
+4
+350¥
+Hip pad bracing system
+4
+250¥
+Improved range finder
+6
+2,000¥
+Peak-discharge battery packs
+Power clip
+14F
+400¥
+Satchel power pack
+16F
+900¥
+Power backpack
+20F
+2,500¥
+Safe target system base
+6
+750¥
+Additional set of RFID or GPS data (10 data sets)
+6
+25¥
+Image recognition capabilities
+8
+300¥
+Extra image profiles (10 profiles)
+8
+25¥
+Slide mount
+4
+500¥
+Sling
+—
+15¥
+Tracker
+4
+150¥
+Underbarrel Bola Launcher
+8R
+350¥
+Underbarrel Chainsaw
+10R
+as chainsaw + 500¥
+Underbarrel Flamethrower
+as flamethrower 
++ 2
+as flamethrower 
++ 200¥
+Underbarrel Grapple Gun
+8R
+600¥
+Underbarrel Grenade Launcher
+10F
+3,500¥
+Underbarrel Weight
+Weapon Commlink
+as commlink
+as commlink + 
+200¥
+Weapon Personality
+8
+250¥
+>> ARSENAL <<
+54    Ammo >>
+
+
+===== runandgun.pdf p208 =====
+208    RUN & GUN TABLES >>
+RUN & GUN TABLES
+LASER WEAPONS
+ITEM
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+PAGE
+Ares Redline
+9
+5P
+–10
+SA
+—
+10(c) or 
+external 
+source
+14F
+7,500¥
+48
+Ares Lancer MP Laser
+7
+7P
+–10
+SA
+—
+2 x 10(c) or 
+external 
+source
+18F
+16,000¥
+48
+Ares Archon Heavy MP Laser
+7
+10P
+–10
+SA
+—
+External 
+source
+24F
+35,000¥
+49
+FLAMETHROWERS
+ITEM
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+PAGE
+Shiawase Blazer
+6
+10P
+–6
+SA/BF/FA
+—
+4(c)
+16F
+2,200¥
+50
+AMMO
+ITEM
+DAMAGE MODIFIER
+AP MODIFIER
+AVAILABILITY
+COST
+EX-Explosive Rounds
++2
+–1
+14F
+120
+Frangible
+–1
++4
+2R
+10
+Flare
+–2/+2
++2/–3
+6R
+20
+Tracker
+–2
+–2
+8R
+150
+Capsule
+–4
++4
+2
+5
+FIREARM ACCESSORIES AND MODIFICATIONS
+ITEM
+AVAILABILITY
+COST
+PAGE
+Advanced safety system
+4
+600¥
+50
+     Immobilizer
+6
+100¥
+50
+     Self destruct
+6
+200¥
+50
+     Explosive self destruct
+11F
+400¥
+50
+     Electro shocker
+6R
+350¥
+50
+Airburst link
+6R
+600¥
+431, SR5
+Bayonet
+4R
+50¥
+50
+Bipod
+2
+200¥
+431, SR5
+Concealable holster
+2
+150¥
+431, SR5
+Concealed quick-draw holster
+6
+275¥
+51
+Extreme environment modification
+8
+Level x 1,500¥
+51
+Flashlight
+     Standard
+2
+50¥
+51
+     Low light
+4
+200¥
+51
+     Infrared
+6
+400¥
+51
+Folding stock
+2
+30¥
+51
+Foregrip
+2
+100¥
+52
+Gas-vent system (Rating 1-3)
+(Ratingx3)R
+Rating x200¥
+431, SR5
+Gecko grip
+6
+100¥
+52
+Guncam
+4
+350¥
+52
+
+
+===== runandgun.pdf p209 =====
+<< RUN & GUN TABLES    209
+RUN & GUN TABLES
+ITEM
+AVAILABILITY
+COST
+PAGE
+Gyro mount
+7
+1,400¥
+432, SR5
+Hidden arm slide
+4R
+350¥
+432, SR5
+Hip pad bracing system
+4
+250¥
+52
+Imaging scope
+2
+300¥
+432, SR5
+Improved range finder
+6
+2,000¥
+52
+Laser sight
+2
+125¥
+432, SR5
+Periscope
+3
+70¥
+432, SR5
+Peak-discharge battery packs
+     Power clip
+14F
+400¥
+52
+     Satchel power pack
+16F
+900¥
+52
+     Power backpack
+20F
+2,500¥
+52
+Quick-draw holster
+4
+175¥
+432, SR5
+Safe target system base
+6
+750¥
+52
+     Additional set of RFID or GPS data (10 sets)
+6
+25¥
+52
+     Image recognition capabilities
+8
+300¥
+52
+     Extra image profiles (10 profiles)
+8
+25¥
+52
+Shock pad
+2
+50¥
+432, SR5
+Slide mount
+4
+500¥
+52
+Silencer/suppressor
+9F
+500¥
+432, SR5
+Sling
+—
+15¥
+52
+Smart firing platform
+12F
+2,500¥
+432, SR5
+Smartgun system, internal
+(+2)R
+(Weapon Cost) x 2¥
+432, SR5
+Smartgun system, external
+4R
+200¥
+432, SR5
+Spare clip
+4
+5¥
+433, SR5
+Tracker
+4
+150¥
+53
+Tripod
+4
+500¥
+433, SR5
+Underbarrel Bola Launcher
+8R
+350¥
+53
+Underbarrel Chainsaw
+10R
+as chainsaw + 500¥
+53
+Underbarrel Flamethrower
+as flamethrower +2
+as flamethrower +200¥
+53
+Underbarrel Grapple Gun
+8R
+600¥
+53
+Underbarrel Grenade Launcher
+10F
+3,500¥
+53
+Underbarrel Weight
+4R
+50¥
+53
+Weapon Commlink
+as commlink
+as commlink + 200¥
+53
+Weapon Personality
+8
+250¥
+53
+
+
+===== runandgun.pdf p210 =====
+210    RUN & GUN TABLES >>
+RUN & GUN TABLES
+ARMOR
+ITEM
+ARMOR RATING
+AVAIL
+COST
+PAGE
+Actioneer Business Clothes
+8
+8
+1,500¥
+437, SR5
+Ares FlaShield
++6
+12R
+4,000¥
+72
+Armor clothing
+6
+2
+450¥
+437, SR5
+Armor jacket
+12
+2
+1,000¥
+437, SR5
+Armor vest
+9
+4
+500¥
+437, SR5
+Ballistic mask
++2
+6
+150¥
+74
+Ballistic shield
++6
+10R
+1,500¥
+438, SR5
+Bike racing armor
+8
+6
+500¥
+68
+  Helmet
++2
+6
+200¥
+68
+Body armor bag
+8
+8
+750¥
+70
+Bunker gear
+6
+6
+3,000¥
+69
+  Helmet
++2
+6
+750¥
+69
+Chain mail
+8
+8
+900¥
+71
+Chameleon suit
+9
+10R
+1,700¥
+437, SR5
+Forearm guards
++1
+6
+300¥
+73
+Form-fitting body armor
+8
+8
+1,300¥
+65
+Full body armor
+15
+14R
+2,000¥
+437, SR5
+Full helmet
++3
+—
++500¥
+437, SR5
+Chemical seal
+—
++6
++6,000¥
+437, SR5
+Environment adaptation
+—
++3
++1,000¥
+437, SR5
+Hardened mil-spec battle armor
+  Light
+15
+16F
+15,000¥
+66
+  Medium
+18
+18F
+20,000¥
+66
+  Heavy
+20
+22F
+25,000¥
+66
+  Helmet
++3
+8F
+10,000¥
+66
+Helmet
++2
+2
+100¥
+438, SR5
+Lined coat
+9
+4
+900¥
+437, SR5
+Murder armor
+13
+12R
+5,000¥
+72
+  Gorepak
+—
+8R
+200¥
+72
+Padded leather
+7
+8
+600¥
+72
+Riot control armor
+14
+10R
+5,000¥
+69
+  Helmet
++2
+6R
+1,000¥
+69
+Riot shield
++6
+10R
+1,500¥
+69
+SecureTech PPP arms kit
++1
+6
+250¥
+70
+SecureTech PPP legs kit
++1
+6
+300¥
+70
+SecureTech PPP vitals kit
++1
+6
+350¥
+70
+Security Armor
+  Light
+15
+14R
+8,000¥
+67
+  Medium
+18
+16R
+14,000¥
+67

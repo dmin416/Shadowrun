@@ -1,0 +1,103 @@
+drone arms. Drone speed is never based on limb Agility, 
+so there is usually little point to upgrading this and, as per 
+drone arms, cyberlimb armor placed on a drone doesn’t 
+affect the drone in any way. Drone legs do not add extra 
+boxes to the drone’s Physical condition monitor. 
+GECKO GRIPS 
+By coating the motive systems with gecko-glove-like 
+materials, the drone can cling to virtually any surface. 
+This allows it to climb vertical, or even hang upside 
+down, as long as the surface has a Barrier Rating at 
+least equal to the drone’s Body x 3. Gecko grips require 
+a Shop, use 1 MP, and cost (Body x 3) x 50 nuyen. Note 
+that larger drones may have gecko grips, but will have a 
+hard time finding a surface able to hold them!
+IMMOBILE
+A drone that is immobile can’t move under its own 
+power. These drones have a Speed and Acceleration 
+of 0, which cannot be upgraded. On the positive side, 
+they gain +2 Mod Points for not having a drive train. 
+Making a drone immobile requires a Shop but doesn’t 
+cost anything other than a day’s labor.
+SKYGUIDE
+By linking with SkyGuide, a drone can use the network’s 
+own guidance systems to get where it needs to be. The 
+downside is that the system takes priority over the own-
+er’s commands, allowing the drone to be controlled by 
+the Guide, or Riggers employed by SkyGuide, against 
+the owner’s wishes. The upside is that SkyGuide pro-
+vides both a Navigation (6) autosoft and a Maneuver (6) 
+autosoft to any drone while it’s logged in to the network. 
+Standard issue on flying drones sold form 2078 forward, 
+it may be added to older drone with a Kit, requires 0 MP, 
+and costs 5 nuyen, plus a 10 nuyen/year user fee.
+SPOTLIGHT
+Mounted externally, a drone spotlight acts as a flash-
+light in all ways. It requires a Kit, uses 0 MP, and costs 
+50 nuyen.
+SUSPENSION MOD
+Ground drones have an easily modified undercarriage, 
+ultimately allowing the owner to replace the motive 
+systems with some work. The base Handling of these 
+suspensions is as follows; Standard 4/2, Tracked 3, or 
+Off-road 2/4. Changing from one to another requires 
+a Shop, uses no MP, and costs (Body x 3) x 100 nuyen.
+TIRE MOD
+Wheeled drones may have the wheels replaced in a 
+pinch, serving a role roughly akin to a modified sus-
+pension but not quite as good. The wheels increase the 
+lower Handling Rating by 1, while lowering the better 
+Handling by 2, until they are replaced again. (Thus, a 
+4/2 becomes a 2/3, while a 2/4 becomes a 3/2.) This 
+exchange requires a Kit, uses 0 MP, and costs (Body x 
+3) x 25 nuyen. (Note that the old tires may be kept and 
+this mod removed at a later time, restoring the normal 
+Handling.)
+SOFTWARE SOLUTIONS
+What, you thought modern cars were all about me-
+chanical grease monkeys and wrenches? Pfft! If you’re 
+working on anything made in the past quarter-cen-
+tury, you need to know computers to get it to run, 
+and if you know computers, you’d know how much 
+you don’t know about the subject. For the most part, 
+both vehicles and drones are simple things, needing 
+enough brainpower to go from A to B, do something 
+when they arrive, then wait for more orders. Cars that 
+come when you signal or drones that swoop over an 
+area for recon are basic, but most riggers want to take 
+over for anything more complex. I’m here to tell you 
+that that’s not always needed. A good Pilot program 
+can handle more than you think, since you’re mostly 
+used to dog brains on low-end commercial models, 
+and while you’ve not been paying attention, the auto-
+soft market got smarter.
+PILOTS
+It all starts with the Pilot, the main brain of your new ma-
+chine. For ninety-five percent of the people out there, the 
+pilot of their car or house-cleaning drone is what they’re 
+used to. It can play music, keep your car at the right 
+speed, or clean up a spill, but you wouldn’t trust it with 
+anything important (he says, knowing full well that most 
+commuters tell their car where to go, then lean back, fire 
+up their commlink, and entertain themselves until the car 
+tells them that they’ve arrived, never realizing that they 
+have a two-ton bullet under their butt). Security drones 
+have a more advanced Pilot program, with advanced fire/
+don’t fire protocols based on potential targets in the area 
+(or the known value of stored supplies) that can also use 
+predictive algorithms to guess where you’ll be next when 
+you get out of sight. “Retail brains” are simple pilots on 
+par with cars, able to do one thing, for instance your taxes 
+or legal research, but nothing else. 
+Then you get fancy.
+Advanced Pilot programs are comparable not to 
+dogs, but to small children or, in some cases, adult meta-
+humans. There aren’t many that can make this claim, but 
+led by military research where drones had to account 
+for dozens of factors at once, Pilot programs have got-
+ten smarter. I’m partial to the Djinn-IV Pilot from Saed-
+er-Krupp myself; it’s like having a child around the 
+house, curious about everything and capable of some 
+astounding leaps of logic. The top-end programs are re-
+>> RIGGER 5.0 <<
+126    >> THE AUTOMATED ARMY <<

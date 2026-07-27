@@ -1,0 +1,550 @@
+﻿======== PAGE 4 ========
+BUILDING THE  
+     PERFECT BEAST 150
+MODIFICATION RULES 151
+Parts and Plan 151
+Tools 151
+Skill 151
+Modification Slots 151
+Removing Modifications 152
+VEHICLE EQUIPMENT 152
+Morphing License Plate 152
+Spoof Chip 152
+Road Strips 152
+Special Tires 153
+Tool Kit 153
+MODIFICATION LIST 154
+Power Train 154
+Acceleration Enhancement 154
+Gecko Tips 154
+Gliding System 154
+Handling Enhancement 154
+Improved Economy 154
+Manual Control Override 154
+Multifuel Engine 155
+Off-Road Suspension 155
+Removed Manual Controls 155
+Rigger Cocoon 155
+Rocket Booster 156
+Secondary Manual Controls 156
+Secondary Propulsion: Hovercraft 156
+Secondary Propulsion: Amphibious 156
+Secondary Propulsion: Rotor 157
+Secondary Propulsion: Tracked 157
+Secondary Propulsion: Walker 157
+Speed Enhancement 157
+Protection 159
+Anti-Theft System 159
+Armor 159
+Passenger Protection System (PPS) 159
+Personal Armor 159
+Special Armor Modification 159
+Weapons 159
+Ammo Bins 159
+Drone Rack 160
+Gun Port 160
+Missile Defense System 160
+Oil Slick Sprayer 161
+Ram Plate 161
+Road Strip Ejector 161
+Smoke Projector 161
+Weapon Mount 163
+Body 163
+Assembly/Disassembly 163
+Chameleon Coating 163
+Extra Entry/Exit Points 164
+Ejection Seats 164
+Extreme Environment Modification 164
+Increased Seating 164
+Life Support 164
+Mechanical Arm 165
+Nanomaintenance System 165
+Realistic Features 165
+Smuggling Compartment 165
+Special Equipment 165
+Valkyrie Module 166
+Winch 166
+Workshop 166
+Electromagnetic 166
+Electromagnetic Shielding 166
+Electronic Countermeasures (ECM) 166
+Gridlink 166
+Gridlink Override 167
+Pilot Enhancement 167
+Retrans Unit 168
+Satellite Link 168
+Sensor Upgrade 168
+Signature Masking 168
+SunCell 168
+Touch Sensors 169
+Cosmetic 169
+Amenities 169
+Enhanced Image Screens 170
+Metahuman Adjustment 170
+Rigger Interface 171
+Interior Cameras 171
+Searchlight 171
+Vehicle Tag Eraser 171
+Yerzed Out 171
+MAXIMUM PURSUIT 172
+ADVANCED DRIVING RULES 173
+Speed 173
+Terrain 173
+Control 174
+Range 174
+Vehicle Actions 174
+General Actions 174
+Change Linked Device Mode  174
+Change Speed 174
+Bootleg Turn 174
+Catch Up/Break Away  174
+Control Vehicle 175
+Crazy Ivan 175
+Cut Off  175
+Discreet Pursuit  176
+Driveby/Broadside  176
+Fire a Vehicle Weapon 176
+Hold it Together Baby  176
+Like a Glove  176
+Pickup  176
+PIT 176
+Ram  177
+Shake Things Up a Bit  177
+Switch the Six  177
+Zen Control  177
+Vehicle Test  177
+Use Sensors  177
+Use Simple Device 177
+Ground Vehicle Actions 177
+Clear Exit 177
+Drift 178
+Make a Hole  178
+Aircraft Vehicle actions 178
+Leaf on the Wind  178
+Falling Leaf  178
+Strafe  179
+Drone Vehicle actions 179
+Swarm  179
+Passenger/Pilot Vehicle actions 179
+Bailout 179
+Fire Weapon  179
+Grapple/Board  179
+Melee Attack  179
+Watercraft  
+Vehicle actions 179
+Capsize  179
+Driving With Style 180
+Pedal to the Metal 180
+COMPILED TABLES 184
+>> RIGGER 5.0 <<
+4    >> CONTENTS & CREDITS  <<
+⌐ 2015-16 The Topps Company, Inc. All Rights Reserved. 
+Shadowrun and Matrix are registered trademarks 
+and/or trademarks of The Topps Company, Inc., in the 
+United States and/or other countries. No part of this 
+work may be reproduced, stored in a retrieval system, 
+or transmitted in any form or by any means, without 
+the prior permission in writing of the Copyright Owner, 
+nor be otherwise circulated in any form other than that 
+in which it is published. Catalyst Game Labs and the 
+Catalyst Game Labs logo are trademarks of InMediaRes 
+Productions, LLC.
+First Printing by Catalyst Game Labs, an imprint of 
+InMediaRes Productions, LLC
+PMB 202 ò 303 -91st Ave. NE, E-502
+Lake Stevens, WA 98258
+Find us online:
+info@shadowruntabletop.com
+ ( Shadowrun questions)
+http://www.shadowruntabletop.com
+ (Catalyst Shadowrun website)
+http://www.shadowrun.com
+ (official Shadowrun Universe website)
+http://www.catalystgamelabs.com
+ (Catalyst website)
+http://shop.catalystgamelabs.com
+ (Catalyst/Shadowrun orders)
+
+======== PAGE 30 ========
+TOOLS
+You need at least a toolkit appropriate to the skill you 
+need for the repair (usually one of the Mechanic skills 
+starting on p. 143, SR5). Your gamemaster may require 
+you to have a shop or a facility (p. 443, SR5), depend-
+ing on the size of the vehicle.
+MAKING THE REPAIR
+Once you have the parts and tools sorted out, make an 
+Extended appropriate Mechanic + Logic [Mental] Ex-
+tended Test, with a threshold equal to the number of 
+boxes of damage to repair and an interval of four hours 
+(one day if you donÆt have enough parts). The modifiers 
+on the Repair Table apply to this test.
+ELECTRONIC WARFARE
+The rigger is unique in that she fights in the Matrix and 
+meatspace at the same time. As a result, signals war -
+fare is way up there on the list of Things That Are Im-
+portant to Know About. These actions are used by rig-
+gers from beginning drone racers to elite thunderbird 
+pilots in the back-and-forth game of electronic warfare.
+All of the following actions are Matrix actions. Yes, 
+you can use them if youÆre not a rigger.
+BREAK TARGET LOCK
+(SIMPLE ACTION)
+Marks required: None
+Test: Electronic Warfare + Intuition [Data Processing] 
+v. Logic + Sensors
+Passive targeting and active targeting with sensors 
+are described on p. 184 of SR5. If you know that youÆve 
+been locked (or suspect it), you can to try to break it. 
+Choose an enemy that has (or you think has) a lock on 
+you, and make the Opposed Test. For every net hit, you 
+reduce the targetÆs lock on you by one hit. Your RCCÆs 
+Noise Reduction rating is added as a dice pool bonus 
+for this action.
+CONFUSE PILOT
+(COMPLEX ACTION)
+Marks required: None
+Test: Electronic Warfare + Logic [Attack] v. Pilot + 
+Firewall
+You send a stream of code to a device with a pilot 
+(usually a drone, but sometimes an autonomous vehicle 
+or gun emplacement) that resembles valid instructions 
+but is in fact gobbledygook. If you succeed, the pilot be-
+comes confused, and makes an immediate Simple Pilot 
+x 2 Test to figure out what itÆs going to do next (p. 269, 
+SR5)ùthe threshold for this test is equal to half of your 
+net hits. Your RCCÆs Noise Reduction Rating is added as 
+a dice pool bonus for this action.
+DETECT TARGET LOCK
+(FREE ACTION)
+Marks required: Owner
+Test: Computer + Logic [Data Processing] (2)
+Passive targeting and active targeting with sensors 
+are described on p. 184 of SR5. An active target lock 
+sends wireless and other signals that hackers and riggers 
+have learned to detect. The RCC, commlink, or deck that 
+youÆre using must be wireless-enabled to perform this 
+action. Your RCCÆs Noise Reduction rating is added as a 
+dice pool bonus for this action.
+SUPPRESS NOISE
+(COMPLEX ACTION)
+Marks required: Owner
+Test: Electronic Warfare + Logic [Data Processing]
+As described on p. 268, SR5, this action allows rig-
+gers to use their RCC to reduce noise between them-
+selves and their vehicles or drones. Reduce noise by 
+the hits on this test, cumulative with any other forms of 
+noise reduction. This effect lasts for the remainder of the 
+current Combat Turn. Your RCCÆs Noise Reduction rating 
+is added as a dice pool bonus for this action.
+TARGET DEVICE
+(COMPLEX ACTION)
+Marks Required: None
+Test: Electronic Warfare + Logic [Data Processing] v. 
+Willpower + Firewall
+Pick a wireless-enabled device youÆve spotted on 
+the Matrix. You can target that device and feed targeting 
+data to any pilot program or person with a Sensor rating 
+or smartlink that is slaved to your RCC. For the rest of the 
+Combat Turn, the slaved attackers receive a dice pool 
+REPAIR TABLE
+SITUATION DICE POOL MODIFIER
+Working Conditions
+Distracting û1
+Poor û2
+Bad û3
+Terrible û4
+Superior +1
+Tools and/or Parts Are:
+Unavailable û4 or not allowed
+Superior +1 or more
+>> RIGGER 5.0 <<
+30    >> ALL THE ANGLES  <<
+
+======== PAGE 31 ========
+bonus equal to your net hits when targeting the device 
+youÆre tracking for them. Your RCCÆs Noise Reduction 
+rating is added as a dice pool bonus for this action.
+SWARMS
+What do you do with a lot of relatively stupid drones? 
+Create one reasonably smart swarm! A drone (or vehi-
+cle) swarm is a network of linked drones all slaved (p. 
+233, SR5) to a single RCC running the Swarm program. 
+You can include as many drones in a swarm as your RCC 
+can slave (Device Rating x 3), or split them up among 
+several swarms (again, limited by your RCCÆs slave lim-
+it). To start a swarm, simply run the Swarm program on 
+your RCC, slave your drones, and command them to 
+join the swarm you designate for them.
+Each swarm acts as a single drone with multiple, sep-
+arate ôbodies.ö Its Pilot rating is equal to the highest Pi-
+lot rating of its member drones, or the Device Rating of 
+the RCC, whichever is higher. The swarm uses the high-
+est-rated of each autosoft running on any drone or the 
+RCC, and the highest Sensor rating. It uses the lowest of 
+the dronesÆ Handling, Speed, and Acceleration ratings. 
+When performing actions, the swarm gets a dice pool 
+and limit bonus equal to one less than the number of 
+drones in the swarm.
+In combat, all drones attack with whatever weap-
+ons they have, but for game purposes only use a sin-
+gle weaponÆs stats (the others are covered by the action 
+bonuses the swarm receives), although roll scatter for 
+explosive weapons separately. Drones in a swarm must 
+be targeted individually by attackersùthe loss of drones 
+from a swarm due to damage, hacking, or other mishaps 
+affects the swarmÆs bonuses and ratings immediately.
+OPERATIONAL TIME
+While vehicles use a variety of fuel sources besides 
+simple gasoline, they all still use something, which 
+means eventually they run out of what is powering 
+them. Vehicles operating normally can function for six 
+hours before needing refueling/recharging/whatever; 
+operating in a low-power mode (such as idling) ex-
+tends that time, while higher-powered travels (such as 
+moving at top speeds for prolonged periods) shorten 
+it. Keeping minute-by-minute records is not necessary. 
+The point is to make the players occasionally consider 
+their power needs and not allow them unlimited travel 
+without powering/fueling up, not making them track 
+exact fuel expenditures.
+TAKEOFF AND LANDING
+Planes and helicopters and such go from ground to 
+air at different angles, meaning they have different 
+amounts of horizontal land they need to traverse be-
+fore they get airborneùand when they get back down 
+to the ground. There are three different aircraft profiles: 
+long, short, and VTOL. Long distances are used for 
+planes that are not specified to have either short land-
+ing or VTOL capabilities, or lighter-than-air properties.
+TAKEOFF AND LANDING DISTANCE
+AIRCRAFT PROFILE TAKEOFF LANDING
+Long 2,000 1,800
+Short 200 300
+VTOL ù ù
+SWARMS
+RIGGING PROGRAM COST
+Swarm 600Ñ
+>> RIGGER 5.0 <<
+>> ALL THE ANGLES  <<    31
+
+======== PAGE 169 ========
+TOUCH SENSORS
+When a rigger jumps into a vehicle, they experience 
+the world around them as if they were the vehicle, with 
+the hull of the vehicle feeling like their skin. With touch 
+sensors, that experience becomes even more realistic, 
+but it comes with a danger. When touch sensors are 
+installed, the hull of the vehicle is suffused with thou-
+sands of micro sensors that relay a variety of sensory 
+information. Consequently, when a rigger is jumped 
+into a vehicle equipped with touch sensors ,they are 
+able to feel and experience the world around them as if 
+the hull of the vehicle was their own skin, possibly even 
+better. In game terms, a rigger jumped in to a vehicle 
+equipped with touch sensors gains +2 dice pool modi-
+fier to any Perception or Sensor Tests, and the vehicleÆs 
+Handling has a +1 modifier. However, the hyper-sensi-
+tivity increases the riggerÆs vulnerability. Whenever the 
+vehicle takes damage, the rigger receives a û2 penalty 
+to resist the Biofeedback Damage (see p. 229, SR5).
+COSMETIC
+Cosmetic modifications exist in the realm between vehi-
+cle modification and vehicle equipment (like tires). They 
+are more permanent and integrated into the vehicle it-
+self than removable equipment, yet nowhere near as in-
+vasive as any modification. As such, they are listed as a 
+modification, but do not take up any modification slots.
+AMENITIES
+Sometimes itÆs not enough to just get from place to 
+placeùyou want to travel in comfort and style. With the 
+amenities modification, the ôliving conditionsö of a vehi-
+cle are upgraded to provide a more pleasant experience. 
+A standard vehicle provides accommodations equiv -
+alent to Low lifestyle, by default, but amenities can be 
+improved to middle, high, or luxury. With middle, the ve-
+hicle i equipped with comfortable fabric seats, pleasant 
+ergonomics and decorating, and basic AR entertainment 
+options. High has the seating made from fine materials, 
+and temperature controlled, refreshment options avail-
+able. There is also a full suite of Matrix and non-electronic 
+entertainment options to keep anyone entertained for 
+hours. With luxury amenities, every aspect of the vehicle 
+maximizes comfort: the seats keep you warm and mas-
+sage you according to a scan of your muscle tension, and 
+they are made of a non-synthetic material (possibly some 
+kind of dead animal hide). The refreshment unit contains 
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST  <<    169
+ELECTROMAGNETIC MODIFICATIONS
+MODIFICATION SLOTS THRESHOLD TOOLS SKILL AVAIL COST
+Electromagnetic Shielding 2 20 Facility ù  6R Body x 500Ñ
+ECM 2 20 Shop Hardware  (R x 3)F Rating x 500Ñ
+Gridlink 2 4 Shop Hardware 4 750Ñ
+Gridlink Override 1 8 Kit Hardware 8F 1,000Ñ
+Pilot Enhancement 
+Rating 1û3 [Rating] Rating x 3 Kit Hardware 
+R x 2
+Rating x 
+2,000Ñ
+Rating 4û6 [Rating] Rating x 4 Shop Hardware 
+R x 3
+Rating x 
+5,000Ñ
+Retrans Unit 2 4 Kit Hardware  8 4,000Ñ
+Satellite Link 1 6 Kit Hardware 6 500Ñ
+Sensor Enhancement
+Rating 1û3 [Rating] Rating x 3 Shop Hardware 
+R x 2
+Rating x 
+2,000Ñ
+Rating 4û6 [Rating] Rating x 4 Shop Hardware 
+R x 3
+Rating x 
+5,000Ñ
+Signature Masking (Rating 1û6) [Rating] Rating x 6 Facility ù 14F Rating x 2,000Ñ 
+SunCell 2 16 Shop Hardware 6 Body x 
+500Ñ
+Touch Sensors 3 16 Shop Hardware 8 Body x 
+500Ñ
+
+======== PAGE 170 ========
+exotic alcohol and real food, along with access to every 
+Matrix entertainment channel or game available. Alterna-
+tively, the vehicle can have its amenities downgraded to 
+squatter (equivalent to most public transit), in which case 
+it automatically gains the effects of the increased seating 
+modification (see p. 164).
+Skill tests (such as Social Skills or Healing Checks) 
+that happen in a vehicle with an amenities modification 
+are considered to be happening in the equivalent life-
+style of the amenities. Gamemasters can apply bonuses 
+to Social Tests for situations where a display of wealth 
+or comfort would be advantageous. A character can 
+choose to live in their vehicle, but must still pay the full 
+cost for the chosen lifestyle.
+ENHANCED IMAGE SCREENS
+While every vehicle in the 2070s features some degree 
+of imaging screens to communicate important vehicle 
+information, many riggers and vehicle owners want to 
+enhance that image displaying capability. With enhanced 
+image screens, every sufficiently flat surface on a vehi-
+cle (including windows) can display an electronic image 
+or video. Theses images are hyper realistic and can be 
+used to project a false image of the outside world in an 
+attempt to deceive passengers. A Perception Test with a 
+û4 penalty is required to notice that the images are false. 
+Enhanced image screens can be used to display any vi-
+sual feed on a PAN, perfect for team members unable or 
+unwilling to use their AR, or tie their commlink or deck 
+into the same PAN. They can also be used for plain-old 
+entertainment. A vehicle with enhanced image screens 
+can display any and all Matrix AROs that they can see/
+access on the inside of their vehicle, making them visi-
+ble to characters who do not have AR equipped.
+METAHUMAN ADJUSTMENT
+As time marches on in the Sixth World, death, greed, 
+and racism seem to be constant. Despite the best ef-
+forts of many metahuman activist groups over the last 
+few decades, most vehicles are still designed and built 
+with human (or human-equivalent) size in mind. As a 
+result, any metahuman who wants to comfortably use 
+a vehicle must have it adjusted to their body. For trolls 
+and dwarfs, this means adjusting the position of ve-
+hicle controls to fit their size. For orks and elves, this 
+means more minor adjustments that take advantage of 
+their distinct physiology. Orks and elves attempting to 
+pilot a vehicle that has not been adjusted suffer a û1 
+penalty to any Pilot Tests, and dwarfs and trolls suffer a 
+û2 penalty. Pixies and centaurs shouldnÆt even try.
+>> RIGGER 5.0 <<
+170    >> BUILDING THE PERFECT BEAST  <<
+
+======== PAGE 171 ========
+RIGGER INTERFACE
+By the 2070s rigger control of vehicles have become so 
+common that even if a rigger adaption isnÆt installed as 
+standard for a vehicle, it can easily be added after-mar -
+ket. This modification allows a rigger to jump in to a ve-
+hicle and control it with a full sensory experience. This 
+includes installation of the ôblack boxö that process-
+es the sensory impressions for human consumption, 
+along with a suite of sensors and relays connected to 
+various parts of the vehicle. All drones come equipped 
+with a rigger interface by default.
+INTERIOR CAMERAS
+In the course of jumping through multiple vehicles and 
+taking in multiple streams of information from different 
+sources, a rigger can easily lose contact with their im-
+mediate surroundingsùnamely, the interior of their own 
+vehicle. As a result, many riggers install interior cameras 
+into their vehicle so they can easily keep track of their 
+own meat body and any passengers in the vehicle by 
+routing the feed from the interior cameras into their 
+PAN. Interior cameras allow a rigger to make a standard 
+Perception Test to notice anyone or anything inside of 
+their vehicle, even while they are in full VR mode.
+SEARCHLIGHT
+Hey, sometimes your needs are as simple as having a 
+light to shine on things when it gets dark. The search-
+light modification installs a high-powered light mount-
+ed somewhere on the exterior of the vehicle, capable 
+of all-around movement for wherever it happens to be 
+mounted. It can be operated remotely or manually, as 
+long as it is physically accessible. When activated and 
+pointed in the appropriate direction, the searchlight 
+reduces the penalties due to darkness by one step (p. 
+1 73, SR5).
+VEHICLE TAG ERASER
+All of the RFID tags installed on things makes them 
+convenient to find and track, which is exactly what a 
+runner doesnÆt want. With a few simple steps, a tag eras-
+er (p. 441, SR5) is installed on the interior or exterior of 
+the vehicle. Drawing power from the vehicle itself, the 
+tag eraser can activate once every ten minutes.
+YERZED OUT
+Do you have a style all your own and want to show that 
+to the world? Then you probably have a yerzed out ve-
+hicle. Drawing from the increasingly popular movement 
+of incorporating slang from the ork language of OrÆzet, 
+the term is a modification of the OrÆzet word ôyer -
+zon,ö meaning ôwealthyö or ôrich.ö Despised by most 
+ork rights advocates, the term has nonetheless caught 
+on. Popular trid programs show how to creatively ôyerz 
+outö a vehicle in a variety of different ways. Note that a  
+person who drives such a vehicle is often called a ôyer -
+zer.ö While highly individual, in general a yerzed-out 
+vehicle will be aesthetically customized to the ownerÆs 
+unique style and tastes. This includes the color of the 
+vehicle (inside and out), as well as cosmetic additions 
+and modifications such as custom AR, additional (and 
+superfluous) lights, sounds, and maybe even a custom 
+sensations broadcast for the simsense-equipped. 
+The yerzed out modification can range in Rating 
+from 1 to 4. The Rating provides a dice pool bonus on 
+Social Tests of the owner in situations where the people 
+would be impressed by yerzing. Conversely, the Rating 
+provides a dice pool penalty to Social Tests of the owner 
+where the customization is frowned upon. Additionally, 
+because it is intentionally unique and memorable, any 
+attempts to gather information about the owner with 
+people or groups that known (or know of) him have a 
+dice pool bonus equal to the Rating, since the vehicle is 
+quite distinctive and memorable.
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST  <<    171
+COSMETIC MODIFICATIONS
+MODIFICATION SLOTS THRESHOLD TOOLS SKILL AVAIL COST
+Amenities
+Squatter ù 6 Shop ù ù 100Ñ
+Middle ù 6 Shop ù 2 500Ñ
+High ù 10 Shop ù 8 1,000Ñ
+Luxury ù 20 Shop ù 16 10,000Ñ
+Enhanced Image Screens ù 12 Shop ù 8 5,000Ñ
+Metahuman Adjustment ù 4 Kit ù 4 500Ñ/seat
+Rigger Interface ù 8 Kit ù 4 1,000Ñ
+Interior Cameras ù 6 Kit Hardware 6 2,000Ñ
+Searchlight ù 4 Kit ù 4 800Ñ
+Vehicle Tag Eraser ù 8 Shop Hardware 6R 750Ñ
+Yerzed Out (Rating 1û4) ù Rating x 4 Shop ù (R x2) (Rating x 1,000Ñ)
+

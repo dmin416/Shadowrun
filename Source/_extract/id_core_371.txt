@@ -1,0 +1,110 @@
+between a metahuman and an animal and can also pin-
+point gender, but are otherwise not advanced enough to 
+single out an individual. In order to pick up a scent, the 
+scanner rolls its Device Rating against a threshold of 3 (2 
+for characters with tailored pheromone bioware).
+Magnetic anomaly detectors (MADs) detect metallic 
+substances for the purpose of finding concealed weap-
+onry. Naturally, MADs do not work against non-metallic 
+substances like wood, stone, or plastic. To determine if 
+the detector finds a weapon, make a test using the de-
+vice’s rating as the dice pool; a single hit detects any fer-
+rous-metal weapons or objects (guns, knives, etc).
+Millimeter wave detection systems, also known as 
+cyberware scanners, process video taken in the milli-
+meter wave spectrum to identify the energy signature of 
+cyberware and concealed items (specifically weapons) 
+on a person. These devices can “see through” thick lay-
+ers of clothing and other concealment to identify items 
+from a distance of fifteen meters away. To determine if 
+the detector scans cyberware or a prohibited item, roll 
+the Device Rating and compare the hits scored to the 
+thresholds given on the Cyberware Scanner Table. Milli-
+meter wave scans can detect any non-biological item by 
+its shape and composition, assuming the item is listed 
+in the device’s database. If the threshold is reached, the 
+scanner detects the item/implant and notes its general 
+locations and type; additional hits provide more detail 
+(function, model, grade, etc.).
+AUTOMATED DEFENSES
+Automated gun systems are simply weapon-mounted 
+drones placed in fixed locations (usually with a 180-de-
+gree firing arc) or on slide-mounted track systems. 
+These systems are typically loaded with basic sensors 
+and Targeting autosofts and follow all the standard 
+rules for drones (see p. 269).
+Containment systems entail a kind of trap mecha-
+nism: when an alarm is triggered, shutters drop down 
+over windows, doors shut and lock, and sliding walls or 
+gates may be activated. They may also include laser or 
+monowire mazes and radio jamming. The objective is 
+to detain intruders within a confined area, after which 
+they may be either removed or “neutralized.”
+Gas delivery systems can be insidious, dispersing 
+gas in a potentially undetectable manner. Dispersal sys-
+tems can fill an area of 30 cubic meters in one Combat 
+Turn. The gamemaster determines how far and how 
+quickly a gas spreads. The gamemaster may secretly 
+conduct Perception Tests to see if any characters detect 
+the gas, basing the threshold on how noticeable the gas 
+is (many gases are colorless and odorless). Characters 
+equipped with an olfactory scanner (see p. 452) may be 
+alerted by their gear. See p. 408 for details on various 
+gases and how they will affect characters.
+Marking systems are designed to tag intruders with 
+a discreet mark so that they can be identified later if cap-
+tured. Marking methods include ultraviolet dye, RFID 
+tags, DNA-encoded material, or even nanite tags. The 
+markers are typically sprayed unobtrusively over exits 
+and other traffic areas.
+IDENTIFICATION
+Your average Joe Wageslave in the Sixth World doesn’t 
+give a second thought to their identity in the system. 
+They get up in the morning, go to work, buy the gro-
+ceries, pay the bills, and go to bed in their living space. 
+They don’t think about who knows who they are, how 
+much their employer controls them, who those bill pay-
+ments are going to, how their commlink knows what 
+groceries they need this week, and who knows where 
+they live. Yes, Joe Wageslave is pretty oblivious to the 
+system that surrounds everything they do. But anyone 
+who chooses to live off the grid (like shadowrunners) 
+are all too aware of how the system of identity works.
+SYSTEM IDENTIFICATION 
+NUMBER (SIN)
+The foundation of an identity in the Sixth World is the 
+System Identification Number (SIN). If someone wanted 
+to divide the world into two groups of people, it could 
+be done by saying there are those who have a SIN and 
+those who don’t. That is, if you even consider the SIN-
+less to be “people,” which some don’t. Modern society 
+in 2075 produces a staggering amount of information 
+every second of every day: where you are, what you 
+buy, and what you do. With the system producing all of 
+these pieces of information, there needs to be an easy 
+way to store, track, and correlate it. All of that informa-
+tion needs to be associated with a person somehow. 
+That’s where the SIN comes in. A SIN is issued to a per-
+son a birth, and stays with them (baring exceptional cir-
+cumstances) for the rest of their life. A SIN identifies a 
+CYBERWARE SCANNER TABLE
+ITEM
+THRESHOLD
+Standard cyberware, weapons
+1
+Alphaware, other items
+2
+Betaware
+3
+Deltaware
+5+
+SITUATION
+MODIFIER
+2 or more implants/items
++1
+4 or more implants/items
++2
+6+ implants/items
++3
+>> GAMEMASTER ADVICE <<
+366    Identification >>

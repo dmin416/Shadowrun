@@ -40,10 +40,10 @@ Social Limit caps hits. Appearance, reputation, racial prejudice, and context mo
 
 ## Travel & downtime
 
-- Lifestyle covers day-to-day needs — [Housing and Lifestyle](Housing%20and%20Lifestyle.md)
+- Lifestyle covers day-to-day needs - [Housing and Lifestyle](Housing%20and%20Lifestyle.md)
 - Legwork: contacts, Matrix search, street gossip
-- Training and healing between runs — [Healing and Injuries](Healing%20and%20Injuries.md), Karma advancement
+- Training and healing between runs - [Healing and Injuries](Healing%20and%20Injuries.md), Karma advancement
 
 ## When to roll vs roleplay
 
-Roll when failure is interesting or uncertain. Don’t dice every door open or every hello — save pools for pressure.
+Roll when failure is interesting or uncertain. Don’t dice every door open or every hello - save pools for pressure.

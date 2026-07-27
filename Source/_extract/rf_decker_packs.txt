@@ -1,0 +1,171 @@
+===== runfaster.pdf PAGE 250 =====
+COMBAT BIKER PACK
+(12,000¥/6 KARMA)
+The stereotypical combat hog for orks and trolls, the 
+Scorpion remains the best combat bike out there. It’s 
+frequently purchased as a throwback for the gas-guz-
+zling, smoke-belching power of a combustion engine.
+ALL-AMERICAN PACK
+(16,000¥/8 KARMA)
+Another choice for those who want to blend, the 
+Americar also has many throwback styles, eschewing 
+GridGuide for the wide-open road. Run-down versions 
+are everywhere in the barrens. Some even work!
+TEAM VAN PACK
+(36,000¥/18 KARMA)
+The stock van is a canvas waiting for a rigger to paint 
+a story. Some prep them for combat, with turrets and 
+dispensers, some for recon, with giant antennae and 
+drone racks, others for stealth, with electrochromatic 
+paint and alternate VINs. It always starts with a simple 
+GMC Bulldog and someone shouting, “Get in the van, 
+GET IN THE VAN NOW!” Good times.
+OFF ROAD PACK
+(40,000¥/20 KARMA)
+While it’s an off-road vehicle, don’t think of the Gopher as 
+a gas-guzzler. Those holding sway over the rural areas are 
+often sticklers about environmental policy, so off-road 
+vehicles like this tend to be fitted with long-life batteries 
+and emergency solar power collectors. For anyone who 
+needs to get out of the sprawl for a while, be it for hunting 
+or for hiding. Throw in a Growler so you have a choice 
+about how you travel when you’re off the plascrete.
+NON-COMBAT RIGGER PACK
+(2,000¥/1 KARMA) (4-)
+Upgrade two of your vehicles to riggerable. Nice and 
+simple.
+COMBAT RIGGER PACK
+(4,000¥/2 KARMA) (8F)
+Upgrade one of your vehicles with a weapon mount. 
+Quite illegal, so drive carefully.
+DECKER PACKS
+Only a year or two ago, hackers could count on their 
+commlinks cracking code with a disturbing ease, and 
+many a shadowrunner dabbled in hacking on the side. 
+That time has passed. In today’s world, the current Ma-
+trix protocols are virtually impregnable, with only those 
+with advanced skills are able to construct either the 
+hardware of a true cyberdeck or the code to go inside 
+it. A handful of corporations make their own decks, and 
+some of those have slipped into the street, but the vast 
+majority are hand-created knockoffs of the real thing, 
+held together with spit, duct tape, and prayers. 
+INTRO TO HACKING PACK
+(58,000¥/29 KARMA) (3R)
+The deck inside is less likely the official Microdrek 
+product than a scratch-built monstrosity, cobbled to-
+gether with the guts of several commlinks and sugges-
+tions gathered from hidden Matrix nodes. The Intro to 
+Hacking PACK holds the most common cyberdeck in 
+COMBAT BIKER PACK
+ITEMS
+Harley-Davidson Scorpion
+NON-COMBAT RIGGER PACK
+ITEMS
+Rigger interface for two vehicles
+ALL-AMERICAN PACK
+ITEMS
+Ford Americar
+TEAM VAN PACK
+ITEMS
+GMC Bulldog with rigger interface
+OFF ROAD PACK
+ITEMS
+Toyota Gopher
+Yamaha Growler
+COMBAT RIGGER PACK
+ITEMS
+Rigger interface
+Standard weapon mount 
+with manual operation 
+option
+>> RUN FASTER <<
+248    PACK YOUR KIT >>
+
+===== runfaster.pdf PAGE 251 =====
+today’s world, obtainable by even street gangs with 
+enough technical know-how and some theft. 
+BASIC DECKER PACK
+(124,000¥/62 KARMA) (6R)
+Suitable for a professional shadowrunner. Although it 
+may not have any bleeding-edge tech, the Basic Decker 
+PACK provides a machine good enough to get the job 
+done in most cases. It’s a significant investment that 
+defines the line between hobbyist and pro. 
+ADVANCED DECKER PACK
+(346,000¥/173 KARMA) (12R)
+At the very bleeding edge of decking’s next genera-
+tion, the Advanced Decker Kit defines a character as 
+strongly as wired reflexes define a street samurai, al-
+lowing them to go head to head with the best the 
+megacorps can send out and often come out ahead. 
+Often, but not always.
+BASIC CYBERDECK  
+PROGRAMS PACK
+(2,000¥/1 KARMA)
+Containing the tools every decker’s arsenal needs, the 
+Basic Cyberdeck Programs PACK lets you stay hidden, 
+find what you need, and hide.
+ADVANCED CYBERDECK 
+PROGRAMS PACK
+(2,000¥/1 KARMA) (6R)
+The Advanced Cyberdeck Programs PACK lets you go 
+toe-to-toe with hostiles. Who needs to hide when you 
+can just rip big holes through whatever security throws 
+against you while bouncing their attacks like tennis 
+balls hitting steel? 
+DRONE PACKS
+While these PACKs are the special domain of riggers, 
+they are not limited to that group. You’d be surprised 
+how useful one of the little guys can be to everyone 
+else.
+BASIC DRONE 
+COMMANDER PACK
+(16,000¥/8 KARMA) (6R)
+For those looking for basic drone interaction, including 
+reporters who want cameras in sensitive places and 
+deckers who want to establish a signal relay, the Basic 
+Drone Commander PACK will get the job done, while 
+also serving well enough for street-level riggers. 
+ADVANCED DRONE 
+COMMANDER PACK
+(66,000¥/33 KARMA) (10R)
+The Advanced Drone Commander PACK is intended 
+for more dedicated riggers who need to keep a net-
+work humming in dangerous situations while running 
+against opponents who are quite capable of disrupting 
+the beautiful networks of drones they construct. 
+INTRO TO HACKING PACK
+ITEMS
+Microdeck Summit cyberdeck
+BASIC DECKER PACK
+ITEMS
+Hermes Chariot cyberdeck
+Software kit
+Hardware kit
+ADVANCED DECKER PACK
+ITEMS
+Sony CIY-720 cyberdeck
+Software kit
+Hardware kit
+>> RUN FASTER <<
+<< PACK YOUR KIT    249
+BASIC CYBERDECK  
+PROGRAMS PACK
+ITEMS
+Sony CIY-720 cyberdeck
+Software kit
+Hardware kit
+ADVANCED CYBERDECK  
+PROGRAMS PACK
+ITEMS
+Hacking cyberprograms: Armor, Biofeedback, Blackout, 
+Guard, Hammer, Mugger, Shell
+BASIC DRONE  
+COMMANDER PACK
+ITEMS
+Easy Motors DroneMaster rigger control console
+ADVANCED DRONE  
+COMMANDER PACK
+ITEMS
+Vulcan LiegeLord rigger control console

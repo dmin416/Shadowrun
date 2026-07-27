@@ -1,0 +1,686 @@
+﻿==== 59 ====
+efficiently as an accessory. Be warned, the case 
+serves an actual purpose as the device produces 
+a bit of excess heat. 
+>	
+DonÆt let this thing get near you deck when itÆs operating. 
+The processors can barely cool themselves, and the box 
+gets hot enough to burn flesh. Use the datacord and 
+insulated box. 
+>	
+Pistons
+>	
+I donÆt recommend it, but IÆve used the box as a painful 
+distraction before by running it while someone was trying 
+to procure it from me during a field test.
+>	
+Slamm-0! 
+>	
+You field-tested these? How hot do they run?
+>	
+Glitch 
+>	
+Took a top-of-the-line model on a rural op and cooked an 
+egg on it. No joke. It wasnÆt necessaryùjust wanted to see 
+if it would work. 
+>	
+Slamm-0! 
+MOS RULES
+The MOS can run a number of programs equal to its rating. 
+Maximum rating is 4. The MOS must be connected to a cyberdeck 
+or commlink via its datacord, which is only half a meter long.
+The device runs hot. If the user carries it on their person, it 
+causes (Rating)S damage each Combat Turn when in use and in 
+its case. The damage is (Rating x 2)S when outside the container 
+and outside clothing, but if exposed to bare skin the damage is 
+Physical. Fire Protection works in resisting the damage as long 
+as the armor is between the wearer and the box. It can be used 
+safely if placed on a stable, non-flammable surface.
+ITEM
+AVAIL
+COST
+MOS
+6
+Rating x 4,000Ñ
+>> KILL CODE <<
+58    DIPS & CHIPS >>
+
+
+==== 60 ====
+>	
+You had a real egg and you cooked it on your tech toy?
+>	
+/dev/grrl 
+>	
+I had a lot of eggs as I was hiding out in a henhouse at the 
+time. I ate so many, IÆm kind of over them.
+>	
+Slamm-0! 
+BOOSTER CHIPS
+While MCT was putting technomancers through 
+the black site torture program, Evo was using some 
+of their newest assets to infiltrate and steal the re-
+search data MCT was gathering. Using biological 
+readings from a myriad of tests, Evo managed to 
+develop a simchip-based protocol that enhances 
+certain aspects of a technomancerÆs living perso-
+na through short bursts of BTL-level feeds. As you 
+would expect, thereÆs a small risk of addiction due 
+to to these feeds, but the addiction numbers were 
+lower in test subjects, likely due to the focused na-
+ture and purpose of the chips. The chips come in 
+four varieties, one for each aspect of the living per-
+sona, with basic grades of the chips available com-
+mercially. There are also some seriously amped-
+up versions on the streets that have cooler names 
+thanks to their shady dealers. Overuse and mix-
+ing the chips can cause issues, but a troublesome 
+headache is better than getting brainfried by IC.
+The big tech jump here is a slotless BTL. The 
+chips have a series of pins with a mix of sensors 
+and stimulators. When applied to the cranial re-
+gion, the pins transmit the signal directly to the 
+brain, like a single-spot trode. The chips need 
+bare skin, meaning many technomancers who use 
+them keep a patch of their scalp shaved rather 
+than sticking the chips on their foreheads.
+>	
+If you can look past the source of the initial research and 
+the forces used to steal it, these chips are a handy little 
+tool for technomancers everywhere. The headache claim 
+might be brushing problems under the carpet, but IÆve 
+found i
+
+==== 61 ====
+TRODE PATCH
+Are you sick of hiding your trodes in your hats or 
+having that gelly goop getting stuck in your hair? 
+Well, then, itÆs time to rejoice with MCTÆs latest 
+design for virtual access with minimal hassle. The 
+full trode rig will soon be a relic of the past, and 
+getting a hole drilled in your skull for a datajack 
+just wonÆt be necessary anymore with the ul-
+tra-sleek trode patch. 
+About the size of an old-fashioned quarter, or 
+about 2.5 centimeters in diameter for those unfa-
+miliar with ancient UCAS coins, the trode patch 
+allows the same level of DNI interface as a full rig, 
+but rather than needing a full net or headband of 
+them, itÆs a single small piece. It requires direct 
+skin contact near the brain, so a small patch of 
+bare skin on the cranium is needed, but thatÆs bet-
+ter than a hole in the head any day. Many models 
+even come with a custom exterior that can match 
+your hair, or you can get one with any number of 
+logos or designs. 
+ITEM
+RATING
+AVAIL
+COST
+Trode Patch
+4
+4
+1,250Ñ
+Patch Cover
+ù
+ù
+250Ñ
+CYBERDECKS 
+With time in this new Matrixùand if rumors are 
+true, another security upgrade is on the wayù
+cyberdecks have been getting some alterations 
+to their design and basic functions. The dongle 
+market is letting a lot of would-be hackers play a 
+dangerous game with half-assed equipment and 
+a cheap lease on life. With several of the train-
+er decks and locked design decks getting tons 
+of love these days, a few other cyberdeck firms 
+have been getting into the fray and offering al-
+ternative designs and elements that ease costs 
+but leave any users a step or two behind the true 
+corporate-raider-level decks. Most of the major 
+cyberdeck makers have models of their own, but 
+IÆd like to put a little focus on Fuchi. 
+FUCHI CYBER-N SERIES
+Using t
+
+==== 62 ====
+SECURITY DECKS 
+Even though cyberdecks were supposedly in-
+tended only for cyber-security specialists, we 
+knew full well the moment they hit the market, 
+theyÆd be finding their way into the hands of 
+hackers in no time, often straight from the same 
+corps that designed them just for their security 
+specialists. To counter these events yet again, 
+theyÆve developed another branch of decks, de-
+signed with a locked chipset, and a specific setup 
+that best suits their purposes. The system designs 
+include virtually no Sleaze protocols and a gen-
+erally low-grade set of processors, but they offer 
+potential with their various levels of Firewall hard-
+ware, along with attack systems and a stringent 
+set of program allotments that are pre-loaded 
+and canÆt be changed without altering the hard-
+ware of the deck. 
+>	
+Careful trying to tweak the program complement on these. 
+The hardware inside is specifically designed to prevent 
+tampering. Plenty of deckers have turned their expensive 
+tech into shiny junk by trying to swap out program blocks 
+and missing a pin or two. 
+>	
+/dev/grrl
+HUNTER DECKS 
+Similar to security decks, hunter decks are 
+utilized by a unique class of newly developing 
+electronic specialists known as E-Hunters. These 
+cyber-security specialists are taking their work 
+on the offensive, focused on the new technosa-
+pients and e-critters (mostly the former, though 
+the latter occasionally find themselves in similar 
+habitats). These decks focus on one thing and one 
+thing only: killing. Or more accurately, derezzing 
+AIs and other purely electronic entities. They have 
+their specific limitations and protections but are 
+designed to be of limited use for regular hacking, 
+and they are exemplary at the dangerous job of 
+e-hunting, including being devoid of a si
+
+==== 68 ====
+ESS
+AVAIL
+COST
+0.5
+12
+5,000Ñ
+MCT BIOLINK
+This is some drek, and we all know where the re-
+search came from, even though no one is ever 
+going to admit it. The BioLink is best described 
+as a wireless datajack. A small cluster of tissue is 
+grown across a section of the midbrain. The tis-
+sue acts in a fashion similar to the same areas of 
+the brain of a technomancer and allows the user 
+to connect to wireless devices without the use 
+of a datajack. ItÆs what some call the first step in 
+understanding and recreating the technomancer 
+phenomenon, but anyone in the shadows with 
+half a conscience knows this all came at the cost 
+of hundreds if not thousands of technomancers. 
+Getting this implant is paying back into the 
+pockets of a mega that has hunted and killed more 
+innocent technomancers than GOD. 
+The bioware doesnÆt open the subject to the 
+Resonance and doesnÆt offer a Matrix persona, 
+but it does allow a direct feed of Matrix data to 
+the brain and potential access to other Matrix-ac-
+cessing devices like commlinks and cyberdecks 
+via DNI but without any wires. 
+>	
+Great. Now we can make freaks.
+>	
+Clockwork 
+>	
+Already could. IsnÆt that how you got here?
+>	
+Respec 
+>	
+The stealth hacking options here are the real advantage 
+this allows. IÆm as unhappy as the next person that the 
+megacorps do all sorts of testing and even torture people 
+to get their info, but to let those people die in vain seems 
+a far worse offense. Better to arm ourselves with the tech 
+and tools they discover and use it against them.
+>	
+/dev/grrl
+ESS
+AVAIL
+COST
+0.5
+10
+15,000Ñ
+IC
+Sometimes itÆs not just good to know what weÆre 
+able to buy, but also what might be sliding onto 
+the market to make your lives hell. I donÆt offer 
+any kind of real sales figures here, as the corps 
+that make this
+
+==== 70 ====
+Wuxing issues these commlinks to guards in sensi-
+tive areas that may be targeted by technomancers. 
+The basic idea of the Ælink is to gain enough in-
+formation to try to differentiate technomancers 
+from non-technomancers and have that show up 
+as part of their icon. There are a lot of subtleties 
+that go into the attempt to mark someone as a 
+technomancer, so the device is generally not fool-
+hardy enough to clearly rate someone as definitely 
+a technomancer or definitely not a technomancer. 
+Instead, it supplies interpretation of key bits of 
+data as colors around the edge of virtual perso-
+nas, leaving it to individual users to interpret what 
+they think those colors mean. The devices work as 
+designed, though the rarity of meeting a techno-
+mancer means that most guards donÆt bother to 
+check every icon to see whether it might be one. 
+Even if they checked regularly, the guards who are 
+issued the device are generally not as technologi-
+cally savvy as a decker, and they might well fail to 
+interpret the colors correctly. Even so, if this tech-
+nology becomes more widespread, it will get sig-
+nificantly harder for technomancers to hide.
+SAEDER-KRUPP  
+LAST CHANCE LINK
+Saeder-Krupp has a decent share of corporate 
+executives who have been involuntarily recruited 
+by opposing corporations. Sometimes the targets 
+of an extraction are more willing to leave than it 
+might first appear, but in cases where it truly hap-
+pens against the execÆs will, Saeder-Krupp has 
+provided the Last Chance Link. 
+Almost impossible to detect when inactive, the 
+Last Chance Link is contained in a plastic sheet that 
+sits in the nasal cavity. Usually turned off, it can be 
+activated by means of a plastic strip that reaches 
+down the throat. ItÆs generally easy to conceal the 
+activation as 
+
+==== 73 ====
+MOBILE CNC
+This piece of software is designed to help com-
+manders coordinate and communicate with 
+multiple PI-Tac systems in large operations by 
+enhancing overall communications. This enables 
+the overall field or operational commanders to 
+assist the users of other networks, usually run by 
+subordinates, with various tasks and objectives 
+directly through the linked network. 
+SHIELD WALL
+This is a simple app that adds layers of benign, 
+shifting ôjunk codeö that an opposed hacker must 
+get through in order to reach the PI-Tac and linked 
+cyberdeck; thereby creating additional layers of 
+defenses against attack. 
+PI-TAC ACCESSORIES
+PANTHEON INDUSTRIES 
+TACTICAL PROGRAM DONGLE
+With modern combat being dynamic and fluid, 
+PI-Tac operators canÆt plan for every contingency 
+and run all the appropriate tac-apps. Pantheon re-
+alized this and created a specialized tactical pro-
+gram dongle that allows operators to run one ad-
+ditional tac-app, beyond the usual number that a 
+Pi-Tac master unit can load (Level + 2). The dongle 
+also allows the Pi-Tac operator to rapidly unload a 
+running tac-app and load a new one from storage 
+using a Free Action instead of a Simple Action, as 
+if reconfiguring a cyberdeck (p. 228, SR5). A PI-
+TAC unit can only accept one dongle. Switching 
+out tactical programs in combat requires a Simple 
+Action. Placing additional tactical programs on a 
+dongle requires a Software + Logic [Mental] (re-
+maining number of program slots on dongle) Test. 
+PANTHEON INDUSTRIES  
+HARD CASE CCOB 
+(COMBAT COMMUNICATIONS  
+AND OPERATIONS BACKPACK)
+Modern electronics such as cyberdecks and RCCs 
+are extremely valuable pieces of equipment, and 
+they are equally vulnerable in a combat situation, 
+especially when used on the front lines or ab-
+sent cover. Based on the
+
+==== 74 ====
+in Cincinnati, Ohio, UCAS. From what IÆve heard, they do 
+solid if not spectacular work. 
+>	
+Red Anya
+>	
+Nice piece of gear, but is it really a good idea for any 
+deckerùor rigger, for that matterùto go full VR in the 
+middle of a firefight? No thanks, not for me. 
+>	
+Pistons 
+SPINRAD GLOBAL/ 
+PANTHEON INDUSTRIES 
+MERCURY-ALPHA BATTLEFIELD 
+SIGNAL BOOSTER 
+On the wireless battlefields of the Sixth World, 
+electronic warfare has greater significance than 
+ever before. Cutting off or limiting an enemyÆs 
+ability to communicate while maintaining oneÆs 
+own is often a decisive factor in victory. The Mer-
+cury-Alpha Signal Booster is designed to give PI-
+Tac users/operators and their commanders addi-
+tional advantages during combat or for normal 
+use in remote areas. 
+The Mercury-Alpha consists of three compo-
+nents: a main unit (or brain) that contains all neces-
+sary hardware, software, batteries, and data ports; 
+a foldable/detachable micro-dish transmitter; and 
+an optional, hardened fiber-optic cable that can 
+directly link the brain and transmitter together. 
+The brain weighs only about 450g and comes in 
+a variety of shapes, depending on the userÆs pref-
+erence. It attaches directly to a PI-Tac master unit, 
+commlink, cyberdeck, or RCC. 
+When in use, the Mercury-Alpha has three dis-
+tinct modes. The first is passive mode, which is 
+specifically designed to overcome most normal 
+obstacles, such as extreme distance or natural ob-
+OPTIONAL RULE: SURPLUS OR REFURBISHED PI-TAC UNITS
+Arguably one of the most useful (and expensive) pieces of 
+battlefield technology out there, PI-TacÆs are coveted pieces of 
+equipment. Since their introduction years ago, the market for 
+surplus or refurbished units is at an all-time high. But, like any 
+secondhand piece of equipment, getting 
+
+==== 75 ====
+structions. The second is active or defensive mode, 
+which is used as an electronic counter-counter-
+measure against enemy electronic warfare attacks, 
+giving the defending PI-Tac operator bonuses. The 
+third, called aggressive mode, is when a PI-Tac 
+operator (in conjunction with appropriate equip-
+ment) uses the Mercury-AlphaÆs broadcasting 
+power to enhance an Electronic Warfare attack.
+>	
+Details are still hush-hush, but what IÆve been able to dig 
+up is that Pantheon agreed to license the design and the 
+operating system code in exchange for SG manufacturing. 
+And of course, some corps are not happy about this. 
+>	
+Pistons
+>	
+Of course not, since someone who is not them is making 
+money off their products! Only a matter of time before 
+someone goes after Pantheon. If they can find them. 
+>	
+Mr. Bonds
+PANTHEON INDUSTRIES 
+ôMERCURY-ALPHAö 
+BATTLEFIELD SIGNAL BOOSTER
+DR
+AVAIL
+COST
+5
+12R
+3,500Ñ
+Rules: Can only be used in one mode at a time; switching 
+modes is a Simple Action. In passive mode, provides a +4 dice pool 
+bonus against all sources of noise and doubles effective range. 
+In defensive and aggressive modes, provides +2 for pertinent 
+Electronic Warfare tests. Linked PI-Tac units can also distribute 
+some or all of their +2 bonuses to assist other operators without 
+a teamwork test; this requires a Simple Action. All functions and 
+bonuses are cumulative with tactical programs and associated 
+devices such as satellite links and re-trans units. 
+PANTHEON INDUSTRIES 
+MICRO-DISH TRANSMITTER
+AVAIL
+COST
+10R
+1,200Ñ
+>> KILL CODE <<
+74    DIPS & CHIPS >>
+CYBERDECKS EX-SERIES
+DECK
+COST
+AVAIL
+Deck Rating
+(Deck Rating x 2)R 
+Rating x 10,000Ñ
+Attack
+ù
+Rating^3 x 500Ñ
+Sleaze
+ù
+Rating^2 x 500Ñ
+Data Processing
+ù
+Rating^2 x 500Ñ
+Firewall
+(Rating x 4)R
+Rating^3 x 500Ñ
+AMMO
+TYPE
+
+==== 76 ====
+>> KILL CODE <<
+SECURITY CYBERDECKS
+MODEL
+RATING
+ATT
+SLEAZE
+DATA 
+PROC.
+FIRE-
+WALL
+AVAIL
+COST
+Guard
+2
+3
+1
+2
+4
+3R
+39,000Ñ
+Programs: Encryption
+Shield
+4
+4
+1
+3
+5
+6R
+98,000Ñ
+Programs: Encryption, Shell
+Fortress
+6
+6
+1
+5
+8
+9R
+377,000Ñ
+Programs: Encryption, Shell, Armor
+Great Wall
+8
+8
+1
+6
+10
+12R
+774,000Ñ
+Programs: Encryption, Shell, Armor, Biofeedback Filter
+HUNTER CYBERDECKS
+MODEL
+RATING
+ATT
+SLEAZE
+DATA 
+PROC.
+FIRE-
+WALL
+AVAIL
+COST
+Fox
+2
+4
+1
+3
+4
+4R
+68,500Ñ
+Programs: Track, Shell, Hammer
+Wolf
+4
+5
+1
+4
+5
+8R
+133,000Ñ
+Programs: Track, Shell, Hammer, Decryption
+Tiger
+6
+8
+1
+6
+8
+12R
+530,000Ñ
+Programs: Track, Shell, Hammer, Decryption, Hammer
+Shark
+8
+10
+1
+8
+10
+16R
+1,032,000Ñ
+Programs: Track, Shell, Hammer, Decryption, Hammer, Mugger, Fork
+MISC. CYBERDECKS
+MODEL
+RATING
+ATTRIBUTE 
+ARRAY
+PROGRAMS
+AVAIL
+COST
+Shadow Warrior
+3
+6 5 4 3
+3 
+10R 
+225,000Ñ
+Sublime
+4 
+7 6 5 5 
+4 
+12R 
+375,000Ñ
+Destiny Blade
+4
+7 6 5 5 
+4
+12R
+400,000Ñ
+Defender 
+5 
+8 7 5 5 
+5 
+14R
+560,000Ñ
+Sleeper 
+4 
+7 5 5 4 
+4 
+14F 
+375,000Ñ
+COMMLINKS & RCC
+GEAR
+RATING
+DATA PROC.
+FIREWALL
+AVAIL
+COST
+Cyber-6RCC
+5
+5
+5
+12R
+72,000Ñ
+Skirmisher
+4
+5
+5
+8R
+50,000Ñ
+Last Chance
+3
+3
+3
+11
+5,000Ñ
+Frequency
+4
+4
+4
+10
+3,500Ñ
+Flow
+5
+5
+5
+12
+4,000Ñ
+MISC. ITEMS
+ITEM
+AVAIL
+COST
+Booster Chips
+   Attack Booster
+ù
+Rating x 50Ñ
+   Sleaze Booster
+ù
+Rating x 50Ñ
+Data Processing 
+Booster
+ù
+Rating x 50Ñ
+   Firewall Booster
+ù
+Rating x 50Ñ
+Armor Defeating
+(Rating x 4)R
+Rating x 250Ñ
+Slick Willy
+(Rating x 4)R
+Rating x 250Ñ
+Data Dynamo
+(Rating x 4)R
+Rating x 250Ñ
+Fortified
+(Rating x 4)R
+Rating x 250Ñ
+Booster Cloud
+   Brute Force
+6R
+250Ñ
+   Control Device
+6R
+200Ñ
+   Crack File
+6R
+150Ñ
+   Crash Program
+6R
+150Ñ
+   Data Spike
+8R
+300Ñ
+   Edit File
+ù
+150Ñ
+   Erase Mark
+6R
+150Ñ
+   Hack on the Fly
+6R
+250Ñ
+   Hide
+6R
+150Ñ
+   Jam Signals
+6R
+150Ñ
+   Matrix Perception
+ù
+100Ñ
+
+

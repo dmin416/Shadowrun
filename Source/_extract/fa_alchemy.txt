@@ -1,0 +1,1437 @@
+
+===== PDF PAGE IDX 186 =====
+Mixing magic and technology can bring great 
+rewards. Ask any spell slinger if they haven’t con-
+sidered an upgrade to their senses or body, and 
+they will tell you the same thing. Sometimes it’s 
+worth the damage, but it better be important. In-
+corporating technology into the body of a magi-
+cian or adept affects their Essence, the source of 
+their magic. The more extensive the cyberware, 
+the deeper the impact on the Essence of the ma-
+gician or adept. While the more cutting edge and 
+expensive versions of cyberware, or even bioware, 
+can mitigate this damage, nothing can ever elim-
+inate it completely. The same holds true for the 
+effect of magic on technology. The more magic in 
+an area, the more ambient noise. This can, in some 
+instances, impact how technology works, making 
+it more difficult to access the Matrix. 
+Alchemists are unfortunate in that they suffer 
+in both these instances. Heavy use of magic can 
+affect the tech they use to enhance their creations, 
+just as too much tech can influence the potency of 
+their creations. As such, they are very careful on 
+what combinations they use. The key seems to be 
+using tech to assist in the creation of their project, 
+or as the target, but rarely both. Tools such as the 
+crucible, vault of ages, or alembic are all examples 
+of ways that clever alchemists have managed to 
+leverage the power of technology to create fast-
+er and more powerful products. By ensuring that 
+each aspect of the process is carefully balanced 
+between magic and technology, powerful effects 
+can be generated at low risk—something every tal-
+ismonger or corporation will agree is always the 
+best solution. The other option is to create magical 
+compounds and preparations that have little tech 
+involved in their creation, instead targeting tech-
+nology itself through machines, the Matrix, or the 
+cyberware of others. This tightrope is hard to walk, 
+but alchemists are always willing to experiment. 
+The risks and rewards of manatech are myri-
+ad. Clever runners will maximize the power while 
+minimizing the cost and risk, something even cor-
+porations can agree is the ultimate strategy. The 
+true power of manatech is the constant progress 
+it inspires. Each blending of magic and technolo-
+gy encourages others to take it to the next step. 
+Go one further. Make it better, faster, or cheaper. 
+The constant need sustains this continuing state of 
+progress to remain one step ahead, staying clear 
+of those who are right behind, waiting for a single 
+mistake. 
+NEW SPELL: ALTER BALLISTICS
+(MANIPULATION, PHYSICAL)
+ Type: P Range: T
+ Duration: I Drain: (F – 2)
+The Alter Ballistics spell is a spell unique to the Alchemical 
+Armorer that allows them to alter the ballistic properties of 
+bullets or add helpful effects like noise reduction. This spell 
+only works as an alchemical preparation that uses a bullet 
+as the lynchpin. Bullets used as a lynchpin may only be fired 
+by Single Shot weapons. The preparation must be activated 
+before it is fired or the lynchpin will be destroyed by firing the 
+bullet. When using a command trigger, a character may choose 
+to activate a single preparation normally (with a Simple Action) 
+or any number of bullets (including all of them) at a time with 
+a Complex Action. When activated, the preparation lasts for a 
+number of minutes equal to the Force of the preparation. When 
+crafting the lynchpin, the character must specify and make a 
+record of the effects they would like the bullet to have, in order, 
+from most desired to least desired. When the preparation is 
+activated, each net hit will add the listed properties to the 
+bullet in the specified order until net hits or the list of chosen 
+effects is exhausted.
+LIST OF EFFECTS
+• Double weapon range (changing all categories of range 
+modifiers).
+• –4 dice pool modifier to Perception tests to notice gunfire.
+• +1 Accuracy.
+• Deformation Resistance: –2 AP , –1 DV. Deformation-
+resistant bullets do not deform when fired or upon impact, 
+which inflicts a –4 dice pool penalty to any Armorer tests 
+to identify the weapon that fired the bullet. Cannot be used 
+with hollow-point ammunition. 
+• Increased Deformation: +2 AP , +1 DV. Cannot be used with APDS.
+• Astral signature fade time reduced by 50 percent.
+• Impact Dispersion: Reduces the Physical limit of a 
+character by 2 when comparing it to the DV to determine 
+knockdown.
+• Frangible: Treat any barrier the ammo hits as if its Armor 
+were twice normal.
+>> FORBIDDEN ARCANA  <<
+186    ADVANCED ALCHEMY >>
+===== PDF PAGE IDX 187 =====
+NEW REAGENTS OF 
+THE SIXTH WORLD 
+Gathering and refining reagents is the staple of 
+the alchemist. Reagents are measured by the spe-
+cific amount required to be equivalent in strength 
+to a dram of orichalcum. For example, a physi-
+cal pound of gris-gris dust from a less-refined 
+reagent might only hold the mystical equivalent 
+of a few drams of orichalcum. With the myriad 
+of traditions and paths different practitioners of 
+magic employ, there is always a high demand for 
+reagents of different styles and types. As many 
+traditions are careful to protect their secrets, a 
+successful alchemist or talismonger seeks to pro-
+vide a vast selection of reagents and takes careful 
+notes about who purchases what. 
+HARVESTING REAGENTS
+Mana flows and pools throughout the Sixth World, 
+creating rich veins where alchemists and talismon-
+gers harvest reagents. Sadly for those aspiring en-
+trepreneurs, the safer and better known the area, 
+the less likely it is to find reagents that are rare or 
+powerful and command the highest prices. This 
+quest to find new locations to harvest has led to 
+the discovery of some rare and exotic ingredients 
+that are just now becoming known to alchemists 
+in the shadows as well as their corporate brethren. 
+OVERHARVESTING REAGENTS
+Once an area has been properly harvested of re-
+agents, it can take forty-eight hours or more for 
+the mana to replenish. Sometimes, though, you 
+need what you need and don’t have time to wait. 
+It’s possible to overharvest a specific area, but it’s 
+a desperate and dangerous maneuver. Overhar -
+vesting has the very real possibility of tainting the 
+area enough to ensure it will never again be able 
+to collect enough mana to enable the creation of 
+viable reagents. This process also taints the alche-
+mist, reducing the quality of any other reagents 
+they may gather for the next forty-eight hours by 
+one full level (Superior to Base, Base to Subpar, 
+and so forth). Talismongers, corporations, and al-
+chemists alike have no tolerance for those who 
+would permanently destroy valuable resources. 
+And chummer, someone is always  watching.
+To harvest a reagent from an already taxed 
+area, make an Alchemy + Magic [Mental] Test. 
+You gather one dram for every 4 hits on this test if 
+you are in an area suited to your tradition, and one 
+dram for every 6 hits if you’re not. Glitching this 
+roll results in the area being totally unsuitable for 
+reagent harvesting for a full week. A critical glitch 
+renders the area permanently dead to the possi-
+bility of gathering reagents. 
+NEW WAYS 
+TO LEVERAGE 
+REAGENTS
+Reagents have more uses than just as a key com-
+ponent for different compounds. The different 
+levels of refinement allow for differing and ad-
+vanced effects depending on their level of so-
+phistication. Below is a list of additional effects 
+UPDATED REAGENT COST AND EFFECTS
+REAGENT COST (PER DRAM) AVAILABILITY EFFECT
+Tainted 20¥ — Increase time to refine by 100 percent
+Inferior 30¥ 1 Increase time to refine by 50 percent
+Subpar 40¥ 4 Increase time to refine by 25 percent
+Baseline 50¥ 6R No change
+Superior 60¥ 14R Reduce time to refine by 25 percent
+Prime 70¥ 20R Reduce time to refine by 50 percent
+Refined Type x 5 +4 See New Ways to Leverage Reagents (below)
+Radical Type x 25 +8 See New Ways to Leverage Reagents (below)
+>> FORBIDDEN ARCANA  <<
+<< ADVANCED ALCHEMY    187
+===== PDF PAGE IDX 188 =====
+that reagents may be used for beyond those list-
+ed in SR5 and Street Grimoire. The total amount of 
+bonus effects may not exceed the user’s Magic 
+rating. Effects from a Radical reagent are not cu-
+mulative with effects from the Refined version of 
+that same reagent.
+RAW REAGENTS
+These reagents are newly harvested or have yet 
+to undergo refinement by an alchemist.
+• Reduce drain by 1 for Ritual Spellcasting tests.
+• Raise the limit by 1 for any tests using Magic.
+• Create refined reagents (requires 10 drams to 
+be refined into a single dram of refined re-
+agent).
+REFINED REAGENTS
+These reagents have undergone the refinement 
+process and have attained a new level of power.
+• Reduce drain by 2 for tests using skills in 
+the Sorcery group.
+• Reduce drain by 1 for binding.
+• Raises limit by 5 for all tests using Magic.
+• Create Magical Compounds (p. 219, Street 
+Grimoire).
+• Create radical reagents (p. 210, Street Gri-
+moire) (requires 10 drams to be refined into 
+a single dram of radical reagent).
+RADICAL REAGENTS
+The most powerful version of a reagent, these 
+have gone through the refinement process twice 
+to reach their maximum potential.
+• Reduces drain by 2 for tests using skills in the 
+Conjuring group.
+• Reduce drain by 4 for tests using skills in the 
+Sorcery group.
+• Reduce object resistance by 1 per dram.
+• No Force limit for any tests using Magic 
+(though Drain is caluclated as normal).
+• Reducing Spirit Index (p. 207, Street Grimoire).
+• Create orichalcum (Requires 10 drams each 
+of the required reagents listed as per (p. 210, 
+Street Grimoire).
+• Create fetish (p. 212, Street Grimoire).
+• Create inanimate vessel (p. 214, Street Gri-
+moire).
+NEW RARE 
+REAGENTS
+The reagents detailed in this section are consid-
+ered rare and difficult to harvest. They are almost 
+universally usable by different traditions and are 
+in high demand. Their purity of mana makes them 
+desirable, as the smallest amount can go a long 
+way. They are also useful in several new com-
+pounds that have been invented to make use of 
+the qualities inherent in each. Even the lowest 
+quality of these are considered superior reagents. 
+The danger in their acquisition can be high, but 
+there are many who are willing to do far more for 
+a few nuyen. 
+REAGENT:  
+BONE OR HAIR FROM  
+A BAOBHAN SITH
+Known as the White Women, the baobhan sith 
+are fae with deep ties to myth and legend (p. 1 14, 
+Court of Shadows). Some believe they are the pro-
+genitors of the first vampires as the source of the 
+human metahuman vampiric virus. Others claim 
+they are the source of the tales of nymphs and si-
+rens that lure men to their deaths with their beau-
+ty. The baobhan sith appear as hauntingly beauti-
+ful women with the terrifying power to alter their 
+very bones into rending talons and razor-sharp 
+teeth. These monsters live off humanoid blood 
+and inflict a strange euphoria in their victims, cre-
+ating an addiction to being their prey. 
+Restored access to the Sixth World through the 
+metaplanes has freed the baobhan to once more 
+hunt the mortal plane. A hunter, however, may 
+find themselves prey if they are not careful, as the 
+runners in the shadows are no easy meat. Prey 
+alone is not the only reason the baobhan have 
+returned to the mortal plane of the Sixth World. 
+Status within their kind is based upon a meritoc-
+racy. Providing the most use to the whole earns 
+value. In the course of hunting for sustenance, a 
+White Woman may also be seeking to extend her 
+personal network of spies and informants or gain 
+access to a new and valuable skill that would in-
+crease her worth or standing back home.
+Once properly refined, the bone or hair from a 
+baobhan sith
+ serves as a primary reagent for com-
+pounds and preparations that could enhance re-
+generation and heal physical wounds, or become 
+>> FORBIDDEN ARCANA  <<
+188    ADVANCED ALCHEMY >>
+===== PDF PAGE IDX 189 =====
+a tenacious poison that damages not just the body, 
+but also one’s ability to wield magic. 
+REAGENT:  
+DROP BEAR SALIVA
+The mass of jet-black fur and razor sharp teeth 
+known as the drop bear (p. 60, Howling Shad-
+ows) is a form of Awakened koala. Known car -
+riers of HMHVV II, these omnivorous predators 
+are currently on the bounty list all over the Out-
+back and other areas of Oceania. While they are 
+able to survive on their preferred food source of 
+eucalyptus, they are ambush predators that are 
+always looking for a way to add easy meat to 
+their diet. 
+Outside of captivity, drop bears are found pri-
+marily in the outback of Australia, as well as in 
+forested areas of New Guinea. Recently, some 
+zoos and corporations have begun importing or 
+breeding the beasts, making it possible to find 
+them in other areas, though under very difficult 
+circumstances due to both the bounty and their 
+innate ferocity. Recent discoveries on the al-
+chemical uses of their saliva may rectify this situ-
+ation swiftly, assuming a synthetic can’t be man-
+ufactured first. 
+Alchemically, drop bear saliva has become in-
+credibly popular. A corporate researcher discov -
+ered by accident the ability to refine the saliva and 
+create a serum that inhibits the continuing mu-
+tation of HMHVV II. While it does not serve as a 
+cure, it stops any progress of the virus as long as 
+the serum is administered on a weekly basis. This 
+serum is not generally known to the public yet, but 
+the black market has erupted with the formula for 
+the creation of the compound, and many willing 
+test subjects have come forward. Other uses for 
+this reagent have been explored but are uncon-
+firmed at this time. 
+>> FORBIDDEN ARCANA  <<
+<< ADVANCED ALCHEMY    189
+===== PDF PAGE IDX 190 =====
+REAGENT: GHOST  
+ORCHID PETALS
+Ghost orchids are a particularly rare breed of orchid. 
+They bloom at night by the light of the moon, and the 
+white coloration gives them an otherworldly glow. 
+Researchers into these matters agree that the very 
+rarity of the flower makes it a natural accumulator of 
+mana. When combined with the ambient mana of 
+the Sixth World, this allows these delicate flowers to 
+take on powerful characteristics when properly pro-
+cessed and refined by a skilled alchemist. 
+Ghost orchids are most commonly found deep 
+within forested areas. They need exposure to direct 
+moonlight to bloom, so they are difficult to obtain 
+in the first place. There has been some limited suc-
+cess in cultivating the flower in greenhouses and 
+such, but the ambient mana must be high in order 
+for them to develop and thrive. Most commonly 
+found in the UCAS areas, their very rarity is part of 
+what makes them such a potent reagent. 
+When properly refined, ghost orchid petals 
+are powerful reagents that are added into com-
+pounds and preparations designed to enhance 
+vision-based perception. They also may be further 
+refined into radical reagents that can allow for in-
+creased duration in the astral plane and enhancing 
+one’s Charisma. 
+REAGENT: GROUND 
+KILLDEER ANTLERS
+Killdeer (p. 97, Howling Shadows) were original-
+ly mutated whitetail deer that now breed true 
+as their own unique strain. At first glance, they 
+look similar to their original stock. The primary 
+differences are the sharpened antler tips for gor -
+ing prey and the elongated muzzle that contains 
+sharp teeth for rending and tearing meat. These 
+hardy creatures are omnivores, though unlike 
+their whitetail predecessors, they subsist pri-
+marily on meat and supplement with vegetation 
+when hunting is poor. 
+This species came into being after radiation mu-
+tated the whitetail population in and around the 
+suburbs of Chicago. From there, they have spread 
+to cover entire swathes of the CAS and UCAS, as 
+well as parts of the NAN. Their omnivorous nature 
+makes them strong survivors in most environments. 
+They tend to breed swiftly and are constantly ex-
+panding their territory, pushing out the whitetail 
+herds that provide an unwitting camouflage. 
+Killdeer are sturdy beasts, and alchemists have 
+found many ways to distill that nature into various 
+compounds. Killdeer antlers in particular are po-
+tent aids in healing, regeneration, and toxin-resis-
+tance compounds. They may also be used in poi-
+sons to sap these very characteristics, weakening 
+targets or doing them injury. The rarity of this in-
+gredient is reflected by the difficulty of obtaining 
+the correct type of antler, which is challenging to 
+distinguish from the whitetail, and as such, easily 
+counterfeited. 
+REAGENT: KAYERI 
+MUSHROOM
+Deep within the forests of Tír na nÓg dwell a pe-
+culiar faerie known as the kayeri (p. 121, Court of 
+Shadows). They are guardians and nurturers of the 
+forest, along with the plants and animals within 
+it. Resembling giant rabbits with extended jaws, 
+carnivorous teeth, and mushrooms growing from 
+their skulls, the kayeri are fierce protectors of 
+their vegetative homes and require any outsiders 
+who wish to access their lands to negotiate for 
+the privilege. 
+There are only two places one may find a kayeri. 
+Their natural habitat within the forests of Tír na nÓg 
+or select aspected domains of the Sixth World while 
+they hunt down those who have desecrated their 
+protected charges or one of their kin. The second is 
+rather uncommon, as no kayeri wishes to leave its 
+charge or community for very long. It takes an act 
+of desecration or a desire for revenge to lure these 
+protectors from the forests. Once removed, they are 
+fiercely devoted to achieving their goal and return-
+ing as swiftly as possible back to their home plane.
+Kayeri mushrooms, once refined, are potent 
+curatives for toxins, poisons, or diseases. Their 
+healing properties are some of the most powerful 
+available for alchemists to distill due to their in-
+herent prime quality. While there is danger during 
+the refinement process, the possible benefits that 
+come from these curatives has outweighed the 
+risk of vengeful rabbit fae descending upon the 
+mortal plane. For now. 
+NEW EXOTIC 
+REAGENTS
+The reagents detailed in this section are consid-
+ered some of the most dangerous and difficult 
+>> FORBIDDEN ARCANA  <<
+190    ADVANCED ALCHEMY >>
+===== PDF PAGE IDX 191 =====
+to acquire. They are powerful items that can be 
+used by nearly every known tradition. Due to 
+their inherent flexibility, they are highly sought 
+after and usually quite expensive. Many of them 
+serve as required reagents in some of the more 
+powerful or rare compounds and preparations an 
+alchemist can learn. Only the most adventurous 
+or powerful can harvest these items, as not only 
+are they difficult to find but also deadly to claim.
+REAGENT: DRAKE SCALES
+Drakes (p. 162, Howling Shadows) are powerful 
+metahumans, either born as such or possessing 
+the latent ability to transform. These creatures are 
+the preferred minions of dragons, and most are 
+bound to one or another as servants to the mighty 
+beasts. They do have other uses however, and not 
+merely to themselves. Alchemists and other magi-
+cians have found that the different types of drake 
+share a unique property. Their bodies are natural 
+mana accumulators. This facility with mana makes 
+the scales of a drake particularly potent reagents 
+when properly harvested and refined. However, 
+their sympathetic connection makes few drakes 
+willing to part with their scales. 
+Wherever you find a dragon, chances are you 
+will find at least a few drake servants. This is, how-
+ever, an incredibly dangerous way of finding har -
+vestable reagents. More common are those who 
+manage to identify lairs of unbound drakes or are 
+lucky enough to clean up after confrontations. 
+Both scenarios offer a somewhat safer avenue to 
+harvest the valuable scales. 
+Due to the different nature of each species of 
+drake, their scales have been put to many varied 
+uses once refined. Different traditions find vary -
+ing degrees of synergy dependent on the breed 
+of drake from which the scales originated. All 
+agree they are powerful mana accumulators, and 
+as such, their quality is never less than superior. A 
+notable exception is that any breed of drake scale 
+is useable in the compound formula recently un-
+covered to combat the physical damage of drain. 
+Predictably, demand for these items has skyrock -
+eted in the magical community and black market. 
+REAGENT: ORGAN OF 
+INSECT SPIRIT HOST
+The rise of the bug spirits and their shamans mak-
+ing deeper inroads into the Sixth World has not 
+been totally without benefit. Alchemists have dis-
+covered that the organs of a host of one of these 
+spirits can be a powerful reagent in many types of 
+compounds and preparations. The otherworldly 
+mana within them makes them excellent alchem-
+ical agents. Viable even after the death of the 
+host, different organs that have been subjected 
+to the mana of these spirits take on interesting 
+alchemical properties.
+Chicago is still considered a hotbed of insect 
+spirit activity, making it one of the most likely 
+places to obtain an infected host, living or dead. 
+The spread of these spirits has made it possible 
+to find them in other areas as well. The corrupted 
+mana of these spirits seems to linger after death, 
+and grave robbing has been on the rise as indus-
+trious alchemists follow the age-old adage of 
+waste not, want not. 
+The most potent use for this reagent is the al-
+chemical compound that bonds the spirit and 
+body of the astral traveler in such a way as to in-
+crease their ability to manifest themselves. Other 
+alchemical preparations and formulas that focus 
+on travel or communication have also benefited 
+by the use of these organs steeped in the mana of 
+spirits from another plane. 
+REAGENT: VEINS  
+OF AN ADEPT
+At the core of any type of reagent is its natural 
+ability to accumulate and store mana. As such, 
+some dark tradition alchemists have begun to ex-
+periment with the body parts of those known to 
+be a conduit for mana. Thus was born the formula 
+that uses the veins of an adept to negate the risk 
+of drain. Whether from grave robbing or harvest-
+ing from captives, this reagent has tempted even 
+the most noble due to the raw power granted 
+by the compounds and alchemical mixtures that 
+make use of them. 
+Adepts may be found all over the Sixth World 
+and some other planes that connect to it. Finding 
+one already slain, or harvesting the veins from one 
+still living, is another matter altogether. The adept 
+community finds the rise in demand for their body 
+parts for alchemical experimentation abhorrent. 
+They actively seek out those who would use such 
+things for their own particular brand of revenge. 
+This particular reagent is often harvested by 
+those of dark traditions, enterprising talismon-
+gers who have made quite the tidy profit in selling 
+compounds without mentioning the ingredients 
+>> FORBIDDEN ARCANA  <<
+<< ADVANCED ALCHEMY    191
+===== PDF PAGE IDX 192 =====
+they contain. Many care more about the effect 
+than where it comes from. There are rumors that if 
+the veins of an adept provide such a powerful re-
+agent, perhaps other mana-wielding entities may 
+have similar benefits, but alchemists are rarely will-
+ing to encourage that line of thought. 
+ALTERNATIVE USES 
+FOR ORICHALCUM
+Orichalcum is the professional standard across 
+all magical traditions for reagents. This rare ma-
+terial appears as an ethereal golden-orange col-
+ored metal with the malleability of tin, and it can’t 
+exist without the presence of magic. During the 
+passage of Halley’s Comet, there were reports of 
+orichalcum found by miners, alchemists, and re-
+searchers. Since 2061, this phenomenon has nev-
+er been repeated. The only reliable means to har -
+vest orichalcum is for an alchemist to refine ten 
+drams of gold, ten of copper, and ten of cinnabar 
+in a laborious process that takes twenty-eight 
+days to complete a single dram of orichalcum.
+Orichalcum is commonly leveraged to supple-
+ment power within a compound or preparation. It 
+is universally compatible with any tradition, and as 
+such, is ultimately useful for any alchemist or talis-
+monger. Alchemists have experimented with this 
+potent reagent since the dawn of the Sixth World 
+and have uncovered many uses for it.
+A single dram of orichalcum may be used to re-
+place the need for any other specific reagent for 
+a compound or alchemical preparation. Once the 
+orichalcum has been created, an alchemist may 
+now refine that dram further, to change and aug-
+ment the aura to mimic another specific reagent. 
+For example, when creating the poison known as 
+Lot’s Curse (p. 220, Street Grimoire), a properly pre-
+pared dram of orichalcum may be substituted for 
+the normally required refined Gomorrah apple. An 
+alchemist must have previously sensed the aura to 
+be mimicked at least once in order to successfully 
+transmute the aura of the orichalcum.
+Orichalcum is such a strong conductor of mana 
+that it may be used to enhance the effect of prepara-
+tions. Any preparation that has a dram of orichalcum 
+used within its creation retains full power for Potency 
+x 3 hours, instead of the standard Potency x 2, be-
+fore it begins to degrade. When used in the creation 
+of items (other than compounds and the creation of 
+reagents), orichalcum can reduce the object resis-
+tance by 4 for any Enchanting test. It can also en-
+hance the magnitude of any Sorcery test by increas-
+ing the Magic rating by 5. No matter the use, adding 
+orichalcum removes any Force limit involved, prov-
+ing by this alone its incredible potency and value. 
+NEW ALCHEMICAL 
+TOOLS 
+The lore of alchemy conjures images of bubbling 
+beakers and strange apparatus that once facili-
+tated failed attempts to recreate magic during 
+the Fifth World. Some of these tools have been 
+THE PHILOSOPHER’S STONE
+Rumor, lore, and conspiracy theorists insist that there’s an 
+alternative method of harvesting orichalcum. Behind closed 
+doors, they speculate that this is the true meaning of what 
+was known as the Philosopher’s Stone. The oft-told tales of 
+turning lead into gold were merely allegory of harvesting the 
+true “gold” of all reagents—orichalcum. None have been 
+willing or able to confirm its existence directly, but legend 
+holds a talented alchemist can discern the scent of the refined 
+orichalcum via the Philosopher’s Stone. Some say that the 
+material somehow feels like pure mana. Others say it smells of 
+roses. Ancient stories also say that the Philosopher’s Stone is 
+not found but made with exotic reagents and formula lost to the 
+ages. Whether it is a secret rediscovered from the annals of 
+the ancient past or an artifact recovered from some unknown 
+tomb, none can be truly sure.
+The legendary Philosopher’s Stone grants the possessor 
+virtually unlimited access to orichalcum by reducing the time and 
+materials necessary to refine a dram. It is said that instead of ten 
+of each ingredient as in the normal refinement of orichalcum, 
+only a single dram of each is needed. If true, an alchemist could 
+create ten times the normal amount of orichalcum in a single 
+session. Unlimited riches for the lucky possessor, assuming they 
+could remain in possession of such an artifact long enough to 
+make their fortune. If such an artifact exists, it remains a closely 
+guarded secret by necessity, as there’s not an alchemist in the 
+world who wouldn’t kill to possess it.
+>> FORBIDDEN ARCANA  <<
+192    ADVANCED ALCHEMY >>
+===== PDF PAGE IDX 193 =====
+reinvented and repurposed in the Sixth World to 
+help push the boundaries of alchemy. While the 
+list below is not exhaustive, as additional tools 
+are developed every day, several stand out in the 
+field. Corporations and runners alike continue to 
+develop any advantage they can to facilitate not 
+just profit, but survival, within the Sixth World. 
+ATOMIZER
+Developed during the early resurgence of alchemy 
+as a practice, the atomizer is more a delivery device 
+than it is an actual tool. The key to this device lies 
+in its ability to take solid or liquid compounds and 
+break them down into an aerosol spray without any 
+loss in power or effect. This enables both healing 
+and poison effects that would normally be com-
+mand triggered to be created as contact triggers 
+while retaining efficacy. The nature of the atomizer 
+itself keeps contact with the device from activat-
+ing the contact trigger. This enables the atomizer 
+to spray out its payload which will then activate 
+upon contact. Rumors exist about atomizers that 
+may hold more than one compound “cartridge” at 
+a time, though none can verify the truth of them. 
+Effect: One compound may be converted from 
+a solid or liquid into an aerosol when inserted into 
+the atomizer. Compounds made with a contact 
+trigger are not enacted until they contact a sub-
+stance after being fired from the atomizer. Atom-
+izers can be used to make a ranged attack with a 
+maximum range of three meters. 
+Price: 500 nuyen for the atomizer itself, 5 nuy-
+en for an empty cartridge
+ALEMBIC
+The original distillery, the term “alembic” en-
+compasses all three pieces required for the dis-
+tilling process. Alchemists may use this device 
+to increase the potency of the product their re-
+agents produce. By distilling down to the im-
+portant essence, more refined reagents are pro-
+duced during the process from the same original 
+amount of base ingredient. As such, the standard 
+ten drams of reagent will produce two drams of 
+refined, instead of one. The same process applies 
+to further enhancement of refined reagents into 
+radicals at the same ratio. 
+Effect: Using an alembic during the refinement 
+process doubles the amount of refined or radical 
+reagents created. 
+Price: 3,000 nuyen
+ATHANOR
+An athanor is a furnace used in the alchemical re-
+finement process. It provides a constant rate of 
+heat vital to the successful creation of refined and 
+radical reagents. New technologies have allowed 
+for the perfection of this device, a rare case where 
+technology benefits the magical rather than hin-
+ders it. An athanor provides a strong and consis-
+tent flame that requires little maintenance. This 
+allows an alchemist to spend more time on other 
+projects without having to constantly attend to 
+other reagents they are refining. 
+Effect: An athanor grants the alchemist leeway 
+in the refinement and circulation process. During 
+the refinement process of standard reagents, an 
+alchemist may step away for up to one hour during 
+the ten-hour process without ill effect. When un-
+dergoing the month-long process of creating 
+orichalcum, an alchemist may check on the refine-
+ment process once every twelve hours, instead of 
+every ten. 
+Price: 1,000 nuyen
+CRUCIBLE
+No matter how careful the alchemist, there are 
+times when reagents become corrupted, or when 
+the reagents are lower quality than desired. The 
+crucible was reintroduced to alchemy to combat 
+this effect. Careful use of this device can allow an 
+alchemist to steam away the impurities found in 
+some reagents and increase their potency. There 
+are limits of course, and a crucible can’t be ex-
+pected to perform miracles. It can, however, al-
+low a canny talismonger who is willing to take 
+the time and effort to vastly increase their profit 
+margin. By buying less desirable reagents and re-
+fining them with a crucible, they can scrape every 
+nuyen possible out of a sale. 
+Effect: By using a crucible, an alchemist may 
+upgrade the quality of a reagent one step. This 
+takes the same amount of time as a standard re-
+finement cycle of ten hours. A reagent may be 
+upgraded from superior to prime in this manner, 
+but it may not be enhanced any further than prime 
+quality. 
+Price: 500 nuyen
+VAULT OF AGES
+The “vault of ages” is the most common name 
+for this relatively recent innovation. Taken from 
+the habit of secretive alchemists who hide their 
+>> FORBIDDEN ARCANA  <<
+<< ADVANCED ALCHEMY    193
+===== PDF PAGE IDX 194 =====
+formulas and creations in secret vaults covered 
+in traps, the preservative nature of this item 
+gives it the name. First invented by a talismonger 
+skilled in alchemy, the vault of ages helps miti-
+gate the greatest flaw in crafted items. From the 
+moment of creation, alchemical compounds and 
+preparations begin to degrade. Dependent on 
+the strength of the creator, they can quickly be-
+come useless if too much time passes, becoming 
+a massive waste of resources and time. The vault 
+stabilizes alchemical creations, halting the degra-
+dation process for the duration of time it remains 
+within the vault. 
+Effect: A vault of ages may store a number of 
+alchemical compounds or preparations equal to 
+twice the Magic rating of its creator. The Rating of 
+these items cannot be more than twice the rating 
+of the vault. While within the confines of the vault, 
+these items do not degrade. The degradation 
+clock starts ticking as soon as they are removed. 
+Price: 2,000 nuyen per Magic Rating to a 
+max of 5
+NEW COMPOUNDS 
+Alchemy is a constantly evolving field of mysti-
+cal study as practitioners, from solo magicians 
+to teams of corporate researchers, experiment 
+and explore new uses for reagents. Their ultimate 
+goal is to discover new compounds that will make 
+them rich, famous, and/or powerful. Many who 
+make such a discovery hoard their knowledge 
+to corner the market and maximize their profits. 
+There are also those who seek to reverse-engi-
+neer the newest fad, analyzing a compound and 
+taking it apart to find how it was made. Whether it 
+is undercutting a rival or finding new and cheaper 
+ways to produce the compound, any talismonger 
+worth their salt always has their ear to the ground 
+for the newest creation. 
+Persistent runners can find talismongers willing 
+to sell some of these compounds, but it’s neither 
+easy nor cheap—due to the time it takes to cre-
+ate them versus the time they last before potency 
+runs out, these compounds are not exactly sitting 
+on store shelves. Still, runners are known for hav -
+ing contacts who might have unlikely items, and 
+sometimes a talismonger friend might just have 
+the item on hand that can provide important assis-
+tance to a runner team.
+The lack of a standard market for these items 
+leads to a lack of standard pricing. Still, there is a 
+baseline to consider, and it looks like this: [(Force 
+of spell involved) + (Current Potency)] x 500¥. 
+Another factor that might raise the price is wheth-
+er there is a current scarcity of required reagents 
+(either globally or locally). Base availability for 
+all compounds is 14R. Creating alchemical com-
+pounds requires advanced alchemy metamagic 
+(p. 153, Street Grimoire).
+ALCHEMICAL DUCT TAPE
+Few things have endeared alchemists to riggers 
+and deckers more than the creation of this com-
+pound. While on a run, there is never enough 
+time to repair a damaged vehicle or drone to per-
+fection. Sometimes you just need to get it work -
+ing and get moving. That’s where alchemical duct 
+tape comes in. By slapping this on and activating 
+the compound, complex repairs can be achieved 
+in an instant. Use of this compound is the only 
+magical repair possible, after which more mun-
+dane efforts are required to fix the machine.
+• Trigger: Command
+• Effect: When activated, this compound 
+magically repairs a non-living target. Each 
+hit upon activation repairs one point of 
+structure or one box of damage, as per the 
+spell Fix (p. 1 16, Street Grimoire).
+• Aftereffect: Stunned side effect
+• Required Reagent: Refined mallard fat
+ASTRAL INCREASE 
+The limits on a magician’s ability to manifest 
+can seriously threaten the success of a run. Al-
+chemists have finally created a solution for this 
+problem thanks to the rediscovery of the ghost 
+orchid. These ethereal flower petals enhance the 
+magician within the astral plane. The careful and 
+ALCHEMICAL TOOLS
+ITEM COST AVAILABILITY
+Atomizer 500¥ 4
+     Cartridge 5¥ 2
+Athanor 1,000¥ 4
+Crucible 500 2
+Vault of ages 2,000 x Rating (Rating +4)R
+>> FORBIDDEN ARCANA  <<
+194    ADVANCED ALCHEMY >>
+===== PDF PAGE IDX 195 =====
+repeated refinement imbues the user with that 
+dual nature, enhancing their physical and ethe-
+real nature at the same time. Ghost orchids are 
+incredibly difficult to cultivate outside of the wild. 
+Doing so requires a level of care and concern that 
+few are willing to put forth. Ghost orchids are 
+most potent when harvested under the light of a 
+full moon, especially in spots where the light may 
+reach the petals unimpeded. 
+• Trigger: Contact
+• Effect: Once ingested, this compound dou-
+bles the amount of time a magician may re-
+main manifested while in astral projection.
+• Aftereffect: Winded side effect
+• Required Reagent: Radical ghost orchid 
+petals.
+ASTRAL BOND
+Normally the bond between body and soul is not 
+strong enough to invoke other prepared items in 
+the alchemist arsenal. This compound resolves 
+that issue, reinforcing that bond and allowing 
+mana to flow to the prepared items. This com-
+pound mystically encases that elusive connect-
+ing silver cord in steel, conveying a stronger bond 
+between body and soul while inhibiting neither. 
+While under the effect of this compound, many 
+users have spoken of the ease of travel and re-
+sponse while astral, almost as if their body itself 
+was there instead of just their soul. 
+• Trigger: Contact
+• Effect: While this compound lasts, the 
+bond between body and astral form is 
+much stronger. While manifesting, the tar -
+get may activate command triggers. 
+• Aftereffect: Can’t Speak side effect
+• Required Reagent: Refined organ from in-
+sect host.
+BAOBHAN’S TEARS
+The worst nightmare of many a magician, bao-
+bhan’s tears is a contact poison that deals dam-
+age to the body as well as to the ability to shape 
+mana. While this compound does not share the 
+addictive qualities of the real kiss, the blend of 
+euphoria remains, even while at odds with the 
+damage it inflicts on the body. 
+• Trigger: Contact
+• Effect: Upon contact with the skin or in-
+halation, this poison deals 4P damage that 
+may only be resisted by Body. If any dam-
+age is not resisted, the target also loses 1 
+point of Essence for the next twenty-four 
+hours. Repeated doses of this poison may 
+inflict damage, but only 1 point of Essence 
+may be lost during the twenty-four-hour 
+period after initial infection.
+• Aftereffect: Stunned side effect
+• Required Reagent: Refined tears of a bao-
+bhan sith (p. 1 14, Court of Shadows)
+DRAIN AWAY
+Holding the ability to lower the damage caused 
+by drain, this compound has become one of the 
+most feared in the arsenal of dark aspect magi-
+cians. It can only be made with the mana-fueled 
+veins of an adept, and producing this compound 
+pushes past lines even most shadowrunners will 
+not cross. Countless adepts perished before the 
+formula was perfected. Now it spreads deep 
+within the shadows for those willing to pay the 
+price for power. Dark traditions and insect sha-
+mans are known to carry a dose as a trump card 
+few could expect.
+• Trigger: Contact
+• Effect: Once imbibed, the next time the 
+target would take physical damage from 
+drain, that damage is negated.
+• Aftereffect: Nauseated side effect
+• Required Reagent: Refined veins of the 
+adept
+DULLED EDGES 
+When damage is inevitable, reducing the target’s 
+ability to inflict damage itself is a cunning tool. 
+This poison dulls the edges of the target, lower -
+ing their reaction times, weakening their muscles, 
+and sapping their strength. Even the mightiest 
+street samurai fears the moment when their body 
+is turned against them. 
+• Trigger: Contact
+• Effect: Once it contacts a target, this com-
+pound decreases the target’s Physical limit 
+by 2 for 3 turns. 
+• Aftereffect: Fatigued side effect
+• Required Reagent: Radical killdeer antler 
+(p. 97, Howling Shadows)
+FEEL NO PAIN
+Known as FNP on the streets, feel no pain delays 
+the need for sleep, food, or even water. While it 
+doesn’t eliminate these urges, it can delay them 
+>> FORBIDDEN ARCANA  <<
+<< ADVANCED ALCHEMY    195
+===== PDF PAGE IDX 196 =====
+until the user is in a better place to handle these 
+basic needs. Quite popular among corp workers 
+who are closing in on a project deadline, since 
+nothing gets you through it faster than a bit of 
+FNP. There are very real dangers when it comes to 
+this alchemical compound. More than three days 
+of consecutive use of FNP brings risks of addic-
+tion as well as fatigue and disorientation (Addic-
+tion Rating 4, Addiction Threshold 2; see p. 1 72, 
+409, and 414, SR5).
+• Trigger: Command
+• Effect: When activated, every net hit counts 
+as one hour of sleep for the purposes of 
+resisting fatigue. It also allows a target to 
+skip one meal per net hit with no ill effects. 
+When the duration of FNP ends, the effects 
+of dehydration and starvation immediately 
+apply to the subject. 
+• Aftereffect: Fatigued side effect
+• Required Reagent: Radical kayeri mush-
+room
+FORCE OF PERSONALITY
+For those who heavily engage in combat in the 
+astral plane, this compound is a godsend. Alche-
+mists have developed a gel that enhances the abil-
+ity of a magician or adept to deal damage to astral 
+creatures and constructs alike. The compound can 
+also be helpful to non-magicians who wish to dis-
+play enhanced levels of charisma and charm. Few 
+are willing to endure the side effects without sub-
+stantial reason, due to the risks it entails.
+• Trigger: Command
+• Effect: This compound must be applied to 
+the target’s skin and then activated. While 
+active, the target’s Charisma is increased 
+by 2 for the purposes of astral combat 
+only. Such an artificial increase manifest-
+ing on the astral plane requires a potent 
+ability, and comes with an equally debili-
+tating side effect.
+• Aftereffect: Stunned side effect
+• Required Reagent: Radical ghost orchid 
+petals
+HMHVV II INHIBITOR 
+Developed in secret by the Aztechnology Al-
+chemy division, this compound is only sold and 
+then administered to approved and vetted elite 
+corporate citizens who sign a specialized NDA 
+to prevent rogue alchemists from attempting to 
+reverse-engineer it. A new and rare inoculation, 
+this magical compound prevents further progress 
+of HMHVV II as long as the compound is contin-
+ually ingested. 
+• Trigger: Contact
+• Effect: This compound must be con-
+sumed once every seven days. As long 
+as the regimen is maintained, all progress 
+of HMHVV II is halted. This is not a cure, 
+merely an inhibitor. Failure to continue 
+dosing will allow the virus to progress 
+once more, often more virulent than be-
+fore due to the repression. There is also 
+a possibility of addiction when using the 
+inhibitor; it has Addiction Rating 3, Ad-
+diction Threshold 1.
+• Aftereffect: Fatigued side effect
+• Required Reagent: Refined drop bear sali-
+va (p. 60, Howling Shadows)
+LAMINATE 
+Many traditions use writings or symbols painted 
+or drawn upon an item for their alchemical prepa-
+rations. These markings are susceptible to dam-
+age or accident, rendering the time and energy 
+spent on them wasted. Recently, the infamous 
+alchemist Megalith released this compound to 
+spite the Aztechnology Alchemical division.
+• Trigger: Contact
+• Effect: An aerosol spray that when applied 
+coats a layer of writing or runes in a thin 
+protective gel. Unable to stand up to any 
+real damage, (1 point of Physical damage 
+destroys the layer) it will protect from ac-
+cidental scuffing or blurring through in-
+advertent contact. For example, a sword 
+with runes drawn upon the blade may be 
+sheathed and unsheathed without damag-
+ing the inked writing. 
+• Aftereffect: Blinded (One Eye) side effect
+• Required Reagent: Refined slug glands
+PERFECT SIGHT
+Perfect sight has hit the streets, and for the first 
+time non-magicians have an inkling of what it’s 
+like to see the astral plane. Some use this just as a 
+recreational drug, seeing sights they never imag-
+ined could exist from the comfort of their own 
+homes. Enterprising runners and corporations 
+have also made use of this compound. Guards 
+can detect the dual-natured, or even warn their 
+>> FORBIDDEN ARCANA  <<
+196    ADVANCED ALCHEMY >>
+===== PDF PAGE IDX 197 =====
+superiors about astral beings attempting to ac-
+cess secure locations. Runners can keep an eye 
+on their astral counterparts without requiring 
+them to waste time manifesting. This increased 
+bond to the astral does come at a cost however, 
+as use of this increases the noise (p. 441, SR5) in 
+the local area.
+• Trigger: Command
+• Effect: When applied to the eyes and 
+commanded to activate, this compound 
+allows the target to perceive the astral 
+plane. Throughout the duration of this 
+compound, the ambient noise in an area 
+is increased by the net hits achieved when 
+activated as per the spell Interference (p. 
+117,  Street Grimoire)
+• Aftereffect: Stunned side effect
+• Required Reagent: Refined ghost orchid 
+petals
+SHARPSHOOTER
+One shot, one kill. The motto of the sniper, and 
+harder to accomplish in this age of advanced 
+magical and mundane protection. This com-
+pound returns some of that danger and abili-
+ty to the sniper by removing the pesky im-
+pediments of range or perception. A cunning 
+alchemist has managed to combine the spells 
+of Hawkeye and Enhance Aim into one easy-
+to-use compound. Even the most experienced 
+sniper or gunslinger likes to have a little Sharp-
+shooter on hand to ensure they don’t miss when 
+they take aim. 
+• Trigger: Command
+• Effect: Applied to the eyes or in a quickly 
+digestible pill, Sharpshooter improves the 
+target’s aim as well as negating range mod-
+ifiers in increasing increments. For each net 
+hit, reduce Range conditions by one cate-
+gory (p. 1 75, SR5). It also grants a +1 dice 
+pool modifier for any visual-based percep-
+tion tests. 
+• Aftereffect: Blinded (one eye)
+• Required Reagent: Radical eyes of a bird 
+of prey.
+UNSTOPPABLE VIGOR
+Another powerful tool in the arsenal of the ma-
+gician, this compound makes even the frailest 
+mana worker more likely to survive extended 
+spellcasting. Far more than the blades or bul-
+lets of enemies, drain itself becomes an unwary 
+spellcaster’s greatest foe. This compound forc-
+es an unnatural stamina to suffuse the body of a 
+magician in order to combat the physical dam-
+age that drain may inflict. It is a double-edged 
+sword, as this increased hardiness can convince 
+some to cast spells far beyond their power un-
+til they become addicted to it (the compound 
+has Addiction Rating 6, Addiction Threshold 
+3). This forces them to continue consuming the 
+compound to survive the repeated damage of 
+drain.
+• Trigger: Contact
+• Effect: Once imbibed, the target gains a 
+number of boxes on their Stun Condition 
+Monitor equal to the potency of the com-
+pound. These boxes are only useful for re-
+sisting the damage associated with drain. 
+Once the potency expires or the boxes are 
+full from drain damage, they disappear and 
+the effect ends.
+• Aftereffect: Slowed side effect
+• Required Reagent: Refined drake scales 
+(any type)
+WATER BREATHING 
+There are those who refuse to let such a minor 
+setback as being underwater stop them in their 
+quest for hidden riches. Use of this compound 
+magically imbues the user with gills, allowing 
+them to breath easily underwater. This is not 
+some mystical conversion, but rather true gills, 
+which can be problematic to the inexperienced 
+user. While this compound remains in effect, the 
+user cannot breathe air alone; they must take 
+their oxygen from the water. As such, the truly in-
+novative have taken advantage of this fact, apply-
+ing the compound to a target and then watching 
+their victim suffocate before them.
+• Trigger: Contact
+• Effect: The target is empowered with the 
+Gills critter power (p. 192, Howling Shad-
+ows). While this compound is active, the 
+target has real working gills and may only 
+breathe underwater. Canceling this effect 
+removes them and returns the ability to 
+breathe air.
+• Aftereffect: Winded side effect
+• Required Reagent: Refined salmon scales
+>> FORBIDDEN ARCANA  <<
+<< ADVANCED ALCHEMY    197
+===== PDF PAGE IDX 198 =====
+NEW ALCHEMICAL 
+PREPARATIONS
+Alchemical preparations are spells that rely on 
+a physical conduit, called the lynchpin, to chan-
+nel mana from the astral to the physical realm to 
+activate them. Lynchpins are the weak spot in 
+any alchemical preparation, as even the slightest 
+damage to them will render the entire prepara-
+tion inoperable. They can take many forms, from 
+arcane writing on paper to the severed hand of 
+a murderer mystically imbued with power. Tradi-
+tion and imagination are the limit when it comes 
+to alchemically preparing a vessel for a spell. 
+Rules for purchasing preparations follows the 
+same outline as buying compounds (p. 194), name-
+ly that they are hard to find—in fact, even more so 
+because of the shorter lifespan. The base price is 
+[(Force of spell involved) + (Current Potency)] x 
+500¥. Base availability for all preparations is 14R.
+ABANDON ALL HOPE
+Another popular trap and defensive preparation, this 
+preparation increases an aura of fear and helpless-
+ness in the entire area when activated. By setting this 
+up in an area where other traps are located, it be-
+comes much easier to deter any who seek to beard 
+the alchemist in their lair. This preparation is often 
+set upon something of value left easily found. As the 
+magic is undetectable until activated, once a would-
+be thief touches the item, the fear aura ignites.
+• Trigger: Contact 
+• Effect: When activated, this preparation 
+enacts the Foreboding spell upon the area. 
+• Required Spell: Foreboding (p. 1 12, Street 
+Grimoire)
+BARRICADE
+A few seconds can seem a lifetime, or make all 
+the difference in the world. Upon activating this 
+preparation, the structural integrity of a wall or 
+door can be increased. Traditional-minded alche-
+mists use runes written on paper, which is then 
+applied to the target. Other, more innovative 
+methods, such as a penny in the door seam, can 
+work just as well when properly prepared.
+• Trigger: Command
+• Effect: Upon activation, the spell Reinforce 
+is cast on the object the preparation has 
+been applied to. 
+• Required Spell: Reinforce (p. 1 18, Street 
+Grimoire)
+BURN, BABY, BURN
+Triple B is one of the most versatile trap-style 
+preparations and can take many forms. A room 
+filled with flammable gas, with a hidden rune 
+upon the floor that ignites the entire room in 
+flames. A grenade of flammable liquid, with a 
+command rune inscribed upon it. There are myr -
+iad ways to capitalize on something igniting in 
+flames on command.
+• Trigger: Command 
+• Effect: When activated, this preparation 
+enacts the Ignite spell upon the target. 
+• Required Spell: Ignite (p. 293, SR5)
+DO YOUR BEST
+Unleashing the limits of body or mind can make 
+the difference in any battle. This preparation al-
+lows an alchemist to raise the effectiveness of 
+herself and others. While this isn’t a guaranteed 
+win, it greatly increases the chance of success in 
+whatever endeavors a runner might undertake. 
+Coated pills are a common form for this prepara-
+tion, and when the command word is spoken the 
+spell activates. 
+• Trigger: Command
+• Effect: When activated, this preparation 
+enacts the Increase Inherent Limits spell 
+upon the target. Only one limit may be in-
+creased at one time, and further activation 
+of this eliminates the previous version. 
+• Required Spell: Increase Inherent Limits 
+(p. 1 10, Street Grimoire)
+GET AWAY FROM MY RIDE
+A getaway vehicle is nothing if it can’t help run-
+ners escape. It’s a weakness in any plan, and as 
+such, alchemists have devised a way to protect 
+that key element of any good escape. Emblems 
+and decals are popular forms for these prepara-
+tions to make them blend in with the vehicle and 
+hide their magical nature until it is too late. 
+• Trigger: Command
+• Effect: When activated, this preparation 
+enacts the Protect Vehicle spell upon the 
+target vehicle.
+• Required Spell: Protect Vehicle (p. 1 1 7, 
+Street Grimoire)
+>> FORBIDDEN ARCANA  <<
+198    ADVANCED ALCHEMY >>
+===== PDF PAGE IDX 199 =====
+HIGH AS A KITE
+It’s not always about solving the problem yourself. 
+Some of the most powerful preparations are ones 
+that set up the rest of the team to succeed. The use 
+of this preparation lowers the target’s ability to resist 
+toxins and drugs. This can set up other teammates to 
+deliver devastating attacks. This is most commonly 
+prepared on projectiles for easy delivery.
+• Trigger: Command 
+• Effect: When activated, this preparation 
+enacts the Enabler spell. 
+• Required Spell: Enabler (p. 1 10, Street Gri-
+moire)
+NOISE ON THE LINE
+Deckers, riggers, and other skilled Matrix users 
+can present a unique problem for magicians. To 
+prevent such issues before they can arise, this 
+preparation increases the noise in the area, mak -
+ing the Matrix more difficult to use and access. 
+Few things are more likely to incite the hacker 
+population than frequent use of this compound. 
+• Trigger: Command
+• Effect: When activated, enacts the Increase 
+Noise spell. 
+• Required Spell: Increase Noise (p. 1 16, 
+Street Grimoire)
+NOMW (NOT ON MY WATCH)
+Sometimes the difference between living and dying 
+is so razor thin, even a spell will not be fast enough. 
+For this reason, alchemists created a contact prepa-
+ration to stabilize critically wounded individuals just 
+long enough to get them the help they need. 
+• Trigger: Contact
+• Effect: When contact is made, the spell 
+Stabilize (p. 289, SR5) is enacted upon the 
+target. 
+• Required Spell: Stabilize
+LIGHTNING BLADE 
+Even with ceramics, plastics, and mystical armor, 
+there are those who place their faith in a layer of 
+metal between them and those who would do 
+them harm. Alchemists have perfected a prepara-
+tion to remind them of the error of their ways. By 
+imbuing a weapon with the power of lightning, the 
+protection of metal armor becomes nullified and 
+the damage becomes resistible by the body alone.
+• Trigger: Command
+• Effect: Written upon a blade or other weap-
+on, when activated this preparation makes 
+the next successful attack unable to be re-
+sisted by metal armor. 
+• Required Spell: Lightning Bolt (p. 284, SR5)
+• 
+SPIRIT ZAPPER
+Spirits can serve as weapons both offensive and 
+defensive, as well as the ultimate spies. This 
+preparation is important for any magician wish-
+ing to guard their secrets against spirits trespass-
+ing on their astral domain.
+• Trigger: Command
+• Effect: This preparation comes in many 
+forms, from candles made of exotic materi-
+als to runes and diagrams written out in dif-
+ferent forms and languages. No matter the 
+actual form, the effect remains. When acti-
+vated, it creates a barrier just as the Mana 
+Barrier spell, or the Offensive Mana Barrier 
+spell, depending on the preparation. 
+• Required Spell: Mana Barrier (p. 294, SR5) or 
+Offensive Mana Barrier (p. 1 1 7, Street Grimoire)
+STINK BOMB
+A trap to disable a would-be thief with gut-wrench-
+ing sickness, a tool to incapacitate enemies chas-
+ing a runner down a darkened alley … there are 
+myriad uses for the stink bomb, limited only by 
+the cleverness of the user.
+• Trigger: Command or Contact, depending 
+on use
+• Effect: On command or contact, dependent 
+on the trigger chosen, the Stench spell is en-
+acted over the area, affecting enemies and 
+allies alike. 
+• Required Spell: Stench (p. 1 13, Street Grimoire)
+STOP THIEF!
+Quick to produce and relatively inexpensive, these 
+preparations are incredibly popular with talismon-
+gers as both a deterrent as well as a demonstration. 
+This preparation can be done on anything from a 
+welcome mat with hidden writing to a throwable 
+ball that bonds to whatever it touches when the 
+command word is spoken. Stopping thieves in their 
+tracks or marking them for later identification are 
+common uses, though tagging people with an RFID 
+that can be used for tracking or drone targeting are 
+other possible options.
+• Trigger: Command
+>> FORBIDDEN ARCANA  <<
+<< ADVANCED ALCHEMY    199
+===== PDF PAGE IDX 200 =====
+• Effect: When activated, this preparation 
+enacts the Glue Strip spell. 
+• Required Spell: Glue Strip (p. 1 16, Street 
+Grimoire)
+TRUTH SERUM
+When you absolutely must get to the truth, noth-
+ing can beat this type of preparation. While it may 
+require other types of coercion to get the target 
+to actually speak, with this you can be assured 
+whatever words come out of their mouth are 
+the truth. Handcuffs and manacles are the most 
+common forms of preparation, as they are easily 
+locked on and activated. Some prefer to put this 
+in pill form, just for the drama of making some-
+one swallow a truth drug.
+• Trigger: Command
+• Effect: When activated, this preparation en-
+acts the Compel Truth spell upon the target. 
+• Required Spell: Compel Truth (p. 1 14, Street 
+Grimoire)
+UP AND AT ’EM
+It is always easier to help a comrade run than 
+it is to haul an unconscious body. These occa-
+sions are what this preparation is designed for. 
+A quick slap of a patch and the command word, 
+and even the most stunned individual will regain 
+consciousness. If nothing else, they can then be 
+awake to see any further attacks coming.   
+• Trigger: Most commonly Command or 
+Contact
+• Effect: When activated, this preparation 
+enacts the Awaken spell upon the target. 
+• Required Spell: Awaken (p. 109, Street 
+Grimoire)
+WATCH YOUR STEP
+Inventive users can find plenty of uses for a sud-
+den sheet of ice. From sending vehicles chasing 
+them crashing into the streets to rendering ene-
+mies too worried about their footing to try to do 
+anything else, the possibilities are endless.
+• Trigger: Command
+• Effect: When activated, this preparation 
+enacts the Ice Sheet spell on the area. 
+• Required Spell: Ice Sheet (p. 293, SR5)
+>> FORBIDDEN ARCANA  <<
+200    ADVANCED ALCHEMY >>
+===== PDF PAGE IDX 201 =====
+THE SYNERGY OF 
+ALCHEMY AND 
+DARK TRADITIONS
+> If you can manage to look away from the cool explosions, 
+you’ll find that ultimately, alchemy is about methodology 
+and preparation. If you can figure out how to reproduce 
+results while cutting corners on the means of production, 
+you have the edge. Some alchemists are willing to dive 
+head first into the shadows of the dark traditions for any 
+advantage. Those who practice such traditions aren’t 
+the talkative type, and most aren’t willing to share their 
+secrets at any price lest they be incriminated. So treat the 
+information here as the rare and precious jewel it is.
+> Megalith
+Practitioners of the dark traditions gravitate 
+toward alchemy, attracted to its dispassionate, re-
+sults-orientated methodology of gaining power. 
+They leverage the unique capabilities of alchemi-
+cal tools and reagents to fuel their unending quests 
+for power without the shackles of morality. In their 
+pursuit of an exotic reagent or unknown formula, a 
+dark alchemist will plunder a sacred burial ground, 
+murder a kayeri for their cap, or even harvest the 
+veins from a living adept via vivisection. These re-
+pulsive experiments have secretly led to some of 
+the newest formulas and potent compounds and 
+preparations that even the most law-abiding find 
+indispensable. 
+BLOOD MAGIC
+Alchemists who practice this dark tradition must 
+surrender their squeamishness to forever walk in 
+the shadows, surrendering completely to their am-
+bition and hunger for power. Blood magicians har-
+vest reagents through seduction, temptation, and 
+sacrifice, making the conscious decision to trade 
+the suffering of others for power and prestige. 
+The great advantage of the dark alchemist le-
+veraging blood magic is that reagents harvested 
+from time-consuming sacrifice work as a perfect 
+substitute for orichalcum (see Reagents, p. 316, 
+SR5). This blood reagent must be utilized immedi-
+ately, lest it forever lose its potency. However, the 
+nature of such a harvesting requires the dark al-
+chemist spend three times the normal duration to 
+prepare the sacrifice, requiring sacred alchemical 
+compounds such as poisons and paralytics to en-
+sure the suffering and ultimate death of their vic-
+tims. Practitioners of this tradition who combine it 
+with alchemy also learn to combine their efforts 
+into a gruesome whole. They may create any com-
+pound or preparation to trigger at the moment of 
+death, either of themselves or one of their victims. 
+Blood magicians first discovered the infamous 
+reagent known as veins of the adept (see p. 191), 
+which is the core reagent required for a powerful 
+alchemical compound with the ability to com-
+pletely negate drain damage. Rumor has it that the 
+unknown alchemist who discovered this reagent 
+willingly shared their secret with the world to fuel 
+an unending vendetta against adepts for some 
+grave slight.
+Sacrifices may be shared among blood magi-
+cians without the dilution of the potency of the 
+harvested reagent. A blood magician often pairs 
+with a couple of apprentices and cultists who 
+serve as additional allies—or in desperate times, 
+as power sources. Together, they perform mul-
+tiple sacrifices within an area to taint the mana 
+with pain and suffering in order to synergize the 
+reagents to their tradition. This takes repeated 
+sacrifices and torture to accomplish, but few who 
+are so far down the path of blood magic will flinch 
+at such a minor requirement. They find synergy in 
+any reagents that were once part of living, feeling 
+beings. While they’d prefer to do the bloodletting 
+and harvesting themselves, they will make use of 
+what comes available. Areas of past pain and suf-
+fering are the preferred places for harvesting re-
+agents for a blood magician.
+INSECT MAGIC
+Followers of the Insect Way have a single, 
+all-important goal: to seek a place with high am-
+bient mana, fortify it, and then summon a queen 
+to create a hive. To achieve this end, insect sha-
+mans infect metahuman host bodies with lesser 
+insect spirits. These infected hosts aid the shaman 
+in progressing the goals of the hive, serving as de-
+fenders, workers, and minions of the shaman who 
+summoned them until their queen arrives. 
+An alchemist who follows the Insect Way pos-
+sesses an innate spiritual connection to the other-
+worldly mana infused within the body of an infect-
+ed host. They may leverage this to quickly harvest 
+reagents from the organs of any infected host. This 
+process kills the host, but the harvesting process 
+takes half the normal time. The ease of harvest-
+ing this key component allows insect shamans to 
+>> FORBIDDEN ARCANA  <<
+<< ADVANCED ALCHEMY    201

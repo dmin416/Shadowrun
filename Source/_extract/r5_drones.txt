@@ -1,0 +1,2956 @@
+\n\n======== PDF PAGE 128 ========\nstricted to military use, but I’ve gotten my hands on a 
+few and, each time, they’ve developed personalities be-
+yond what I ever expected. Like the armored personnel 
+carrier that liked to “dance” to the almighty Troggs.
+The Pilot program determines the Rating of the drone 
+as a whole, serves as the primary source of attributes for 
+skill tests, serves as a cap on the highest rating autosoft 
+the drone can run, and more. Is there any reason that it’s 
+in such high demand? Civilian Pilot programs are generally 
+Rating 2 (or, rarely, 1), restricted security Pilots are 3 to 4, 
+while military-grade Pilots (5 to 6) are Forbidden for gener-
+al use. Cost and Availability are shown on the chart below:
+AUTOSOFTS
+It all ends with autosoft programs, the detailed com-
+mands that ensure a Pilot does what you want, when 
+you want it. New autosofts are released every year—
+some expected, some quite the surprise. They don’t 
+cover all situations yet, but there’s much more a drone 
+can do than spy or shoot. Some of the most common 
+ones are shown below.
+A Pilot program may not run an autosoft of a higher 
+Rating than itself (meaning a Rating 3 Pilot may run an 
+Autosoft with a Rating of 1, 2, or 3, but not 4 or high-
+er). When using a rigger command console, the console 
+may run a higher-Rating autosoft and share that with the 
+drone, allowing it to exceed its normal capabilities. So if 
+you have an Aztechnology Crawler Clearsight 6 autosoft 
+slotted into your RCC, each of your Aztechnology Crawl-
+ers may use it at the full value of 6.
+Some skills are Restricted or Forbidden. Those will be 
+indicated on the individual autosoft profile. Remember 
+also that an autosoft is designed for only a single drone; 
+you cannot slot a Clearsoft autosoft designed for an Az-
+technology Crawler into an Evo Proletarian. (Well, you 
+can; it just doesn’t do anything.) 
+SMARTSOFT (RESTRICTED)
+This is the same smartlink provided in eyeware or video 
+enhancements, integrated into the sensors of a vehicle 
+or drone. The Smartsoft is considered a Rating 3 auto-
+soft and allows the full use of smart weapons.
+GROUP
+A shared-signal autosoft that allows each drone 
+equipped with it to answer the same command, rather 
+than requiring you to issue commands to one at a time. 
+The Group autosoft is considered a Rating 2 autosoft.
+SKILLSET
+The Skillset autosoft gives the listed skill to the drone. 
+The Rating can be from 1 to 6 as normal, but note that 
+some Skillset autosoft are Restricted. The following 
+skills may be taken as an autosoft:
+Academic Knowledge (any single knowledge)
+Chemistry (Restricted) 
+Demolitions (Restricted)
+Electronic Warfare (Restricted)
+First Aid
+Hardware 
+Instruction
+Language (any single language)
+Lockpicking (Restricted)
+Mechanic (any single Mechanic skill)
+Medicine (Restricted)
+Melee (as Targeting, but for a specific melee combat 
+weapon)
+Navigation
+Performance (any single perform skill. Song-a-Mat 
+evolves!)
+Professional Knowledge (any single knowledge)
+SOFTWARE TWEAKS
+There are also some minor modifications that can be 
+made to programs that have no real effect on the over-
+all performance but allow for some customization. 
+PERSONALITY
+(Availability 4, Cost 100¥)
+Many people treat their drones as pets, and a per-
+sonality tweak can go a long way to help. A Pilot with a 
+Personality will develop a “flavor” all to itself, evolving 
+PILOTS
+RATING
+AVAIL
+COST
+1
+4
+100¥
+2
+—
+400¥
+3
+8R
+1800¥
+4
+12R
+3200¥
+5
+16F
+10,000¥
+6
+24F
+20,000¥
+AUTOSOFT PRICES
+While this is in the official SR5 Errata, not everyone has 
+access to the Internet and, quite frankly, there’s no better place 
+to list them than Rigger 5.0. So here they are!
+SOFTWARE
+AVAIL
+COST
+Autosoft (1–6)
+(Rating) x 2
+(Rating) x 500
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    127
+\n\n======== PDF PAGE 129 ========\na unique set of features over time depending on how 
+it’s treated and what it regularly does. Some are playful, 
+some are territorial, some adorably clumsy, some are 
+calm—the exact personality can be specified when pur-
+chased, but most allow their drone to develop naturally. 
+LINGUISTICS
+(Availability 4, Cost 50¥)
+When a drone is designed, it comes pre-loaded with 
+two languages: one native to the manufacturer and one 
+native to where it will be sold. In the UCAS, this is usually 
+Japanese and English, but not always. A Pilot may contain 
+as many Linguistics autosofts as its Rating, so few add more 
+than the initial two, but more can be added, or old ones 
+deleted and replaced, as long as room is present. Keep in 
+mind that Linguistics are used for verbal commands and 
+have a very limited vocabulary; you cannot use your mo-
+torcycle’s German Linguistics to eavesdrop on Hans Brack-
+haus and expect it to tell you what was said. Come here, go 
+there, shoot that guy, find the nearest McHugh’s, and sim-
+ilar commands are about as much as it can handle. (How-
+ever, there was enough demand that Renraku introduced 
+actual translation software, the Language autosoft, which 
+other corporations quickly picked up on.)
+DRONE CATALOG
+And now the part you’ve all been waiting for! I’ve 
+culled this list from several different sources, picking a 
+few personal favorites, some up-and-coming specials, 
+and some old classics. There’s a lot going on down be-
+low, so hang on to your command console!
+MICRODRONES
+HORIZON “NOIZQUITO”
+(PILOT AIRCRAFT)
+The Aztlan-Amazonian War was ostensibly about two 
+nations fighting over resources, but it was also a proxy 
+war between Aztechnology and Horizon, who were 
+fighting for the hearts and minds of the world. In this 
+fight, Horizon attempted to act primarily through cat’s-
+paws and cut-outs, avoiding a direct confrontation that 
+could lead to bad press. Thus, rather than providing 
+weapons and materiel to the Amazonians, Horizon 
+developed a drone that could do what Horizon does 
+best—harass and annoy.
+The NoizQuito was developed as a flying micro 
+drone with a few special tricks. Visually similar to a 
+mosquito, the body of the drone can only house a small 
+number of features. The most prevalent and obvious of 
+these features is the speaker system. The drone can 
+blast sounds as loud as 160 decibels (which is the vol-
+ume of high-end race cars), which are used to produce 
+distractions and possibly even minor ear damage in 
+those unfortunate enough to be near the drone when 
+it activates. Additionally, the drone’s wings and body 
+are covered in small LEDs that are powerful enough to 
+produce blinding levels of light in a bewildering array 
+of strobe patterns.
+>	
+I hate these things. They hurt friends and foes alike, and 
+a swarm of them is enough to drive someone insane. 
+Whichever Horizon R&D guy designed this thing deserves 
+to be shot.
+>	
+Picador
+>	
+If you’d like, I can put together a package. PM me to make 
+arrangements.
+>	
+Cosmo
+>	
+Horizon didn’t get this drone out fast enough to make an 
+impact on the outcome of the war, and they lost out big on 
+the opportunity to advertise this drone to the world as a 
+result. They’re making their way through the market now, 
+but progress has been slow.
+>	
+Dr. Spin
+Standard Upgrades: Flying, speakers, strobes
+Game Information: When activated, the strobes im-
+pose a –2 penalty to all actions by those who are cur-
+rently looking in the direction of the drone. This penalty 
+is reduced to –1 if the target has flare compensation. 
+The speakers impose a –2 penalty to all actions by those 
+within earshot of the drone, which is lessened to –1 for 
+those with a sound damper system. If there are multiple 
+drones acting as a group, the penalties are cumulative 
+for each drone (meaning that if three drones are working 
+as one, the target can take as much as a –12 penalty to 
+all actions).
+Note: “Earshot” has the potential to be quite far, but 
+the physics calculations for determining actual earshot 
+are too complicated for a roleplaying game. As always, 
+the gamemaster has the final say in determining who (or 
+what) is affected.
+HORIZON “NOIZQUITO” (MICRO DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+3R
+2
+1
+0
+3
+3
+10R
+2,000¥
+SONY GOLDFISH
+(PILOT WATERCRAFT)
+Sized to realistic proportions and capable of dives of 
+up to four meters deep, the Renraku Goldfish is a prime 
+example of an entry-level water drone, suitable as a 
+trainer for youths who look toward a future as robotic 
+operators or hobbyists who wish to explore local wa-
+tering holes below the surface.
+Standard Upgrades: Submersible
+Similar Models: Mitsuhama Minnow, NeoNET Pinkeens
+>> RIGGER 5.0 <<
+128    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 130 ========\n>	
+You’d be amazed how many executives have fish tanks in 
+their office. Nobody expects a water-based bug. It can be 
+expensive to make them realistic-looking, but the payoff 
+can be worth it.
+>	
+Sunshine
+>	
+Keep in mind that water does awful things to signal 
+strength. You’ll have to get back in to retrieve the data.
+>	
+Sounder
+SONY GOLDFISH (MICRO DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2/4
+1W
+1
+0
+0
+2
+2
+6
+500¥
+MINIDRONES
+AERODESIGN SYSTEMS 
+CONDOR LDSD-23
+(PILOT AIRCRAFT)
+Solar-powered and hydrogen-filled, the Condor is a 
+long-duration observation drone constructed with 
+transparent and radar-invisible materials, allowing 
+it to hover in place for days, even weeks, rather than 
+the hours that a conventional drone can manage. The 
+trade-off, of course, is that the Condor is completely 
+vulnerable if detected and unable to flee. While the 
+Condor’s balloon is nearly as large as kitchen table 
+when inflated, when deflated the entire unit is smaller 
+than a bowling pin.
+Similar Models: Ares Cloudship, Renraku Buzzard
+AERODESIGNS CONDOR (MINI DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+0R
+0
+1(1)
+0
+2
+4
+6R
+4,000¥
+AZTECHNOLOGY HEDGEHOG
+(PILOT GROUND CRAFT)
+A specialized sub-design of the Aztechnology Crawler, 
+the Hedgehog is the leading security-sniffing drone on 
+the market today. Intended to find opposition command, 
+control, and communication broadcasts, it can listen in 
+passively while running decrypting software. Parked in 
+a hidden location, it can eavesdrop for up to forty-eight 
+hours on a single charge, gathering data by the gigapulse.
+Standard Upgrades: Electronic Warfare (2) Autosoft, 
+Similar Models: Ares NS-Aardvark, Lone Star Mock-
+ingbird
+>	
+Age hasn’t been terribly kind to the Hedgehog. It’s still 
+good, but wireless protocols have advanced since it rolled 
+out.
+>	
+Rigger X
+AZTECHNOLOGY HEDGEHOG (MINI DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+1G
+1
+1(0)
+0
+4
+3
+8F
+8,000¥
+CYBERSPACE DESIGNS 
+DRAGONFLY
+(PILOT AIRCRAFT)
+Perhaps the smallest drone-hunting drone in produc-
+tion today, the Dragonfly is designed to follow sur-
+veillance drones anywhere they hide and bring them 
+down. A sleek quad-copter design with in-body ro-
+tors that are protected from collisions in tight corners, 
+the Dragonfly comes pre-equipped with a chomping 
+“beak” of blades, allowing it to shear through the wings 
+or body of other mini-or-micro-drones, ripping them 
+from the sky. Against larger drones, the Dragonfly can 
+swarm, nipping away in small bites, but it isn’t designed 
+to cut through any appreciable levels of armor plating.
+Standard Upgrades: Melee Bite (Acc 3, Reach —, 
+Dam 3P, AP –2), Targeting (Melee) Auotsoft
+Similar Models: Ares Sparrowhawk, Renraku Yokujin
+>	
+The Ares Sparrowhawk is similar but mounts a modified 
+Ares Light Fire 70. Gotta love the CAS.
+>	
+Kane
+CD DRAGONFLY (MINI DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+2P
+1
+1(0)
+3
+3
+2
+12R
+4,000¥
+FESTO PIGEON 2.0
+(PILOT EXOTIC VEHICLE)
+Saeder-Krupp’s small Festo subsidiary mastered the 
+art of lifelike simulation for drones, producing the first 
+realistic flying “bird drone” almost fifty years ago. The 
+design has continued to be refined over the decades, 
+and now stands as a work of art. The baseline model 
+is a chrome-plated beauty, but a more lifelike model 
+is available and is commonly used as a surveillance 
+drone. 
+Similar Models: Sony Nightingale, Renraku Bluebird
+Standard Upgrades: Realistic Features (1)
+FESTO PIGEON 2.0 (MINI DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+2P
+1
+1(1)
+0
+2
+2
+8
+3,000¥
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    129
+\n\n======== PDF PAGE 131 ========\nHORIZON CU^3
+(PILOT AIRCRAFT)
+A simple single-fan vectored thrust drone, the CU is 
+a cheaper version of the professional camera drones 
+used by most major trideo broadcasters. The fan traded 
+off speed for stability and whisper-quiet operation, al-
+lowing the camera to focus on the target without over-
+whelming the sound with the typical whirly-whoosh. 
+Hugely popular with the P2 crowd, where it follows 
+them everywhere and records their day, allowing them 
+to do live updates or edit the footage later. The profes-
+sional version has an improved camera, Pilot, and soft-
+ware, and usually operates in threes (thus the cubed 
+designation), allowing for three camera angles in any 
+given scene.
+Similar Models: MCT Redlight, Evo CultureCapture
+Standard Upgrades: Clearsight (2) Autosoft
+Optional Upgrades: Professional Upgrade: Pilot in-
+creased to (4), Clearsight increased to (4), for +3,000¥
+HORIZON CU^3 (MINI DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+1P
+1
+1(1)
+0
+2
+3
+4
+3,000¥
+RENRAKU GERBIL
+(PILOT GROUND CRAFT)
+A tiny wheeled drone, the Gerbil’s sized to travel 
+through not only any ventilation shaft, but most pipes, 
+allowing it to enter a surprisingly large number of oth-
+erwise-secure areas. It’s surprisingly quick and nimble, 
+able to evade most pursuit from metahumans long 
+enough to find a hidey-hole, 
+Similar Models: GM-Nissan Mouse, MCT Zipper
+>	
+A touch larger than most spy drones, the Gerbil uses that 
+extra size for a speedy motor. Not a tradeoff for everyone, 
+but certainly interesting.
+>	
+Turbo Bunny
+RENRAKU GERBIL (MINI DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4/2
+2G
+1
+1(1)
+0
+2
+2
+4
+2,000¥
+RENRAKU SCUTTLER  
+REMOTE CYBERHAND
+(PILOT WALKER)
+A subtle way to sneak a drone into an area, the Renraku 
+Scuttler is a detachable cyberhand that includes remote 
+rigger controls and a computer system to allow for re-
+mote operation. The middle digit is further equipped 
+with a sensor suite (if a poor one), while the other four 
+are used for locomotion. The Scuttler has manipula-
+tive ability that similarly sized drones lack, but it isn’t 
+as quick or nimble due to the shape constraints of the 
+metahuman hand. Due to the size of the drone system, 
+the Scuttler lacks any Capacity for further upgrades.
+Similar Models: Evo Hi-Five, Ares Thing
+SMALL DRONES
+ARES ARMS SENTRY V  
+(AND MERCURY)
+(PILOT GROUND CRAFT)
+The venerable Sentry rail-drone system has some three 
+decades of experience behind it. Hanging from a rail-
+ing, the Sentry can traverse an entire facility via small 
+“doggie doors” high on the walls, giving them com-
+plete access to areas without compromising security. 
+The Sentry both draws power and accepts commands 
+via the rail system, leaving it impervious to wireless hi-
+jacking and, due to being kept on a secondary, dedi-
+cated power supply, functional even when the rest of 
+the facility is blacked out. In the mid-’60s, enterprising 
+Ares executives decided to take advantage of the rail 
+system by creating the Mercury, an unarmed courier 
+that would allow messages or packages to be shuttled 
+around the office with greater reliability and safety. As 
+the Sentry was nigh-ubiquitous, the Mercury is now 
+found in over ninety percent of Ares facilities, serving 
+as a mobile mailbox. In the event of an active hostile 
+situation, Mercuries store themselves out of the way, 
+leaving the rails clear for Sentry deployment. 
+Standard Upgrades: Standard weapon mount, Colt 
+Cobra TZ-120, 30 standard ammo, Targeting autosoft 
+(3), SmartSoft
+Similar Models: Shpagina Evo-2, Shiawase Minebea 
+GridSys
+ 
+ARES SENTRY (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4/—
+1G
+1
+2(0)
+6
+3
+2
+4R
+4,000¥
+CITRON-BROUILLARD  
+SMOKE GENERATOR
+(PILOT GROUND CRAFT)
+A simple design, the tracked Smoke Generator is 
+equipped with a single function: creating smoke 
+screens. Capable of generating clouds for up to twelve 
+minutes, and IR-blocking thermal smoke for three more, 
+it can be kept stationary, creating a billowing screen 
+some 150 meters in diameter, or left rolling, in which 
+CYBERWARE
+CYBERWARE
+ESS
+CAP
+AVAIL
+COST
+Remote Cyberhand
+0.25
+(5)
+8
+8,000¥
+>> RIGGER 5.0 <<
+130    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 132 ========\ncase it creates a smoky trail 100 meters wide by 250 
+meters long. In either case, the ten-meter-high cloud 
+begins to dissipate one minute after the smoke gen-
+erator is turned off, at which point it becomes a light 
+cloud. It fully vanishes a minute after that. 
+Standard Upgrades: Smoke generator (holds twelve 
+one-minute doses of smoke and three one-minute dos-
+es of thermal smoke)
+>	
+You can fill the tank with other gasses, but don’t expect 
+that kind of volume. The Brouillard’s proprietary smoke 
+fuel is legendary.
+>	
+Rigger X
+C-B SMOKE GENERATOR (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+1G
+1
+2(0)
+0
+2
+2
+8
+4,000¥
+CYBERSPACE DESIGNS 
+WOLFHOUND
+(PILOT AIRCRAFT)
+A basic recon drone that sacrifices durability or arma-
+ments for high-send sensors and breakneck speed, the 
+Wolfhound is the only drone of its size that’s broken 
+the sound barrier. It usually stays at subsonic speeds, 
+to better conceal its skyward location.
+Similar Models: Ares Sergeant, S-K Dawnrider
+CD WOLFHOUND (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+2J
+1
+2(1)
+0
+2
+4
+12
+30,000¥
+EVO PROLETARIAN
+(PILOT GROUND CRAFT)
+The mechanic’s best friend. These little guys are amaz-
+ing. At the core, it’s a simple dome-headed, three-
+wheeled drone with a single functional arm, but they’re 
+just about perfect for pitching in around the garage. 
+They’re advanced enough to be trusted with simple 
+work, banging out dents, changing tires, checking 
+the oil, and so on, but they are also handy assistants 
+for harder work, presenting you with tools when you 
+need them, keeping vehicle schematics displayed on 
+their chest screen, and keeping an eye on things when 
+you’re beneath an undercarriage. They even have good 
+speakers for use as a mobile stereo system. Evo hired 
+>> RIGGER 5.0 <<
+EVO PROLETARIAN
+>> THE AUTOMATED ARMY <<    131
+\n\n======== PDF PAGE 133 ========\nRenraku to create a wide array of autosofts for them, 
+giving them an option for repairing anything, handling 
+electrical or construction work, even serving as butlers 
+as parties. 
+Standard Upgrades: Drone arm (Strength 4, Agility 
+2), Automotive Mechanic Toolkit, Automotive Mechanic 
+(2) autosoft
+>	
+Like you’ve ever been to a party.
+>	
+Netcat
+>	
+They serve as cheap labor in some areas, taking entry-
+level jobs from metahumans. I can’t tell if the name is 
+ironic or tragic.
+>	
+Chainmaker
+EVO PROLETARIAN (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4/2
+2G
+1
+2(1)
+0
+2
+2
+6
+4,000¥
+FERRET RPD-1X WHEELED 
+PERIMETER DRONE
+(PILOT GROUND CRAFT)
+One of the oldest security drones still in production, 
+the Ferret is a small patrol drone used as a cheap al-
+ternative to security guards. Armed with a flashlight 
+and a taser, it’s perfectly able to handle drunk college 
+students and would-be trespassers, but shadowrunners 
+are a different breed. That said, they see wide use in 
+college campuses, shopping malls, and many homes, 
+serving as basic light security. It should be noted that 
+they’re awful off-road, and so they need to stay on es-
+tablished paths.
+Standard Upgrades: Mini weapon mount, Defiance 
+Shocker, 4 taser darts, flashlight
+Similar Models: Aztechnology IDS, NeoNET Janus
+>	
+Since they’re so common, it’s a good idea to keep one or 
+two around the house where you can mod the exterior to 
+match the ones protecting a site, allowing you to have a 
+Trojan Horse that can blend in for pre-scouting.
+>	
+Hard Exit
+>	
+You can laugh off one easily enough, but when a dozen of 
+them pile on, that voltage hurts!
+>	
+2XL
+FERRET RPD-5X (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4/2
+1G
+1
+2(1)
+3
+3
+3
+8R
+4,000¥
+FESTO SEWER SNAKE
+Able to both slither and swim, the Sewer Snake’s long, 
+narrow design allows it to access areas that different-
+ly shaped drones cannot and handle whatever envi-
+ronmental conditions it faces. The Snake’s surface is 
+coated with several small gecko grip points, allowing 
+it to climb vertically when pressed, and it can handle 
+the pressure of a ten-meter dive. There’s little room for 
+further modification, but in terms of eyes that can go 
+anywhere, you’re hard-pressed to beat the Snake.
+Standard Upgrades: Submersible, gecko grips
+>	
+I hate this thing. I hate snakes, and this moves so 
+realistically that it triggers my phobia.
+>	
+Sounder
+>	
+Rumor has it that Saeder-Krupp has a larger version that’s 
+weaponized for assassination.
+>	
+Plan 9
+FESTO SEWER SNAKE (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+1G/1W
+1/1
+2(1)
+0
+2
+2
+10
+6,000¥
+HORIZON MINI-ZEP
+(PILOT AIRCRAFT)
+A simple lighter-than-air drone, the Mini-Zep’s only 
+notable due to the electrochromatic coating along the 
+airbag’s surface. This allows the Mini-Zep to be pro-
+grammed with ads for virtually anything and they can 
+either be scrolled through or changed completely with 
+a simple wireless signal from the home office. They also 
+have a small radio transmitter inside, allowing them to 
+spam AR ads to any nearby commlink. Due to being 
+a LtA drone pushed gently with fans, they can easily 
+loiter for eight hours, giving maximum eyeball time to 
+their ads. In emergency situations, they can even do 
+live rebroadcasts of weather alerts, law enforcement 
+APBs, or anything else. 
+Standard Upgrades: Electrochromatic coating
+>	
+You can’t go a block in any metroplex’s downtown without 
+having one of these things blaring at you. Damned 
+nuisances.
+>	
+Bull
+>	
+Super-fun to hack, however! You can post all kinds of 
+pictures on these things. Hubba hubba!
+>	
+Slamm-0!
+HORIZON MINI-ZEP (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+0P
+0
+2(4)
+0
+2
+2
+4
+2,000¥
+>> RIGGER 5.0 <<
+132    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 134 ========\nKNIGHT ERRANT  
+P5 PURSUIT DRONE
+(PILOT GROUND CRAFT)
+An unusual “limpet” drone stored in some Knight Errant 
+police cruisers, the P5 is a small drone that sacrifices du-
+rability for raw speed. When at top speed, the batter-
+ies last a whopping ten minutes, but that’s more than 
+enough for this little beast. The P5 drops down from be-
+neath the cruiser, races ahead, then magnetically attach-
+es itself to the undercarriage of the pursued vehicle. This 
+allows KE to follow the wireless signal instead of engag-
+ing in a high-speed chase. Simple, but effective.
+>	
+The drone’s broadcast signal is based off a second battery 
+and has a twenty-four hour life; plenty for KE to come find 
+you.
+>	
+Turbo Bunny
+>	
+There are some sneaky runners out there who fill these 
+things with plastique. Ride go boom!
+>	
+Red Anya
+KNIGHT ERRANT P5 (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4/2
+6G
+2
+2(1)
+0
+3
+2
+10R
+8,000¥
+LONE STAR CASTLE GUARD
+(PILOT GROUND CRAFT)
+“Worried about your loved ones being victims of a late 
+night? Stay at work safely while Lone Star guards your 
+castle!” Notice the subtle dig at their primary law en-
+forcement rivals? Lone Star is unique in the home-se-
+curity drone market in offering a pistol-armed drone, 
+as opposed to the non-lethal options other security 
+drones carry as standard arms. Much more common 
+in the CAS than the UCAS, the Castle Guard ads push 
+that lethal force is the only true way to keep your family 
+safe while you’re grinding away at your job. The Guard 
+comes with four SmartSafety bracelets to ensure that 
+it can’t accidentally fire at family members, and addi-
+tional bracelets, or pet collars, can be purchased for 
+50 nuyen each. The drone itself is average-sized, four-
+wheeled, and has enough armor to turn aside small 
+arms or baseball bats, but not so much that one going 
+wild can’t be easily stopped by heavier firepower. The 
+marketing on these things is damned impressive, even 
+if the actual drone’s average at best.
+Standard Upgrades: Light weapon mount, Targeting 
+autosoft (3), Smartsoft, four SmartSafety bracelets
+>	
+Keep in mind, drones made in the CAS use different tools 
+than the metric tools that everyone else on the planet 
+uses. You need to buy new kits to work on ‘em.
+>	
+Kane
+>	
+I had to go take a look. 3/16ths of an inch! Who the frag 
+thought these measures were a good idea?!
+>	
+Slamm-0!
+LS CASTLE GUARD (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4/2
+1G
+1
+2(0)
+6
+3
+2
+8R
+10,000
+MITSUHAMA GUN TURRET
+(NO PILOT REQUIRED)
+If you’ve ever gone into a Zero Zone, you’ve run into 
+these bad boys. MCT’s been selling them to anyone 
+with nuyen to wave around for over fifty years. They’re 
+immobile (other than rotating), but they’re both cheap 
+and well-armored, allowing them to do the job effi-
+ciently. The most common variants are Retractable or 
+Up-Armored, but some choose a larger weapon mount 
+instead.
+Standard Upgrades: Standard weapon mount
+Standard Downgrades: Immobile
+>	
+MCT normally uses these in packs of three. One will be 
+obvious, such as just above the front door of a facility, and 
+well-armored. There’s often a handy planter to hide behind 
+and observe it. While you do that, two more guns pop up 
+behind your flanks in a triangle while you’re watching 
+forward. Simple but effective.
+>	
+Hard Exit
+>	
+As runners learned to watch behind them for that, MCT 
+upped the game and put land mines around the planters. 
+Guns pop up, you take cover naturally, and then it turns 
+out that the whole game was to get you behind that cover 
+so that radio-detonated mines could take you out. Zero 
+Zones, chummer. They’re not worth it.
+>	
+Stone
+MCT GUN TURRET (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+—
+—
+—
+2(0)
+6
+3
+2
+4R
+4,000¥
+MITSUHAMA SEVEN 
+Launched on New Year’s Day 2077, the Mitsuhama Sev-
+en are intended to capture the North American casual 
+drone market, targeting both drone beginners and ad-
+vanced modders with the same product. The Seven (a 
+number chosen for marketing reasons) is a bare-bones 
+model with laughable programming. These things are 
+half-blind but dirt cheap. While the “Seven Dwarves” 
+have official numerical designations (77-MPD-01, 02, 
+03, etc.), they quickly developed nicknames that stan-
+dardized across the Matrix. The core wheeled model 
+is “Wheelie,” treaded is “Treads,” off-road suspension 
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    133
+\n\n======== PDF PAGE 135 ========\nis “Dirty,” the four-legged “Quad,” the surface-aquatic 
+“Swims,” the quad-copter “Hovers,” and the traditional 
+flyer “Soars.”  I never claimed that they were good nick-
+names, but they’re better than numbers, right?
+Standard Upgrades: Fragile (1)
+>	
+It’s all about the after-market mods on these things. The 
+base models are junk.
+>	
+/dev/grrl
+>	
+I know that they’re designed fragile to bring customers 
+back for replacements often, but Goddamn, I think the last 
+batch I bought were made out of tissue paper. They just 
+fell the hell apart.
+>	
+Kane
+>	
+After an Aztlan patrol boat shot them.
+>	
+/dev/grrl
+>	
+I know, right? Too fragile.
+>	
+Kane
+MCT SEVEN (WHEELIE) (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4/2
+2G
+1
+1(3)
+0
+1
+1
+—
+2,000¥
+MCT SEVEN (TREADS) (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+2G
+1
+1(3)
+0
+1
+1
+2
+2,000¥
+MCT SEVEN (DIRTY) (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2/4
+2G
+1
+1(3)
+0
+1
+1
+2
+2,000¥
+MCT SEVEN (QUAD) (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+1G
+1
+1(3)
+0
+1
+1
+4
+2,000¥
+MCT SEVEN (SWIMS) (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+2W
+1
+1(3)
+0
+1
+1
+4
+1,000¥
+MCT SEVEN (HOVERS) (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+1P
+1
+1(3)
+0
+1
+1
+6
+4,000¥
+MCT SEVEN (SOARS) (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+2J
+1
+1(3)
+0
+1
+1
+8
+4,000¥
+NEONET PRAIRIE DOG
+(PILOT GROUND CRAFT)
+Recently decommissioned by the PCC military, the Prai-
+rie Dog was the Pueblo military’s standard jamming/
+ECM drone for infantry platoons. The large off-road 
+wheels and shocks allow it to handle the worst terrain 
+with ease, with plenty of speed to keep pace with dis-
+mounted infantry. The Prairie Dog’s distinctive anten-
+nae are no less impressive, even with the reduction in 
+capabilities given this de-militarized version. 
+Standard Upgrades: Electronic Warfare (3) autosoft, 
+directional jammer (4), area jammer (6)
+NN PRAIRIE DOG (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2/4
+2G
+1
+2(0)
+3
+3
+4
+12F
+8,000¥
+PRATT & WHITNEY 
+SUNDOWNER
+(PILOT AIRCRAFT)
+A simple, low-speed aircraft used in agriculture to spray 
+fields, or more rarely for skywriting for those looking 
+for some retro communication. The Sundowner isn’t 
+great but has little competition in this niche.
+Standard Upgrades: Aerial chemical sprayer (holds 
+ten doses of a chemical, each able to cover a line 125 
+meters long, twenty-five meters wide, and ten meters 
+high; these large spray doses cost ten times the normal 
+cost of a dose)
+Similar Models: Shiawase Hyakusho, Aztechnology 
+Roundup
+>	
+If they look familiar, it’s because they were used to saturate 
+Bug City with Strain III.
+>	
+Puck
+>	
+That didn’t exactly go as planned.
+>	
+Bull
+>	
+Especially for the ghouls.
+>	
+Hanibelle
+P&W SUNDOWNER (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+4P
+1
+2(0)
+0
+2
+2
+8
+10,000¥
+PROTEUS A.G. “KRAKE”
+(PILOT WATERCRAFT)
+Proteus A.G. is well known for its arkoblocks, and the 
+corp had a well-publicized spat with Ares in 2063. 
+Since the Corporate Court’s ruling against Proteus, they 
+have attempted to submerge themselves into their pri-
+vate research. While shadowrunners typically have had 
+>> RIGGER 5.0 <<
+134    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 136 ========\ndifficulty infiltrating these facilities to perform corpo-
+rate espionage, one team recently managed to surface 
+with plans for a very unique drone.
+>	
+This drone is simply fintastic!
+>	
+Slamm-0!
+>	
+Water you talking about?
+>	
+/dev/grrl/
+>	
+Make these puns stop!
+>	
+Netcat
+>	
+Why are you so crabby?
+>	
+Slamm-0!
+>	
+Oh whale. I sea what you did there. You shore did all that 
+on porpoise. You’re all washed up.
+>	
+/dev/grrl/
+>	
+Winner!
+>	
+The Smiling Bandit
+Since the best drone designs are based on natural 
+evolutionary perfection, Proteus decided to model the 
+design of the Krake drone on a squid. The six tentacles 
+are used to propel the Krake through the water and can 
+flex to provide a full range of motion options, making 
+this drone incredibly agile in the water. Additionally, one 
+of the tentacles is equipped with a plasma torch and 
+multitool, which are presumably used for underwater 
+welding and cutting tasks. Due to the small size of the 
+Krake, it can reach areas that are normally inaccessible 
+to metahumans.
+The seas are dangerous though, and Proteus has re-
+peatedly shown that they are willing to fight it out with 
+the merfolk and even the Sea Dragon. So the Krake 
+are occasionally retrofitted for security detail, adding 
+a small cluster of micro-torpedoes and a sort of “ink 
+pouch” feature. From the blueprints that were recov-
+ered, the micro-torpedoes have a limited payload, but 
+when used in a cluster they are more than devastating. 
+The “ink” that can be released by the Krake is designed 
+to scramble electronic sensors, as well as prevent visual 
+targeting.
+>> RIGGER 5.0 <<
+PROTEUS KRAKE
+>> THE AUTOMATED ARMY <<    135
+\n\n======== PDF PAGE 137 ========\n>	
+A word of warning: the payloads for these torpedoes 
+can be devastating. Instead of their typical explosive 
+warheads, some of them have been outfitted with a 
+chemical that eats through hulls.
+>	
+Sounder
+>	
+Word is that Evo NavTech is trying to find a way to utilize 
+this design for patrolling the waters of Kowloon Bay. If they 
+can figure out how to correct the effect of water refraction 
+on radio waves, they could have a fully autonomous 
+drone force that is nearly undetectable. Scary thought.
+>	
+2XL
+Standard Upgrades: Plasma torch, specialized weapon 
+(ink pouch), tool kit (Nautical Mechanic), weapon mount
+Game Information: The plasma torch can only be 
+used in immediate touch range, and therefore is useless 
+in combat scenarios.
+The ink pouch can release a cloud of manufactured 
+ink into the water along with a chafe of metal flakes. The 
+ink obscures vision (even electronic) in a five-meter ra-
+dius, applying a penalty equal to Heavy Smoke for any 
+attacks made through the cloud.
+The micro-torpedoes can be outfitted with either a 
+chemical or an explosive warhead. The explosive war-
+heads are treated as anti-vehicle rockets, providing –4 
+armor penetration to non-vehicle targets and providing 
+a –10 armor penetration to vehicular targets. The chemi-
+cal warheads apply an acidic adhesive to the target, pro-
+viding continuous damage to the target each Combat 
+Turn until the adhesive is removed with a simple solvent 
+(glue solvent, p. 448, SR5).
+PROTEUS ‘KRAKE’ (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+5
+3W
+4
+2(0)
+2
+4
+3
+18F
+10,000¥
+MICRO-TORPEDO
+TYPE
+DAMAGE
+AP
+BLAST
+AVAIL
+COST
+Chemical
+6P
+–4
+1m radius
+18F
+3,000¥
+Explosive
+18P
+–4/–10
+–6/m
+18F
+2,500¥
+SAAB-THYSSEN BLOODHOUND
+(PILOT GROUND CRAFT)
+A hazardous-area exploration drone with advanced sen-
+sors, the Bloodhound is used to investigate areas that 
+might be contaminated by biological agents, chemicals, 
+or radiation before sending in organics. Not only can the 
+Bloodhound identify these materials, it also marks them 
+with small color-coded flags (equipped with RFID of 
+course). It also has a small scoop and storage compart-
+ment where it can collect and hold soil samples. 
+Standard Upgrades: Geiger counter (6), olfactory 
+scanner (8)
+S-T BLOODHOUND (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+1G
+1
+2(0)
+0
+2
+4
+8
+10,000¥
+RENRAKU DOVE
+(PILOT AIRCRAFT)
+A Renraku product, the Dove is licensed exclusively to 
+GOD. It flits quietly around major sprawls, searching for 
+illegal wireless signals. While the Dove is, in general, an 
+unimpressive design, the radio-snooping technology 
+is top-notch, while the software can alert GOD opera-
+tives to activity, drawing attention from support opera-
+tors who then call in larger, more combative drones to 
+deal with the lawbreaker.
+Standard Upgrades: Radio signal scanner (6)
+RENRAKU DOVE-4 (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+2P
+1
+2(1)
+0
+2
+2
+4
+5,000¥
+RENRAKU JARDINERO
+(PILOT GROUND CRAFT)
+Renraku has numerous lines all based on the same 
+chassis (which is why the Jardinero has the wrong sus-
+pension for the work it’s doing), but the Jardinero is the 
+top-selling, so gets the nod. The basic model is simply 
+an automated lawn mower, handling all of the upkeep 
+of suburban grass with silent electrical motors and 
+whisper-quiet blades, then returning to a solar recharge 
+station until told to mow again. Other versions handle 
+vacuum duties, floor polishing, repainting parking lots, 
+and similarly menial jobs.
+Similar models: Dozens
+>	
+There was, briefly, a version with an extendable arm 
+and hedge clippers for landscaping, but after a rather 
+hair-raising incident involving four of them, a crazed 
+Technomancer, and a Renraku exec, that line was, uh, 
+pruned.
+>	
+Baka Dabora
+>	
+While middle-class suburbanites love these things, 
+wealthier landowners hire metahuman landscapers as 
+a show of decadence. Renraku, of course, is the primary 
+source of those jobs. Gotta love Renraku’s cons; they’ll get 
+your money one way or the other.
+>	
+Haze
+RENRAKU JARDINERO (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2/4
+1G
+1
+2(1)
+0
+2
+2
+4
+2,000¥
+>> RIGGER 5.0 <<
+136    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 138 ========\nRENRAKU JOB-A-MAT
+(NO PILOT REQUIRED)
+It all started with the Song-a-Mat, a simple desktop unit 
+that allowed consumers to put together music to their 
+own taste, allowing everyone to become a musician 
+of sorts. This revolutionized the entire music industry, 
+giving us today’s model where live performances are 
+the sign that you’ve made it, while struggling young 
+bands have to put out singles for wageslave pay. Since 
+then, Renraku’s found that the basic chassis was ide-
+al for loading other software modules into and a new 
+market was born. Keep in mind that Renraku never plas-
+ters their name on these things and that each of the 
+two dozen or so models is marketed in a different way. 
+The BarristaBot is marketed to small business owners 
+that want to add a small drink area, while the Intern line 
+fills up legal offices and insurance firms, grinding out 
+paperwork. 
+Standard Upgrades: Profession or Knowledge (2) 
+Autosoft
+Standard Downgrade: Immobile
+>	
+Renraku’s new focus on the service industry competes 
+directly with their Job-a-Mat line of drones, but each 
+brings in profit, so they push whichever one seems more 
+likely to break open a market.
+>	
+Haze
+>	
+Abominable things. It wasn’t enough to drive out the blue-
+collar workers?
+>	
+Chainmaker
+>	
+Keep in mind, these things only handle the basic functions. 
+When faced with an odd request, they call in rigger backup 
+to deal with the situation. There’s a big difference between 
+metahuman ability and Pilots. 
+>	
+Glitch
+>	
+For now.
+>	
+Icarus
+RENRAKU JOB-A-MAT (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+—
+—
+—
+2(2)
+0
+2
+2
+4
+3,000¥
+RENRAKU PELICAN
+(PILOT AIRCRAFT)
+You’ve seen these quad-copters around for years, but 
+I bet none of you knew what the actual name was. 
+Renraku keeps the marketing for these things aimed 
+at wholesale, not retail. The Pelican is a simple flying 
+drone with a modular storage compartment under-
+hung. Heated or cooled, they come in sizes for pizza, 
+noodle boxes, and more, and are used by everyone 
+from Pizza Hop to Heli-Taco to Heavenly Noodles, to 
+make sure you get your food in thirty minutes or less 
+anywhere in the sprawl. 
+Standard Upgrades: Storage compartment
+Similar Models: MCT Transporter-3, Evo Kourier
+>	
+The booming drone-livery market is what led to Renraku 
+developing the SkyGuide software. Nice to invent a 
+disease that you just happen to have a cure for, eh?
+>	
+Glitch
+>	
+You hush your mouth! Those emergency deliveries of 
+SkyScoop ice cream save my bacon on a regular basis. 
+>	
+Slamm-0!
+>	
+Goes without saying, but if you dress your drone in the 
+right paint, you can deliver more than food to an open 
+window without raising suspicion.
+>	
+Hard Exit
+RENRAKU PELICAN (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+2P
+1
+2(1)
+0
+2
+2
+2
+4,000¥
+TELESTRIAN  
+INDUSTRIES SHAMUS
+(PILOT GROUND CRAFT)
+A rare entry from the secretive Telestrian Industries, the 
+Shamus is basically a forensic analysis laboratory rolled 
+into one compact drone. The drone’s design appears to 
+be partly canine, partly arachnid. Four legs with multi-
+ple joints support the body, while a cluster of sensors 
+in front suggest compound eyes below a more conven-
+tional head. The sensor suite built into the Shamus is 
+extremely impressive, boasting a full range of visual 
+sensors, X-ray scanners, ultrasound sensors, and even 
+a biomatter sampler for checking biological samples. 
+Additionally, the Shamus is capable of projecting a tri-
+deo display into open space, connecting to an investi-
+gator’s PAN to easily allow the investigator to re-create 
+a crime scene in real time.
+However, the feature that sets the Shamus apart 
+from all other drones in this space is the quicksilver cam-
+era. Normally a quicksilver camera requires a magician 
+to operate, but the Shamus has been outfitted with a 
+unique (and proprietary) blend of reagents that can op-
+erate the camera in lieu of a magician. Mana plates are 
+still required for operation, and they are available for pur-
+chase through Telestrian Industries-affiliated vendors.
+>	
+I call bullshit. There’s no way that Telestrian managed to 
+mix magic and tech without the whole world hearing 
+about it.
+>	
+Snopes
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    137
+\n\n======== PDF PAGE 139 ========\n>	
+Normally I’d agree with you, but I’ve actually seen one 
+of these in use. The final product of their camera isn’t as 
+high-quality as that used by a magician, and it takes more 
+than twice as long to develop, but it works.
+>	
+Sunshine
+>	
+One could argue that all alchemy is a merger of mana 
+and technology. If I can use a gun or a cyberdeck as 
+an alchemical lynchpin, then why would this be much 
+different?
+>	
+Lyran
+>	
+Hagersburg’s police force has a Shamus. I heard that they 
+outfitted it with a personality chip that tells bad jokes and 
+responds to “Horatio.”
+>	
+Kay St. Irregular
+Standard Upgrades: Quicksilver camera, sensor ar-
+ray [Rating 8, w/ atmosphere sensor, camera (low-light, 
+normal, thermographic), Geiger counter, MAD scanner, 
+olfactory sensor, radio signal scanner, ultrasound, X-ray]
+Game Information: The quicksilver camera re-
+quires a mana-sensitive film plate (p. 214, Street Gri-
+moire) for each use. Standard rules for the quicksilver 
+camera apply, with the following changes: develop-
+ment time takes five minutes instead of two, and the 
+threshold for tests made with developed images are 
+increased by 1.
+TELESTRIAN SHAMUS (SMALL DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+3G
+1
+4(0)
+4
+3
+8
+10
+30,000¥
+MEDIUM DRONES
+ARES CHEETAH
+(PILOT WALKER)
+Originally more of a technological “Can we make this?” 
+from the early days of drone research than anything, 
+the Cheetah is the world’s fastest quad mech, matching 
+>> RIGGER 5.0 <<
+TELESTRIAN INDUSTRIES SHAMUS
+138    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 140 ========\nspeed with any living animal and many of today’s cars. 
+This quad is based off of the African cheetah (obvious-
+ly) and trades maneuverability for raw speed. The claws 
+are just for traction, but the Cheetah comes with work-
+ing jaws that are quite able to chomp down on meta-
+humans if needed. Rarely, buyers replace the jaws with 
+a taser-equipped head whose teeth are just for show.
+Standard Upgrades: Fragile (1), Jaws (Acc 3, Reach 
+—, DV 5P, AP –3)
+>	
+Metahumans have never lost their primal fear of being 
+chased. The Cheetah takes full advantage of that.
+>	
+Icarus
+>	
+It’s true. Hearing copters buzz overhead or watching 
+wheeled drones roll around looking for you? All part of 
+the job. Seeing one of these chrome cats run someone 
+down and worry them with bites? Utterly terrifying.
+>	
+2XL
+ARES CHEETAH (MEDIUM DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+6G
+2
+2(0)
+6
+3
+2
+12R
+14,000¥
+EVO KROKODIL
+(PILOT GROUND CRAFT/ 
+PILOT WATERCRAFT)
+A fine example of Russian design, the Krokodil looks to 
+be made entirely out of solid iron, welded at right an-
+gles, with Soviet-era tractor-treads and a clunky design 
+that’s ugly as sin but takes a beating and keeps on chug-
+ging. The Krok is a rare amphibious design, able to roll 
+into a river and pop out on the far side, never needing 
+to slow down. Beyond that, it’s a simple medium-sized 
+drone, easy to modify due to the basic design, but you 
+have to be careful that you reseal it properly or it’ll sink, 
+and while amphibious, it’s not submersible; the Krok 
+dies if you dunk it in more than a meter of water.  
+Standard upgrades: Amphibious
+>> RIGGER 5.0 <<
+FEDERATED-BOEING KULL
+>> THE AUTOMATED ARMY <<    139
+\n\n======== PDF PAGE 141 ========\n>	
+The Krok does float, with only a tiny bit poking out of 
+the surface, allowing it to easily enter “loiter and record” 
+mode for hours. While many people would suggest flying 
+drones, since they’re more able to escape if detected, 
+most people these days know to glance around in the air 
+for spotters. Nobody ever looks down. 
+>	
+Sounder
+EVO KROKODIL (MEDIUM DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+2G/3W
+1
+3(1)
+6
+2
+2
+8R
+12,000¥
+FEDERATED-BOEING KULL
+(PILOT AIRCRAFT)
+A mid-sized aerial drone with a small internal cargo 
+component, the Kull is best known for the underwing 
+“bomb racks” that allow it to attach a pair of disposable, 
+parachute-equipped supply crates. By flying over a tar-
+get zone, the Kull can quietly drop off supplies to a for-
+ward scout team, emergency medical supplies, and so 
+on. The Kull requires a much shorter landing strip than 
+a full-sized plane as well, making it an ideal smuggler.
+Standard Upgrades: Two single-use “bomb racks”
+Similar Models: Espirit Industries Recon-TF1, Saed-
+er-Krupp Bussard
+>	
+The Kull’s small enough to confuse radar, fast enough to 
+escape most drones, and dirt cheap.
+>	
+Kia
+>	
+Thing’s unarmed and unarmored, useless in a fight, and 
+the sensors are average at best.
+>	
+Rigger X
+F-B KULL (MEDIUM DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+4P
+2
+3(3)
+0
+3
+2
+4
+10,000¥
+MCT TUNNELER
+(PILOT GROUND CRAFT)
+Standard safety equipment at any mine and most other 
+resource-removing sites, the Tunneler is a basic crawler 
+drone fronted by a drilling mechanism, allowing it to create 
+a tunnel large enough for most metahumans to uncom-
+fortably shimmy through. Orks and trolls have to wait for 
+larger rescue machinery, but in the event of a collapse, 
+humans, dwarfs, and elves have an escape option. As you 
+can imagine, runners have been happy to use them for our 
+own nefarious ends, but the drilling is as loud as it is slow, 
+so don’t expect to get away with rapid silent intrusions.
+Standard Upgrades:  Drill mechanism (can dig 
+through a barrier with Armor 12 or less at a rate of 1 
+meter an hour.)
+>	
+These tunnels are usually unstable. More than one 
+person’s been killed when they collapse. 
+>	
+Traveller Jones
+MCT TUNNELER (MEDIUM DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+0P
+0
+3(2)
+6
+2
+2
+8R
+10,000¥
+RENRAKU LEBD-2 LAW 
+ENFORCEMENT BACKUP DRONE
+(PILOT AIRCRAFT)
+The LEBD-1was a Ford-built police drone that never 
+found a market with KE, Lone Star, or Eagle Security. 
+It was quietly discontinued after dismal sales. Renraku 
+picked up the plans for virtually nothing and redesigned 
+it somewhat for use with their Neo-PD subsidiary. The 
+new LEBD-2 builds on the reliable roto-drone’s ability to 
+be slotted into a charging mount on the back of a patrol 
+car to create one-officer, one-drone teams, combining a 
+human’s gut instincts and friendliness with a  drone’s ex-
+pendability and perfect recording of events. The drone 
+can be sent to flank a home, provide fire support via the 
+included taser, and even help with paperwork. Most of-
+ficers are as loyal to their drone partner as a K-9 officer 
+to their dog, and assaulting an LEBD-2 is treated as an 
+attack on an officer in most Neo-PD subsidiaries. 
+Standard Upgrades: Mini weapon mount, Yamaha Pul-
+sar, 4 taser darts, Smartsoft, Targeting (4) autosoft, Clear-
+sight (4) autosoft, Knowledge: Legal Codes (4) autosoft
+>	
+The LEBD’s strongest weapon is the camera. It can scan 
+a crowd, run facial-recognition software, cross-reference 
+with Renraku’s staggeringly large databases, and produce 
+warrants and criminal histories in record time. If you’ve 
+been seen in a Renraku facility in the past year, avoid 
+these at all cost.
+>	
+Sunshine
+>	
+They have trouble with goblin faces. The work Renraku’s 
+doing in the Underground is dramatically improving this.
+>	
+Bull
+RENRAKU LEBD-2 (MEDIUM DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+2P
+1
+3(0)
+9
+4
+4
+12R
+20,000¥
+TRANSYS STEED
+(PILOT GROUND CRAFT)
+There are a few people in this world who can’t manage 
+cybernetics. Some are mages, some have unique nerve 
+designs, while others believe that chrome “eats your 
+soul” and refuse it. Some of these people can’t walk, 
+due to either disability or infirmity. Enter the Steed, a 
+>> RIGGER 5.0 <<
+140    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 142 ========\nmotorized chair with wheels that can be controlled by 
+a simple trode-based DNI. Street-legal in the city, it can 
+also move around inside a building with ease.  
+Similar Models: Evo Freedom, DocWagon Chariot
+TRANSYS STEED (MEDIUM DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4/2
+1G
+1
+3(1)
+0
+2
+2
+2
+4,000¥
+LARGE DRONES
+AEROQUIP DUSTOFF
+The full details on this one are in Bullets and Bandages, 
+but I should point out that a few enterprising runners 
+had started modifying these things as personal trans-
+ports. For the cost of a motorcycle, you got an admit-
+tedly cramped personal helicopter. Prices shot up once 
+the hack got popularized online. Fraggin’ Invisible Hand!
+ARES MATILDA 
+(PILOT GROUND CRAFT)
+If you pushed over a refrigerator and gave it tank treads, 
+you’d have a Matilda. Blocky design, clumsy, and slow, the 
+Matilda’s main claims to fame are the two blast doors—es-
+sentially riot shields—that fold out from its side, allowing 
+officers to use it as mobile cover while advancing on rein-
+forced positions. The Matilda comes standard with a small 
+minigrenade launcher that can lob gas grenades ahead 
+for disruption, leaving the officers protected. Knight Errant 
+credits the Matilda with saving the lives of over two dozen 
+officers this past year, absorbing fire so that they don’t have 
+to. She ain’t pretty, but she works.
+Standard Upgrades: Two riot shields, standard 
+weapon mount, underbarrel grenade launcher, Target-
+ing (3) autosoft
+(if a shot hits the Matilda from a rear flank while the 
+shields are deployed, armor is halved.)
+ARES MATILDA (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+1
+2G
+1
+8
+8
+2
+1
+12R
+18,000¥
+ARES MULE 
+(PILOT WALKER)
+Another ancient design that dates back to DARPA re-
+search in the old United States, the Mule is a simple 
+>> RIGGER 5.0 <<
+ARES MULE
+>> THE AUTOMATED ARMY <<    141
+\n\n======== PDF PAGE 143 ========\nfour-legged drone designed to haul cargo around for 
+soldiers in the field, leaving them well-supplied but 
+lightly equipped enough to hustle when shit goes 
+down. With four legs and an excellent sense of bal-
+ance, the Mule can go anywhere a soldier can, but it 
+can carry an entire squad’s worth of supplies without 
+slowing down—a good thing, considering it’s as slow 
+as a marching soldier. Nearing fifty years old, the Mule 
+predates the idea of arming a drone, but the head can 
+issue a surprisingly strong grip when called on.
+Standard Upgrades: Drone arm (Strength 6, Agility 2)
+>	
+It doesn’t come with guns, but you can damn sure strap 
+‘em on these days.
+>	
+Stone
+>	
+The head and neck are as flexible and functional as a 
+primitive cyberarm. You’d be surprised at how often this 
+is overlooked.
+>	
+Kia
+ARES MULE (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+1G
+1
+4(3)
+6
+2
+2
+4
+8,000¥
+ARES PALADIN
+(PILOT GROUND CRAFT)
+After the debacle that was the Excalibur project, Ares 
+has been working hard to re-establish the trust they 
+lost among their most important customers: militaries 
+and law enforcement. In order to help rebuild that trust, 
+Ares decided to take a chip shot and release a simple, 
+effective, and affordable drone that could not possibly 
+go wrong. They call it the Paladin.
+The design of the Paladin is as straightforward and utili-
+tarian as they come. A simple tracked platform houses the 
+primary components of the drone, which is outfitted with 
+a pair of hydraulic arms that lift a sheet of plasteel and Kev-
+lar on command. The drone is designed to be integrated 
+with a sensor network to allow it access to cameras, mi-
+crophones, and other devices. A simple version of the old 
+Ares TacNet software is used to analyze data from these 
+various sources and determine if a shot has been fired. If 
+a shot has been fired, the arms swing up very quickly and 
+attempt to intercept the round in mid-flight.
+Once the plate is engaged, the drone’s dog brain 
+transitions to an escape plan. These plans can be 
+pre-loaded, or the pilot can be relied upon to utilize the 
+network’s data to create an escape route on the fly. The 
+Paladin has already seen several successes, most nota-
+bly in foiling a recent assassination attempt upon the 
+president of Kenya in Nairobi.
+>	
+Knight Errant is supposed to be working on using the 
+Paladin to protect their HTR units during breaches. 
+Instead of having a metahuman holding a riot shield, 
+they’re going to use the drone. The biggest problem 
+they’ve been running into is getting the drone to run 
+toward the gunfire.
+>	
+Turbo Bunny
+>	
+That’s not the only obstacle they’re facing. The drone isn’t 
+exactly quick. HTR teams often have to operate at least as 
+fast as a street samurai, so they’re jacked up on all sorts 
+of combat drugs. The drone just can’t keep up with that 
+level of reaction. Ares is a long way from phasing out 
+metahuman bodyguards.
+>	
+Mihoshi Oni
+Standard Upgrades: Tracked platform
+Game Information: The Paladin has limited func-
+tionality without a network. When operating in a net-
+work, the drone makes a Perception test as soon as a 
+shot is fired anywhere within detection range of any 
+device on the network. The number of hits that are 
+achieved on the test are treated as extra armor for the 
+protected VIP for that Initiative Pass. Afterward, the 
+plate acts as Good Cover for the VIP ( p. 190, SR5) as 
+long as the VIP is using the Take Cover action. If the Pal-
+adin is operating by itself, it cannot provide the Armor 
+bonus when a shot is fired. Instead, it can only be used 
+as Good Cover for the VIP.
+ARES PALADIN (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+5
+4G
+1
+5(0)
+18
+3
+2
+8R
+5,000¥
+CRASHCART “MEDICART”
+(PILOT GROUND CRAFT)
+Long seen as the little brother of DocWagon, Crash-
+Cart has recently gained a step on their competition. 
+The MediCart was unveiled at DroneCon at the end of 
+last year, and it has quickly gained a coveted position 
+in almost all disaster-recovery units around the world. 
+The tracked platform allows the MediCart to haul tre-
+mendous amounts of weight, and traverse almost any 
+terrain conditions that might be in the way of its desti-
+nation. Within the large frame resides a set of hydrau-
+lic rescue tools (commonly referred to as the “Jaws of 
+Life”), a pair of extendable arms that can lift up to 200 
+kilograms, and medical tools.
+The drone’s dog brain prioritizes targets that it can 
+detect first and attempts to get to those people who are 
+nearest to its location. During the Boston Lockdown, a 
+number of MediCarts were deployed to areas that had 
+seen the worst rioting. The rescue tools can cut through 
+most materials, and the arms can be used to lift debris 
+or patients. The medical tools are often deployed and 
+operated remotely, but the built-in software allows the 
+drone to perform basic life-support functions.
+>> RIGGER 5.0 <<
+142    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 144 ========\nSince its release, the MediCart has been credited 
+with saving over a dozen corporate lives, and sales have 
+been through the roof. Not to be outdone, DocWagon 
+has recently announced plans for a drone similar to the 
+MediCart, but with a built-in Valkyrie module and the 
+ability to lift up to 300 kilograms.
+Standard Upgrades: Tracked, specialized tools (hy-
+draulic rescue tools, medkit)
+Game Information: The hydraulic rescue tools on 
+the MediCart are capable of tearing through metal that 
+has been seared together, and it comes with the nec-
+essary appendages to puncture even plascrete. When 
+attempting to perform an act that would normally re-
+quire Strength + Body (such as lifting, forcing some-
+thing open, or tearing), use triple the MediCart’s Body 
+Rating for all tests. This means that the MediCart can 
+easily carry 270 kilograms without requiring a test. 
+The MediCart is capable of deploying a medkit to anyone 
+within two meters of the drone. The drone’s Pilot rating re-
+places the medkit’s rating for tests. The medkit comes with 
+twenty uses but cannot be used without the drone. Normal 
+replacement components are sufficient to refill the medkit.
+CC ‘MEDICART’ (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+5
+5G
+1
+6(2)
+5
+4
+4
+6
+10,000¥
+GTS TOWER
+(PILOT AIRCRAFT)
+A fairly standard lighter-than-air drone, slow, unar-
+mored, and unarmed, the Tower pulls double-duty as 
+a retransmission drone, extending a rigger’s own wire-
+less signal, as well as serving as an “airbase” for up to 
+four minidrones or eight microdrones. These passen-
+gers can be used for protection, but mostly are used to 
+scatter and scan a large area swiftly. Several police cor-
+porations park Towers over events with large crowds in 
+order to keep a wide-eye on the surroundings. 
+Standard Upgrades: Drone rack (4)
+Similar 
+Models: 
+Cyberspace 
+Designs 
+Nexus, 
+GN-Nissan Beehive
+GTS TOWER (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+1P
+1
+4(0)
+6
+2
+2
+8
+10,000¥
+SAEDER-KRUPP  
+MK-17D NEPTUNE
+(PILOT WATERCRAFT)
+Designed to fit into a standard torpedo tube, the Nep-
+tune can either be launched from a submarine as origi-
+nally designed or, far more common these days, be de-
+ployed in a more traditional manner. Fully submersible 
+to depths of a kilometer, the Neptune has become the 
+industry-standard exploration and underwater survey 
+drone. The Neptune has a more-advanced Pilot than 
+most drones due to the difficulty, if not impossibility, of 
+radio communication once it dives, leaving it to oper-
+ate in a fully autonomous state, surfacing in designated 
+locations at designated times, allowing it to be gath-
+ered up and data transferred.
+Standard Upgrades: Submersible, Searchlight
+Similar Models: Proteus Tiefaucher, Shiawase Suredo
+>	
+Too expensive for most runners, priceless to coastal 
+smugglers.
+>	
+2XL
+>	
+Needs more boom.
+>	
+Kane
+>	
+You can tether a drone via cable to get around the 
+wireless transmission issues faced by water, but your dive 
+is limited by the length of the cord. Cut the cord and the 
+drone’s pilot has to take over as best it can.
+>	
+Sounder
+S-K NEPTUNE (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+3W
+1
+5(0)
+3
+4
+3
+10R
+17,500¥
+MITSUHAMA MALAKIM
+(PILOT AIRCRAFT)
+The standard response drones for GOD, the Malakim 
+are quad-copter drones that pack non-lethal weaponry 
+and high-level jammers, released in support of agents 
+on foot. The Malakim’s job is to block off communi-
+cation, keep updated via reports from Doves that are 
+scattered around watching potential escape routes, 
+and serve as a last line of offense should a takedown be 
+needed. While well-armed and armored, the Malakim’s 
+larger size prevents it from entering some areas, so if 
+you’re being pursued, move from building to building 
+and never get caught out in the open; if you do, it’ll 
+drop you.
+Standard Upgrades: Standard weapon mount, area 
+jammer (6), directional jammer (6), Targeting autosoft (4)
+MITSUHAMA MALAKIM (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+6P
+2
+4(0)
+9
+4
+4
+20F
+40,000¥
+HUGE DRONES
+ARES KN-Y0
+(PILOT GROUND CRAFT)
+Designated as an unmanned micro-tank, the KN-Y0 se-
+ries of combat drones shows that Ares isn’t sitting idle 
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    143
+\n\n======== PDF PAGE 145 ========\nin the wake of the damage it’s taken over the past few 
+years. Unfortunately, the UCAS government has been 
+cool to new designs, so Ares is currently testing other 
+markets with the KN-Y0, to see if there are any takers 
+for a full production run. There are three sub-designs: 
+the Y1, Y2, and Y4, better known as Phobos, Deimos, 
+and Eris. While all three share the same tread-based fir-
+ing platform and stout armor, the turret of each has a 
+different weapon design and the model is thus given a 
+different tactical consideration. The Phobos sports an 
+RPK heavy machine gun with two hundred rounds of 
+on-board ammunition, putting it into an anti-infantry 
+role. The Deimos mounts a Panther XXL assault cannon 
+and fifteen rounds of ammo for anti-armor work. The 
+Eris has an Antioch MGL-12 grenade launcher and a 
+clip-switching mechanism that allows it to select from 
+any of the two dozen grenades it carries as well as a 
+directional jammer for inhibiting opposition C&C. In-
+tended to be deployed together, the three offset one 
+another’s weaknesses, or may be attached as heavy 
+support for patrols. 
+Standard Upgrades: (all) Targeting (5) autosoft, 
+Smartsoft, (Phobos and Deimos), heavy weapon mount, 
+(Eris) large weapon mount, area jammer (6), directional 
+jammer (6), Electronic Warfare (5) autosoft
+>	
+I happen to have one full set available for purchase.
+>	
+Red Anya
+>	
+Huh. The Eris is the Y4 model. Wonder what happened to 
+Y3?
+>	
+Bull
+ARES KN—Y2 (DEIMOS) (HUGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+2G
+1
+6(0)
+18
+5
+3
+20F
+220,000¥
+ARES KN—Y4 (ERIS) (HUGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+2G
+1
+6(0)
+18
+5
+3
+24F
+270,000¥
+ARES KN—Y1 (PHOBOS) (HUGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2G
+1
+6(0)
+18
+5
+3
+16F
+250,000¥
+40,000¥
+>> RIGGER 5.0 <<
+MESAMETRIC KODIAK
+144    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 146 ========\nMESAMETRIC KODIAK
+(PILOT GROUND CRAFT)
+If a bulldozer, a backhoe, and steamroller had a freaky 
+three-way, the Kodiak would be their collective baby. A 
+massive drone designed for road work, be it clearing, 
+constructing, or destroying, the Kodiak is a common sight 
+in the NAN, taking care of long stretches of roads that 
+the smaller population can’t maintain. A quarter-century 
+ago, it was designed to handle these needs for the Sioux 
+military, but sales to civilian governments quickly showed 
+where the real need was. There are several industrial vari-
+ants now, for tree cutting and planting, powerline repairs, 
+and more, but the core Kodiak is fraggin’ everywhere.
+Standard Upgrades: Drone arm (Strength 12, Agility 
+2), bulldozer blade, Road Engineering (2) autosoft
+>	
+They’ve ripped up most of the roads from the old U.S. of 
+A. out in NAN territories. Damn shame. I’d give my left arm 
+to have driven on some of those things. The historicals are 
+so romantic!
+>	
+Turbo Bunny
+>	
+Ugh. Trapped in a hot car for days, driving through 
+cornfields and small towns? Glad they’re gone.
+>	
+/dev/grrl
+MESAMETRIC KODIAK (HUGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2/4
+2G
+1
+6(2)
+12
+2
+2
+12R
+40,000¥
+NEONET AVENGING ANGEL
+(PILOT AIRCRAFT)
+The last of the GOD-specific designs, the Avenging An-
+gel is the Thor Strike of drones. No muss, no fuss, the 
+Avenging Angel is a multi-MACH milspec drone that 
+carries a single fuel-air bomb, capable of leveling an 
+entire city block, for when you absolutely, positively, 
+have to make sure that decker nest is rooted out. Offi-
+cially, none have ever been used. Officially.
+Standard Upgrades: Heavy weapon mount
+>	
+For all intents and purposes, it’s a jet fighter without a 
+pilot.
+>	
+Kane
+>	
+NeoNET and not Ares? That is unexpected.
+>	
+Balladeer
+>	
+Notice that the three core members of the Wireless Matrix 
+Initiative make the three GOD drones? Saeder-Krupp and 
+Aztechnology have a seat at the table, but at the end of the 
+day, GOD and the corporate court know who the strongest 
+Matrix corps are. 
+>	
+/dev/grrl
+NEONET AVENGING ANGEL (HUGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+6J
+2
+6(0)
+12
+6
+6
+40F
+1,000,000¥
+ANTHROPOMORPHIC 
+DRONES
+Anthromorphic drones operate somewhat differently 
+than most walker drones. For starters, they come with 
+a full set of two drone arms and two drone legs, which 
+are usually Obvious but may be Synthetic instead. In 
+addition, they have a Physical condition monitor   of 8 
++ (Body/2), being more durable than most drones. Be-
+ing able to go anywhere a metahuman can, with similar 
+limbs and build, they can even use some metahuman 
+equipment, such as clothing, weapons, or tools. This 
+makes them far more versatile than most drones, but 
+the price point reflects that.
+AZTECHNOLOGY CRIADO JUAN
+“I want Juan! I need Juan! I gotta gotta HAVE Juan!” The 
+ad campaign that will haunt my fraggin’ dreams. The Juan 
+started off as simply “The Criado,” a cheap Azzie knock-
+off of the Renraku Manservant that was used around the 
+houses of pureblooded Azlan aristocrats in place of mes-
+tizo half-bloods. A PR fluff piece on “Ding” Ramos hap-
+pened to catch one on camera. When asked what it was, 
+Ding laughed and said, “Oh, that’s just Juan. Don’t you 
+have Juan yourself?” Calls started coming in from mid-
+dle-class types who wanted to know where to get “Juan,” 
+and Aztechnology PR flacks jumped on the chance. The 
+next thing you know, “I gotta gotta HAVE Juan!” was plas-
+tered on every AR feed they could find, with guest spots 
+on dozens of trid programs and pop-up Matrix ads. The 
+drone itself is an average house-bot at best, with a comical 
+tubular body and spindly limbs, but like the Manservant it 
+reflects, it’s generally seen as harmless and non-threaten-
+ing due to these structural weaknesses.
+Similar Models: Renraku Manservant, Telestrian In-
+dustries Jeeves
+>	
+The onboard pilot’s about as good as you’d expect from 
+a budget Aztechnology crapstack as well. Until you start 
+loading up on the overpriced autosofts (seriously, a 
+thousand nuyen for cooking?!), it’s not able to handle 
+much more complex than domestic cleaning. Then again, 
+that’s kind of the point.
+>	
+Glitch
+>	
+It comes with the benefit of not being a mixed-blood 
+peasant, of course. Aztlan racism is weird.
+>	
+Butch
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    145
+\n\n======== PDF PAGE 147 ========\n>	
+On the plus side, it’s domestic help that the head of the 
+household can’t sleep with. On the negative side … 
+it’s domestic help that the head of the household can’t 
+sleep with.
+>	
+Slamm-0!
+>	
+Amazing how a punk runner can still absorb cultural 
+sexism and class exploitation. 
+>	
+Aufheben
+>	
+On a related note, since the Juan’s introduction this 
+past year, unemployment in Aztlan has gone up by one 
+percent. Work is also getting harder to find for quite a 
+few simple services as Juans take over mowing the yard, 
+janitorial work, and similar duties.
+>	
+Icarus
+>	
+Am I the only one who noticed how much Ding’s personal 
+version looked like Juan Atzcapotzalco?
+>	
+Plan 9
+CRIADO JUAN (ANTHRO DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+2G
+1
+2
+0
+2
+2
+2
+8,000¥
+HORIZON LITTLE BUDDY
+About as large as the average five-year-old human, the 
+Little Buddy is designed for working parents with a sin-
+gle child to serve as a nanny, teacher, babysitter, and 
+playmate. The Little Buddy teaches as it entertains and 
+is equipped with a variety of age-appropriate lessons 
+on shapes, colors, letters, words, and numbers, as well 
+as a selection of bedtime stories and lullabies. The Lit-
+tle Buddy is designed to contact the parents whenever 
+faced with a situation it’s not pre-programed to face, or 
+when certain conditions are met, such as a wounded or 
+missing child. Never leave your child alone… get them 
+a Little Buddy™!
+Similar Models: Hasbro Playsalot, Sony Headstart
+Standard Upgrades: Instruction (2) autosoft
+>	
+A more modern version of the classic Bust-a-Move toy, 
+pushing the Horizon edu-tainment model down your 
+throat. It’s designed to make little Jimmy into a model 
+corporate citizen and serve as psychological support for 
+the parents who work too much to raise their own kid. It’s 
+too expensive for most people to raise a second child, so 
+it’s like having a brother or sister. Ish.
+>	
+/dev/grrl
+>	
+Early versions were somewhat more lifelike, but there 
+were problems in beta testing with childless adults 
+adopting them as if they were real. Little Buddy was 
+stripped down from there to the current non-threatening 
+plastic look. It’s available in a variety of colors, and the 
+voice selector can be set for boy or girl. There’s no other 
+difference between models I know of.
+>	
+Netcat
+>	
+These things aren’t very bright out of the box. A clever kid 
+can trick them without too much trouble, at which point 
+they freak out and start calling mommy and daddy. As is 
+the case with most of the drones here, the manufacturers 
+break even on the physical frame but make a killing in the 
+software department. That said, the “Play Doctor” first aid 
+autosoft option might be intended for skinned knees and 
+swallowed pennies, but it can set a broken arm, help with 
+asthma attacks, or even apply a trauma patch if needed. 
+Good stuff.
+>	
+Stone
+HORIZON LITTLE BUDDY (ANTHRO DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+1G
+1
+1
+0
+2
+2
+4
+2,000¥
+MITSUHAMA COMPUTER 
+TECHNOLOGIES KENCHIKU-KIKAI
+The oldest model anthromorphic drone still in service 
+today, the K-K has been working at MCT construction 
+sites for over three decades now. Roughly the size and 
+strength of an Ork, but without that pesky non-human 
+repulsiveness that MCT hates so much, the Kikai is a 
+tireless construction machine, able to use metahuman 
+construction gear, such as jackhammers, welders, or 
+rivet guns, but it also has enough raw strength to car-
+ry heavy loads or even bend rebar with its core hand 
+actuators. They’re slow, a little clumsy, and not terribly 
+bright, but as long as they have metahuman oversight 
+for when tasks get complicated, they can get the job 
+done like a proper crew, only cheaper. Until modern 
+nano-construction techniques largely left them ob-
+solete, the K-K dominated the construction industry, 
+putting tens of thousands of laborers out of work. With 
+the recent nano-pocalypse, the K-K has been salvaged 
+form the dustbin of history and put back into service.
+Similar Models: S-K Colossus, Ares JHI-65
+Standard Upgrades: Industrial Mechanic (2) auto-
+soft, limbs enhanced to Strength 8
+>	
+Security protocols on these used to be laughable, since 
+the software was seven generations behind, but they 
+predate wireless so you either had to get in there and 
+insert a datacord manually (always a dicey prospect) or 
+hack the central command core that they access each 
+night for recharging and downloading the next day’s 
+work program. 
+>	
+Pistons
+>> RIGGER 5.0 <<
+146    >> THE AUTOMATED ARMY <<
+\n\n======== PDF PAGE 148 ========\n>	
+While new machines are out that include a wireless 
+feed, Renraku’s been slotting in more anti-technomancer 
+protections, just in case. Over ninety percent of the units 
+are still throwbacks from pre-wireless days, however, so 
+hack carefully.
+>	
+Clockwork
+>	
+The raw strength that they have makes them dangerous 
+in terms of collateral damage, but they’re so slow and 
+clumsy that they’re not really a big risk to living people. 
+Well, unless you’re in your car when they flip it over. 
+That’d hurt.
+>	
+Beaker
+>	
+As a reminder, while these things are intended for 
+construction use, you can slot any sort of autosoft into 
+them with a bit of work. Quite a few can be found as one-
+off units in small warehouses, for instance, to serve as a 
+walking stacker, moving pallets about or barrels too heavy 
+for metahumans, or simple first-aid programs at hospitals 
+to serve as orderlies for thrashing patients far stronger 
+than the nurses can handle. Keep in mind the limitations 
+of the simple processor’s power.
+>	
+Nephrine
+MCT KENCHIKU-KIKAI (ANTHRO DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+2G
+1
+5
+3
+2
+2
+8R
+20,000¥
+NEONET JUGGERNAUGHT
+Tired of your officers being out-gunned, out-armored, 
+and out-muscled? Need some heavy artillery to put 
+street scum back in their place? Then try the NeoNET 
+Juggernaught! Pushing the very limits of modern an-
+thromorphic design, the Juggernaught is the largest 
+two-legged mecha on the market today, standing fully 
+a head taller than the average troll and armored from 
+head to toe. Specially designed with multiple weapon 
+mounts (weapons sold separately) for lethal, or less-le-
+thal, armaments, anti-riot grenade dispensers, and 
+emergency point-blank gas dispensers, the Jugger-
+naught also possesses fully articulated hand actuators 
+that are capable of picking up and using additional re-
+sources as required or applying physical restraint when 
+called upon. The NeoNET Juggernaught—operators are 
+standing by to take your order now!
+Standard Upgrades: One standard weapon mount in 
+each arm, two one-use grenade drops.
+>	
+What a joke. These things have been the biggest 
+boondoggle in NeoNET’s history. They were originally 
+conceived back in the late ’40s as a military drone, a pet 
+project of Villers’ side of Fuchi, but internal stresses kept 
+it from going anywhere. Nuyen bled into the project with 
+nothing to show for it for decades, and when it finally got 
+rolled out in ’69 after thirty-plus years of development 
+hell, it failed almost every test the UCAS Army threw at 
+it. It’s been cleaned up, reprogrammed, and repackaged 
+for civilian security use now, but at the core it’s a failed 
+military design, and it shows. It has too many systems for 
+such a limited processor and sometimes uses the wrong 
+one, it’s too big to fit easily into urban environments but 
+too small to just smash its way through. Metahuman 
+stairs sometimes give way under it, and floors are never 
+pretty after it goes stomping through. It’s just this big, 
+clumsy oaf of a machine that’s prone to Frankenstein-like 
+flailing when it gets confused. 
+>	
+Clockwork
+>	
+I was wondering about those big ugly chicken feet! Being 
+intended for off-road use in the field of battle or through 
+an occupied urban warzone (where you don’t really care 
+about the décor) makes much more sense than police 
+work.
+>	
+/dev/grrl
+>	
+They make for drekky cops and drekky soldiers, but 
+they’re intimidating enough to be used for anti-riot patrol. 
+Kind of a niche product, but hey, whatever makes some of 
+your nuyen back, I guess.
+>	
+Puck
+>	
+You can sometimes find them parked in larger garages 
+and warehouses in corporate facilities (or organized crime 
+storage locations), used as intimidating security. That 
+usually lasts until a break-in occurs and the things spray 
+heavy weapons fire everywhere without consideration for 
+collateral damage. Dealing with three teenage corpses is 
+easy enough, but when ten grand of merchandise is filled 
+with bullet holes, well, then there’s some ‘splaining to do.
+>	
+Kat o’ Nine Tales
+>	
+The single best use I’ve found for those overgrown 
+paperweights is as the centerpiece in some TactiCool’s 
+basement. Oh, and if you think the official NeoNET models 
+are bad, you should see the Russian knockoffs. Go visit 
+your local Vory weapons dealer, and he’ll likely have one 
+leashed around back somewhere. They keep the weapons 
+unloaded for a reason. *ClickClickClickClickClick* “Halt and 
+produce your identification!” *ClickClickClickClickClick* 
+“Identification approved!”
+>	
+Kane
+NEONET JUGGERNAUGHT (ANTHRO DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+4G
+1
+6
+12
+3
+3
+14R
+100,000¥
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    147
+\n\n======== PDF PAGE 149 ========\nSAEDER-KRUPP 
+DIREKTIONSSEKRETAR
+The name’s a mouthful, but the Executive Secretary from 
+Saeder-Krupp is a true marvel of modern engineering. 
+The core piloting program is a semi-autonomous know-
+bot for all intents and purposes, learning the mannerisms 
+and schedule of its owner and factoring those in on re-
+sponses and in trying to maximize workflow. They han-
+dle standard datapushing tasks, manage finances, keep 
+books up to date, clean, file, take notes, and, oh yes, they 
+can also be pressed into service as additional security 
+when needed, with a subtle armored core around the 
+most vital internal parts, fully articulated hands that can 
+handle a wide array of weaponry, topped off with enough 
+speed and power to deliver mortal blows even unarmed. 
+Absolutely amazing.
+Similar Models: Sony Orderly-4, Ares Pygmalion
+>	
+The Secretary has the single most advanced processing 
+unit of any of the drones being detailed here. You can slot 
+all manner of autosoft in there, from pistols to driving to 
+Swedish massage. Just brilliant work.
+>	
+Slamm-0!
+>	
+The baseline drone isn’t going to be mistaken for human, 
+but, like the i-Doll, layers of customization are present, 
+should the owner want a more fully functional, and 
+anatomically correct, assistant.
+>	
+Glitch
+>	
+I wonder how well it fits data in the yar?
+>	
+Bull
+>	
+… Pretending to be Kane today, Bull?
+>	
+Slamm-0!
+>	
+Just making a joke that’s way too old. Nevermind.
+>	
+Bull
+>	
+I’m told that there are dozens of these models in place 
+with fully customized appearances, blended in at 
+important institutions all over the world such as banks, 
+megacorporate offices, the Intercontinental Climate Data 
+Center, and so on. These dopplegangers blend in with 
+society but send regular reports back to their dragon 
+master or, if the need is great enough, they can be 
+remotely activated to sabotage a facility, direct finances 
+his way, or any number of other acts of espionage.
+>	
+Plan 9
+>	
+What, not going to claim that Hans Brackhaus is secretly 
+two dozen of these robots?
+>	
+Snopes
+>	
+Don’t be ridiculous. Everyone knows that Brackhaus is 
+a disguise that Alamais used to keep tabs on Lofwyr’s 
+activities.
+>	
+Plan 9
+S-K DIREKTIONSSEKRETAR (ANTHRO DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+4G
+2
+4
+3
+4
+4
+12R
+40,000¥
+SHIAWASE I-DOLL
+The latest in a long line of humanoid robots from Japan, 
+the i-Doll is perhaps the most customizable one yet. The 
+core model is designed to be a domestic servant, doing 
+the cleaning and the cooking as expected, but the big sell-
+ing point is the “Build your own!” section of the Shiawase 
+i-Doll website, where you can make it more lifelike, se-
+lect personality traits, hair color, and so on as you see fit. 
+Sometimes derided as “robo-girlfriends,” only the most 
+expensive i-Doll models can even try to pass for human. 
+The rest make good listeners, and sometimes it’s just nice 
+to have a pet in the house to talk to, but it’s the high-nuy-
+en realism market that really makes Shiawase profit.
+Similar Models: Renraku Nadeshiko, Spinrad OoLaLa
+Standard Upgrades: Realistic Features (1), Cooking 
+(3) Autosoft
+>	
+Class 2 is the most popular model, despite the cost. Able 
+to pass for human but with enough robotic features that 
+it doesn’t trigger the uncanny valley, it’s a nice bridge 
+between cost and aesthetics. Everybody loves the ear-
+tennae look.
+>	
+Clockwork 
+>	
+Class 3 Dolls are as lifelike as synthetic cyberlimbs, but 
+the usual problems, such as cold skin and eyes that aren’t 
+quite right, really makes some people uncomfortable. 
+Then again, they sell a ton of these, so what do I know?
+>	
+Sticks
+>	
+The Class 4 models are where Shiawase’s talent shows. 
+Body temperature, replicated breathing, subtle facial 
+expressions and body motion … they’re more real than 
+real. 
+>	
+Turbo Bunny
+>	
+Some of the more human-centric AIs have been trying 
+them out as bodies, to interact more with the metahuman 
+world. The limited processing power is crippling, however, 
+and most don’t stay for long. 
+>	
+Netcat
+SHIAWASE I-DOLL (ANTHRO DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+3G
+1
+3
+0
+3
+3
+4
+20,000¥
+>> RIGGER 5.0 <<
+148    >> THE AUTOMATED ARMY <<

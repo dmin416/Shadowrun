@@ -1,0 +1,1036 @@
+﻿==== PDF 160 ====
+PROTECTION
+Protection modifications are all based around provid-
+ing various defensive measures for the vehicle or its 
+occupants.
+ANTI-THEFT SYSTEM
+No self-respecting rigger wants to let their precious ve-
+hicle be stolen by some gutter punk with a screwdriver. 
+The anti-theft system modification provides a variety of 
+protection options, depending on the level rating.  
+Rating 1 simply installs sensors that detect an unau-
+thorized intrusion and alerts the owner with physical lights 
+and sounds, or sends an electronic message, or both. 
+Rating 2 includes the sensors from the previous lev-
+el and adds the ability for the owner to remotely lock-
+down the vehicle, making it physically impossible to 
+drive until the release code is sent by the owner. This 
+system can be circumvented by decking the vehicle, or 
+mechanically disabling the fail safe with a Hardware + 
+Logic [Logic] (4) Test. 
+If all of that is just for soft-ass corporate drones, then 
+Rating 3 may be for you. This level includes all of the 
+previous features, with the addition of an electro-shock 
+system inflicting 9S(e), or a gas release system equipped 
+with the toxin of your choice (see p. 409, SR5).
+Rating 4 is the final word in vehicle protection; it 
+includes all of the previous levelÆs features and adds a 
+remote triggered self-destruct option. The modified ve-
+hicle is reduced to medium-to-small component parts. 
+The explosion has a base damage of 12P and û2 AP, with 
+damage from the blast û2/m.
+ARMOR
+Need to protect your vehicle? Then give it some ar-
+mor! Vehicle armor comes in two varieties: standard 
+and concealed. Standard vehicle armor is additional 
+plating bolted or welded to the exteriorùcrude but in-
+credibly effective. However, it is immediately obvious 
+to any observer that the vehicle has a bunch of extra 
+plating slapped on to it. While that will win a runner 
+some points in the barrens, it may not sit too well 
+with security forces in downtown. Concealed armor 
+is installed in such a way as to be noticeable only to 
+a trained observer (Perception (4) Test), but does not 
+allow nearly as much protection to be installed. A ve-
+hicle must choose the standard or concealed option 
+for all additional armor takenùthere cannot be some 
+armor of one time along with some of the other. Re-
+gardless of type, each point taken for this modification 
+adds a point to the vehicleÆs Armor value for Damage 
+Resistance Tests. The most armor any vehicle can add 
+is equal to vehicle Body (meaning maximum armor = 
+Body + existing armor Rating). This is true even if there 
+are remaining modification slots on the vehicle.
+PASSENGER PROTECTION 
+SYSTEM (PPS)
+The passenger protection system (PPS) is a well known 
+and trusted series of systems and modifications made 
+to a vehicle to keep its passengers safe in the case of 
+a collision or other ôadverse vehicular situations.ö PPS 
+components include four-point harnesses, padded 
+surfaces, quick-deploying air bags, and in some cases 
+fast-drying foam. A PPS has a Rating of 1 to 6, with the 
+Rating added as dice pool bonus to any Damage Resis-
+tance Tests by passengers from damage due to crashes 
+or any other vehicular activity (including ramming) that 
+is not an attack by a weapon.
+PERSONAL ARMOR
+Shadowrunning in a vehicle can be dangerous for the 
+occupants. Besides just faithful (or mercenary) team-
+mates, there may be precious cargo or passengers that 
+need protecting. Personal armor is a modification that 
+adds additional ballistic protection to the occupants of 
+a vehicle in the form of protective lining, ballistic cloth, 
+and ricochet-reducing materials. The modification has a 
+Rating of 1 to 10, with each Rating point adding to the 
+armor used in Damage Resistance Tests for damage to 
+passengers from attacks originating outside the vehicle.
+SPECIAL ARMOR 
+MODIFICATION
+With this modification a vehicleÆs armor can be made 
+more resistant to a specific type of damage. Special 
+armor modification works in the same was as modi-
+fications for personal armor (p. 437-438, SR5), with 
+vehicles able to take only Chemical Protection, Fire 
+Resistance, Insulation, Nonconductivity, Radiation 
+Shielding, and Universal Mirror Material. Each mod-
+ification can be taken with a maximum Rating of the 
+armor value of the vehicle. Special armor modification 
+may be taken multiple times, each time with a different 
+armor modification.
+WEAPONS
+AMMO BINS
+Are you one of those runners that feel that any problem 
+can be solved with enough bullets? Is ôspray and prayö 
+your personal street proverb? Then you probably want 
+the ammo bin modification. Each ammo bin modifica-
+tion provides an extra 250 rounds of ammunition for 
+one of the vehicleÆs weapon mounts. The modification 
+may be taken multiple times, providing more rounds 
+for different weapons or even multiple times for the 
+same weapon (if you really need a lot of bullets).
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    159
+
+
+==== PDF 161 ====
+DRONE RACK
+A drone rack is an indispensable tool for a rigger who relies 
+on drones to accomplish critical tasks for their team. Drone 
+racks consist of a metal framework or harness designed to 
+allow for quick and easy deployment of a drone in an in-
+stant, turning a vehicle equipped with several of them into 
+a powerful, multipurpose drone carrier. Any drone carried 
+in any kind of drone rack can be deployed by spending a 
+Complex Action, or Simple Action if it is wireless enabled. 
+Each drone rack can carry a single drone of a maximum 
+size depending on the size of the rack. Additionally, each 
+drone rack can be standard or landing type.
+All standard drone racks deploy drones as above but 
+require a manual process to re-embark the drone. This 
+involves physically putting the drone back into the rack, 
+a process that takes about one minute per drone.
+Landing drone racks have a mechanic or electro-
+magnetic grapple system that can automatically re-em-
+bark a drone that is directly beneath or adjacent to them 
+with a Complex Action. This can even be done while the 
+the vehicle is in motion, as long as the target drone can 
+match the vehicleÆs speed.
+Micro drone racks can hold up to ten micro drones, 
+mini drone racks can carry a drone of up to Mini size, 
+small drone racks can carry up to a Small drone, medi-
+um drone racks can carry up to a Medium drone, and 
+large drone racks can carry (you guessed it) up to a 
+Large drone.
+GUN PORT
+For those times when you want your vehicle to be less 
+ôcarö and more ôarmored personnel carrier,ö there is 
+the gun port mod. A gun port is a small flap or slot in-
+stalled strategically in the hull of the vehicle that allows 
+a single passenger (or the driver, if you can multitask) 
+to shoot a hand-held weapon at a target outside the 
+vehicle, while still staying completely protected by the 
+vehicleÆs armor. The port provides a ninety-degree 
+cone of visibility, and a small stability harness that pro-
+vides 4 points of Recoil Compensation. The gun port 
+mod can be taken as many times as possible for the ve-
+hicle, though provides no benefit beyond the amount 
+of passengers that a vehicle can reasonably carry.
+MISSILE DEFENSE SYSTEM
+While this item normally reserved for military use, a 
+resourceful and properly connected shadowrunner has 
+been known to get their hands on a missile defense 
+system (MDS). Using a highly complicated and special-
+ized set of software, the system ties in control of one 
+or more on-board weapon systems to shoot down in-
+coming missiles and rockets while in flight. The system 
+requires the vehicle to have a Sensor rating of 5 (min-
+imum) and at least one weapon capable of Full-Auto 
+fire, or a laser weapon, to be attached via remote con-
+trol turret weapon mount. When an incoming projectile 
+is detected, the system takes control of all weapons 
+tied into it in order to intercept in the incoming projec-
+tile. This supersedes any other current controller of the 
+weapon(s). Ballistics weapons use 20 rounds of ammu-
+nition each time the system activates. In game turns, 
+each ballistic weapon tied into the system gives the de-
+fender +2 on Defense Tests made against missiles and 
+rockets. Each laser weapon provides +4 dice.
+PROTECTION MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Anti-Theft System
+Rating 1
+1
+4
+Kit
+ù 
+4
+500Ñ
+Rating 2
+2
+8
+Kit
+ù 
+6
+1,000Ñ
+Rating 3
+4
+12
+Shop
+ù 
+8R
+2,500Ñ
+Rating 4
+6
+16
+Shop
+Demolitions 
+12F
+5,000Ñ
+Armor
+Standard
+Rating x 2
+Rating x 2
+Shop
+Armorer
+6R
+Rating x 500Ñ
+Concealed
+Rating x 3
+Rating x 3
+Shop
+Armorer
+12R
+Rating x 3,000Ñ
+PPS (Rating 1-6)
+2
+Rating x 4
+Shop
+ù
+6
+Rating x 2,000Ñ
+Personal Armor (Rating 1-10)
+2
+Rating x 2
+Shop
+Armorer 
+(Rating)R
+ Rating x 500Ñ
+Special Armor Modification
+2
+12
+Shop
+Armorer
+(As Mod)
+(As Mod) x 2
+>> RIGGER 5.0 <<
+160    >> BUILDING THE PERFECT BEAST <<
+
+
+==== PDF 163 ====
+>> RIGGER 5.0 <<
+WEAPON MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Ammo Bin
+1
+4
+Shop
+Armorer
+6R
+200Ñ
+Standard Drone Rack
+Mini
+1
+8
+Kit
+ù 
+4
+500Ñ
+Small
+2
+10
+Shop
+ù 
+4
+1,000Ñ
+Medium
+3
+12
+Shop
+ù 
+6
+2,000Ñ
+Large
+4
+16
+Shop
+ù 
+8
+4,000Ñ
+Landing Drone Rack
+Mini 
+2
+10
+Shop
+ù 
+6
+1,000Ñ
+Small
+3
+12
+Shop
+ù 
+6
+4,000Ñ
+Medium 
+4
+14
+Facility
+ù 
+8
+10,000Ñ
+Large
+5
+20
+Facility
+ù 
+12
+20,000Ñ
+Gun Port
+1
+4
+Kit
+ù 
+6R
+500Ñ
+Missile Defense System
+3
+16
+Facility
+Software
+12R 
+15,000Ñ
+Oil Slick Sprayer
+2
+8
+Shop
+ù 
+8F
+500Ñ
+Smoke Projector
+2
+8
+Shop
+ù 
+6R
+750Ñ
+Thermal Smoke
++100Ñ
+Road Strip Ejector
+2
+10
+Shop
+ù 
+10F
+800Ñ + strips
+Weapon Mount
+Light Size
+1
+4
+Kit
+Armorer
+6F
+750Ñ
+Standard Size
+2
+6
+Shop
+Armorer
+8F
+1,500Ñ
+Heavy Size
+4
+10
+Shop
+Armorer
+12F
+4,000Ñ
+External Visibility
+û
+ù
+ù
+ù
+ù
+û
+Internal Visibility
++2
++6
+Shop
+ù
++2
++1,500Ñ
+Concealed Visibility
++4
++10
+Shop
+ù
++4
++4,000Ñ
+Fixed Flexibility
+û
+ù
+ù
+ù
+ù
+ù
+Flexible Flexibility
++1
++4
+Shop
+ù
++2
++2,000Ñ
+Turret Flexibility
++2
++12
+Facility
+ù
++6
++5,000Ñ
+Remote Control
+û
+ù
+ù
+ù
+ù
+ù
+Manual Control
++1
++4
+Shop
+ù
++1
++500Ñ
+Armored Manual Control
++2
++6
+Shop
+ù
++4
++1,500Ñ
+162    >> BUILDING THE PERFECT BEAST <<
+
+
+==== PDF 165 ====
+allows it to display any kind of image sent to the sys-
+tem with an electronic signal. This can be as simple as 
+changing the color of the vehicle, or as complex as cov-
+ering it in moving advertisements and video. Changing 
+the output of the coating is a Free Action. Particularly 
+clever riggers have linked the video feed from their ex-
+ternal sensors into the system so that the exterior of 
+the vehicle mimics the environment around it, resulting 
+in a crude (but effective) ôcloakingö or blending system. 
+When running in this mode, as long as it is not moving 
+faster than its Walking rate, Perception Tests made to 
+find the vehicle suffer a û3 dice pool penalty.
+EXTRA ENTRY/EXIT POINTS
+There are plenty of situations when a runner may need 
+to get in or out of their vehicle in an unusual way, for an 
+unusual situation. A vehicle equipped with extra entry/
+exit points has a variety of extra points on the vehicle 
+that can be used to get in or out of the vehicle. These 
+could be an ork-sized sunroof, or a special trap door in 
+the floor of the vehicle. In game terms, any occupant 
+of the vehicle is assumed to have a convenient entry 
+or exit point accessible to them, no matter what state 
+the vehicle it is in (including upside down), or from 
+what position they are attempting to access the vehicle 
+(such as from the roof).
+EJECTION SEATS
+Remember that time when there was an annoying or, 
+in the back and you wished you could just push a button 
+and fire him out of the vehicle? Well, with ejection seats 
+you can! Using a simple expanding gas propulsion sys-
+tem, activated remotely with a Free Action, any seat in 
+the vehicle can become a means to eject the occupant 
+of that seat. Seats can be equipped with parachutes if 
+the system is being used for safe egress of someone 
+that you want to be whole when they land, or without 
+if not. Traditionally, ejection seats launch vertically up-
+ward, but they can be configured to launch horizontally, 
+or even straight down (particularly vicious in aircraft or 
+watercraft).
+EXTREME ENVIRONMENT 
+MODIFICATION
+Most vehicles are manufactured with the anticipa-
+tion and intention that they will be used in common 
+or banal environmentsùbasically, those found in the 
+day-to-day life of most of the population. There are 
+plenty of times, however, when a rigger will need his 
+vehicle to operate smoothly in environments outside 
+of those normal conditions. Since most vehicles were 
+never designed to handle such conditions, several spe-
+cial modifications are needed on a variety of systems, 
+depending on the environment. This could include ad-
+ditives and micro-heaters to ensure the vehicleÆs liquid 
+systems do not freeze in extreme cold, or super-cool-
+ers to keep it running in extreme heat. Each time this 
+modification is taken, the vehicle can operate normally 
+in a specific selected environment (desert, arctic, etc.). 
+If the environment itself will be damaging to the vehi-
+cle, it needs a special armor modification (see p. 159) 
+to maintain protection. Note that this modification only 
+allows the vehicle itself to continue to operate; keeping 
+occupants of the vehicle alive would be handled by a 
+life support system (below).
+INCREASED SEATING
+While no riggers likes to be the ôteam momö or the 
+ôrunner taxi,ö there are plenty of times that they will 
+need to carry more people than their vehicle originally 
+allowed, especially if theyÆre driving some super-slick 
+European sports car that could only carry two to begin 
+with. With increased seating, a vehicle can comfortably 
+carry more passengers than its original design. This is 
+far more than just jamming a couple of extra think peo-
+ple in the trunkùthe modification includes all features 
+for carrying people including comfortable (enough) 
+seating, incorporating the vehicleÆs safety systems (in-
+cluding PPS if installed, see p. 159), and other personal 
+comfort features such as ventilation and lighting. This 
+can mean rearranging the internal layout of the vehicle, 
+extending it slightly, or even adding ôexternalö seating, 
+such as a sidecar on a motorcycle. When this modifi-
+cation is taken, the passenger capacity of the vehicle 
+is increased up to a fifty percent increase of its base 
+value, though the gamemaster has final say on exactly 
+how many passengers the vehicle can reasonably carry.
+LIFE SUPPORT
+The world outside of a vehicle is often dangerous or 
+outright hostile to shadowrunners and their targets. In 
+order to keep their occupants secure, many vehicles in-
+stall a Life Support system. This system comes in two 
+levels, depending on the need. In a Level 1 system, all 
+normal ôleak pointsö in a vehicleùsuch as door and 
+window framesùhave been made air and water tight; 
+air only circulates through the vehicleÆs ventilation sys-
+tem. The system also includes a variety of detection 
+systems and filters to help prevent airborne toxins and 
+diseases from harming those inside a vehicle. All occu-
+pants of the vehicle gain +4 dice for any resistance test 
+to an airborne drug, toxin, or disease that comes from 
+outside the vehicle. A Level 2 system includes every-
+thing from the Level 1 system while also allowing all 
+external air intakes to be shut off, making the vehicle 
+completely air and water tight. Additionally, the vehi-
+cle is equipped with its own independent air supply, 
+allowing passengers to survive where there is no air, 
+such as under water or in space.  Level 2 also counts as 
+a Chemical Seal (p. 437, SR5) for any game situations 
+where that applies.
+>> RIGGER 5.0 <<
+164    >> BUILDING THE PERFECT BEAST <<
+
+
+==== PDF 168 ====
+the legal speed limit set for the area, and can be re-
+motely shut down by the owner of the system. Most 
+vehicles constructed come with a gridlink system as 
+standard, but the system can be installed afterward 
+with a vehicle modification.
+In game terms, the host that controls the gridlink sys-
+tem is automatically assumed to have 3 marks (or be the 
+owner) of any vehicle connected. Needless to say, run-
+ners consider the GridGuide system to be a major liabili-
+ty to their work and will always (if theyÆre smart) remove 
+the system or install a gridlink override (see below).
+GRIDLINK OVERRIDE
+Using a combination of hardware and software mod-
+ifications, a vehicle can be equipped to override its 
+gridlink system, and retain independent control. When 
+activated, the vehicle appears to be a interacting with 
+the system normally but cannot be shut down, can ex-
+ceed the posted speed limit, and randomly rotates its 
+identifier so it cannot be tracked for an extended peri-
+od. Since even runners are pragmatic, the vehicle still 
+draws its operational power from the gridlink system, 
+as long as it is available, because who doesnÆt love 
+stealing from the corps?
+PILOT ENHANCEMENT
+More than just another program, vehicle Pilot programs 
+are some of the most sophisticated software programs 
+in use today. Enhancing a droneÆs Pilot program takes 
+more than just loading a new program: select chips 
+on the hardware set are replaced and upgraded, new 
+communication channels are installed to enhance in-
+BODY MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Assembly/Disassembly
+2
+Body x 4 (Min. 1) Facility
+ù 
+6
+1,000Ñ
+Chameleon Coating
+2
+10
+Facility
+ù
+12F
+Body x 1,000Ñ
+Extra Entry/Exit Points
+1
+8
+Shop
+ù
+8
+2,500Ñ
+Extreme Environment Modification
+2
+12
+Shop
+ù
+6
+2,000Ñ
+Increased Seating
+2
+6
+Shop
+ù
+4
+2,000Ñ
+Life Support
+Level 1
+2
+10
+Shop
+ù
+8
+Body x 500Ñ
+Level 2
+4
+20
+Shop
+ù
+12
+Body x 2,000Ñ
+Mechanical Arm
+Basic
+2
+8
+Shop
+ù
+4
+1,000Ñ
+Articulated
+3
+16
+Facility
+ù
+6
+5,000Ñ
+Nanomaintenance System (Rating 1-4)
+Rating
+Rating x 4
+Shop
+ù
+(R x 5)R
+Rating x 5,000Ñ
+Realistic Features (Rating 1-4)
+Rating
+Rating x 4
+Shop
+Medicine (R x 3)R
+Rating x Body x 
+1,000Ñ
+Smuggling Compartment
+3
+16
+Facility
+ù
+8F
+1,500Ñ
+Shielding
+n/a
+12
+Facility
+ù
+12F
+3,000Ñ
+Special Equipment
+variable
+variable
+variable
+variable
+variable
+variable
+Valkyrie Module
+4
+6
+Shop
+Hardware 
+8
+2,000Ñ
+Winch
+Basic
+1
+8
+Shop
+ù
+4
+750Ñ
+Enhanced
+2
+12
+Facility
+ù
+8
+4,000Ñ
+Workshop
+6
+20
+Facility
+ù
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    167
+
+
+==== PDF 170 ====
+TOUCH SENSORS
+When a rigger jumps into a vehicle, they experience 
+the world around them as if they were the vehicle, with 
+the hull of the vehicle feeling like their skin. With touch 
+sensors, that experience becomes even more realistic, 
+but it comes with a danger. When touch sensors are 
+installed, the hull of the vehicle is suffused with thou-
+sands of micro sensors that relay a variety of sensory 
+information. Consequently, when a rigger is jumped 
+into a vehicle equipped with touch sensors ,they are 
+able to feel and experience the world around them as if 
+the hull of the vehicle was their own skin, possibly even 
+better. In game terms, a rigger jumped in to a vehicle 
+equipped with touch sensors gains +2 dice pool modi-
+fier to any Perception or Sensor Tests, and the vehicleÆs 
+Handling has a +1 modifier. However, the hyper-sensi-
+tivity increases the riggerÆs vulnerability. Whenever the 
+vehicle takes damage, the rigger receives a û2 penalty 
+to resist the Biofeedback Damage (see p. 229, SR5).
+COSMETIC
+Cosmetic modifications exist in the realm between vehi-
+cle modification and vehicle equipment (like tires). They 
+are more permanent and integrated into the vehicle it-
+self than removable equipment, yet nowhere near as in-
+vasive as any modification. As such, they are listed as a 
+modification, but do not take up any modification slots.
+AMENITIES
+Sometimes itÆs not enough to just get from place to 
+placeùyou want to travel in comfort and style. With the 
+amenities modification, the ôliving conditionsö of a vehi-
+cle are upgraded to provide a more pleasant experience. 
+A standard vehicle provides accommodations equiv-
+alent to Low lifestyle, by default, but amenities can be 
+improved to middle, high, or luxury. With middle, the ve-
+hicle i equipped with comfortable fabric seats, pleasant 
+ergonomics and decorating, and basic AR entertainment 
+options. High has the seating made from fine materials, 
+and temperature controlled, refreshment options avail-
+able. There is also a full suite of Matrix and non-electronic 
+entertainment options to keep anyone entertained for 
+hours. With luxury amenities, every aspect of the vehicle 
+maximizes comfort: the seats keep you warm and mas-
+sage you according to a scan of your muscle tension, and 
+they are made of a non-synthetic material (possibly some 
+kind of dead animal hide). The refreshment unit contains 
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    169
+ELECTROMAGNETIC MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Electromagnetic Shielding
+2
+20
+Facility
+ù
+ 6R
+Body x 500Ñ
+ECM
+2
+20
+Shop
+Hardware
+ (R x 3)F
+Rating x 500Ñ
+Gridlink
+2
+4
+Shop
+Hardware 4
+750Ñ
+Gridlink Override
+1
+8
+Kit
+Hardware 8F
+1,000Ñ
+Pilot Enhancement 
+Rating 1û3
+[Rating]
+Rating x 3
+Kit
+Hardware 
+R x 2
+Rating x 
+2,000Ñ
+Rating 4û6
+[Rating]
+Rating x 4
+Shop
+Hardware 
+R x 3
+Rating x 
+5,000Ñ
+Retrans Unit
+2
+4
+Kit
+Hardware
+ 8
+4,000Ñ
+Satellite Link
+1
+6
+Kit
+Hardware 6
+500Ñ
+Sensor Enhancement
+Rating 1û3
+[Rating]
+Rating x 3
+Shop
+Hardware 
+R x 2
+Rating x 
+2,000Ñ
+Rating 4û6
+[Rating]
+Rating x 4
+Shop
+Hardware 
+R x 3
+Rating x 
+5,000Ñ
+Signature Masking (Rating 1û6)
+[Rating]
+Rating x 6
+Facility
+ù
+14F
+Rating x 2,000Ñ 
+SunCell
+2
+16
+Shop
+Hardware 6
+Body x 
+500Ñ
+Touch Sensors
+3
+16
+Shop
+Hardware 8
+Body x 
+500Ñ
+
+
+==== PDF 172 ====
+RIGGER INTERFACE
+By the 2070s rigger control of vehicles have become so 
+common that even if a rigger adaption isnÆt installed as 
+standard for a vehicle, it can easily be added after-mar-
+ket. This modification allows a rigger to jump in to a ve-
+hicle and control it with a full sensory experience. This 
+includes installation of the ôblack boxö that process-
+es the sensory impressions for human consumption, 
+along with a suite of sensors and relays connected to 
+various parts of the vehicle. All drones come equipped 
+with a rigger interface by default.
+INTERIOR CAMERAS
+In the course of jumping through multiple vehicles and 
+taking in multiple streams of information from different 
+sources, a rigger can easily lose contact with their im-
+mediate surroundingsùnamely, the interior of their own 
+vehicle. As a result, many riggers install interior cameras 
+into their vehicle so they can easily keep track of their 
+own meat body and any passengers in the vehicle by 
+routing the feed from the interior cameras into their 
+PAN. Interior cameras allow a rigger to make a standard 
+Perception Test to notice anyone or anything inside of 
+their vehicle, even while they are in full VR mode.
+SEARCHLIGHT
+Hey, sometimes your needs are as simple as having a 
+light to shine on things when it gets dark. The search-
+light modification installs a high-powered light mount-
+ed somewhere on the exterior of the vehicle, capable 
+of all-around movement for wherever it happens to be 
+mounted. It can be operated remotely or manually, as 
+long as it is physically accessible. When activated and 
+pointed in the appropriate direction, the searchlight 
+reduces the penalties due to darkness by one step (p. 
+173, SR5).
+VEHICLE TAG ERASER
+All of the RFID tags installed on things makes them 
+convenient to find and track, which is exactly what a 
+runner doesnÆt want. With a few simple steps, a tag eras-
+er (p. 441, SR5) is installed on the interior or exterior of 
+the vehicle. Drawing power from the vehicle itself, the 
+tag eraser can activate once every ten minutes.
+YERZED OUT
+Do you have a style all your own and want to show that 
+to the world? Then you probably have a yerzed out ve-
+hicle. Drawing from the increasingly popular movement 
+of incorporating slang from the ork language of OrÆzet, 
+the term is a modification of the OrÆzet word ôyer-
+zon,ö meaning ôwealthyö or ôrich.ö Despised by most 
+ork rights advocates, the term has nonetheless caught 
+on. Popular trid programs show how to creatively ôyerz 
+outö a vehicle in a variety of different ways. Note that a 
+person who drives such a vehicle is often called a ôyer-
+zer.ö While highly individual, in general a yerzed-out 
+vehicle will be aesthetically customized to the ownerÆs 
+unique style and tastes. This includes the color of the 
+vehicle (inside and out), as well as cosmetic additions 
+and modifications such as custom AR, additional (and 
+superfluous) lights, sounds, and maybe even a custom 
+sensations broadcast for the simsense-equipped. 
+The yerzed out modification can range in Rating 
+from 1 to 4. The Rating provides a dice pool bonus on 
+Social Tests of the owner in situations where the people 
+would be impressed by yerzing. Conversely, the Rating 
+provides a dice pool penalty to Social Tests of the owner 
+where the customization is frowned upon. Additionally, 
+because it is intentionally unique and memorable, any 
+attempts to gather information about the owner with 
+people or groups that known (or know of) him have a 
+dice pool bonus equal to the Rating, since the vehicle is 
+quite distinctive and memorable.
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    171
+COSMETIC MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Amenities
+Squatter
+ù
+6
+Shop
+ù
+ù
+100Ñ
+Middle 
+ù
+6
+Shop
+ù
+2
+500Ñ
+High
+ù
+10
+Shop
+ù
+8
+1,000Ñ
+Luxury
+ù
+20
+Shop
+ù
+16
+10,000Ñ
+Enhanced Image Screens
+ù
+12
+Shop
+ù
+8
+5,000Ñ
+Metahuman Adjustment
+ù
+4
+Kit
+ù
+4
+500Ñ/seat
+Rigger Interface
+ù
+8
+Kit
+ù
+4
+1,000Ñ
+Interior Cameras
+ù
+6
+Kit
+Hardware 6
+2,000Ñ
+Searchlight
+ù
+4
+Kit
+ù
+4
+800Ñ
+Vehicle Tag Eraser
+ù
+8
+Shop
+Hardware 6R
+750Ñ
+Yerzed Out (Rating 1û4)
+ù
+Rating x 4
+Shop
+ù
+(R x2)
+(Rating x 1,000Ñ)
+
+

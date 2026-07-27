@@ -1,0 +1,779 @@
+﻿==== stolensouls.pdf PDF 198 ====
+196    STOLEN SOULS TABLES >>
+STOLEN SOULS STATS
+EXTRACTION DEVICES
+AVAILABILITY
+COST
+Houdini Machine I (commlink and biomonitor)
+12F
+8,500Ñ
+(does not include cost of drugs)
+Houdini Machine II (medkit computer)
+12F
+12,000Ñ
+(does not include cost of drugs)
+Ambulance gurney
+8
+2,000Ñ
+Body bag
+6
+50Ñ
+Fake DocWagon wrist band
+10F
+100Ñ
+Stimtouch hosiery
+6R
+250Ñ
+Laced lipstick
+10F
+Special
+DISGUISES
+AVAILABILITY
+COST
+Uniforms
+16F
+2,000-15,000Ñ
+Fixer services
+ù
+250Ñ/hr
+Forger services
+ù
+500Ñ+
+FACTORY VEHICLE
+SPECIALIZED USE
+Ares Roadmaster (transport)
+Counterfeit SWAT vehicle/Urban Command Center
+Chrysler-Nissan Journey (car)
+Counterfeit Lone Star Patrol Cruiser
+Conestoga Trailblazer
+Counterfeit moving truck
+Dodge Ram Industrial
+Garbage truck
+Esprit Industries Watcher (SUV)
+Counterfeit CAS government vehicle
+GMC Endurance (van)
+Counterfeit DocWagon ambulance
+GMC Sidewinder (SUV)
+Counterfeit UCAS government vehicle
+Honda Artemis (car)
+Counterfeit Knight Errant Patrol Cruiser
+S-K LT-21 (delivery van)
+Counterfeit CrashCart ambulance
+MODIFICATION
+AVAILABILITY
+COST
+Chameleon coating
+12R
+Body x 2,000Ñ
+Dash light bar
+15F
+3,500Ñ
+Emergency light bar
+15F
+5,000Ñ
+Morphing license plate
+8F
+1,000Ñ
+Siren
+15F
+1,400Ñ
+Smuggling compartment (dwarf, human, elf, or ork)
+12F
+3,500Ñ
+Smuggling compartment (troll)
+12F
+7,000Ñ
+Spoof chips
+8F
+500Ñ
+Rigger services
+ù
+500Ñ/hr
+MISCELLANEOUS ITEMS
+DAMAGE
+AP
+REACH
+MODE
+AVAIL
+COST
+Stimtouch hosiery
+8S(e)
+û5
+0
+ù
+6R
+250Ñ
+Laced lipstick
+(as drug)
+ù
+ù
+ù
+10F
+(Drug + DMSO cost) + 
+50Ñ
+
+
+==== stolensouls.pdf PDF 199 ====
+<< STOLEN SOULS TABLES    197
+STOLEN SOULS STATS
+DRUGS (PER DOSE)
+AVAILABILITY
+COST
+Caldwell lily extract
+10R
+600Ñ
+Caldwell lily extract, concentrated
+12R
+1,000Ñ
+Chloral hydrate
+6R
+50Ñ
+Chloroform
+4R
+75Ñ
+DMSO
+5R
+50Ñ
+Gamma-scopolamine
+14F
+200Ñ
+LΣel
+10F
+400Ñ
+LaΘs
+12F
+750Ñ
+Liquid nutrients
+4R
+75Ñ
+Narcoject
+8R
+50Ñ
+Normal saline
+ù
+30Ñ
+Slab
+8R
+250Ñ
+VEHICLES*
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+Ares Roadmaster
+3/3
+3
+1
+18
+18
+3
+3
+8
+8
+52,000Ñ
+Chrysler-Nissan Journey
+4/3
+3
+3
+9
+5
+1
+1
+4
+ù
+17,000Ñ
+Conestoga Trailblazer
+2/1
+2
+1
+14
+6
+2
+1
+2
+4
+75,000Ñ
+w/ trailer
+1/1
+1
+1
+20
+6
+2
+1
+N/A
+N/A
++20,000Ñ
+Dodge Ram Industrial 
+(large chassis)
+2/1
+1
+1
+16
+8
+2
+4
+2
+4
+51,000Ñ
+Dodge Ram Industrial 
+(narrow chassis)
+3/1
+1
+1
+16
+8
+2
+4
+2
+4
+49,000Ñ
+Esprit Industries Watcher 
+(SUV)
+3/3
+3
+3
+9
+8
+1
+3
+5
+4
+40,000Ñ
+GMC Endurance (van)
+3/3
+4
+3
+14
+6
+1
+2
+8
+ù
+35,000Ñ
+GMC Sidewinder (SUV)
+4/3
+3
+2
+10
+6
+2
+2
+6
+4
+33,000Ñ
+Honda Artemis (car)
+4/2
+3
+3
+9
+6
+1
+1
+4
+ù
+17,000Ñ
+S-K LT-21 (delivery van)
+2/1
+2
+1
+15
+7
+2
+2
+2
+ù
+31,000Ñ
+*For official emergency vehicles that have better performance, multiply these vehicle attributes by 1.5 (round up). 
+DRONES
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+Bust-A-Move (2g) 
+(medium)
+4
+3
+1
+2
+1
+2
+2
+ù
+700û1,500Ñ
+Cyberspace Designs 
+Dragonfly (small)
+4
+3
+2
+1
+1
+3
+2
+12R
+2,500Ñ
+GMC SnatchÆnÆGrab (large)
+3
+4
+2
+2
+4
+3
+3
+12F
+8,000Ñ
+Modified Dassault 
+Janitorial Drone (large)
+2
+2
+2
+10
+2
+2
+2
+8
+10,000Ñ
+Transys Office Maid 
+(medium)
+3
+2
+2
+3
+0
+4
+3
+4
+8,000Ñ
+Modified Renraku 
+Manservant-3 (large)
+2
+2
+2
+3
+5
+3
+3
+14F
+9,000Ñ
+* Cost of drugs not included
+
+
+==== stolensouls.pdf PDF 200 ====
+⌐ 2014 The Topps Company, Inc. All Rights Reserved. Shadowrun, Matrix and Crossfire are registered trademarks and/or trademarks of The Topps Company, Inc.,  
+in the United States and/or other countries. Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of InMediaRes Productions, LLC.
+
+
+==== streetlethal.pdf PDF 54 ====
+dragon program. It was supposed to have made its big 
+debut against Sirrurg in Operation: Marauder, being the 
+spearhead against the big wyrm. But delays and sabotage 
+kept the Blood Wing from participating. Without one of 
+their big guns, Aztlan and Aztechnology were forced to 
+go with Plan B, using scores of drones and mere eighth-
+generation fighters. 
+>	
+Rigger X
+>	
+Yeah, bet they wonÆt ever mention that the Blood Wing 
+was created from data stolen from the CASÆ Skyknight 
+program. The Confederates werenÆt too happy about that. 
+And you might say a little birdie told me that as payback, 
+the CAS might have had something to do with the Blood 
+WingÆs delayed deployment. That, and I think they just 
+wanted to see Sirrurg take a few more chunks out of 
+AztlanÆs hide.
+>	
+Kane
+>	
+If this thing was such a big secret, why reveal it now? IsnÆt 
+that tipping their hand?
+>	
+Stone
+>	
+Nuyen, my man, nuyen and PR. After the war, the cat 
+was, for the most part, out of the bag on the whole ôanti-
+dragon weaponsö thing. The public may not have known 
+specifics, but they knew the Azzies had something. This is 
+just another way of riding their current popularity wave all 
+the way to the bank. 
+>	
+Dr. Spin
+According to the releases, the Blood Hawk 
+Mk I is a multi-role fighter-bomber. It comes 
+with standard internal weapons bays that can 
+carry a variety of payloads such as conventional 
+munitions or direct-beam weaponry. The Blood 
+Hawk is capable of carrying air-to-air and air-to 
+>> STREET LETHAL <<
+<< MILITARY AND FUTURE WEAPONS    53
+
+
+==== streetlethal.pdf PDF 55 ====
+ground munitions. A two-seat version, dubbed 
+the Mk II, is already rumored to be in develop-
+ment. Whatever the version, the Blood Hawk has 
+three distinct features that make it stand out as 
+cutting-edge aircraft. 
+The first is the new Micro-Shard radar-scatter-
+ing paint. Previous iterations of aircraft relied on 
+radar-absorbent materials, also known as ôiron 
+ballö paint to help absorb radar emissions/energy. 
+Micro-Shard paint enhances this ability with small 
+variable-shaping, ferro-ceramic shapes that can 
+absorb or re-direct radar or sensor emissions in 
+any direction designated by the pilot or automati-
+cally through the fly-by-wire controls. When used 
+in conjunction with the inherent stealth features 
+of the aircraft, the ôdetectability of the aircraft is 
+decreased by at least forty percent,ö according to 
+corporate materials
+>	
+BUHAHAH!!!! So much PR bulldrek. They have no idea 
+now aircraft stealth systems work. But it sounds good to 
+potential customers. 
+>	
+Kane
+>	
+Say what you will about the sales pitch, but that stuff 
+supposedly works as advertised. Need to get ahold of 
+some for my own testing. 
+>	
+Clockwork  
+The Blood HawkÆs second major feature is its 
+patented Omni-Thrust engine system. Consisting 
+of a pair of linked high-efficiency pulse-turbine 
+main engines, the Omni-Thrust also has three 
+secondary thrust nozzles (two in the aircraftÆs 
+underside and one just behind the cockpit) and 
+several ômicro-thrustö engines located along the 
+aircraftÆs main body. This allows for not only full 
+V/STOL capabilities, but it gives the aircraft an un-
+precedented maneuverability profile. Variable-ge-
+ometry inlets in conjunction with a ram-jet intake 
+mini-turbines help keep the aircraft from stalling, 
+no matter the angle or direction of flight. 
+>	
+Not too long ago, I did a data-snatch, but Mr. Johnson 
+tried to backstab me, so I shot him in the ba à well, 
+needless to say with that payday gone, I needed to see 
+what I could sell. Sure enough, ther
+
+==== streetlethal.pdf PDF 56 ====
+>	
+Yeah, it sent a shockwave through the runner community 
+as well. Something like this would be a game changer, 
+especially for riggers and deckers. Not sure how the 
+technomancers would fare. 
+>	
+Bull
+>	
+I à honestly donÆt know. But itÆs MCT, so IÆm instantly 
+worried and on my guard. 
+>	
+Netcat
+>	
+IÆm definitely interested now. 
+>	
+Clockwork
+>	
+Before anyone starts something, IÆm stopping it now. 
+Only warning. Keep it professional. 
+>	
+Glitch
+Claiming that the system was in its final phases 
+of testing, MCT showcased a wide variety of de-
+livery systems ranging from high-powered, ve-
+hicle-mounted emitters to small, grenade-sized 
+ôquick burstö weaponry. MCT was short on details, 
+specifically how the system worked, claiming it 
+was proprietary information. They said, though, 
+that the DSP system is a combination static-blast 
+that weakens the target and a subsequent da-
+ta-spike that specifically targets a device or sys-
+tem through its wireless connection.   
+>	
+Damn, looks like IÆm going to have to start stocking up on 
+lower-tech weaponry again. 
+>	
+Red Anya
+>	
+These are recently acquired specs for the DSP system. IÆm 
+not doing this for some altruistic principle, but because it 
+suits my purposes against another. <link>
+>	
+Rigger X
+>	
+Oh frag, Netcat is gonna à
+>	
+Pistons
+>	
+MOTHERFRAGGERS!!!! 
+IÆM 
+GONNA 
+<connection 
+terminated, user: Netcat blocked>
+>	
+Netcat
+>	
+Just until you calm down. I donÆt need you accidentally 
+damaging JackPoint in a blind rage. See me after. 
+>	
+Glitch
+>	
+Dude, IÆm shaking. TheyÆre using some kind of corrupted 
+sprite to power this. This is not good. How are they making 
+this work? 
+>	
+Slamm-0! 
+>	
+Heh. Time to buy stock in MCT. *grin*
+>	
+Clockwork
+DSP GRENADE
+DV
+AP
+BLAST
+COST
+AVAIL
+10(special)*
+ù
+5m
+N/A
+N/A
+*Damage: To damage object/target, weaponÆs net hits must by-
+pass targetÆs threshold (p. 295, SR5). Number of net hits is equal to 
+the net hits over the initial DV.
+DSP ôSTATIC GUNö (VEHICLE MOUNTED WEAPON)
+ACC
+DV
+AP
+MODE
+R
+
+==== completetrog.pdf PDF 143 ====
+sheÆs been working with several corporate part-
+ners to find a way to truly cure them. So far, she 
+has only found limited success.
+>	
+One of the corporations sheÆs working with is MCT. 
+EveryoneÆs ready to crucify me for getting them test 
+subjects, but she gets a pass for performing the actual 
+experiments? Talk about hypocrisy.
+>	
+Clockwork
+>	
+She doesnÆt call her patients freaks, or say the world would 
+be better without them like you do about technomancers. 
+ItÆs about the perspective, not the process.
+>	
+Netact
+Butch has perhaps enjoyed some benefits of 
+being an ork in her profession. ItÆs well-known that 
+DocWagon likes to throw orks and trolls into their 
+high-threat response teams, and those are the teams 
+that tend to treat the most dire wounds in the most 
+stressful circumstances. Her emergency skills were 
+well honed in that situation, and her clinic experi-
+ence means she knows how to deliver the best care 
+possible with less than state-of-the-art equipment. 
+And of course, she knows ork physiology quite well, 
+so sheÆs aces in giving them trauma care. Her exper-
+tise is slightly reduced when it comes to trolls, but 
+sheÆs still better at trauma care for trolls than nine-
+ty-nine percent of the medicos youÆll ever meet.
+>	
+YouÆre very kind, but I have no illusions about myself. My 
+specialty is keeping people alive until the truly skilledù
+and well-equippedùexperts can provide the care they 
+need. IÆve gotten better at the research side of the job, and 
+IÆve developed some skills I never thought I would dive 
+into, but I know how good the best in the world are at this 
+work, and I know IÆm not there.
+>	
+Butch
+BUTCH
+FEMALE ORK
+BUTCH
+FEMALE ORK
+SR: ANARCHY STATS
+S
+A
+W
+L
+C
+EDG
+4
+5
+6
+5
+4
+4
+Condition 
+Monitor
+10/11
+Armor
+9
+Skills
+Biotech 6 + L, Firearms 3 + A, Biology (K)
+Shadow Amps
+Essence 5.5
+Cerebral Booster (Bioware. Reroll 1 die on logic based 
+tests, û0.5 Essence)
+I Know Everybody (Social. Gain [Charisma rating] 
+contacts)
+Qualities
+Allergy (silver),
+
+==== completetrog.pdf PDF 144 ====
+Though cyber replacements are commonly 
+available, Sounder wears an eyepatch when the 
+mood suits her. When asked, she says it helps with 
+the nautical feel of her smuggling operation. 
+>	
+She has a cybereye, and she only wears the eyepatch 
+when sheÆs trying to play the pirate. Or just feels like 
+looking cool.
+>	
+Turbo Bunny
+Despite her obvious affinity with pirates, she 
+doesnÆt perform piracy on the shipping in the 
+Seattle area. Rather, she quietly moves her cus-
+tomersÆ goods up and down the Pacific coast. 
+Despite the disagreement with the one Yakuza 
+boss, she continues to move guns for them into 
+and out of Seattle. She has numerous contacts in 
+the San Francisco area of the California Free State 
+and even has a couple of ships registered in the 
+CFS. She has a lot of connections in the Seattle 
+area and is an enduring figure in the club scene, 
+though she favors the dark and moody spots 
+over the hot and trendy ones. If youÆre going to 
+be one of the top smugglers in Seattle, you need 
+to be able to make your way into Tφr Tairngire, 
+so Sounder has a few ways in. Not easy ones, 
+though, because nothing about the Tφr is easy. 
+That means, of course, that itÆll cost you more to 
+smuggle things across that border.
+I was going to stop with the well-known people 
+there and move on to some up-and-comers, but it 
+was suggested I should include myself. So read on!
+SOUNDER
+FEMALE ORK
+SR5 STATS
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+7 (8)
+3
+6 (9)
+4
+4
+4
+3
+5
+1.2
+5
+Initiative
+9(12) + 1D6
+Condition Monitor
+12/10
+Limits
+Physical 7(9), Mental 5, Social 6
+Armor
+13
+Active Skills
+Blades 8, Con 8, Demolitions 4 ,Disguise 4, 
+ElectronicsWarfare 6, Etiquette 8, Gunnery 7, 
+Longarms 9, Nautical Mechanic 8, Navigation 9, 
+Palming 6, Perception 7, Pilot Aircraft 4, Pilot Ground 
+Craft 7, Pilot Watercraft 10, Sneaking 5, Survival 4, 
+Throwing Weapons 5, Unarmed Combat 7
+Knowledge Skills
+Puget Sound (area) 7, Ocean Currents 6, Organized 
+Crime 6, Northwest Yakuza Hierarchy, 7  Pacific 
+Northwest 4
+
+==== completetrog.pdf PDF 145 ====
+SOUNDER
+FEMALE ORK
+SR: ANARCHY STATS
+S
+A
+W
+L
+C
+EDG
+4
+3
+4
+4
+5
+5
+Condition 
+Monitor
+10/10
+Armor
+9
+Skills
+Pilot (Ground) 3 + A, Pilot (Other) 5 + A, Con 4 + C, 
+Firearms 3 + A, Negotiation 4 + C, Organized Crime (K)
+Shadow Amps
+Essence 3
+Control Rig 3 (Cyberware. Control vehicle in VR, +1 die to 
+vehicle actions, may reroll 3 dice, û2 Essence)
+Smartlink (Cyberware. +1 die to firearms or heavy 
+weapons. û1 Essence)
+Qualities
+Distinctive style (eye patch), Gearhead, Home Ground 
+(Puget Sound)
+Gear
+Ares Venture (A 12, D 10), Aztech Profit (A 18, D 12), Echo 
+Motors Metaway (A 3, D 8), Harley-Davidson Nightmare 
+(A 6, D 6), Hermes Ikon, MCT-Nissan Roto-Drone (A 3, D 
+3), Mechanic toolkit, medkit, Proteus A.G. ôKrakeö (A 2, D 
+2), Survival kit
+Weapons
+Enfield AS-7 shotgun [DV 9P, Close OK, Near û2, Far ù, 
+at Close range can take -2 dice pool penalty to attack 
+two targets]
+Knife [DV 3P, Close OK, Near ù, Far ù]
+SUNSHINE
+I was born the second son of two mid-level execu-
+tives of Novatech in Denver in 2052. It was a different 
+time and town then. I wasnÆt born with a silver spoon 
+in my tusks, but I wasnÆt born into poverty, either. My 
+father was a rising star who broke through a lot of bar-
+riers that had been in place up until then. I learned a 
+lot from my father; for example, he taught me about 
+office politics and how important reading people is. 
+He didnÆt always know I was listeningùor even that I 
+was thereùwhen I absorbed some of these lessons. 
+For example, once when I was five, I was hiding in the 
+closet and overheard his negotiations with his new 
+boss. As a mid-level exec, he was generally supposed 
+to act grateful for having a job that was not complete-
+ly horrible, and senior executives typically expected 
+a lot of sucking up. But my father watched his boss 
+carefully and saw that if he appeared as a total door-
+mat, he would quickly lose any chance at gaining 
+the womanÆs respect. So he gently pushed back on 
+an item or two, staying polite but letting her k
+

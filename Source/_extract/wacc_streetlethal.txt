@@ -1,0 +1,1040 @@
+
+
+===== streetlethal.pdf p37 =====
+than a traditional takedown rifle, the S-3K occu-
+pies an important niche, offering both discretion 
+and functionality to the discerning buyer.
+Standard Accessories: Folding stock (stock), 
+smartgun system (internal)
+ONOTARI ARMS S-3K (SUBMACHINE GUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+4(6)
+7P
+—
+BF/FA
+(1)
+30(c)
+8R
+725¥
+Note: When folded, this weapon has a Concealability Modifier of 
++0. Folding or unfolding is a Standard Action. This does not count as 
+a Ready Weapon action.
+>	
+It takes too long to bring to bear for bodyguards. I can tell 
+you from experience that it’s popular with assassins.
+>	
+Mihoshi Oni
+>	
+This is also pretty popular as a self-defense weapon. Most 
+situations don’t involve sudden, random violence but 
+rather an escalation of threat, giving the user time to prep 
+the weapon. 
+>	
+Black Knight
+>	
+I’m not sure I entirely buy that. A machine pistol could 
+serve the same purpose in a self-defense scenario. The 
+added range of this is better used to initiate offense, not 
+as a defensive tactic.
+>	
+Thorn
+>	
+As my Uncle Al used to say, “The best defense is a good 
+offense!”
+>	
+Kane
+>	
+As anyone who has gone on a recon patrol will tell you, 
+how you pack your ruck matters a lot. Weight distribution 
+is a lot easier to manage with one of these. Assuming 
+that doesn’t apply to many of you, this is a lot easier to 
+transport without drawing extra attention to yourself than 
+a standard submachine gun or carbine. Even if you’re 
+carrying it around legally, why advertise the fact?
+>	
+Picador
+CARBINES
+ARES STALWART
+In the wake of its recent troubles, Ares has quietly 
+been introducing some back-to-basics models at 
+very competitive prices. The Stalwart is as basic 
+as it gets for a carbine, which makes it a popu-
+lar choice for both people of limited means and 
+folks who can’t get enough of after-market mod-
+ifications. Even without any modifications, the 
+Stalwart is capable of grouping shots at distance 
+using just the fixed front sights.
+Standard Accessories: Folding stock
+ARES STALWART (CARBINE)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+9P
+–2
+SA/BF/
+FA
+(1)
+36(c)
+6R
+750¥
+>	
+This could be called the Ares Market Share. They skimped 
+on lining the barrel to keep the price low— ensuring sales 
+of replacements down the road—to glut the market with 
+as many of these things as possible.
+>	
+Dr. Spin
+>	
+Ares is also selling these in bulk to various merc units. 
+If you find yourself in an urban theater, there’s a good 
+chance that you’re going to be going up against people 
+using these.
+>	
+Picador
+>	
+You can also get deals on delivery costs by signing 
+exclusive contracts with Ares and keeping their products 
+in stock. Smart business: If one of your branches is 
+withering, plant new seeds.
+>	
+Red Anya
+>	
+We’ll see. If Ares is busying itself with large contracts, it 
+won’t have much incentive to actually invest in improving 
+its offerings to low-volume buyers.
+>	
+Balladeer
+>	
+So business as usual?
+>	
+Beaker
+COLT M23A2
+An outgrowth of the M23, the M23A2 has its 
+roots in the unconventional warfare communi-
+ty. Colt quickly realized it was more profitable 
+to sell to people who fantasized about being in 
+that community than it was to sell to that com-
+munity alone, and they standardized a package 
+“with our most popular options, selected by op-
+erators who know” to sell to the general public. 
+Its distinctive profile has been used in countless 
+advertisements and trideo games, making it one 
+of the most recognizable guns in the world. The 
+CARBINES
+Carbines are fired using the Automatics skill. They use 
+SMG ranges and have a Concealability Modifier of +4.
+>> STREET LETHAL <<
+36    EXPANDED ARSENAL >>
+
+
+===== streetlethal.pdf p38 =====
+M23A2’s chamber design provides one point of 
+recoil compensation.
+Standard Accessories: Improved rangefinder 
+(top), low-light flashlight (side), slide mount (un-
+der), smartgun system (internal)
+COLT M23A2 (CARBINE)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5(7)
+9P
+–2
+SA//BF/
+FA
+1
+40(c)
+10R
+3,150¥
+>	
+This is a really fun gun to shoot. The trigger group takes 
+a little getting used to, but it shouldn’t hold anyone 
+back who’s put in the work. I split time equally between 
+a foregrip and a grenade launcher for the underbarrel 
+accessory.
+>	
+Zhaganaash
+>	
+This is a solid rifle, but it’s a little overwrought with all 
+the bells and whistles. The word “tactical” appears a few 
+dozen times in the manual. Playing the percentages, if 
+you see someone with one, he’s probably a wannabe.
+>	
+Hard Exit
+>	
+Of course, if you end up on the other side of those 
+percentages, you could be in for a world of hurt.
+>	
+Picador
+>	
+The price on this is pretty absurd, but that’s largely the 
+point. Colt offers the M23 at the low end of the market and 
+the A2 caters to the folks with more money than sense 
+(or access to serious operational funding). It’s an exclusive 
+club and the unmistakable look of the A2 lets everyone 
+know you’re in it.
+>	
+0rkCE0
+>	
+The Miracle Shooter version of this is slightly 
+disappointing. I guess Ares couldn’t get the rights.
+>	
+Slamm-0!
+IZOM ARTEMIS
+After receiving feedback on their Aphrodite 
+model, Renraku released a carbine version, de-
+signed to overcome the prevalence of body ar-
+mor in today’s urban environments. The Artemis’ 
+smaller frame and shorter barrel make it easier to 
+maneuver in tight quarters than an assault rifle 
+while only sacrificing a small portion of its stop-
+ping power. The underbarrel grenade launcher 
+has proven to be extremely popular with custom-
+ers, opening up a variety of tactical and strategic 
+solutions that would otherwise be unavailable to 
+them. The grenade launcher also uses a shorter 
+barrel, making it slightly less accurate than its full-
+sized counterparts. In a shift from the Aphrodite’s 
+modular approach, the Artemis is designed to be 
+used out of the box with a minimum of training.
+Standard Accessories: Laser sight, underbarrel 
+grenade launcher
+IZOM ARTEMIS (CARBINE)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5(6)
+9P
+–2
+BF/FA
+—
+30(c)
+8F
+1,800¥
+GRENADE LAUNCHER
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3(4)
+*
+*
+SS
+—
+1(m)
+—
+—
+*As grenade
+>	
+Still very much a weapon for short distances. Since 
+this often translates to enclosed spaces, it should go 
+without saying that users need to be aware of potential 
+overpressure created from the grenade launcher.
+>	
+Marcos
+>	
+It should, but man, it does not go without saying. Not 
+even a little.
+>	
+Riot
+>	
+Minimum of training indeed. Overeager shadowrunners 
+and overeager security guards with these things are 
+sights to behold.
+>	
+Thorn
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    37
+
+
+===== streetlethal.pdf p39 =====
+ASSAULT RIFLES
+CAVALIER FRONTIER
+Another example of Cavalier putting function 
+over form, the Frontier is a response to the col-
+lapse of nanofabricated firearms. Rugged, de-
+pendable, and without frills, the Frontier is 
+becoming increasingly popular with various mer-
+cenary and militia groups for its go anywhere, do 
+anything capabilities. Made from corrosion-resis-
+tant materials and designed to take (and inflict) a 
+beating, Cavalier is aggressively pursuing Desert 
+War endorsements to showcase their latest work-
+horse. The popularity of the Frontier marks Cava-
+lier’s best effort at expanding outside the North 
+American market in recent memory.
+Standard Accessories: Extreme environment ad-
+aptation (level 1), melee hardening
+CAVALIER FRONTIER (ASSAULT RIFLE)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+10P
+–2
+SA/BF/FA
+—
+30(c)
+6R
+1,750¥
+>	
+It’s pricier than the trusty AK-98, so I don’t see lots of 
+people outfitting entire companies with this rifle, but 
+damn do I love this gun. I’ve seen one get run over by 
+a jeep and go right back into service. Slap on a few slide 
+mounts and you’ll almost forget the only thing it came 
+with was iron sights.
+>	
+Picador
+>	
+Its cost is slightly offset by the low rate of repair and 
+replacement as well as the fact that you simply need 
+fewer types of guns in your armory.
+>	
+0rkCE0
+>	
+If you’re going to be firing from range while on a budget, 
+go with a M23. If it’s a close-quarters kind of day, I can 
+think of a dozen things I’d rather hit someone with before 
+I picked my gun.
+>	
+Zhaganaash
+KRIME HAPPINESS
+The dreaded click of the firing pin on an empty 
+chamber—everyone knows how that feels. Hope-
+fully, you only experience it at the range when 
+you have to stop to reload, but it is a horrific thing 
+to hear in our dangerous world when you’re try-
+ing to keep the opposition from doing you in. 
+That miserable circumstance happens far, far less 
+frequently with the Happiness, a belt-fed weap-
+on in whatever target-rich environment you find 
+yourself in. Packed into an assault-rifle size and 
+weight, the sound of the click will happen far, far 
+less to you than your enemies.
+KRIME HAPPINESS (ASSAULT RIFLE)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3
+9P
+–2
+FA
+—
+100 (belt)
+6F
+500¥
+Note: This weapon will have a runaway firing situation occur 
+on a glitch, continually firing until the ammunition runs out or the 
+weapon is otherwise disabled. A critical glitch should be similar, but 
+worse.
+>	
+Okay, so an LMG and an assault rifle got nasty and had 
+a baby. A really badly designed baby. Poor accuracy, 
+belt feed strong enough to pull from the right or left 
+depending on how you have it set up, and the barrel 
+overheats cherry red before you’re halfway through a belt 
+if you don’t pause between bursts, and no easy change 
+barrel when that happens.  Seriously, there are recordings 
+of people cooking synthmeats on them.  Hell, I’d freely 
+admit that Slamm-0! and Netcat did a better job in the 
+baby department!
+>	
+Clockwork
+>	
+Omae, you, um, do remember that I’m an admin with 
+powers that I can abuse when I feel like it, right?
+>	
+Slamm-0!
+>	
+Happiness is a warm gun. With synthbacon.
+>	
+Cayman
+ONOTARI HL-13
+The Onotari “Heavy/Light-13” is Saeder-Kupp’s 
+entry into the modular weapon market, capable 
+of a variety of configurations designed for en-
+counters at different ranges. Largely made from 
+lightweight composites, the HL-13 is designed 
+to be a portable, adaptable weapon system that 
+>> STREET LETHAL <<
+38    EXPANDED ARSENAL >>
+
+
+===== streetlethal.pdf p45 =====
+Gun doesn’t shoot bullets or lob explosive devic-
+es, but rather it creates a stream of toxic gas using 
+compressed air cartridges that are loaded from 
+side- and top-mounted clips. Armor is useless 
+against this attack, but respiratory protection will 
+help guard the target (see the Toxin and Drug Pro-
+tection Table, p. 408, SR5).  The Gas Gun can be 
+used to attack a single target or, with a Complex 
+Action, attack up to three targets within a four-me-
+ter spread. Each target rolls their own Defense Test 
+against a single Attack Test. Using the Gas Gun to 
+attack multiple targets consumes two “rounds” 
+of toxin. The cloud generally lasts two Combat 
+Turns (less in a windy area, longer in an area that is 
+confined or with poor ventilation, per gamemas-
+ter discretion). Using the Gas Gun in an enclosed 
+space is likely a bad idea for everyone involved.
+The Gas Gun uses “clips” of compressed air 
+that mix with separate doses of toxin. Refilling 
+the compressed air tank using an electric pump 
+(included with the weapon’s cost) requires three 
+minutes. 
+NARCOJECT GAS GUN (EXOTIC RANGED WEAPON)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+As toxin
+—
+SS
+—
+5x2(c)
+8R
+1,500¥
+Note: This weapon uses Taser ranges.
+>	
+Hah. I gotta get one of these. My favorite superhero uses 
+a gas gun.
+>	
+Slamm-0!
+>	
+The last Green Wasp movie was terrible. I can’t believe 
+you liked it.
+>	
+Glitch
+>	
+I was talking about Blackwing Bird. Philistine.
+>	
+Slamm-0!
+NARCOJECT PEP
+The Narcoject PEP is an interesting device. The 
+PEP, or Pulsed Energy Projectile, could easily have 
+been turned into a killing machine, and a rather 
+brutal one at that. Instead, the PEP fires short, 
+intense laser pulses. These pulses vaporize the 
+surface of whatever they hit, creating plasma. 
+This plasma then absorbs all other energy the 
+PEP sends to it, detonating with a flash, bang, and 
+pulse. The PEP is designed to prevent outright 
+killing of targets, as the stun effects caused by the 
+pulse are quite effective.
+NARCOJECT PEP (EXOTIC RANGED WEAPON)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+6
+10S
+—/–5*
+SS
+—
+2x10(c)
+12R
+7,500¥
+* If the target is wearing armor that is capable of supporting a 
+Chemical Seal, the attack has no AP. If the target is wearing clothing 
+or armor with gaps, the attack’s AP is –5.
+Note: This weapon uses Heavy Pistol ranges. It can only accept 
+top- and underbarrel accessories. The PEP is powered by peak-dis-
+charge battery packs (p. 52, Run & Gun) and uses two power units 
+per shot. It typically takes 2 units with ten charges apiece.
+>	
+This hardly sounds non-lethal. Creating plasma on 
+someone’s body cannot be healthy.
+>	
+Netcat
+>	
+Oh, it won’t kill you, usually. But you’re right—it makes 
+your skin look like it’s been boiled in hot sauce. Plastic 
+surgery might be needed after this “humane” weapon is 
+done with you.
+>	
+Mihoshi Oni
+NARCOJECT 
+TRACKSTOPPER
+The Narcoject Trackstopper was adapted from the 
+discontinued Ares Fogger Glop Cannon. When 
+Ares began to divert all non-essential weapons 
+research, development, and production to the Ex-
+calibur rifle, the Glop Cannon (which hadn’t been 
+selling all that well) was discontinued. Seeing an 
+opportunity, Narcoject bought the name and the 
+research for a modest sum, which suited both par-
+ties at the time.
+>> STREET LETHAL <<
+44    EXPANDED ARSENAL >>
+
+
+===== streetlethal.pdf p46 =====
+The Trackstopper has the look of a firehose 
+crossed with a sub-machine gun. It connects to a 
+pack worn on the user’s back and fires a stream of 
+liquid foam at the target. Unlike the original formu-
+lation of Freeze Foam, Narcoject Foam won’t help 
+you build a bridge, but it will harden in 1 Combat 
+Round. For every net hit the user gets to hit the tar-
+get, the target suffers a –1 penalty to their Agility. 
+If the target’s Agility reaches 0, they are unable to 
+move or take any actions that require use of their 
+limbs. Once hardened, the foam has a Structure 
+Rating of 4 and an Armor Rating of 6. Narcoject 
+Foam is specially formulated at the microscopic 
+level to allow encased victims to breathe. Narcoject 
+Foam dissolves completely in one hour, or imme-
+diately with the application of Narcoject-brand sol-
+vent (free with purchase of Narcoject Foam refills).
+NARCOJECT TRACKSTOPPER (EXOTIC WEAPON)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+—
+—
+SS
+—
+6
+15R
+8,500¥
+Note: This weapon uses Light Pistol ranges. Foam refills cost 
+500¥ per 6 charges and have an Availability of 15R.
+>	
+Read the instructions on this one. Some new runner who 
+called himself Rh0ghi just got wasted because he sprayed 
+this stuff, expecting to freeze his pursuers in their tracks. 
+Turns out these razorboys still had plenty of time to cut 
+him down before the foam hardened.
+>	
+Hannibelle
+>	
+A few high-security places have started using the same 
+foam that the Trackstopper uses as a flame suppressant. If 
+your decker can get control of the system, it can be a great 
+form of crowd control.
+>	
+Rigger X
+>	
+Look at you, advocating non-lethal solutions.
+>	
+Bull
+>	
+Immobile targets are easier to hit.
+>	
+Rigger X
+WEAPON 
+ACCESSORIES
+ADDITIONAL CLIP/
+MAGAZINE
+Requiring a nearly complete rebuilding of the 
+weapon, this modification allows the weapon to 
+add an additional clip or magazine, depending on 
+the weapon’s original. If installed on a pistol, each 
+clip or magazine holds seventy-five percent of the 
+weapon’s original capacity; they otherwise retain 
+their original capacity. This modification adds a +2 
+modifier to the weapon’s Concealability Modifier 
+and gives the weapon Custom Look (Level 1), but 
+with no bonus to Intimidation rolls. Switching be-
+tween clips/magazines is a Simple Action.
+Wireless bonus: Switching between clips/maga-
+zines is a Free Action.
+ADDITIONAL CLIP/MAGAZINE (WEAPON MODIFICATION)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Side
+20
+1 day
+Facility
+Weapon 
+cost
+10R
+Armorer
+>	
+I like to switch between different colors of tracers. It’s 
+pretty.
+>	
+Slamm-0!
+>	
+Can we ban an admin from commenting on guns?
+>	
+Cayman
+KRIME PACK
+The innovative minds at Krime know exactly how 
+right-sized people feel when looking at most 
+weapons that suit them. “A mere 100-rounds 
+per belt before reloading? What scrawny person 
+did they design these for?” Deciding that the en-
+tire world does not consist of tiny people, Krime 
+make an ammunition holder for bigger folks—or, 
+as they like to say, “the right-sized person lurk-
+ing inside all of us.” The Krime Pack is a backpack 
+ammunition feeding system that uses an articu-
+lated feed belt, which means no struggling with 
+fiddly little bullets in smaller belts and undersized 
+charging handles every time users feel like let-
+ting loose. Capable of holding 2,500 rounds for 
+weapons like the Krime Happiness, or Gatling 
+guns like the newly-released Krime Triple series. 
+Sick of reloading? Get a Krime Pack!
+KRIME PACK (WEAPON ACCESSORY)
+AVAIL
+COST
+14R
+500¥
+Wireless Bonus:   Pushes out Krime-based spam to other AR 
+overlays, screaming “KRIME!” at the maximum volume allowed by the 
+audio system. Operates as an Area Jammer (Device Rating 2; p. 441, 
+SR5), but instead of inhibiting wireless functionality, reduce a DR to 
+zero, indicating that the system’s audio (if any) has been overridden.
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    45
+
+
+===== streetlethal.pdf p47 =====
+>	
+Ares had a similar design that was in development for the 
+longest time, and its tendency to keep misfeeding was 
+a major, but not the only, problem. Then the project just 
+“died” and Krime came out with this six months later with 
+some rather dodgy looking evidence that they developed 
+it themselves in secret. Run gone well?
+>	
+Clockwork
+KRIME STUN-O-NET
+After one of Krime’s Thursday design discus-
+sions/bar fights, some of their people ran across 
+one of the local heroes of the area, John Zubiri 
+the Bouncer. He had a beat-up shotgun with a 
+bayonet lug on it, and he had placed a jury-rigged 
+stun baton on the damn thing. They knew a win-
+ner when they saw one—Zubiri now works for the 
+development team full time (though he still acts 
+as a bouncer in his uncle’s bar, since it’s a passion 
+of his). The Stun-O-Net reflects Zubiri’s mentality 
+of being ready to deal with the full range of meta-
+humanity and paracritters in the world, putting 
+more than a sharp chunk of metal on the end of 
+a rifle for the firearms owners of the world to use.
+KRIME STUN-O-NET (WEAPON ACCESSORY)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+9S(e)
+–5
+10R
+800¥
+KRIME STUN-O-NET (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+SKILL
+Underbarrel
+10
+1 hour
+Kit
+Armorer
+Note: This weapon has 10 charges and recharges at a rate of 1 
+charge per minute when plugged in.
+>	
+It’s a stun baton that can be hooked onto a rifle like 
+a typical bayonet. And it is selling, big time. I’m on the 
+waiting list for my crew to get a bunch, as we’re looking 
+at some escort jobs through a city, er, somewhere, and 
+having an option that doesn’t get people sliced up would 
+be a nice change.
+>	
+Picador
+>	
+There are some street gangs and crowd-clearing crews 
+out there that have made “stun pikes” by welding stun 
+batons to metal or plastic pipes. Putting a bayonet 
+mount on those pipes and being able to choose using 
+them as pikes or batons will open up options for those 
+headbreakers.
+>	
+Zhaganaash
+NARCOJECT DAZZLER
+The Dazzler name is rather on-the-nose for this 
+non-lethal piece of equipment. When triggered, 
+the dazzler emits intense, focused radiation to 
+temporarily disable its target with flash blindness. 
+The Dazzler can be tuned to various parts of the 
+light spectrum to target either the normal range 
+of visible light or infrared, allowing the weapon 
+to be used against metahumans and sensors with 
+thermographic capabilities. The Dazzler cannot 
+affect both spectrums at the same time.
+Looking directly at someone using a Dazzler for 
+any appreciable length of time is extremely danger-
+ous. On their first Initiative Pass, the viewer suffers 
+from Moderate Glare penalties (p. 175, SR5). If the 
+viewer has some form of low-light vision enhance-
+ment, these penalties are increased to Blinding 
+Glare. Flare compensation reduces the penalties by 
+one category. For each subsequent Initiative Pass 
+that the viewer continues to look at the Dazzler’s 
+user, the penalty increases by one category. If the 
+viewer suffered Blinding Glare penalties on their 
+previous Initiative Pass and continues to look at 
+the Dazzler, they must make an immediate unaug-
+mented Body [Physical] (4) Test. Failure temporarily 
+blinds the viewer for a number of hours equal to 4 
+minus the number of hits rolled on the test.
+The Narcoject Dazzler is commonly purchased 
+as a Heavy Pistol-sized device on its own (at the 
+same cost), but is also available as a top-mount-
+ed weapon accessory that can fit on weapons that 
+have a Concealability Modifier of +4 or greater. Its 
+price and Availability remain the same. Narcoject 
+prides itself on its patented array of optic lasers, 
+offering a full guarantee if any targets are perma-
+nently blinded.
+>> STREET LETHAL <<
+46    EXPANDED ARSENAL >>
+
+
+===== streetlethal.pdf p48 =====
+NARCOJECT DAZZLER (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Top
+5
+30 
+minutes
+Kit
+15R
+1,000¥
+Armorer
+Note: This item can be used for 10 Combat Turns before it needs 
+to be recharged. It recharges at a rate of 1 Combat Turn of use per 15 
+minutes.
+RED DOT SIGHTS
+This archaic sight projects light onto a curved 
+lens, overlaying a red dot onto the user’s target. 
+It increases the weapon’s Accuracy by 1 and pro-
+vides a +1 dice pool modifier when used at Short 
+range. At Medium range, it only increases Accu-
+racy by 1, with no dice pool bonus. Red dot sights 
+have no effect at Long and Extreme ranges. Red 
+dot sights are not compatible with smartlink sys-
+tems, laser sights, holographic sights, or any form 
+of vision magnification.
+RED DOT SIGHT (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Top
+4
+10 
+minutes
+Kit
+75¥
+4
+Armorer
+>	
+Good God, they still make these?
+>	
+Bull
+>	
+As basic as basic gets, but there’s no wireless signal to 
+trace back to your location and ... well, that’s about it. Get 
+a smartlink. Hire a decker.
+>	
+Thorn
+ARMOR
+URBAN EXPLORER 
+DAEDALUS
+Already a favorite among traceurs, the Daeda-
+lus looks like the standard Urban Explorer Jump-
+suit, but it can deploy microfiber wings under each 
+arm and between the legs, creating an on-demand 
+wingsuit. Deploying the wings requires a Complex 
+Action. The Daedalus can hold up to 320 kilo-
+grams aloft. The user can cover three meters hor-
+izontally for every meter fallen and rolls Freefall + 
+Body to maneuver, with a threshold determined 
+by the gamemaster (p. 199, SR5). Like the Control 
+Vehicle action, this test must be performed once 
+per Combat Turn or the user loses control of her 
+descent. Losing control imposes –2 dice pool pen-
+alty to all rolls, including the next Freefall + Body 
+test. Failures on consecutive Combat Turns result 
+in a cumulative penalty. Successfully hitting the 
+threshold eliminates the penalty. The maximum 
+safe speed a user can reach is 2R (p. 124, Rigger 
+5). Although it is possible to make a hard bank to 
+come to a safe stop without assistance (threshold 
+4), the Daedalus comes equipped with a discreet-
+ly-packed BASE parachute for the safety-inclined 
+runner. This parachute is a one-use item.
+URBAN EXPLORER DAEDALUS (SPECIALITY ARMOR)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Top
+4
+10 
+minutes
+Kit
+75¥
+4
+Armorer
+Note: Parachutes for this item cost 750¥.
+>	
+The number of Daedalus fail MeFeeds out there is 
+staggering. Given some of the content, you’d think they’d 
+try to get them taken down, but I guess there really is no 
+such thing as bad publicity.
+>	
+Slamm-0!
+>	
+Just make sure you do your math beforehand. There’s 
+nothing quite as embarrassing as miscalculating and 
+coming in ten meters below target but still at a decent 
+altitude.
+>	
+Turbo Bunny
+>	
+With a little assistance from a drone, getting the altitude 
+you need for any standard building insertion isn’t hard. 
+Coming to a stop on a small rooftop is hard, but if your 
+mage knows the levitate spell, it’s much easier.
+>	
+Mika
+>	
+An alarming number of runners come up with plans that 
+revolve around these things and only realize post-jump 
+that they’ve never trained with them.
+>	
+Kat o’ Nine Tales
+>	
+Natural selection at work. Leave more jobs for the rest 
+of us.
+>	
+Clockwork
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    47
+
+
+===== streetlethal.pdf p49 =====
+MELEE WEAPONS
+WEAPON
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Krime Bill
+5
+1/3*
+(STR+3)P
+–2
+12R
+1,500¥
+Krime Reaver Axe
+4
+1
+(STR+3)P
+–1
+—
+300¥
+Krime Reaver Pick
+4
+1
+(STR+1)P
+–4
+—
+—
+Krime Reaver Knob
+4
+1
+(STR+3)P
+—
+—
+—
+Krime Shiv
+5
+1
+(STR+2)P
+-2
+6R
+550¥
+Macuahuitl, traditional
+6
+1
+(STR+3)P
+–2
+7R
+3,000¥
+Macuahuitl, modern
+4
+1
+(STR+2)P
+–1
+5R
+200¥
+Nodachi
+5
+2
+(STR+5)P
+–5
+12R
+2,500¥
+Fluid-Motion Mace
+4
+1
+(STR+4)P
+—
+9
+1,500¥
+Gunstock War Club
+5
+1
+(STR+3)P
+–1
+10
+200¥
+Nunchaku
+5
+1
+(STR+2)P
+—
+6R
+75¥
+Tonfa
+4
+1
+(STR+3)P
+—
+4
+75¥
+Krime Gloves: Knucks
+Physical Limit
+—
+(STR)P
+—
+8R
+600¥
+Krime Gloves: Stun Pad
+Physical Limit
+—
+8S(e)
+–5
+—
+—
+Krime Stun Lance
+4
+2
+10S(e)
+–5
+9R
+900¥
+Krime Trollbow, blade
+3
+1
+(STR+1)P
+–1
+(Rating)R
+Rating X 150¥
+Krime Whammy, club
+4
+1
+(STR+2)P
+—
+—
+—
+PROJECTILE WEAPONS
+WEAPON
+ACC
+DAM
+AP
+AVAIL
+COST
+Krime Trollbow, bow
+4
+(Rating + 2)P
+–(Rating / 4)
+Rating(R)
+Rating X 150¥
+>> STREET LETHAL <<
+48    EXPANDED ARSENAL >>

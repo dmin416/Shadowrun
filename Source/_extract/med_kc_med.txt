@@ -1,0 +1,265 @@
+
+
+===== killcode.pdf PDF page 67 =====
+ENHANCED AUGMENTED 
+REALITY REFLEX SYSTEM
+Can you hear me? Maybe you need a nice set 
+of EARRS?! I’m so funny. The EARRS system is 
+a unique blend of meat and Matrix, designed 
+to allow faster Matrix activity without the need 
+to fully immerse yourself in the virtual realm. 
+Functioning as a bridge between your central 
+nervous system and the Augmented Reality 
+Matrix around you, EARRS allow you to process 
+Matrix input at Matrix speeds while also letting 
+you respond to it via physical actions combined 
+with DNI and without the total nervous over-
+ride of full ASIST. 
+These were field-tested by several special-op-
+erations groups, and most came back with rave re-
+views. They saw their operator’s ability to interact 
+with both worlds at once, a far greater option than 
+being restricted to slow AR interaction or slump-
+ing and being hauled by the team while they went 
+full-VR to deal with electronic hazards.
+>	
+Can’t say I know anyone with a system like this, but it 
+can’t be easy to operate between the two realms. Even 
+operating in an intense spam-zone can make the real 
+world impossible to interact with—I can’t imagine a 
+system that tries to merge the two worlds.
+>	
+Balladeer
+CRANIAL SHIELD
+I’m only including this as a favor to a friend who 
+wants people to know they exist. No one in their 
+right mind would ever intentionally get one in-
+stalled. The system is a series of emitters im-
+planted into the skull. The emitters throw off a 
+low-level interference signal that inhibits wire-
+less connections between devices in the crani-
+um and outside. A bypass, like a datajack, can be 
+used for access, but all wireless connections fail. 
+The system was supposedly designed to protect 
+couriers from getting their headware hacked, but 
+the existence of datalocks and the ability to shut 
+down wireless capability made plenty of skeptics. 
+Digging around for the original design traced the 
+whole thing back to MCT, and some additional 
+specs showed that the system also blocks tech-
+nomancers from accessing the Matrix. So now 
+we know why they made it. 
+>	
+There is no reason for this to exist. This is some of the 
+most deplorable tech I have seen since cortex bombs. 
+There are no good uses for this!
+>	
+Netcat
+>	
+I’ll probably catch flak for this, but here goes. The 
+market for this implant is parents of technomancer 
+kids. I’m not a proponent of this by any means, but it’s 
+hard being a teenager and a technomancer. Or even 
+being an adult and a technomancer. This implant is 
+marketed as a way to shut off the overwhelming stream 
+of signals constantly battering a young technomancer. 
+It’s marketing, I know, and there are so many ways to 
+protect them without cutting off access to a natural 
+talent, but a lot of parents aren’t technomancers 
+themselves and don’t understand. They just see it as 
+something that is hurting their child, and they look to 
+this as a permanent solution.
+>	
+/dev/grrl
+>	
+Those parents don’t deserve those kids.
+>	
+Netcat
+>	
+Here’s a growing business for you: hacking clinics that 
+offer this “treatment” and then snatching kids before 
+surgery. The jobs vary in pay depending on the delivery 
+target for the kid. Delivering kids to a hooder looking to 
+help a young techno brings in low pay, while selling them 
+to a corp or (sorry, Orange Queen) a dragon pays better. 
+Looking into who you’re working for is a good idea here, 
+and before you go thinking about welching on the deal 
+in order to keep a young technomancer out of the corp’s 
+hands, remember they’re a person and will need to be 
+taken care of. Not to mention the fact that most of them 
+are already convinced by mom and dad that this is the 
+best solution to help them with their condition.
+>	
+Fianchetto
+>> KILL CODE <<
+EARRS RULES
+The EARRS implant allows users to roll their Matrix 
+Initiative in a Physical encounter but limits the actions that 
+can be performed. While running the EARRS implant, the user 
+can move normally and perceive events in the physical world 
+through their standard senses, but all Physical and Social 
+Skill actions face a –10 dice pool modifier due to the system’s 
+confusion of physical and Matrix input. Matrix Actions can be 
+performed as normal. 
+ESS
+AVAIL
+COST
+0.75
+10R
+30,000¥
+66    DIPS & CHIPS >>
+
+
+===== killcode.pdf PDF page 74 =====
+in Cincinnati, Ohio, UCAS. From what I’ve heard, they do 
+solid if not spectacular work. 
+>	
+Red Anya
+>	
+Nice piece of gear, but is it really a good idea for any 
+decker—or rigger, for that matter—to go full VR in the 
+middle of a firefight? No thanks, not for me. 
+>	
+Pistons 
+SPINRAD GLOBAL/ 
+PANTHEON INDUSTRIES 
+MERCURY-ALPHA BATTLEFIELD 
+SIGNAL BOOSTER 
+On the wireless battlefields of the Sixth World, 
+electronic warfare has greater significance than 
+ever before. Cutting off or limiting an enemy’s 
+ability to communicate while maintaining one’s 
+own is often a decisive factor in victory. The Mer-
+cury-Alpha Signal Booster is designed to give PI-
+Tac users/operators and their commanders addi-
+tional advantages during combat or for normal 
+use in remote areas. 
+The Mercury-Alpha consists of three compo-
+nents: a main unit (or brain) that contains all neces-
+sary hardware, software, batteries, and data ports; 
+a foldable/detachable micro-dish transmitter; and 
+an optional, hardened fiber-optic cable that can 
+directly link the brain and transmitter together. 
+The brain weighs only about 450g and comes in 
+a variety of shapes, depending on the user’s pref-
+erence. It attaches directly to a PI-Tac master unit, 
+commlink, cyberdeck, or RCC. 
+When in use, the Mercury-Alpha has three dis-
+tinct modes. The first is passive mode, which is 
+specifically designed to overcome most normal 
+obstacles, such as extreme distance or natural ob-
+OPTIONAL RULE: SURPLUS OR REFURBISHED PI-TAC UNITS
+Arguably one of the most useful (and expensive) pieces of 
+battlefield technology out there, PI-Tac’s are coveted pieces of 
+equipment. Since their introduction years ago, the market for 
+surplus or refurbished units is at an all-time high. But, like any 
+secondhand piece of equipment, getting these types of units comes 
+with a price. If a gamemaster wishes to allow their players access 
+to them, here are a few general rules/suggestions:
+1) For every 25 percent reduction on the base cost of a new 
+unit, the surplus unit should have lost the functionality of one of its 
+main features. Repairing each function requires both Hardware 
+and Software + Logic [Mental] (Level x 3) Extended Tests, and the 
+necessary replacement parts cost two percent of the original value 
+value of the PI-Tax at +4 Availability)
+2) Surplus and refurbished units are more prone to breakdown 
+and susceptible to glitches. If an operator should glitch while 
+using one of these units, one main feature will fail and will need 
+to be repaired through a Hardware or Software + Logic [Mental] 
+(Level) Test. Gamemasters can also elect to have different kinds of 
+hidden code or commands in the unit. These can cause the unit to 
+act in unpredictable ways such as broadcasting all information in 
+the open or going into diagnostic mode at inconvenient times. Get 
+creative with the ways the players are inconvenienced! 
+3) Such units are more susceptible to both physical and Matrix 
+damage and will take one additional box when receiving either type 
+of damage. 
+>> KILL CODE <<
+PANTHEON HARD CASE CCOB
+ARMOR
+CAPACITY
+AVAIL
+COST
+12/14*
+8
+12R
+1,700¥
+Rules: Provides protection for contents against physical 
+damage only. Does not stack with other armor.
+Standard Upgrades: Drag handle, internal armored shell 
+(for RCC or cyberdecks) [14]*, 3 micro-hardpoints, quick-charge 
+battery pack.
+GENERIC CCOB
+ARMOR
+CAPACITY
+AVAIL
+COST
+8
+8
+10
+1,000¥
+Rules: Does not stack with other armor
+Standard Upgrades: Drag handle, micro-hardpoint, weapon 
+holster (SMG, shotgun, or assault rifle), quick-access medkit 
+pouch (up to Rating 4).
+PERSONAL DRONE RACK
+AVAIL
+COST
+12R
+500¥
+Rules: Can mount 3 micro drones or one small drone. 
+Requires one micro-hardpoint. 
+<< DIPS & CHIPS    73
+
+
+===== killcode.pdf PDF page 83 =====
+PARALLEL  
+PROCESSING
+Respec stared up at the ceiling in thought, reclining 
+in the rear of Netcat’s Econovan. Their transport for 
+tonight’s run was an inconspicuous panel van loaded 
+with medkits, tools, hidden guns, emergency com-
+mlinks, and most importantly, the object Respec was 
+lounging on while Netcat drove. It was a surprising-
+ly comfortable sofa for extra passengers, willing or 
+otherwise—definitely a step up from the hard-plastic 
+ambulance seats found in most shadowrunner trans-
+ports. And way more comfortable to lay down on.
+For a moment, the absurdity of her situation struck 
+Respec. Netcat had far more experience than her, 
+so it seemed natural to let her take the lead. Except 
+for the fact that Respec was at least fifty years older 
+than the other technomancer. The first-generation elf 
+pinched the bridge of her nose, realizing this was a 
+problem that an astronomically low number of peo-
+ple could ever relate to. It was her burden to bear.
+She climbed out of the van’s rear, having upload-
+ed the mission parameters, required passcodes, and 
+other data from the prep stage to a nanomemory 
+tattoo between her toes. Nobody but weirdos both-
+er to look there. Netcat was next out. Both of them 
+wore dark armored clothing that might be passable 
+as something a nightshift security agent might wear, 
+though with no colors or logos specific to their target. 
+On Respec’s hip rested a completely average-look-
+ing commlink. Specifically, the kind security guards 
+at the Makoto Shiranui Memorial Hospital, Brought 
+To You By Mitsuhama Computer Technologies were 
+issued. The pair checked each other’s disguises be-
+fore walking in opposite directions toward separate 
+hospital entrances, outerwear for the chilly February 
+night concealing weapons and other contraband. In 
+a private link, they reviewed their plan.
+<According to Mr. Johnson’s information, this hos-
+pital, as you’d expect from a MCT operation, isn’t just 
+a hospital. They never stopped their technomancer 
+research—they just hid it better. This is where they … 
+Ugh. It’s disgusting how clinical this report is.>
+<Just finish it, Respec.>
+Respec winced in meatspace, doing her best to 
+focus back on the Matrix and ignore the chill of the 
+night blowing through her trenchcoat. 
+<It’s a real hospital, but beneath it is an unlist-
+ed facility. This is where they process suspected 
+82    >> PARALLEL PROCESSING <<
+BY AMY VEERES

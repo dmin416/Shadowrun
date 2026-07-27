@@ -1,0 +1,1898 @@
+==== CORE PDF 461 ====
+value of the weakest limb. The attributes of partial limbs 
+(including cyberhands and –feet) may be enhanced, but 
+their attributes only apply for tests directly involving 
+those limbs (such as a Strength Test when gripping some-
+thing with an enhanced cyberhand). Cyberlimbs cannot 
+hold any bioware, nor any cyber-implants that take up Es-
+sence rather than Capacity. Essence cost, Capacity, and 
+other stats can be found on the Cyberlimb table.
+Cyberlimbs have other useful features. They give 
+you 1 extra damage box on your Physical Condition 
+Monitor for each cyberlimb you possess (ignore hands 
+and feet, and partial limbs count for half a limb). They 
+have Capacity, letting you add cyberweapons and oth-
+er cyber systems that have a Capacity cost [in brackets]. 
+They can perform at superhuman levels with the right 
+enhancements. Cyberlimbs can be dangerous even 
+if they don’t have cyberweapons installed— their un-
+armed Damage Value is (STR)P.
+Cyberlimbs: These prosthetics are basic off-the-shelf 
+models. All standard cyberlimbs come with Strength 
+and Agility attributes of 3. These values can only be 
+augmented by cyberlimb enhancements, not other aug-
+mentations.
+Customization: You can have your cyberlimb tailored 
+and customized to your frame and musculature. Custom-
+ization lets you add to your limb’s base Strength and/or 
+Agility ratings. Each increase of either attribute increases 
+the limb’s Availability and cost. If either of your limb’s at-
+tributes are increased beyond your natural maximum for 
+that attribute, you can’t use the cyberlimb (so don’t over-
+do it), but you can still add cyberlimb enhancements. You 
+customize your cyberlimb when you buy it; you can’t cus-
+tomize it after purchase, but you can add enhancements.
+Cyberlimbs may be either obvious or synthetic.
+Obvious cyberlimbs: These implants are immedi-
+ately recognizable as ar-
+tificial limbs unless you 
+cover them with clothing. 
+They are often chromed 
+or matte colors but visi-
+bly mechanical in nature. 
+Some folks like them 
+glaringly 
+obvious 
+and 
+outlandish, some find the 
+artificiality repellant and 
+disturbing. This can affect 
+your social dealings in 
+some circles, especially 
+upper-crust society and 
+the purist crowd.
+Synthetic cyberlimbs: 
+Synthetic limbs are dis-
+guised as natural limbs. 
+The fact that they’re cy-
+bernetic gives them a –8 
+Concealability 
+(the 
+Cy-
+bertechnology skill may 
+replace Perception for this 
+test) when someone’s just looking, but synthetic limbs are 
+obviously artificial to the touch.
+CYBERLIMB 
+ENHANCEMENTS
+Cyberlimb enhancements use up to the Capacity of the 
+cyberlimb they enhance. There are three types of en-
+hancement: Agility, Armor, and Strength. Physical attri-
+bute enhancements add their Rating to the appropriate 
+attribute of the limb. Armor enhancements provide an 
+Armor bonus equal to their rating, cumulative with oth-
+er armor, without adding to Encumbrance. Each limb can 
+have only one enhancement of each type (you can’t stack 
+two Strength 3 enhancements in the same cyberarm), but 
+you can replace one you have with one you want.
+CYBERLIMB ACCESSORIES
+These items may only be installed in cyberlimbs; some 
+may only be installed in certain cyberlimbs.
+Cyberarm gyromount: This accessory must be in-
+stalled in a full or partial cyberarm. When activated, coun-
+terweights pop out of your wrist and a small gyro spins 
+up to provide you with better balance and reduced recoil 
+for improving firing capability. Meanwhile, small children 
+stare at you. The effects are identical to a gyro stabiliza-
+tion system (p. 432), only with Rating 3 (this effect is not 
+cumulative with a worn gyro stabilization system). Acti-
+vating or deactivating the system is a Simple Action.
+Wireless: Activating or deactivating the system is a 
+Free Action.
+Cyberarm slide: An integral version of the hidden 
+arm-slide, the cyberarm slide hides a hold-out, taser, or 
+>> STREET GEAR <<
+BODYWARE
+DEVICES
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Bone Lacing
+     Plastic
+0.5
+—
+8R
+8,000¥
+     Aluminum
+1
+—
+12R
+18,000¥
+     Titanium
+1.5
+—
+16R
+30,000¥
+Dermal Plating (Rating 1-6)
+Rating x 0.5
+—
+(Rating x4)R
+Rating x 3,000¥
+Fingertip Compartment
+0.1
+[1]
+4
+3,000¥
+Grapple Gun
+0.5
+[4]
+8
+5,000¥
+Internal Air Tank (Rating 1-3)
+0.25
+[3]
+Rating
+Rating x 4,500¥
+Muscle Replacement (Rating 1-4)
+Rating x 1
+—
+(Rating x 5)R
+Rating x 25,000¥
+Reaction Enhancers (Rating 1-3)
+Rating x 0.3
+—
+(Rating x 5)R
+Rating x 13,000¥
+Skillwires (Rating 1-6)
+Rating x 0.1
+—
+Rating x 4
+Rating x 20,000¥
+Smuggling Compartment
+0.2
+[2]
+6
+7,500¥
+Wired Reflexes (Rating 1-3)
+     Rating 1
+2
+—
+8R
+39,000¥
+     Rating 2
+3
+—
+12R
+149,000¥
+     Rating 3
+5
+—
+20R
+217,000¥
+456    Electronics >>
+
+==== CORE PDF 462 ====
+light pistol inside your cyberarm, concealing it from nor-
+mal vision. As a Free Action, you can ready the weapon 
+in the slide.
+Cyber holster: You can hold a taser or any pistol- or 
+smaller-sized weapon within the holster, completely en-
+closed until you activate it. Inserting or retrieving a weap-
+on takes one Simple Action. A cyber holster can also be 
+used as a smuggling compartment to store items no larg-
+er than a pistol (the gamemaster has final discretion).
+Wireless: Readying a weapon from the holster is a 
+Free Action.
+Hydraulic jacks: This implant requires you to have 
+two cyberlegs with a hydraulic jack of identical Ratings 
+in each leg. Each Rating point adds a +1 to your Physical 
+limit for jumping and sprinting, adds twenty percent to 
+your maximum jump distance, and reduces your falling 
+distance by two meters for the purpose of calculating 
+falling damage.
+Wireless: The jacks add a +1 dice pool bonus to tests 
+involving jumping, sprinting, or lifting with your legs.
+Large smuggling compartment: This is a larger ver-
+sion of the smuggling compartment (p. 455). It can hold 
+something the size of a heavy pistol or a small SMG 
+(gamemaster’s discretion—think breadbox size as a 
+guide). Getting something out of or putting something 
+into it takes a Complex Action.
+Wireless: Getting something out of or putting some-
+thing into it takes a Simple Action.
+>> STREET GEAR <<
+CYBERLIMBS
+LIMBS
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Obvious limbs
+Full arm
+1
+15
+4
+15,000¥
+Full leg
+1
+20
+4
+15,000¥
+Hand/foot
+0.25
+4
+2
+5,000¥
+Lower arm
+0.45
+10
+4
+10,000¥
+Lower leg
+0.45
+12
+4
+10,000¥
+Torso
+1.5
+10
+12
+20,000¥
+Skull
+0.75
+4
+16
+10,000¥
+Synthetic limbs
+Full arm
+1
+8
+4
+20,000¥
+Full leg
+1
+10
+4
+20,000¥
+Hand/foot
+0.25
+2
+2
+6,000¥
+Lower arm
+0.45
+5
+4
+12,000¥
+Lower leg
+0.45
+6
+4
+12,000¥
+Torso
+1.5
+5
+12
+25,000¥
+Skull
+0.75
+2
+16
+15,000¥
+CUSTOMIZATION
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Each STR or AGI point above 3
+—
+—
+Cyberlimb + 1
++5,000¥
+CYBERLIMB ENHANCEMENTS
+ENHANCEMENT
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Agility (Rating 1-3)
+—
+Rating
+(Rating x 3)R
+Rating x 6,500¥
+Armor (Rating 1-3)
+—
+Rating
+Rating x 5
+Rating x 3,000¥
+Strength (Rating 1-3)
+—
+Rating
+(Rating x 3)R
+Rating x 6,500¥
+CYBERLIMB ACCESSORIES
+ACCESSORY
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Cyberarm gyromount
+—
+[8]
+12F
+6,000¥
+Cyberarm slide
+—
+[3]
+12R
+3,000¥
+Cyber holster
+—
+[5]
+8R
+2,000¥
+Hydraulic jacks (Rating 1-6)
+—
+[Rating]
+9
+Rating x 2,500¥
+Large smuggling compartment
+—
+[5]
+6
+8,000¥
+<< Electronics    457
+
+==== CORE PDF 463 ====
+CYBER IMPLANT 
+WEAPONS
+Cyber-implant weapons can be installed into cyberlimbs 
+or directly into the meat. They’re popular with the deni-
+zens of urban wastelands like the Barrens, and with street 
+samurai who never want to go anywhere unarmed.
+Cyberguns: Generally speaking, these are mount-
+ed in a cyberarm or directly into a natural arm, but you 
+could install one in a leg or even your torso. Cyberguns 
+are distinct from cyber holsters in that the gun itself can 
+be controlled and fired directly, as an extension of your 
+body. Depending on the size of the gun, cyberguns take 
+up part of your forearm or replace your arm altogether, 
+with the functional parts of the arm built around the gun. 
+Smaller cyberguns fire through a hidden port in the palm 
+or knuckles, while larger cyberguns fold back the user’s 
+hand at the wrist.
+For extra concealment, cyberguns are built from 
+mostly non-metallic compounds, and any metallic 
+parts are incorporated into the (cyber) arm’s structure. 
+All cyberguns have internal magazines (m) and can be 
+equipped with a hidden external ammo port. Howev-
+er, once you attach a clip to the side of your forearm or 
+the back of your elbow, the cybergun becomes kind of 
+obvious. Laser sights and silencers/sound suppressors 
+are also available; other weapon accessories can’t be 
+installed in cyberguns. All cyberguns are pre-equipped 
+with smartgun systems (p. 433).
+Cyber melee weapons: For a quarter of a centu-
+ry now, cyber-implant melee weapons have been the 
+classic, favored toys of razor guys, from street muscle 
+to professional urban samurai. They are available as cy-
+berarm upgrades, but can also be installed directly into 
+the flesh. Cyber weapons can be readied via muscle 
+flexture, neural impulse, or wireless signal. Attacks with 
+cyber melee weapons use Unarmed Combat skill and 
+the Physical limit.
+Hand razors are blades two to three centimeters long, 
+made of chromed steel or carbon fiber. They either slide 
+out from beneath your fingernails or replace them en-
+tirely. Hand blades slip out the side of the hand opposite 
+the thumb, parallel to the hand, and while they are uni-
+versally thin and sharp, they come in a variety of shapes 
+and styles. Spurs are one to three blades or spikes pro-
+truding from the back of your wrist or your knuckles, 
+sticking out from your fist as much as thirty centime-
+ters. The shock hand is like a shock glove built into the 
+palm of your hand, perfect for inflicting a nasty shock to 
+anything it comes into contact with. Shock hands deal 
+Electricity damage (p. 170) and have ten charges in each 
+hand; when plugged in they recharge at a rate of one 
+charge per ten seconds.
+IMPLANT WEAPONS
+IMPLANT WEAPONS
+CYBERGUNS
+ESS
+CAP
+AVAIL
+COST
+Hold-out pistol
+0.1
+[2]
+8R
+2,000¥
+Light pistol
+0.25
+[4]
+10R
+3,900¥
+Machine pistol
+0.5
+[6]
+12R
+3,500¥
+Heavy pistol
+0.5
+[6]
+12R
+4,300¥
+Submachine gun
+1
+[8]
+12R
+4,800¥
+Shotgun
+1.25
+[10]
+12R
+8,500¥
+Grenade launcher
+1.5
+[15]
+20F
+30,000¥
+External clip port
+0.1
+[1]
+—
++1,000¥
+Laser sight
+—
+[1]
+—
++1,000¥
+Silencer/suppressor
+—
+[2]
+—
++1,000¥
+CYBER MELEE
+ESS
+CAP
+AVAIL
+COST
+Hand blade (retractable)
+0.25
+[2]
+10F
+2,500¥
+Hand razors (retractable)
+0.2
+[2]
+8F
+1,250¥
+Spurs (retractable)
+0.3
+[3]
+12F
+5,000¥
+Shock hand
+0.25
+[4]
+8R
+5,000¥
+WEAPONS
+REACH
+DAMAGE
+AP
+Hand blade
+—
+(STR + 2)P
+–2
+Hand razors
+—
+(STR + 1)P
+–3
+Spurs
+—
+(STR + 3)P
+–2
+Shock hand
+—
+9S(e)
+–5
+>> STREET GEAR <<
+IMPLANT WEAPONS
+CYBERGUNS
+ACCURACY
+DAMAGE
+AP
+MODE
+RC
+AMMO
+Cyber hold-out
+4 (6)
+6P
+—
+SA
+—
+2 (m) / 6 (c)
+Light cyber pistol
+6 (8)
+7P
+—
+SA
+—
+10 (m) / 15 (c)
+Cyber machine pistol
+4 (6)
+6P
+—
+SA / BF
+1
+18 (m) / 32 (c)
+Heavy cyber pistol
+4 (6)
+7P
+–1
+SA
+—
+8 (m) / 12 (c)
+Cyber submachine gun
+4 (6)
+7P
+—
+SA / BF
+2
+18 (m) / 32 (c)
+Cyber shotgun
+4 (6)
+10P
+–1
+SS
+—
+4 (m) / 10 (c)
+Cyber microgrenade launcher
+4 (6)
+as Grenade
+as Grenade
+SS
+—
+2 (m) / 6 (c)
+458    Electronics >>
+
+==== CORE PDF 464 ====
+BIOWARE
+Bioware is subtler, more holistic, and less invasive than 
+cyberware, at the cost of being substantially pricier. In-
+stead of replacing body parts with machines, bioware 
+augments the body’s own functions and integrates trans-
+planted organs that function as natural features. The 
+application of biotechnology is a tricky business, as the 
+fine balance of homeostasis between the body’s organic 
+systems must be maintained. In the last decade, bionics 
+and bio-engineering techniques have taken bioware from 
+cutting edge to commonplace. Bioware is more expen-
+sive monetarily, costs less Essence, and is much harder to 
+spot. Also—and we’d like to think this goes without say-
+ing—bioware has no wireless capability at all.
+Adrenaline pump: This enhanced gland is implanted 
+in the lower abdomen, connected to both supradrenal 
+glands. When dormant, the pump is merely a reservoir 
+for adrenaline. When activated, a small muscular sac con-
+tracts, sending a surge of concentrated adrenaline into 
+the blood stream. Physical and emotional stress can force 
+your pump to activate if you fail a Composure Test (p. 
+152); otherwise you can trigger it as a Free Action.
+While the pump is active, you ignore injury modifiers 
+and don’t fall unconscious, even if your Stun Condition 
+Monitor is filled. You can’t rest, but the adrenaline pump’s 
+Rating is added to your Strength, Agility, Reaction, and 
+Willpower attributes. The pump works for Rating x 1D6 
+Combat Turns (the pump can’t be switched off early). 
+When time’s up, you crash and take Stun damage equal 
+to the number of Combat Turns the pump was active (use 
+your natural Body + Willpower to resist the damage).
+After the effects end, your attribute values return to 
+normal and you stop ignoring injury modifiers or uncon-
+sciousness from Stun damage. After use, the pump re-
+quires 1 hour to regenerate its supply. During that time, it 
+cannot be activated.
+Bone density augmentation: The molecular struc-
+ture of your bones is altered to increase density and 
+tensile strength. Ligaments are strengthened, and the 
+increased bone density increases your weight a bit. Your 
+Body attribute is increased by the bone density Rating 
+for the purpose of damage resistance tests. You also 
+deal Physical damage in unarmed combat, based on the 
+Rating of the augmentation (see the Bone Density Aug-
+mentation table). Bone density augmentation is incom-
+patible with other augmentations to the bones, includ-
+ing bone lacing cyberware.
+Cat’s eyes: These transgenic vat-grown implants are 
+very literally cats’ eyes with a modified DNA profile and 
+occipital connecting structures. The structure of cat’s eyes 
+amplifies light and enhances night vision, providing low-
+light vision. Cat’s eyes are slit and reflective, just like, well, 
+a cat’s. This bioware is obviously not compatible with cy-
+berware eye enhancements or replacements.
+Enhanced articulation: A number of procedures like 
+joint-surface coating, re-lubrication, and tendon and 
+ligament augmentation lead to more fluid muscle and 
+joint action. Enhanced articulation provides you with a 
++1 dice pool modifier to your Escape Artist skill and a 
++1 increase to your Physical limit (cumulative with other 
+limit modifiers).
+Muscle augmentation: This biological weaving treat-
+ment enhances existing muscle tissue, rather than replac-
+ing it with vat-grown muscles. Specially grown muscle 
+cables are woven into existing muscle fibers, enhancing 
+muscle mass and brute strength while providing a bulk-
+ier look. Muscle augmentation adds its rating to your 
+Strength. This bioware is incompatible with augmenta-
+tions that increase Strength, including the muscle re-
+placements cyberware.
+Muscle toner: This treatment increases muscle fi-
+ber elasticity in existing muscle tension, resulting in in-
+creased muscle tension and flexibility while providing a 
+smooth and ropy physique. Muscle toner adds its rating 
+to your Agility. This bioware is incompatible with aug-
+mentations that increase Agility, including the muscle 
+replacements cyberware.
+Orthoskin: A web of biofibers in the skin provides the 
+equivalent of personal armor while being virtually indis-
+tinguishable from natural skin. Orthoskin adds its Rating 
+to your Armor Rating, and is cumulative with other Ar-
+mor. Orthoskin cannot be combined with skin augmenta-
+tions that give you Armor, including dermal plating.
+Pathogenic defense: This enhanced spleen can pro-
+duce more effective and aggressive white blood cells for 
+combating pathogens. Pathogenic defense adds its Rating 
+to Disease Resistance Tests.
+Platelet factories: Platelet factories increase your 
+body’s ability to handle Physical damage by accelerat-
+ing the production of platelets within bone marrow and 
+their concentration in the blood, which helps stop bleed-
+ing faster. Any time you would take 2 or more boxes of 
+damage to your Physical Condition Monitor, reduce the 
+damage by one box.
+Skin pocket: This skin flap can be located anywhere 
+on your body. A nerveless “sheath” of flesh concealed 
+by the flap is perfect for hiding a small object—it’s the 
+bioware version of a smuggling compartment (p. 455). 
+The skin pocket has a Concealability of –10. It takes a 
+Complex Action to add or remove an item from a skin 
+pocket.
+Suprathyroid gland: Placed on top of your existing 
+thyroid gland, the suprathyroid gland supersedes the met-
+abolic functions of your thyroid. The enhanced metabolism 
+produces more energy, supercharging you. While you’re 
+supercharged, you might want to supersize—to fuel your 
+optimized metabolism, you’ll need to eat twice as much as 
+normal. You get a +1 to your Agility, Body, Reaction, and 
+Strength, along with a 25 percent boost in lifestyle costs. 
+And you might get a bit hyperactive.
+Symbiotes: Tailored micro-organisms in your blood-
+stream greatly enhance your healing. Add the Rating of 
+the symbiotes as a dice pool modifier on healing tests 
+>> STREET GEAR <<
+<< Electronics    459
+
+==== CORE PDF 465 ====
+(Physical and Stun). However, the symbi-
+otes have unusual dietary requirements 
+that must be met to keep them alive. 
+You need to pay (Rating x 200) nuyen 
+per month for special symbiote food, 
+although if you have a High Lifestyle or 
+better it’s covered.
+Synthacardium: 
+Artificially 
+en-
+hanced myocardium allows cardiovas-
+cular functions to be performed more 
+efficiently, enabling the heart to keep 
+the blood better oxygenated. The syn-
+thacardium adds its Rating as a dice 
+pool bonus to your tests using skills in 
+the Athletics skill group.
+Tailored pheromones: These pher-
+omones are specially tailored to subtly 
+influence others and can be released 
+at will. Tailored pheromones add their 
+Rating as a dice pool modifier to your 
+skill tests for skills in the Acting and In-
+fluence skill groups, but only when the 
+person you’re using them on is within a 
+comfortable conversation range—if they 
+can’t smell you, the pheromones don’t 
+work. Tailored pheromones also work 
+on you to make you feel better about 
+yourself; increase your Social limit by the 
+Rating. Tailored pheromones have no effect on magical 
+abilities and tests.
+Toxin extractor: A specially cultivated cluster of cells 
+in your liver improves its filtering capabilities. The toxin 
+extractor adds its Rating as a dice pool modifier to all your 
+Toxin Resistance Tests (Toxins, Drugs, and BTLs, p. 408).
+Tracheal Filter: Implanted at the top of your trachea, 
+this organ can absorb airborne impurities and keep them 
+from reaching your lungs. The filter adds its Rating as a 
+dice pool modifier to Toxin Resistance Tests versus inha-
+lation vector toxins (Toxins, Drugs, and BTLs, p. 408).
+CULTURED BIOWARE
+Cultured bioware must be tailor-made for the body in 
+which it will eventually find a home. This means it is 
+more expensive and takes longer to acquire than the 
+off-the-shelf kind.
+Cerebral booster: The convolutions and gyri of your 
+cerebrum are augmented and amplified with additional 
+nervous tissue, improving overall brain function. Your ce-
+rebral booster increases your Logic attribute by its Rating. 
+Damage compensator: Damage compensators are 
+essentially cut-offs stored in the nervous pathways that 
+report pain from the body back to your brain. You ig-
+nore a number of damage boxes (your choice of Phys-
+ical, Stun, or a combination of the two) equal to the 
+compensator’s Rating before determining your injury 
+modifiers.
+Mnemonic enhancer: This highly concentrated 
+growth of grey matter gets attached to the brain’s mem-
+ory centers, improving both short- and long-term mem-
+ory. Add the enhancer’s Rating as a dice pool bonus to 
+your Knowledge, Language, and memory-related tests 
+as well as to your Mental limit.
+Pain editor: This cluster of specialized nervous tis-
+sue is designed to filter sensory stimuli. If the pain editor 
+is active, this allows you to ignore all injury modifiers, 
+and you even stay conscious when your Stun Condi-
+tion Monitor is completely full. You feel no pain—you’re 
+blissfully, dangerously, recklessly unaware of the extent 
+of damage you’ve taken without either performing a 
+self-examination (Observe In Detail action) or being in-
+formed by a biomonitor (p. 450). While active, the pain 
+editor increases your Willpower by 1 and decreases your 
+Intuition by 1. Additionally, all tactile Perception Tests 
+you make receive a dice pool modifier of –4.
+Reflex recorder: The first step in this particular reci-
+pe is growing some extra neural material in a small clus-
+ter. When that’s fully cooked, you drop it in the skull and 
+attach it to the nerves for motor reflexes. Then boom, 
+you’ve got a metahuman with better muscle memory. 
+The reflex recorder adds 1 to the Rating of a specific skill 
+linked to a Physical attribute. Multiple recorders may be 
+taken for multiple skills, but you can’t implant two reflex 
+recorders for the same skill. Reflex recorder bioware is in-
+compatible with skillwires cyberware.
+Sleep regulator: The sleep regulator is a modifica-
+tion to the hypothalamus, allowing for longer periods of 
+>> STREET GEAR <<
+BIOWARE
+BASIC BIOWARE
+ESSENCE
+AVAIL
+COST
+Adrenaline pump (Rating 1–3)
+Rating x 0.75
+(Rating x 6)F
+Rating x 55,000¥
+Bone density augmentation (Rating 1–4)
+Rating x 0.3
+(Rating x 4)
+Raxing x 5,000¥
+Cat’s eye
+0.1
+4
+4,000¥
+Enhanced articulation
+0.3
+12
+24,000¥
+Muscle augmentation (Rating 1–4)
+Rating x 0.2
+(Rating x 5)R
+Rating x 31,000¥
+Muscle toner (Rating 1–4)
+Rating x 0.2
+(Rating x 5)R
+Rating x 32,000¥
+Orthoskin (Rating 1–4)
+Rating x 0.25
+(Rating x 4)R
+Rating x 6,000¥
+Pathogenic Defense (Rating 1–6)
+Rating x 0.1
+(Rating x 2)
+Rating x 4,500¥
+Platelet factories
+0.2
+12
+17,000¥
+Skin pocket
+0.1
+4
+12,000¥
+Suprathyroid gland
+0.7
+20R
+140,000¥
+Symbiotes (Rating 1–4)
+Rating x 0.2
+(Rating x 5)
+Rating x 3,500¥
+Synthacardium (Rating 1–3)
+Rating x 0.1
+(Rating x 4)
+Rating x 30,000¥
+Tailored pheromones (Rating 1–3)
+Rating x 0.2
+(Rating x 4)R
+Rating x 31,000¥
+Toxin extractor (Rating 1–6)
+Rating x 0.2
+(Rating x 3)
+Rating x 4,800¥
+Tracheal filter (Rating 1–6)
+Rating x 0.1
+(Rating x 3)
+Rating x 4,500¥
+UNARMED COMBAT ATTACKS
+REACH
+DAMAGE
+AP
+Bone density Rating 1
+—
+(STR)P
+—
+Bone density Rating 2
+—
+(STR + 1)P
+—
+Bone density Rating 3
+—
+(STR + 2)P
+—
+Bone density Rating 4
+—
+(STR + 3)P
+—
+460    Electronics >>
+
+==== CORE PDF 466 ====
+wakefulness, an incredibly useful advantage for anyone 
+with any profession, not just shadowrunners. You need 
+less sleep per day and the sleep you get is deep and 
+restful (and harder to wake you up from). The sleep regu-
+lator lets you get by with three hours of sleep each night 
+and stay awake for twice as long as normal before hav-
+ing to resist sleep deprivation fatigue (p. 172). Resting 
+hours for healing purposes are not affected.
+Synaptic booster: The nerve cells making up the spi-
+nal cord are both broadened and replicated with this bio-
+ware, allowing for more neural bandwidth. The result is a 
+much faster reaction time. The booster confers a bonus 
+of +1 Reaction (and accompanying adjustment to Initia-
+tive and Physical limit) and +1D6 Initiative Die per point 
+of Rating. The synaptic booster cannot be combined with 
+any other form of Reaction or Initiative enhancement.
+MAGICAL 
+EQUIPMENT
+Magical Supplies and Spell Formulae are described in 
+Magic, p. 316.
+VEHICLES  
+AND DRONES
+Vehicle attributes used in combat are defined in Vehicles, 
+p. 198. Vehicles also have a non-combat attribute, Seat-
+ing, which determines both how many people can fit in 
+the vehicle (including the operator) and also, in a pinch, 
+additional cargo space—one ‘seat’ can also be used to 
+hold up to 250 kilograms of cargo. Seating (for people) 
+can be exceeded by up to 150 percent by stuffing people 
+inside, but doing so decreases the vehicle’s Speed and 
+Handling attributes by one. So you can have that extra 
+person ride on the back of a dirtbike, or stuff a more-than-
+safe amount of people into the back of a sedan, but your 
+vehicle’s not going to provide quite its usual kick.
+Rigger interface: When added to a vehicle, this lets 
+you use a control rig to jump in and control it directly 
+through immersive virtual reality. The standard rigger 
+interface allows the vehicle to be controlled with either 
+a direct fiber-optic cable or wireless link. See Being the 
+Machine, p. 265.
+Weapon mounts: Vehicles may be equipped with a 
+number of weapon mounts equal to their unaugmented 
+Body ÷ 3 (round down). Standard weapon mounts may 
+hold any assault rifle or smaller-sized weapon and 250 
+rounds of ammo. Heavy weapon mounts count as two 
+weapon mounts and can hold any weapon and up to 
+>> STREET GEAR <<
+CULTURED BIOWARE
+BIOWARE
+ESS
+AVAIL
+COST
+Cerebral booster
+(Rating 1-3)
+Rating x 0.2
+(Rating x 6)
+Rating x 31,500¥
+Damage compensators 
+(Rating 1-12)
+Rating x 0.1
+(Rating x 3)F
+Rating x 2,000¥
+Mnemonic enhancer
+(Rating 1-3)
+Rating x 0.1
+(Rating x 5)
+Rating x 9,000¥
+Pain editor
+0.3
+18F
+48,000¥
+Reflex recorder (Skill)
+0.1
+10
+14,000¥
+Sleep regulator
+0.1
+6
+12,000¥
+Synaptic booster
+(Rating 1-3)
+Rating x 0.5
+(Rating x 6)R
+Rating x 95,000¥
+MAGICAL EQUIPMENT
+FOCI
+AVAIL
+COST
+Enchanting Focus
+(Force x 3)R
+Force x 5,000¥
+Metamagic Focus
+(Force x 3)R
+Force x 9,000¥
+Power Focus
+(Force x 4)R
+Force x 18,000¥
+Qi Focus
+(Force x 3)R
+Force x 3,000¥
+Spell Focus
+(Force x 3)R
+Force x 4,000¥
+Spirit Focus
+(Force x 3)R
+Force x 4,000¥
+Weapon Focus
+(Force x 4)R
+Force x 7,000¥
+FORMULAE
+AVAIL
+COST
+Focus Formula
+as Focus
+Focus Cost x 0.25
+Spell Formula
+     Combat
+8R
+2,000¥
+     Detection
+4R
+500¥
+     Health
+4R
+500¥
+     Illusion
+8R
+1,000¥
+     Manipulation
+8R
+1,500¥
+MAGICAL SUPPLIES
+AVAIL
+COST
+Magical Lodge 
+Materials
+Force x 2
+Force x 500¥
+Reagents, per dram
+—
+20¥
+VEHICLE MODIFICATIONS
+MODIFICATION
+AVAIL
+COST
+Rigger interface
+4
+1,000¥
+Standard weapon mount
+8F
+2,500¥
+Heavy weapon mount
+14F
+5,000¥
+Manual operation
++1
++500¥
+<< MAGICAL EQUIPMENT    461
+
+==== CORE PDF 467 ====
+500 rounds of belted ammo or up to Body rockets/mis-
+siles. All weapon mounts are operated remotely and can 
+target a ninety-degree arc of fire (horizontal and verti-
+cal). Manual operation can be added, but only for vehi-
+cles, not drones, and at extra cost.
+BIKES
+Bikes are operated with the Pilot Ground Craft skill. 
+Most come available with either electric or hybrid bio-
+fuel engines.
+Dodge Scoot: This is an electric-powered scooter 
+with a top speed of don’t make me laugh. It’s compact, 
+fuel-efficient, and super-affordable, but no self-respect-
+ing shadowrunners would be caught dead on one.
+Harley-Davidson Scorpion: This bike is a classic, 
+heavy-bodied, heavily chromed road hog, armored and 
+styled for intimidation. Very popular with a certain type 
+of go-ganger, and with big, tough orks and trolls who 
+don’t worry about little things like “embodying a cliche.” 
+This bike is even tough enough to be used in the combat 
+biking circuit.
+Yamaha Growler: This is a durable off-road bike used 
+in motocross and other extreme sports events, usually 
+seen in photos and footage with both the bike and its 
+rider covered in dust. It’s popular with thrill seekers, wil-
+derness buffs, and light-freight drug smugglers.
+Suzuki Mirage: This Japanese racing bike is a fast, 
+sleek speed machine, popular with the other type of 
+go-ganger—it’s worth mentioning that both the Scorpi-
+on and the Mirage are popular with the Cutters, but the 
+Ancients show a notable preference for the Mirage and 
+its cousins and competitors. Like the Scorpion, the Mi-
+rage also sees some use in the combat bike circuit.
+CARS
+Cars are operated with the Pilot Ground Craft skill. 
+Most come available with either electric or hybrid bio-
+fuel engines.
+Chrysler-Nissan Jackrabbit: This cheap, ubiquitous 
+electric subcompact was made in North America for de-
+cades. Even after North American production ceased, 
+dozens of generic rip-offs were contract produced 
+SUZUKI MIRAGE
+>> STREET GEAR <<
+SIMILAR MODELS
+No two vehicles are created equal, but many are created 
+damn close. Every commercially available vehicle listed here has 
+numerous cousins, copycats, clones, and competitors that have 
+the same name but different branding, make, and model year. 
+These add an opportunity for you to define your character further 
+through his personal preference and brand awareness, without 
+cluttering up the game system with dozens of near-identical 
+cars. There are no differences between “similar models” except 
+branding and, at the gamemaster’s discretion, brand-related price 
+tweaks and maybe a point or so difference in an attribute or two.
+VEHICLE	
+SIMILAR MODELS
+Dodge Scoot	�����������������������������������Hyundai Hopper, Entertainment 
+Systems Papoose
+Harley-Davidson Scorpion	���������BMW Blitzen, Gaz-Niki Titan
+Yamaha Growler	���������������������������Evo Falcon, Gaz-Niki Wolverine
+Suzuki Mirage	�������������������������������Yamaha Rapier, Thundercloud Contrail
+Chrysler-Nissan Jackrabbit 	�������Peugeot 112, Opel Luna
+Honda Spirit	�����������������������������������Wuxing Breezer, Toyota Gazelle
+Hyundai Shin-Hyung	���������������������BMW 400GT, GMC Commodore
+Eurocar Westwind 3000	���������������Porsche Aguilar, Ferrari Diabolus
+Ford Americar	�������������������������������Mercury Comet, Honda Citizen
+S-K Bentley Concordat	�����������������GMC Cadillac Nocturne, BMW X89
+Mitsubishi Nightsky	���������������������Rolls Royce Phaeton
+Toyota Gopher	�������������������������������Gaz P–179, Wuxing Peng You 4x4
+GMC Bulldog Step-Van	���������������Renault-Fiat Eurovan, Aztechnology 
+Governor
+Rover Model 2072	�������������������������Ares Humvee, Toyota Coaster
+Ares Roadmaster	��������������������������Esprit Industries Sororita, Renraku 
+Kamekichi
+Samuvani-Criscraft Otter	�������������GMC Outrider, Celebrian Nymph
+Yongkang-Gala Trinity	�������������������Zemlya-Poltava Crest, Celebrian Dart.
+Morgan Cutlass	�����������������������������Surfstar Marine Seacop, 
+Messerschmidt-Kawasaki Harbor 
+Sentry
+Proteus Lamprey	���������������������������Kalmaar Seefuchs, Toyota TLM–2
+Vulkan Electronaut	�����������������������Proteus Explorer, Aztechnology Jade 
+Diver
+Artemis Industries Nightwing	�����IFMU Spatz, Suzuki Wingman
+Cessna C750	�����������������������������������Lear-Cessna Rover
+Renault Fiat-Fokker Tundra 9	�����Airbus JPFB-03, Toyota TX13
+Ares Dragon	�����������������������������������Hughes Stallion
+Northrup Wasp	�����������������������������Lockheed Kestrel, Renraku Dragonfly
+Ares Venture 	���������������������������������Cascade Skraacha, Zhejiang 
+Shenying Industries Raptor
+GMC Banshee	�������������������������������Aztechnology Lobo
+Federated Boeing Commuter	�����Hughes-Aerospace Daytrader
+462    VEHICLES and DRONES  >>
+
+==== CORE PDF 468 ====
+throughout the third world. The sheer amount of Chrys-
+ler-Nissan’ Jackrabbits on the road means the older model 
+must continue to be supported.
+Honda Spirit: This sleek three-wheeled two-seater 
+features an electric engine and is popular with commut-
+ing sprawl dwellers. The spirit has a bubble hood for bad 
+weather, with a chemical coating “guaranteed to neutral-
+ize 89 percent of acid rain.”
+Hyundai Shin-Hyung: This cheap four-door sports 
+sedan is a fast, powerful car for corp youth to show off 
+their moxie to their friends in a socially acceptable and 
+constructive way. Available for low prices out of the box, 
+the Shin-Hyung is often heavily customized by tuners and 
+street racing enthusiasts to the point of being far more 
+functional and barely recognizable.The Shin-Hyung can 
+be bought cheap, goes fast, and handles well. What else 
+could you want? These facts have made it popular with 
+Triad and Yakuza elements as well as more affluent street 
+gangs and slumming rich-kids.
+Eurocar Westwind 3000: This sleek, classic, low-slung 
+speed machine mixes business and pleasure into perfec-
+tion. Situated perfectly at the intersection of luxury and 
+performance, this is a turbo-charged sportscar that is only 
+a pipe dream for most slags working their way up through 
+the shadows. Its sexy lines and powerful engine make it 
+consistently powerful among muscle car enthusiasts.
+Ford Americar: This four-door sedan has an afford-
+able price point, capacious luggage storage, and safety 
+features that, combined, made it the bestselling family 
+car in North America for decades before losing out to the 
+Mercury Comet. The Americar is reliable and economical, 
+but not fast or sexy. If you need to ferry four metahumans 
+from point A to point B, a Ford Americar is probably the 
+most straightforward and anonymous way to do so. It’s 
+not flashy, and it’s not stylish, but sometimes flashy gets 
+you killed.
+Saeder-Krupp-Bentley Concordat: This luxury sedan 
+is stylish, stately, and impressive. It is fast and powerful, 
+comfortable and safe, opulently appointed, and most 
+importantly, a status symbol. The SK-Bentley Concordat 
+is the kind of car that simstars and orxploitation rappers 
+drive; a runner behind the wheel of one has made the big 
+time indeed. Either that, or they stole it.
+Mitsubishi Nightsky: Decadent, secure, and high-
+tech, this armored limousine isn’t for you. It’s for corp 
+executives, media stars, and Mr. Johnson; only in their 
+company will you enjoy its spacious interior and luxuri-
+ous amenities.
+TRUCKS AND VANS
+Trucks and vans are operated with the Pilot Ground 
+Craft skill. Most come available with either electric or 
+hybrid biofuel engines.
+Toyota Gopher: This is a classic pickup with great 
+off-road suspension, superior handling, and a loyal cus-
+tomer base. This low-maintenance design is a bit dated 
+but sees widespread use in third world nations and rural 
+areas, especially the NAN. It’s not the most wiz thing 
+you could drive, although its powerful engine and stor-
+age space could certainly come in handy if you have 
+some heavy duty hauling to do.
+GMC Bulldog Step-Van: This long-running top seller 
+from GM is a capacious (and armored!) delivery van fa-
+vored by everybody from legitimate shipping and logis-
+tics companies to security agencies to heavy mob crews 
+>> STREET GEAR <<
+VEHICLES
+GROUNDCRAFT
+HANDL* SPEED*
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Dodge Scoot
+4 / 3
+3
+1
+4
+4
+1
+1
+1
+—
+3,000¥
+Harley-Davidson Scorpion
+4 / 3
+4
+2
+8
+9
+1
+2
+1
+—
+12,000¥
+Yamaha Growler
+4 / 5
+3 / 4
+1
+5
+5
+1
+1
+1
+—
+5,000¥
+Suzuki Mirage
+5 / 3
+6
+3
+5
+6
+1
+2
+1
+—
+8,500¥
+C-N Jackrabbit
+4 / 3
+3
+2
+8
+4
+1
+2
+2
+—
+10,000¥
+Honda Spirit
+3 / 2
+4
+2
+8
+6
+1
+2
+2
+—
+12,000¥
+Hyundai Shin-Hyung
+5 / 4
+6
+3
+10
+6
+1
+2
+4
+—
+28,500¥
+Eurocar Westwind 3000
+6 / 4
+7
+3
+10
+8
+3
+5
+2
+13
+110,000¥
+Ford Americar
+4 / 3
+3
+2
+11
+6
+1
+2
+4
+—
+16,000¥
+SK-Bentley Concordat
+5 / 4
+5
+2
+12
+12
+2
+4
+4
+10
+65,000¥
+Mitsubishi Nightsky
+4 / 3
+4
+2
+15
+15
+3
+5
+8
+16
+320,000¥
+Toyota Gopher
+5 / 5
+4
+2
+14
+10
+1
+2
+3
+—
+25,000¥
+GMC Bulldog
+3 / 3
+3
+1
+16
+12
+1
+2
+6
+—
+35,000¥
+Rover Model 2072
+5 / 5
+4
+2
+15
+12
+2
+4
+6
+10
+68,000¥
+Ares Roadmaster
+3 / 3
+3
+1
+18
+18
+3
+3
+8
+8
+52,000¥
+* Handling and Speed are listed as On Road/Off Road when slashes are used.
+<< VEHICLES and DRONES     463
+
+==== CORE PDF 469 ====
+to shadowrunners. It has lots of room for people, gear, or 
+whatever you need to move, plus an engine and chassis 
+that can take a ton of punishment and keep on running.
+Rover Model 2072: Bigger and more powerful than 
+it needs to be, this luxury van is the top-of-the-line in its 
+class, and just as much of a status symbol as the Bentley. 
+On top of that, it packs intimidating size and all the acces-
+sories for cruising through the wilderness. Or, more com-
+monly, through elite urban neighborhoods. This expensive 
+vehicle is gaining more and more popularity with discreet 
+security details for its combination of status and security.
+Ares Roadmaster: This is a fragging armored car, chum-
+mer, and you should be grateful you can buy it legally. Le-
+gitimately used to move goods over land that need secure 
+transportation, the Roadmaster may have the speed and 
+handling of the tank that it is, and it may be anything but 
+subtle, but it can reliably shrug off small arms fire and even 
+grenades. For many teams, that’s a worthwhile tradeoff.
+BOATS
+Boats are operated with the Pilot Watercraft skill.
+Samuvani Criscraft Otter: This mid-size craft is main-
+ly used for pleasure boating, fishing, light hauling, and 
+utility work. A five-meter-long vessel with a fiberglass 
+open hull, the Otter is a well-rounded, general-purpose 
+boat that doesn’t stand out in any one area.
+Yongkang Gala Trinity: This small, fast-moving 
+speedboat is known as a smuggler’s craft. It’s generally 
+built on the spot using prepared components and a hull 
+kit, assembled with its payload built right into the hull; 
+then on arrival, the Trinity is taken apart around its cargo, 
+with the profit of the haul compensating for the fact the 
+boat was used only once.
+Morgan Cutlass: This commonly seen patrol boat 
+comes equipped with a pair of heavy, manually operat-
+ed weapon mounts (usually outfitted with LMGs) and a 
+high-quality sensor suite.
+SUBMARINES
+Submarines are operated with the Pilot Watercraft skill.
+Proteus Lamprey: This underwater sea-sled is used 
+for underwater inspection and transportation. with rid-
+ing positions for up to four scuba-equipped passengers 
+(while closest to a submarine, the Lamprey does not ac-
+tually protect its passengers from the rigors of the deep). 
+Military models of the lamprey are used for aquatic in-
+sertions by specially equipped naval spec ops forces, 
+like the UCAS Navy SEAL teams. The lamprey also in-
+cludes a drone rack for a single seaworthy drone of me-
+dium or smaller size for exploring at deeper depths than 
+the passengers can safely go.
+Vulkan Electronaut: This two-person mini-sub is the 
+cheapest available in its class and is available in a wide 
+selection of utility models. It is often used on patrol and 
+short-range reconnaissance duties and resupply runs, but 
+it can also be leveraged by shadowrunner teams looking 
+for unexpected ways to approach nautical targets.
+FIXED-WING AIRCRAFT
+Fixed wing aircraft are operated with the Pilot Aircraft 
+skill.
+Artemis Industries Nightwing: The Nightwing is an 
+older model ultra-light, closely resembling those that 
+originated in the late twentieth century. The Nightwing 
+has a shrouded electric motor to minimize aircraft sound 
+and reduce heat emissions—while this has a stated pur-
+pose of preventing noise pollution and environmental 
+impact, it has the side effect of making the small, glid-
+er-like craft quite stealthy. The Nightwing is popular with 
+rural aviation enthusiasts, smugglers, and anyone who 
+favors a classic stealth insertion.
+Cessna C750: This dual-prop civilian plane can carry 
+passengers, haul light cargo, or serve as a surveillance 
+plane. Its light frame and economy, as well as its afford-
+able price point and commonality, have ensured that 
+some see use in smuggling operations.
+Renault-Fiat Fokker Tundra-9: This amphibious jet is 
+great for heavy cargo and personnel hauling and doesn’t 
+need an airfield to land. It is used by corporate logis-
+tics teams for resupply of out-of-the-way facilities and 
+by Awakened game hunters and poachers to reach their 
+dangerous game. This craft is amphibious and comes 
+standard with buoyancy and flotation upgrades, mean-
+ing it can take off from land and water.
+ROTORCRAFT
+Helicopters are operated with the Pilot Aircraft skill.
+Ares Dragon: This versatile, solidly built, double-prop 
+cargo helicopter is used in a wide variety of roles in ur-
+ban and remote areas all over the Sixth World. It is often 
+used for heavy cargo hauling ops up occasionally in a 
+military capacity as a hybrid gunship/troop transport by 
+Knight Errant and their elite Firewatch special forces.
+Nissan Hound: This is a bleeding-edge transport he-
+licopter used by the Imperial Japanese Marines, along 
+with Special Forces units around the globe. To no one’s 
+surprise, it is also quite popular with corporate security 
+ROVER MODEL 2072
+>> STREET GEAR <<
+464    VEHICLES and DRONES  >>
+
+==== CORE PDF 470 ====
+rapid response forces, especially those belonging to jap-
+anacorps, including the Renraku Red Samurai. It comes 
+armed with two weapon mounts to ensure that its pre-
+cious cargo survives even the hottest dustoffs and dic-
+iest landings.
+Northrup Wasp: This one-man rotorcraft is designed 
+for police and security service. A wasp, lightly armored 
+and equipped with a heavy weapon mount, is the stan-
+dard, rote corporate security response to ever-mounting 
+shadowrunner problems.
+VTOL/VSTOL
+Vectored thrust crafts are operated with the Pilot Air-
+craft skill.
+Ares Venture: This small, cheap LAV is manufac-
+tured from off-the-shelf parts at environmentally friend-
+ly plants for use by smugglers worldwide. The Venture 
+sees a wide variety of legitimate, security, and military 
+use besides being a favorite of smugglers on a budget. 
+It is often used as a cargo or passenger transport, and 
+heavily armed and armored variants exist for patrol duty. 
+The Venture sells well among third-world customers.
+GMC Banshee: This lightning-fast, supersonic aircraft 
+is the classic, iconic t-bird, and it has the armor, arma-
+ments, and sensor suites to prove it. This LAV sees mili-
+tary use in reconnaissance and courier duty, and is a fa-
+vorite of elite smugglers for white-knuckle illegal border 
+crossings, with its ability to fly under the radar through 
+canyons at high speeds.
+Federated Boeing Commuter: This tilt-wing passen-
+ger aircraft sees heavy use as an inter-city shuttle, hop-
+ping between corporate-controlled aerospaceports and 
+ferrying sararimen around the world. Shadowrunners 
+are unlikely to use it as their own equipment, but they 
+may run into it, particularly if they’re on an extraction or 
+executive-protection detail.
+MICRODRONES
+The skill used to pilot a microdrone varies from drone 
+to drone.
+Shiawase Kanmushi: This is a four-legged “bug” 
+crawler drone that is hard to tell from a natural insect at 
+a glance. It’s ideal for penetrating confined areas, and 
+its gecko-tipped extremities and light weight render it 
+capable of crawling on walls and ceilings; it is, however, 
+quite fragile, and merely being stepped on or a tag eras-
+er can easily destroy it. This drone is operated with the 
+Pilot Walker skill.
+Sikorsky-Bell Microskimmer: Quiet and durable, 
+this disc-shaped skimmer is smaller than a frisbee and 
+can even skim over water. It moves with small and rather 
+weak hoverjets. It is easier to spot than the Kanmushi, 
+but still very small. It is operated with the Pilot Ground-
+craft skill; the hovercraft specialization applies.
+MINIDRONES
+Horizon Flying Eye: This spherical flying drone uses 
+omnidirectional thrust nozzles to stay airborne. Just 
+about eyeball-sized, it can roll itself on the ground, 
+though it needs to fly to overcome obstructions like 
+stairs and curbs. A version with a built-in flash-pak and 
+smoke grenade costs 500¥ extra; detonating them de-
+stroys the drone. Use Pilot Aircraft to operate.
+>> STREET GEAR <<
+VEHICLES
+WATERCRAFT
+HANDL
+SPEED
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Samuvani Otter
+4
+3
+2
+12
+6
+2
+2
+8
+—
+21,000¥
+Yongkang Gala Trinity
+5
+6
+3
+10
+6
+1
+1
+3
+8
+37,000¥
+Morgan Cutlass
+5
+4
+2
+16
+10
+3
+5
+6
+14R
+96,000¥
+Proteus Lamprey
+3
+2
+1
+6
+6
+1
+3
+4
+—
+14,000¥
+Vulkan Electronaut
+3
+3
+1
+12
+10
+4
+4
+2
+10
+108,000¥
+AIRCRAFT
+HANDL
+SPEED
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Artemis Nightwing
+6
+3
+1
+4
+0
+1
+1
+1
+8
+20,000¥
+Cessna C750
+3
+5
+3
+18
+4
+2
+2
+4
+8
+146,000¥
+R-F Fokker Tundra-9
+3
+4
+3
+20
+10
+3
+3
+24
+12
+300,000¥
+Ares Dragon
+4
+4
+3
+22
+8
+3
+3
+18
+12
+355,000¥
+Nissan Hound
+5
+4
+3
+16
+16
+2
+4
+12
+13R
+425,000¥
+Northrup Wasp
+5
+5
+3
+10
+8
+3
+3
+1
+12R
+86,000¥
+Ares Venture
+5
+7
+4
+16
+14
+4
+4
+6
+12F
+400,000¥
+GMC Banshee
+6
+8
+4
+20
+18
+4
+6
+12
+24F
+2,500,000¥
+Fed-Boing Commuter
+3
+3
+3
+16
+8
+3
+3
+30
+10
+350,000¥
+<< VEHICLES and DRONES     465
+
+==== CORE PDF 471 ====
+MCT Fly-Spy: This Mitsuhama drone is the size and 
+shape of a large insect but can achieve substantially 
+better altitudes. It can serve in an “eye in the sky” role 
+and is handy for shadowing people given the fact that 
+it’s relatively hard to spot. This drone is operated with 
+the Pilot Aircraft skill.
+SMALL DRONES
+Aztechnology Crawler: This small crawler can easily 
+handle stairs and other obstacles. Designed to operate 
+as a remote snooper in rough rural or urban terrain, the 
+Crawler is efficient and robust. Its Pilot program is a step 
+above most drones in its class. This drone is operated 
+with the Pilot Walker skill.
+Lockheed Optic-X2: This VSTOL stealth craft is only the 
+size of a cyberdeck with its wings folded up for transport. 
+When it is deployed, it is the size of a large hawk or oth-
+er bird of prey. Its patented signature-limiting technology 
+makes it a favorite of intelligence agencies and shadowrun-
+ners; radar systems and visual and audio Perception Tests 
+all receive a –3 dice pool penalty to spot the Optic-X2. This 
+drone is operated with the Pilot Aircraft skill.
+MEDIUM DRONES
+Ares Duelist: This medium-sized, roughly anthro-
+morph walker drone is an oddity, some might say a nov-
+elty. It is designed to patrol on its two feet like a metahu-
+man security guard and is equipped with blade-arms as 
+its primary armaments. Furthermore, it has been stylized 
+so its outer chassis represents the traditional oyoroi samu-
+rai armor worn by the Renraku Red Samurai, perhaps a 
+subtle jab at a competing mega. A niche item that is sel-
+dom fielded, the duelist has two distinct advantages: its 
+humanoid profile allows it to be mistaken for a more-ver-
+satile metahuman guard at a distance, making it useful at 
+facilities guarded by skeleton crews, and its blade-arms 
+are allegedly marginally more effective at combating 
+spirits than the traditional drone combat payloads of guns 
+and more guns. This drone comes with a unique Rating 
+3 Targeting (Swords) autosoft and mounts a pair of stan-
+dard swords in special weapon mounts. (The mounted 
+swords cannot be replaced with other weapons, but addi-
+tional weapon mounts may be installed using the normal 
+rules.) This drone is operated with the Pilot Walker skill.
+GM-Nissan Doberman: This tracked perimeter-pa-
+trol drone can secure its designated area effectively 
+during day or night conditions. It comes equipped with 
+a standard weapon mount. This drone is operated with 
+the Pilot Groundcraft skill.
+MCT-Nissan Roto-Drone: The Roto-Drone is a sim-
+ple, no-nonsense rotor-wing drone design that is highly 
+modular and customizable. Treat its Body as 3 higher 
+than its actual Rating for determining how many weap-
+on mounts or customizations it can integrate. This drone 
+is operated with the Pilot Aircraft skill.
+LARGE DRONES
+Cyberspace Designs Dalmatian: This large and robust 
+VTOL recon drone is capable of hovering and has a sturdy 
+frame for its light weight. It is about the size of a lawn 
+mower when stored, and when deployed is the size of a 
+large hang glider. Lone Star and Knight Errant have both 
+licensed the design for urban surveillance and patrol du-
+ties. The Dalmatian is operated with the Pilot Aircraft skill.
+Steel Lynx Combat Drone: A hardened ground com-
+bat machine, the Steel Lynx possesses four wheeled 
+legs and a heavy weapon mount. It is operated with the 
+Pilot Groundcraft skill.
+MCT FLY-SPY
+>> STREET GEAR <<
+DRONES
+DRONES
+HANDL
+SPEED
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Shiawase Kanmushi
+4
+2
+1
+0
+0
+3
+3
+—
+8
+1,000¥
+S-B Microskimmer
+3
+3
+1
+0
+0
+3
+3
+—
+6
+1,000¥
+MCT Fly-Spy
+4
+3
+2
+1
+0
+3
+3
+—
+8
+2,000¥
+Horizon Flying Eye
+4
+3
+2
+1
+0
+3
+3
+—
+8
+2,000¥
+Aztechnology Crawler
+4
+3
+1
+3
+3
+4
+3
+—
+4
+4,000¥
+Lockheed Optic-X2
+4
+4
+3
+2
+2
+3
+3
+—
+10
+21,000¥
+Ares Duelist
+3
+3
+1
+4
+4
+3
+3
+—
+5R
+4,500¥
+GM-Nissan Doberman
+5
+3
+1
+4
+4
+3
+3
+—
+4R
+5,000¥
+MCT-Nissan Roto-Drone
+4
+4
+2
+4
+4
+3
+3
+—
+6
+5,000¥
+C-D Dalmatian
+5
+5
+3
+5
+5
+3
+3
+—
+6R
+10,000¥
+Steel Lynx
+5
+4
+2
+6
+12
+3
+3
+—
+10R
+25,000¥
+466    VEHICLES and DRONES  >>
+

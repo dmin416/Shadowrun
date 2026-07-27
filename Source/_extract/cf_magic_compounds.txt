@@ -1,0 +1,279 @@
+
+===== PDF PAGE IDX 186 =====
+ONEIRO (DREAMSAGE, DELPHI) 
+Vector: Inhalation
+Speed: Immediate
+Duration: 3D6 minutes
+Addiction Type: Psychological
+Effect: Paralysis, allows the use of the Divination 
+metamagic while active.
+Provides vivid dreams in sleep, usually with prophet-
+ic insights. Burned like incense, the vapors are inhaled, 
+providing vivid visions and dreams with prophetic in-
+sight. The user is allowed to use Divination using Log-
+ic + Intuition (threshold set by the table on p.125, Street 
+Grimoire). If the user has the Augury and Sortilege ritual, 
+they may use it to interpret the Divination as normal. If 
+they do not, the user is Disoriented afterwards for a du-
+ration equal to the time the drug was in effect. Addiction 
+often occurs because of the tantalization of seeing the 
+future, the feeling there was something important just 
+about to be revealed, and for mundanes, the chance to 
+touch real magic for a moment. Long-term users have 
+been known to develop chronic indecision and paranoia, 
+unable to take action without forewarning of some sort.
+OVERDRIVE (X-CYTE)
+Vector: Inhalation
+Speed: 1 Combat Turn
+Duration: (10 – Body) hours, minimum 1 hour 
+Addiction Type: Both
+Effect: +1 Reaction, +1 to all Logic-linked skills
+From the steamy jungle pharmacopoeia of Latin 
+America comes a central nervous stimulant with siz-
+zle. At the end of this drug’s duration, users suffer 8S 
+damage (unresisted). Aside from a few brain-damaged 
+hacker junkies who complain that overdrive causes 
+nosebleeds, most users of the so-called “hacker drug” 
+report few side effects other than a pleasant tingling 
+across the forebrain and the sudden crash. Long-term 
+users have been known to develop narcissistic person-
+ality disorder (use Poor Self-Control: Braggart, p. 158, 
+Run Faster) or paranoid personality disorder (use Para-
+noia, p. 158, Run Faster).
+PIXIE DUST (BLEEDER, 
+NEVERLAND)
+Vector: Inhalation
+Speed: Immediate
+Duration: 1D6 minutes
+Addiction Type: Both
+Effect: +1 Charisma, +1 Perception, High Pain Toler-
+ance 1, Memory Loss (see below)
+A recent bastardization of traditional cocaine cut 
+with leäl, and sometimes with other substances includ-
+ing raw sugar, ground glass, and powdered caffeine tab-
+lets. A character on pixie dust loses all memory of the 
+past 1D6 minutes after the drug takes effect; this effec-
+tively means they forget they ever took the drug, but the 
+high remains.
+Snorting pixie dust is the painful but preferred meth-
+od of taking the drug because users forget the agony 
+almost immediately. Consequently, nosebleeds are a 
+common side effect of using pixie dust. Recovery from 
+pixie dust addiction is notoriously difficult, because us-
+ers cannot remember how often they use it, and over -
+doses are common.
+TRANCE (TOADSTONE, 
+ZUVEMBIE POWDER) 
+Vector: Inhalation
+Speed: 1 Combat Turn
+Duration: (6 – Body) hours, minimum 1 hour
+Addiction Type: Both
+Effect: +1 Intuition, +2 to all Logic-linked skills, Paral-
+ysis (see below)
+A paralytic neurotoxin secreted by an Awakened Lat-
+in American tree frog, trance is often erroneously sold 
+as an opiate. Popular with hackers, magicians, and oth-
+er professions that don’t require excessive movement, 
+trance causes paralysis and a speeding up of the higher 
+brain functions. At the end of the duration, users remain 
+paralyzed (see Paralysis, p. 409, SR5) for an equivalent 
+duration. This paralysis only affects voluntary muscle 
+groups; breathing and other autonomous functions are 
+not affected.
+MAGICAL COMPOUNDS
+ANIMAL TONGUE 
+Vector: Ingestion
+Speed: 3D6 minutes
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Psychological
+Effect: This mixture grants the critter power of Ani-
+mal Control. 
+Exotic Ingredient: A natural herbal radical of pulp 
+from the manzana cactus in Aztlan.
+When animal tongue wears off, the user has an un-
+natural fear of animals for a period of time equal to the 
+mixture’s duration. Treat this as if animals—mundane or 
+paranormal—that come near the character exude the 
+Fear power. Spirits do not count as animals.
+IMMORTAL FLOWER  
+Vector: Ingestion
+Speed: 16 Combat Rounds
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Both
+Effect: This mixture grants the critter power of Re-
+generation.
+Exotic Ingredient: A natural herbal radical of petals 
+from the immortal flower in the Mojave Desert.
+>> CHROME FLESH <<
+186    QUICK & DIRTY AUGMENTATIONS >>
+===== PDF PAGE IDX 188 =====
+>> CHROME FLESH <<
+ADDICTION TABLE
+SUBSTANCE ADDICTION RATING ADDICTION THRESHOLD
+AEXD 1 1
+Aisa 5 2
+Betel Special (see entry) 2
+Betameth 9 3
+Cereprax 9 3
+Dopadrine 3 2
+eX 5 2
+Galak 6 3
+G3 2 1
+Guts 5 3
+Hurlg 4 3
+K-10 11 3
+Nightwatch 1 2
+NoPaint 3 1
+Oxygenated Fluorocarbons 2 1
+Push 4 3
+Red Mescaline 5 3
+Ripper 5 3
+Snuff 2 2
+Woad 5 2
+Zero 1 3
+AWAKENED DRUGS
+Ayao’s will 5 2
+Crimson Orchid 9 3
+Hecate’s blessing 4 2
+Overdrive 5 3
+Oneiro 6 3
+Pixie Dust 10 4
+Trance 6 3
+MAGICAL COMPOUNDS
+Animal Tongue 3 2
+Immortal Flower 8 3
+Little Smoke 6 3
+Rock Lizard Blood 6 3
+Shade 7 3
+Wudu’aku 4 1
+Zombie Dust 2 3
+CHIPS
+Psych Chips (legal) 3 2
+Psych Chips (illegal) 6 3
+188    QUICK & DIRTY AUGMENTATIONS >>
+===== PDF PAGE IDX 189 =====
+>> CHROME FLESH <<
+<< QUICK & DIRTY AUGMENTATIONS    189
+DRUG COSTS
+SUBSTANCE AVAILABILITY COST (PER DOSE)
+AEXD 4 80¥
+Aisa 4 25¥
+Animal Tongue 6R 1,500¥
+Ayao’s Will 14F 750¥
+Betel 4 5¥
+Betameth 5F 30¥
+Cereprax 14F 800¥
+Crimson Orchid 6F 300¥
+Dopadrine 8 45¥
+eX 3R 20¥
+Forget-Me-Not 10F 400¥
+Galak 4R 45¥
+G3 2 15¥
+Guts 8R 60¥
+Hecate’s Blessing 12F 500¥
+Hurlg 2R 10¥
+Immortal Flower 14R 2,500¥
+K-10 16F 900¥
+Laés 12F 750¥
+Leäl 10F 400¥
+Little Smoke 12F 1,800¥
+Memory Fog 6R 100¥
+Nightwatch 3R 25¥
+NoPaint 3 15¥
+Oneiro 6F 1,250¥
+Oxygenated Fluorocarbons 12R 2,000¥
+Overdrive 10F 800¥
+Pixie Dust 8F 800¥
+Push 4F 25¥
+PsychChips (illegal) 6F 500¥
+PsychChips (legal) 4R 350¥
+Red Mescaline 4R ¥50
+Ripper 6F 60¥
+Rock Lizard Blood 10R 1,700¥
+Shade 6R 1,000¥
+Slab 8R 250¥
+Snuff 1R 10¥
+Sober Time 6F 125¥
+Soothsayer 12F 150¥
+Trance 10F 1,100¥
+Woad 3R 15¥
+Wudu’aku 12F 2,350¥
+Zero 8R 150¥
+Zombie Dust 12F 1,500¥
+===== PDF PAGE IDX 234 =====
+>> CHROME FLESH <<
+234    COMPILED AUGMENTATION TABLES >>
+DRUGS
+DRUG AVAIL COST (PER DOSE) REF
+AEXD 4 80¥ p. 179
+Aisa 4 25¥ p. 179
+Animal Tongue 6R 1,500¥ p. 186
+Ayao’s Will 14F 750¥ p. 184
+Betameth 5F 30¥ p. 180
+Betel 4 5¥ p. 180
+Bliss 3F 15¥ p. 411, SR5
+Caldwell lily extract 10R 600¥ p. 181, Stolen Souls
+Caldwell lily extract, 
+concentrated
+12R 1,000¥ p. 188, Stolen Souls
+Cereprax 14F 800¥ p. 180
+Chloral hydrate 6R 50¥ p. 188, Stolen Souls
+Chloroform 4R 75¥ p. 188, Stolen Souls
+Cram 2R 10¥ p. 411, SR5
+Crimson Orchid 6F 300¥ p. 184
+Deepweed 8F 400¥ p. 411, SR5
+DMSO 5R 50¥ p. 188, Stolen Souls
+Dopadrine 8 45¥ p. 180
+eX 3R 20¥ p. 180
+Forget-Me-Not 10F 400¥ p. 180
+Galak 4R 45¥ p. 180
+Gamma-scoplomine 14F 200¥ p. 188, Stolen Souls
+G3 2 15¥ p. 181
+Guts 8R 60¥ p. 181
+Hecate’s Blessing 12F 500¥ p. 185
+Hurlg 2R 10¥ p. 181
+Immortal Flower 14R 2,500¥ p. 186
+Jazz 2R 75¥ p. 411, SR5
+K-10 16F 900¥ p. 181
+Kamikaze 4R 100¥ p. 412, SR5
+Laés 12F 750¥ p. 185
+Leäl 10F 400¥ p. 185
+Liquid nutrients 4R 75¥ p. 189, Stolen Souls
+===== PDF PAGE IDX 235 =====
+>> CHROME FLESH <<
+<< COMPILED AUGMENTATION TABLES    235
+DRUGS
+DRUG AVAIL COST (PER DOSE) REF
+Little Smoke 12F 1,800¥ p. 187
+Long haul — 50¥ p. 412, SR5
+Memory Fog 6R 100¥ p. 181
+Narcoject 8R 50¥ p. 189, Stolen Souls
+Nightwatch 3R 25¥ p. 182
+Nitro 2R 50¥ p. 412, SR5
+NoPaint 3 15¥ p. 182
+Normal saline — 30¥ p. 189, Stolen Souls
+Novacoke 2R 10¥ p. 412, SR5
+Oneiro 6F 1,250¥ p. 186
+Oxygenated 
+Fluorocarbons
+12R 2,000¥ p. 182
+Overdrive 10F 800¥ p. 186
+Pixie Dust 8F 800¥ p. 186
+PsychChips (illegal) 6F 500¥ p. 187
+PsychChips (legal) 4R 350¥ p. 187
+Psyche — 200¥ p. 412, SR5
+Push 4F 25¥ p. 182
+Red Mescaline 4R 50¥ p. 182
+Ripper 6F 60¥ p. 182
+Rock Lizard Blood 10R 1,700¥ p. 187
+Shade 6R 1,000¥ p. 187
+Slab 8R 250¥ p. 183
+Snuff 1R 10¥ p. 183
+Sober Time 6F 125¥ p. 183
+Soothsayer 12F 150¥ p. 184
+Trance 10F 1,100¥ p. 186
+Woad 3R 15¥ p. 184
+Wudu’aku 12F 2,350¥ p. 187
+Zen 4R 5¥ p. 412, SR5
+Zero 8R 150¥ p. 184
+Zombie Dust 12F 1,500¥ p. 187

@@ -1,0 +1,304 @@
+
+===== PDF PAGE IDX 186 =====
+ONEIRO (DREAMSAGE, DELPHI) 
+Vector: Inhalation
+Speed: Immediate
+Duration: 3D6 minutes
+Addiction Type: Psychological
+Effect: Paralysis, allows the use of the Divination 
+metamagic while active.
+Provides vivid dreams in sleep, usually with prophet-
+ic insights. Burned like incense, the vapors are inhaled, 
+providing vivid visions and dreams with prophetic in-
+sight. The user is allowed to use Divination using Log-
+ic + Intuition (threshold set by the table on p.125, Street 
+Grimoire). If the user has the Augury and Sortilege ritual, 
+they may use it to interpret the Divination as normal. If 
+they do not, the user is Disoriented afterwards for a du-
+ration equal to the time the drug was in effect. Addiction 
+often occurs because of the tantalization of seeing the 
+future, the feeling there was something important just 
+about to be revealed, and for mundanes, the chance to 
+touch real magic for a moment. Long-term users have 
+been known to develop chronic indecision and paranoia, 
+unable to take action without forewarning of some sort.
+OVERDRIVE (X-CYTE)
+Vector: Inhalation
+Speed: 1 Combat Turn
+Duration: (10 – Body) hours, minimum 1 hour 
+Addiction Type: Both
+Effect: +1 Reaction, +1 to all Logic-linked skills
+From the steamy jungle pharmacopoeia of Latin 
+America comes a central nervous stimulant with siz-
+zle. At the end of this drug’s duration, users suffer 8S 
+damage (unresisted). Aside from a few brain-damaged 
+hacker junkies who complain that overdrive causes 
+nosebleeds, most users of the so-called “hacker drug” 
+report few side effects other than a pleasant tingling 
+across the forebrain and the sudden crash. Long-term 
+users have been known to develop narcissistic person-
+ality disorder (use Poor Self-Control: Braggart, p. 158, 
+Run Faster) or paranoid personality disorder (use Para-
+noia, p. 158, Run Faster).
+PIXIE DUST (BLEEDER, 
+NEVERLAND)
+Vector: Inhalation
+Speed: Immediate
+Duration: 1D6 minutes
+Addiction Type: Both
+Effect: +1 Charisma, +1 Perception, High Pain Toler-
+ance 1, Memory Loss (see below)
+A recent bastardization of traditional cocaine cut 
+with leäl, and sometimes with other substances includ-
+ing raw sugar, ground glass, and powdered caffeine tab-
+lets. A character on pixie dust loses all memory of the 
+past 1D6 minutes after the drug takes effect; this effec-
+tively means they forget they ever took the drug, but the 
+high remains.
+Snorting pixie dust is the painful but preferred meth-
+od of taking the drug because users forget the agony 
+almost immediately. Consequently, nosebleeds are a 
+common side effect of using pixie dust. Recovery from 
+pixie dust addiction is notoriously difficult, because us-
+ers cannot remember how often they use it, and over -
+doses are common.
+TRANCE (TOADSTONE, 
+ZUVEMBIE POWDER) 
+Vector: Inhalation
+Speed: 1 Combat Turn
+Duration: (6 – Body) hours, minimum 1 hour
+Addiction Type: Both
+Effect: +1 Intuition, +2 to all Logic-linked skills, Paral-
+ysis (see below)
+A paralytic neurotoxin secreted by an Awakened Lat-
+in American tree frog, trance is often erroneously sold 
+as an opiate. Popular with hackers, magicians, and oth-
+er professions that don’t require excessive movement, 
+trance causes paralysis and a speeding up of the higher 
+brain functions. At the end of the duration, users remain 
+paralyzed (see Paralysis, p. 409, SR5) for an equivalent 
+duration. This paralysis only affects voluntary muscle 
+groups; breathing and other autonomous functions are 
+not affected.
+MAGICAL COMPOUNDS
+ANIMAL TONGUE 
+Vector: Ingestion
+Speed: 3D6 minutes
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Psychological
+Effect: This mixture grants the critter power of Ani-
+mal Control. 
+Exotic Ingredient: A natural herbal radical of pulp 
+from the manzana cactus in Aztlan.
+When animal tongue wears off, the user has an un-
+natural fear of animals for a period of time equal to the 
+mixture’s duration. Treat this as if animals—mundane or 
+paranormal—that come near the character exude the 
+Fear power. Spirits do not count as animals.
+IMMORTAL FLOWER  
+Vector: Ingestion
+Speed: 16 Combat Rounds
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Both
+Effect: This mixture grants the critter power of Re-
+generation.
+Exotic Ingredient: A natural herbal radical of petals 
+from the immortal flower in the Mojave Desert.
+>> CHROME FLESH <<
+186    QUICK & DIRTY AUGMENTATIONS >>
+===== PDF PAGE IDX 187 =====
+For every 20 boxes of damage sustained while the 
+user is under the influence, permanently reduce the char-
+acter’s Essence by 0.1. A character with cyberware or 
+bioware who takes this drug also suffers 2D6 boxes of 
+Physical damage (unresisted) when the drug wears off, as 
+the regeneration ability attempts to “repair” the implants.
+LITTLE SMOKE
+Vector: Inhalation
+Speed: 2D6 minutes
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Psychological
+Effect: This mixture grants the Concealment and 
+Confusion critter powers.
+Exotic Ingredient: Three units of natural herbal re-
+fined grasses from the Great Plains of North America.
+At the end of the duration, the user’s Perception and 
+Willpower are reduced to 1 for an equivalent duration.
+ROCK LIZARD BLOOD
+Vector: Ingestion
+Speed: 30 minutes
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Physical
+Effect: This mixture grants the critter power of Im-
+munity against Diseases and Toxins.
+Exotic Ingredient: A natural herbal radical of pulp 
+from a North American weeping tree.
+At the end of the duration, the character suffers 2P 
+damage (unresisted) and –4 dice for all tests to resist dis-
+eases and toxins for an equivalent duration.
+SHADE
+Vector: Inhalation
+Speed: Immediate
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Psychological
+Effect: Astral projection
+Exotic Ingredient: A natural herbal radical of pollen 
+from the red orchid of Southeast Asia.
+This compound forces the user, even a mundane, 
+to astrally project. This grants all users, including mun-
+danes, access to the metaplanes if they are in the 
+company of a spirit guide or initiate. At the end of the 
+duration, the user suffers 10 boxes of Stun damage 
+(unresisted). Characters must return to their bodies 
+before the duration ends or they die. Shade allows 
+Awakened users to retain their astral form longer than 
+normal, adding the duration of the drug to their nor -
+mal astral time.
+WUDU’AKU
+Vector: Ingestion, Inhalation
+Speed: 2D6 minutes
+Duration: Essence + 1D6 hours, maximum 12 hours
+Addiction Type: Psychological
+Effect: The user receives +2 dice on all Conjuring skill 
+group tests and adds +2 to her effective Charisma when 
+dealing with spirits of man.
+Exotic Ingredient: A natural mineral radical of pow -
+dered fossils from the Australian Outback.
+While the drug helps summon spirits of man, it’s not 
+so good for other conjuring activities. Once the drug is 
+ingested,  users suffer –2 dice to Conjuring skill group 
+tests and –2 Charisma when summoning any other type 
+of spirit for twenty-four hours afterward.
+ZOMBIE DUST
+Vector: Contact, Injection
+Speed: 2 Combat Turns
+Duration: Essence +1D6 hours, maximum 12 hours
+Addiction Type: Physiological
+Effect: Prepares target for possession.
+Exotic Ingredient: Exotic metahuman remains
+With powdered puffer fish, marine toad, and hyla 
+tree frog combined in an alchemical mixture, this re-
+finement of an ancient traditional voodoo formula 
+causes a target to be instantly prepared for possession. 
+While this can offer a rapid conversion for a friendly 
+ally, it can also be used aggressively against unwilling 
+targets. Note they still get their Intuition + Willpower 
+Test to resist possession.
+CHIPS
+PSYCHCHIPS
+Speed: Immediate
+Duration: 48 hours
+Addiction Type: Psychological
+Effect: Removes effects from negative psychological 
+qualities. See below.
+PsychChips are a treatment for psychological disor -
+ders, coming in a number of varieties to compensate 
+for anything from OCD to phobias and everything else 
+you might imagine. While under their influence, the 
+user no longer suffers from any negative penalties due 
+to qualities related to their psychological state. Mess-
+ing around with mental composition, though, has cer -
+tain side effects. Users tend to feel sluggish, and they 
+have a –1 Reaction penalty for the chip’s duration. If 
+the user develops an Addiction and stops using the 
+chips as a result, the quality it counteracted is instead 
+increased by one degree (for example, a Moderate 
+Phobia becomes Severe).
+Legal PsychChips can handle Mild and Moderate 
+qualities. BTLs can compensate for Severe qualities.
+>> CHROME FLESH <<
+<< QUICK & DIRTY AUGMENTATIONS    187
+===== PDF PAGE IDX 188 =====
+>> CHROME FLESH <<
+ADDICTION TABLE
+SUBSTANCE ADDICTION RATING ADDICTION THRESHOLD
+AEXD 1 1
+Aisa 5 2
+Betel Special (see entry) 2
+Betameth 9 3
+Cereprax 9 3
+Dopadrine 3 2
+eX 5 2
+Galak 6 3
+G3 2 1
+Guts 5 3
+Hurlg 4 3
+K-10 11 3
+Nightwatch 1 2
+NoPaint 3 1
+Oxygenated Fluorocarbons 2 1
+Push 4 3
+Red Mescaline 5 3
+Ripper 5 3
+Snuff 2 2
+Woad 5 2
+Zero 1 3
+AWAKENED DRUGS
+Ayao’s will 5 2
+Crimson Orchid 9 3
+Hecate’s blessing 4 2
+Overdrive 5 3
+Oneiro 6 3
+Pixie Dust 10 4
+Trance 6 3
+MAGICAL COMPOUNDS
+Animal Tongue 3 2
+Immortal Flower 8 3
+Little Smoke 6 3
+Rock Lizard Blood 6 3
+Shade 7 3
+Wudu’aku 4 1
+Zombie Dust 2 3
+CHIPS
+Psych Chips (legal) 3 2
+Psych Chips (illegal) 6 3
+188    QUICK & DIRTY AUGMENTATIONS >>
+===== PDF PAGE IDX 189 =====
+>> CHROME FLESH <<
+<< QUICK & DIRTY AUGMENTATIONS    189
+DRUG COSTS
+SUBSTANCE AVAILABILITY COST (PER DOSE)
+AEXD 4 80¥
+Aisa 4 25¥
+Animal Tongue 6R 1,500¥
+Ayao’s Will 14F 750¥
+Betel 4 5¥
+Betameth 5F 30¥
+Cereprax 14F 800¥
+Crimson Orchid 6F 300¥
+Dopadrine 8 45¥
+eX 3R 20¥
+Forget-Me-Not 10F 400¥
+Galak 4R 45¥
+G3 2 15¥
+Guts 8R 60¥
+Hecate’s Blessing 12F 500¥
+Hurlg 2R 10¥
+Immortal Flower 14R 2,500¥
+K-10 16F 900¥
+Laés 12F 750¥
+Leäl 10F 400¥
+Little Smoke 12F 1,800¥
+Memory Fog 6R 100¥
+Nightwatch 3R 25¥
+NoPaint 3 15¥
+Oneiro 6F 1,250¥
+Oxygenated Fluorocarbons 12R 2,000¥
+Overdrive 10F 800¥
+Pixie Dust 8F 800¥
+Push 4F 25¥
+PsychChips (illegal) 6F 500¥
+PsychChips (legal) 4R 350¥
+Red Mescaline 4R ¥50
+Ripper 6F 60¥
+Rock Lizard Blood 10R 1,700¥
+Shade 6R 1,000¥
+Slab 8R 250¥
+Snuff 1R 10¥
+Sober Time 6F 125¥
+Soothsayer 12F 150¥
+Trance 10F 1,100¥
+Woad 3R 15¥
+Wudu’aku 12F 2,350¥
+Zero 8R 150¥
+Zombie Dust 12F 1,500¥

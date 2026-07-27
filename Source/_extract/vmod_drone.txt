@@ -1,0 +1,741 @@
+\n\n======== PDF 122 ========\n\nas them leaving the industry, far from it, but it’s just that 
+their focus has changed for some strange reason.
+>	
+<cough> Deus <cough>
+>	
+/dev/grrl
+With the strength of both GridGuide™  and now 
+HarborGuide™ in their pocket, Renraku’s new angle 
+is SkyGuide™, a program intended to control flying 
+drones but not airplanes. Turns out that those who went 
+through both the second crash and the outbreak of tech-
+nomancers afterward are a tad nervous about remov-
+ing control from pilots. SkyGuide is intended to control 
+drone traffic in an urban environment, automatically 
+redirecting them from air traffic and turning them from 
+restricted airspace, also providing information to law 
+enforcement should one be brought down through van-
+dalism (or, of course, used in a crime). By casting a wide 
+wireless net over a ’plex, they can ensure a reduction in 
+accidents, destruction, and collisions. 
+>	
+Huh. A net in the sky? Wonder why they didn’t go with the 
+obvious name?
+>	
+Turbo Bunny
+ARES MACROTECHNOLOGY
+Ares is actually the tops in one subset of the industry: 
+military drones. Flying drones that silently unleash tar-
+geted mini-missiles, self-guided missiles, and support 
+weapon platforms are obvious, but also noncombat 
+support, like the Mule equipment transport drone or 
+a law-enforcement drone for the bomb disposal team. 
+It used to be called the military-industrial complex, but 
+these days, it’s just “Ares.”
+>	
+You’re selling them short, Clockwork. Ares is known 
+for firepower, but they made their name in aerospace. 
+They’re the leading producers of all manner of aero and 
+space assets, from atmospheric sensor drones to spy sats 
+to deep-space repair robots. Not really covered in your 
+report, but it should be remembered.
+>	
+Orbital Bandit
+SONY
+The only AA-rated corporation that can play at this 
+level is Sony. For over a century, they’ve been at the 
+cutting edge of robots, keeping a high level of tech-
+nological expertise even if they don’t match the raw 
+industrial production of the bigger boys. Every year, 
+they roll out an astounding breakthrough in artificial 
+intelligence, only for Renraku to top them the next 
+year. Mitsuhama’s “glass jaw” in terms of consumer 
+robotics is due to Sony and Renraku dominating the 
+market, and no one can rival them in the field of med-
+ical robotics. 
+>	
+The advanced R&D Sony does is later sold to the other 
+players (MCT, Ares, and so on) a couple of years after 
+they’ve invented it, in a sense operating as a subsidized 
+research lab for the other robot masters. Doesn’t keep 
+the other megas from blocking them from triple-A status, 
+mind you, but it keeps them from being preyed on quite 
+so much.
+>	
+Glitch
+>	
+Huh. That’s pretty wily of ‘em!
+>	
+Slamm-0!
+THE WORTHY COGS
+Technically second-tier corps in the market (but don’t 
+say that to any of their executives’ faces!), the Cogs 
+have all found a place to make a profit while looking to 
+advance one step higher. Each has their own special-
+ized niche or a broad diversity that can’t match sales 
+with the big guns, but they’re always hungry for more.
+AZTECHNOLOGY
+While the Azzies have, as always, been happy to steal 
+technology, file off the serial numbers, then re-market 
+it as their own at a lower cost (and much lower quality), 
+the past few years have seen a turnaround that makes 
+them an actual consideration. They’ve always had 
+knockoff Ares drones on hand, but the war with Sirrurg 
+resulted in some bottomless R&D budgets and risk-tak-
+ing of the sort that tends to bear fruit. With “Dragon-
+Slaying” miltech having gone nova-hot, they’re seeing 
+a market hungry for their weaponized drones. Beyond 
+this, they’ve long had a significant presence in the field 
+of consumer drones, and the marketing push for “Juan” 
+is creating record sales. If they can keep this up for a 
+decade, or if Ares keeps falling, they could move up.
+>	
+While the Azzies are selling a lot of combat drones, they 
+don’t use them anywhere north of Monterrey; flying 
+death machines are all well and good for blowing away 
+Awakened critters and conscripted peasants, but they’re 
+not high-quality enough to face CAS electronic-warfare 
+specialists, let alone Pueblo.
+>	
+Kane
+EVO
+Traditionally third in the military side, behind Ares and 
+MCT, Evo continues to invest in both military and secu-
+rity drones, as well as large-scale industrial technology. 
+The one area that they continue to lead is submersible 
+drones, focusing on the industrial and exploratory rath-
+er than the artistic like Sony. Of particular note is that 
+Evo drones are notorious for being clunky but borderline 
+indestructible, reflecting the Russian technological her-
+itage that they now stamp on so many of their goods. 
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    121
+\n\n======== PDF 123 ========\n\n>	
+And, again, they have a huge space focus via CosMos. 
+Honestly, Clockwork, the world doesn’t end with the 
+atmosphere.
+>	
+Orbital Bandit
+>	
+You don’t see them in North America often, but  Yamatetsu 
+makes slick drones for the Asian market.
+>	
+Sunshine
+SAEDER-KRUPP
+An odd duck, S-K should be scrapping hand-to-hand 
+(or, well, claw) with MCT in this field, but they’ve never 
+seemed too interested. They have the technology, the 
+computer expertise, and the industrial demand—hell, 
+they already have ludicrously large machines like the 
+Bagger 318, and when they decide to create a high-end 
+pilot program, it’s a thing of perfection. But Lofwyr just 
+never seems to care, so the drones are rare, if excellent.
+>	
+I asked a source about this. Their thought is that “Playing 
+with dolls is for children. Golden Snout was born too old 
+for that.” As always, take with a grain of salt.
+>	
+Frosty
+SHIAWASE
+With Mitsuhama, Renraku, Sony, and Evo (formerly Yama-
+tetsu) all operating out of Japan, you wouldn’t think that 
+Shiawase would find a niche, and yet here they are. They 
+have an investment in “drone homes,” living quarters that 
+network with a central administrator to keep lights, sounds, 
+and supplies at optimal levels, but their real money is sunk 
+into agricultural robots and in medical telepresence. The 
+quiet war between them and Sony in senior-care robotics 
+is vicious, and they recently leveled a shot across the bow 
+of Horizon, letting them know in no uncertain terms that 
+they shouldn’t consider the market of selling agricultural 
+support to the NAN to be an open field.
+>	
+That was an odd one, as Horizon only recently entered 
+the agricultural market via the Wind River Corporation. 
+They’re using Renraku models, with their own drone 
+production being cinematic in focus. Wonder if there’s 
+more to this?
+>	
+Sunshine
+>	
+There’s always more. You, of all people, should know that.
+>	
+Icarus
+DRONE 
+MODIFICATION
+While every rigger mods their cars, not many do many 
+mods with their drones other than strap guns onto 
+them. In part this is due to the compact design leaving 
+little space, but surprisingly few riggers even consider 
+that they can make mods in the first place. Vehicles are 
+investments while drones are “toys,” and thus, dispos-
+able. Time to think again.
+These rules provide detailed options for drones and 
+can be used as an optional rules system for adding mod-
+ifications to them. Players who do not want to use a sep-
+arate system can use the rules provided in the Building 
+the Perfect Beast chapter (p. 150).
+THE BASICS
+Drones have a much more limited space to work with 
+than ordinary vehicles. Every drone is given a number 
+of Mod Points equal to their Body. These Mod Points 
+work vaguely like Essence, a reserve of points that is 
+gone once they’re all used up, meaning no further mod-
+ifications are possible unless you first rip something out. 
+Some drones have some, or all, of their Mod Points al-
+ready spent in order to carry advanced equipment. Due 
+to this, a new indicator has been added to the drone 
+attributes that shows how many points are available 
+for a new drone of that make, shown thusly: Body X(Y), 
+where X is the actual Body rating of the drone while (Y) 
+is how many points are available. In many cases, this is 
+the same number, but not always. Drones from other 
+SR5 supplements have been added to the master chart 
+with this taken into account. Several older drones have 
+had their stats adjusted to fit the rules presented in this 
+book. This new statline replaces the original details for 
+games using Rigger 5.0, otherwise the older information 
+remains valid. 
+ADDING UPGRADES
+Adding an upgrade is easy enough: Check to see if 
+you have enough Mod Points available, find someone 
+to do the work (this can be yourself, of course), and 
+pay the fee. Once it’s installed, you’re good to go. 
+As an added bonus, all drones have a bit of wiggle 
+room for expansion, be it more memory and more 
+advanced software installs for the Pilot program, a 
+better grade of engine component for speed, and so 
+on. This means that any drone may have an attribute 
+increased from the base by 1 (or 3 for Armor) with-
+out expending any Mod Points. Increasing an attri-
+bute further than that requires at least a partial re-
+build, and the expenditure of Mod Points equal to the 
+increase minus 1. This means a +2 Speed increase 
+costs 1 Mod point, while +4 Speed would cost 3, and 
+so on. The only attribute that can never be increased 
+is Body; this is the inherent frame of the drone, and if 
+you want it bigger, you should just buy a larger mod-
+el. Adding one attribute point requires an appropri-
+ate toolkit, while more extensive upgrades require an 
+appropriate shop. 
+>> RIGGER 5.0 <<
+122    >> THE AUTOMATED ARMY <<
+\n\n======== PDF 124 ========\n\nENDURING DOWNGRADES
+Drones may also be given Downgrades, worsening an 
+aspect of the machine by using inferior parts. The ad-
+vantage to this is that you could trade off a feature that 
+you don’t care for as much in order to free up space for 
+what you need. In a car, this would be ripping out seats 
+to make a racing vehicle faster, while in a drone this can 
+be removing sensors, going with a smaller and simpler 
+control computer, and so on. Any single attribute may 
+be worsened by 1 (or 3 for Armor), providing 1 Mod 
+Point. This cannot be used to lower an attribute below 
+1 except in the case of Speed (which can go to 0), and 
+obviously the attribute must be lowerable (So, no re-
+ducing a 1 to a 1 for a free Mod Point!). Furthermore, 
+no matter how many Downgrades you make, you only 
+receive a single extra Mod Point.
+ATTRIBUTE 
+MODIFICATIONS
+The most basic level of mod, attribute modification lets 
+you change the attribute of your drone. The one thing 
+to remember is that a drone’s attributes can never by 
+higher than twice their starting value (so if you had a 
+Handling of 3, it can never be modified higher than 6). 
+When you need to use a 0 for the math, like a micro-
+drone’s Body score, use 0.5 instead. No multiplying by 
+0 to get infinite free upgrades—nice try, though.
+HANDLING
+(Availability = Upgraded Rating x 2)
+Better gyroscopes, improved shocks, spoilers and 
+airdams, counterbalancing rotors, and more. Of the 
+physical components, only speed is more expensive in 
+the long run! Cost equals the upgraded Handling mul-
+tipled by the Body, then multiplied by 200. This means 
+that increasing to Handling 5 on a Body 2 drone would 
+cost (5 x 2) x 200, or 10  x 200, or 2,000 nuyen.
+SPEED
+(Availability = Upgraded Speed x 2)
+Everybody loves more speed! Bigger engines, better 
+engines, louder engines! The most expensive upgrade 
+for a drone, so brace for sticker shock! Cost equals the 
+upgraded Speed multiplied by the drone’s Body, then 
+doubled, then multiplied by 200. So increasing to a 
+Speed of 5 on a Body 2 drone would cost ((5 x 2) x 2) x 
+200, or (20) x 200, or 4,000 nuyen.
+ACCELERATION
+(Availability = Upgraded Rating x 4)
+A little nitro never hurt anyone, right?  Wait, it can 
+actually suffocate you? Oh. Well. Regardless! Brace for 
+G-forces, it’s better Acceleration! Cost equals the up-
+graded Acceleration multiplied by the drone’s Body, 
+then multiplied by 200. Increasing to an Acceleration of 
+2 on a Body 2 drone would cost (2 x 2) x 200, or (4) x 
+200, or 800 nuyen.
+BODY
+(Availability = Mod Points Gained x 3)
+While it cannot be upgraded, you can make some 
+tradeoffs on integrity for modification diversity. That is 
+to say, if you get a lighter, more fragile frame, you can do 
+more things with the weight savings—but when things 
+break, they break badly. Reducing the drone’s Body by 1 
+produces 2 Mod Points, resulting in a net gain of 1 Mod 
+Point. A drone’s Body may not be reduced lower than 
+half the starting value in this way. Thus, a Body 3 drone 
+may be reduced to 2 Body for 1 Mod Point, but not to 1 
+as this is lower than half the starting Body, which would 
+be 1.5.) 
+ARMOR
+(Availability = Upgraded Rating, may be R or F)
+For some strange reason, people want their drones to 
+survive. Funny, that! Adding armor is frowned upon by po-
+lite society, however, so you might have to face a few ques-
+tions from authorities worried that you’re making some 
+kind of aerial assassination robot. Not that you’d do that, 
+of course. Armor greater than 6 is considered Restricted, 
+while Armor greater than 12 is Forbidden. In addition, Ar-
+mor is heavy. A drone may bear the weight of Armor equal 
+to three times its Body without a decrease in ability, but for 
+every 3 points beyond this, the drone suffers –1 Handling 
+and Speed, while every 6 points also reduces Acceleration 
+by 1. If this results in Handling dropping below 1, or either 
+Speed or Acceleration dropping below 0, then the drone 
+is unable to move at all. Cost equals the upgraded Armor 
+multiplied by the drone’s Body, then multiplied by 200. In-
+creasing to an Armor of 15 on a Body 3 drone would cost 
+(15 x 3) x 200, or 45 x 200, or 9,000 nuyen.
+SENSOR
+(Availability = Upgraded Sensor x 2)
+Cameras to see, mics to hear, and short-range radar 
+for parking. Sensors take many shapes and sizes, but 
+fortunately they don’t take the size of the drone’s frame 
+into account. Upgraded Sensors are thus much easier 
+to calculate. The cost is equal to the upgraded Sensor 
+rating x 1,000 nuyen. A single sensor may be upgraded 
+instead of the entire array for (Rating) x 100 nuyen.
+PILOT
+More on this under Software Solutions!
+OTHER MODIFICATIONS
+Each of the following mods is listed with a cost in Mod 
+Points, Availability, and nuyen. Not all mods are appro-
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    123
+\n\n======== PDF 125 ========\n\npriate for all drones, of course; the gamemaster is the 
+final arbitrator in what is and isn’t allowed. 
+WEAPON MOUNTS
+Probably the most common drone mod is finding a 
+way to strap weapons onto one. Due to the small size 
+of drones, standard vehicle mounts aren’t always ap-
+propriate, so drones use weapon mounts from the fol-
+lowing chart. Each weapon mount added uses up the 
+listed number of Mod Points (listed as MP), allowing 
+a drone to sometimes mount several smaller weapons 
+rather than a single large one. All weapon mounts are 
+at least Restricted, while some are Forbidden outside of 
+military use as shown. In addition, authorities are quite 
+interested in what weapons are mounted in them! In 
+most nations, it’s illegal for a drone to mount anything 
+other than non-lethal weaponry. The CAS is a notable 
+exception to this rule.
+OPTION: POP-OUT MOUNTS
+Ordinarily a weapon mount is quite obvious, as is the 
+weapon mounted therein. Since shadowrunners tend 
+to have quite illegal things mounted on their drones, 
+this can be problematic, as you might imagine. There 
+are two disguises for weapon mounts that can be used 
+on drones. The first are blow-away panels. These are 
+simple coverings that are designed to be ejected just 
+before the weapon is triggered. Once blown away, the 
+weapon is left exposed and obvious, but this method 
+is both cheap and easy. Blow-away panels may be in-
+stalled with a simple Kit, and cost 25 nuyen x the MP of 
+the weapon mount. A Perception + Intuition [Mental] 
+(2) Test will reveal that there’s something covered, but 
+not what it is. Once the panel is blown away, it cannot 
+be recovered.
+The other option is “pop-up” weapons (or pop-out, 
+or pop-under as the case may be). These are weapons 
+stored inside the body of the drone, deployed on com-
+mand (requiring a Free Action), then retracted again with 
+another command (also a Free Action). Much harder to 
+detect (requiring a Perception (4) Test) and re-usable, 
+the mechanisms are a bit cumbersome and complex, 
+adding 1 to the number of MP consumed by a weapon 
+thus concealed. (For example, a standard mount with 
+pop-up options would cost 4 MP.)  Pop-up mounts may 
+be installed with a Shop, and they cost 100 nuyen x the 
+increased MP of the weapon.
+OPTION: EXPANDED 
+AMMUNITION BAY
+Unlike normal vehicular weapons, the tight constraints 
+of a drone’s body offer limited ammunition reserves. 
+JUST HOW FAST IS THAT, ANYWAY?
+While the speed of many vehicles was listed in SR5 (p. 
+200), there are advanced rules. Speed for drones is listed with 
+an appropriate letter code indicating its type of travel: G for 
+ground, R for rotor, J for jet, or W for water. When comparing 
+speed across modes, note that in order of relative speed, they 
+line up like this (from slowest to fastest): Water, Ground, Rotor, 
+and Jet. Drones will have trouble catching up to a drone or 
+vehicle traveling in a faster mode. For more information, see 
+chapter nine, Maximum Pursuit. 
+WEAPON MOUNTS
+MOUNT
+MP
+AVAIL
+WEAPON
+Micro
+0
+8R
+Single-shot bullet or dart. 
+Mini
+1
+4R
+Hold-out pistol, light pistol, 
+reach 0 melee weapons, 
+single-shot grenade
+Small
+2
+8R
+Heavy pistol, machine pistol
+Standard
+3
+10F
+Sub-machine gun, under-
+barrel grenade launcher
+Large
+4
+12F
+Shotgun, hunting rifle, 
+assault rifle, grenade 
+launcher
+Huge
+5
+16F
+Sniper rifle, light or medium 
+machine gun
+Heavy
+6
+20F
+Heavy machine gun, rocket 
+launcher, assault cannon
+>> RIGGER 5.0 <<
+124    >> THE AUTOMATED ARMY <<
+\n\n======== PDF 126 ========\n\nAny weapon mounted on a drone uses the weapon’s 
+normal ammunition limits, rather than the expanded 
+version of a vehicle’s. There are, however, two optional 
+ammunition bays for drones. The first is simply adding 
+a second bin, which holds the same number of am-
+munition as the weapon ordinarily holds, and a small 
+switching unit to feed the weapon when one runs dry. 
+This may be installed with a Kit, uses 1 MP, and costs 
+50 nuyen.
+The other option is a full belt-feed system, replacing 
+the weapon’s normal ammunition feed mechanism en-
+tirely. This requires a shop, makes the weapon belt-fed, 
+and provides enough room for an entire belt of 100 
+rounds. Additional expanded ammunition bays may 
+then be added, each holding another 100-round belt. A 
+belt-feed system requires a Shop, uses 2 MP, and costs 
+500 nuyen.
+REALISTIC FEATURES
+One of the most-requested modifications, realistic fea-
+tures are found on several spy drones, allowing them to 
+blend in with local birds or insects. This type of modifica-
+tion also remains popular with anthropomorphic drones 
+in an effort to humanize them. As the design approaches 
+a more realistic model, the cost, as you might imagine, 
+increases. Realistic features are available in four ratings, 
+each rating serving as the threshold on a Perception test 
+to tell if it’s machine or a living being. 
+Rating 1, Availability 2, Cost (Body x Body) x 100
+Rating 2, Availability 4, Cost (Body x Body ) x 500
+Rating 3, Availability 8, Cost (Body x Body ) x 1,000
+Rating 4, Availability 12R, Cost (Body x Body ) x 5,000	
+While many drones can be made realistic (receiving 
+Rating 1), allowing them to pass at a casual glance at a 
+distance or at night, wheels, quad fans, and so on are 
+quite difficult to disguise. Most drones cannot be given 
+Realistic Features beyond Rating 1, while some cannot 
+even obtain that level. (The gamemaster is the final arbi-
+trator on what is and isn’t appropriate.) Realistic Features 
+2 can be added with a Shop, but higher than this requires 
+a Facility (most drones this realistic are designed as such 
+before being sold).
+AMPHIBIOUS
+An amphibious drone comes in two ratings: Rating 1 
+allows it to float on the surface of a body of water, as 
+long as it’s relatively still, and while vulnerable to being 
+submerged, it’s waterproof on the underbody. Rating 
+2 Amphibious makes the entire drone waterproof, al-
+lowing it to be submerged without harm. Note that in 
+either case, you’ll want a motive system! Rating 1 re-
+quires a Shop, 1 Mod Point, and costs (Body x Body) x 
+100 nuyen. Rating 2 requires a Facility, 2 Mod Points, 
+and costs (Body x Body) x 1,000 nuyen.
+ASSEMBLY TIME 
+IMPROVEMENT
+Many drones are designed to be partially disassembled 
+to allow for ease of storage and transport, most nota-
+bly several winged drones whose propulsion method 
+and wings can be removed so that the entire rig can 
+be transported via car, then re-assembled for use. To 
+assemble or disassemble a drone with this modification 
+requires (Body) minutes and an appropriate Mechanics 
++ Logic test with a threshold of 2. This upgrade can be 
+done with a Shop, requires 1 MP, and costs (Body) x 
+100 nuyen.
+CUSTOMIZED
+Pure cosmetic differences, including flashing LED 
+lights, snazzy paint, or chrome trim, can make a world 
+of difference in making your drone what you want it 
+to be. There is no game effect from these mods, but 
+they’re pretty to look at! Customization can be done 
+with a Kit, uses no MP, and can cost anywhere from 
+10–10,000 nuyen.
+DRONE ARM
+Similar to a cyberarm, a drone arm is much cheaper due 
+to the lack of flesh-chrome connections and sensory 
+translation. Unless otherwise noted, use the standard 
+cyberlimb rules, though the limb costs half of the normal 
+price. (Upgrades for the arm are at full price, however.) A 
+drone’s cyberlimb starts with a Strength equal to its Body 
+and an Agility equal to its Pilot. If the drone is using the 
+arm for a test that would normally be Agility-based, use 
+the limb’s Agility, rather than the drone’s Pilot Rating. A 
+drone limb may have the base drone’s starting attributes 
+as much as doubled, no matter how many increases that 
+is. The limb attributes may not go higher. (This means a 
+Body 5 drone could have a strength increased from 5 to 
+10, ignoring the usual cap of +4 to an attribute, but may 
+not go higher.) Drone limb armor does not affect the 
+drone in any way, but having a limb provides +1 to the 
+physical condition monitor as normal. Adding a drone 
+arm requires a Shop and uses 1 MP.
+OPTION: PRIMITIVE ARM
+While a normal drone arm has a metahuman’s level 
+of functionality, some drones save money by using a 
+simpler arm. These arms have brushes, or suction cups, 
+with a more limited range of options. These limbs suf-
+fer –2 to any limit on tests requiring fine manipulation 
+or weapon use with that limb, but the limb costs ten 
+percent of the normal price, rather than fifty percent.
+DRONE LEG
+Walkers have legs, sometimes two, usually more. These 
+operate similar to a cyberleg, but much cheaper as per 
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    125
+\n\n======== PDF 127 ========\n\ndrone arms. Drone speed is never based on limb Agility, 
+so there is usually little point to upgrading this and, as per 
+drone arms, cyberlimb armor placed on a drone doesn’t 
+affect the drone in any way. Drone legs do not add extra 
+boxes to the drone’s Physical condition monitor. 
+GECKO GRIPS 
+By coating the motive systems with gecko-glove-like 
+materials, the drone can cling to virtually any surface. 
+This allows it to climb vertical, or even hang upside 
+down, as long as the surface has a Barrier Rating at 
+least equal to the drone’s Body x 3. Gecko grips require 
+a Shop, use 1 MP, and cost (Body x 3) x 50 nuyen. Note 
+that larger drones may have gecko grips, but will have a 
+hard time finding a surface able to hold them!
+IMMOBILE
+A drone that is immobile can’t move under its own 
+power. These drones have a Speed and Acceleration 
+of 0, which cannot be upgraded. On the positive side, 
+they gain +2 Mod Points for not having a drive train. 
+Making a drone immobile requires a Shop but doesn’t 
+cost anything other than a day’s labor.
+SKYGUIDE
+By linking with SkyGuide, a drone can use the network’s 
+own guidance systems to get where it needs to be. The 
+downside is that the system takes priority over the own-
+er’s commands, allowing the drone to be controlled by 
+the Guide, or Riggers employed by SkyGuide, against 
+the owner’s wishes. The upside is that SkyGuide pro-
+vides both a Navigation (6) autosoft and a Maneuver (6) 
+autosoft to any drone while it’s logged in to the network. 
+Standard issue on flying drones sold form 2078 forward, 
+it may be added to older drone with a Kit, requires 0 MP, 
+and costs 5 nuyen, plus a 10 nuyen/year user fee.
+SPOTLIGHT
+Mounted externally, a drone spotlight acts as a flash-
+light in all ways. It requires a Kit, uses 0 MP, and costs 
+50 nuyen.
+SUSPENSION MOD
+Ground drones have an easily modified undercarriage, 
+ultimately allowing the owner to replace the motive 
+systems with some work. The base Handling of these 
+suspensions is as follows; Standard 4/2, Tracked 3, or 
+Off-road 2/4. Changing from one to another requires 
+a Shop, uses no MP, and costs (Body x 3) x 100 nuyen.
+TIRE MOD
+Wheeled drones may have the wheels replaced in a 
+pinch, serving a role roughly akin to a modified sus-
+pension but not quite as good. The wheels increase the 
+lower Handling Rating by 1, while lowering the better 
+Handling by 2, until they are replaced again. (Thus, a 
+4/2 becomes a 2/3, while a 2/4 becomes a 3/2.) This 
+exchange requires a Kit, uses 0 MP, and costs (Body x 
+3) x 25 nuyen. (Note that the old tires may be kept and 
+this mod removed at a later time, restoring the normal 
+Handling.)
+SOFTWARE SOLUTIONS
+What, you thought modern cars were all about me-
+chanical grease monkeys and wrenches? Pfft! If you’re 
+working on anything made in the past quarter-cen-
+tury, you need to know computers to get it to run, 
+and if you know computers, you’d know how much 
+you don’t know about the subject. For the most part, 
+both vehicles and drones are simple things, needing 
+enough brainpower to go from A to B, do something 
+when they arrive, then wait for more orders. Cars that 
+come when you signal or drones that swoop over an 
+area for recon are basic, but most riggers want to take 
+over for anything more complex. I’m here to tell you 
+that that’s not always needed. A good Pilot program 
+can handle more than you think, since you’re mostly 
+used to dog brains on low-end commercial models, 
+and while you’ve not been paying attention, the auto-
+soft market got smarter.
+PILOTS
+It all starts with the Pilot, the main brain of your new ma-
+chine. For ninety-five percent of the people out there, the 
+pilot of their car or house-cleaning drone is what they’re 
+used to. It can play music, keep your car at the right 
+speed, or clean up a spill, but you wouldn’t trust it with 
+anything important (he says, knowing full well that most 
+commuters tell their car where to go, then lean back, fire 
+up their commlink, and entertain themselves until the car 
+tells them that they’ve arrived, never realizing that they 
+have a two-ton bullet under their butt). Security drones 
+have a more advanced Pilot program, with advanced fire/
+don’t fire protocols based on potential targets in the area 
+(or the known value of stored supplies) that can also use 
+predictive algorithms to guess where you’ll be next when 
+you get out of sight. “Retail brains” are simple pilots on 
+par with cars, able to do one thing, for instance your taxes 
+or legal research, but nothing else. 
+Then you get fancy.
+Advanced Pilot programs are comparable not to 
+dogs, but to small children or, in some cases, adult meta-
+humans. There aren’t many that can make this claim, but 
+led by military research where drones had to account 
+for dozens of factors at once, Pilot programs have got-
+ten smarter. I’m partial to the Djinn-IV Pilot from Saed-
+er-Krupp myself; it’s like having a child around the 
+house, curious about everything and capable of some 
+astounding leaps of logic. The top-end programs are re-
+>> RIGGER 5.0 <<
+126    >> THE AUTOMATED ARMY <<
+\n\n======== PDF 128 ========\n\nstricted to military use, but I’ve gotten my hands on a 
+few and, each time, they’ve developed personalities be-
+yond what I ever expected. Like the armored personnel 
+carrier that liked to “dance” to the almighty Troggs.
+The Pilot program determines the Rating of the drone 
+as a whole, serves as the primary source of attributes for 
+skill tests, serves as a cap on the highest rating autosoft 
+the drone can run, and more. Is there any reason that it’s 
+in such high demand? Civilian Pilot programs are generally 
+Rating 2 (or, rarely, 1), restricted security Pilots are 3 to 4, 
+while military-grade Pilots (5 to 6) are Forbidden for gener-
+al use. Cost and Availability are shown on the chart below:
+AUTOSOFTS
+It all ends with autosoft programs, the detailed com-
+mands that ensure a Pilot does what you want, when 
+you want it. New autosofts are released every year—
+some expected, some quite the surprise. They don’t 
+cover all situations yet, but there’s much more a drone 
+can do than spy or shoot. Some of the most common 
+ones are shown below.
+A Pilot program may not run an autosoft of a higher 
+Rating than itself (meaning a Rating 3 Pilot may run an 
+Autosoft with a Rating of 1, 2, or 3, but not 4 or high-
+er). When using a rigger command console, the console 
+may run a higher-Rating autosoft and share that with the 
+drone, allowing it to exceed its normal capabilities. So if 
+you have an Aztechnology Crawler Clearsight 6 autosoft 
+slotted into your RCC, each of your Aztechnology Crawl-
+ers may use it at the full value of 6.
+Some skills are Restricted or Forbidden. Those will be 
+indicated on the individual autosoft profile. Remember 
+also that an autosoft is designed for only a single drone; 
+you cannot slot a Clearsoft autosoft designed for an Az-
+technology Crawler into an Evo Proletarian. (Well, you 
+can; it just doesn’t do anything.) 
+SMARTSOFT (RESTRICTED)
+This is the same smartlink provided in eyeware or video 
+enhancements, integrated into the sensors of a vehicle 
+or drone. The Smartsoft is considered a Rating 3 auto-
+soft and allows the full use of smart weapons.
+GROUP
+A shared-signal autosoft that allows each drone 
+equipped with it to answer the same command, rather 
+than requiring you to issue commands to one at a time. 
+The Group autosoft is considered a Rating 2 autosoft.
+SKILLSET
+The Skillset autosoft gives the listed skill to the drone. 
+The Rating can be from 1 to 6 as normal, but note that 
+some Skillset autosoft are Restricted. The following 
+skills may be taken as an autosoft:
+Academic Knowledge (any single knowledge)
+Chemistry (Restricted) 
+Demolitions (Restricted)
+Electronic Warfare (Restricted)
+First Aid
+Hardware 
+Instruction
+Language (any single language)
+Lockpicking (Restricted)
+Mechanic (any single Mechanic skill)
+Medicine (Restricted)
+Melee (as Targeting, but for a specific melee combat 
+weapon)
+Navigation
+Performance (any single perform skill. Song-a-Mat 
+evolves!)
+Professional Knowledge (any single knowledge)
+SOFTWARE TWEAKS
+There are also some minor modifications that can be 
+made to programs that have no real effect on the over-
+all performance but allow for some customization. 
+PERSONALITY
+(Availability 4, Cost 100¥)
+Many people treat their drones as pets, and a per-
+sonality tweak can go a long way to help. A Pilot with a 
+Personality will develop a “flavor” all to itself, evolving 
+PILOTS
+RATING
+AVAIL
+COST
+1
+4
+100¥
+2
+—
+400¥
+3
+8R
+1800¥
+4
+12R
+3200¥
+5
+16F
+10,000¥
+6
+24F
+20,000¥
+AUTOSOFT PRICES
+While this is in the official SR5 Errata, not everyone has 
+access to the Internet and, quite frankly, there’s no better place 
+to list them than Rigger 5.0. So here they are!
+SOFTWARE
+AVAIL
+COST
+Autosoft (1–6)
+(Rating) x 2
+(Rating) x 500
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    127

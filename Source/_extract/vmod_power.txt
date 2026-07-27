@@ -1,0 +1,636 @@
+\n\n======== PDF 155 ========\n\nMODIFICATION 
+LIST
+Unless otherwise stated, a modification may only be 
+taken once for a vehicle. When a vehicle stat such as 
+Speed or Acceleration is listed as part of a modification 
+attribute (like cost), use the vehicle’s base or unmodified 
+value in the calculation. In the case of Handling, which 
+has two values, always use the higher value in any cal-
+culations.
+POWER TRAIN
+Power train modifications all deal with how a vehicle is 
+controlled and how the vehicle moves.
+ACCELERATION ENHANCEMENT
+Using a variety of techniques, like adding fuel acceler-
+ants (such as nitrous oxide), turbochargers, optimized 
+air intakes, afterburners, or hydrofoil drives, the accel-
+eration of a vehicle is increased. Due to inherent limita-
+tions in a vehicle’s design, its acceleration performance 
+can only be increased so far. In the end, though, there’s 
+nothing like going from zero to gone before you get 
+shot. Acceleration enhancement can be taken at Rating 
+1 or 2, with the Rating of the modification being added 
+to the vehicle’s Acceleration value.
+GECKO TIPS
+Using cutting-edge technology, the portion of any ve-
+hicle that contacts a surface can be made to strongly 
+adhere to that surface. With the gecko tips modifica-
+tion, small vehicles can be made to literally climb walls 
+or adhere to surfaces at an extremely sharp angle. The 
+larger and heavier a vehicle is, the more extensive the 
+modifications that are necessary to make the gecko tips 
+system work. There are definite limits to the technolo-
+gy however, as it can only practically be installed on 
+small mass vehicles and still allow them to move. If the 
+gecko technology was applied to larger vehicles, they 
+would literally rip away chunks of the surface they were 
+adhered to if they tried to move. A vehicle installed 
+with gecko tips can move on surfaces with angles that 
+would otherwise be impossible, including vertically.
+GLIDING SYSTEM
+For those rare but frightening times when you find your 
+(non-flying) vehicle plummeting to the ground, you’ll 
+thank the Great Ghost you installed a gliding system. 
+The gliding system deploys a large-scale parachute 
+and uses a series of small thrusters installed on the 
+hull of the vehicle to provide limited maneuverability 
+while descending. For vehicles with an exceptional-
+ly large mass, there is an upgraded system that uses 
+other methods, including multiple parachutes and ret-
+ro-thrusters, to slow the descent. While the system al-
+lows a vehicle to fall and not be utterly destroyed, the 
+landing is far from graceful. When it lands, the vehicle 
+takes (Body / 2) damage just as if it had crashed (p. 201, 
+SR5). Owners planning on using the gliding system on 
+a regular basis will often install a Passenger Protection 
+System (see p. 159). After it has been deployed, the 
+parachute(s) in the gliding system can be released with 
+a wireless or manual command. Repacking the para-
+chute(s) for reuse is a manual process requiring about 
+one hour.
+HANDLING ENHANCEMENT
+By adjusting the suspension and/or adjusting the work-
+ings of control systems, a vehicle can be made more 
+responsive to manual or electronic controls. This can 
+range from optimizing control system response times, 
+to more dramatic changes like gyroscopic stabilizers, 
+or destabilizing the structural integrity of the hull. Han-
+dling enhancement can be taken with a Rating of 1 to 
+3, with the Rating added to the Handling (both on-road 
+and off-road) of the vehicle.
+IMPROVED ECONOMY
+With this modification, the fuel consumption of the ve-
+hicle has been optimized to use the minimum amount 
+necessary for standard operation. Additionally, the ve-
+hicle is fitted with a variety of different means to gather 
+operational power from the environment around it in-
+cluding sunlight, static electricity, and wind. A vehicle 
+with improved economy doubles its operational time 
+as long as it is operating within normal parameters—no 
+high speed chases.
+MANUAL CONTROL OVERRIDE
+For runners that are extra paranoid about the Matrix 
+security on their vehicle (or just unwilling to pay for 
+>> RIGGER 5.0 <<
+VEHICLE EQUIPMENT
+NAME
+AVAIL
+COST
+Morphing license plate
+8F
+1,000¥
+Spoof chip
+8F
+500¥
+Spike strip
+8R
+200¥
+Zapper strip
+12R
+2,500¥
+Tracking strip
+8R
+600¥
+Off-road tires
+6
+400¥/tire
+Racing tires
+6
+250¥/tire
+Run flat tires
+4
+250¥/tire
+154    >> BUILDING THE PERFECT BEAST <<
+\n\n======== PDF 156 ========\n\nit), they can install a manual control override system. 
+Nearly every modern vehicle made in the 2070s has 
+the ability to be piloted remotely or purely through 
+its electronic controls as well as its manual/mechan-
+ical controls. If a rigger is really nervous about those 
+electronic controls being taken over, they can install 
+a switch so that the manual controls will always take 
+priority over the electronic ones. In order to prevent 
+the switch from being remotely deactivated, it is always 
+mechanical in nature with the physical pressing of the 
+button making or breaking connections to ensure the 
+precedence of the manual controls. In game terms, 
+when manual control override is activated, piloting a 
+vehicle via AR or VR is not possible. The system can 
+only be activated by someone physically in the vehicle, 
+within reach of the switch (usually the driver’s seat), 
+and by using a Free Action.
+MULTIFUEL ENGINE
+For teams that frequently find themselves needing to 
+travel far away from the comforts of modern civiliza-
+tion, modifying a vehicle with a multifuel engine has 
+provide invaluable. First, a portable plasma furnace is 
+installed on the vehicle that can render small quantities 
+of matter down to its constituent parts. Then, the vehi-
+cle’s engine is modified to be able to consume the raw 
+material output of the plasma torch. This allows nearly 
+any matter to be fed into the vehicle as fuel. A vehicle 
+with a multifuel engine can always be refueled as long 
+as there is raw material around to be processed.
+OFF-ROAD SUSPENSION
+For those that like to make their own roads rather than fol-
+low them, there is the off-road suspension. Most modern 
+vehicles are designed to operate on a smoothly prepared 
+road and do not respond well out of that environment. 
+With an off-road suspension, a vehicle’s suspension sys-
+tem has been replaced with one designed to operate in 
+more rugged environments. The downside, however, is 
+that the vehicle loses some of it responsiveness when op-
+erating in regular on-road environments. A vehicle with 
+an off-road suspension has +1 Handling when driving 
+off-road, but –1 Handling on-road. This stacks with bo-
+nuses from off-road tires (see p. 153).
+REMOVED MANUAL CONTROLS
+Riggers who are completely confident in their Matrix skills 
+and security but worried about their lack of physical securi-
+ty will often add a removed manual controls modification. 
+Almost all vehicles in the 2070s are capable of being pilot-
+ed by either electronic or manual controls. With this mod-
+ification, the owner simply removes the option for manual 
+controls, relying entirely on the electronic ones. Anyone 
+wishing to pilot the vehicle who is not the owner must suc-
+ceed on a Control Device Matrix action (p. 238, SR5).
+RIGGER COCOON
+For riggers, there is no safer place where they would 
+leave their body than a rigger cocoon. Generally built 
+>> RIGGER 5.0 <<
+CORE VEHICLE MODIFICATIONS
+Vehicles from the Shadowrun core rulebook (starting on p. 
+461) have the following Standard Upgrades.
+Dodge Scoot: Improved economy
+Harley-Davidson Scorpion: Metahuman adjustment (troll)
+Yamaha Growler: Off-road suspension
+Hyundai Shin-Hyung: Four extra Body Modification Slots
+Eurocar Westwind 3000: Passenger protections aystem (Rating 6), 
+anti-theft system (Rating 2)
+Mitsubishi Nightsky: Amenities (Luxury), life support (Level 1)
+Toyota Gopher: Off-road suspension, special equipment (open box 
+storage)
+GMC Bulldog: Four extra Body Modification Slots
+Yongkang 
+Gala 
+Trinity: 
+Assembly/disassembly, 
+smuggling 
+compartment
+Morgan Cutlass: Two heavy weapon mounts (external, turret, 
+armored manual)
+Proteus Lamprey: Standard drone rack (medium)
+Artemis Nightwing: Signature masking (Rating 4)
+R-F Fokker Tundra-9: Alternate propulsion: amphibious (surface)
+Nissan Hound: Two standard weapon mounts (external, flexible, 
+remote)
+Northrup Wasp: Heavy weapon mount (external, flexible, remote)
+GMC Banshee: Rigger cocoon, ECM 4
+Shiawase Kanmushi: Gecko tips
+MCT Fly-Spy: Realistic features (Rating 2)
+Lockheed Optic-X2: Signature masking (Rating 3) *This explains the 
+penalty listed on p. 466, SR5; it does not increase that penalty.
+Ares Duelist: Two light weapon mounts (external, flexible, remote), 
+realistic features (Rating 1)
+GM-Nissan Doberman: Standard weapon mount (external, flexible, 
+remote)
+MCT-Nissan Roto-Drone: Three extra Weapon Modification Slots
+Steel Lynx: Heavy weapon mount (external, turret, remote)
+>> BUILDING THE PERFECT BEAST <<    155
+\n\n======== PDF 157 ========\n\ninto the driver’s seat of a vehicle, the cocoon is de-
+signed solely for the safety and comfort of someone 
+who’s consciousness is going to be somewhere other 
+than their body. The cocoon has ballistic cloth and hard 
+armored plating for physical protection, is fire resistant, 
+has its own oxygen supply, and carries a host of bio-
+med sensors to monitor the occupant’s condition. Ad-
+ditionally, the cocoon has a variety of safety systems to 
+keep the occupant safe through the most extreme ve-
+hicle maneuvers and even crashes. Getting into a rigger 
+cocoon takes about a minute, but it can be exited with 
+a Complex Action using a quick-release system.
+Treat the rigger cocoon as a barrier with an Armor of 
+12 and Structure of 8 (p. 197, SR5). The occupant of the 
+rigger cocoon receives +6 dice to resist damage from 
+crashes or other vehicle maneuvers.
+ROCKET BOOSTER
+Vehicle operators who are truly daring (or have a death 
+wish) cannot resist installing a rocket booster. This ex-
+treme modification installs a high-powered rocket pro-
+pulsion system to allow the vehicle to make short jumps 
+over intervening terrain or obstacles. That could be a gap 
+in an unfinished road for a ground vehicle, or a dyke or 
+dam that a boat might attempt to leap over. For aircraft, 
+this allows them to take off with half the normal required 
+distance. The rocket is angled to generate an upward lift 
+of about 5 meters, similar to a jump ramp, allowing the 
+vehicle to clear an object or gap about the size of a semi 
+trailer or train car. The gamemaster should have the driv-
+er make a Vehicle Test with a difficulty they feel appro-
+priate for the jump. Activating the rocket system takes a 
+Complex Action and is in no way subtle, but it is spec-
+tacular. When landing the vehicle must resist (Body) DV 
+damage, following all of the rules for Crash damage (p. 
+201, SR5). Additionally, the driver must make an imme-
+diate Vehicle Test to maintain control. If successful, the 
+vehicle can continue driving as normal, but if it is failed 
+the vehicle crashes.
+SECONDARY MANUAL 
+CONTROLS
+Does your team have a backseat driver who’s always 
+wanting to take control? Or maybe your always sitting in 
+the vehicle of teammate and wishing you had your own 
+gas control so they would just get moving? Both of those 
+problems can be solved with the secondary manual con-
+trols modification. This modification literally provides a 
+second set of manual controls that can be used to pilot 
+the vehicle, just like the primary set. Either set can control 
+the vehicle, but the primary set always has priority. If the 
+vehicle also has manual control override, the system can 
+be set to switch only when a manual switch is activated. 
+Secondary manual controls are useful for teams that may 
+need a secondary person to control a vehicle while the 
+driver is otherwise occupied or particularly vulnerable.
+SECONDARY PROPULSION: 
+HOVERCRAFT
+A well-traveled rigger knows that lots of areas in the 
+world have demanding terrain. Plus, the work of a 
+runner means that they often need to take the path 
+less traveled. For a truly versatile vehicle, there is the 
+hovercraft upgrade. As with all secondary propulsion 
+systems, this is an extensive upgrade that adds an en-
+tire alternate means of motion to the vehicle. A large 
+rubber skirt is added all around the vehicle that can be 
+inflated on demand. Steering and control mechanisms 
+are added so that the vehicle can be directed while 
+hovering, which usually involve using compressed air 
+or expanding gas. While hovering, the vehicle only lifts 
+a few centimeters off of the ground, but it can travel 
+across water. Maneuvering is sluggish compared to 
+most standard modes.
+SECONDARY PROPULSION: 
+AMPHIBIOUS
+There are times when only the most dramatic action 
+will break off a pursuer, and having your vehicle ditch 
+into the water and keep going is definitely a dramatic 
+action. An amphibious operation package is a dramatic 
+modification that allows the vehicle to travel on water 
+(if it didn’t already have the means to do so). The mod-
+ification comes in two versions, surface and submers-
+ible, depending on how far the owner wants to take the 
+modifications and what the needs are for water travel.
+With the surface version, the vehicle is able to float 
+on top of the water. This could involve a variety of sys-
+tems including a secondary hull shaped to displace an 
+appropriate amount of water, inflatable skirts or ballasts 
+that expand to create flotation, or pontoons attached 
+to the hull of the vehicle. Regardless of the exact form, 
+the modification is fairly extensive, and it is immedi-
+ately obvious to any observer that something dramatic 
+has been done to the vehicle. When operating on wa-
+ter, the vehicle can use its normal means of propulsion 
+or a low-powered propeller. If the latter is used, speed 
+and maneuverability are fairly limited, but the vehicle at 
+least functions. It probably wouldn’t do well crossing an 
+ocean or large lake, but it can easily get across a river, 
+sound, or bay.
+With the submersible version, the vehicle has been 
+modified to operate under the water. This modification 
+is much more extensive but also more subtle than the 
+surface version. Seals are put in to make sure the ve-
+hicle and its essential components are watertight. A 
+secondary propulsion system is then installed to allow 
+it to move while submerged. Classically, this means a 
+propeller powered by the vehicle’s drive train, but it can 
+also be a ducted waterjet system for those that like later 
+technology. Finally, internal or external ballast tanks/bal-
+loons are added so that the vehicle can control its depth. 
+While the vehicle is capable of moving underwater, it 
+>> RIGGER 5.0 <<
+156    >> BUILDING THE PERFECT BEAST <<
+\n\n======== PDF 158 ========\n\ndoes not handle extreme conditions well and can only 
+handle depths of about 100 meters.
+SECONDARY PROPULSION: 
+ROTOR
+For many years, experimental riggers had been trying 
+to make a rotor secondary propulsion system work, and 
+in 2074 they finally did it. The plans broke on the shad-
+ow grids and instantly blew up in popularity. Like other 
+secondary propulsion systems, the modifications are 
+extensive and costly, but they can be life-saving when 
+you really need your vehicle to just take off and fly. A 
+rotary secondary propulsion system includes installing 
+the rotors on the top of the vehicle that can fold and 
+partially retract themselves. Additionally, a tail fin with 
+stabilizing rotor is constructed to also retract either into 
+the body, beside, or underneath the vehicle. Although 
+the system is functional—the vehicle does fly when it 
+didn’t before—it handles like a barn with rotors. Don’t 
+expect to be winning any dogfights, but the vehicle just 
+might get you out of a jam in a way nothing else could.
+SECONDARY PROPULSION: 
+TRACKED
+Another in the line of secondary propulsion modes, 
+the tracked mode is the ultimate in conquering off-
+road terrain. This ingenious modification features a sys-
+tem where jacks are deployed to lift the vehicle off the 
+ground, then the tires (or other regular propulsion) are 
+retracted partially into the body, and the tracks are de-
+ployed. Finally, the jacks are retracted, and the tracks be-
+come the means of propulsion. Smugglers that use a wa-
+tercraft as their primary vehicle have found this system 
+extremely helpful in allowing their boat to make short 
+excursions into the typically rugged terrain frequented 
+by smugglers. Others who have installed them in ground 
+craft do so because they find other methods of off-road 
+travel not good enough, or they want the versatility of 
+being able to switch from a primary on-road system to 
+the tracked system without making a sacrifice to either. 
+When moving in tracked mode, a vehicle can move 
+through extremely rough terrain without issue, includ-
+ing crossing trenches and climbing steep angles. Game-
+masters should reduce driving difficulty as appropriate. 
+Though the vehicle’s speed is limited, it can pivot on the 
+spot since both tracks can move forward or backward 
+independently.
+SECONDARY PROPULSION: 
+WALKER
+For truly exceptional or demanding terrain, some rig-
+gers install a walker system of secondary propulsion on 
+their vehicles. Using a variable number (four to eight, 
+as needed) of retractable mechanical legs, the vehicle 
+can deploy the system to give the vehicle the versatil-
+ity and mobility of a walker. When deployed, the body 
+of the vehicle is lifted about a meter off of the ground 
+to provide clearance from the terrain, with each leg 
+able to move backwards or forwards independently 
+to provide a walking motion. When in walker mode, a 
+vehicle is able to traverse far more rugged terrain than 
+any other propulsion and still be highly maneuverabil-
+ity, though its speed is severely limited. When using 
+the walker mode of secondary propulsion, the vehicle 
+uses those stats for Handling, Speed, and Acceleration. 
+Additionally, while in walker mode, the vehicle has the 
+basic maneuverability of a metahuman meaning it can 
+stop instantly and pivot on the spot.
+SPEED ENHANCEMENT
+Using a variety of techniques and equipment (de-
+pending on the vehicle), including things such as su-
+perchargers, fuel distribution optimization, and parts 
+replacement, the top speed of the vehicle is increased. 
+More dramatic increases in top end speed require more 
+extensive modifications to the vehicle as it is pushed far 
+beyond its original design and limitations. Some designs 
+can only be pushed so far. In the end, though, having 
+that raw top-end speed can save your hoop. Speed En-
+hancement modification can be taken with a Rating of 
+1 to 3, with the Rating adding to the Speed attribute of 
+the vehicle.
+>> RIGGER 5.0 <<
+SECONDARY PROPULSION  
+ADJUSTMENTS
+Whenever a vehicle switches to a secondary propulsion 
+mode, it uses the Handling, Speed, and Acceleration values 
+of the secondary mode, shown below, instead of the regular 
+values. Attributes of secondary propulsion modes cannot be 
+improved.
+SECONDARY PROPULSION MODES
+NAME
+HANDLING
+SPEED
+ACCEL
+Amphibious 
+(Surface)
+2
+2
+1
+Amphibious 
+(Submersible)
+2
+2
+2
+Hovercraft
+2/2
+3
+2
+Rotor
+2
+3
+2
+Tracked
+2/4
+2
+1
+Walker
+5
+1
+1
+>> BUILDING THE PERFECT BEAST <<    157
+\n\n======== PDF 159 ========\n\nPOWER TRAIN MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Acceleration Enhancement
+Rating 1
+4
+12
+Shop
+—
+6
+Accel x 10,000¥
+Rating 2
+8
+24
+Facility
+— 
+6
+Accel x 25,000¥
+Gecko Tips
+Body 1–3
+1
+8
+Shop
+— 
+6
+1,000¥
+Body 4–6
+4
+16
+Shop
+— 
+6
+5,000¥
+Body 7+—Not Possible
+Gliding System
+Body <= 12
+5
+16
+Facility
+—
+12R
+Body x 3,000¥
+Body > 12
+10
+24
+Facility
+— 
+16R
+Body x 4,000¥
+Handling Enhancement
+Rating 1
+4
+8
+Shop
+—
+6
+Handl x 2,000¥
+Rating 2
+10
+16
+Facility
+—
+8
+Handl x 5,000¥
+Rating 3
+18
+24
+Facility
+— 
+10
+Handl x 12,000¥
+Improved Economy
+2
+12
+Facility
+— 
+4
+7,500¥
+Manual Control Override
+1
+4
+Shop
+— 
+6
+500¥
+Multifuel Engine 
+4
+20
+Shop
+— 
+10
+Body x 1,000¥
+Off-Road Suspension
+2
+8
+Shop
+—
+4
+Vehicle cost x 25%
+Rigger Cocoon
+2
+6
+Kit
+— 
+8
+1,500¥
+Removed Manual Controls
+1
+4
+Shop
+— 
+2
+200¥
+Rocket Booster
+10
+36
+Facility
+— 
+16F
+Body x 5,000¥
+Secondary Manual Controls
+2
+10
+Shop
+—
+4
+1,000¥
+Secondary Propulsion:
+Amphibious, Surface
+4
+10
+Shop
+—
+6
+Body x 200¥
+Amphibious, Submersible
+8
+20
+Shop
+—
+12R
+Body x 2,000¥
+Hovercraft
+8
+16
+Shop
+—
+12
+Body x 1,000¥
+Rotor
+10
+24
+Facility
+—
+12R
+Body x 3,000¥
+Tracked
+6
+14
+Shop
+—
+10
+Body x 1,000¥
+Walker
+8
+16
+Shop
+—
+12
+Body x 2,000¥
+Speed Enhancement
+Rating 1
+5
+8
+Shop
+—
+6
+Speed x 2,000¥
+Rating 2
+14
+16
+Facility
+—
+8
+Speed x 5,000¥
+Rating 3
+20
+24
+Facility
+—
+12
+Speed x 12,000¥
+>> RIGGER 5.0 <<
+158    >> BUILDING THE PERFECT BEAST <<

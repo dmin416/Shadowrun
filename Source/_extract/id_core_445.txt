@@ -1,0 +1,149 @@
+RFID TAGS
+These tiny computers (named after old-fashioned ra-
+dio frequency identification tags) form an integral part 
+of every product commercially available in the Sixth 
+World. Ranging in size from microscopic to slightly 
+larger than a price tag, RFID tags have a stick-to-any-
+thing adhesive backing and can be tricky to spot. Tags 
+are used for geo-tagging locations and objects, leav-
+ing a virtual AR message for anyone who comes by, 
+employee tracking, access control, owner-contact in-
+formation for everything from vehicles to pets, vehicle 
+and weapon registration, and so on. They can also be 
+used as tracking devices, periodically transmitting GPS 
+data to the Matrix.
+RFID tags are devices (p. 234) that can hold one or 
+more files, but not much else. The physical location of 
+a tag can be found via the Matrix (Trace Icon, p. 243). 
+Tag data can be erased with a tag eraser (p. 441) or 
+programmed with an Edit File action (p. 239). RFID tags 
+have owners like all other devices, but unlike other de-
+vices a tag’s owner can be changed to “nobody.”
+Datachip: For occasions when you want to transfer 
+data by physical means—like bringing the project specs 
+on the competition’s new cyberdeck to Mr. Johnson 
+in person at the meet—a datachip can hold enormous 
+quantitites of data in a small finger-sized chip, accessible 
+by any electronic device. Datachips have no wireless ca-
+pability, so you need to plug them into a universal data 
+connector (found on any device) if you want to read or 
+write to them.
+Security tags: Security-conscious megacorps often 
+implant these security tags in their sararimen and valued 
+citizens, either to monitor employee workplace produc-
+tivity, grant and deny clearance and security access, or 
+track employees in the case of abduction or extraction 
+(or escape). These same tags are used on incarcerated 
+and paroled criminals, and parents and schools also use 
+them to track students. Security tags cannot be erased 
+with a tag eraser due to EMP hardening. If a tag is im-
+planted under the skin, an Extended Medicine + Logic 
+[Mental] (10, 1 minute) Test is needed to remove it. 
+Sensor tags: A sensor RFID tag can be equipped 
+with a single sensor (sold separately) of up to Rating 2 
+(Sensors, p. 445). It then records everything it can, to a 
+maximum of 24 hours of time, at which point you can 
+program it to either shut off or overwrite data older than 
+24 hours. Sensor tags are often used for diagnostic pur-
+poses in various devices, including cyberware.
+Wireless: You can monitor the data in real time, if 
+you’re the tag’s owner. The tag still records the last 24 
+hours for you.
+Stealth tags: A stealth tag always runs silent (p. 235) 
+and has a Sleaze rating equal to its Device Rating. It’s 
+disguised to not look like RFID tags, which gives it an 
+additional –2 Concealability modifier. Stealth tags are 
+often used as a backup for security tags by megacorps 
+that are security conscious (and sneaky). They can be 
+implanted the same way security tags can.
+COMMUNICATIONS AND 
+COUNTERMEASURES
+Bug scanner: Also called a radio signal scanner, this 
+device locates and locks in wireless devices within 20 
+meters. The scanner can also measure a signal’s strength 
+and pinpoint its location. To operate a bug scanner, roll 
+Electronic Warfare + Logic [Rating]. A device that is run-
+ning silent (like a Stealth tag) can use its Logic + Sleaze 
+to defend against the scan. If you get any net hits at all, 
+you find the device.
+Wireless: You may substitute the scanner’s Rating for 
+your Electronic Warfare skill when you use it.
+Data Tap: You use this hacking tool by attaching it to 
+a data cable. Once it’s clamped onto the cable, you can 
+use it via universal data connector. Any device directly 
+connected to the data tap also has a direct connection 
+with the devices on either end of the cable (see Direct 
+Connections, p. 232) and vice versa. The tap can be re-
+moved without damaging the cable.
+Wireless: The data-tap can be wirelessly command-
+ed to self-destruct as a Free Action, immediately and 
+>> STREET GEAR <<
+ACCESSORIES
+ACCESSORY
+DEVICE 
+RATING
+AVAIL
+COST
+AR Gloves
+3
+—
+150¥
+Biometric reader
+3
+4
+200¥
+Electronic paper
+1
+—
+5¥
+Printer
+3
+—
+25¥
+Satellite link
+4
+6
+500¥
+Simrig
+3
+12
+1,000¥
+Subvocal mic
+3
+4
+50¥
+Trid projector
+3
+—
+200¥
+Trodes
+3
+—
+70¥
+RFID TAGS
+TAGS (PER 10)
+DEVICE 
+RATING
+AVAIL
+COST
+Standard Tags
+1
+—
+1¥
+Datachip
+1
+—
+5¥
+Security Tags
+3
+3
+5¥
+Sensor Tags
+2
+5
+40¥
+Stealth Tags
+3
+7R
+10¥
+440    Electronics >>

@@ -1,0 +1,525 @@
+
+
+===== datatrails.pdf p175 =====
+er and perhaps discern their motivations by the 
+persona they present to the world. In the age 
+of digital treasures and virtual worlds, the most 
+important possession a hacker can have aside 
+from his equipment is his name. A persona with 
+flair can attract quite the reputation. The right 
+hacker can sniff out facts from fiction and get a 
+good idea of what he’s dealing with.
+•	
+A Witness: Adding physical witnesses to the 
+crime proves an opportunity on the meatspace 
+side of the scenario. The witness could be oth-
+er workers logged in at the time that the deck-
+er duped and moved past, to on-site personnel 
+who may have seen someone suspicious who 
+jacked in. This gives the group’s face things to do, 
+such as buying drinks for the new intern at a club. 
+More thuggish groups might have their resident 
+troll corner the IT manager in a dark alley.
+STAGE THREE: THE REVEAL
+The climax of any investigation is the revelation of the 
+mystery’s solution. Here are a couple of ways to turn up 
+the heat for your players as part of the reveal:
+•	
+Whodunit: All the Matrix is a stage—you just 
+have to find ways to get people to watch what 
+you’re doing. Staging a reveal can be complex, 
+but if the story is interesting enough, a hacker 
+can find viewers. Broadcasting such information 
+can be the best way to ensure that something 
+gets done about it, especially if you are clearing 
+a friend of a crime.
+•	
+The Showdown: Once you find the culprit, you 
+still have to bring him to justice. This requires a 
+showdown, and the Matrix can be challenging. A 
+team of shadowrunners will have to coordinate 
+in both meatspace and the Matrix to track down 
+the target and capture their material form while 
+halting any damage they might do in cyberspace.
+•	
+Turning the Tables: Blackmail is only a dirty 
+word when it’s being done against you. Other-
+wise, it’s known as leverage. Get the goods on 
+your rival, and suddenly he’s working for you.
+GHOST IN THE MACHINE: 
+GODS AND MONSTERS
+The Matrix is much like an ancient city that has been 
+built and rebuilt countless times. If you look in the 
+right place, you can see the ghosts of ages past in 
+the architecture of the now. There are mysterious 
+phenomena revealing themselves as personas that 
+exist entirely within the Matrix. The exact nature of 
+these strange residents of the Matrix is fiercely de-
+bated. Some believe these are escaped AIs or mag-
+ical spirits of the Matrix. Others believe they are the 
+disembodied personalities of people trapped in cy-
+berspace long after their deaths, perhaps the victims 
+of Black IC.
+The Ghost in the Machine trope explores this dark 
+corner of the Matrix. Some might see this as a form of reli-
+gious experience or experimental transhumanism where 
+humanity touches the divine. (For more information on 
+the details of these so-called ghosts in the machine, see 
+E-Ghosts, p. 161). If gamemasters want their players to 
+go on a ghost hunt—or better yet, be hunted by ghosts 
+themselves—here are some story arcs they can use. 
+STAGE ONE: THE GLIMPSE
+Introducing ghosts in the machine into a session should 
+be done with great care and never when expected. 
+Something unusual or impossible within the context of 
+the rules of the local host should occur to signal that 
+something is not right. Here are some examples of the 
+types of situations that might work to introduce “Ghost 
+in the Machine” scenarios:
+•	
+Dilated Time: Time in the Matrix works at the 
+speed of plot, quicker than meatspace, but just 
+slow enough to accomplish things in relative 
+time parallel to events in the real world. What if 
+the Matrix entity is about to overcome the host 
+and slow time within it? 
+•	
+There Is No Spoon: A host has a set of pro-
+grammed rules of reality. A ghost in the machine 
+can, and often will, break these rules with impu-
+nity. This should be a signal that something pow-
+erful is lurking nearby, and that alone deserves 
+a closer look. The entity is able to subdue or 
+overcome a series of countermeasures deemed 
+daunting or even insurmountable to the decker.
+•	
+Divine Touch: The entity is able to touch the 
+hacker and affect her devices in an impossible 
+fashion. Perhaps it learns the true name and face 
+of the hacker. Perhaps it can touch the mind of 
+the technomancer.
+STAGE TWO: COMMUNION
+The entity will wish to communicate for an express pur-
+pose. Interaction between ghosts and players is often 
+difficult because of the vast differences in the methods 
+of communication until there is some sort of commu-
+nion. Here are some examples of how said communion 
+might take place:
+•	
+Merging: The entity might attempt to share ex-
+periences or impressions with an upload. This 
+notion should strike the decker as dangerous or 
+uncomfortable, and the merging entity will nat-
+urally cause some sort of overload.
+•	
+Breadcrumbs: Sometimes communication is 
+simply too difficult between the intellects. The 
+entity will leave clues and breadcrumbs for the 
+hackers in an attempt to communicate.
+•	
+Possession: Agents and sprites often make 
+>> DATA TRAILS <<
+174    MASTERING THE MATRIX >>
+
+
+===== datatrails.pdf p176 =====
+good avatars for such entities to possess and 
+communicate through a limited filter.
+STAGE THREE: THE BLESSING
+The climax of the Ghost in the Machine scenario takes 
+the form of a blessing, where the entity gives some-
+thing to the hackers and bestows upon them a sacred 
+task. So what does it look like when a being with an 
+incomprehensible level of intelligence and no sense of 
+societal ethics teams up with an all-too-mortal hacker 
+who, let’s face it, is probably at least mildly addicted to 
+something? Here are some scenarios:
+•	
+Task in the Real World: An entity might be a 
+god in the Matrix and have zero power in the 
+real world. It needs envoys into meatspace to 
+accomplish some sort of goal.
+•	
+Revelation: Often an entity is confused about 
+its own existence and needs the perspective of 
+humanity to observe itself and its own needs. 
+•	
+Uncharted Shores: The Matrix is a universe unto 
+itself and there are potentially vast swaths of it 
+away from the main data hosts. What if the en-
+tity wants a partner in exploring the unknown?
+•	
+Fourth Directive: The entity is a corporate AI 
+whose programming contains restraints pre-
+venting it from being truly free. It needs the 
+deckers to help sever its last remaining ties.
+RUNNING THE 
+MATRIX AS A 
+STORY METAPHOR
+The Matrix is designed to be user-friendly. Corpora-
+tions want users to work and play within the Matrix, so 
+they made sure there were common protocols in host 
+design. Hosts are not the representations of a specific 
+device or location in the meatspace, but a virtual con-
+struct formed from the Matrix that can be accessed 
+from almost anywhere without worrying about the dis-
+tance involved. The dimensions of a host are different 
+on the inside than might appear from the outside. It is 
+a virtual environment of its own, with different bound-
+aries, all chosen to maximize the host’s purpose, be it 
+selling cheap items to the masses or ensuring—with ex-
+treme prejudice—the integrity of research data.
+How the gamemaster presents a host within the 
+Matrix will shape how the players interpret the action 
+and interact with the scenario. The best way to make the 
+Matrix dramatic is to determine which story metaphors 
+work best for the players and present the host in those 
+terms. Some players want the action be cast into a visual 
+metaphor so that they are not imagining programs and 
+algorithms so much as virtual swords and bullets. Others 
+will very much want to delve into the meaning of the 
+Matrix and simulate the futurist experience in terms of 
+devices, structure, programs, and agents. 
+Players and gamemasters will need to work togeth-
+er to find the language about the Matrix that works 
+for them, and this chapter should provide some alter-
+natives. This section is designed to help gamemasters 
+consider the potential story metaphors when designing 
+an interesting host scenario. (If you are interested in the 
+rules for creating a deep run on a host, see Deeper and 
+Deeper, p. 106).
+Here are sample story metaphors to consider when 
+running the Matrix:
+•	
+The Dreamscape: The Matrix follows the logic 
+of dreams. It’s a metaworld within the world that 
+only the strongest dreamers (a.k.a. hackers) can 
+learn to affect. Users innately understand the 
+nonsensical story logic within the host, while in-
+teracting in ways that make perfect sense with-
+in the context of the simulation. Information is 
+designed by the developers to be processed 
+non-logically and automatically downloaded 
+via the device, much like a dreamer understands 
+the environment of a dream. Users innately 
+know if they can fly or leap tall buildings in a sin-
+gle bound in the host environment. A hacker can 
+use dream interpretation to assign meaning to 
+these scenarios, giving her insight into the pro-
+cesses of the hosts. 
+•	
+The Corporate Rorschach Test: The Matrix is 
+an unintentional reflection of those who create 
+the hosts that populate it. The Rorschach test 
+is a psychological technique used to evaluate a 
+subject based on their intellectual and emotion-
+al responses to a series of inkblot designs. Some 
+hackers have learned to read the environment of 
+a host as an inverted Rorschach test that, if read 
+properly, may provide insight into the culture and 
+people that spawned it. A corporation known for 
+children’s toys and amusement parks that wish-
+es to project a happy, friendly atmosphere might 
+create a host that mirrors their lofty aspirations. 
+Despite their intent, their host can’t help but re-
+veal a dark undertone, as the sounds of random 
+children’s laughter linger, and agents that stare 
+unblinking at personas dot the grid, reminding 
+the players of the eerie nature of unattended toys 
+scattered about. 
+•	
+The Matrix as the Underworld: The Matrix as 
+the underworld is a gloomy, depressed realm 
+where hope is lost, save for the spark brought 
+into it by hackers. This reflects the myth of the 
+underworld and the expectations that heroes 
+will venture into it, bringing forth wisdom to 
+the world. Agents become soulless minions of 
+death, performing their functions as macabre 
+judges of personas. If a gamemaster is using this 
+trope, she should take care to describe the envi-
+>> DATA TRAILS <<
+<< MASTERING THE MATRIX    175
+
+
+===== datatrails.pdf p177 =====
+ronment with a dark quality using descriptions 
+that stress the hopelessness of the situation. 
+Every battle here is epic because to fail is to be 
+trapped forever in this realm. 
+•	
+The Matrix as the Cave: The Matrix as Plato’s 
+Cave is a world where the majority of users and 
+agents are unaware of the true potential of the 
+host. In his classic allegory, Plato likens people 
+untutored in the truth to prisoners chained in 
+a cave, unable to turn their heads. All they can 
+see is the wall of the cave. Behind them burns 
+a fire, casting distorted shadows upon the wall 
+in front of the cave’s prisoners. Lacking any sort 
+of context to understand what they are seeing, 
+the prisoners assume the shadows are reality. 
+Hackers armed with the truth can break these 
+chains to become virtual superheroes in a world 
+of men. They have super strength, they can fly, 
+and they have near infinite power against agents 
+of the host. Players interested in this sort of vi-
+sual metaphor won’t look for emphasis so much 
+on programs as virtual swords and big-ass guns.
+•	
+The Matrix as the Singularity: The technological 
+singularity hypothesis states that the accelera-
+tion of progress in technology and computing 
+power will result in an unintended consequence 
+where artificial intelligence will exceed human 
+intellectual capacity and control. This leads to 
+society radically changing, or even the end of 
+civilization. That particular conclusion is outside 
+the scope of Shadowrun, but host-as-singulari-
+ty focuses on the ever-quickening pace of the 
+changes in the Matrix and technology as it nears 
+an unknown but fast-approaching horizon. Hack-
+ers are armed with programs, decks, and their 
+wits against this choppy sea of the unknown. 
+If a gamemaster is using this trope, she should 
+take care to use the jargon whenever possible to 
+ensure that the players feel immersed into this 
+world. Ensure that everyone involved with the 
+Matrix has reviewed Story Overview of Matrix 
+Components (see p. 167).
+TIPS & TRICKS FOR 
+RUNNING  
+THE MATRIX
+Once you’ve written your scenarios and decided upon 
+the story metaphor into which you cast the action, you 
+have to actually run the Matrix. The real trick for insert-
+ing Matrix scenarios into games is balancing time and 
+pacing with the needs of all of the players. This section 
+will provide tips, tricks, and techniques for hitting this 
+balance. Players and gamemasters will need to work to-
+gether to find the right methods that work best for them.
+AUGMENTED REALITY
+Augmented reality mashes together the Matrix run with 
+the physicality of the traditional run. Noise, or simply 
+an overwhelming firewall, can prevent a hacker from 
+accessing a secure system from a safe distance. The 
+good ol’ days of hackers hiding away from the action 
+alone in the Matrix are over. To be successful, hackers 
+may need to get personally involved in the run with 
+their fellow shadowrunners. They must keep an eye on 
+the happenings in meatspace and cyberspace, some-
+times seeing an overlay of both realities at once. This 
+technique requires that the gamemaster keep close 
+track of both scenarios and feed stimuli to the player in 
+real-time. Here are a couple of tips for gamemasters to 
+get the most out of this method into their games:
+•	
+Rolling Tests: Gamemasters should intersperse 
+the hacker’s tests with those of the other players 
+so as not to break up the gameplay between the 
+two groups. During Combat Turns, characters 
+are limited by their actions and the pacing of 
+the scenario. A hacker has to monitor the Ma-
+trix while also making certain a security guard 
+doesn’t pop a cap in her ass. 
+•	
+Hacking During Combat: Make certain that the 
+scenario includes areas that hacking can directly 
+affect. If the team is squaring off against security 
+and a call for reinforcements goes out, the hack-
+er may be able to delay the message or possi-
+bly reroute it. Hackers can seal entrances, jam 
+monitoring equipment, open locks, and disrupt 
+communications.
+•	
+Bricking: A hacker with enough skill can brick 
+enemy gear, tap into their commlinks, and gen-
+erally make their lives miserable.
+JUXTAPOSITION
+The Juxtaposition method is when the gamemas-
+ter flips back and forth between scenes that occur in 
+meatspace and the Matrix. This technique requires a 
+good deal of timing and improvising from the game-
+master to ensure that all of her players are interested 
+in the flow of the story. Here are a couple of tips for 
+gamemasters to introduce this method into her games:
+•	
+The Timer Method: This technique involves 
+switching back and forth between the two sce-
+narios during a pre-determined interval of time. 
+(We recommend that you set a ratio that favors 
+the larger group of players. For example, if there 
+are four players and only one of them is involved 
+in the Matrix scenario, a gamemaster might rea-
+sonably set a time ratio of 3:1. Our brains are 
+wired to react to pressure, and this simulates the 
+excitement of a solid adventure. The gamemas-
+ter immediately switches to the other scene as 
+>> DATA TRAILS <<
+176    MASTERING THE MATRIX >>
+
+
+===== datatrails.pdf p178 =====
+soon as the buzzer sounds, even if it ends in the 
+middle of an action. The action isn’t lost, but in-
+stead takes place immediately upon the scenar-
+io shifting back to the scene. 
+•	
+Dramatic Pacing Montage: The pacing montage 
+builds on the interplay between scenarios much 
+like a director cuts a movie for the best dramatic 
+pacing. The gamemaster follows the thread of 
+a single scenario until it is dramatically appro-
+priate to switch. If the scenarios have been de-
+signed to mirror each other, the advancing story 
+will keep the players’ interests even when the 
+spotlight isn’t on their character.
+ORACLE
+The Oracle method is when the hacker character is off-
+stage from the action and serving as a virtual scout 
+helping the shadowrunners with security problems, 
+locked doors, and harrying the opposition to keep the 
+team on track. The problem with this method is that the 
+hacker is often less at risk, reducing the tension of her 
+scenes. However, if the gamemaster prepares ahead of 
+time, she can use these techniques to give the hack-
+er special attention without stealing too much of the 
+spotlight from the other players. Here are a couple of 
+tips for gamemasters to use this method in their games:
+•	
+Hitchcock Tension: The Hitchcock Tension 
+method requires a bit of planning from the 
+gamemaster and the players running the Matrix 
+scenes. The gamemaster runs that scene ahead 
+of time before the actual game. This way the 
+hacker characters get the full attention of the 
+gamemaster, but the rest of the game’s pacing 
+doesn’t lag. The gamemaster keeps tracks of the 
+beats of the Matrix scene and then allows the 
+hacker character to interact with the meatspace 
+game when appropriate. The potential down-
+side to this approach is that it requires more 
+time on the part of the gamemaster and the 
+person playing the hacker and may lead to lulls 
+in the action while the hacker waits for his next 
+opportunity to get on stage. 
+>> DATA TRAILS <<
+<< MASTERING THE MATRIX    177
+
+
+===== datatrails.pdf p179 =====
+•	
+Planning for Success: Often, the player of a 
+hacker will feel overwhelmed with the sheer 
+number of choices available to her. One meth-
+od to organize the scenario is to work with the 
+player to develop a detailed list of what she in-
+tends to do and use this as the background of 
+the scenario. The gamemaster should ask them 
+to write down the steps of her hacking, starting 
+with the grid she plans to access and then pro-
+gressing through the Matrix to the host. Once 
+the steps for breaching the system have been 
+mapped out, the gamemaster can review the 
+plan and then ask for rolls only at the most dra-
+matic points. While the hacker is creating this 
+plan, the gamemaster can work with the other 
+players performing tasks in meatspace, such as 
+legwork, surveillance, or gathering equipment.
+•	
+Shut Down All the Garbage Mashers on the 
+Detention Level!: A gamemaster might feel 
+that including Matrix scenes would overcom-
+plicate the scenario, and so decide to restrict 
+the hacker role to an NPC (or there might not 
+be any players with a hacker character). This 
+character becomes a voice on the commlink 
+that can help the shadowrunners when it is dra-
+matically appropriate—such as opening doors, 
+unlocking data safes, and busting locks. Be 
+careful not to allow the NPC to play hero at the 
+expense of the players. But who knows? Per-
+haps if the hacker proves to be cool and useful, 
+players will be tempted to try the archetype. 
+ 
+MATRIX ACTIONS 
+AND COMBAT 101
+Once you’ve mastered the basic concept of the Matrix 
+and you’ve designed the scenarios, it’s time to put the-
+ory into practice. This section contains common appli-
+cations of frequently used Matrix actions, a few new 
+Matrix actions to add to your decker’s arsenal, and an 
+example of Matrix combat to help gamemasters get a 
+sense for how things go. (For the complete rules about 
+the Matrix, see p. 214, SR5, and the remainder of this 
+book.)
+SIMPLE MATRIX ACTIONS
+The Matrix is designed to be used by the average per-
+son. The following are simple Matrix actions that any-
+one with a commlink and access can generally do:
+•	
+Change Icon: A user can change their icon to 
+anything imaginable as long as it conforms to 
+Matrix protocols. A crucial tool for blending in 
+(or standing out), your choices with Change Icon 
+generally affect how other personas begin their 
+interactions with you. You never get a second 
+chance to make a first impression and all that.
+•	
+Matrix Perception: Matrix Perception, like its 
+meatworld counterpart, is a critical test for any-
+one remotely interested in working in the Ma-
+trix. It is most often used to check a file for data 
+bombs or to pinpoint an icon that’s running si-
+lently nearby. Most of the icons in the Matrix are 
+bright, flashy things that are impossible to miss, 
+but those are never the ones Mr. Johnson hires 
+you to find. Matrix Perception allows a character 
+to play 20 Questions (if they’re on a really good 
+roll—more likely the number comes in some-
+where south of that) with the gamemaster. You 
+can use it to scout an opponent by determining 
+its current ASDF configuration, or you can delve 
+into the recent history of a sought-after datafile. 
+Matrix Perception is automatic for devices within 
+100 meters or within the same host; it requires a 
+Computer + Intuition [Device Rating] Test if you 
+are trying to perceive devices more than 100 
+meters from the device. If a persona is running 
+silent, you need a Computer + Intuition [Device 
+Rating] vs. Logic + Sleaze Opposed Test.
+•	
+Matrix Search: How can a decker find an ob-
+scure bit of corporate gossip about your latest 
+target? By searching for it, of course! Game-
+masters should feel free to make this as much 
+of a storytelling device as they see fit. Not just 
+simply putting a term in a search bar, Matrix 
+Search (Computer + Intuition [Device Rating]) 
+can uncover otherwise-forgotten details about 
+who actually owns a property or a forgotten 
+conspiracy theory group with crazy ideas about 
+the runners’ next target. If there are clues to be 
+found in the Matrix-side of the legwork, they’ll 
+probably be uncovered with Matrix Search. (For 
+more information, see p. 240, SR5)
+•	
+Send Message: Don’t forget to call your moth-
+er! The lifeblood of team communication, send-
+ing messages and sharing video streams allows 
+a run to go smoothly, but should a member’s 
+communication device go offline, things can 
+break down fairly quickly. Smart runners will be 
+wary of eavesdropping by spiders and others.
+NEW MATRIX ACTIONS
+GARBAGE IN/GARBAGE OUT 
+(COMPLEX ACTION)
+Marks Required: 3 
+Test: Software + Logic [Sleaze] vs. Logic + Firewall 
+This allows a decker to “cross the wires” of a sin-
+gle device, confusing its input and output commands. 
+Only a single input can be changed to correspond to a 
+single output—devices can’t be reprogrammed whole-
+sale or made to act in a manner outside of their original 
+>> DATA TRAILS <<
+178    MASTERING THE MATRIX >>

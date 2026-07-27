@@ -1,0 +1,1398 @@
+
+
+===== PDF page 83 =====
+AUTO-INJECTOR
+Originally, auto-injectors were devices that released 
+medication into a person’s body either when needed or 
+on a regular time schedule. It took the streets about thir-
+ty seconds to realize that you could replace, say, insu-
+lin with combat drugs, and suddenly you have a sneaky 
+boosting technology. While the base auto-injector is de-
+signed to hold a single dose of a chemical, an auxiliary 
+storage unit is often implanted to allow up to five addi-
+tional doses. The auto-injector is normally refilled from 
+an external port but may be connected to a chemical 
+gland (see p. 112) instead, allowing the user to produce 
+their own chemicals and dispense them as desired. Note 
+that while different chemicals can’t be mixed in a single 
+dispensary, multiple injectors may be implanted to cre-
+ate a veritable salad bar of chemical cocktails.
+Wireless Bonus: Provides access to database infor-
+mation about the drug’s effects and a real-time count-
+down of its duration, as well as a monitor of when the 
+aftereffects should pass.
+Killswitch: Highly illegal, the killswitch is, at its core, 
+a single-use auto-injector that’s been filled with some 
+virulent agent. The killswitch is rigged into a direct neu-
+ral interface so that the user can trigger it with a mental 
+command. Once triggered, in injects a presumably le-
+thal chemical into the user’s bloodstream. Obviously, a 
+killswitch isn’t designed to be refilled.
+BALANCE TAIL
+Largely having fallen out of favor for their bioware cous-
+ins, balance tails are cybernetic tails extended from the 
+user’s spine, focused on improved stability and bal-
+ance. The tail is controlled by a dedicated sub-proces-
+sor at the base of the spine and is autonomous, often 
+moving about on its own without the user’s awareness 
+as it quietly compensates for natural motion. While 
+the base tail is in the always-classic chrome, faux-fur 
+cat tails are, by far, the dominant style. Tails must be at 
+least knee-length to be functional, but most are slightly 
+longer than the user’s legs. 
+The balance tail raises the user’s Physical limit by 1 
+for all tests requiring balance, such as climbing, jumping, 
+or running. It also raises the user’s Physical limit by one 
+for purposes of resisting knockdown.
+BIOMONITOR
+While this is simply an implanted version of the stan-
+dard biomonitor, its cybernetic nature allows it to in-
+tegrate the user’s augmentations into calculations so 
+that, for instance, a user’s bone structure will not read 
+as damaged just because they have plastic implants.
+Wireless Bonus: Provides interaction with a user’s 
+healthcare provider, as well as constant updates in their 
+personal PAN, making checking your vitals into a Free 
+Action.
+BIOWASTE STORAGE 
+EXPANSION
+What it says on the tin. Each Rating point allows the 
+user to store an entire day’s worth of liquid and solid 
+waste for later offloading via an access port. 
+>	
+Handy for long waits in a sniper position or when hiding 
+inside a facility, waiting for it to close.
+>	
+Hard Exit 
+HEADWARE
+CYBERWARE
+ESSENCE
+CAPACITY
+AVAILABILITY
+C0ST
+Attention coprocessor
+0.3
+[1]
+8
+3,000¥
+Chipjack (1–6)
+(Rating) x 0.05
+—
+(Rating) x 2
+(Rating) x 1,000¥
+Dream link
+0.1
+—
+8
+1,000¥
+False face
+0.5
+[8]
+12R
+20,000¥
+Knowledge hardwires (1–6)
+Rating x 0.05
+—
+Rating
+Rating x 2,000¥
+Math SPU
+0.1
+[1]
+8
+2,000¥
+Orientation system
+0.2
+[1]
+4
+500¥
+Radar sensor (1–4)
+Rating x 0.25
+[Rating]
+Rating x 3
+Rating x 4,000¥
+Synthlink
+0.1
+[1]
+4
+1,000¥
+Visualizer
+0.1
+—
+8
+2,000¥
+Voice mask
+0.1
+—
+8F
+2,000¥
+>> CHROME FLESH <<
+82    SHINY: THE LATEST CHROME >>
+
+
+===== PDF page 86 =====
+are considered part of the user’s Lifestyle cost. This 
+augmentation is not compatible with the elastic stom-
+ach genetech.
+>	
+Again, useful for long stakeouts in sniper position or for 
+deep infiltration. 
+>	
+Hard Exit
+>	
+Also survival in harsh environments.
+>	
+Stone
+OXSYS CYBERGILL
+Rather than an implanted air supply, the OXSYS cyber-
+gill is a series of implants along the user’s throat and up-
+per respiratory system that allows oxygen to be pulled 
+from water, allowing for an indefinite duration of sub-
+mersion. The user draws water into their lungs during 
+this procedure, exhaling it as well, and the system in-
+cludes lung reinforcement and strengthened bellows to 
+allow water to be fully flushed out after emerging from 
+submersion. This process is somewhat discomforting 
+and often loud. While the cybergill allows the user to 
+breathe underwater, it doesn’t make the body immune 
+to the other effects of underwater life, such as nitro-
+gen narcosis. Dedicated users often implant air tanks 
+(p. 455, SR5) with pure helium to manage their body’s 
+levels of nitrogen. 
+BODYWARE
+CYBERWARE
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Active hardwires
+Rating x 0.05
+—
+Rating x 2
+Rating x 4,000¥
+Auto-injector
+0.05
+—
+2
+     Reusable (1 dose)
+0.05
+—
+2
+500¥ + contents
+     Expanded reservoir (+5 
+doses)
+0.05
+—
+4
+250¥ + contents
+     Killswitch
+0.05
+—
+8F
+750¥ + contents
+Balance tail
+0.25
+—
+8
+2,000¥
+Biomonitor
+0.1
+[1]
+2
+500¥
+Biowaste storage 
+Rating x 0.1
+[Rating]
+8
+Rating x 500¥
+Cyberfins
+0.1
+[1]
+8
+500¥
+Cybersafety
+—
+[1]
+4
+100¥
+Flex hand
+0.15
+—
+8
+1,500¥
+Foot anchor
+0.25
+[3]
+10
+2,000¥
+Gastric neurostimulator
+0.2
+—
+4
+2,000¥
+Internal router
+0.7
+—
+4
+15,000¥
+Magnetic system
+0.25
+[2]
+8
+1,000¥ + contents
+Move-by-wire system
+     Rating 1
+3.0
+—
+12F
+40,000¥
+     Rating 2
+4.0
+—
+18F
+125,000¥
+     Rating 3
+5.0
+—
+24F
+205,000¥
+Nutrition storage system
+Rating x 0.1
+[Rating]
+4
+Rating x 500¥
+OXSYS cybergill
+0.25
+—
+4
+2,000¥
+Retractable climbing claws
+0.2
+[2]
+8
+2,000¥
+Smart articulation
+0.5
+—
+8
+6,000¥
+Touch link
+0.1
+—
+8
+1,000¥
+>> CHROME FLESH <<
+<< SHINY: THE LATEST CHROME    85
+
+
+===== PDF page 87 =====
+RETRACTABLE  
+CLIMBING CLAWS
+Essentially retractable hand razors, angled for use in 
+climbing rather than combat, these claws are reinforced 
+and hooked, and are most often taken in pairs. Each 
+climbing claw raises the user’s Physical limit for Climbing 
+Tests by +1, while each pair increases the user’s Climb skill 
+by +1. Note that one pair may be taken for the feet as well.
+If used as weapons, treat as retractable hand razors, 
+but reduce the Physical limit by 1 for the awkwardness of 
+using them in an attack.
+SMART ARTICULATION
+An advanced procedure that replaces the user’s con-
+nective tissues, ligaments, and tendons with modern 
+materials and resettable tensile strengths, smart artic-
+ulation can set users’ bodies for either loose or tight 
+joints, in addition to the standard that a metahuman 
+body expects. 
+When loose, the user’s body is easily contorted, 
+with joints dislodged and pushed into position limit-
+ed only by the user’s skin, bones, and imagination. The 
+user gains +2 to their Physical limit to Escape Artist and 
+grapple tests, and can further fit through any opening no 
+smaller than their head. 
+When tight, the user’s joints are as unyielding as the 
+long bones they are connected to and equally as inflex-
+ible. The user gains +2 Body when comparing to the 
+attacker’s Strength in unarmed combat, and they have 
+their Physical limit increased by 1 for any test involving 
+endurance, such as climbing.
+Unfortunately, in either loose or tight settings, the 
+user will find themselves with difficulty moving, travel-
+ing at half their normal speed. 
+Smart articulation is incompatible with enhanced ar-
+ticulation or cyberlimbs. 
+TOUCH LINK
+A simple sensory recording device that records tac-
+tile sensation, allowing the experience to be shared or 
+replayed as desired. Combine with a simrig for an as-
+tounding experience!
+CYBERLIMBS
+PRIMITIVE PROSTHETICS
+While not used by reputable medical corporations 
+these days, the fact remains that SINless and the unin-
+sured are lucky to get what they can. From the wooden 
+(!) pegleg and hook hand of antiquity to the unpow-
+ered metal and plastic hybrids of a century ago, these 
+prosthetics all offer extremely limited results for an ex-
+tremely limited price.
+In the case of hands/arms, the user is considered to 
+have a limit/Accuracy of 1 with any use of the limb.
+In the case of feet/legs, the user is considered to 
+have a walking speed half of normal and has their run 
+multiplier reduced by one.
+Primitive skulls and torsos don’t exist. Poor slots.
+BUILT-IN MEDKIT
+Built directly into a partial or full cyberlimb, this is sim-
+ply a standard medical kit filled with useful surgical 
+implements, micro-manipulators, and a digital nurse 
+to help with diagnosis and treatment. More expensive 
+kits are, of course, more robust. The listing for this item 
+is simply for the compartment and parts to hold the 
+medkit; the medkit must be purchased separately. The 
+medkit then may be refilled as their non-cyber counter-
+parts for the same price.
+BUILT-IN UTILITY KIT
+Dozens of kits exist, each featuring a full tool kit (Ar-
+morer, Auto Mechanics, etc.) that can be built directly 
+into a partial or full cyberlimb. Each kit features rotating 
+drillbits, clamps, computerized guides, and so forth, for 
+the task at hand.
+BULK MODIFICATION
+Most cyberlimbs are designed to be relatively lifelike—
+extremely so in the case of synthetic limbs, but there 
+are those who wear their chrome loud and proud, and 
+for them, the bulk modification is a gift from above. 
+While only available for obvious cyberlimbs, the bulk 
+modification trades sneakiness for greater volume, and 
+with greater volume comes more upgrade capabilities. 
+While bulk modification is available in six Ratings, the 
+limb in question is limited as noted in the chart below:
+CYBERFINGERS
+Sometimes, you don’t need an entire hand; other times, 
+you want to add a few tricks to the cyberhand you al-
+ready have. Regardless, individual finger upgrades are 
+available that add functionality to your digits.
+Fingerlight: A simple small flashlight.
+CYBERLIMBS
+CYBERWARE
+RATING
+Hand/foot/half-skull
+1
+Lower arm/lower leg/skull
+2
+Full arm/full leg
+4
+Torso/liminal chassis
+6
+For each point of Rating, 
+the modified limb gains +1 Capacity.
+>> CHROME FLESH <<
+86    SHINY: THE LATEST CHROME >>
+
+
+===== PDF page 90 =====
+CYBERLIMBS
+CYBERWARE
+ESSENCE
+CAPACITY
+AVAILABILITY
+C0ST
+Primitive prosthetics
+     Hand/foot
+—
+—
+—
+20¥
+     Partial arm/leg
+—
+—
+—
+100¥
+     Full arm/leg
+—
+—
+—
+250¥
+Built-in medkit
+0.45
+[10]
+8
+1,000¥ (+ medkit)
+Built-in toolkit
+0.45
+[10]
+4
+2,000¥
+Bulk modification (1–6)
+—
++ (Rating)
++ (Rating)
+(Rating) x 500¥
+Cyberfingers
+0.05
+[1]
+2
+500¥
+     Cyberlight
+0.05
+[1]
+4
+550¥
+     Cyberlighter
+0.05
+[1]
+4
+550¥
+     Finger grenade
+0.05
+[1]
+(Grenade) +4
+(Grenade) + 500¥
+     Finger pistol
+0.05
+[1]
+8R
+1,000¥
+Cyberlimb optimization
+—
+[2]
+(Limb) +2
+(Limb) + 2,000¥
+Digigrade legs
+(Leg) + 0.25
+[4]
+(Leg) +4
+(Leg) + 5,000¥
+Grapple hand
+0.45
+[10]
+12R
+2,000¥
+Improved synthskin (1-4)
+—
+[(Rating) X 2]
+(Rating) X 4
+(Rating) x 5,000¥
+Liminal body
+     Centaur
+3.0
+80
+12
+80,000¥
+     Wheeled
+2.5
+40
+8
+40,000¥
+     Tank!
+3.0
+60
+12R
+50,000¥
+Monkey foot
+0.3
+[2]
+8
+6,000¥
+Modular connector
+     Wrist/ankle
+0.1
+[5]
+4
+2,000¥
+     Elbow/knee
+0.2
+[10]
+8
+4,000¥
+     Shoulder/hip
+0.3
+—
+12
+6,000¥
+Modular limb
+     Hand/foot
+0.25
+(Limb) — 1
+(Limb) + 2
+(Limb) + 1,000¥
+     Partial arm/leg
+0.45
+(Limb) — 2
+(Limb) + 2
+(Limb) + 2,000¥
+     Full arm/leg
+1
+(Limb) — 3
+(Limb) + 2
+(Limb) + 3,000¥
+Partial cyberskull
+0.4
+4
+12
+8,000¥
+Raptor foot
+0.5
+[4]
+8R
+8,000¥
+Skates
+—
+[2]
+4
+250¥
+Skimmers
+—
+[4]
+8
+2,000¥
+Snake fingers
+—
+[2]
+6
+1,000¥
+Telescopic limbs (1–2)
+—
+[Rating] x 3
+[Rating] x 4
+[Rating] x 1,000¥
+Water jet
+—
+[4]
+8
+1,000¥
+>> CHROME FLESH <<
+<< SHINY: THE LATEST CHROME    89
+
+
+===== PDF page 155 =====
+twenty-four hours. Nanospies are capable of effective-
+ly monitoring events within five meters. Beyond that, 
+image and sound distortion makes capture unfeasible.
+SAVIOR MEDKIT
+Originally developed by Shiawase Biotech but now 
+available from several corps, these advanced medkits 
+combine cutting-edge nanotech and advanced expert 
+systems. When activated, the medkit injects enough 
+nanites to last five minutes into its subject. The sav-
+ior then acts as a Rating 6 medkit and follows all the 
+normal rules for medkits (p. 450, SR5). If the patient is 
+bleeding out, the savior’s nanites act as a trauma con-
+trol system (p. 148) for the duration. The savior’s sup-
+ply of nanites is limited, and it must be restocked every 
+time it is used.
+SMART CORROSIVES
+This system consists of a swarm of nanites suspended 
+in a clear chemical solution. Each nanite carries a pay-
+load of a corrosive compound. When applied, these 
+nanites are programmed to bind to a certain substance 
+and use the corrosive to melt it. Because the nanites 
+only activate when in contact with the target sub-
+stance, the corrosive is applied in a manner that affects 
+only the target, while everything around it remains un-
+touched. Smart corrosive solutions can be applied via 
+squirtguns, spray canisters, splash grenades, and a va-
+riety of other methods. Each solution is configured to 
+corrode only a specific substance, from skin to metal to 
+plasteel—the corrosive carried by the nanites will affect 
+only that substance. On contact, smart corrosives deal 
+10P(acid) damage to the substance it is programmed 
+to affect. It must be washed or scraped off to prevent 
+continuing damage.
+UNIVERSAL SEALANT
+This nanotech application is used extensively in space 
+and undersea habitats and is becoming increasing 
+common in a number of fields. It employs nanites sus-
+pended in a polymer gel/foam that hardens upon con-
+tact with air. When deployed (normally via handheld 
+spray or squirtgun), the nanites bind seams, fracture 
+NANOGEAR
+NANOGEAR
+RATING
+ESSENCE
+CAPACITY
+Altskin (per application)
+Hard
+10
+1,250¥
+     Armor
+—
++3
++500¥
+     Chameleon
+—
++2
++250¥
+     Newprint
+—
++4F
++(Rating x 200¥)
+     Sealer
+—
++1
++250¥
+     Shifter
+—
++2
++250¥
+Etchers
+Hard
+8
+500¥
+Monowire (per meter)
+Hard
+14R
+1,000¥
+Nanopaste disguise
+     Small container
+Hard
+12F
+350¥
+     Large container 
+Hard
+16F
+700¥
+Nanoscanner
+—
+8
+As sensor
+NanoSpy (per application)
+Hard
+14F
+10,000¥
+Savior medkit
+—
+6
+2,000¥
+Savior medkit supplies
+Hard
+4
+300¥
+Smart corrosives (per 
+application)
+Soft
+10R
+4,000¥
+Universal sealant (per 
+application)
+Hard
+10
+250¥
+>>	
+CHROME FLESH <<
+154    HACKING THE METAHUMAN CODE >>
+
+
+===== PDF page 223 =====
+>> CHROME FLESH <<
+HEADWARE
+DEVICE
+ESSENCE
+CAPACITY
+AVAILABILITY
+C0ST
+REF
+Attention coprocessor
+0.2
+[1]
+8
+3,000¥
+p. 78
+Chipjack (1-6)
+(Rating) x 0.05
+—
+(Rating) x 2
+(Rating) x 1,000¥ 
+p. 79
+Commlink
+0.2
+[2]
+—
+2,000¥ + commlink 
+cost
+p. 451, SR5
+Control rig
+     Rating 1
+1
+—
+5R
+43,000¥
+p. 452, SR5
+     Rating 2
+2
+—
+10R
+97,000¥
+p. 452, SR5
+     Rating 3
+3
+—
+15R
+208,000
+p. 452, SR5
+Cortex bomb
+0.45
+[10]
+8
+1,000¥ (+ medkit)
+     Kink
+0
+[1]
+12F
+10,000¥
+p. 452, SR5
+     Microbomb
+0
+[2]
+16F
+25,000¥
+p. 452, SR5
+     Area bomb
+0
+[3]
+20F
+40,000¥
+p. 452, SR5
+Cyberdeck
+0.4
+[4]
+5R
+5,000¥ + deck cost
+p. 452, SR5
+Datajack
+0.1
+—
+2
+1,000¥
+p. 452, SR5
+Data lock (Rating 1-12)
+0.1
+—
+Rating x 2
+Rating x 1,000¥
+p. 452, SR5
+Dream link
+0.1
+—
+8
+1,000¥ 
+p. 79
+False face
+0.5
+[8]
+12R
+20,000¥ 
+p. 79
+Knowledge hardwires (1-6)
+Rating x 0.05
+—
+Rating
+Rating x 2,000¥ 
+p. 80
+Math SPU
+0.1
+[1]
+8
+2,000¥ 
+p. 80
+Olfactory booster (1-6)
+0.2
+—
+Rating x 3
+Rating x 4,000¥
+p. 452, SR5
+Orientation system
+0.2
+[1]
+4
+500¥ 
+p. 80
+Radar sensor (1-4)
+Rating x 0.25
+[Rating]
+Rating x 3
+Rating x 4,000¥ 
+p. 80
+Simrig
+0.2
+—
+12R
+4,000¥
+p. 452, SR5
+Skilljack
+Rating x 0.1
+—
+Rating x 2
+Rating x 10,000¥
+p. 452, SR5
+     Skillwires
+Rating x 0.2
+—
+Rating x 3
+Rating x 20,000¥ 
+p. 455, SR5
+     Knowsoft
+—
+—
+Rating x 1
+Rating x 2,000¥ 
+p. 442, SR5
+     Activesoft
+—
+—
+Rating x 2
+Rating x 5,000¥ 
+p. 442, SR5
+     Linguasoft
+—
+—
+Rating x 1
+Rating x 1,000¥ 
+p. 442, SR5
+Synthlink
+0.1
+[1]
+4
+1,000¥ 
+p. 81
+Taste booster
+0.2
+—
+Rating x 3
+Rating x 3,000¥
+p. 452, SR5
+Tooth compartment
+—
+—
+8
+800¥
+p. 452, SR5
+Ultrasound sensor (Rating 
+1-6)
+0.25
+[2]
+10
+Rating x 12,000¥
+p. 452, SR5
+Visualizer
+0.1
+—
+8
+2,000¥ 
+p. 81
+Voice mask
+0.1
+—
+8F
+2,000¥ 
+p. 81
+Voice modulator (Rating 
+1-6)
+0.2
+—
+Rating x 3F
+Rating x 5,000¥
+p. 452, SR5
+The tables below list all of the augmentations from Chrome Flesh, Stolen Souls, and the Shadowrun, Fifth Edition 
+core rulebook.
+222    COMPILED AUGMENTATION TABLES >>
+
+
+===== PDF page 225 =====
+>> CHROME FLESH <<
+224    COMPILED AUGMENTATION TABLES >>
+BODYWARE
+DEVICE
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+REF
+Active hardwires
+Rating x 0.05
+—
+Rating x 2
+Rating x 4,000¥
+p. 81
+Auto-Injector
+0.05
+—
+2
+(Rating) x 1,000¥ 
+p. 81
+     Reusable (1 dose)
+0.05
+—
+2
+500¥ + contents 
+p. 81
+     Expanded reservoir (+5 
+doses)
+0.05
+—
+4
+250¥ + contents 
+p. 81
+     Killswitch
+0.05
+—
+8F
+750¥ + contents 
+p. 82
+Balance tail
+0.25
+—
+8
+2,000¥ 
+p. 82
+Biomonitor
+0.1
+[1]
+2
+500¥ 
+p. 82
+Biowaste storage 
+Rating x 0.1
+[Rating]
+8
+Rating x 500¥ 
+p. 82
+Bone lacing
+     Plastic
+0.5
+—
+8R
+8,000¥
+p. 454, SR5
+     Aluminum
+1
+—
+12R
+18,000¥
+p. 454, SR5
+     Titanium
+1.5
+—
+16R
+30,000¥
+p. 454, SR5
+Breast implant
+0.05
+—
+2
+250¥ 
+p. 73
+Breast implant 2.0
+0.1
+[1]
+4
+1,000¥ 
+p. 73
+Casemod
+—
+—
+4
+50-10,000¥
+p. 72
+Cosmetic surgery
+0.1
+—
+2
+100-20,000¥ 
+p. 73
+Cyberfins
+0.05
+[1]
+8
+500¥ 
+p. 82
+Cyber genitalia
+0.25
+[1]
+6
+2,000¥ 
+p. 73
+Cybersafety
+—
+[1]
+4
+100¥ 
+p. 83
+Dermal plating (Rating 1-6)
+Rating x 0.5
+—
+(Rating x 4)R
+Rating x 3,000¥
+p. 454, SR5
+Fiberoptic hair
+0.1
+[1]
+—
+100¥+ 
+p. 73
+Fingertip compartment
+0.1
+[1]
+4
+3,000¥
+p. 454, SR5
+Flex hand
+0.15
+—
+8
+1,500¥ 
+p. 83
+Foot anchor
+0.25
+[3]
+10
+2,000¥ 
+p. 83
+Gastric neurostimulator
+0.2
+—
+4
+2,000¥ 
+p. 84
+Grapple gun
+0.5
+[4]
+8
+5,000¥
+p. 455, SR5
+Internal air tank (Rating 1-3)
+0.25
+[3]
+Rating
+Rating x 4,500¥
+p. 455, SR5
+
+
+===== PDF page 227 =====
+>> CHROME FLESH <<
+226    COMPILED AUGMENTATION TABLES >>
+CYBERLIMBS
+DEVICE
+ESSENCE
+CAPACITY
+AVAILABILITY
+C0ST
+REF
+Obvious limbs
+     Full arm
+1
+15
+4
+15,000¥
+p. 456, SR5
+     Full leg
+1
+20
+4
+15,000¥
+p. 456, SR5
+     Hand/foot
+0.25
+4
+2
+5,000¥
+p. 456, SR5
+     Lower arm
+0.45
+10
+4
+10,000¥
+p. 456, SR5
+     Lower leg
+0.45
+12
+4
+10,000¥
+p. 456, SR5
+     Torso
+1.5
+10
+12
+20,000¥
+p. 456, SR5
+     Skull
+0.75
+4
+16
+10,000¥
+p. 456, SR5
+Synthetic limbs
+0
+[1]
+12F
+10,000¥
+p. 452, SR5
+     Full arm
+1
+8
+4
+20,000¥
+p. 456, SR5
+     Full leg
+1
+10
+4
+20,000¥
+p. 456, SR5
+     Hand/foot
+0.25
+2
+2
+6,000¥
+p. 456, SR5
+     Lower arm
+0.45
+5
+4
+12,000¥
+p. 456, SR5
+     Lower leg
+0.45
+6
+4
+12,000¥
+p. 456, SR5
+     Torso
+1.5
+5
+12
+25,000¥
+p. 456, SR5
+     Skull
+0.75
+2
+16
+15,000¥
+p. 456, SR5
+Primitive prosthetics
+     Hand/foot
+—
+—
+—
+20¥
+p. 86
+     Partial arm/leg
+—
+—
+—
+100¥
+p. 86
+     Full Arm/Leg
+—
+—
+—
+250¥
+p. 454, SR5
+Customization
+     Each STR or AGI point 
+above 3
+—
+—
+Cyberlimb + 1
++5,000¥
+p. 456, SR5
+Enhancements
+     Agility (Rating 1-3)
+—
+Rating
+(Rating x 3)R
+Rating x 6,500¥
+p. 456, SR5
+     Armor (Rating 1-3)
+—
+Rating
+Rating x 5
+Rating x 3,000¥
+p. 456, SR5
+     Strength (Rating 1-3)
+—
+Rating
+(Rating x 3)R
+Rating x 6,500¥
+p. 456, SR5
+Cyberlimb accessories
+Built-in medkit
+0.45
+[10]
+8
+1,000¥ (+ medkit)
+p. 86
+Built-in toolkit
+0.45
+[10]
+4
+2,000¥
+p. 86
+Bulk Modification (1-6)
+—
++ (Rating)
++ (Rating)
+(Rating) x 500¥
+p. 86
+Cyberarm gyromount
+—
+[8]
+12F
+6,000¥
+p. 456, SR5
+Cyberarm slide
+—
+[3]
+12R
+3,000¥
+p. 456, SR5
+
+
+===== PDF page 237 =====
+>> CHROME FLESH <<
+236    COMPILED AUGMENTATION TABLES >>
+NANOCYBERNETICS
+NANOGEAR
+DEVICE
+RATING
+ESSENCE
+CAPACITY
+AVAIL
+COST
+REF
+Dynamic handprints
+—
+0.2
+—
+12F
+Rating x 21,00¥ 
+p. 151
+Flashback system
+—
+0.3
+—
+8R
+6,000¥ 
+p. 151
+Nanohive
+Hard
+1–6
+Rating x 0.25 
+[2]
+(Rating x 5)R Rating x 12,000¥ 
+p. 151
+Soft
+1–6
+Rating x 0.2
+—
+(Rating x 5)R Rating x 10,000¥ 
+p. 151
+Retinal adjusters
+—
+0.2
+—
+16F
+Rating x 19,000¥ 
+p. 151
+Smartskin
+1–6
+Rating x 0.5
+—
+(Rating x 5)F
+Rating x 5,000¥ 
+p. 151
+Voice mimic
+1–6
+0.2
+—
+16F
+Rating x 20,000¥ 
+p. 152
+DEVICE
+TYPE
+AVAIL
+COST
+REF
+Altskin (per application)
+Hard
+10
+1,250¥ 
+p. 152
+     Armor
+—
++3
++500¥ 
+p. 152
+     Chameleon
+—
++2
++250¥ 
+p. 152
+     Newprint
+—
++4F
++(Rating x 200¥) 
+p. 153
+     Sealer
+—
++1
++250¥ 
+p. 153
+     Shifter
+—
++2
++250¥ 
+p. 153
+Etchers
+Hard
+8
+500¥ 
+p. 153
+Monowire (per meter)
+Hard
+14R
+1,000¥ 
+p. 153
+Nanopaste disguise
+     Small container
+Hard
+12F
+350¥ 
+p. 153
+     Large container 
+Hard
+16F
+700¥
+p. 153
+Nanoscanner
+—
+8
+As sensor 
+p. 153
+NanoSpy (per 
+application)
+Hard
+14F
+10,000¥ 
+p. 153
+Savior medkit
+—
+6
+2,000¥ 
+p. 154
+Savior medkit supplies
+Hard
+4
+300¥ 
+p. 154
+Smart corrosives (per 
+application)
+Soft
+10R
+4,000¥ 
+p. 154
+Universal sealant (per 
+application)
+Hard
+10
+250¥ 
+p. 154

@@ -1,0 +1,1774 @@
+==== R5 110 ====
+“I trust the remainder of your team accepts my offer,” Mr. 
+Johnson said flatly.
+Get smiled. “They wouldn’t send me in to negotiate if they 
+didn’t.”
+Mr. Johnson had already questioned why the team’s rig-
+ger was doing the meet. It wasn’t a direct question, Johnsons 
+were rarely direct until it was time to screw you over. Instead 
+he simply asked where Tact was and then accepted Get’s an-
+swer with a predatory smile. Get wasn’t a skilled negotiator, 
+and he knew the Johnson had gotten the better end of the 
+deal for the price of a five-man team. But Get wasn’t part of 
+a five-man team today; he was one man, with a wide array of 
+skills and drones to cover any job some other runner might 
+do. Except for negotiating. He hadn’t found a good negotia-
+tions drone yet. Yet.
+The best part wasn’t even the money. It was nice that it 
+was all his, and though he’d probably lose a drone or two—
+he usually did—the pay was plenty to replace those he lost. 
+No, the best part was not having to deal with the drama of a 
+bunch of other runners. Posturing for alpha, divvying the pay 
+unevenly because the mage always thought they deserved 
+more, testing the face to make sure he hadn’t skimmed a little 
+extra for himself, dealing with some drama or another caused 
+by the street razor because karma was catching up with their 
+murderous ways. None of it. None of that bullshit. Get was 
+alpha, Get got all the money, and Get knew all his own drama. 
+“Well then. We are agreed. Your upfront payment is avail-
+able now. The remainder will be paid upon delivery of the 
+item. Good luck to you and your team.” 
+Get’s reply was a quick, “Thanks!” It was all he had time 
+for before Mr. Johnson stepped back out into the dimly lit bar. 
+Alone in the back room, Get pulled up diagnostics for all 
+of his active drones and lined them up along the right side of 
+his AR window based on altitude. Every one was green across 
+the board despite the local interference. Thanks to his scrub-
+ber program, the Vulcan’s premium CleanAir technology, and 
+the filtration hardware in the Transys datajack, the signal for 
+even his farthest drone was perfect. At the top of the ARO 
+stack, and over a kilometer overhead, was the center of Get’s 
+network, a modified Aerodesign Systems Condor LBSD-41. 
+The mini-blimp was based on the old and sturdy frame, but all 
+of the internals had been updated based on Get’s own per -
+sonal design specs. The systems weren’t milspec, but they 
+were better than anything you could buy and he never had 
+issues with compatibility or corpsec backdoors. 
+Early in his career Get had learned that lesson the hard 
+way. He hadn’t earned the grease behind his ears and took a 
+stock MCT-Nissan Roto-Drone on a job inside MCT property. 
+ONE RIG TO 
+RULE THEM ALL
+110    >> ONE RIG TO RULE THEM ALL  <<
+
+==== R5 111 ====
+When the drek hit the fan, the local combat decker slipped 
+a simple shutdown command through the backdoor. Get 
+watched the Roto-Drone autorotate back to the ground right 
+in front of the security force leapfrogging up to push his team 
+out. To rub some salt in the wound, one of the guards even 
+used the drone as cover for a moment and gave the blades a 
+little spin as he moved away.
+Get had learned a lot since then.
+He issued a command series to the Condor to get it under-
+way. It wasn’t fast, and it would take a while for it to get to the 
+target location. He needed his hub in place ASAP—Get wasn’t 
+wasting time getting started on this op. The commands would 
+bring the Condor closer to the nearest dronestream, where it 
+would drop the sneaky ninja act and slide into the flow as 
+an advertising mini-blimp. Wing’s Asian Take-out would get a 
+little extra advertising tonight. 
+Once the commands were set, the ARO slid over to the 
+left. As it slipped into virtual place two bars—one green, 
+one blue—popped up next to it. Green was a status bar that 
+warned Get of any issues the drone was having so he could 
+check it out and maybe jump in to get it out of trouble. The 
+blue bar was already getting smaller as it represented the 
+progress of the Condor on its commands. It would flash once 
+it got close to completion. 
+Next up for commands was the third icon down his right-
+side AROs. Numbers one and two were custom MCT-Nissan 
+Roto-Drones located inside number three, a GMC Bulldog 
+kitted for drone hauling. The GMC had a half-dozen other 
+drones inside, but none of them were currently active. Get 
+logged commands for the Bulldog to get underway, park on 
+the top floor of a garage a block from the target location, and 
+activate three more of the drones it was carrying: a Dober -
+man, a Crawler, and a Fly-Spy. 
+After only two minutes, Get had commands out through 
+his rig to a dozen drones as he dropped into the driver’s seat 
+of the Americar he had rented when he first got to the island. 
+The vehicle wasn’t rigger friendly, but that was fine, Get en-
+joyed some manual operation every once in a while. Soon 
+enough he’d leave this car behind and start the job in ear -
+nest, but for the next twenty minutes, he focused on the road 
+ahead and drove the old-fashioned way.  
+✖
+The sensation was similar to zero-g, but Get knew gravity was 
+there. He was just lighter than air. Air that held a bit of a chill 
+at his current elevation of 964.25 meters. It was 8.3 degrees 
+cooler up here than at the ground. Temperatures varied all 
+>> ONE RIG TO RULE THEM ALL  <<    111
+BY SCOTT SCHLETZ
+
+==== R5 112 ====
+over Get’s vision. The land was still warm, even hours after 
+the sun had set. Spots of intense heat showed the locations 
+of lights along the streets that warm blobs glided along. A few 
+bright areas flickered—fires or tiki torches at the resort. The 
+waterfront was a shimmering mix of cool water pulling heat 
+from hot sand with each crashing wave. A line of hot blobs 
+zipped along in the space between Get and the ground, cre-
+ating a river of warmer air with their exhaust and motor heat. 
+Get reached up and pulled the overlay back into his view. 
+It was thrilling to take some time to get the full feeling of be-
+ing the Condor almost a kilometer above San Juan, but work 
+called. The overlay added all of his currently active drones to 
+his field of view. He now had nine icons on the right side of 
+the screen, each with a thin line connected to a matching icon 
+in his field of view. Several were so close together the icons 
+overlapped at this distance. Though distance was irrelevant 
+with his current eyes. He did a flash zoom and made sure 
+things were five by five in the overlaps. Years of experience 
+taught the double-check, and it paid off. Get sent a quick 
+command to move the microskimmer. Its final position only 
+shifted by two meters, but it stayed out of sight by gliding 
+along the wall and around to the other side instead of go-
+ing over. That little hiccup wouldn’t have ruined the op, but it 
+could have started it all off on the wrong foot. 
+With that one move, everything was in place. It was time 
+for Get to conduct the symphony.
+✖
+Get’s VR persona, a symphony conductor with airman’s gog-
+gles on his forehead, permanently grease-stained fingers, 
+and vintage Wolverine work boots, sat in the high-backed 
+chair that represented the center of operations for his Vulcan 
+Liegelord. He knew other riggers often customized their cap-
+tain’s chair mode, but Get didn’t find it necessary. He spent 
+most of his time jumped in and using the Condor to feed him 
+overall tactical data while he enjoyed the sensations of real 
+rigging. While his persona was that of a conductor, he was 
+more like first chair for every instrument. 
+Next up was a little piccolo. 
+✖
+Zipping around through the air was exhilarating. His back 
+hummed with the beating of his tiny wings as he dipped and 
+dodged around the various shorts-clad tourists of San Juan’s 
+Condado district. He avoided several swatting hands as he 
+buzzed past ears just for the fun of it, and then quickly chas-
+tised himself for risking the job. Get was currently in his most 
+fragile drone, an MCT Fly-Spy, and a single lucky swing could 
+end the tiny microdrone. 
+He flew higher to avoid the crowds and remove the urge 
+to buzz people with his large wasp-like form. It gave him a 
+clear view of his target striding quickly along the sidewalk. 
+The man’s movement was too fast for a stealthy approach. 
+Get kept his altitude, buzzing right along the side of the 
+huge hotel that held his final quarry, and got directly over the 
+quick-stepping target of phase one. 
+The man’s movements were unexpected. Get had consid-
+ered several options for infiltration, and this was the best, but 
+he never thought a guy delivering flowers would be trying to 
+set land speed records. A string of petals had already been lost 
+along the route from flailing arms. His haste, and damage to 
+the roses—nice, expensive roses—made Get feel a little better 
+that no one would be tipping him for his speedy delivery. 
+But no tip didn’t solve his problem. He didn’t have many 
+options this early in the plan. The Roto-Drones weren’t in 
+place yet, and while the other drones were, nothing they did 
+right now would slow the world’s fastest flower deliverer. It 
+was up to him.
+Get buzzed ahead and landed smoothly on the back of 
+a streetlight. As his tiny metallic feet grabbed hold, he could 
+immediately feel them tingle from nearby vibrations in the 
+metal. Quickly rotating in place, he turned to see the long yel-
+low-and-black legs of a spider appearing as it emerged from 
+a rusty hole in the metal only a few centimeters from Get’s 
+landing spot. 
+Once out, the spider raised up four of its front legs in a 
+harrowing threat display. The position gave Get a clear view 
+of the arachnid’s fangs, and he understood why other insects 
+might back off. Problem was, he couldn’t. He needed this 
+spot. Get was bigger, though only barely, but the spider was 
+clearly defending its territory and not about to let some wasp 
+claim his spot. 
+While the move might risk the entire operation Get hun-
+kered down to do battle with a banana spider.
+✖
+Seconds later, and none the worse for wear, Get was once 
+again on mission. He focused on the approaching target 
+while trying not to be distracted by the woman screaming 
+below him who had just received a stunned banana spider 
+in her hair. It was a doubly lucky encounter. Get learned he 
+was pretty good at fighting spiders, and the woman’s panic 
+slowed the floral courier enough for Get’s next move.
+Get launched himself downward toward the courier. 
+Wings folded back and wind zipping over his narrowed form, 
+he made slight adjustments over the short flight. His aim was 
+perfect as he reached the space right next to the delivery -
+man’s ear, opened up to rapidly slow, and then started beat-
+ing his wings rapidly. 
+The old bug in the ear trick worked perfectly. While a hand 
+swung up to swat him away, Get landed lightly on the man’s low-
+er back. After a few more swings at nothing, the man stopped to 
+look around and Get quickly buzzed over to the flowers, crawled 
+down inside, and jumped over to the next phase.
+✖
+112    >> ONE RIG TO RULE THEM ALL  <<
+
+==== R5 113 ====
+Hovering only a millimeter off the ground near a small pile of 
+trash, Get looked like yet another discarded piece of tech. He 
+took in his surroundings quickly and found the narrow alley 
+just as he expected. Some rats, insects, a few arachnids that 
+he hoped weren’t telepathic and holding grudges, and a wide 
+array of garbage. Most importantly, flammable garbage. 
+Buzzing up a few centimeters, he extended his arm and 
+flicked his thumb. The microwelder in the microskimmer’s tiny 
+arm tool sparked to life. It took a few passes to clear the ev-
+er-present moisture caused by the Borinquen humidity, but 
+in under a minute the trash of the alley was all ablaze and 
+the microskimmer started skimming along the walls headed 
+towards the hotel where all the action would be while Get 
+moved on. 
+✖
+ Skimming along always felt so different from true flight. While 
+he was excited for this next phase, Get made sure to pull the 
+status display up for all the drones. Zooming along within the 
+dronestream that buzzed over Expo Baldorioty de Castro, 
+Get ran down the right side and issued commands to each 
+drone. He ordered the Condor to move south fifty meters to 
+get an angle around the rising smoke. The microskimmer he 
+had just departed was commanded to continue to the ren-
+dezvous. The Crawler got orders to dismount the Doberman. 
+The Doberman got commands to tuck in next to the lift and 
+activate its ruthenium systems. The Fly-Spy was ordered to 
+gain visuals but stay hidden. The other Roto-Drone was told 
+to reduce following distance from fifty to twenty-five meters. 
+The second microskimmer got cleared to execute its tagging 
+program. The Nightrunner was released to run its preset pilot 
+sequence. The Artemis received the command to unfurl its 
+wings. And the Bulldog was ordered to move to the lower 
+level of the parking garage. 
+It was all done in a matter of seconds. No arguments, no 
+suggestions, and no drama. This was the part Get loved.
+Still in the dronestream over the highway Get located 
+the smoke rising in the distance and spotted a trio of drones 
+headed in that direction. Two were Roto-Drones, and the 
+third was a Spinmaster, the specialized media drone from 
+Cyberspace Designs. Both Roto-Drones had cameras mount-
+ed where most runners see guns, and Get had his window. 
+He broke away from the dronestream and zipped ahead into 
+formation with the other drones as they bee-lined it for the 
+smoke. As Get flew over Avenue Ashford, he received the 
+local policia command to maintain standard media distances. 
+The message had override codes that Get ignored, but he still 
+followed orders. No one was going to notice a failed com-
+mand if the drone still followed protocol.
+Get got himself lined up with a nice view of the hotel’s 
+front and back doors, the burning alley of trash, and the ga-
+rage where the Bulldog was just now slipping into a parking 
+space on the first floor. He unfurled his media ARO for all to 
+see. Then he found himself in a cloud of smoke.
+✖
+The smoke swirled all over from Get’s tiny little turbofans. 
+He finished dotting the exclamation point and then zipped 
+up ten meters into the air. He brought his open palm to his 
+mouth and blew. The air around him was suddenly filled with 
+thousands of AROs. They were all too close together to read 
+just yet, but as they moved out and got distance from each 
+other, the message became clear.
+No More NATVAT! 
+AZTECH OUT!
+✖
+Get drifted in a little closer to the other media drones. He un-
+furled his media ARO while lining up a great shot of the little 
+Microskimmer as it buzzed off towards the water and away 
+from the cloud of RFID tags it had just spewed into the air. 
+Get recorded the RFID graffiti for later use and set his po-
+sition with a clear view of the alley and the derelict, graffiti 
+covered building where this orchestra was really being con-
+ducted from. At his current elevation and angle he couldn’t 
+see the Artemis unfurled on the balcony or its unconscious 
+cargo, but he knew it was there from the feeds the Condor 
+was offering.
+Everything was going as planned.
+✖
+The view was terrible. Plastic, even the slightly more expen-
+sive stuff the ritzy flower shop used, was not easy to look 
+through. Get risked an early discovery and sliced a small slit 
+in the plastic, and then he pressed his little wasp head in close 
+to see out.
+He was thankful the deliveryman wasn’t walking as quick-
+ly and was finally holding the flowers steady. They were near-
+ing the room for delivery; Get could see the numbers on the 
+doors as they passed, so the deliveryman was on his best be-
+havior. 
+Get played back a little footage from the Fly-Spy’s record 
+and discovered the act had started shortly after he stopped at 
+the front desk, and it wasn’t because he was a consummate 
+professional. The deliveryman had an escort. 
+Get couldn’t see who was with him, but he could hear the 
+other man’s footsteps. They were almost in step, but the es-
+cort had a heavier footfall. Knowing the other man was there, 
+Get watched the shadows and figured out the other man’s 
+position. Not too far, not too close. Probably hotel security. 
+Get tucked back in and watched through the plastic, he 
+wasn’t going to get this close just to get spotted by some ho-
+tel mook.
+✖
+>> ONE RIG TO RULE THEM ALL  <<    113
+
+==== R5 114 ====
+Get scurried up the stairs quickly. He extended an arm and 
+activated the dock lift. 
+✖
+Get rolled quietly over to the lowered lift. He checked his gun, 
+locked and loaded, and the case he carried. Everything was 
+just as it should be. Some security had been making their way 
+through an industrial-looking back hallway of the hotel, but 
+a few Dragonfly drones at his disposal had given him a look 
+at the situation, and a quick hack took over a cleaning drone 
+that spewed soap on the floor. Following that up with nipping 
+attacks from the drones would keep the mooks confused and 
+occupied. They would stay away while he worked.
+✖
+“… didn’t order any fucking flowers. Now slot off.”
+Get could hear the anger in the man’s voice immediately. 
+Things weren’t going well for the flower deliveryman.
+“This is the address and room number. This says they go to 
+Mr. Tom Garfield, with love P. Kat. These things are expensive. 
+Really expensive.”
+Get heard the delivery guy trying to work something for 
+himself and enjoyed a little internal chuckle at the names. 
+There wasn’t a damn thing he could do about what happened 
+next. 
+Get was suddenly crushed inside the plastic prison. His 
+ears rang from the crackling plastic as he was jerked quickly. 
+He thought it was toward the room, but he couldn’t be sure. 
+Pain lanced through his arms and legs as they were caught 
+and twisted in what he could only guess was the doorman’s 
+grip. 
+The crushing lessened, replaced by a feeling of weight-
+lessness and then a crashing of everything around him. More 
+pain hit his back as rose thorns jabbed through his thin wings. 
+He jumped away to escape the pain. 
+✖
+Get hopped over to the door and cut through the glass with 
+a laser on his arm. He caught the falling glass, set it aside, 
+crawled through the opening, and opened the door for the 
+approaching Doberman. He was still a little shaken from the 
+damage to the Fly-Spy. According to the display it was still 
+operational, though he knew several systems, including flight, 
+were not going to be operational. It only had one more task. 
+Hopefully it could manage. 
+Get led the Doberman to the service elevator and hit the 
+call button after climbing on the larger drones nearly invisible 
+back. The ruthenium was doing a great job of keeping the big 
+perimeter drone out of sight. It helped that they hadn’t run 
+into anyone yet either.
+When the elevator arrived, that changed. 
+✖
+Get watched the Crawler scurry for the corner, taking the 
+attention of the two men in the elevator with it. Two quick 
+shots later and both men were writhing on the floor, electric-
+ity coursing through their bodies. Get put an extra round into 
+each, just in case, and pushed their twitching bodies out of 
+the way as he rolled into the elevator.
+✖
+It was always a strange feeling to have pain in a place that 
+didn’t normally exist on your body. Get’s wings were killing 
+him. One was cracked, the other pierced by rose thorns, and 
+they were both trashed. His legs were in a little better shape, 
+with three and a half still operational. It was enough to crawl, 
+and that was all he needed. 
+Well, that and the lens. 
+Get had hindered nearby hacking by filling the air with 
+RFID tags. Physical security could be zapped like the waitstaff, 
+and the bulky cameras on the Roto-Drones shot something 
+other than pictures. Magic was usually the issue. That’s where 
+the lens came in. 
+Get crawled slowly through the wreckage of the flowers 
+and found the slit he had already started. Before slipping 
+through he lowered the small green lens into place in front 
+of his right eyes. As he pushed through the plastic, the room 
+came into clear view. 
+It was a decent suite, and he could see everywhere but 
+behind the half-wall area that looked like a little kitchen or bar. 
+There were three people in the room, and he could see them 
+talking but couldn’t hear them. When Get made the realiza-
+tion that his hearing was gone, he also realized he probably 
+wasn’t as stealthy as he thought moving through the flowers. 
+The lens cast green over everything. Living things came 
+up a slightly lighter green. Awakened things were nearly 
+white. The three men in the room ran the gamut of colors. 
+It was all the info he really needed. He would have loved to 
+have the Fly-Spy in place when the Doberman arrived, but the 
+sudden appearance of a massive cat head sent Get straight 
+into the hallway.
+✖
+The Crawler wrapped a few times on the door, and Get could 
+hear the people inside coming closer and talking. “Better not 
+be another flower delivery. I’ll shoot this one.”
+There was a long pause when the man arrived at the door, 
+most likely as he peered through the peephole and saw noth-
+ing, but it eventually opened a crack. 
+Get watched the Crawler jam a leg through the space but 
+focused primarily on his efforts to shoot the leery ork eye as 
+he peered through the sliver of open door. Though Stick ‘n’ 
+Shock rounds are not intended to cause permanent harm, 
+Get was sure the ork would need a new eye once he woke up. 
+114    >> ONE RIG TO RULE THEM ALL  <<
+
+==== R5 115 ====
+Gunfire followed almost instantly. Get had expected that 
+when he saw one of the other fellows in the room was pretty 
+close to matching the furniture through the Fly-Spy’s lens. 
+Unaware of danger and simply following orders, the 
+Crawler pushed open the door, or at least the remains of the 
+door, and scurried into the room in front of Get. Switching 
+weapons, Get fired a thick stream of greenish-gold liquid into 
+the room. 
+The coughing began immediately, but that wasn’t Get’s 
+purpose for hosing the room down with concentrated liquid 
+chlorine. Sure, it slowed the goons down, but the minute the 
+first drop of that stuff hit the air, the real target was on the 
+move. 
+✖
+Get tucked his legs in and prepared to leap into action from 
+his spot behind the half-wall. He issued a quick command to 
+the Doberman and then scrambled out into the path of the 
+cat as it ran for the door. When measuring the gracefulness of 
+things in the Sixth World, riggers can often move their drones 
+far beyond what others would expect. That said, Get had yet 
+to determine how to make a ten-kilo chunk of metal, plastic, 
+and servos match the grace of even the clumsiest of felines. 
+And this was not a clumsy feline.
+✖
+As the Crawler tumbled from losing the grace-inducing com-
+mand of the rigger interface, Get tried not to notice that it 
+landed right in front of the doorway to the other room of the 
+suite. If the guards over there weren’t totally incapacitated by 
+the chlorine, he was going to be out another drone. 
+Instead of watching another couple grand get trashed, Get 
+kept his eyes on the prize. Or more specifically, his targeting 
+reticle on the cat. The clumsy strike with the Crawler forced 
+the cat to leap up and off the remains of the door and then 
+out into the hallway. 
+Get watched and tracked the cat’s movement until it 
+cleared the frame where his shot would no longer risk send-
+ing the cat back into the room. Then he fired. 
+At that range, the blast from the barrel peeled away fur 
+and chunks of flesh before the Stick ‘n’ Shock round even 
+cleared the barrel. When it hit, the cat spun in the air, did a 
+little herky-jerky twitch, and then landed on all fours, moving 
+at a dead run that would make a cheetah proud. 
+Get swore. He’d expected something like this from a 
+monad cat, but it didn’t matter. Even the fastest monad cat 
+in the universe couldn’t outrun his targeting software. He 
+finished bringing the barrel around and fired several shots in 
+rapid succession. 
+Only one missed.
+And that was intentional.
+Get felt the weight of the Crawler climb onto his back 
+and the chemical chill of the chlorine on his skin. He rolled 
+quickly down the hallway and opened the case he carried, 
+then stuffed the cat inside. 
+“I think you can hear me in there, so listen up. If I think 
+you’re doing anything funky in my belly, I’ll flood your box 
+with the rest of the chlorine in my tank. Not sure that will kill 
+you, but I know it won’t feel keen.”
+✖
+Get zoomed along Avenue Ashford toward the hotel where 
+the gunshots had gone off. He was behind the other media 
+drones again, but that was fine. He knew the story already. 
+✖
+Looking down over Condado, Get saw the approaching poli-
+cia and the buzz of people drawn to the violence like moths to 
+a flame. He monitored his other teammates as he floated fur-
+ther out over the ocean. The Fly-Spy was gone, destroyed by 
+the target cat. The Doberman and Crawler slipped out of the 
+hotel, and once Get sent a remote command to the Americar 
+to speed away and be a distraction, they rolled through alleys 
+and back to the Bulldog. The microskimmers were both zip-
+ping along the beach to a rendezvous point where they’d wait 
+for the Bulldog, Roto-Drones, and Condor to arrive before all 
+loading up and heading to the cargo container waiting for 
+them at the airport. 
+Everyone was doing just what they were told. No dou-
+ble-cross. No “great” ideas. No improvising.
+✖
+Get watched his limp meat body dangle in the harness of the 
+glider from his place on the water. He kicked and felt the wa-
+ter slide along his belly. He sent a command to the glider to 
+shift its course a few degrees and then turned to glide along 
+the water and line up beneath the descending glider. 
+When the Artemis reached 25 meters from the Nightrun-
+ner it executed its final command. The targeting autosoft lined 
+up a perfect shot and fired at the rear seat of the fast-moving 
+boat. Get timed his mental command perfectly and popped 
+the rear seat up, exposing a metal plate beneath. With a loud 
+thunk, a large magnetic disc slammed into the small metal 
+plate, and the seat immediately dropped closed. 
+A thin line ran from the disc back to the glider, which now 
+gained lift as the boat’s speed increased. 
+Get focused on the cool water gliding over his smooth 
+skin. He let the overlay go and let himself feel the strange life 
+of a boat. He was not below the surface and not above; he 
+was between, and it was a strange sense unequaled by any 
+other. 
+Well, except for the feeling of a job well done.   
+✖
+>> ONE RIG TO RULE THEM ALL  <<    115
+
+==== R5 116 ====
+With each small tap on a polyacetylene myomer fiber 
+in the exposed wrist, a finger curled in response to the 
+tiny electric pulse, replicating the contraction of muscle 
+tissue. Satisfied that it was responding correctly, Shui 
+Clark closed the small access port in the cyber-arm, 
+leaned back in her chair, then pushed her goggles to 
+the top of her head as she released a long breath. 
+“All right, Tater Tot. Time to give your new arm a 
+spin.” 
+With a well-practiced roll of her left shoulder, her cur-
+rent arm clicked and unlocked, allowing her to pull it free 
+with her right, setting the cybernetic one on her work -
+bench beside the shiny new model she’d just finished 
+calibrating. As she always did, she paused for a moment, 
+brushing fingertips over the chrome connector port that 
+divided her flesh even as the car accident had divided 
+her life. She hated that it existed, but the wreck was a 
+decade ago, and the one-armed life was all she could 
+truly remember. She felt a small shudder of revulsion 
+and longing for what could never be as she fetched her 
+new arm. The connector whirred to life as she held the 
+arm to it, hearing it dock smoothly, then a pop indicating 
+completion. Now whole once again, or as whole as she 
+could ever be, she ran through a familiar set of mental 
+commands, turning the limb this way and that, wiggling 
+each finger individually, then closing her eyes to try to 
+touch her nose, ears, and right shoulder for a spatial-rec-
+ognition test. With all tests passed, she opened her eyes 
+and said, “Now, let’s try the new feature.” 
+It was odd learning the secrets of a new limb. Each 
+command was like a creating shadow puppet, learning a 
+new combination of muscles and bends that would ac-
+tivate it, always tricky and clumsy at first until your brain 
+could learn exactly how to make the shape. Retracting 
+her hand was as easy as bunny ears, accessing the tool 
+menu not unlike clenching a fist, but rotating the assem-
+bly to get the right tool was going to take practice. Luck-
+ily, she had a patient ready to go.
+Stepping away from her work table, Shui looked 
+across the garage. Numerous drones looked back 
+at her, from the small Kanmushi perched on posts or 
+clinging to walls like house geckos to the Fly-Spy lurk -
+ing on a spare tire to the delivery drone whirring just 
+inside the window, waiting patiently with cooling food 
+below it. “Aw frag, totally forgot I’d called in for some 
+Heli-Tacos.” She reached for her left forearm, forgetting 
+momentarily that this arm had a tool assembly instead 
+of an onboard commlink, then fumbled for a few min-
+utes until she found her ordinary ’link in a desk draw -
+er. She added a generous tip, then took her bag before 
+dismissing the drone. Glancing inside as it flew away, 
+she found room-temperature and soggy food within. 
+“Just my luck.” 
+Setting the bag aside for now, she pushed her tummy 
+rumble to one side, instead focusing on the beaten van 
+currently on the lift. “Aleksi, status report?” 
+The Proletarian drone that rolled from beneath the 
+lift had once been a lovely red, but after many acci-
+dents with grease and oil was now a mishmash of red, 
+brown, and black. She should really clean him up, but 
+he always looked adorable mucked up. With a chirp, he 
+stated, “Preliminary repairs are completed as instruct-
+ed. Damage was primarily cosmetic and easily patched 
+over the indicated portions.” An AR projection highlight-
+ed several locations in separate panels, each showing 
+bullet strikes or, on the front grill, where she’d had to 
+drive through a closed barrier. “The right rear tire was 
+unrepairable and will need replacement. Several engine 
+components have suffered minor damage from shrapnel 
+and, as instructed, unit designate Aleksi did not attempt 
+repairs. If mistress is ready to begin, unit designate Alek-
+si is prepared to assist on command.”
+“In a moment. First, would you please bring me my 
+console?” 
+“Affirmative.”
+As the small drone wheeled away, Shui attached a 
+single cable to the van’s diagnostic panel, then sat on 
+the floor in the lotus position to await the Proletarian’s 
+return. When it arrived, console in claw, it asked, “Will 
+we now begin repairs on unit designate Charlie?”
+Attaching the cable to the console, she then ran a 
+second from it through her coveralls, finding the data-
+jack at the base of her spine. “I need to get inside first, 
+see how he feels. Keep an eye out for customers, Aleksi, 
+I’ll be right back.”
+His reply was a distant echo as her consciousness 
+slid from her meat form to the console and, from there, 
+into the Bulldog step-van. Most riggers she knew pre-
+RIGGER 5.0
+THE AUTOMATED
+ARMY
+116    >> THE AUTOMATED ARMY  <<
+
+==== R5 117 ====
+ferred wireless commands, and she used them herself, 
+but when time wasn’t a factor, there was nothing quite 
+like climbing inside by a direct feed. It was like putting 
+on an old sleepshirt or a raggedy old pair of pants … 
+everything just felt right when connected this way. The 
+connection was more personal and intimate, bonding 
+her mind inside the machine completely until it was her 
+body. She became the van.
+The previous bullet holes were well-patched, but she 
+could still feel them like small scabs. The urge to scratch 
+at them was terrible, but there were other issues she had 
+to explore first. Turning her drive train, she felt the flop in 
+her right ankle and knew that it wouldn’t hold her weight. 
+The tire was flat, but she could feel the small grind in her 
+ankle that indicated a minor bend in the rim as well. Small 
+enough that you couldn’t have seen it with the naked 
+eye, but a rigger’s awareness was something else entire-
+ly. More troubling was the phlegm in her lungs and the 
+stress in her heart. The engine damage was more wide-
+spread than she’d first realized, hardly fatal but enough 
+that she’d be short of breath, unable to reach top speed, 
+keep a good pace, or pull a large load. Her team needed 
+to know that, when things got hot, they could count on 
+her to get them out of there like she did three nights ago. 
+But as it stood now, there was no way she could.  If she 
+couldn’t breathe, she couldn’t run. There was a feeling 
+like flush to her cheeks as she realized that she’d thought 
+of Charlie as her true self again, an impossible response 
+as she didn’t currently have cheeks, and she idly won-
+dered if she’d turned on the van’s heaters in response. 
+She ran a few more diagnostics, wiggling her fingers and 
+toes, blinking and opening her eyes wide, wriggling her 
+nose to make sure the windshield wipers would work, 
+making mental notes about what needed to be fixed and 
+what was fine. 
+In time, she realized that she was procrastinating. 
+She’d noted all the damage but hadn’t returned to her 
+body. Here, she felt strong; her Bulldog frame was heavy 
+steel and powerful compared to the 1.53-meter flesh 
+frame she normally called home. She swept the room 
+with her sensors, experiencing infrared and standard vi-
+suals at once, low-end sonar giving her an approximate 
+location of everything within ten meters, atmospheric 
+sensors bathing her in numerous scents and an aware-
+ness that, of course, it would soon be raining in Seattle. 
+She knew her normal five senses were blind, deaf, and 
+dumb compared to this, the sensor arrays showing her 
+what the world was actually like in a way that she could 
+never experience normally. She allowed herself to sim-
+ply lie there, floating in space, a gentle pressure against 
+her torso where the van’s frame was supported by the 
+lift, just enjoying the sensors … until a rough series of 
+coughs jolted her with pain.
+Right. Engine damage.
+With a resigned pang of disappointment, she slid 
+back out of the van and into her natural form, groggi-
+ly disconnecting the cord from her spine. As she did, 
+she felt the familiar pins and needles in her legs as her 
+neural pathways reconnected and blood began flowing 
+properly. She stood on wobbly legs before setting her 
+console to one side. She shivered a bit, vulnerable flesh 
+thinking the room was cooler than her metal skin had, 
+then glanced around at how much darker the room was 
+without the van’s eyes. 
+She held up her left hand, retracting the fist inside 
+the arm cuff of her forearm, then extending a ratchet 
+from the aperture. “All right, Aleksi, let’s get that tire off. 
+We’re going to need to get that rim straightened out af-
+terwards.”
+“Affirmative, mistress. Unit designate Aleksi is al-
+ways ready to serve.”
+On her workbench, a small bag of soy tacos contin-
+ued to cool, forgotten as it dangled from the loose grip 
+of her old arm. Just another casualty of a rigger’s life. 
+>> THE AUTOMATED ARMY  <<    117
+
+==== R5 118 ====
+> So, why are we letting Clockwork do this again?
+> Slamm-0!
+> We’re not “letting” him, we asked him. 
+> Glitch
+> After Rigger X told us no. Full disclosure.
+> Bull
+> What was it he said again? “Who cares about toys and 
+glorified vacuum cleaners?”
+> Glitch
+> I get that, but … Clockwork? Come on.
+> Slamm-0!
+> I know that you two have history, Fred, but remember, 
+FastJack recruited him for a reason, same as the rest of 
+us. You at least owe it a look-over for that if nothing else.
+> Bull
+> … Frag. All right, put it up.
+> Slamm-0!
+> Already on it.
+> Glitch
+DRONING ON  
+AND ON AND ON 
+AND ON AND …
+POSTED BY: CLOCKWORK
+It never ceases to amaze me, how few people really get 
+drones. I mean, they’re everywhere, right? It should be a 
+no-brainer, but no, they’re too common now. They’re like 
+AR spam or pollution, the background noise of life that 
+everyone looks over, through, or past. I’m here to tell you 
+that you shouldn’t, and further to show you what you’re 
+missing. But first, it’s a tradition around here to talk about 
+the distant past, and I’m not one to skip steps. As such …
+IGNITION
+The history of civilization is filled with machines, from 
+the Simple Machines of Archimedes in antiquity to the 
+Five Mechanisms of Heron of Alexandria near the year 
+1, to Leonardo da Vinci’s Renaissance inventions, to the 
+electric masterpieces of today—each one given purpose 
+simply by existing, serving humanity by definition. While 
+the first machines were simple things of wood and rope, 
+as time marched on, we adapted them to new materi-
+als, new applications, but always as a force multiplier. If 
+one man couldn’t lift a rock by himself, he could use a 
+pulley to do the work of five, making every action more 
+efficient. If it took a man a week to travel a distance, we 
+could put wheels under him and have a horse pull him 
+in half the time. Later, we replaced the horse with an 
+engine and got even faster. Faster, stronger, better—we 
+made machines work for us.
+The first time drones were weaponized is debatable. 
+Old Chinese stories of clockwork soldiers and magical 
+automatons of Europe should be disregarded in the 
+name of science, leaving us the first verified use in 1849 
+when, on August 22, the Austrians released firebombs 
+via balloon into Venice, lighting the way for the future 
+with fire. Balloons, manned this time, were further devel-
+oped over the next few decades, leading to aerial obser-
+vation and reconnaissance more than bombing work, as 
+the strength of eyes-in-the-sky became realized. Over 
+the next few decades, an unwillingness to sacrifice pi-
+lots combined with a need for more aircraft resulted in a 
+race for drones, either remote-operated, or self-guided, 
+weapons that could get the job done bloodlessly.
+> Bloodless for one side, that is. As bloody as possible for 
+the other!
+> Aufheben
+> So dismissive of the magic of the past. Do you think it has 
+never bubbled up before?
+> Man-of-Many-Names
+The dawn of the space race brought even more work 
+into the field as robots—a word invented by a Czech 
+named Karel Capec and not a Japanese word for “servant,” 
+as so many people seem to think—became a cultural fasci-
+nation. Elektro shocked the world at the 1939 World’s Fair 
+by speaking, smoking, and moving about, while Robbie 
+the Robot from Forbidden Planet and Rosie the Robot from 
+The Jetsons captured the minds of youths who would bring 
+about the robot revolution half a century later. General Mo-
+tors’ Unimate showed that robots could accomplish tasks 
+too dangerous for humans, a task they did so well at that 
+whole factories were soon given over to automation.
+> And with the invention of the automated loom came the 
+Saboteurs, those who threw their shoes into the works 
+to destroy the machines that took away their livelihood.  
+Workers have protested the replacement of man by 
+machine ever since!
+> Chainmaker
+> Now now, let us not throw stones (or shoes) at this point. 
+Some of my best friends are machines.
+> Icarus
+WARMING UP THE ENGINE
+Automation had progressed so much by the turn of the 
+century that robots were able to do many jobs humans 
+>> RIGGER 5.0 <<
+118    >> THE AUTOMATED ARMY  <<
+
+==== R5 119 ====
+were once chained to, with industrial work the most ob-
+vious target sector, but agricultural right behind. During 
+the Food Riots of ’99, some took to raiding the fields even 
+as auto-pickers were in use, resulting in several avoidable 
+injuries and a few deaths. As would so often happen over 
+the next few decades, public opinion of robots soured, 
+shelving much of the progress that would have followed. 
+This was made even worse by the Crash, which eradicat-
+ed so many records of the past. You didn’t see drones of 
+any real ability for decades after that.
+> Not entirely true. Certain anthromorphic robots were 
+active in the 2030s, after all.
+> Turbo Bunny
+> There are several incidental cases like that out there, 
+where someone retained knowledge of technology past 
+a collapse and wouldn’t share it with anyone afterwards. 
+Technology of 2077 isn’t terribly more advanced than 
+what they had in 2000 in many ways due to that. 
+> Snopes
+> Like the Nightwraiths, which were all remote-operated 
+planes controlled by David Gavilan!
+> Plan 9
+RETICULATING SPLINES
+It was 2060 when everything really changed. We always 
+think of the human and financial cost that came from the 
+Seattle Arcology shutdown, but the work Deus did in 
+there advanced drone technology by leaps and bounds. 
+Nanomachine advances, bee-sized drones, vicious com-
+bat robots, all designed and produced in-facility by a mad 
+AI. Each development was eventually captured and ex-
+amined by top men in corporate and government circles. 
+With that head start, years of research was completed in 
+months, even weeks. Renraku had been surging ahead in 
+a dozen engineering fields before this, but even their ac-
+complishments paled before the creations of Deus.
+> “You have to break a few eggs to make an omelet” is the 
+vibe I’m getting here, and I don’t much care for it.
+> Pistons
+> He knows nothing of Deus. Nothing.
+> Puck
+ALL SYSTEMS ARE GO!
+Today, drones are everywhere, from delivery of foodstuff 
+by roto-drone to advertising blimps to construction robots 
+to security work to remote tele-medical research, drones 
+are at the cutting edge of science, exploration, and indus-
+try. Most people don’t even drive these days, preferring to 
+let their cars do the work while they relax, giving control to 
+devices that are autos in every sense of the word. Today’s 
+drones do our taxes, polish our boots, and mow our lawns. 
+They pick our fruit, monitor the weather, and compose 
+music for our amusements. In another fifty years, metahu-
+manity itself could find itself retired to a life of leisure while 
+machines do all the work. Truly, a utopia.
+> He clearly hasn’t read the book, Utopia. What a horrible 
+place to live! How it became a go-to word for perfect 
+society, I’ll never know. 
+> Butch
+> Come now! A place where the wise rule, children mind 
+their manners, and slaves know their place? Sounds like 
+paradise! Well, other than the gold bit. Sir Thomas More 
+could have used a course on economics.
+> OrkCE0
+> He is biased, but that does not make him wrong. Even 
+as drones explode as a hobby, they are slipping into the 
+workforce, displacing thousands of low-skill workers 
+who are left unemployed and, worse, unemployable. 
+That delivery from Heavenly Noodle used to involve a 
+pimply teenager’s first job. That teenager would then go 
+on to join the workforce with some level of skill. His drone 
+replacement never gets a promotion, and now that kid is 
+left both jobless and bored, soon to stir up trouble. For 
+the right price, I could direct you toward any number of 
+societal studies on this.
+> Icarus
+> It’s important to remember how overlooked drones are 
+by most workers today. They forget that each one’s full 
+of electronic eyes and ears, treating them as they would 
+the furniture while chatting about any number of topics. A 
+wise runner should take advantage of that.
+> Balladeer
+> Drone defenders are also seeing more use. They aren’t 
+affected by bribes, fatigue, or mind-magic, never call in 
+sick, and won’t be flirted away from their station. They 
+generally aren’t as skilled at the job as metahumans, but 
+they’re far more reliable. 
+> Hard Exit
+> I love it when people forget how easy it is to hack into 
+most commercially used drones.
+> Netcat
+> Don’t forget the military side of things! Ares has been 
+trying to field an all-drone team in Desert Wars for 
+years but hasn’t yet gotten permission to do so. Civilian 
+casualties are still horrible news leads for any war, so 
+most world governments are looking to replace as many 
+flesh-and-blood soldiers with machines as possible.
+> Sticks
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY  <<    119
+
+==== R5 120 ====
+> The ‘60s were a terrible time for drones, no matter how 
+good the science had gotten. Rogue AIs, technomancers, 
+and commlink scriptkiddies were making a mockery of 
+most security protocols, taking drones on joyrides, strafing 
+neighbors, and more. Political pushes drove lethal-armed 
+drones almost to extinction and, even today, people just 
+flat-out don’t trust a robot with a gun. (Nobody ever thinks 
+about the two-thousand-kilo machine that they take to 
+work each day as a weapon, of course. Remember what I 
+said about not seeing drones? It goes double for cars.)
+> Hard Exit
+> Danielle de la Mar hasn’t forgotten, and her next project 
+is to try and deal with “massacre machines, ” to drive out 
+grenades, automatic weapons, and, yes, weaponized 
+drones from polite society.
+> Nephrine
+> I don’t think she knows how much money the corps make 
+from those things. They might have backed her before, 
+but I’d lay good odds that she’ll be blocked on this.
+> Slamm-0!
+> Good odds you say? How good? <leer>
+> /dev/grrl
+> Girl’s got a problem …
+> Turbo Bunny
+ 
+I know you guys are hot for the catalogue, but before 
+you see the product, you really need to meet the sales-
+men. Drones are an industry that runs like, well, clock -
+work, and if you just start poking around the machine, 
+it’s gonna grind you up and spit you out.
+THE MAINSPRING: 
+MITSUHAMA
+While it isn’t fair to say that nothing happens in the 
+drone industry without Mitsuhama Computer Tech-
+nologies deciding to make it happen, it’s not terribly 
+far from the truth. For the most part, other manufac-
+turers are defined by finding niches that MCT hasn’t 
+filled or having their own spin on an existing area of 
+operation. MCT casts an enormous shadow on the rest 
+of the industry and keeps a constant level of pressure 
+that forces the others to keep pace or break down. In-
+dustrial robots, hazardous environment machines, se-
+curity drones, mining, production, even the automated 
+service industry after some horse trading with Renraku, 
+they keep a finger in every market you can imagine and 
+a few that you don’t know exist. The only area where 
+they were weak was in the consumer side of things, 
+and even there they bring in more income in the field 
+than their nearest rival. 
+> MCT innovated the Zero Zone (zero penetration, zero 
+survivors) but found that, no matter how well-trained, 
+some security teams were squeamish about the level of 
+brutality required for that level of security. Turns out that 
+robotic guns and toxin gas panels don’t care whose hoop 
+they dismantle. 
+> Hard Exit
+Mitsuhama’s strength is in the physical design 
+of drones, but their software has always lagged be-
+hind some of the major players. As part of the Yamato 
+Damashi spirit surging through the Japanacorps, Renr -
+aku has been helping their chief rival in this regard, up-
+grading their pilot technology and sharing autosoft re-
+search, even selling them some of their older, successful 
+designs as they reposition themselves in the service 
+market. I’m not sure what Renraku’s getting in return, 
+other than nuyen.
+> Isn’t that enough?
+> Riot
+> Not at the level they play at. Megacorps are frenemies, 
+helping one another one day, then undercutting each 
+other the next. Renraku doesn’t need the mechanical 
+or industrial strength of MCT , and while they’ve been 
+snapping up subcontracting work in the larger corp’s 
+wake, like a remora with a shark’s detritus, there’s not 
+enough there to justify losing their software advantage.
+> Butch
+> You’re all looking at the wrong side of the corp. Renraku’s 
+giving up technology, but they’re getting magical 
+knowledge in return. Renraku’s always been weak in the 
+magical area, while MCT’s second only to Aztechnology, 
+and may actually be in front. More about this soon. Gotta 
+see if a hunch pays off.
+> Haze
+THE GRINDING GEARS
+While these are all top-level drone manufacturers, 
+none of them have ever knocked Mitsuhama from that 
+top spot. Renraku’s been the closest, and arguably did 
+so during the Golden Year of 2059, but the Seattle Ar -
+cology Shutdown cut them off at the knees before they 
+could really take advantage.
+RENRAKU
+Traditionally MCT’s primary rival, Renraku makes superior 
+software and operating systems (pilots, autosofts, and so 
+forth), while MCT makes the better hardware. With Renr-
+aku’s new tilt to a metahuman-and-service focus, they’ve 
+been quietly pulling back from the intense R&D required 
+to stay at the top of the scrap pile. This shouldn’t be read 
+>> RIGGER 5.0 <<
+120    >> THE AUTOMATED ARMY  <<
+
+==== R5 121 ====
+as them leaving the industry, far from it, but it’s just that 
+their focus has changed for some strange reason.
+> <cough> Deus <cough>
+> /dev/grrl
+With the strength of both GridGuide™  and now 
+HarborGuide™ in their pocket, Renraku’s new angle 
+is SkyGuide™, a program intended to control flying 
+drones but not airplanes. Turns out that those who went 
+through both the second crash and the outbreak of tech-
+nomancers afterward are a tad nervous about remov -
+ing control from pilots. SkyGuide is intended to control 
+drone traffic in an urban environment, automatically 
+redirecting them from air traffic and turning them from 
+restricted airspace, also providing information to law 
+enforcement should one be brought down through van-
+dalism (or, of course, used in a crime). By casting a wide 
+wireless net over a ’plex, they can ensure a reduction in 
+accidents, destruction, and collisions. 
+> Huh. A net in the sky? Wonder why they didn’t go with the 
+obvious name?
+> Turbo Bunny
+ARES MACROTECHNOLOGY
+Ares is actually the tops in one subset of the industry: 
+military drones. Flying drones that silently unleash tar -
+geted mini-missiles, self-guided missiles, and support 
+weapon platforms are obvious, but also noncombat 
+support, like the Mule equipment transport drone or 
+a law-enforcement drone for the bomb disposal team. 
+It used to be called the military-industrial complex, but 
+these days, it’s just “Ares.”
+> You’re selling them short, Clockwork. Ares is known 
+for firepower, but they made their name in aerospace. 
+They’re the leading producers of all manner of aero and 
+space assets, from atmospheric sensor drones to spy sats 
+to deep-space repair robots. Not really covered in your 
+report, but it should be remembered.
+> Orbital Bandit
+SONY
+The only AA-rated corporation that can play at this 
+level is Sony. For over a century, they’ve been at the 
+cutting edge of robots, keeping a high level of tech-
+nological expertise even if they don’t match the raw 
+industrial production of the bigger boys. Every year, 
+they roll out an astounding breakthrough in artificial 
+intelligence, only for Renraku to top them the next 
+year. Mitsuhama’s “glass jaw” in terms of consumer 
+robotics is due to Sony and Renraku dominating the 
+market, and no one can rival them in the field of med-
+ical robotics. 
+> The advanced R&D Sony does is later sold to the other 
+players (MCT , Ares, and so on) a couple of years after 
+they’ve invented it, in a sense operating as a subsidized 
+research lab for the other robot masters. Doesn’t keep 
+the other megas from blocking them from triple-A status, 
+mind you, but it keeps them from being preyed on quite 
+so much.
+> Glitch
+> Huh. That’s pretty wily of ‘em!
+> Slamm-0!
+THE WORTHY COGS
+Technically second-tier corps in the market (but don’t 
+say that to any of their executives’ faces!), the Cogs 
+have all found a place to make a profit while looking to 
+advance one step higher. Each has their own special-
+ized niche or a broad diversity that can’t match sales 
+with the big guns, but they’re always hungry for more.
+AZTECHNOLOGY
+While the Azzies have, as always, been happy to steal 
+technology, file off the serial numbers, then re-market 
+it as their own at a lower cost (and much lower quality), 
+the past few years have seen a turnaround that makes 
+them an actual consideration. They’ve always had 
+knockoff Ares drones on hand, but the war with Sirrurg 
+resulted in some bottomless R&D budgets and risk-tak-
+ing of the sort that tends to bear fruit. With “Dragon-
+Slaying” miltech having gone nova-hot, they’re seeing 
+a market hungry for their weaponized drones. Beyond 
+this, they’ve long had a significant presence in the field 
+of consumer drones, and the marketing push for “Juan” 
+is creating record sales. If they can keep this up for a 
+decade, or if Ares keeps falling, they could move up.
+> While the Azzies are selling a lot of combat drones, they 
+don’t use them anywhere north of Monterrey; flying 
+death machines are all well and good for blowing away 
+Awakened critters and conscripted peasants, but they’re 
+not high-quality enough to face CAS electronic-warfare 
+specialists, let alone Pueblo.
+> Kane
+EVO
+Traditionally third in the military side, behind Ares and 
+MCT, Evo continues to invest in both military and secu-
+rity drones, as well as large-scale industrial technology. 
+The one area that they continue to lead is submersible 
+drones, focusing on the industrial and exploratory rath-
+er than the artistic like Sony. Of particular note is that 
+Evo drones are notorious for being clunky but borderline 
+indestructible, reflecting the Russian technological her -
+itage that they now stamp on so many of their goods. 
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY  <<    121
+
+==== R5 122 ====
+> And, again, they have a huge space focus via CosMos. 
+Honestly, Clockwork, the world doesn’t end with the 
+atmosphere.
+> Orbital Bandit
+> You don’t see them in North America often, but  Yamatetsu 
+makes slick drones for the Asian market.
+> Sunshine
+SAEDER-KRUPP
+An odd duck, S-K should be scrapping hand-to-hand 
+(or, well, claw) with MCT in this field, but they’ve never 
+seemed too interested. They have the technology, the 
+computer expertise, and the industrial demand—hell, 
+they already have ludicrously large machines like the 
+Bagger 318, and when they decide to create a high-end 
+pilot program, it’s a thing of perfection. But Lofwyr just 
+never seems to care, so the drones are rare, if excellent.
+> I asked a source about this. Their thought is that “Playing 
+with dolls is for children. Golden Snout was born too old 
+for that. ” As always, take with a grain of salt.
+> Frosty
+SHIAWASE
+With Mitsuhama, Renraku, Sony, and Evo (formerly Yama-
+tetsu) all operating out of Japan, you wouldn’t think that 
+Shiawase would find a niche, and yet here they are. They 
+have an investment in “drone homes,” living quarters that 
+network with a central administrator to keep lights, sounds, 
+and supplies at optimal levels, but their real money is sunk 
+into agricultural robots and in medical telepresence. The 
+quiet war between them and Sony in senior-care robotics 
+is vicious, and they recently leveled a shot across the bow 
+of Horizon, letting them know in no uncertain terms that 
+they shouldn’t consider the market of selling agricultural 
+support to the NAN to be an open field.
+> That was an odd one, as Horizon only recently entered 
+the agricultural market via the Wind River Corporation. 
+They’re using Renraku models, with their own drone 
+production being cinematic in focus. Wonder if there’s 
+more to this?
+> Sunshine
+> There’s always more. You, of all people, should know that.
+> Icarus
+DRONE 
+MODIFICATION
+While every rigger mods their cars, not many do many 
+mods with their drones other than strap guns onto 
+them. In part this is due to the compact design leaving 
+little space, but surprisingly few riggers even consider 
+that they can make mods in the first place. Vehicles are 
+investments while drones are “toys,” and thus, dispos-
+able. Time to think again.
+These rules provide detailed options for drones and 
+can be used as an optional rules system for adding mod-
+ifications to them. Players who do not want to use a sep-
+arate system can use the rules provided in the Building 
+the Perfect Beast chapter (p. 150).
+THE BASICS
+Drones have a much more limited space to work with 
+than ordinary vehicles. Every drone is given a number 
+of Mod Points equal to their Body. These Mod Points 
+work vaguely like Essence, a reserve of points that is 
+gone once they’re all used up, meaning no further mod-
+ifications are possible unless you first rip something out. 
+Some drones have some, or all, of their Mod Points al-
+ready spent in order to carry advanced equipment. Due 
+to this, a new indicator has been added to the drone 
+attributes that shows how many points are available 
+for a new drone of that make, shown thusly: Body X(Y), 
+where X is the actual Body rating of the drone while (Y) 
+is how many points are available. In many cases, this is 
+the same number, but not always. Drones from other 
+SR5 supplements have been added to the master chart 
+with this taken into account. Several older drones have 
+had their stats adjusted to fit the rules presented in this 
+book. This new statline replaces the original details for 
+games using Rigger 5.0, otherwise the older information 
+remains valid. 
+ADDING UPGRADES
+Adding an upgrade is easy enough: Check to see if 
+you have enough Mod Points available, find someone 
+to do the work (this can be yourself, of course), and 
+pay the fee. Once it’s installed, you’re good to go. 
+As an added bonus, all drones have a bit of wiggle 
+room for expansion, be it more memory and more 
+advanced software installs for the Pilot program, a 
+better grade of engine component for speed, and so 
+on. This means that any drone may have an attribute 
+increased from the base by 1 (or 3 for Armor) with-
+out expending any Mod Points. Increasing an attri-
+bute further than that requires at least a partial re-
+build, and the expenditure of Mod Points equal to the 
+increase minus 1. This means a +2 Speed increase 
+costs 1 Mod point, while +4 Speed would cost 3, and 
+so on. The only attribute that can never be increased 
+is Body; this is the inherent frame of the drone, and if 
+you want it bigger, you should just buy a larger mod-
+el. Adding one attribute point requires an appropri-
+ate toolkit, while more extensive upgrades require an 
+appropriate shop. 
+>> RIGGER 5.0 <<
+122    >> THE AUTOMATED ARMY  <<
+
+==== R5 123 ====
+ENDURING DOWNGRADES
+Drones may also be given Downgrades, worsening an 
+aspect of the machine by using inferior parts. The ad-
+vantage to this is that you could trade off a feature that 
+you don’t care for as much in order to free up space for 
+what you need. In a car, this would be ripping out seats 
+to make a racing vehicle faster, while in a drone this can 
+be removing sensors, going with a smaller and simpler 
+control computer, and so on. Any single attribute may 
+be worsened by 1 (or 3 for Armor), providing 1 Mod 
+Point. This cannot be used to lower an attribute below 
+1 except in the case of Speed (which can go to 0), and 
+obviously the attribute must be lowerable (So, no re-
+ducing a 1 to a 1 for a free Mod Point!). Furthermore, 
+no matter how many Downgrades you make, you only 
+receive a single extra Mod Point.
+ATTRIBUTE 
+MODIFICATIONS
+The most basic level of mod, attribute modification lets 
+you change the attribute of your drone. The one thing 
+to remember is that a drone’s attributes can never by 
+higher than twice their starting value (so if you had a 
+Handling of 3, it can never be modified higher than 6). 
+When you need to use a 0 for the math, like a micro-
+drone’s Body score, use 0.5 instead. No multiplying by 
+0 to get infinite free upgrades—nice try, though.
+HANDLING
+(Availability = Upgraded Rating x 2)
+Better gyroscopes, improved shocks, spoilers and 
+airdams, counterbalancing rotors, and more. Of the 
+physical components, only speed is more expensive in 
+the long run! Cost equals the upgraded Handling mul-
+tipled by the Body, then multiplied by 200. This means 
+that increasing to Handling 5 on a Body 2 drone would 
+cost (5 x 2) x 200, or 10  x 200, or 2,000 nuyen.
+SPEED
+(Availability = Upgraded Speed x 2)
+Everybody loves more speed! Bigger engines, better 
+engines, louder engines! The most expensive upgrade 
+for a drone, so brace for sticker shock! Cost equals the 
+upgraded Speed multiplied by the drone’s Body, then 
+doubled, then multiplied by 200. So increasing to a 
+Speed of 5 on a Body 2 drone would cost ((5 x 2) x 2) x 
+200, or (20) x 200, or 4,000 nuyen.
+ACCELERATION
+(Availability = Upgraded Rating x 4)
+A little nitro never hurt anyone, right?  Wait, it can 
+actually suffocate you? Oh. Well. Regardless! Brace for 
+G-forces, it’s better Acceleration! Cost equals the up-
+graded Acceleration multiplied by the drone’s Body, 
+then multiplied by 200. Increasing to an Acceleration of 
+2 on a Body 2 drone would cost (2 x 2) x 200, or (4) x 
+200, or 800 nuyen.
+BODY
+(Availability = Mod Points Gained x 3)
+While it cannot be upgraded, you can make some 
+tradeoffs on integrity for modification diversity. That is 
+to say, if you get a lighter, more fragile frame, you can do 
+more things with the weight savings—but when things 
+break, they break badly. Reducing the drone’s Body by 1 
+produces 2 Mod Points, resulting in a net gain of 1 Mod 
+Point. A drone’s Body may not be reduced lower than 
+half the starting value in this way. Thus, a Body 3 drone 
+may be reduced to 2 Body for 1 Mod Point, but not to 1 
+as this is lower than half the starting Body, which would 
+be 1.5.) 
+ARMOR
+(Availability = Upgraded Rating, may be R or F)
+For some strange reason, people want their drones to 
+survive. Funny, that! Adding armor is frowned upon by po-
+lite society, however, so you might have to face a few ques-
+tions from authorities worried that you’re making some 
+kind of aerial assassination robot. Not that you’d do that, 
+of course. Armor greater than 6 is considered Restricted, 
+while Armor greater than 12 is Forbidden. In addition, Ar-
+mor is heavy. A drone may bear the weight of Armor equal 
+to three times its Body without a decrease in ability, but for 
+every 3 points beyond this, the drone suffers –1 Handling 
+and Speed, while every 6 points also reduces Acceleration 
+by 1. If this results in Handling dropping below 1, or either 
+Speed or Acceleration dropping below 0, then the drone 
+is unable to move at all. Cost equals the upgraded Armor 
+multiplied by the drone’s Body, then multiplied by 200. In-
+creasing to an Armor of 15 on a Body 3 drone would cost 
+(15 x 3) x 200, or 45 x 200, or 9,000 nuyen.
+SENSOR
+(Availability = Upgraded Sensor x 2)
+Cameras to see, mics to hear, and short-range radar 
+for parking. Sensors take many shapes and sizes, but 
+fortunately they don’t take the size of the drone’s frame 
+into account. Upgraded Sensors are thus much easier 
+to calculate. The cost is equal to the upgraded Sensor 
+rating x 1,000 nuyen. A single sensor may be upgraded 
+instead of the entire array for (Rating) x 100 nuyen.
+PILOT
+More on this under Software Solutions!
+OTHER MODIFICATIONS
+Each of the following mods is listed with a cost in Mod 
+Points, Availability, and nuyen. Not all mods are appro-
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY  <<    123
+
+==== R5 124 ====
+priate for all drones, of course; the gamemaster is the 
+final arbitrator in what is and isn’t allowed. 
+WEAPON MOUNTS
+Probably the most common drone mod is finding a 
+way to strap weapons onto one. Due to the small size 
+of drones, standard vehicle mounts aren’t always ap-
+propriate, so drones use weapon mounts from the fol-
+lowing chart. Each weapon mount added uses up the 
+listed number of Mod Points (listed as MP), allowing 
+a drone to sometimes mount several smaller weapons 
+rather than a single large one. All weapon mounts are 
+at least Restricted, while some are Forbidden outside of 
+military use as shown. In addition, authorities are quite 
+interested in what weapons are mounted in them! In 
+most nations, it’s illegal for a drone to mount anything 
+other than non-lethal weaponry. The CAS is a notable 
+exception to this rule.
+OPTION: POP-OUT MOUNTS
+Ordinarily a weapon mount is quite obvious, as is the 
+weapon mounted therein. Since shadowrunners tend 
+to have quite illegal things mounted on their drones, 
+this can be problematic, as you might imagine. There 
+are two disguises for weapon mounts that can be used 
+on drones. The first are blow-away panels. These are 
+simple coverings that are designed to be ejected just 
+before the weapon is triggered. Once blown away, the 
+weapon is left exposed and obvious, but this method 
+is both cheap and easy. Blow-away panels may be in-
+stalled with a simple Kit, and cost 25 nuyen x the MP of 
+the weapon mount. A Perception + Intuition [Mental] 
+(2) Test will reveal that there’s something covered, but 
+not what it is. Once the panel is blown away, it cannot 
+be recovered.
+The other option is “pop-up” weapons (or pop-out, 
+or pop-under as the case may be). These are weapons 
+stored inside the body of the drone, deployed on com-
+mand (requiring a Free Action), then retracted again with 
+another command (also a Free Action). Much harder to 
+detect (requiring a Perception (4) Test) and re-usable, 
+the mechanisms are a bit cumbersome and complex, 
+adding 1 to the number of MP consumed by a weapon 
+thus concealed. (For example, a standard mount with 
+pop-up options would cost 4 MP.)  Pop-up mounts may 
+be installed with a Shop, and they cost 100 nuyen x the 
+increased MP of the weapon.
+OPTION: EXPANDED 
+AMMUNITION BAY
+Unlike normal vehicular weapons, the tight constraints 
+of a drone’s body offer limited ammunition reserves. 
+JUST HOW FAST IS THAT, ANYWAY?
+While the speed of many vehicles was listed in SR5 (p. 
+200), there are advanced rules. Speed for drones is listed with 
+an appropriate letter code indicating its type of travel: G for 
+ground, R for rotor, J for jet, or W for water. When comparing 
+speed across modes, note that in order of relative speed, they 
+line up like this (from slowest to fastest): Water, Ground, Rotor, 
+and Jet. Drones will have trouble catching up to a drone or 
+vehicle traveling in a faster mode. For more information, see 
+chapter nine, Maximum Pursuit. 
+WEAPON MOUNTS
+MOUNT MP AVAIL WEAPON
+Micro 0 8R Single-shot bullet or dart. 
+Mini 1 4R Hold-out pistol, light pistol, 
+reach 0 melee weapons, 
+single-shot grenade
+Small 2 8R Heavy pistol, machine pistol
+Standard 3 10F Sub-machine gun, under-
+barrel grenade launcher
+Large 4 12F Shotgun, hunting rifle, 
+assault rifle, grenade 
+launcher
+Huge 5 16F Sniper rifle, light or medium 
+machine gun
+Heavy 6 20F Heavy machine gun, rocket 
+launcher, assault cannon
+>> RIGGER 5.0 <<
+124    >> THE AUTOMATED ARMY  <<
+
+==== R5 125 ====
+Any weapon mounted on a drone uses the weapon’s 
+normal ammunition limits, rather than the expanded 
+version of a vehicle’s. There are, however, two optional 
+ammunition bays for drones. The first is simply adding 
+a second bin, which holds the same number of am-
+munition as the weapon ordinarily holds, and a small 
+switching unit to feed the weapon when one runs dry. 
+This may be installed with a Kit, uses 1 MP, and costs 
+50 nuyen.
+The other option is a full belt-feed system, replacing 
+the weapon’s normal ammunition feed mechanism en-
+tirely. This requires a shop, makes the weapon belt-fed, 
+and provides enough room for an entire belt of 100 
+rounds. Additional expanded ammunition bays may 
+then be added, each holding another 100-round belt. A 
+belt-feed system requires a Shop, uses 2 MP, and costs 
+500 nuyen.
+REALISTIC FEATURES
+One of the most-requested modifications, realistic fea-
+tures are found on several spy drones, allowing them to 
+blend in with local birds or insects. This type of modifica-
+tion also remains popular with anthropomorphic drones 
+in an effort to humanize them. As the design approaches 
+a more realistic model, the cost, as you might imagine, 
+increases. Realistic features are available in four ratings, 
+each rating serving as the threshold on a Perception test 
+to tell if it’s machine or a living being. 
+Rating 1, Availability 2, Cost (Body x Body) x 100
+Rating 2, Availability 4, Cost (Body x Body ) x 500
+Rating 3, Availability 8, Cost (Body x Body ) x 1,000
+Rating 4, Availability 12R, Cost (Body x Body ) x 5,000 
+While many drones can be made realistic (receiving 
+Rating 1), allowing them to pass at a casual glance at a 
+distance or at night, wheels, quad fans, and so on are 
+quite difficult to disguise. Most drones cannot be given 
+Realistic Features beyond Rating 1, while some cannot 
+even obtain that level. (The gamemaster is the final arbi-
+trator on what is and isn’t appropriate.) Realistic Features 
+2 can be added with a Shop, but higher than this requires 
+a Facility (most drones this realistic are designed as such 
+before being sold).
+AMPHIBIOUS
+An amphibious drone comes in two ratings: Rating 1 
+allows it to float on the surface of a body of water, as 
+long as it’s relatively still, and while vulnerable to being 
+submerged, it’s waterproof on the underbody. Rating 
+2 Amphibious makes the entire drone waterproof, al-
+lowing it to be submerged without harm. Note that in 
+either case, you’ll want a motive system! Rating 1 re-
+quires a Shop, 1 Mod Point, and costs (Body x Body) x 
+100 nuyen. Rating 2 requires a Facility, 2 Mod Points, 
+and costs (Body x Body) x 1,000 nuyen.
+ASSEMBLY TIME 
+IMPROVEMENT
+Many drones are designed to be partially disassembled 
+to allow for ease of storage and transport, most nota-
+bly several winged drones whose propulsion method 
+and wings can be removed so that the entire rig can 
+be transported via car, then re-assembled for use. To 
+assemble or disassemble a drone with this modification 
+requires (Body) minutes and an appropriate Mechanics 
++ Logic test with a threshold of 2. This upgrade can be 
+done with a Shop, requires 1 MP, and costs (Body) x 
+100 nuyen.
+CUSTOMIZED
+Pure cosmetic differences, including flashing LED 
+lights, snazzy paint, or chrome trim, can make a world 
+of difference in making your drone what you want it 
+to be. There is no game effect from these mods, but 
+they’re pretty to look at! Customization can be done 
+with a Kit, uses no MP, and can cost anywhere from 
+10–10,000 nuyen.
+DRONE ARM
+Similar to a cyberarm, a drone arm is much cheaper due 
+to the lack of flesh-chrome connections and sensory 
+translation. Unless otherwise noted, use the standard 
+cyberlimb rules, though the limb costs half of the normal 
+price. (Upgrades for the arm are at full price, however.) A 
+drone’s cyberlimb starts with a Strength equal to its Body 
+and an Agility equal to its Pilot. If the drone is using the 
+arm for a test that would normally be Agility-based, use 
+the limb’s Agility, rather than the drone’s Pilot Rating. A 
+drone limb may have the base drone’s starting attributes 
+as much as doubled, no matter how many increases that 
+is. The limb attributes may not go higher. (This means a 
+Body 5 drone could have a strength increased from 5 to 
+10, ignoring the usual cap of +4 to an attribute, but may 
+not go higher.) Drone limb armor does not affect the 
+drone in any way, but having a limb provides +1 to the 
+physical condition monitor as normal. Adding a drone 
+arm requires a Shop and uses 1 MP.
+OPTION: PRIMITIVE ARM
+While a normal drone arm has a metahuman’s level 
+of functionality, some drones save money by using a 
+simpler arm. These arms have brushes, or suction cups, 
+with a more limited range of options. These limbs suf-
+fer –2 to any limit on tests requiring fine manipulation 
+or weapon use with that limb, but the limb costs ten 
+percent of the normal price, rather than fifty percent.
+DRONE LEG
+Walkers have legs, sometimes two, usually more. These 
+operate similar to a cyberleg, but much cheaper as per 
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY  <<    125
+
+==== R5 126 ====
+drone arms. Drone speed is never based on limb Agility, 
+so there is usually little point to upgrading this and, as per 
+drone arms, cyberlimb armor placed on a drone doesn’t 
+affect the drone in any way. Drone legs do not add extra 
+boxes to the drone’s Physical condition monitor. 
+GECKO GRIPS 
+By coating the motive systems with gecko-glove-like 
+materials, the drone can cling to virtually any surface. 
+This allows it to climb vertical, or even hang upside 
+down, as long as the surface has a Barrier Rating at 
+least equal to the drone’s Body x 3. Gecko grips require 
+a Shop, use 1 MP, and cost (Body x 3) x 50 nuyen. Note 
+that larger drones may have gecko grips, but will have a 
+hard time finding a surface able to hold them!
+IMMOBILE
+A drone that is immobile can’t move under its own 
+power. These drones have a Speed and Acceleration 
+of 0, which cannot be upgraded. On the positive side, 
+they gain +2 Mod Points for not having a drive train. 
+Making a drone immobile requires a Shop but doesn’t 
+cost anything other than a day’s labor.
+SKYGUIDE
+By linking with SkyGuide, a drone can use the network’s 
+own guidance systems to get where it needs to be. The 
+downside is that the system takes priority over the own-
+er’s commands, allowing the drone to be controlled by 
+the Guide, or Riggers employed by SkyGuide, against 
+the owner’s wishes. The upside is that SkyGuide pro-
+vides both a Navigation (6) autosoft and a Maneuver (6) 
+autosoft to any drone while it’s logged in to the network. 
+Standard issue on flying drones sold form 2078 forward, 
+it may be added to older drone with a Kit, requires 0 MP, 
+and costs 5 nuyen, plus a 10 nuyen/year user fee.
+SPOTLIGHT
+Mounted externally, a drone spotlight acts as a flash-
+light in all ways. It requires a Kit, uses 0 MP, and costs 
+50 nuyen.
+SUSPENSION MOD
+Ground drones have an easily modified undercarriage, 
+ultimately allowing the owner to replace the motive 
+systems with some work. The base Handling of these 
+suspensions is as follows; Standard 4/2, Tracked 3, or 
+Off-road 2/4. Changing from one to another requires 
+a Shop, uses no MP, and costs (Body x 3) x 100 nuyen.
+TIRE MOD
+Wheeled drones may have the wheels replaced in a 
+pinch, serving a role roughly akin to a modified sus-
+pension but not quite as good. The wheels increase the 
+lower Handling Rating by 1, while lowering the better 
+Handling by 2, until they are replaced again. (Thus, a 
+4/2 becomes a 2/3, while a 2/4 becomes a 3/2.) This 
+exchange requires a Kit, uses 0 MP, and costs (Body x 
+3) x 25 nuyen. (Note that the old tires may be kept and 
+this mod removed at a later time, restoring the normal 
+Handling.)
+SOFTWARE SOLUTIONS
+What, you thought modern cars were all about me-
+chanical grease monkeys and wrenches? Pfft! If you’re 
+working on anything made in the past quarter-cen-
+tury, you need to know computers to get it to run, 
+and if you know computers, you’d know how much 
+you don’t know about the subject. For the most part, 
+both vehicles and drones are simple things, needing 
+enough brainpower to go from A to B, do something 
+when they arrive, then wait for more orders. Cars that 
+come when you signal or drones that swoop over an 
+area for recon are basic, but most riggers want to take 
+over for anything more complex. I’m here to tell you 
+that that’s not always needed. A good Pilot program 
+can handle more than you think, since you’re mostly 
+used to dog brains on low-end commercial models, 
+and while you’ve not been paying attention, the auto-
+soft market got smarter.
+PILOTS
+It all starts with the Pilot, the main brain of your new ma-
+chine. For ninety-five percent of the people out there, the 
+pilot of their car or house-cleaning drone is what they’re 
+used to. It can play music, keep your car at the right 
+speed, or clean up a spill, but you wouldn’t trust it with 
+anything important (he says, knowing full well that most 
+commuters tell their car where to go, then lean back, fire 
+up their commlink, and entertain themselves until the car 
+tells them that they’ve arrived, never realizing that they 
+have a two-ton bullet under their butt). Security drones 
+have a more advanced Pilot program, with advanced fire/
+don’t fire protocols based on potential targets in the area 
+(or the known value of stored supplies) that can also use 
+predictive algorithms to guess where you’ll be next when 
+you get out of sight. “Retail brains” are simple pilots on 
+par with cars, able to do one thing, for instance your taxes 
+or legal research, but nothing else. 
+Then you get fancy.
+Advanced Pilot programs are comparable not to 
+dogs, but to small children or, in some cases, adult meta-
+humans. There aren’t many that can make this claim, but 
+led by military research where drones had to account 
+for dozens of factors at once, Pilot programs have got-
+ten smarter. I’m partial to the Djinn-IV Pilot from Saed-
+er-Krupp myself; it’s like having a child around the 
+house, curious about everything and capable of some 
+astounding leaps of logic. The top-end programs are re-
+>> RIGGER 5.0 <<
+126    >> THE AUTOMATED ARMY  <<
+
+==== R5 127 ====
+stricted to military use, but I’ve gotten my hands on a 
+few and, each time, they’ve developed personalities be-
+yond what I ever expected. Like the armored personnel 
+carrier that liked to “dance” to the almighty Troggs.
+The Pilot program determines the Rating of the drone 
+as a whole, serves as the primary source of attributes for 
+skill tests, serves as a cap on the highest rating autosoft 
+the drone can run, and more. Is there any reason that it’s 
+in such high demand? Civilian Pilot programs are generally 
+Rating 2 (or, rarely, 1), restricted security Pilots are 3 to 4, 
+while military-grade Pilots (5 to 6) are Forbidden for gener-
+al use. Cost and Availability are shown on the chart below:
+AUTOSOFTS
+It all ends with autosoft programs, the detailed com-
+mands that ensure a Pilot does what you want, when 
+you want it. New autosofts are released every year—
+some expected, some quite the surprise. They don’t 
+cover all situations yet, but there’s much more a drone 
+can do than spy or shoot. Some of the most common 
+ones are shown below.
+A Pilot program may not run an autosoft of a higher 
+Rating than itself (meaning a Rating 3 Pilot may run an 
+Autosoft with a Rating of 1, 2, or 3, but not 4 or high-
+er). When using a rigger command console, the console 
+may run a higher-Rating autosoft and share that with the 
+drone, allowing it to exceed its normal capabilities. So if 
+you have an Aztechnology Crawler Clearsight 6 autosoft 
+slotted into your RCC, each of your Aztechnology Crawl-
+ers may use it at the full value of 6.
+Some skills are Restricted or Forbidden. Those will be 
+indicated on the individual autosoft profile. Remember 
+also that an autosoft is designed for only a single drone; 
+you cannot slot a Clearsoft autosoft designed for an Az-
+technology Crawler into an Evo Proletarian. (Well, you 
+can; it just doesn’t do anything.) 
+SMARTSOFT (RESTRICTED)
+This is the same smartlink provided in eyeware or video 
+enhancements, integrated into the sensors of a vehicle 
+or drone. The Smartsoft is considered a Rating 3 auto-
+soft and allows the full use of smart weapons.
+GROUP
+A shared-signal autosoft that allows each drone 
+equipped with it to answer the same command, rather 
+than requiring you to issue commands to one at a time. 
+The Group autosoft is considered a Rating 2 autosoft.
+SKILLSET
+The Skillset autosoft gives the listed skill to the drone. 
+The Rating can be from 1 to 6 as normal, but note that 
+some Skillset autosoft are Restricted. The following 
+skills may be taken as an autosoft:
+Academic Knowledge (any single knowledge)
+Chemistry (Restricted) 
+Demolitions (Restricted)
+Electronic Warfare (Restricted)
+First Aid
+Hardware 
+Instruction
+Language (any single language)
+Lockpicking (Restricted)
+Mechanic (any single Mechanic skill)
+Medicine (Restricted)
+Melee (as Targeting, but for a specific melee combat 
+weapon)
+Navigation
+Performance (any single perform skill. Song-a-Mat 
+evolves!)
+Professional Knowledge (any single knowledge)
+SOFTWARE TWEAKS
+There are also some minor modifications that can be 
+made to programs that have no real effect on the over -
+all performance but allow for some customization. 
+PERSONALITY
+(Availability 4, Cost 100¥)
+Many people treat their drones as pets, and a per -
+sonality tweak can go a long way to help. A Pilot with a 
+Personality will develop a “flavor” all to itself, evolving 
+PILOTS
+RATING AVAIL COST
+1 4 100¥
+2 — 400¥
+3 8R 1800¥
+4 12R 3200¥
+5 16F 10,000¥
+6 24F 20,000¥
+AUTOSOFT PRICES
+While this is in the official SR5 Errata, not everyone has 
+access to the Internet and, quite frankly, there’s no better place 
+to list them than Rigger 5.0. So here they are!
+SOFTWARE AVAIL COST
+Autosoft (1–6) (Rating) x 2 (Rating) x 500
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY  <<    127
+
+==== R5 128 ====
+a unique set of features over time depending on how 
+it’s treated and what it regularly does. Some are playful, 
+some are territorial, some adorably clumsy, some are 
+calm—the exact personality can be specified when pur -
+chased, but most allow their drone to develop naturally. 
+LINGUISTICS
+(Availability 4, Cost 50¥)
+When a drone is designed, it comes pre-loaded with 
+two languages: one native to the manufacturer and one 
+native to where it will be sold. In the UCAS, this is usually 
+Japanese and English, but not always. A Pilot may contain 
+as many Linguistics autosofts as its Rating, so few add more 
+than the initial two, but more can be added, or old ones 
+deleted and replaced, as long as room is present. Keep in 
+mind that Linguistics are used for verbal commands and 
+have a very limited vocabulary; you cannot use your mo-
+torcycle’s German Linguistics to eavesdrop on Hans Brack-
+haus and expect it to tell you what was said. Come here, go 
+there, shoot that guy, find the nearest McHugh’s, and sim-
+ilar commands are about as much as it can handle. (How-
+ever, there was enough demand that Renraku introduced 
+actual translation software, the Language autosoft, which 
+other corporations quickly picked up on.)
+DRONE CATALOG
+And now the part you’ve all been waiting for! I’ve 
+culled this list from several different sources, picking a 
+few personal favorites, some up-and-coming specials, 
+and some old classics. There’s a lot going on down be-
+low, so hang on to your command console!
+MICRODRONES
+HORIZON “NOIZQUITO”
+(PILOT AIRCRAFT)
+The Aztlan-Amazonian War was ostensibly about two 
+nations fighting over resources, but it was also a proxy 
+war between Aztechnology and Horizon, who were 
+fighting for the hearts and minds of the world. In this 
+fight, Horizon attempted to act primarily through cat’s-
+paws and cut-outs, avoiding a direct confrontation that 
+could lead to bad press. Thus, rather than providing 
+weapons and materiel to the Amazonians, Horizon 
+developed a drone that could do what Horizon does 
+best—harass and annoy.
+The NoizQuito was developed as a flying micro 
+drone with a few special tricks. Visually similar to a 
+mosquito, the body of the drone can only house a small 
+number of features. The most prevalent and obvious of 
+these features is the speaker system. The drone can 
+blast sounds as loud as 160 decibels (which is the vol-
+ume of high-end race cars), which are used to produce 
+distractions and possibly even minor ear damage in 
+those unfortunate enough to be near the drone when 
+it activates. Additionally, the drone’s wings and body 
+are covered in small LEDs that are powerful enough to 
+produce blinding levels of light in a bewildering array 
+of strobe patterns.
+> I hate these things. They hurt friends and foes alike, and 
+a swarm of them is enough to drive someone insane. 
+Whichever Horizon R&D guy designed this thing deserves 
+to be shot.
+> Picador
+> If you’d like, I can put together a package. PM me to make 
+arrangements.
+> Cosmo
+> Horizon didn’t get this drone out fast enough to make an 
+impact on the outcome of the war, and they lost out big on 
+the opportunity to advertise this drone to the world as a 
+result. They’re making their way through the market now, 
+but progress has been slow.
+> Dr. Spin
+Standard Upgrades: Flying, speakers, strobes
+Game Information: When activated, the strobes im-
+pose a –2 penalty to all actions by those who are cur -
+rently looking in the direction of the drone. This penalty 
+is reduced to –1 if the target has flare compensation. 
+The speakers impose a –2 penalty to all actions by those 
+within earshot of the drone, which is lessened to –1 for 
+those with a sound damper system. If there are multiple 
+drones acting as a group, the penalties are cumulative 
+for each drone (meaning that if three drones are working 
+as one, the target can take as much as a –12 penalty to 
+all actions).
+Note: “Earshot” has the potential to be quite far, but 
+the physics calculations for determining actual earshot 
+are too complicated for a roleplaying game. As always, 
+the gamemaster has the final say in determining who (or 
+what) is affected.
+HORIZON “NOIZQUITO” (MICRO DRONE)
+HANDL SPEED ACCEL BODY ARM PILOT SENS AVAIL COST
+4 3R 2 1 0 3 3 10R 2,000¥
+SONY GOLDFISH
+(PILOT WATERCRAFT)
+Sized to realistic proportions and capable of dives of 
+up to four meters deep, the Renraku Goldfish is a prime 
+example of an entry-level water drone, suitable as a 
+trainer for youths who look toward a future as robotic 
+operators or hobbyists who wish to explore local wa-
+tering holes below the surface.
+Standard Upgrades: Submersible
+Similar Models: Mitsuhama Minnow, NeoNET Pinkeens
+>> RIGGER 5.0 <<
+128    >> THE AUTOMATED ARMY  <<

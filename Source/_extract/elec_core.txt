@@ -1,0 +1,1674 @@
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 443 =====
+Nonconductivity: Electrical insulation and non-con-
+ductive materials protect the wearer against Electricity 
+damage (p. 170). Add the full rating of this modification 
+to the Armor value when resisting Electricity attacks.
+Shock frills: These strips of “fur” are electrically 
+charged when activated, standing on end and inflicting 
+Electricity damage to anyone that touches you. Use Un-
+armed Combat to attack with the frills. The frills hold 10 
+charges; when attached to a power point, they recharge 
+one charge per 10 seconds.
+Wireless: The shock frills can be activated or deacti-
+vated as a Free Action. They can also recharge by induc-
+tion, recharging one charge per hour.
+Thermal damping: Designed to reduce your thermal 
+signature, these inner layers capture or bleed heat, so the 
+outer layers maintain a surface temperature equal to the 
+surrounding air. Add the rating to your limit on any Sneak-
+ing test against thermographic vision or thermal sensors.
+Wireless: The suit uses the extra information about your 
+surroundings and also gives you its rating as a dice pool 
+bonus to Sneaking tests against heat-based detection.
+HELMETS AND SHIELDS
+Instead of counting as separate pieces of armor, hel-
+mets and shield modify the rating of worn armor by 
+their Rating (Armor and Encumbrance, p. 169).
+Due to the awkwardness of holding a shield, if you’re 
+using one you take a –1 modifier to your Physical limit 
+when you do something where the shield might get in 
+the way (though not attacks made using the shield as a 
+weapon). Shields may be upgraded with the chemical 
+protection, fire resistance, and nonconductivity armor 
+modifications and have a Capacity equal to their Armor 
+Rating for this purpose. 
+Helmet: Helmets come in a wide variety of shapes 
+and sizes and protect your noggin from trauma. Helmets 
+have Capacity 6 for being tricked out with accessories 
+like trode nets and vision enhancements.
+Ballistic shield: This large opaque shield is used by 
+SWAT teams and in urban combat. It features a clear 
+plastic window and a built-in ladder frame along the in-
+side so that it can be used to climb over small obstacles.
+Riot shield: As an added crowd control measure, a 
+riot shield can be used to shock anyone who comes into 
+contact with it, inflicting Electricity damage (p. 170). The 
+taser shield holds 10 charges; when attached to a power 
+point, it regains one charge per 10 seconds.
+Wireless: The riot shield recharges by induction, re-
+charging one charge per hour.
+ELECTRONICS
+For complete coverage of the Matrix attributes used by 
+electronic equipment, see Devices, p. 219.
+COMMLINKS
+Commlinks are universal communication devices; they’re 
+used by everyone all the time. Commlinks are essentially 
+the digital Swiss army knives of the modern world. Even 
+the most basic of them includes AR Matrix browsing ca-
+pability, multiple telephone and radio modes of real-time 
+talk and text, music players, micro trid-projectors, touch-
+screen displays, built in high-resolution digital video and 
+still image cameras, image/text and RFID tag scanners, 
+built-in GPS guidance systems, chip players, credstick 
+readers, retractable earbuds, voice-access dialing, text-
+to-speech and speech-to-text technologies, and a shock 
+and water resistant case. And all of this at an inexpensive 
+price that a few decades ago would have seemed absurd.
+Sim Module: This commlink upgrade gives you 
+the simsense experience, translating computer data 
+into neural signals that allow you to directly experi-
+ence simsense programs and augmented reality. A sim 
+module must be accessed via a direct neural interface 
+(trodes, datajack, or implanted commlink). Sim mod-
+ules are a must-have for virtual reality of sorts, includ-
+ing VR clubs, VR games, simsense, and darker virtual 
+pleasures. Sim modules can be modified for hot-sim, 
+which opens up the full (and dangerous) range of VR 
+experiences.
+>> STREET GEAR <<
+ARMOR
+MODIFICATION
+CAPACITY
+AVAIL
+COST
+Chemical Protection
+[Rating]
+6
+Rating x 250¥
+Chemical Seal
+6
+12R
+3,000¥
+Fire Resistance
+[Rating]
+6
+Rating x 250¥
+Insulation
+[Rating]
+6
+Rating x 250¥
+Nonconductivity
+[Rating]
+6
+Rating x 250¥
+Shock Frills
+2
+6R
+250¥
+Thermal Damping
+[Rating]
+10R
+Rating x 500¥
+ARMOR
+HELMETS/SHIELDS
+ARMOR 
+RATING
+AVAIL
+COST
+Helmet
++2
+2
+100¥
+Ballistic shield
++6
+12R
+1,200¥
+Riot shield
++6
+10R
+1,500¥
+EXOTIC MELEE 
+WEAPON
+ACCURACY
+REACH
+DAMAGE
+AP
+Ballistic shield
+4
+—
+(STR + 2)S
+—
+Riot shield
+4
+—
+9S(e)
+–5
+438    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 444 =====
+CYBERDECKS
+If you were a decker and someone swung a monofil-
+ament claymore at you, you’d protect your cyberdeck 
+with your body, and not the other way around. This isn’t 
+just because the things are fraggin’ expensive—cyber-
+decks (or decks) are a decker’s life’s blood, an all-in-
+one ticket to hacking the planet. The most common 
+form of a deck is a smooth, flat, elongated rectangle, 
+slim with plenty of display space for touch controls, al-
+though they can take many forms. For more informa-
+tion about them, see Cyberdecks, p. 227.
+All cyberdecks include illegal hot-sim modules right 
+out of the box.
+ELECTRONICS ACCESSORIES
+Unless otherwise noted, these accessories are compat-
+ible with commlinks, cyberdecks, and (with the game-
+master’s permission) other electronic devices. 
+AR gloves: Available in numerous styles, AR gloves 
+allow you to manually interact with the Matrix in Aug-
+mented Reality mode, letting you “touch” and “hold” 
+virtual AROs and receiving tactile force-feedback. AR 
+Gloves can provide the exact weight, temperature, and 
+hardness of touched or held objects, and more at the 
+gamemaster’s discretion.
+Biometric reader: Sometimes someone online likes 
+to know it’s really you. This handheld device can be used 
+for fingerprints, retina scans, voice patterns, tongue 
+prints—pretty much anything but a DNA scan. You can 
+use it to lock your electronics so only you (or one of your 
+body parts) can unlock it. 
+Electronic paper: This electronic sheet is anywhere 
+from post-it note to poster sized, and it can be folded 
+or rolled up. It digitally displays images, text, data, or 
+video and can act as a touchscreen. Electronic paper 
+is wireless and can be written on or erased wirelessly. 
+Sometimes hacker gangs cover the surfaces of buildings 
+in electronic paper so they are constantly changing and 
+overwritten with graffiti that can be seen even by people 
+with their AR image-links turned off.
+Printer: In case you need something in hardcopy 
+(perhaps if Mr. Johnson hired you through a time portal), 
+this full-color printer comes attached to a paper supply.
+Satellite link: This allows the user to uplink to com-
+munication satellites in low-Earth orbit, connecting to 
+the Matrix from places where no local wireless networks 
+exist (which is rare but unfortunately extant). This link 
+limits Noise due to distance to –5. Includes a portable 
+satellite dish.
+Simrig: This simsense recorder can record experience 
+data (sensory and emotive) from you or whoever is wear-
+ing it. Simrig rigs are used to make most of the simsense 
+chips sold on the market. You’ll need to have a working 
+sim module (with the DNI interface) to make a recording.
+Subvocal microphone: The next best thing to te-
+lepathy is the ability to stage-whisper at any range. At-
+tached with adhesive to your throat, this hard-to-spot 
+microphone lets you communicate via subvocalized 
+speech. A –4 dice pool modifier is applied to Perception 
+Tests to overhear you when you’re subvocalizing.
+Trid projector: This device projects a trideo hologram 
+into a five-meter cube right next to or above the device. 
+The hologram can be quite realistic, but unless you’re re-
+ally artistic about it, it’s pretty obvious that it’s just trid.
+Trodes: Available as a headband, net, or full-on cap, 
+this electrode-and-ultrasound net gives you a direct 
+neural interface. Useful if you’re too squeamish to get 
+a hole drilled in your head for a datajack. Adding this to 
+headgear takes two slots of Capacity.
+HERMES CYBERDECK
+>> STREET GEAR <<
+COMMLINKS
+MODEL
+DEVICE 
+RATING
+AVAIL
+COST
+Meta Link
+1
+2
+100¥
+Sony Emperor
+2
+4
+700¥
+Renraku Sensei
+3
+6
+1,000¥
+Erika Elite
+4
+8
+2,500¥
+Hermes Ikon
+5
+10
+3,000¥
+Transys Avalon
+6
+12
+5,000¥
+Fairlight Caliban
+7
+14
+8,000¥
+Sim module
+—
+—
++100¥
+     w/ hot-sim
+—
++4F
++250¥
+CYBERDECKS
+DECK
+DEVICE 
+RATING
+ATTRIBUTE 
+ARRAY
+PROGRAMS
+AVAIL
+COST
+Erika MCD-1
+1
+4 3 2 1
+1
+3R
+49,500¥
+Microdeck Summit
+1
+4 3 3 1
+1
+3R
+58,000¥
+Microtrónica Azteca 200
+2
+5 4 3 2
+2
+6R
+110,250¥
+Hermes Chariot
+2
+5 4 4 2
+2
+6R
+123,000¥
+Novatech Navigator
+3
+6 5 4 3
+3
+9R
+205,750¥
+Renraku Tsurugi
+3
+6 5 5 3
+3
+9R
+214,125¥
+Sony CIY-720
+4
+7 6 5 4
+4
+12R
+345,000¥
+Shiawase Cyber-5
+5
+8 7 6 5
+5
+15R
+549,375¥
+Fairlight Excalibur
+6
+9 8 7 6
+6
+18R
+823,250¥
+<< Electronics    439
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 445 =====
+RFID TAGS
+These tiny computers (named after old-fashioned ra-
+dio frequency identification tags) form an integral part 
+of every product commercially available in the Sixth 
+World. Ranging in size from microscopic to slightly 
+larger than a price tag, RFID tags have a stick-to-any-
+thing adhesive backing and can be tricky to spot. Tags 
+are used for geo-tagging locations and objects, leav-
+ing a virtual AR message for anyone who comes by, 
+employee tracking, access control, owner-contact in-
+formation for everything from vehicles to pets, vehicle 
+and weapon registration, and so on. They can also be 
+used as tracking devices, periodically transmitting GPS 
+data to the Matrix.
+RFID tags are devices (p. 234) that can hold one or 
+more files, but not much else. The physical location of 
+a tag can be found via the Matrix (Trace Icon, p. 243). 
+Tag data can be erased with a tag eraser (p. 441) or 
+programmed with an Edit File action (p. 239). RFID tags 
+have owners like all other devices, but unlike other de-
+vices a tag’s owner can be changed to “nobody.”
+Datachip: For occasions when you want to transfer 
+data by physical means—like bringing the project specs 
+on the competition’s new cyberdeck to Mr. Johnson 
+in person at the meet—a datachip can hold enormous 
+quantitites of data in a small finger-sized chip, accessible 
+by any electronic device. Datachips have no wireless ca-
+pability, so you need to plug them into a universal data 
+connector (found on any device) if you want to read or 
+write to them.
+Security tags: Security-conscious megacorps often 
+implant these security tags in their sararimen and valued 
+citizens, either to monitor employee workplace produc-
+tivity, grant and deny clearance and security access, or 
+track employees in the case of abduction or extraction 
+(or escape). These same tags are used on incarcerated 
+and paroled criminals, and parents and schools also use 
+them to track students. Security tags cannot be erased 
+with a tag eraser due to EMP hardening. If a tag is im-
+planted under the skin, an Extended Medicine + Logic 
+[Mental] (10, 1 minute) Test is needed to remove it. 
+Sensor tags: A sensor RFID tag can be equipped 
+with a single sensor (sold separately) of up to Rating 2 
+(Sensors, p. 445). It then records everything it can, to a 
+maximum of 24 hours of time, at which point you can 
+program it to either shut off or overwrite data older than 
+24 hours. Sensor tags are often used for diagnostic pur-
+poses in various devices, including cyberware.
+Wireless: You can monitor the data in real time, if 
+you’re the tag’s owner. The tag still records the last 24 
+hours for you.
+Stealth tags: A stealth tag always runs silent (p. 235) 
+and has a Sleaze rating equal to its Device Rating. It’s 
+disguised to not look like RFID tags, which gives it an 
+additional –2 Concealability modifier. Stealth tags are 
+often used as a backup for security tags by megacorps 
+that are security conscious (and sneaky). They can be 
+implanted the same way security tags can.
+COMMUNICATIONS AND 
+COUNTERMEASURES
+Bug scanner: Also called a radio signal scanner, this 
+device locates and locks in wireless devices within 20 
+meters. The scanner can also measure a signal’s strength 
+and pinpoint its location. To operate a bug scanner, roll 
+Electronic Warfare + Logic [Rating]. A device that is run-
+ning silent (like a Stealth tag) can use its Logic + Sleaze 
+to defend against the scan. If you get any net hits at all, 
+you find the device.
+Wireless: You may substitute the scanner’s Rating for 
+your Electronic Warfare skill when you use it.
+Data Tap: You use this hacking tool by attaching it to 
+a data cable. Once it’s clamped onto the cable, you can 
+use it via universal data connector. Any device directly 
+connected to the data tap also has a direct connection 
+with the devices on either end of the cable (see Direct 
+Connections, p. 232) and vice versa. The tap can be re-
+moved without damaging the cable.
+Wireless: The data-tap can be wirelessly command-
+ed to self-destruct as a Free Action, immediately and 
+>> STREET GEAR <<
+ACCESSORIES
+ACCESSORY
+DEVICE 
+RATING
+AVAIL
+COST
+AR Gloves
+3
+—
+150¥
+Biometric reader
+3
+4
+200¥
+Electronic paper
+1
+—
+5¥
+Printer
+3
+—
+25¥
+Satellite link
+4
+6
+500¥
+Simrig
+3
+12
+1,000¥
+Subvocal mic
+3
+4
+50¥
+Trid projector
+3
+—
+200¥
+Trodes
+3
+—
+70¥
+RFID TAGS
+TAGS (PER 10)
+DEVICE 
+RATING
+AVAIL
+COST
+Standard Tags
+1
+—
+1¥
+Datachip
+1
+—
+5¥
+Security Tags
+3
+3
+5¥
+Sensor Tags
+2
+5
+40¥
+Stealth Tags
+3
+7R
+10¥
+440    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 446 =====
+instantly severing the direct connection. This does not 
+harm the cable.
+Headjammer: The headjammer is used by security 
+personnel to neutralize implanted commlinks. When 
+it’s attached to your head (or other body part) and ac-
+tivated, it works in the same way as any other jammer, 
+with its effects limited to you and your augmentations. 
+Removing a headjammer from someone without the 
+proper key requires a Hardware + Logic [Mental] or a 
+Locksmith + Agility [Physical] (8, 1 Complex Action) 
+Extended Test. Removing a Headjammer from your-
+self without the proper key is an Escape Artist + Agility 
+[Physical] (4) Test, requiring a Complex Action.
+Jammer: This device floods the airwaves with electro-
+magnetic jamming signals to block out wireless and ra-
+dio communication. The jammer generates noise equal 
+to its Device Rating. The area jammer affects a spherical 
+area—its rating is reduced by 1 for every 5 meters from 
+the center (similar to the blast rules for grenades). The 
+directional jammer affects a conical area with a 30-de-
+gree spread—its rating is reduced by 1 for every 20 me-
+ters from the center. The jammer only affects devices 
+(and personas on those devices) that are within the jam-
+ming area, but it affects all of them. Walls and other ob-
+stacles may prevent the jamming signal from spreading 
+or reduce its effect (gamemaster’s discretion).
+Wireless: You can set your jammer to not interfere 
+with devices and personas you designate.
+Micro-transceiver: This classic short-range com-
+municator has been favored by professional operatives 
+since the 2050s. It doesn’t do anything special, it just 
+lets you communicate by voice with other micro-trans-
+ceivers and commlinks that you (and the other person) 
+choose, within a kilometer. The micro-transceiver con-
+sists of an ear bud and an adhesive subvocal micro-
+phone (p. 439), both of which are commonly available 
+in hard-to-spot designs.
+Wireless: The micro-transceiver’s range becomes 
+worldwide.
+Tag eraser: This handheld device creates a strong 
+electromagnetic field perfect for burning out RFID tags 
+and other unshielded electronics. It is probably strong 
+enough to destroy a commlink, and you might want to 
+keep it away from your cyberdeck just in case. When you 
+bring the eraser within 5 millimeters of an electronic de-
+vice and push the button, the device takes 10 boxes of 
+Matrix damage (resisted normally). The extremely short 
+range makes it hard to use on targets like vehicles, most 
+drones, maglocks, and cyberware (and by the time you 
+open them up to get at the electronics, you’ve already 
+done plenty of damage). The tag eraser has one charge 
+but can be fully recharged at a power point in 10 seconds.
+Wireless: The tag eraser recharges fully in an hour by 
+induction.
+White noise generator: This device creates a field 
+of random noise, masking the sounds within its area 
+and preventing direct audio surveillance. All Perception 
+Tests to overhear a conversation within (Rating) meters 
+of a white noise generator receive a negative dice pool 
+modifier equal to the generator’s Rating. If more than 
+one generator is in use, only count the highest rating. A 
+white noise generator is redundant in a noisy environ-
+ment (such as a nightclub or a firefight) and does not 
+help to curtail video surveillance or jam wireless signals.
+Wireless: The white noise generator’s effective radius 
+is tripled.
+SOFTWARE
+Software can be purchased as an online download or less 
+commonly on chip from physical stores. Datasofts, map-
+softs, shopsofts, and tutorsofts can be easily stored and 
+accessed on a commlink, dataterminal, or cyberdeck.
+Agents and cyberprograms: These are used in cy-
+berdecks and are explained in Programs, p. 243.
+Autosofts: For information on these programs for 
+drones, see p. 269.
+Datasofts: Datasofts encompass a wide variety of in-
+formation files, databases containing information on ev-
+erything from hydraulic fracturing to 18th century roman-
+tic poetry. An appropriate datasoft gives you a +1 bonus 
+to your Mental limit on related Knowledge Skill Tests.
+Mapsoft: Mapsoft programs feature detailed infor-
+mation about a particular area, from streets to business/
+residential listings to topographical, census, GPS and 
+environmental data. An interactive interface allows you 
+to quickly determine the best routes and directions, lo-
+cate the nearest spot of your choice, or create your own 
+customized maps. If a wireless link is maintained, the 
+map automatically self-updates with the latest data from 
+GridGuide. Of course, this feature also means that the 
+mapsoft can be used to track your location. At the gam-
+emaster’s discretion, mapsofts provide a +1 limit bonus 
+to Navigation Tests made to navigate the area they cover.
+Shopsofts: Shopping apps like Clothes Horse, Cave-
+at Emptour, and Guns Near Me provide pricing break-
+downs and user reviews for comparison shopping 
+purposes, both for standard goods and black market 
+purchases. Shopsofts self-update regularly to stay cur-
+>> STREET GEAR <<
+COMMUNICATIONS
+DEVICE
+AVAIL
+COST
+Bug scanner (Rating 1-6)
+(Rating)R
+Rating x 100¥
+Data tap
+6R
+300¥
+Headjammer (Rating 1-6)
+(Rating)R
+Rating x 150¥
+Jammer, area (Rating 1-6)
+(Rating x 3)F
+Rating x 200¥
+Jammer, directional 
+(Rating 1-6)
+(Rating x 2)F
+Rating x 200¥
+Micro-transceiver
+2
+100¥
+Tag eraser
+6R
+450¥
+White noise generator 
+(Rating 1-6)
+Rating
+Rating x 50¥
+<< Electronics    441
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 447 =====
+rent. An appropriate shopsoft—one exists for each type 
+of product like electronics, firearms, melee weapons, ar-
+mor, et cetera—provides a +1 bonus to your Social limit 
+for all Availability and Negotiation tests you make to buy 
+and sell those items.
+Tutorsofts: These virtual private tutors aid you in 
+learning a specific skill. The tutorsoft makes Instruction 
+Tests with a dice pool equal to its Rating x 2. Tutorsofts 
+cannot teach skills based on Magic or Resonance.
+SKILLSOFTS
+A skillsoft program is a recorded skill—digital knowl-
+edge and muscle memory. When used in conjunction 
+with the proper augmentations (a skilljack for know-
+softs and linguasofts, and a skillwire system for active-
+softs) skillsofts let you know and do things you’ve nev-
+er otherwise learned. Even kung fu.
+Skillsofts aren’t educational tools; you can’t actually 
+learn from them. They’re highly favored by corporations 
+interested in a cheaper labor force (when the difference 
+between a skilled and unskilled worker can be as simple 
+as slotting a chip, the difference in salary is smaller).
+When a skill test is called for, the character may use 
+the skillsoft rating in place of the skill. Downside: tests 
+made with a skillsoft may not be boosted with Edge in 
+any way.
+Activesofts: Activesofts replace physical active 
+skills, basically every Active skill that isn’t based on Mag-
+ic or Resonance. A skillwire system (p. 455) is needed to 
+translate the ‘softs into usable muscle memory. There’s 
+a limit to the number of skills you can use at once, based 
+on your skillwire’s rating.
+Knowsofts: Knowsofts replicate Knowledge skills, 
+actively overwriting the user’s knowledge with their own 
+data. Knowsofts must be accessed with a skilljack, and 
+the number you can use at once is limited by the skilljack.
+Linguasofts: Linguasofts replicate language skills, 
+allowing a user to speak a foreign language by auto-
+matically translating signals from the speech cortex, 
+although chipped speech can be awkward and stilted—
+then again, so can anyone speaking a language that’s 
+not their native tongue. Linguasofts must be accessed 
+with a skilljack, which limits how many skillsofts you can 
+use at a time.
+ID AND CREDIT
+IDs and credsticks are discussed in more detail under 
+Identification, p. 366.
+Certified credstick: Cash for the late 21st century. A 
+certified credstick is not registered to any specific person—
+the electronic funds encoded on it belong to the holder, re-
+quiring no special ID or authorization to use. The bad news 
+is that you can be physically mugged, any money you have 
+on your credstick jacked and rolled. The good news is that 
+certified credsticks are completely untraceable. They’re not 
+even wireless—you have to slot them into a universal data 
+connector to transfer cash onto or off of them. This makes 
+them enduringly popular with shadowrunners and the Mr. 
+Johnsons who love to hire them.
+Each type of credstick can only hold up to a certain 
+amount of money, listed on the table. This is the maxi-
+mum amount it can carry, not the amount it always has 
+on it—so don’t get excited when you see a gold cred-
+stick until you’ve slotted it and checked its balance.
+Credit account: A credit account is an online bank-
+ing account that can be accessed at any time via your 
+commlink. Transactions require passcode or biometric 
+verification to be authorized. The good news is no one 
+can (physically) steal your bank account, and hacking 
+credit accounts often requires a run to Zurich Orbital or 
+something equally suicidal. The bad news is that digi-
+tal transactions leave a “paper trail” that, while it can be 
+hidden or concealed, is entirely too traceable for seri-
+ous criminal activities. Each account must be registered 
+to a particular (usually fake) SIN, unless the account is 
+handled by an anonymous underworld banking service 
+(with its own risks and complications). The cost of bank-
+ing services is included in your lifestyle costs if you’ve 
+got a Low Lifestyle or better—otherwise you’ll need to 
+keep all your money on credsticks.
+Fake system identification number (SIN): In 2075, 
+you’re just a number. A SIN (or its international equiv-
+alents) is what makes a mere metahuman into a real 
+person. Solid citizens receive their SINs at birth and car-
+ry them until they die. Not having a SIN means living 
+outside the system, living with restricted or non-existent 
+civil rights. Shadowrunners by default are SINless—they 
+>> STREET GEAR <<
+SOFTWARE
+PROGRAM/SOFTWARE
+AVAIL
+COST
+Agent (Rating 1–3)
+Rating x 3
+Rating x 1,000¥
+Agent (Rating 4–6)
+Rating x 3
+Rating x 2,000¥
+Autosoft
+Rating x 2
+Rating x 500¥
+Cyberprogram, common use
+—
+80¥
+Cyberprogram, hacking
+6R
+250¥
+Datasoft
+4
+120¥
+Mapsoft
+4
+100¥
+Shopsoft
+4
+150¥
+Tutorsoft (Rating 1–6)
+Rating
+Rating x 400¥
+SKILLSOFTS
+SKILLSOFT
+AVAIL
+COST
+Activesofts (Rating 1–6)
+8
+Rating x 5,000¥
+Knowsofts (Rating 1–6)
+4
+Rating x 2,000¥
+Linguasofts (Rating 1–6)
+2
+Rating x 1,000¥
+442    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 448 =====
+have a SIN only if they have the SINner quality (p. 84). 
+Most runners don’t have one, either because they were 
+unfortunate enough to be born poor, or because they 
+lost it or ditched it somewhere along the way. SINs are 
+digital, not physical objects. They exist on your com-
+mlink, or in your PAN. 
+Getting by without a SIN can be a pain, so most run-
+ners settle for the next best thing: a fake. High quality 
+fakes are difficult for The Man to spot; low quality fakes 
+are … less good. The rating of the fake SIN is used in tests 
+against verification systems (Fake SINs, p. 367) .
+Just like a real SIN, anytime you use a fake SIN for le-
+gitimate activity, you leave a datatrail in your wake. The 
+fact that criminal activities can be tracked to fake SINs 
+makes fake SINs inherently disposable. Most runners 
+operate two or more fake SINs at a time, one for legal 
+activity like paying rent and going shopping, another 
+for shadier activity, and possibly a third to be used only 
+when it’s time to get the hell outta Dodge.
+Fake license: For those who can’t or won’t go through 
+the standard legal channels, fake licenses are available for 
+all kinds of restricted items and activities. Items with no 
+letter next to their availability don’t require licenses. Items 
+that are Forbidden have no license available. Licenses, 
+therefore, are for Restricted items. Each type of item/ac-
+tivity permission requires a separate license. Things that 
+require licenses include hunting (bow and rifle), posses-
+sion of a firearm, concealed carry of a firearm (separate 
+license), spellcasting, and any Restricted gear or augmen-
+tations, etc. Just as SINs essentially exist on your com-
+mlink, fake licenses exist on your SIN and are linked to it. 
+When you buy a fake concealed-carry license, you don’t 
+buy it for Murderman the professional shadowrunner, 
+you buy it for John Doe, one of Murderman’s fake SINs. 
+Each license must be assigned to a particular (fake) SIN of 
+the player’s choosing. Use the fake license’s rating against 
+verification systems (Fake SIN, p. 367). 
+TOOLS
+Building and repairing items requires the right tools for 
+the job. Tools must be bought separately for a specific 
+skill (for example, an Ar-
+morer shop, a Disguise kit, 
+a Nautical Mechanic facil-
+ity, etc.). A kit is portable 
+and contains the basic gear 
+to make standard repairs. 
+A shop is transportable in 
+the back of a van and con-
+tains more advanced tools 
+for building and repairing. 
+A facility needs a building 
+and is immobile because of the bulky and heavy ma-
+chines involved, but it can be used for very advanced 
+constructions and modifications. Shops and facilities are 
+both stocked with standard spare parts.
+There are some guidelines to help you figure out 
+when a kit, shop, or facility is necessary for a particular 
+job (Building & Repairing, p. 145). The gamemaster gets 
+final say, though, and might even tell you that you need 
+specific or unusual parts you have to get separately.
+OPTICAL AND 
+IMAGING DEVICES
+From wiz shades to bulky goggles, basic vision enhancers 
+are available in several forms. All such devices have—and 
+by default use—wireless capability, although you can use 
+a universal data cable for most of them. Each device has 
+a Capacity that allows you to add vision enhancements. 
+Some of these devices are worn, while others are external 
+sensor devices or even attached to weapons.
+Binoculars: Typically handheld, binoculars come 
+with built-in vision magnification. Binoculars are avail-
+able in optical (which can’t take additional vision en-
+hancements) and electronic versions (which can take 
+vision enhancements).
+Camera: A common visual device, cameras can 
+capture still photos, video, and trideo, including sound. 
+Cameras may also be upgraded with vision enhance-
+ments and audio enhancements. A micro version is 
+available with a Capacity 1.
+Contacts: The most recent display devices are worn 
+directly on the eyes. They are nearly undetectable, but 
+they offer a bit of space for enhancements. Contacts 
+have to be wireless; they don’t have room for a universal 
+data connector.
+Glasses: Glasses are lenses contained in light-
+weight frames worn on the bridge of the nose; numer-
+ous cosmetic styles are available, and vision-enhance-
+ment-equipped glasses are hard to distinguish from 
+prescription glasses or sunglasses at a glance.
+Goggles: Relatively large and bulky, goggles are 
+strapped to the head, making them difficult to dislodge. 
+>> STREET GEAR <<
+CREDSTICKS
+TYPE
+MAX VALUE
+AVAIL
+COST
+Standard
+5,000¥
+—
+5¥
+Silver
+20,000¥
+—
+20¥
+Gold
+100,000¥
+5
+100¥
+Platinum
+500,000¥
+10
+500¥
+Ebony
+1,000,000¥
+20
+1,000¥
+IDENTIFICATION
+TYPE
+AVAIL
+COST
+Fake SIN (Rating 1-6)
+(Rating x 3)F
+Rating x 2,500¥
+Fake license (Rating 1-6)
+(Rating x 3)F
+Rating x 200¥
+TOOLS
+TYPE
+AVAIL
+COST
+Kit
+—
+500¥
+Shop
+8
+5,000¥
+Facility
+12
+50,000¥
+<< Electronics    443
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 449 =====
+Goggles have the potential to install a wide array of vi-
+sion enhancements.
+Imaging Scopes: These are vision enhancers and dis-
+play devices that are usually top-mounted on weapons 
+(Firearm Accessories, p. 431).
+Monocle: A monocle is worn on a headband or hel-
+met with a flip-down arm, or (for the old-fashioned look) 
+on a chain.
+OPTICAL DEVICES
+These devices use optical technology (glass bending or 
+reflecting light), not electronics, to function. They have 
+many uses, one of the most dramatic of which is that 
+they enable a magician to obtain line of sight for spell-
+casting from cover, something that can’t be accom-
+plished with electronic devices. Spellcasting targeted 
+through optics this way suffers a –3 dice pool modifier. 
+Optical devices can’t take vision enhancements.
+Endoscope: This fiber-optic cable is at least 1 meter 
+long, with the first 20 centimeters on either side made 
+up of myomeric rope (p. 449) and an optical lens. It al-
+lows the user to look around corners, under door slits, 
+or into narrow spaces. It is available in any number of 
+lengths, although longer segments can be unwieldy.
+Mage Sight Goggles: These heavy goggles are con-
+nected to a myomeric rope (p. 449) wrapped around a 
+fiber-optic cable that ends in an optical lens. The rope is 
+available in lengths of 10, 20, or 30 meters.
+Periscope: An L-shaped tube with two mirrors, the 
+periscope allows the user to look, shoot, or cast spells 
+around corners.
+VISION ENHANCEMENTS
+A number of options are available for installation in visu-
+al sensors and imaging devices from contacts to camer-
+as. Each enhancement has an associated Capacity cost.
+Low-light vision: This accessory allows you to see 
+normally in light levels as low as starlight. It doesn’t help 
+in total darkness, though.
+Flare compensation: This protects you from blinding 
+flashes of light as well as simple glare. It mitigates the 
+vision modifiers for glare and reduces the penalty from 
+flashing lights, like from a flash-pak.
+Image link: A standard upgrade, this lets you display 
+visual information (text, pictures, movies, the current 
+time, etc.) in your field of vision. This is usually AROs, 
+but you can display pretty much whatever you want on 
+it. You and your team can use it to share tactical and sit-
+uational info in real time. An image link is what you need 
+to truly “see” AR and participate in the modern world.
+Smartlink: This accessory works with a smartgun sys-
+tem to give you the full benefit of the system. The smart-
+gun will tell you the range to various targets, as well as 
+ammunition level (and type), heat buildup, mechanical 
+stress and so on. Without a smartlink, a smartgun system 
+just sends out data that isn’t received by anyone and has 
+no effect. A smartlink installed in a natural eye or in a pair 
+of cybereyes is more effective than a smartlink installed in 
+an external device; see Smartgun System, p. 433.
+Thermographic vision: This enhancement enables 
+vision in the infrared spectrum, enabling you to see heat 
+patterns. It’s a very practical way to spot living beings in 
+areas of total darkness, to check if a motor or machine 
+has been running lately, and so on. 
+Vision enhancement: This sharpens a character’s vi-
+sion at all ranges, providing visual acuity closer to that of 
+the average hawk than that of the average metahuman. 
+It adds its Rating as a positive modifier to your limit on 
+visual Perception Tests.
+Wireless: Add the vision enhancement’s rating as a 
+dice pool modifier to your visual Perception Tests.
+Vision magnification: This zoom function digitally 
+magnifies vision by up to fifty times, allowing distant 
+targets to be seen clearly. For rules on using vision mag-
+nification in ranged combat, see p. 177.
+>> STREET GEAR <<
+OPTICAL & IMAGING DEVICES
+DEVICE
+AVAIL
+COST
+Binoculars (Capacity 1–3)
+—
+Capacity x 50¥
+Binoculars, Optical
+—
+50¥
+Camera (Capacity 1–6)
+—
+Capacity x 100¥
+Micro–Camera (Capacity 1)
+—
+100¥
+Contacts (Capacity 1–3)
+6
+Capacity x 200¥
+Glasses (Capacity 1–4)
+—
+Capacity x 100¥
+Goggles (Capacity 1–6)
+—
+Capacity x 50¥
+Endoscope
+8
+250¥
+Imaging Scopes (Capacity 3)
+2
+300¥
+Periscope
+3
+50¥
+Mage Sight Goggles
+12R
+3,000¥
+Monocle (Capacity 1–4)
+—
+Rating x 120¥
+VISION ENHANCEMENTS
+ENHANCEMENT
+CAPACITY
+AVAIL
+COST
+Low-light vision
+[1]
++4
++500¥
+Flare compensation
+[1]
++1
++250¥
+Image link
+[1]
+—
++25¥
+Smartlink
+[1]
++4R
++2,000¥
+Thermographic vision
+[1]
++6
++500¥
+Vision enhancement
+[Rating]
++Rating x 2
++(Rating 
+x 500)¥
+Vision magnification
+[1]
++2
++250¥
+444    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 450 =====
+AUDIO DEVICES
+There are several common types of audio devices. Each 
+device has a Capacity that allows you to add audio en-
+hancements.
+Directional microphone: This lets you listen in on 
+distant conversations. Solid objects or loud sounds 
+along the line of eavesdropping interfere, of course. It’s 
+as if you’re up to one hundred meters closer to whatever 
+you’re pointing the mic at.
+Ear buds: These ergonomic ear plugs are hard to 
+spot and harder still to differentiate from the standard 
+kind that comes with every music player and commlink.
+Headphones: A full headset with an adjustable 
+headband strap, or attached to a headphone. Earbuds 
+are harder to spot, but headphones pack more capacity.
+Laser microphone: This 
+sophisticated 
+sensor 
+bounces a laser beam against a solid object like a win-
+dowpane, reads the vibrations on the surface, and 
+translates them into the sounds that are occurring on 
+the other side of the surface. Maximum range is 100 
+meters. A laser microphone cannot fit the spatial rec-
+ognizer audio enhancement.
+Omni-directional microphone: A standard omni-
+directional audio pickup and recorder. Usually incor-
+porated into, connected to, or wirelessly linked with a 
+commlink or other recording device. Micro versions are 
+available at Capacity 1 only and have a Maximum Range 
+of only 5 meters.
+AUDIO ENHANCEMENTS
+Audio enhancements are commonly available as in-
+stallable upgrades to any of the audio sensors listed 
+above. Each will play audio input from AR or other 
+sources. Each enhancement has an associated capac-
+ity cost.
+Audio enhancement: Audio enhancement allows 
+the user to hear a broader spectrum of audio frequen-
+cies, including high and low frequencies outside the 
+normal metahuman audible spectrum. The user also 
+experiences fine discrimination of nuances and can 
+block out distracting background noise. Audio en-
+hancement adds its Rating to your limit in audio Per-
+ception Tests.
+Wireless: Add the audio enhancement’s rating as a 
+dice pool modifier to your audio Perception Tests.
+Select sound filter: This lets you block out back-
+ground noise and focus on specific sounds or patterns 
+of sounds. It even includes speech, word, and sound 
+pattern recognition. Each Rating point lets you select a 
+single sound group (such as the footsteps of a patrolling 
+guard or the rotors of a distant helicopter) and focus on 
+it. You only actively listen to one group at a time, but 
+you can record the others for later playback or set them 
+to triggered monitoring (such as sounding an alert if a 
+conversation brings up a certain topic, or if there’s a vari-
+ation in the breathing pattern of a guard dog).
+Spatial recognizer: This hearing accessory pinpoints 
+the source of a sound. You get a +2 bonus on your limit 
+in Perception Tests to find the source of a specific sound.
+Wireless: You get a +2 dice pool modifier to your Per-
+ception Tests when looking for a sound’s source.
+SENSORS	
+Sensors are found almost everywhere. Cheaply pro-
+duced by the billions, miniaturization and integration 
+have made sensors both located everywhere and hard 
+to spot. You can put sensors in just about everything, 
+and lots of people do. Your can of FizzyGoo is watching 
+you and reporting back to marketing. You can play the 
+sensor game, too.
+Sensors need to be placed in a housing or case of 
+some sort, or built into another device. Sensors can re-
+cord data themselves or forward it wirelessly in real-time 
+or as files to other devices. Sensors are available in seven 
+ratings (2–8) and two types: single and array. When you 
+use the sensor array for Perception Tests, you may use 
+your Electronic Warfare skill in place of your Perception 
+skill, and you may use the sensor’s Rating as your limit.
+Sensor array: This sensor package includes up to 
+eight functions listed under Sensor Functions.
+Single sensor: This is a sensor that can do only one 
+function listed under Sensor Functions.
+HOUSINGS
+Sensors can be put into devices that have capacity. 
+Most vehicles and drones come factory-equipped with 
+a sensor array (at a rating listed with their stats). What 
+you can put your sensor in is limited by the Rating of 
+the sensor (see Sensor Housings table).
+>> STREET GEAR <<
+AUDIO DEVICES
+DEVICE
+AVAIL
+COST
+Directional mic (Capacity 1-6)
+4
+Capacity x 50¥
+Ear buds (Capacity 1-3)
+—
+Capacity x 50¥
+Headphones (Capacity 1-6)
+—
+Capacity x 50¥
+Laser mic (Capacity 1-6)
+6R
+Capacity x 100¥
+Omni-directional mic 
+(Capacity 1-6)
+—
+Capacity x 50¥
+AUDIO ENHANCEMENTS
+ENHANCEMENT
+CAPACITY
+AVAIL
+COST
+Audio enhancement 
+(Rating 1-3)
+[Rating]
++Rating x 2
++(Rating 
+x 500)¥
+Select sound filter 
+(Rating 1-3)
+[Rating]
++Rating x 3
++(Rating
+x 250)¥
+Spatial recognizer
+[2]
++4
++1,000¥
+<< Electronics    445
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 451 =====
+SENSOR FUNCTIONS
+All of the functions you can choose for your sensor(s) 
+are listed on the Sensor Functions table. If a function has 
+the same name as an imaging or audio device, it’s the 
+same as its description in those sections, with a Capacity 
+equal to its Rating, and thus is not described here.
+Atmosphere sensor: Weather forecasts are notori-
+ously untrustworthy (thanks to pollution, the Awakening, 
+and other factors), but atmospheric sensors can keep you 
+from getting caught in the rain with up-to-the second 
+analysis of what’s happening in the air around you.
+Cyberware scanner: This millimeter-wave scanner 
+is primarily intended to detect cyber-implants but can 
+be used to identify other contraband as well. Maximum 
+range 15 meters.
+Geiger counter: This sensor picks up the amount of 
+radioactivity surrounding it.
+Laser range finder: This simple sensor emits a laser 
+beam that is reflected off a target’s surface and picked up 
+by a detector to calculate the exact distance to the target.
+MAD scanner: The MAD (Magnetic Anomaly Detec-
+tion) scanner is used to detect weapons and concentra-
+tions of metal. It has a maximum range of 5 meters. 
+Motion sensor: This sensor uses a mix of ultrasound 
+and low-power infrared to detect motion and drastic 
+changes in the ambient temperature. Maximum range 
+is 25 meters. 
+Olfactory scanner: The olfactory sensor picks up 
+and analyzes the molecules in the air. It works in the 
+same way as the olfactory booster cyberware.
+Radio signal scanner: This can be used as a bug 
+scanner (p. 440).
+Ultrasound: The ultrasound accessory consists of an 
+emitter that sends out continuous ultrasonic pulses and 
+a receiver that picks up the echoes of these pulses to 
+create a topographic ultrasound map. Ultrasound is per-
+fect to “see” textures, calculate distances between ob-
+jects, and pick up things otherwise invisible to the naked 
+eye (like people cloaked by an Invisibility spell), it can’t 
+handle colors or brightness. It also can’t penetrate mate-
+rials like glass that would be transparent to optical sen-
+sors. You can set it to a passive mode, where it doesn’t 
+emit ultrasonic pulses but still picks up ultrasound from 
+outside sources, such as motion sensors or someone 
+else’s ultrasound sensors on active mode (or bats).
+Vision magnification: This zoom function digitally 
+magnifies vision by up to 50 times, allowing distant tar-
+gets to be seen clearly assuming a clear line of sight. For 
+rules on using vision magnification in ranged combat, 
+see p. 178.
+SECURITY DEVICES
+For more details on how security devices are used, see 
+p. 362.
+Key lock: Even in the wireless world, there are still 
+some mechanical key locks and combination locks 
+around. Some of them are old infrastructure that is still 
+in place to save money, others for nostalgia, still others 
+because modern burglars don’t expect them. For more 
+details, see p. 363.
+>> STREET GEAR <<
+SENSOR HOUSINGS
+SENSOR
+PACKAGE
+MAX 
+SENSOR 
+RATING
+RFID, audio or visual device, headware
+2
+Handheld device, small (or smaller) drone
+3
+Wall-mounted Device, medium drone
+4
+Large drone, cyberlimb
+5
+Motorcycle
+6
+Vehicle (larger than a motorcycle)
+7
+Buildings, airports, etc.
+8
+SENSOR FUNCTION
+FUNCTION
+MAX RANGE
+Atmosphere sensor
+—
+Camera
+—
+Cyberware scanner
+15 meters
+Directional microphone
+—
+Geiger counter
+—
+Laser microphone
+100 meters
+Laser range finder
+1,000 meters
+MAD scanner
+5 meters
+Motion sensor
+25 meters
+Olfactory sensor
+—
+Omni-directional microphone
+—
+Radio signal scanner
+20 meters
+Ultrasound
+50 meters
+SENSORS
+DEVICE
+CAPACITY
+AVAIL
+COST
+Handheld Housing
+1-3
+—
+Capacity 
+x 100¥
+Wall-Mounted 
+Housing
+1-6
+—
+Capacity 
+x 250¥
+Sensor Array
+(Rating 2-8)
+[6]
+7
+Rating 
+x 1,000¥
+Single Sensor
+(Rating 2-8)
+[1]
+5
+Rating 
+x 100¥
+446    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 452 =====
+Maglock: Maglocks are electronic locks with a vari-
+ety of access control options, from biometrics, to key-
+cards, to passcards. For more information about ma-
+glocks and their options, see Maglocks, p. 363.
+Restraints: Standard metal restraints (Armor 16, 
+Structure 2) come with a mechanical or a wireless-con-
+trolled lock (Barriers, p. 197). Modern plasteel restraints 
+(Armor 20, Structure 2) are flash-fused and remain in 
+place until the subject is cut free. Disposable plastic 
+straps (Armor 6, Structure 1) are lightweight and easy to 
+carry in bundles. Containment manacles are metal (Ar-
+mor 16, Structure 2) and attached to a prisoner’s wrists 
+or ankles to prevent her from moving faster than a shuf-
+fle or extending a cyber-implant weapon.
+BREAKING AND 
+ENTERING GEAR
+Rules for typical security devices and how to break 
+them can be found on p. 362. Most of the gear you’d 
+expect to find here but isn’t can be covered with the 
+appropriate tools (p. 443).
+Autopicker: This lockpick gun is a quick and effective 
+way of bypassing mechanical locks. The autopicker’s rat-
+ing is added to your limit when picking a mechanical lock.
+Wireless: Having access to a huge online database of 
+mechanical locks lets you add the autopicker’s rating as 
+a dice pool modifier to your test when picking a me-
+chanical lock.
+Cellular glove molder: This device will take a finger 
+or palm print and mold a “sleeve” you can wear to mimic 
+the print to fool some biometric locks (Maglocks, p. 363).
+Chisel/crowbar: The chisel (or crowbar if you prefer) 
+doubles your effective Strength when you’re forcing a 
+door or container.
+Keycard copier: The keycard copier allows the user 
+to copy a (stolen) keycard in seconds. A new keycard 
+can then be manufactured with a Hardware kit, about 
+ten minutes, and a Hardware + Logic [Mental] (2) Test. 
+>> STREET GEAR <<
+SECURITY AND RESTRAINTS
+SECURITY DEVICE
+AVAIL
+COST
+Key/combination lock
+(Rating 1-6)
+Rating
+Rating x 10¥
+Maglock
+Rating
+Rating x 100¥
+Keypad or card reader
+—
++50¥
+Anti-tamper circuits (Rating 1-4)
++Rating
++(Rating x 250)¥
+Biometric reader
++4
++200¥
+RESTRAINT
+AVAIL
+COST
+Metal
+—
+20¥
+Plasteel
+6R
+50¥
+Plastic (per 10)
+—
+5¥
+Containment manacles
+6R
+250¥
+<< Electronics    447
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 453 =====
+When used, the forged keycard uses its Rating x 2 in 
+an Opposed Test against the Maglock Rating x 2 (Ma-
+glocks, p. 363). Some security systems may note the 
+unusual usage of duplicate keys, like when “Dr. Scien-
+tist” accesses a lab that she just accessed and hasn’t 
+left yet.
+Lockpick set: These mechanical burglary devices 
+have undergone only slight improvements in the last sev-
+eral centuries. They are necessary tools for picking locks.
+Maglock passkey: This maglock “skeleton key” can 
+be inserted into any cardreader’s maglock, cleverly fool-
+ing it into believing that a legitimate passkey has been 
+swiped. See Maglocks, p. 363.
+Wireless: The passkey receives a +1 bonus to its Rating.
+Miniwelder: This portable device creates a small 
+electric arc to melt metals, either to cut through met-
+al or to weld it together. Its power supply allows it to 
+operate for 30 minutes. While creating an intense heat, 
+the arc is much too small to make a good weapon (it 
+would be like trying to stab someone with a lighter). 
+The miniwelder has a Damage Value of 25 when used 
+to cut through barriers.
+Monofilament chainsaw: The top of each chain 
+segment on this portable motorized saw is covered 
+with monofilament wire. Ideal for cutting through trees, 
+doors, and other immovable objects. A monofilament 
+chainsaw is too unwieldy to make a good melee weap-
+on (use Exotic Melee Weapon skill). When used against 
+barriers, double the monofilament chainsaw’s Damage 
+Value of 8P.
+Sequencer: An electronic device requried to defeat 
+keypad-maglocks. See Maglocks, p. 363.
+Wireless: The sequencer receives a +1 bonus to its 
+Rating.
+INDUSTRIAL CHEMICALS
+If you’re looking for toxins and drugs, you should go 
+to p. 408.
+Glue solvent: This spray can has enough solvent to 
+dissolve about a square meter of fast-drying aerosol 
+superglue.
+Glue sprayer: This fast-drying aerosol superglue al-
+lows you to quickly glue two rigid surfaces together, and 
+holds enough for about a square meter of glue (enough 
+to glue an exterior door or picture window shut). The 
+glue takes 1 Combat Turn to harden. The glue has Body 
+and Strength Ratings of 5 for the purpose of trying to 
+force it (an Opposed Body + Strength Test).
+Thermite burning bar: Thermite gel is an incendiary 
+material that burns at extremely high temperatures. It is 
+applied with the help of a burning bar—a rod of thermite 
+and oxygen mounted on a handle and in a frame—that 
+can be used to melt holes in iron, steel, and even plasteel. 
+The thermite burning bar inflicts Fire Damage with a DV 
+of 30P. It has to be set carefully, so a thermite bar can’t be 
+used as a weapon (unless your target is tied up or uncon-
+scious or something, in which case, wow, ouch).
+Wireless: The burning bar can be activated wirelessly.
+SURVIVAL GEAR
+Common survival gear includes the following:
+Chemsuit: This impermeable coverall is worn over 
+clothes or armor and provides chemical protection equal 
+to its Rating (Chemical Protection, p. 437). It is not to 
+be confused with a full hazmat suit, as it is not vacuum 
+sealed. If a chemsuit is worn on top of chemical-resistant 
+armor, only the highest chemical protection rating applies.
+Climbing gear: This is a backpack full of rope (400-
+kilo test), an ascent/descent harness, gloves, carabiners, 
+crampons, and so forth needed for assisted climbing 
+(Climbing, p. 134).
+Diving gear: Underwater diving equipment, includ-
+ing a diving suit, partial facemask with snorkel, breathing 
+regulator, an air tank with 2 hours of air, and an inflatable 
+vest for quick returns to the surface. The regulator and 
+air tank protect against inhalation toxins just like a gas 
+mask. The wet suit provides Rating 1 resistance to Cold 
+damage (p. 170). Wireless signals don’t work very well 
+underwater, but the wireless systems in the diving gear 
+help with prep and maintenance.
+>> STREET GEAR <<
+B&E GEAR
+GEAR
+AVAIL
+COST
+Autopicker (Rating 1-6)
+8R
+Rating x 500¥
+Cellular glove molder (Rating 1-4)
+12F
+Rating x 500¥
+Chisel/crowbar
+—
+20¥
+Keycard copier (Rating 1-6)
+8F
+Rating x 600¥
+Lockpick set
+4R
+250¥
+Maglock passkey (Rating 1-4)
+(Rating x 3)F
+Rating x 2,000¥
+Miniwelder
+2
+250¥
+Miniwelder fuel canister
+2
+80¥
+Monofilament chainsaw
+8
+500¥
+Sequencer (Rating 1-6)
+(Rating x 3)F
+Rating x 250¥
+EXOTIC MELEE WEAPON
+ACC
+REACH
+DAMAGE
+AP
+Monofilament chainsaw
+3
+1
+8P
+–6
+INDUSTRIAL CHEMICALS
+CHEMICALS
+AVAIL
+COST
+Glue solvent
+2
+90¥
+Glue sprayer
+2
+150¥
+Thermite burning bar
+16R
+500¥
+448    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF 454 =====
+Flashlight: By 2075, most flashlights are long last-
+ing and super bright. Durability and brightness depend 
+on the size—the bulkier, the better. Flashlights are also 
+available in low-light and infrared versions, reducing 
+visibility modifiers for low-light and thermographic vi-
+sion, respectively. A flashlight can also be mounted to 
+a weapon’s top or under-barrel mount (Mounts, p. 417).
+Gas mask: This air-supplied re-breather complete-
+ly covers your face and gives you immunity to inhala-
+tion-vector toxin attacks (Toxins, Drugs, and BTLs, p. 
+408). It comes with a one-hour clean-air supply (replace-
+ments cost 40 nuyen) and can be attached to larger air 
+tanks. It cannot be combined with a regular respirator.
+Wireless: The gas mask analyzes and gives you informa-
+tion about the surrounding air that you’re not breathing.
+Gecko tape gloves: The outer layer of these gloves is 
+made of a special dry adhesive that incorporates millions 
+of fine microscopic hairs that bond to other surfaces. In-
+dividually, these bonding forces are tiny, but combined 
+they’re strong enough to attach a troll, upside down, to 
+the ceiling. Gecko tape gloves come as a set that includes 
+gloves, kneepads, and slip-on-soles. You get to use as-
+sisted climbing (p. 134) when you’re wearing the set. 
+Gecko tape gloves are useless when they’re wet.
+Wireless: The adhesive outer layer can be temporarily 
+neutralized with a wireless signal, useful for getting the 
+gloves on and off without getting them stuck to yourself 
+or each other.
+Hazmat suit: The hazmat suit covers your whole 
+body and includes an internal air tank with four hours 
+of air. As long as it’s not damaged, it provides you with 
+a chemical seal (p. 437) and protects you from contact 
+and inhalation vector toxin attacks (Toxins, Drugs, and 
+BTLs, p. 408). Many hazmat suits come standard with a 
+Geiger counter (Sensors, p. 445).
+Wireless: The suit analyzes and transmits informa-
+tion about the environment that you’re not touching or 
+breathing.
+Light stick: Bend, snap, and shake it to produce three 
+hours of soft chemical illumination that covers a ten-me-
+ter radius.
+Magnesium torch: Strike and activate for five min-
+utes of bright torchlight.
+Micro flare launcher: The flare launcher can shoot 
+colored flares about 200 meters into the air, illuminating 
+an area the size of a city block for a couple of minutes 
+and negating the modifier for poor or low lighting. If you 
+shoot it at someone, use the Exotic Ranged Weapon 
+skill; the micro flare deals 5P Fire damage.
+Rappelling gloves: These gloves are made of a spe-
+cial fabric that allows you to get a tighter grip on a grap-
+ple line, giving you a +2 dice pool bonus on all tests to 
+hold your grip on the line. These gloves are necessary 
+in order to use ultrathin microwire without gruesomely 
+slicing your hands apart as you slide down it.
+Respirator: A respirator is a filter-mask worn over the 
+mouth and nose that protects against inhalation-vector 
+toxins (Toxins, Drugs, and BTLs, p. 408). The respirator 
+adds its rating to toxin resistance tests against inhala-
+tion-vector toxins.
+Survival kit: An assortment of survival gear in a rug-
+ged bag. Includes a knife, lighter, matches, compass, 
+lightweight thermal blanket, several days’ worth of ra-
+tion bars, a water-purification unit, and more. A good 
+item to consider for your go-bag.
+GRAPPLE GUN
+This gun can shoot a grappling hook and attached 
+rope, using Light Crossbow ranges. It comes equipped 
+with an internal winch to pull back the grapple (or pull 
+up small loads). Use the Exotic Ranged Weapon skill 
+to shoot it. Micro rope can support a weight of up to 
+100 kilograms; standard and stealth ropes can support 
+a weight of up to 400 kilograms.
+Microwire: This micro rope is made of an extreme-
+ly thin (nearly monofilament) and resilient fiber; a great 
+length of it can be stored in a very small compartment, 
+and it is very difficult to see. The downside is that it 
+can only be grabbed with special protective rappelling 
+gloves without slicing straight through the climber’s 
+hands, inflicting 8P damage with an AP of –8.
+Myomeric rope: Made of a special myomeric fiber, 
+this rope’s movement can be controlled remotely (over 
+a maximum length of thirty meters). For example, the 
+controller can wind it like a snake to reach around an ob-
+stacle or tie to a ledge. The rope moves at a rate of two 
+meters per Combat Turn.
+Stealth rope & catalyst stick: When stealth rope is 
+touched with the catalyst stick, the chemical reaction that 
+is triggered crumbles the rope to dust within seconds, 
+leaving almost no trace. The catalyst stick is reusable.
+>> STREET GEAR <<
+SURVIVAL GEAR
+GEAR
+AVAIL
+COST
+Chemsuit (Rating 1-6)
+Rating x 2
+Rating x 150¥
+Climbing gear
+—
+200¥
+Diving gear
+6
+2,000¥
+Flashlight
+—
+25¥
+Gas mask
+—
+200¥
+Gecko tape gloves
+12
+250¥
+Hazmat suit
+8
+3,000¥
+Light stick
+—
+25¥
+Magnesium torch
+—
+5¥
+Micro flare launcher
+—
+175¥
+Micro flares
+—
+25¥
+Rappelling gloves
+—
+50¥
+Respirator (Rating 1-6)
+—
+Rating x 50¥
+Survival Kit
+4
+200¥
+<< Electronics    449

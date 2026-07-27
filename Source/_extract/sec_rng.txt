@@ -1,0 +1,253 @@
+﻿==== 102 ====
+SLICING THE PIE
+Successes required: varies
+Description: Technically not a combat maneuver be-
+cause itÆs normally used before combat begins, Slicing 
+the Pie (also known as Cutting the Cake) is a maneuver 
+thatÆs been used by Law Enforcement/Security officers 
+for decades and has become popular with military units 
+engaged in urban warfare. Used during building search-
+es, this maneuver is designed to look around corners 
+into open hallways, through open doors into rooms, or 
+around tall obstacles. Using a corner/wall/edge as cover, 
+the searcher moves in a lateral or semi-circular pattern 
+(with weapon up and ready) behind cover. This is done 
+until they can visually identify the target/subject of their 
+search. If done correctly, the searcher will only minimal-
+ly expose themselves and then can take whatever action 
+they deem necessary. The searcher may carry over the 
+gained bonuses from this from Combat Turn to Combat 
+Turn as long as they donÆt move and other combatants 
+stay in the same general area where they were first seen. 
+Benefits: Defensive bonus to the searcher only 
+based on number of successes when performing the 
+maneuver. Maneuver fails if no successes are rolled, giv-
+ing the searcher no bonuses or penalties. A glitch gives 
+the searcher a û2 defensive penalty, while a critical glitch 
+means they are seen by the enemy, who moves on them 
+to force them from their position.
+TRAVELING OVERWATCH
+Successes Required: 2
+Description: Similar to Bounding Overwatch, Trav-
+eling Overwatch is a preventative maneuver. ItÆs meant 
+to be used when speed is essential and best intel indi-
+cates contact with an enemy is unlikely. When the team 
+is in motion, oneùor preferably twoùmembers take a 
+trailing position and periodically stop to carefully survey 
+their surroundings. If the main body of the unit is at-
+tacked, the overwatch pair can respond with either long 
+range-support or engage in a flanking maneuver. In us-
+ing this tactic, a drone or spirit will either complement or 
+replace a team member in the rear overwatch position. 
+The drawback to this tactic is that the rear overwatch has 
+a chance of being separated from the main group or be-
+ing eliminate
+
+==== 103 ====
+PERISCOPE CAM
+An inexpensive, hand-held sensor package used to 
+look around corners or over top of obstacles. Image 
+link is standard and it comes with limited upgrading 
+capabilities. It can be accessed wirelessly or viewed di-
+rectly through a small viewfinder at the base. 
+CAPACITY
+AVAIL
+COST
+1-3
+10R
+Capacity x 600Ñ
+BATTERING RAMS
+Sometimes, when a maglock pass key or a lock pick 
+just canÆt get the job done, a more robust method be-
+comes necessary. Popular with entry teams, battering 
+rams range from hunks of metal to high-tech wireless 
+devices. Battering rams are not recommended for use 
+as a melee weapon but can be used as such (use Ex-
+otic Melee Weapon (Battering Rams) skill, assuming 
+you had the foresight to select it). Battering rams use 
+Strength + Agility for the attack test (see Destroying 
+Barriers, p.197, SR5).
+Standard Ram: A metal tube weighing approximately 
+20 kilograms with a blunted end and handles along the 
+sides, this is a no-frills entry tool that relies on the userÆs 
+Strength for breaching. The standard ram is normally 
+used by one individual, but heavier versions are available 
+and can be used by two average humans.
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+ù
+(STR+2)P
+û1
+10R
+2,000Ñ
+Fluid-Motion Ram: The same as the standard 
+battering ram, but it includes an internal ten-liter liquid 
+reservoir. When used, the ram is swung backwards and 
+then forward to strike the target. On impact the internal 
+fluid in the ram creates extra momentum that increases 
+the impact damage. Very useful against more durable 
+doors, but using it requires two average-size humans or 
+one average-size troll.
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+1
+(STR*+3)P
+û1
+10R
+3,500Ñ
+*Strength Rating to be used is 
+(combined Strength of all users) / (number of users)
+>> TACTICS & TOOLS <<
+<< the Tools of the Trade    103
+
+
+==== 104 ====
+Pneumatic Ram: Also known as the P-Ram, a 
+pneumatic ramÆs breaching power comes from a large, 
+battery-powered pneumatic piston. A P-Ram is too 
+large and heave to be swung. The quad-legged device 
+is securely positioned at the door or barrier before 
+operation and triggered by a touch pad or wirelessly. Its 
+power comes at the expense of mobility; it requires a 
+four-person team of average humans to deploy. 
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+6
+ù
+16P
+û4
+18R
+10,000Ñ
+Shock Ram: Users call it the Shock Knocker. ItÆs 
+a shock ram is designed to disable electronic locks 
+or defenses when it breaches a door or barrier. Four 
+large conductive spikes protrude from the ramÆs head 
+that penetrates the barrier to deliver the charge. A 
+metahuman in contact with the barrier or the spikes must 
+resist shock damage per normal rules. Shock rams can 
+be wirelessly discharged. Though an effective breaching 
+tool, a shock ram requires frequent maintenance and 
+constant monitoring, as repeated use can damage the 
+mechanism and insulating protective casing. A glitch on 
+a use test results in the batteries failing; a critical glitch 
+results in a shock to the operator. 
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+2)P 
++ 12(e)
+û3
+10R
+15,000Ñ
+BLAST SHIELD
+The blast shield is a two meter by one meter vari-
+able-geometry shaped charge consisting of thermite 
+strips and several high-explosive devices. Handle 
+straps in the center allow it to be carried and used like 
+a shield until itÆs deployed. Adhesives or magnets can 
+secure the blast shield to any surface. The charge can 
+be detonated with a timer or remotely. To use as a me-
+lee weapon, wielders must have Exotic Weapon (Blast 
+Shield) skill; the accuracy rating of the item is 4. 
+DAM
+AP
+BLAST
+AP
+AVAIL
+COST
+20P
+ù
+Target
+û4
+8R
+20,000Ñ
+ARES PED (PERSONAL  
+EXTRICATION DEVICE) MARK III
+Originally called the ôbody bag,ö the PED is a means 
+to transport unconscious or immobile individuals thatÆs 
+marketed to the general public as a lifesaving device. 
+Essentially a flexible bag of woven Kevlar, the PED of-
+fers protection roughly equivalent to medium armors, 
+and it is available in sizes to fit all metatypes. The PED 
+can form an airtight seal and s
+
+==== 105 ====
+or another have been around for decades. However all 
+previous ænets were add-ons that linked sensors and other 
+components that werenÆt necessarily compatible, result-
+ing in a complex mash of patches subject to malfunctions. 
+PI-Tacs are self-contained, plug-in units designed from 
+the group up to integrate with a commlink, cyberdeck, 
+or rigger command console to form a shared PAN/WAN. 
+PI-Tac enhances team coordination and effectiveness 
+with streamlined simplicity and comes in three levels of 
+sophistication. Strictly speaking, only the most basic level 
+is legally available for civilian use. The benefits of using PI-
+Tac are substantial, but gamemasters should remember 
+that PI-Tac is wireless by nature, which makes it a target 
+for hackers. All PI-Tac models include: 
+ò	
+Real-time GPS location software
+ò	
+Universal image and audio link that can access any 
+image sources from within the network, including 
+all external sensors and personal augmentations
+ò	
+Team Biomonitor
+ò	
+Weapon status indicator (ammo count, opera-
+tional condition, possible incursion)
+ò	
+ôEnhanced Situational Awarenessö (bonus to all 
+Perception Tests, based on level)
+Note that the maximum number of team members (includ-
+ing drones) on a particular Ænet at one time equals DR x 1.5.
+LEVEL I
+The basic, civilian Level PI-Tac is popular with the ex-
+treme-sport set including combat re-enactors or ama-
+teur urban/combat brawl leagues and even big/game 
+hunters. While the Level I comes with only the basic 
+functions, it provides users with a +1 to all Perception 
+Tests, including audio and visual. 
+MODEL
+DR
+AVAIL
+COST
+Renraku Taka
+4
+12R
+115,000Ñ
+LEVEL II
+The Level II is intended for use by security, law en-
+forcement, and/or standard military forces. Unit cost 
+makes use of the Level II for routine security and law 
+enforcement impractical. Thus the Level IIs are usually 
+assigned only to special tactical response units. Level 
+II includes the basic functions of Level I, with upgrades 
+and additions as follows: 
+ò	
+Host unit enhancement. One half the device 
+rating can be used to enhance either the firewall 
+or processing ratings of the host device. 
+ò	
+Trauma module. Worn on the chest under
+

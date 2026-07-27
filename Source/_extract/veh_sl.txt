@@ -1,0 +1,544 @@
+
+===== streetlethal.pdf PDF 51 =====
+POSTED BY: HARD EXIT
+So we’ve covered the new (and new-ish) weap-
+ons that are more broadly available, but that’s 
+not the true bleeding edge of combat technolo-
+gy. For that, you have to dive into the megacor-
+porate labs and see the ideas and concepts 
+they’re testing. Some of these ideas will never 
+make it to mass production—they may not be 
+feasible to produce in large numbers, or they just 
+plain may not work. But this is what the corps 
+are working on, so you should know so you can 
+keep up with what might be coming at you in the 
+near future—and start building your wish list for 
+future birthdays.
+ 
+ARES ARMS DPC-002A 
+“SLAM DANCER”
+Always on the lookout for a new gun to sell, Ares 
+Arms has been experimenting with a concept 
+they call a “directional particle cannon” on be-
+half of Ares Space. The initial concept was not a 
+weapon at all, but a device to assist manned and 
+unmanned spacefaring vessels travel through 
+space. Based on a concept from an old flat-vid 
+science-fiction franchise, the idea was to use a 
+low-powered energy beam to deflect small and 
+microscopic debris (that could still severely dam-
+age a vessel) safely away from the intended flight 
+path. Plans to develop the device for its initial pur-
+pose ended in 2065 when Ares Arms engineers 
+realized its potential use as an energy-based ve-
+hicle weapon.
+>	
+If they thought they could make nuyen from it, Ares would 
+try to develop a combat potato gun.
+>	
+Netcat
+Ares Arms R&D started work on the initial con-
+cept in 2053, and according to secondhand ac-
+counts, significant progress had been made. The 
+project, known as Galaxy Navigator, went from 
+proof-of-concept to preliminary working proto-
+type. Ares Arms changed gears and re-named 
+the project Slam Dancer, but most of the data and 
+specs on it and Galaxy Navigator were lost in the 
+Second Matrix Crash of 2064. Left with a proto-
+type device and no data on how exactly it oper-
+ates, Ares engineers did the smart thing (for once) 
+and spent the next few years reverse-engineering 
+and re-testing it. 
+>	
+Another group of Ares engineers also re-started the 
+Galaxy Navigator project, running it parallel with Slam 
+Dancer. With the two devices operating on the same basic 
+concept, the idea was to kill two birds with one stone. 
+Ironically, Galaxy Navigator progressed much faster and 
+its developments kept Slam Dancer afloat despite a series 
+of mishaps and constant budget overruns. While Slam 
+Dancer is still struggling, Ares Space already has plans to 
+ship the first run of Navigator units to Ares Space and the 
+Space Rescue Service by end of fiscal year 2083. 
+>	
+Orbital DK 
+After nearly a decade of trial and error (mostly 
+error), Ares Arms was finally able to complete six 
+(semi) reliable prototype devices in 2073. Classi-
+fied as the DPC-001, test units one through four 
+were shipped to Ares’ Antarctic Base for further 
+testing, while units five and six were placed in a 
+secure Ares vault at corporate HQ in Detroit. These 
+first units were large, weighing over 450 kilos and 
+were six meters long and consisted of an emitter 
+unit and power supply. These units could only be 
+transported by large vehicles. 
+Late last year, after years of testing and refine-
+ment, Ares Arms began field testing a new refined 
+and scaled-down unit known as the DPC-002A. 
+The 002A is still large by weapon standards but 
+can be mounted on heavy vehicles such as battle 
+tanks—which may be what the current device is 
+designed for.
+STREET LETHAL
+MILITARY AND
+FUTURE WEAPONS
+50    MILITARY AND FUTURE WEAPONS >>
+
+===== streetlethal.pdf PDF 52 =====
+>	
+I recently heard that Ares Arms is looking to develop a 
+new line of armored vehicles and air-defense systems 
+based around this weapon. What intrigues me is how fast 
+Ares Arms went from a large, clunky prototype to a much 
+more streamlined unit in a relatively short period of time 
+for a project like this. Cost cutting, cutting corners, or does 
+someone really want these in the field?
+>	
+Clockwork
+>	
+Yeah, but does the damn thing work?
+>	
+Balladeer
+>	
+According various sources, all tests have been listed as 
+mixed. But maybe the rapid development has something 
+to do with the Slam Dancers and their crews who have 
+been seen around the Kilimanjaro Mass Driver. Has 
+anyone heard from Sticks lately? I have some Ares-related 
+inquiries for him.
+>	
+Red Anya
+>	
+Negative, Anya. Nothing substantial recently.
+>	
+Glitch
+>	
+Contact of mine says initial field tests are proving … 
+challenging. While the test units performed well under 
+low-power tests, they tended to burn out the focusing 
+emitters at higher power, causing the containment beam 
+to fail and the charged particles to act unpredictably. Not 
+something you want to be near when things go bad. 
+>	
+Cosmo
+>	
+Yeah, but this is the new Ares, where fifty percent reliability 
+is considered a success.
+>	
+Slamm-0!
+ 
+Both the 001 and the 002A operate on the prin-
+ciple of supercharging ambient particles in a par-
+ticular area and then projecting or focusing said 
+particles in the desired direction. The first part of 
+this process involves activating a quantum-mag-
+netic confinement beam. This beam is specifically 
+designed to contain, focus, and aim the charged 
+particles into the desired direction. The second 
+part of this process is achieved by a Zero-Point 
+Energy Emitter that excites and supercharges the 
+targeted particles, sending them into a high kinet-
+ic energy state. This creates what engineers have 
+dubbed “kinetic lighting.” Once the particles are 
+charged, they travel away from the emitter and 
+along the confinement beam toward the target. 
+After the particles have impacted with the tar-
+get, the confinement beam is disengaged, which 
+is usually accompanied by a loud and distinctive 
+auditory “crack-boom.” The time from weapon ac-
+tivation to impact on target is usually 1.3 seconds. 
+>	
+Interesting. The effects seem similar to a NeoNET device 
+that was reportedly being used in Boston during the 
+quarantine. Wonder if Ares somehow got ahold of the 
+specs from NeoNET … or maybe the other way around. 
+>	
+Rigger X
+To increase the unit’s versatility in the field, the 
+containment beam can be set to narrow disper-
+sion for a concentrated attack against a single tar-
+get, or wide dispersion to engage multiple targets. 
+However, the wider the dispersion, the weaker the 
+attack. With current ammunition capacitors, the 
+Slam Dancer can fire between five to ten times be-
+fore recharging, depending on the weapon’s focus 
+settings. 
+>	
+So basically this is a ghost-damned energy shotgun for 
+tanks? Fraggin’ A! When can I get one that’s at least troll-
+sized?
+>	
+Beaker
+>	
+Or an energy flak gun, take your pick.
+>	
+Hard Exit
+>	
+If the data I have regarding the Navigator units, which are 
+by all accounts scaled-down, low-powered versions of the 
+Slam Dancer, the energy output needed to make these 
+<< MILITARY AND FUTURE WEAPONS    51
+
+===== streetlethal.pdf PDF 53 =====
+things a viable weapon is enormous. Good luck carrying a 
+large enough capacitor with you to make it work, even for 
+someone of your large stature, Beak. 
+>	
+Orbital DK
+>	
+For what this thing is capable of as a potential anti-
+aircraft/weapon platform, I wouldn’t be surprised to see it 
+mounted on naval vessels in the near future. If it works.
+>	
+Sounder
+If current field testing proves to be successful, 
+Ares Arms hopes to begin wide-scale deployment 
+to their military and para-military forces by 2088, 
+with sales to preferred customers in 2089.
+ARES ARMS DPC-002A (HEAVY VEHICLE MOUNTED WEAPON)
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+COST
+AVAIL
+4
+20P*
+—
+SS
+—
+10 (charges)**
+N/A
+N/A
+Standard Equipment: Smartgun targeting system
+*Damage: Narrow beam DV: adjust DV by –5 for medium beam, 
+–10 for wide beam. Uses Choke rules, page 180-181 SR5.
+**Charges: After all charges used, weapon requires six stan-
+dard hours to re-charge.
+AZTECHNOLOGY-DASSAULT 
+HALCÓN DE SANGRE/
+BLOOD HAWK MK I
+In 2075, Aztechnology and Dassault Aviation 
+stunned the attendees at the Paris Air Show and 
+the aviation community as a whole with the un-
+veiling of their new Blood Hawk Mk I superiority 
+fighter and Mk II fighter-bomber. Witnesses at 
+the event reported seeing a “sleek aircraft that 
+seemed to morph and shift in mid-flight” and that 
+they “had never seen such maneuverability in a 
+manned aircraft before.” The surprise unveiling 
+at Paris was a PR bulls-eye for Aztechnology and 
+Dassault. Despite the Blood Hawk being years 
+away from its first full production run, it’s been 
+reported that current back-orders may take the 
+next twenty years to fill.  
+>	
+And it almost caused an international incident. Security and 
+secrecy was so tight about the Blood Hawks that the event 
+coordinators and local governments were completely in 
+the dark. So when a totally new aircraft comes screaming 
+in at only 460 meters, completely evading all local radar 
+and aerial sensors and then coming to a dead stop (yeah, 
+that’s right) above the crowd with weapons bays open, a 
+lot of people needed to change their shorts.
+>	
+Sunshine
+>	
+Yes, but lately it’s hard to stay mad at Aztechnology. Didn’t 
+you know they’re fragging heroes? And those were just 
+dummy munitions after all, so no big deal. Besides, they 
+also know the exact palms to grease. 
+>	
+Pyramid Watcher
+For the past two decades, there were rumors 
+of Aztechnology experimenting with new, cut-
+ting-edge aerospace technologies. Numerous 
+sightings of unidentified, high-performance air-
+craft along the Aztlan/CAS border continued to 
+bolster such rumors, and they gained additional 
+credence during the Az-Am War, when Aztechnol-
+ogy was rumored to be heavily investing in what 
+is generally referred to as “anti-dragon weapons.”
+During a press conference after the unveil-
+ing in Paris, Dassault gave a history lesson about 
+their new product. According to their official 
+statements and releases, the Blood Hawk will be 
+the first ninth-generation fighter aircraft. They’re 
+also the production models of the Ala de Sangre 
+(or Blood Wing) prototype test-bed aircraft first 
+conceived in 2060 and built in the early 2065. 
+Once a series of tests and evaluations are com-
+pleted, Dassault said that the first Blood Hawks 
+are scheduled to enter service with their respec-
+tive air forces by spring of 2084. 
+>	
+Interesting. They’re trying to make it seem like this is a 
+normal developmental cycle. In actuality, the original 
+Blood Wing was initially part of Aztechnology’s anti-
+A NOTE ON PURCHASING 
+AND USING FUTURE WEAPONS
+The vast majority of weapons and ammo in this chapter 
+do not have a listed cost or availability, simply because they 
+are not available for purchase, even if you have a great 
+black-market connection. For the most part, they have not 
+been manufactured in high enough numbers for anyone to be 
+selling them (though there are a few exceptions). The items in 
+this chapter potentially carry a lot of power, so gamemasters 
+should be careful about letting players obtain and use them 
+with any degree of reliability. The weapons may be subject to 
+frequent breakdowns, or other runners might be anxious to 
+steal them away from the players. Use the weapons to make 
+fun games and interesting plot twists, not to give the players 
+powers no shadowrunner should possess for long.
+>> STREET LETHAL <<
+52    MILITARY AND FUTURE WEAPONS >>
+
+===== streetlethal.pdf PDF 56 =====
+>	
+Yeah, it sent a shockwave through the runner community 
+as well. Something like this would be a game changer, 
+especially for riggers and deckers. Not sure how the 
+technomancers would fare. 
+>	
+Bull
+>	
+I … honestly don’t know. But it’s MCT, so I’m instantly 
+worried and on my guard. 
+>	
+Netcat
+>	
+I’m definitely interested now. 
+>	
+Clockwork
+>	
+Before anyone starts something, I’m stopping it now. 
+Only warning. Keep it professional. 
+>	
+Glitch
+Claiming that the system was in its final phases 
+of testing, MCT showcased a wide variety of de-
+livery systems ranging from high-powered, ve-
+hicle-mounted emitters to small, grenade-sized 
+“quick burst” weaponry. MCT was short on details, 
+specifically how the system worked, claiming it 
+was proprietary information. They said, though, 
+that the DSP system is a combination static-blast 
+that weakens the target and a subsequent da-
+ta-spike that specifically targets a device or sys-
+tem through its wireless connection.   
+>	
+Damn, looks like I’m going to have to start stocking up on 
+lower-tech weaponry again. 
+>	
+Red Anya
+>	
+These are recently acquired specs for the DSP system. I’m 
+not doing this for some altruistic principle, but because it 
+suits my purposes against another. <link>
+>	
+Rigger X
+>	
+Oh frag, Netcat is gonna …
+>	
+Pistons
+>	
+MOTHERFRAGGERS!!!! 
+I’M 
+GONNA 
+<connection 
+terminated, user: Netcat blocked>
+>	
+Netcat
+>	
+Just until you calm down. I don’t need you accidentally 
+damaging JackPoint in a blind rage. See me after. 
+>	
+Glitch
+>	
+Dude, I’m shaking. They’re using some kind of corrupted 
+sprite to power this. This is not good. How are they making 
+this work? 
+>	
+Slamm-0! 
+>	
+Heh. Time to buy stock in MCT. *grin*
+>	
+Clockwork
+DSP GRENADE
+DV
+AP
+BLAST
+COST
+AVAIL
+10(special)*
+—
+5m
+N/A
+N/A
+*Damage: To damage object/target, weapon’s net hits must by-
+pass target’s threshold (p. 295, SR5). Number of net hits is equal to 
+the net hits over the initial DV.
+DSP “STATIC GUN” (VEHICLE MOUNTED WEAPON)
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+COST AVAIL
+3
+15 
+(special*)
+—
+SS
+—
+10** 
+N/A
+N/A
+Standard Equipment: Smartgun targeting system
+*Damage: To damage object/target, weapon’s net hits must by-
+pass target’s threshold (p. 295, SR5). Number of net hits is equal to 
+the net hits over the initial DV.
+**Charges: After all charges used, requires new custom am-
+munition to be created per sprite compiling rules. 
+VULCAN SYSTEMS “HOT-
+DROP” RAPID-EGRESS 
+JETPACK SYSTEM
+“When you need to get into the heat of battle, accept 
+no substitutes!” —Vulcan Systems Matrix ad, 2078.
+To say the market for mil-spec weaponry and 
+equipment is cutthroat is one of the great under-
+statements of the Sixth World. In such a saturat-
+ed market, sometimes one has to take extreme 
+chances with an extreme concept in order to stand 
+out against the competition. And Vulcan Systems 
+is poised to do just that with their new Hot-Drop 
+personal jetpack system. 
+>	
+Let me see … basically make myself nothing more than a 
+flying target. Nope, pass.
+>	
+Clockwork
+For years, this subsidiary of Saeder-Krupp was 
+another solid but unremarkable performer in the 
+megacorporation’s portfolio. Their drones were 
+basic stuff. They were solid yet unremarkable and 
+sold well enough that the S-K higher-ups pretty 
+much forgot about them. That was until Lofwyr 
+himself needed material for his little war against 
+his brother Alamais. Suddenly every S-K subsidi-
+ary was, for the lack of a better term, drafted into 
+the war effort. 
+>> STREET LETHAL <<
+<< MILITARY AND FUTURE WEAPONS    55
+
+===== streetlethal.pdf PDF 60 =====
+GRAVITY DRIVE
+This system is designed for use on a variety of 
+classes of vehicles. Reports indicate it was initial-
+ly designed for large ships, like, say, a starship, 
+but this tech, and tons of their other tech, has got-
+ten smaller and smaller. Evo apparently has oper-
+ational models all across that size spectrum, each 
+with their own individual collection of problems 
+that need solving. The models don’t have cool 
+names by themselves, but Evo’s project names 
+will work to make this more interesting to read. 
+STAR FERRY
+This is where it all started. These are the specs for 
+the actual ship the Monads are prepping/have 
+prepped (looks like the latter from the reports, but 
+it’s possible they’re conning all of us) for their trip 
+out of our hair. This thing is huge, but it’s definitely 
+not designed for huge numbers of conscious pas-
+sengers. The drive system is solely space-based, 
+with insufficient power supplies to work while 
+inside a gravity field greater than 0.5 Earth Stan-
+dard. Internal specs weren’t entirely in this file we 
+got. Those focused primarily on the grav drive, 
+along with lists of consumption requirements for 
+the major systems on the ship, including stasis 
+support, life support, deflection systems, weap-
+ons array, and long-range scanning. I’m sure there 
+are more systems on the ship, but they only listed 
+power requirements for these. If I read the basic 
+design plan correctly, the ship is a series of some-
+what modular cubes and spheres. 
+>	
+Nice. I’ve always wanted the specs to build my own 
+spaceship. All joking aside, seeing the progress that has 
+actually been made on this project makes me wonder 
+why the Monads are still around. Anyone got an update 
+on their master plan?
+>	
+/dev/grrl
+>	
+Somewhat bothered by the efforts of the megas, though 
+claims at initial launch are circulating. They’ve decided all 
+these AIs uploaded into biological supercomputers are 
+nice to have around. And by that, I mean use and abuse 
+until they’re no longer needed or look like their getting 
+long in the tooth.
+>	
+Plan 9
+>	
+The infection rates have dropped significantly in the past 
+year. I’m not sure if it’s an intentional effect, but according 
+to sources I’m investigating it’s a mixed bag. Sounds like it 
+takes extra effort to produce the nanite quantities needed 
+for passing it on, and most of the current Monads are busy 
+using all the little bugs they have left to stay out of trouble. 
+>	
+Butch
+>	
+This isn’t just big for the Monads. This kind of tech could 
+open up our solar system as a vast wealth of resources. 
+These ships could easily be re-outfitted to act as cargo 
+haulers and mining ships. They’d be far more efficient 
+than anything anyone else has up there right now. If Evo 
+can get this tech rolling, expect them to hit a nice growth 
+period. They’ll also be targeted at just as high of a rate, but 
+with this kind of tech edge, they can probably hold off all 
+comers for a while.
+>	
+Turbo Bunny
+ 
+>	
+Until the Corp Court issues the Omega order on them for 
+getting too far ahead of the crowd. Then it’s the other nine 
+coming after them and they will fall, losing sole access to 
+all the proprietary tech along the way.
+>	
+Orbital DK
+BORDER JOCKEY
+This is designed to move resources from the Star 
+Ferry to the surface. This model is the size of a 
+luxury yacht. It doesn’t have the comfortable ac-
+commodations of its comparison craft, but that’s 
+not its purpose. It uses a thick triangle design, 
+similar to some modern zeppelins. The design 
+is three-quarters cargo hold, with the remaining 
+quarter containing the drive systems, commu-
+nications, navigation, control room, and a twen-
+ty-person passenger cabin. More passengers can 
+be loaded into special storage crates that load 
+into the cargo area for migrations, according to 
+the schematics. Testing for the craft has been 
+STAR FERRY
+No stats for this beast. It’s not intended to be flown but to 
+act as a possible setting for a very strange Shadowrun game. 
+A few options to plant a game here include a group of Monads, 
+or recovered Monads, who awaken on board the ship and 
+need to figure out where they are and what is going on. Maybe 
+something’s wrong with the ship, or maybe they just need to 
+escape its automated security systems. The players could 
+also be a team of runners who are all kidnapped to be used as 
+Monad hosts at their destination but awake from failed stasis 
+pods early in the process, possibly before departure, or shortly 
+after—or years later, and you’ve got your own new setting.
+>> STREET LETHAL <<
+<< MILITARY AND FUTURE WEAPONS    59

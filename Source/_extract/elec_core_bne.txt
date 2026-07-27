@@ -1,0 +1,217 @@
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p452 =====
+Maglock: Maglocks are electronic locks with a vari-
+ety of access control options, from biometrics, to key-
+cards, to passcards. For more information about ma-
+glocks and their options, see Maglocks, p. 363.
+Restraints: Standard metal restraints (Armor 16, 
+Structure 2) come with a mechanical or a wireless-con-
+trolled lock (Barriers, p. 197). Modern plasteel restraints 
+(Armor 20, Structure 2) are flash-fused and remain in 
+place until the subject is cut free. Disposable plastic 
+straps (Armor 6, Structure 1) are lightweight and easy to 
+carry in bundles. Containment manacles are metal (Ar-
+mor 16, Structure 2) and attached to a prisoner’s wrists 
+or ankles to prevent her from moving faster than a shuf-
+fle or extending a cyber-implant weapon.
+BREAKING AND 
+ENTERING GEAR
+Rules for typical security devices and how to break 
+them can be found on p. 362. Most of the gear you’d 
+expect to find here but isn’t can be covered with the 
+appropriate tools (p. 443).
+Autopicker: This lockpick gun is a quick and effective 
+way of bypassing mechanical locks. The autopicker’s rat-
+ing is added to your limit when picking a mechanical lock.
+Wireless: Having access to a huge online database of 
+mechanical locks lets you add the autopicker’s rating as 
+a dice pool modifier to your test when picking a me-
+chanical lock.
+Cellular glove molder: This device will take a finger 
+or palm print and mold a “sleeve” you can wear to mimic 
+the print to fool some biometric locks (Maglocks, p. 363).
+Chisel/crowbar: The chisel (or crowbar if you prefer) 
+doubles your effective Strength when you’re forcing a 
+door or container.
+Keycard copier: The keycard copier allows the user 
+to copy a (stolen) keycard in seconds. A new keycard 
+can then be manufactured with a Hardware kit, about 
+ten minutes, and a Hardware + Logic [Mental] (2) Test. 
+>> STREET GEAR <<
+SECURITY AND RESTRAINTS
+SECURITY DEVICE
+AVAIL
+COST
+Key/combination lock
+(Rating 1-6)
+Rating
+Rating x 10¥
+Maglock
+Rating
+Rating x 100¥
+Keypad or card reader
+—
++50¥
+Anti-tamper circuits (Rating 1-4)
++Rating
++(Rating x 250)¥
+Biometric reader
++4
++200¥
+RESTRAINT
+AVAIL
+COST
+Metal
+—
+20¥
+Plasteel
+6R
+50¥
+Plastic (per 10)
+—
+5¥
+Containment manacles
+6R
+250¥
+<< Electronics    447
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p453 =====
+When used, the forged keycard uses its Rating x 2 in 
+an Opposed Test against the Maglock Rating x 2 (Ma-
+glocks, p. 363). Some security systems may note the 
+unusual usage of duplicate keys, like when “Dr. Scien-
+tist” accesses a lab that she just accessed and hasn’t 
+left yet.
+Lockpick set: These mechanical burglary devices 
+have undergone only slight improvements in the last sev-
+eral centuries. They are necessary tools for picking locks.
+Maglock passkey: This maglock “skeleton key” can 
+be inserted into any cardreader’s maglock, cleverly fool-
+ing it into believing that a legitimate passkey has been 
+swiped. See Maglocks, p. 363.
+Wireless: The passkey receives a +1 bonus to its Rating.
+Miniwelder: This portable device creates a small 
+electric arc to melt metals, either to cut through met-
+al or to weld it together. Its power supply allows it to 
+operate for 30 minutes. While creating an intense heat, 
+the arc is much too small to make a good weapon (it 
+would be like trying to stab someone with a lighter). 
+The miniwelder has a Damage Value of 25 when used 
+to cut through barriers.
+Monofilament chainsaw: The top of each chain 
+segment on this portable motorized saw is covered 
+with monofilament wire. Ideal for cutting through trees, 
+doors, and other immovable objects. A monofilament 
+chainsaw is too unwieldy to make a good melee weap-
+on (use Exotic Melee Weapon skill). When used against 
+barriers, double the monofilament chainsaw’s Damage 
+Value of 8P.
+Sequencer: An electronic device requried to defeat 
+keypad-maglocks. See Maglocks, p. 363.
+Wireless: The sequencer receives a +1 bonus to its 
+Rating.
+INDUSTRIAL CHEMICALS
+If you’re looking for toxins and drugs, you should go 
+to p. 408.
+Glue solvent: This spray can has enough solvent to 
+dissolve about a square meter of fast-drying aerosol 
+superglue.
+Glue sprayer: This fast-drying aerosol superglue al-
+lows you to quickly glue two rigid surfaces together, and 
+holds enough for about a square meter of glue (enough 
+to glue an exterior door or picture window shut). The 
+glue takes 1 Combat Turn to harden. The glue has Body 
+and Strength Ratings of 5 for the purpose of trying to 
+force it (an Opposed Body + Strength Test).
+Thermite burning bar: Thermite gel is an incendiary 
+material that burns at extremely high temperatures. It is 
+applied with the help of a burning bar—a rod of thermite 
+and oxygen mounted on a handle and in a frame—that 
+can be used to melt holes in iron, steel, and even plasteel. 
+The thermite burning bar inflicts Fire Damage with a DV 
+of 30P. It has to be set carefully, so a thermite bar can’t be 
+used as a weapon (unless your target is tied up or uncon-
+scious or something, in which case, wow, ouch).
+Wireless: The burning bar can be activated wirelessly.
+SURVIVAL GEAR
+Common survival gear includes the following:
+Chemsuit: This impermeable coverall is worn over 
+clothes or armor and provides chemical protection equal 
+to its Rating (Chemical Protection, p. 437). It is not to 
+be confused with a full hazmat suit, as it is not vacuum 
+sealed. If a chemsuit is worn on top of chemical-resistant 
+armor, only the highest chemical protection rating applies.
+Climbing gear: This is a backpack full of rope (400-
+kilo test), an ascent/descent harness, gloves, carabiners, 
+crampons, and so forth needed for assisted climbing 
+(Climbing, p. 134).
+Diving gear: Underwater diving equipment, includ-
+ing a diving suit, partial facemask with snorkel, breathing 
+regulator, an air tank with 2 hours of air, and an inflatable 
+vest for quick returns to the surface. The regulator and 
+air tank protect against inhalation toxins just like a gas 
+mask. The wet suit provides Rating 1 resistance to Cold 
+damage (p. 170). Wireless signals don’t work very well 
+underwater, but the wireless systems in the diving gear 
+help with prep and maintenance.
+>> STREET GEAR <<
+B&E GEAR
+GEAR
+AVAIL
+COST
+Autopicker (Rating 1-6)
+8R
+Rating x 500¥
+Cellular glove molder (Rating 1-4)
+12F
+Rating x 500¥
+Chisel/crowbar
+—
+20¥
+Keycard copier (Rating 1-6)
+8F
+Rating x 600¥
+Lockpick set
+4R
+250¥
+Maglock passkey (Rating 1-4)
+(Rating x 3)F
+Rating x 2,000¥
+Miniwelder
+2
+250¥
+Miniwelder fuel canister
+2
+80¥
+Monofilament chainsaw
+8
+500¥
+Sequencer (Rating 1-6)
+(Rating x 3)F
+Rating x 250¥
+EXOTIC MELEE WEAPON
+ACC
+REACH
+DAMAGE
+AP
+Monofilament chainsaw
+3
+1
+8P
+–6
+INDUSTRIAL CHEMICALS
+CHEMICALS
+AVAIL
+COST
+Glue solvent
+2
+90¥
+Glue sprayer
+2
+150¥
+Thermite burning bar
+16R
+500¥
+448    Electronics >>

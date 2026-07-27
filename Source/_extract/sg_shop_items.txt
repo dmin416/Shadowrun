@@ -1,0 +1,512 @@
+
+===== PDF PAGE IDX 212 =====
+sults in one dram of refined reagents, and the raw re-
+agents’ magic is used up. Failure to meet the threshold 
+means that some of the reagents’ magic escaped. The 
+failure difference to the threshold is how many raw re-
+agents were consumed and have to be replaced when 
+trying again. A critical glitch in this test means that all 
+the raw reagents were wasted and the magician needs a 
+new batch to start over.
+Refined reagents can be distilled into radical reagents 
+by using the same method: every ten full drams of re-
+fined reagents distill into one dram of radical reagents.
+TALISMONGER SHOP  
+(ALL SALES FINAL!)
+Besides the usual reagents and foci, all sorts of products 
+can be created by a magician skilled in enchanting. While 
+all these products can be used by any magician, those 
+produced with the Artificing skill must be attuned before 
+they can be functional. This is an Intuition + Magic [Astral] 
+(5, 1 hour) Extended Test. An attuned item is considered 
+a sympathetic link to the magician when used in ritual 
+magic (p. 121). The base Potency of purchased items is 6.
+AQUA FICTUS
+A fool’s gold solution that can be used to make false re-
+agents or make an object such as an alchemical prepa-
+ration or a ritual circle appear to be magical. Aqua fictus 
+looks like a swirling metallic solution that emits occa-
+sional flashes of light. Any item coated with aqua fictus 
+appears to glow with a concentrated-mana aura like that 
+of reagents. This trick is difficult to detect. A successful 
+Alchemy + Magic [Mental] (3) Test lets a magician no-
+tice the false magic coating on a mundane object. Sales 
+of such items are hit or miss because of the variety of 
+reagents required, and the coating fades entirely after 
+twelve hours. This solution is used in the creation of fake 
+magical items, such as a paper lotus (p. 215).
+AQUA FORTIS
+This substance detects traces of orichalcum and other 
+true elements. An eight-ounce spray bottle can cover 
+one square meter. Any traces of orichalcum left be-
+hind, such as from spilled aqua regia, glow gold. Other 
+Awakened elements glow violet. Aqua fortis allows the 
+user to Observe in Detail (p. 165, SR5) to see if orichal-
+cum or other Awakened elements are present. The 
+gamemaster determines the threshold of the test.
+AQUA REGIA
+This solution can dissolve orichalcum without dam-
+aging the metal’s magical properties. This makes the 
+material very easy to transport discreetly. Eight ounces 
+of aqua regia can dissolve 1 dram of orichalcum. Aqua 
+regia is a corrosive acid (p. 1 70, SR5) capable of dis-
+solving any metal. The base Damage Value is 14P with 
+an AP of –4.
+To extract orichalcum once it has been dissolved in 
+aqua regia, the magician must subject the solution to 
+near-freezing temperatures. This breaks down the for -
+mula and neutralizes the alchemical properties. Once 
+the neutralization begins, the orichalcum begins to pre-
+cipitate. The aqua regia then vaporizes into yellowish 
+green smoke and dissipates.
+AQUA VITAE
+More of an alchemist’s joke, aqua vitae is an alcoholic dis-
+tillation created through alchemical means. Since soy is 
+the prevalent food staple in the Sixth World, alchemists 
+have worked out ways to distill liquor from just about any-
+thing (which gives “hair of the dog” a whole new mean-
+>> STREET GRIMOIRE  <<
+MISPLACED MAGIC ITEMS
+There are days when you’ll find yourself drunk at a bar 
+and your misplaced wand ends up being used by the brew 
+master as a fruit skewer in some lady’s cocktail. So how does 
+that affect practicing magic with that wand? Besides the odd 
+citrus smell, there is a chance that the ambient mana levels 
+caused discord in the item, which forces the magician to re-
+attune the item in order to use it again. He does not, however, 
+need to re-spend Karma. In general, if the attuned item is not 
+in the magician’s possession or at a location where he has an 
+active lodge or circle, the gamemaster should make a daily 
+test of Background Count x 2 (3) (for more information on 
+background counts, see p. 30). If successful, the item is no 
+longer attuned to the magician.
+Adept-attuned items (p. 124) and foci may also feel discord 
+if lost or left behind, and such items will lose their attunement 
+bonuses until they are re-attuned. Adepts re-attune items the 
+same way magicians do.
+MAGICIANS’ CURRENCY
+While nuyen is always accepted, such transactions 
+are easy to track, and some unlicensed or unregistered 
+magicians prefer an alternative currency that is accepted by 
+all practitioners of magic. To fill this need, small vials of aqua 
+regia containing a single dram of orichalcum are often used in 
+bartering for magical goods. Half vials are rare but acceptable 
+for smaller exchanges. While orichalcum cannot be used as 
+a reagent in this state, it can be used by anyone with magic 
+talent once it has precipitated from the solution.
+<< TURNING LEAD INTO NUYEN    211
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 213 =====
+ing). Such brews are more potent than standard alcohol. 
+Aqua vitae has an Addiction Rating of 4 (p. 414, SR5)
+ASTRAL POWDER
+Astral powder, also known as fairy dust, is attracted to 
+sustained magic like static cling. Astral powder was de-
+veloped as an alternative to using FAB (fluorescing astral 
+bacteria) to detect astral entities, since some consider 
+FAB an environmental hazard regardless of the genetic 
+variant. Astral powder clings to spirits, astrally projecting 
+beings, wards, and sustained or quickened spells. This 
+allows non-Awakened characters to use an Observe in 
+Detail action (p. 165, SR5) on such things, though the 
+observer will not know exactly what the object is. For 
+example, a person targeted with an Invisibility spell 
+would look no different under astral powder than an as-
+trally projecting magician would. The dispersal device 
+is a paper sphere preparation, which is learned as part 
+of astral powder’s formula. This sphere detonates after 
+being thrown, and the astral powder contained within 
+disperses a cloud with a three-meter radius.
+Since astral powder is physical, it cannot move 
+through other physical objects. If an astral spirit coated 
+in astral powder goes through a wall, the powder stops 
+at the wall. If a sustained spell is dropped, the powder 
+also drops to the floor. Astral powder doesn’t glow like 
+FAB, so visibility modifiers apply. Other conditions, such 
+as rain, wash off the astral powder after a few minutes. 
+Requires Psychometry (see p. 144).
+FETISH
+An alchemist can create a magical device that reduces 
+Drain when cast with a spell suited to fetishes (p. 212). 
+Such spells have to be learned specifically with the fe-
+tish, meaning that a character would have to learn a spell 
+twice if he wants to cast it both with and without a fetish. 
+An alchemist needs 1 dram of radical reagents to make 
+the fetish functional for magical use. A magician casting a 
+fetish spell either through Spellcasting or Ritual Spellcast-
+ing can reduce the Drain Value by 2 (to a minimum of 2).
+GOVI
+In the vodou traditions, govi are specially prepared clay 
+pots to hold work loa (watcher spirits). The houngan 
+shapes clay into a pot, etches it with images of their 
+mait-tete, and paints it. Since 2057, govi have been 
+created from glass bottles or other modern containers 
+properly designed with vevers (symbolic images of the 
+loa). Other traditions have taken up creating their own 
+versions of govi to contain watchers. These brooches 
+and talismans are marked with spiritual symbols of the 
+magician’s tradition and incorporate a small compart-
+ment to contain the watcher.
+A govi is created like other preparations, with the 
+govi’s Force determining the Force of the watcher it 
+can contain. To determine Drain for the preparation, 
+roll (Force of watcher x 2) test; the hits are Drain, plus 
+any modifications for the trigger (p. 305, SR5). Roll 
+separately to resist Drain for the Watcher Ritual Spell-
+casting. Potency reduces by 1 point of Force per week, 
+instead of the customary 1 per hour. The magician can 
+offer (Potency x 25) drams of reagents after creation 
+to prevent the govi’s Potency from reducing for half a 
+year. This offering can be done every six months. Af-
+ter creation, a watcher is created specifically for that 
+govi. Only one spirit can be connected to a govi at a 
+time. In the case of a watcher, the govi keeps the enti-
+ty suspended within it, allowing the magician to break 
+>> STREET GRIMOIRE  <<
+PROFESSION:  
+BREW MASTER WITCH/WARLOCK
+With trids propagating the myths of love potions and good 
+luck charms, alchemists are constantly approached to provide 
+such items to mundanes. Unfortunately, magic doesn’t work 
+exactly that way. The positive that grew from this myth is the 
+alchemists’ Guild of Brew Masters. A brew master witch or 
+warlock learns how to use alchemy to create his or her own 
+alcoholic beverages and how to be a bartender, serving mixed 
+drinks akin to mythical potions.
+Several upscale bars hire brew master witches or warlocks 
+to provide harmless entertainment with contact-triggered 
+magical drinks. Love Potion Number Nine and Potions of Healing 
+or Wishes are names for mixed drinks that the witch or warlock 
+makes for the average Joe in the bar.
+Guild members also learn how to brew more exotic aqua 
+vitae. These brews have different magical properties than normal 
+formulas. Such brews include Tír Alamestra, Japanese Toso, and 
+Mediterranean Styx. These may not bring good luck, but to high-
+paying clientele, the end result is worth the price.
+FLUORESCING ASTRAL BACTERIA
+Science has had some success in cultivating mana-sensitive 
+bacteria strains as part of astral security. Three strains exist: 
+FAB I, FAB II, and FAB III. The first strain dies when an astral form 
+or magical force such as a spell passes through it. In death the 
+bacteria release a chemical that can be seen with UV light. The 
+second strain is dual-natured, making it difficult for astral forms 
+to pass through it, and the displacement can be seen physically. 
+The third strain was a mutation that actively seeks out and feeds 
+on astral forms and can be lethal to dual-natured creatures.
+212    TURNING LEAD INTO NUYEN >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 214 =====
+up the watcher’s allotted time. It also allows for quick 
+use of a watcher without having to perform the ritual. 
+Releasing a watcher from a govi is a Simple Action.
+If a govi is destroyed, the watcher associated with it 
+is also destroyed, whether it was residing in the govi or 
+not. Govi can be found, but the watcher within can only 
+be commanded by the magician who created it. A magi-
+cian can attune a found govi, but the watcher associated 
+with it is dispelled. Requires Invocation (see p. 147).
+HAND OF GLORY 
+The Hand of Glory is an alchemical formula found in the 
+banned witchcraft book Compendium Maleficarum. This 
+preparation’s lynchpin is the hand of a talented, de-
+ceased individual (the formula romanticizes this as the 
+hand of a hanged criminal, but any hand will do). This 
+unique alchemical preparation allows the magician to 
+use the remembered talent of the individual when per -
+forming a task. In game terms, the Hand of Glory is tied 
+to one physical Active skill known by the previous own-
+er. The skill is limited by the Force of the ritual instead of 
+any other limit, including Accuracy. Reagents used must 
+be refined quality or better. When triggered, the magi-
+cian can use the skill for a number of minutes equal to 
+the Potency. The Hand of Glory, once created, is bonded 
+to the magician and cannot be unbound until the Hand is 
+destroyed or used. It also doesn’t lose Potency.
+The Hand of Glory can be reused without re-prepar -
+ing the item, but this requires the magician’s blood (and 
+thus leads down the path to blood magic). Normally an 
+object used in an alchemical preparation can be re-pre-
+pared if it hasn’t been destroyed, but the Hand’s talent 
+fades twenty-four hours after being used. In order for 
+the Hand to remember its talent, the magician must take 
+Physical damage with a DV equal to the preparation’s 
+Force, then transfer his blood to the Hand to recharge it. 
+This wound cannot be healed by magic.
+The Compendium Maleficarum warns of trying to own 
+more than one Hand of Glory, saying that the Hands 
+may seek vengeance on their creator if not used—idle 
+hands being the devils tools and all that. Requires Nec-
+romancy (see p. 143).
+>> STREET GRIMOIRE  <<
+<< TURNING LEAD INTO NUYEN    213
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 215 =====
+INANIMATE VESSEL 
+PREPARATION
+Preparing a vessel requires a number of radical re-
+agents equal to five times the Force of the spirit that 
+will possess or inhabit the vessel. Preparing a vessel is 
+done in the same way as a standard preparation, with a 
+minimum Force equal to the Force of the spirit that will 
+enter the vessel. This creation is challenging to craft, as 
+the magician’s Alchemy test must exceed the vessel’s 
+Object Resistance (p. 295, SR5) or Force, whichever 
+is greater. Time to complete is ten days minus the net 
+hits from the Alchemy test (minimum of 1 day). Failure 
+means that a number of reagents equal to the hits from 
+the Opposed Test are lost and the magician has to start 
+again. Requires Channeling (see p. 148).
+MANA-SENSITIVE FILM PLATE
+Modern magicians have updated the ancient process 
+of daguerreotype photography, exchanging the essen-
+tial chemical actions with an alchemical process. The 
+layers of chemicals used are mana-sensitive, derived 
+from various Awakened plants and animals, allowing 
+auras, spirits, and even background count to be record-
+ed on the plate. Mana-sensitive film plates are used 
+with mortis optigrams and quicksilver cameras.
+MORTIS OPTIGRAM
+According to an old, oft-ignored theory, in death the 
+eyes record the last moments of life. Necromancers 
+have found good reason to believe this theory, and 
+they can photograph such images on astral film by us-
+ing a mortis optigram and the eyes of the deceased. 
+The eyes are positioned to face the plate in the cam-
+era. As the magician takes the picture, the last thing the 
+eyes saw is captured on the mana-sensitive film plate. 
+The process takes twenty minutes to complete.
+The practice of using the mortis optigram varies 
+greatly, as does the use of such an item as legal evi-
+dence. In a criminal case, Tír Tairngire treats a mortis 
+optigram no differently than any physical evidence. 
+The UCAS and CAS permits law-enforcement forensic 
+thaumaturgists to create mortis optigrams as part of an 
+investigation, but the image is considered a valid lead 
+rather than evidence. NAN governments don’t allow 
+the creation of mortis optigrams in any instance due to 
+claims that the process is an aberrant ritual. Amazonia is 
+mixed, depending on the severity of the crime.
+The mortis optigram is not always a reliable source 
+of information, as the eyes may be closed at the time of 
+death. Other issues include drugs or cybernetics. Note 
+that cybereye replacements cannot be used in a mortis 
+optigram. The resulting image is almost realistic and oddly 
+three dimensional on the mana-sensitive plate. If the de-
+ceased suffered from hallucinations, even ones induced by 
+drugs, those hallucinations can appear on the plate. If the 
+deceased had the ability to astrally perceive, astral space 
+may also appear on the plate (see Quicksilver Camera, p. 
+215). Astral photos from a mortis optigram are not pretty 
+since they are tainted with echoes of pain and emotional 
+turmoil. Requires Necromancy (see p. 143).
+MYSTIC RESTRAINTS  
+(CUFFS/MASK/JACKET)
+For confining petty Awakened criminals, law-enforce-
+ment officers use cuffs and hoods that distract the in-
+carcerated with lights and sounds or use electric shock 
+to keep twitchy fingers in line. For the hardened crimi-
+nal magicians, however, police use individually tailored 
+mystic restraints. The shape of these restraints acts 
+like acupuncture that restricts the magician’s access to 
+magic. Mystic restraints (cuffs, masks, or jackets) have 
+to be crafted with the Artificing skill, using the same 
+Force requirements as crafting a symbolic link. Perma-
+nently creating the restraint requires 1 Karma.
+Net hits from the Artificing Test determine the Force 
+of the restraint, and the Force of the restraint reduces the 
+Magic rating of the Awakened individual (including ad-
+epts). Adepts restrained this way temporarily lose Pow-
+er Points associated with Magic loss; they may choose 
+which powers are affected. There are many pressure 
+points to use, but each restraint is limited to how much 
+Magic it can it restrain. While restraints are made for a 
+specific individual, an existing restraint can be attuned to 
+another individual, but it will be half as effective. This re-
+quires an Intuition + Magic (5, 1 hour) Extended Test and 
+requires either assensing the subject or having a material 
+link of the subject to be used in attuning the restraints.
+Mystic cuffs are made of steel or titanium and can 
+have a maximum Force of 8; they are ineffective if the 
+subject has one or more cyberarms. Masks are made of 
+steel and leather or ceramic and have a maximum Force 
+of 12. Similar to a straitjacket, a mystic jacket can have 
+embedded brass studs on the inside and woven symbols 
+on the outside. A mystic jacket can have a Force up to 18.
+If the subject has the Flux metamagic (p. 150), he can 
+reduce the effectiveness of the mystic restraints by his 
+initiate grade while his aura is in flux.
+>> STREET GRIMOIRE  <<
+DEAD VESSELS AND SPIRITS
+While a corpse can be prepared for inhabitation, most 
+spirits don’t like the concept of being confined to such a thing. 
+Necromancers say “the bones rub them the wrong way.” Some 
+mages find that the spirit inhabiting a corpse will do or say odd 
+things as they channel some of the memories of the previous 
+owner. Such is the risk of creating zombies or corps cadavres.
+214    TURNING LEAD INTO NUYEN >>
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 216 =====
+PAPER LOTUS
+Not all talismongers are nice or play fair. The ability to 
+falsify magical material for financial gain is a strong mo-
+tivator. Besides the few pre-Awakening artifacts that 
+have shown up, “paper lotus” is a general term for using 
+the Artificing skill (p. 306, SR5) to create a counterfeit 
+magical item. These magical items are indistinguishable 
+from the real thing unless an observer passes a Percep-
+tion Test (see below), but they cannot be used for any 
+magical purpose. These magical items are considered to 
+have the Counterfeit quality (p. 197, Run & Gun). If the 
+item can be bonded, the bonding will fail when attempt-
+ing to spend Karma, and the item will be exposed as 
+counterfeit. Fake reagents don’t do anything when ex-
+pended. In both cases, the illusion eventually expires, so 
+any magician can see that the object is fake.
+When the Artificing ritual is complete, the number of 
+net hits becomes the threshold for an observer deter -
+mining if the item is a fake through a Perception Test. The 
+Force of the Artificing ritual determines how many days 
+the item appears to be magical. Paper lotus creators run 
+the risk of someone detecting their items as a fake and 
+then using them in ritual magic as retribution against the 
+artificer. These items are sympathetic links while the illu-
+sion lasts. Requires Masking (see p. 149).
+QUICKSILVER CAMERA
+The quicksilver camera is a handheld camera with a 
+built-in collapsible tripod. It can hold five mana-sensitive 
+film plates, with only one being exposed at a time. This 
+camera can take an astral photograph in two minutes.
+Early astral photography required several hours of 
+exposure, but six years ago, technology and thaumatur-
+gical research reduced the exposure time to only thirty 
+minutes per mana-sensitive plate. These plates allowed 
+anyone to take a picture of the astral world, and while 
+beautiful enough to have a gallery at the MoMA in New 
+York, they capture a very blurry view of astral space. As-
+tral space is very dynamic, so it cannot sit still for thirty 
+minutes. Also, the mana-sensitive plate could be over -
+exposed since mana isn’t tied to light exposure, and 
+whole sets of plates could be ruined if an astral entity 
+moved through the camera during exposure.
+To improve the process, alchemists altered the plates 
+so that the Awakened photographer acted as the plate’s 
+catalyst. To take a photo, the photographer removes the 
+cap to expose the plate to visible light and activates the 
+plate’s chemicals to record the astral world. Once acti-
+vated, the exposure process cannot be stopped, and it 
+completes in two minutes. Moving the camera before 
+the full exposure time ruins the photograph (astrally and 
+visibly). One the exposure time has elapsed, the astral 
+photo automatically develops with a secondary alchem-
+ical process.
+FAKE MAGIC ITEMS
+ITEM
+MINIMUM FORCE OF
+ARTIFICING RITUAL
+UNITS OF AQUA 
+FICTUS REQUIRED
+Reagent (10 drams) 2 1
+Fetish 4 1
+Refined Reagent (10 drams) 4 2
+Quicksilver Camera 5 1
+Radical Reagent (10 drams) 5 4
+Alchemical Preparation 6 1/2 Force
+Focus 8 1/2 Force
+Artifact * *
+*Gamemaster should decide the Force of the ritual required, as artifacts are unique. In many 
+cases, additional requirements/reagents are needed in falsifying an artifact.
+>> STREET GRIMOIRE  <<
+MAGECUFF AND MAGEMASK
+Magecuffs are crafted with glomoss (a form of 
+bioluminescent plant that glows in response to magic or 
+astral entities) and a light-triggered shock device. If the cuffs 
+detect spellcasting or astral projection, the cuffs subject the 
+incarcerated individual to a 15S electrical attack (p.170, SR5).
+A magemask is a plastic hood and gag that cuts off 
+the incarcerated individual’s line of sight and produces a 
+combination of light and sounds that disorient the magician 
+and deters astral projection. Attempting astral projection while 
+wearing a magemask requires a Willpower + Intuition (4) Test.
+<< TURNING LEAD INTO NUYEN    215
+InMediaRes Productions LLC (Order #38901858)
+===== PDF PAGE IDX 217 =====
+Physically the image is in color as seen with a normal 
+camera but with iridescent marks overlaying the image. 
+These swirls and spots represent the alchemical reac-
+tion to recording the astral plane, not what mundanes 
+believe are auras and spirits captured on film. Viewing 
+the picture astrally reveals another image: a snapshot of 
+the flow of astral energies at that point in time. This astral 
+image captures astral signatures, background count lev-
+els, and the auras of wards, sustained spells, Awakened 
+individuals, spirits, critters, preparations, and bonded 
+foci. The photograph can be replicated through alchem-
+ical means. The auras in the photo can only be read and 
+recognized through astral perception. 
+Characters may attempt to use Assensing to ana-
+lyze any astral being, aura, or signature captured in an 
+original astral photo; the threshold for an Assensing 
+Test is 2 more than normal, and the limit for the test is 
+fixed at 4 due to the camera’s limitations. Astral entities 
+or objects that pass through the area while the photo 
+is being taken show up as ghostly images, but no in-
+formation can be gleaned from them. Copies of astral 
+photos also lose a level of detail, making the fixed limit 
+for the Assensing Test 3.
+Since astral photographs capture auras, the plate 
+can serve as a sympathetic link (p. 145) to any entity or 
+object that remained in the shot for the duration of the 
+exposure. Duplications of the original photograph can 
+be used as a symbolic link (p. 216), with the photograph 
+meeting the “Creator has met the target” condition. An 
+original astral photograph’s aura can be wiped through 
+smudging (p. 136). The wiped photograph is treated the 
+same as a copy, though the photograph is considered to 
+have a Force 12 psychic imprint.
+SHOFAR
+The shofar, which is a more impressive name than “the 
+horn that scares spirits,” derives from the Judean tradi-
+tion of exorcism. The shofar’s sound causes spirits to be 
+shaken and leave the area. When using it, make an Op-
+posed Test pitting the spirit’s Force + Willpower against 
+the shofar’s Force x 2. Materialized or manifested spirits 
+that fail the Opposed Test stop what they are doing and 
+retreat back to astral space, wasting the service they 
+are in process of fulfilling. Materialized or manifested 
+free spirits attempt to leave the area as if affected by 
+the Fear power for a number of Combat Turns equal to 
+the shofar’s Potency. Spirits inhabiting a living or non-
+living vessel are only distracted by the noise and suffer  
+a –2 dice penalty to all actions for that Combat Turn. 
+The shofar effect is instantaneous, but after activating 
+it, the item disintegrates. The shofar has a longer shelf 
+life than other compounds, as its Potency reduces by 1 
+per week. Requires Exorcism (see p. 148).
+SYMBOLIC LINK
+From effigies to drawings, a symbolic link is a represen-
+tation of a spell’s target. The most notorious of sym-
+bolic links are voodoo dolls, which a magician can use 
+to inflict curses upon the individual the doll represents. 
+The magician uses the Artificing skill to create a sym-
+bolic link, but the required Force depends on how well 
+the magician knows the subject. The symbolic link is 
+viable for a number of days equal to the net hits in the 
+Artificing Test. The downside to symbolic links is that 
+the object contains the creator’s astral signature while 
+the link remains viable. This means that a voodoo doll 
+can be used as a material link against the creator. Re -
+quires Psychometry (see p. 144).
+SYMBOLIC LINK CREATION
+CONDITION REQUIRED FORCE
+Creator knows the target intimately 
+or has a material link 2
+Creator has assensed the target or 
+has an original astral photograph 4
+Creator has a copy of an astral 
+photograph of the subject 8
+Creator has met the target 12
+Creator is personally unfamiliar with 
+the target 16
+>> STREET GRIMOIRE  <<
+216    TURNING LEAD INTO NUYEN >>
+InMediaRes Productions LLC (Order #38901858)

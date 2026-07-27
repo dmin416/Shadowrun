@@ -1,0 +1,683 @@
+
+===== FA p194 =====
+reinvented and repurposed in the Sixth World to 
+help push the boundaries of alchemy. While the 
+list below is not exhaustive, as additional tools 
+are developed every day, several stand out in the 
+field. Corporations and runners alike continue to 
+develop any advantage they can to facilitate not 
+just profit, but survival, within the Sixth World. 
+ATOMIZER
+Developed during the early resurgence of alchemy 
+as a practice, the atomizer is more a delivery device 
+than it is an actual tool. The key to this device lies 
+in its ability to take solid or liquid compounds and 
+break them down into an aerosol spray without any 
+loss in power or effect. This enables both healing 
+and poison effects that would normally be com-
+mand triggered to be created as contact triggers 
+while retaining efficacy. The nature of the atomizer 
+itself keeps contact with the device from activat-
+ing the contact trigger. This enables the atomizer 
+to spray out its payload which will then activate 
+upon contact. Rumors exist about atomizers that 
+may hold more than one compound “cartridge” at 
+a time, though none can verify the truth of them. 
+Effect: One compound may be converted from 
+a solid or liquid into an aerosol when inserted into 
+the atomizer. Compounds made with a contact 
+trigger are not enacted until they contact a sub-
+stance after being fired from the atomizer. Atom-
+izers can be used to make a ranged attack with a 
+maximum range of three meters. 
+Price: 500 nuyen for the atomizer itself, 5 nuy-
+en for an empty cartridge
+ALEMBIC
+The original distillery, the term “alembic” en-
+compasses all three pieces required for the dis-
+tilling process. Alchemists may use this device 
+to increase the potency of the product their re-
+agents produce. By distilling down to the im-
+portant essence, more refined reagents are pro-
+duced during the process from the same original 
+amount of base ingredient. As such, the standard 
+ten drams of reagent will produce two drams of 
+refined, instead of one. The same process applies 
+to further enhancement of refined reagents into 
+radicals at the same ratio. 
+Effect: Using an alembic during the refinement 
+process doubles the amount of refined or radical 
+reagents created. 
+Price: 3,000 nuyen
+ATHANOR
+An athanor is a furnace used in the alchemical re-
+finement process. It provides a constant rate of 
+heat vital to the successful creation of refined and 
+radical reagents. New technologies have allowed 
+for the perfection of this device, a rare case where 
+technology benefits the magical rather than hin-
+ders it. An athanor provides a strong and consis-
+tent flame that requires little maintenance. This 
+allows an alchemist to spend more time on other 
+projects without having to constantly attend to 
+other reagents they are refining. 
+Effect: An athanor grants the alchemist leeway 
+in the refinement and circulation process. During 
+the refinement process of standard reagents, an 
+alchemist may step away for up to one hour during 
+the ten-hour process without ill effect. When un-
+dergoing the month-long process of creating 
+orichalcum, an alchemist may check on the refine-
+ment process once every twelve hours, instead of 
+every ten. 
+Price: 1,000 nuyen
+CRUCIBLE
+No matter how careful the alchemist, there are 
+times when reagents become corrupted, or when 
+the reagents are lower quality than desired. The 
+crucible was reintroduced to alchemy to combat 
+this effect. Careful use of this device can allow an 
+alchemist to steam away the impurities found in 
+some reagents and increase their potency. There 
+are limits of course, and a crucible can’t be ex-
+pected to perform miracles. It can, however, al-
+low a canny talismonger who is willing to take 
+the time and effort to vastly increase their profit 
+margin. By buying less desirable reagents and re-
+fining them with a crucible, they can scrape every 
+nuyen possible out of a sale. 
+Effect: By using a crucible, an alchemist may 
+upgrade the quality of a reagent one step. This 
+takes the same amount of time as a standard re-
+finement cycle of ten hours. A reagent may be 
+upgraded from superior to prime in this manner, 
+but it may not be enhanced any further than prime 
+quality. 
+Price: 500 nuyen
+VAULT OF AGES
+The “vault of ages” is the most common name 
+for this relatively recent innovation. Taken from 
+the habit of secretive alchemists who hide their 
+>> FORBIDDEN ARCANA <<
+<< ADVANCED ALCHEMY    193
+
+===== FA p195 =====
+formulas and creations in secret vaults covered 
+in traps, the preservative nature of this item 
+gives it the name. First invented by a talismonger 
+skilled in alchemy, the vault of ages helps miti-
+gate the greatest flaw in crafted items. From the 
+moment of creation, alchemical compounds and 
+preparations begin to degrade. Dependent on 
+the strength of the creator, they can quickly be-
+come useless if too much time passes, becoming 
+a massive waste of resources and time. The vault 
+stabilizes alchemical creations, halting the degra-
+dation process for the duration of time it remains 
+within the vault. 
+Effect: A vault of ages may store a number of 
+alchemical compounds or preparations equal to 
+twice the Magic rating of its creator. The Rating of 
+these items cannot be more than twice the rating 
+of the vault. While within the confines of the vault, 
+these items do not degrade. The degradation 
+clock starts ticking as soon as they are removed. 
+Price: 2,000 nuyen per Magic Rating to a 
+max of 5
+NEW COMPOUNDS 
+Alchemy is a constantly evolving field of mysti-
+cal study as practitioners, from solo magicians 
+to teams of corporate researchers, experiment 
+and explore new uses for reagents. Their ultimate 
+goal is to discover new compounds that will make 
+them rich, famous, and/or powerful. Many who 
+make such a discovery hoard their knowledge 
+to corner the market and maximize their profits. 
+There are also those who seek to reverse-engi-
+neer the newest fad, analyzing a compound and 
+taking it apart to find how it was made. Whether it 
+is undercutting a rival or finding new and cheaper 
+ways to produce the compound, any talismonger 
+worth their salt always has their ear to the ground 
+for the newest creation. 
+Persistent runners can find talismongers willing 
+to sell some of these compounds, but it’s neither 
+easy nor cheap—due to the time it takes to cre-
+ate them versus the time they last before potency 
+runs out, these compounds are not exactly sitting 
+on store shelves. Still, runners are known for hav-
+ing contacts who might have unlikely items, and 
+sometimes a talismonger friend might just have 
+the item on hand that can provide important assis-
+tance to a runner team.
+The lack of a standard market for these items 
+leads to a lack of standard pricing. Still, there is a 
+baseline to consider, and it looks like this: [(Force 
+of spell involved) + (Current Potency)] x 500¥. 
+Another factor that might raise the price is wheth-
+er there is a current scarcity of required reagents 
+(either globally or locally). Base availability for 
+all compounds is 14R. Creating alchemical com-
+pounds requires advanced alchemy metamagic 
+(p. 153, Street Grimoire).
+ALCHEMICAL DUCT TAPE
+Few things have endeared alchemists to riggers 
+and deckers more than the creation of this com-
+pound. While on a run, there is never enough 
+time to repair a damaged vehicle or drone to per-
+fection. Sometimes you just need to get it work-
+ing and get moving. That’s where alchemical duct 
+tape comes in. By slapping this on and activating 
+the compound, complex repairs can be achieved 
+in an instant. Use of this compound is the only 
+magical repair possible, after which more mun-
+dane efforts are required to fix the machine.
+•	
+Trigger: Command
+•	
+Effect: When activated, this compound 
+magically repairs a non-living target. Each 
+hit upon activation repairs one point of 
+structure or one box of damage, as per the 
+spell Fix (p. 116, Street Grimoire).
+•	
+Aftereffect: Stunned side effect
+•	
+Required Reagent: Refined mallard fat
+ASTRAL INCREASE 
+The limits on a magician’s ability to manifest 
+can seriously threaten the success of a run. Al-
+chemists have finally created a solution for this 
+problem thanks to the rediscovery of the ghost 
+orchid. These ethereal flower petals enhance the 
+magician within the astral plane. The careful and 
+ALCHEMICAL TOOLS
+ITEM
+COST
+AVAILABILITY
+Atomizer
+500¥
+4
+     Cartridge
+5¥
+2
+Athanor
+1,000¥
+4
+Crucible
+500
+2
+Vault of ages
+2,000 x Rating
+(Rating +4)R
+>> FORBIDDEN ARCANA <<
+194    ADVANCED ALCHEMY >>
+
+===== FA p196 =====
+repeated refinement imbues the user with that 
+dual nature, enhancing their physical and ethe-
+real nature at the same time. Ghost orchids are 
+incredibly difficult to cultivate outside of the wild. 
+Doing so requires a level of care and concern that 
+few are willing to put forth. Ghost orchids are 
+most potent when harvested under the light of a 
+full moon, especially in spots where the light may 
+reach the petals unimpeded. 
+•	
+Trigger: Contact
+•	
+Effect: Once ingested, this compound dou-
+bles the amount of time a magician may re-
+main manifested while in astral projection.
+•	
+Aftereffect: Winded side effect
+•	
+Required Reagent: Radical ghost orchid 
+petals.
+ASTRAL BOND
+Normally the bond between body and soul is not 
+strong enough to invoke other prepared items in 
+the alchemist arsenal. This compound resolves 
+that issue, reinforcing that bond and allowing 
+mana to flow to the prepared items. This com-
+pound mystically encases that elusive connect-
+ing silver cord in steel, conveying a stronger bond 
+between body and soul while inhibiting neither. 
+While under the effect of this compound, many 
+users have spoken of the ease of travel and re-
+sponse while astral, almost as if their body itself 
+was there instead of just their soul. 
+•	
+Trigger: Contact
+•	
+Effect: While this compound lasts, the 
+bond between body and astral form is 
+much stronger. While manifesting, the tar-
+get may activate command triggers. 
+•	
+Aftereffect: Can’t Speak side effect
+•	
+Required Reagent: Refined organ from in-
+sect host.
+BAOBHAN’S TEARS
+The worst nightmare of many a magician, bao-
+bhan’s tears is a contact poison that deals dam-
+age to the body as well as to the ability to shape 
+mana. While this compound does not share the 
+addictive qualities of the real kiss, the blend of 
+euphoria remains, even while at odds with the 
+damage it inflicts on the body. 
+•	
+Trigger: Contact
+•	
+Effect: Upon contact with the skin or in-
+halation, this poison deals 4P damage that 
+may only be resisted by Body. If any dam-
+age is not resisted, the target also loses 1 
+point of Essence for the next twenty-four 
+hours. Repeated doses of this poison may 
+inflict damage, but only 1 point of Essence 
+may be lost during the twenty-four-hour 
+period after initial infection.
+•	
+Aftereffect: Stunned side effect
+•	
+Required Reagent: Refined tears of a bao-
+bhan sith (p. 114, Court of Shadows)
+DRAIN AWAY
+Holding the ability to lower the damage caused 
+by drain, this compound has become one of the 
+most feared in the arsenal of dark aspect magi-
+cians. It can only be made with the mana-fueled 
+veins of an adept, and producing this compound 
+pushes past lines even most shadowrunners will 
+not cross. Countless adepts perished before the 
+formula was perfected. Now it spreads deep 
+within the shadows for those willing to pay the 
+price for power. Dark traditions and insect sha-
+mans are known to carry a dose as a trump card 
+few could expect.
+•	
+Trigger: Contact
+•	
+Effect: Once imbibed, the next time the 
+target would take physical damage from 
+drain, that damage is negated.
+•	
+Aftereffect: Nauseated side effect
+•	
+Required Reagent: Refined veins of the 
+adept
+DULLED EDGES 
+When damage is inevitable, reducing the target’s 
+ability to inflict damage itself is a cunning tool. 
+This poison dulls the edges of the target, lower-
+ing their reaction times, weakening their muscles, 
+and sapping their strength. Even the mightiest 
+street samurai fears the moment when their body 
+is turned against them. 
+•	
+Trigger: Contact
+•	
+Effect: Once it contacts a target, this com-
+pound decreases the target’s Physical limit 
+by 2 for 3 turns. 
+•	
+Aftereffect: Fatigued side effect
+•	
+Required Reagent: Radical killdeer antler 
+(p. 97, Howling Shadows)
+FEEL NO PAIN
+Known as FNP on the streets, feel no pain delays 
+the need for sleep, food, or even water. While it 
+doesn’t eliminate these urges, it can delay them 
+>> FORBIDDEN ARCANA <<
+<< ADVANCED ALCHEMY    195
+
+===== FA p197 =====
+until the user is in a better place to handle these 
+basic needs. Quite popular among corp workers 
+who are closing in on a project deadline, since 
+nothing gets you through it faster than a bit of 
+FNP. There are very real dangers when it comes to 
+this alchemical compound. More than three days 
+of consecutive use of FNP brings risks of addic-
+tion as well as fatigue and disorientation (Addic-
+tion Rating 4, Addiction Threshold 2; see p. 172, 
+409, and 414, SR5).
+•	
+Trigger: Command
+•	
+Effect: When activated, every net hit counts 
+as one hour of sleep for the purposes of 
+resisting fatigue. It also allows a target to 
+skip one meal per net hit with no ill effects. 
+When the duration of FNP ends, the effects 
+of dehydration and starvation immediately 
+apply to the subject. 
+•	
+Aftereffect: Fatigued side effect
+•	
+Required Reagent: Radical kayeri mush-
+room
+FORCE OF PERSONALITY
+For those who heavily engage in combat in the 
+astral plane, this compound is a godsend. Alche-
+mists have developed a gel that enhances the abil-
+ity of a magician or adept to deal damage to astral 
+creatures and constructs alike. The compound can 
+also be helpful to non-magicians who wish to dis-
+play enhanced levels of charisma and charm. Few 
+are willing to endure the side effects without sub-
+stantial reason, due to the risks it entails.
+•	
+Trigger: Command
+•	
+Effect: This compound must be applied to 
+the target’s skin and then activated. While 
+active, the target’s Charisma is increased 
+by 2 for the purposes of astral combat 
+only. Such an artificial increase manifest-
+ing on the astral plane requires a potent 
+ability, and comes with an equally debili-
+tating side effect.
+•	
+Aftereffect: Stunned side effect
+•	
+Required Reagent: Radical ghost orchid 
+petals
+HMHVV II INHIBITOR 
+Developed in secret by the Aztechnology Al-
+chemy division, this compound is only sold and 
+then administered to approved and vetted elite 
+corporate citizens who sign a specialized NDA 
+to prevent rogue alchemists from attempting to 
+reverse-engineer it. A new and rare inoculation, 
+this magical compound prevents further progress 
+of HMHVV II as long as the compound is contin-
+ually ingested. 
+•	
+Trigger: Contact
+•	
+Effect: This compound must be con-
+sumed once every seven days. As long 
+as the regimen is maintained, all progress 
+of HMHVV II is halted. This is not a cure, 
+merely an inhibitor. Failure to continue 
+dosing will allow the virus to progress 
+once more, often more virulent than be-
+fore due to the repression. There is also 
+a possibility of addiction when using the 
+inhibitor; it has Addiction Rating 3, Ad-
+diction Threshold 1.
+•	
+Aftereffect: Fatigued side effect
+•	
+Required Reagent: Refined drop bear sali-
+va (p. 60, Howling Shadows)
+LAMINATE 
+Many traditions use writings or symbols painted 
+or drawn upon an item for their alchemical prepa-
+rations. These markings are susceptible to dam-
+age or accident, rendering the time and energy 
+spent on them wasted. Recently, the infamous 
+alchemist Megalith released this compound to 
+spite the Aztechnology Alchemical division.
+•	
+Trigger: Contact
+•	
+Effect: An aerosol spray that when applied 
+coats a layer of writing or runes in a thin 
+protective gel. Unable to stand up to any 
+real damage, (1 point of Physical damage 
+destroys the layer) it will protect from ac-
+cidental scuffing or blurring through in-
+advertent contact. For example, a sword 
+with runes drawn upon the blade may be 
+sheathed and unsheathed without damag-
+ing the inked writing. 
+•	
+Aftereffect: Blinded (One Eye) side effect
+•	
+Required Reagent: Refined slug glands
+PERFECT SIGHT
+Perfect sight has hit the streets, and for the first 
+time non-magicians have an inkling of what it’s 
+like to see the astral plane. Some use this just as a 
+recreational drug, seeing sights they never imag-
+ined could exist from the comfort of their own 
+homes. Enterprising runners and corporations 
+have also made use of this compound. Guards 
+can detect the dual-natured, or even warn their 
+>> FORBIDDEN ARCANA <<
+196    ADVANCED ALCHEMY >>
+
+===== FA p198 =====
+superiors about astral beings attempting to ac-
+cess secure locations. Runners can keep an eye 
+on their astral counterparts without requiring 
+them to waste time manifesting. This increased 
+bond to the astral does come at a cost however, 
+as use of this increases the noise (p. 441, SR5) in 
+the local area.
+•	
+Trigger: Command
+•	
+Effect: When applied to the eyes and 
+commanded to activate, this compound 
+allows the target to perceive the astral 
+plane. Throughout the duration of this 
+compound, the ambient noise in an area 
+is increased by the net hits achieved when 
+activated as per the spell Interference (p. 
+117, Street Grimoire)
+•	
+Aftereffect: Stunned side effect
+•	
+Required Reagent: Refined ghost orchid 
+petals
+SHARPSHOOTER
+One shot, one kill. The motto of the sniper, and 
+harder to accomplish in this age of advanced 
+magical and mundane protection. This com-
+pound returns some of that danger and abili-
+ty to the sniper by removing the pesky im-
+pediments of range or perception. A cunning 
+alchemist has managed to combine the spells 
+of Hawkeye and Enhance Aim into one easy-
+to-use compound. Even the most experienced 
+sniper or gunslinger likes to have a little Sharp-
+shooter on hand to ensure they don’t miss when 
+they take aim. 
+•	
+Trigger: Command
+•	
+Effect: Applied to the eyes or in a quickly 
+digestible pill, Sharpshooter improves the 
+target’s aim as well as negating range mod-
+ifiers in increasing increments. For each net 
+hit, reduce Range conditions by one cate-
+gory (p. 175, SR5). It also grants a +1 dice 
+pool modifier for any visual-based percep-
+tion tests. 
+•	
+Aftereffect: Blinded (one eye)
+•	
+Required Reagent: Radical eyes of a bird 
+of prey.
+UNSTOPPABLE VIGOR
+Another powerful tool in the arsenal of the ma-
+gician, this compound makes even the frailest 
+mana worker more likely to survive extended 
+spellcasting. Far more than the blades or bul-
+lets of enemies, drain itself becomes an unwary 
+spellcaster’s greatest foe. This compound forc-
+es an unnatural stamina to suffuse the body of a 
+magician in order to combat the physical dam-
+age that drain may inflict. It is a double-edged 
+sword, as this increased hardiness can convince 
+some to cast spells far beyond their power un-
+til they become addicted to it (the compound 
+has Addiction Rating 6, Addiction Threshold 
+3). This forces them to continue consuming the 
+compound to survive the repeated damage of 
+drain.
+•	
+Trigger: Contact
+•	
+Effect: Once imbibed, the target gains a 
+number of boxes on their Stun Condition 
+Monitor equal to the potency of the com-
+pound. These boxes are only useful for re-
+sisting the damage associated with drain. 
+Once the potency expires or the boxes are 
+full from drain damage, they disappear and 
+the effect ends.
+•	
+Aftereffect: Slowed side effect
+•	
+Required Reagent: Refined drake scales 
+(any type)
+WATER BREATHING 
+There are those who refuse to let such a minor 
+setback as being underwater stop them in their 
+quest for hidden riches. Use of this compound 
+magically imbues the user with gills, allowing 
+them to breath easily underwater. This is not 
+some mystical conversion, but rather true gills, 
+which can be problematic to the inexperienced 
+user. While this compound remains in effect, the 
+user cannot breathe air alone; they must take 
+their oxygen from the water. As such, the truly in-
+novative have taken advantage of this fact, apply-
+ing the compound to a target and then watching 
+their victim suffocate before them.
+•	
+Trigger: Contact
+•	
+Effect: The target is empowered with the 
+Gills critter power (p. 192, Howling Shad-
+ows). While this compound is active, the 
+target has real working gills and may only 
+breathe underwater. Canceling this effect 
+removes them and returns the ability to 
+breathe air.
+•	
+Aftereffect: Winded side effect
+•	
+Required Reagent: Refined salmon scales
+>> FORBIDDEN ARCANA <<
+<< ADVANCED ALCHEMY    197
+
+===== FA p199 =====
+NEW ALCHEMICAL 
+PREPARATIONS
+Alchemical preparations are spells that rely on 
+a physical conduit, called the lynchpin, to chan-
+nel mana from the astral to the physical realm to 
+activate them. Lynchpins are the weak spot in 
+any alchemical preparation, as even the slightest 
+damage to them will render the entire prepara-
+tion inoperable. They can take many forms, from 
+arcane writing on paper to the severed hand of 
+a murderer mystically imbued with power. Tradi-
+tion and imagination are the limit when it comes 
+to alchemically preparing a vessel for a spell. 
+Rules for purchasing preparations follows the 
+same outline as buying compounds (p. 194), name-
+ly that they are hard to find—in fact, even more so 
+because of the shorter lifespan. The base price is 
+[(Force of spell involved) + (Current Potency)] x 
+500¥. Base availability for all preparations is 14R.
+ABANDON ALL HOPE
+Another popular trap and defensive preparation, this 
+preparation increases an aura of fear and helpless-
+ness in the entire area when activated. By setting this 
+up in an area where other traps are located, it be-
+comes much easier to deter any who seek to beard 
+the alchemist in their lair. This preparation is often 
+set upon something of value left easily found. As the 
+magic is undetectable until activated, once a would-
+be thief touches the item, the fear aura ignites.
+•	
+Trigger: Contact 
+•	
+Effect: When activated, this preparation 
+enacts the Foreboding spell upon the area. 
+•	
+Required Spell: Foreboding (p. 112, Street 
+Grimoire)
+BARRICADE
+A few seconds can seem a lifetime, or make all 
+the difference in the world. Upon activating this 
+preparation, the structural integrity of a wall or 
+door can be increased. Traditional-minded alche-
+mists use runes written on paper, which is then 
+applied to the target. Other, more innovative 
+methods, such as a penny in the door seam, can 
+work just as well when properly prepared.
+•	
+Trigger: Command
+•	
+Effect: Upon activation, the spell Reinforce 
+is cast on the object the preparation has 
+been applied to. 
+•	
+Required Spell: Reinforce (p. 118, Street 
+Grimoire)
+BURN, BABY, BURN
+Triple B is one of the most versatile trap-style 
+preparations and can take many forms. A room 
+filled with flammable gas, with a hidden rune 
+upon the floor that ignites the entire room in 
+flames. A grenade of flammable liquid, with a 
+command rune inscribed upon it. There are myr-
+iad ways to capitalize on something igniting in 
+flames on command.
+•	
+Trigger: Command 
+•	
+Effect: When activated, this preparation 
+enacts the Ignite spell upon the target. 
+•	
+Required Spell: Ignite (p. 293, SR5)
+DO YOUR BEST
+Unleashing the limits of body or mind can make 
+the difference in any battle. This preparation al-
+lows an alchemist to raise the effectiveness of 
+herself and others. While this isn’t a guaranteed 
+win, it greatly increases the chance of success in 
+whatever endeavors a runner might undertake. 
+Coated pills are a common form for this prepara-
+tion, and when the command word is spoken the 
+spell activates. 
+•	
+Trigger: Command
+•	
+Effect: When activated, this preparation 
+enacts the Increase Inherent Limits spell 
+upon the target. Only one limit may be in-
+creased at one time, and further activation 
+of this eliminates the previous version. 
+•	
+Required Spell: Increase Inherent Limits 
+(p. 110, Street Grimoire)
+GET AWAY FROM MY RIDE
+A getaway vehicle is nothing if it can’t help run-
+ners escape. It’s a weakness in any plan, and as 
+such, alchemists have devised a way to protect 
+that key element of any good escape. Emblems 
+and decals are popular forms for these prepara-
+tions to make them blend in with the vehicle and 
+hide their magical nature until it is too late.	
+•	
+Trigger: Command
+•	
+Effect: When activated, this preparation 
+enacts the Protect Vehicle spell upon the 
+target vehicle.
+•	
+Required Spell: Protect Vehicle (p. 117, 
+Street Grimoire)
+>> FORBIDDEN ARCANA <<
+198    ADVANCED ALCHEMY >>

@@ -31,7 +31,7 @@ Vehicles and drones use **Pilot** skills, **Handling**, **Speed**, **Acceleratio
 | --- | --- |
 | Manual | Driver with wheel / sticks |
 | AR / jumps remotely | Rigger with RCC / cyberdeck / implanted control |
-| Rigged (jumped in) | Rigger perceives as the vehicle — see [Rigging Basics](Rigging%20Basics.md) |
+| Rigged (jumped in) | Rigger perceives as the vehicle - see [Rigging Basics](Rigging%20Basics.md) |
 | Autopilot | Pilot rating + autosofts; limited initiative / wit |
 
 ## Buying & upkeep

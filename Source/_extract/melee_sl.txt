@@ -1,0 +1,1765 @@
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+INTRODUCTION	
+5
+PROVING GROUNDS	
+6
+EXPANDED ARSENAL	
+10
+TOOLS OF THE TRADE	
+10
+NON-LETHAL WEAPONRY?  
+WHY BOTHER?	
+10
+A Look at a Non-Lethal Weapons Company: 	
+12
+Narcoject’s Triumphant Return	
+12
+State of Play	
+14
+Ares	
+14
+Aztechnology	
+15
+Monobe International	
+16
+Renraku	
+17
+Winter Weapons Systems	
+18
+BLADES	
+18
+Krime Bill	
+18
+Krime Reaver	
+20
+Krime Shiv	
+20
+Macuahuitl	
+21
+Nodachi	
+21
+CLUBS	
+21
+Fluid-Motion Mace	
+21
+Gunstock War Club	
+22
+Nunchaku	
+22
+Tonfa	
+23
+OTHER MELEE WEAPONS	
+23
+Krime Gloves	
+23
+Krime Stun Lance	
+24
+PROJECTILE WEAPONS	
+24
+Krime Trollbow 	
+24
+Winchester Airbow	
+25
+TASERS	
+25
+Krime Tingler	
+25
+HOLD-OUT PISTOLS	
+26
+Narcoject One 	
+26
+Raecor Sting	
+26
+Terracotta Arms Pup	
+27
+LIGHT PISTOLS	
+27
+Browning Ghost	
+27
+Colt Coral Snake	
+28
+HEAVY PISTOLS	
+28
+Ares Striker	
+28
+Barrens Special	
+29
+Browning Phantom	
+29
+Cavalier Champion	
+30
+Cavalier Thunderstruck	
+30
+Hammerli Gemini	
+31
+HK Urban Fighter	
+31
+Morrissey Alta	
+32
+Morrissey Elite	
+32
+Nemesis Arms Praetorian	
+33
+Onotari Arms Vagabond	
+33
+WW Infiltrator	
+34
+MACHINE PISTOLS	
+34
+Cavalier Flash	
+34
+SUBMACHINE GUNS	
+35
+Esprit Tsunami	
+35
+Onotari Arms S-3K	
+35
+CARBINES	
+36
+Ares Stalwart	
+36
+Colt M23A2	
+36
+Izom Artemis	
+37
+ASSAULT RIFLES	
+38
+Cavalier Frontier	
+38
+Krime Happiness	
+38
+Onotari Hl-13	
+38
+SNIPER RIFLES	
+39
+PSG Enforcer	
+39
+SHOTGUNS	
+39
+Beretta Northstar	
+39
+Krime Boom	
+40
+Krime Whammy	
+40
+MACHINE GUNS	
+41
+Krime Triple Series	
+41
+CANNONS/LAUNCHERS	
+42
+HK 82A1	
+42
+M79B1 LAW Rocket	
+42
+Phalanx Systems VogeljAger II  
+     Missile Launcher	
+42
+Terracotta X-6 MGL	
+43
+OTHER RANGED WEAPONS	
+43
+Narcoject Gas Gun	
+43
+Narcoject PEP	
+44
+Narcoject Trackstopper	
+44
+WEAPON ACCESSORIES	
+45
+Additional Clip/Magazine	
+45
+Krime Pack	
+45
+Krime Stun-O-Net	
+46
+Narcoject Dazzler	
+46
+Red Dot Sights	
+47
+ARMOR	
+47
+Urban Explorer Daedalus	
+47
+MILITARY AND  
+FUTURE WEAPONS	
+50
+Ares Arms DPC-002A “Slam Dancer”	
+50
+Aztechnology-Dassault Halcón de sangre/ 
+     Blood Hawk Mk I	
+52
+MCT DSP (Digital Signal Pulse) Weapons	
+54
+Vulcan Systems “Hot-Drop”  
+     Rapid-Egress Jetpack System	
+55
+Yamatetsu Naval Technologies  
+Magnetic Wave Generator/Repulsor	
+57
+ADVANCEMENTS IN AFRICA	
+58
+Gravity Drive	
+59
+Star Ferry	
+59
+Border Jockey	
+59
+Sky Whale	
+60
+Jetblack 	
+61
+Sprawl Wanderer	
+61
+Crotch Rocker	
+62
+Hummingbird	
+63
+SkyGuide	
+63
+Anti-Gravity/GravJack Grenade	
+64
+Gravity Shielding/Armor	
+65
+Personal Gravity Devices	
+66
+Mag Rounds	
+66
+Puncher Guns	
+67
+Nerve Guns	
+68
+Nausea Gun	
+69
+Plasma Weapons 	
+70
+Healing Goop	
+71
+A Look Inside The Madness at Ares	
+71
+Artificially Induced Memory Alteration Device	
+72
+FAB-ulous Armor	
+72
+WHO THE HELL THINKS OF THESE THINGS	
+74
+STREET LETHAL
+CONTENTS
+& CREDITS
+2    CONTENTS & CREDITS >>
+
+
+===== PAGE 4 =====
+Smart Bullets	
+74
+Maker Mags and Missiles	
+75
+Microwave Weapons	
+76
+Sonic Booms	
+78
+Platform-based Centrifugal Weapons	
+79
+Plasma Shields	
+80
+More Machine Than Metahuman	
+81
+Genetic Weapons	
+81
+Power Armor	
+83
+Prometheus Engineering Battlefield 
+Augmentation Soldier Exo-System	
+83
+Anti-Dragon Weaponry	
+84
+Magical Weapons	
+86
+Nano-Weapons	
+88
+Nuclear Option	
+88
+Matrix	
+89
+OPPOSITION REPORT: 
+COPRSEC	
+90
+CORPORATE SECURITY OVERVIEW	
+90
+CSSI: What We Need To Know	
+90
+CSSI Operational Procedures	
+90
+Physical Security Measures	
+92
+Active and Passive Security	
+93
+Security Officers and Guards	
+94
+CorpSec’s Other Duties	
+95
+Internal Security and External Investigation	
+95
+Scouting and Intelligence Gathering	
+95
+Mobile Protection Details	
+96
+So How Does This All Work?	
+97
+Layered Approach	
+97
+Specific Corpsec Doctrine,  
+     Philosophy, And Tactics 	
+99
+Ares Macrotechnology:  
+     Good, Bad, and Badder??? 	
+99
+Aztechnology: New  
+     Look, Same Old Practices	
+101
+Evo: Keeping Corpsec Weird	
+103
+Horizon: Lights, Camera, Security! 	
+104
+MCT: Taking Zero Drek 	
+105
+NeoNET: Everything Must Go!	
+106
+Renraku: Security Through Superior  
+     Unity and Harmony	
+106
+Saeder-Krupp: Offense Is the Best Defense	 108
+Shiawase: Our Own Worst Enemy	
+109
+Wuxing: Aligned for Success	
+109
+PROMINENT CORPSEC UNIT BRIEFINGS	
+110
+Aztechnology: Dassault  
+     and Security Animals	
+110
+Desert Storm Security 	
+111
+Eagle Security Services	
+111
+Evo: Next-Generation Security	
+112
+Knight Errant/Ares Firewatch	
+113
+Knights of Rage 	
+115
+Lone Star Security Shadowriders	
+115
+Maersk’s Marines	
+116
+Minuteman Security	
+118
+Mitsuhama’s Boys in Black	
+119
+Renraku: More than Red Samurai	
+121
+Sphinx Security	
+122
+Wuxing Maritime Security Division	
+126
+GAME INFORMATION	
+126
+CorpSec Qualities: Positive	
+126
+Corporate Loyalist	
+126
+Location Attunement	
+126
+Natural Leader	
+127
+Observant	
+127
+CorpSec Qualities: Negative	
+127
+Stay Out of My Way	
+127
+Corporate Pariah	
+127
+This Is Your Last Chance	
+127
+CorpSec Life Modules	
+127
+Formative Years	
+127
+Corp Kid	
+127
+Corp Silver Spooner	
+128
+Teen Years	
+128
+Corp Teen	
+128
+Further Education	
+128
+Corp College Student 	
+128
+Real Life	
+128
+CorpSec Officer, Basic	
+128
+Company Troubleshooter	
+128
+Rising Star	
+129
+Warm Body	
+129
+CorpSec Arsenal	
+129
+Ares Firewatch “Bug Stomper”  
+     Custom Armor	
+129
+Stoner-Ares M-22A1 Vehicle  
+     Mounted Heavy Machine Gun	
+130
+Aztechnology Blood Drinker Combat Axe 	
+130
+Evo/Yamatetsu Naval Technologies Rampart 
+Portable Ballistic Emplacement	
+130
+Horizon-Flynn Defense-Com  
+     Commlink Weapons	
+131
+Lone Star’s Remington 995 “Buzzsaw”	
+131
+Lone Star’s Bates-Brown Tactical  
+     Combat Boots	
+131
+Maersk Shipyards Wavecutter MPAC	
+131
+MCT/Winchester-Howe Hornet  
+     Direct-Fire Mini-Grenade	
+132
+Renraku Red Samurai Katana	
+132
+Renraku/Ingram Supermach 200	
+132
+Saeder-Krupp/Onotari  
+     Arms Silent Claw Stiletto	
+133
+Shiawase/Nemesis Arms Man-Catcher 	
+133
+Wuxing-ArmTech PTL-02	
+133
+AT SEA	
+134
+UNCONVENTIONAL FIGHTER	
+138
+MERCENARIES: FIGHTING  
+     FOR FUN AND PROFIT 	
+138
+International Mercenary Association	
+138
+22nd Spartan Legion	
+139
+77th Independent Ranger  
+     Regiment, “El Cuadrilla”	
+141
+Banzai Battlefield Express	
+143
+Bravo Company	
+144
+Mobile Eingreiftruppe/MET 2000	
+146
+Messerzahn	
+148
+Warrior’s Path	
+150
+Zero Day	
+151
+Amur Tigers	
+153
+SSU 211	
+154
+Trip D	
+156
+BLOODY PIRATES!	
+158
+Devils, Black Sheep, and Really Bad Eggs	
+158
+Big Sur	
+158
+Crimea River Cossacks	
+159
+Crescent Moon Raiders	
+159
+Fanti Pirates	
+160
+Hell Thunder Crew	
+160
+La Llama Roja	
+161
+Wuji Crew	
+162
+Da Brag Rock	
+163
+Minor Groups	
+164
+Wretched Hives of Scum and Villainy	
+165
+<< CONTENTS & CREDITS    3
+
+
+===== PAGE 41 =====
+gun of choice for urban scenarios. Able to tog-
+gle between two different types of ammunition, 
+the Northstar doubles the user’s tactical choices 
+as well as his ammunition capacity. Just sixty-six 
+centimeters long, the Northstar is ideally suited 
+to navigate the type of restricted terrain today’s 
+professional finds in the modern sprawl.
+Standard 
+Accessories: 
+Additional 
+magazine 
+(side), smartgun system (internal)
+BERRETTA NORTHSTAR (SHOTGUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+4(6)
+11P
+–1
+SA
+—
+6(m)x2
+12R
+2,000¥
+>	
+Shotguns generally don’t have the range to make it 
+worth mounting one on a drone, but being able to toggle 
+between ammo types is phenomenal. Tack on an extra 250 
+nuyen to whatever bin you’re using, and you can split its 
+capacity between the two feeds. Win-win. Well, except for 
+your target.
+>	
+Rigger X
+>	
+I’d still prefer a few belts of APDS. Switching ammo is for 
+the uncertain.
+>	
+Kane
+>	
+A few smaller security firms are looking into purchasing 
+these. Having a backup plan if your opposition turns out to 
+be well armored without unnecessarily burning through 
+expensive ammunition against the rabble helps control 
+costs.
+>	
+Hard Exit
+>	
+Another reason to make them think you’re rabble.
+>	
+Mika
+KRIME BOOM
+So, Old Man Krime was playing around in his 
+workshop one day when he figured out how to 
+make a Remington Roomsweeper fire on full-au-
+to, and thought, “Damn nice, but it needs more 
+rounds!” Actually, his first thought was making 
+sure Claire, who worked on the other side of the 
+wall was okay, and her troll tough hide had in-
+deed stopped the buckshot. Then he figured that 
+it needed more rounds. After obtaining a license 
+from Remington, Krime introduced the Krime 
+Broom, a troll-sized longarm that holds an amaz-
+ing twenty shotgun shells in its integrated maga-
+zine and fires with full-auto fury. Most other au-
+tomatics will suppress a room—the Krime Broom 
+suppresses the whole fragging house.
+Note: The Boom is only available in troll sizes.
+KRIME BOOM (SHOTGUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+4
+10P
+–1
+FA
+—
+20 (m)
+15F
+750¥
+>	
+There is a belt-fed model being developed as well, 
+although it’ll be marketed toward full-on vehicle mounts 
+rather than personal use or drone mounts. A tank’s coaxial 
+mount firing armor-piercing buckshot would suppress 
+quite a bit of the metahuman and paracritter world.
+>	
+Clockwork
+>	
+I use mine for hunting. Not so good, however, as it ruins 
+too much meat, and I end up having to make venison 
+jerky chunks out of what I can peel off the trees.
+>	
+Kane
+>	
+And no one is surprised in the least.  Well, except for that 
+poor deer.
+>	
+Netcat
+KRIME WHAMMY
+With the Krime Chatter under his belt and some 
+credit built up with Old Man Krime, Nathan Thies-
+sen started development on his dream invention, 
+in this case specifically referring to something 
+that came to him in a dream. The Krime Wham-
+my is a combination of warhammer and shotgun, 
+with a blast specifically designed to breach nearly 
+any non-armored door on the market. This sports 
+Krime’s typical styling and ability to make tools a 
+>> STREET LETHAL <<
+40    EXPANDED ARSENAL >>
+
+
+===== PAGE 42 =====
+proper size for their functions, running the finest 
+recycled titanium alloys for the head to a flexbond 
+composite for the shaft to minimize kinetic trans-
+fer to the hands from the point of impact. Avail-
+able in chrome finish or Super-Street-Chrome.
+Standard Accessories:   Melee hardening, shock 
+pad. The Whammy is only available in troll sizes.
+KRIME WHAMMY (SHOTGUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3
+12P
+–1
+SS
+1
+5(m)
+12F
+2,000¥
+KRIME WHAMMY (CLUBS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+2)P
+—
+—
+—
+Note: All range penalties are doubled with this weapon. Bullets 
+fired from this weapon are not considered to be penetrating weap-
+ons for the purposes of overcoming barriers. When using the ham-
+mer portion of this weapon against a barrier, the user may roll Agility 
++ Clubs [Accuracy] or Agility + Strength. A minimum Strength of 5 is 
+required to use this weapon.
+>	
+Titanium alloy? More like a steel alloy that has a smidgen 
+of titanium in it.  And with Krime’s marketing and target 
+audience, I figure that metahumans will be targeted more 
+with this than really tough doors.
+>	
+Bull
+>	
+It’s a battering ram with a built-in shotgun, or vice versa 
+depending on your point of view. If someone in your crew 
+has one, just point them in a direction and they’ll be able 
+to make a straight line to wherever you need to go.
+>	
+2XL
+MACHINE GUNS
+KRIME TRIPLE SERIES
+Third time’s the charm, they say. Krime brought 
+out three barrels of pain to all comers who 
+face their wondrous Triple Series of Gatling 
+guns. The Triple-Troll Minigun uses Light Ma-
+chine Gun rounds, the Triple-Ork Microgun 
+uses Assault Rifle rounds, and the Triple-Dwarf 
+Nanogun uses Submachine Gun rounds. That 
+gets combined with the latest in chainsaw grip 
+technology, incorporating a Radio Shack S4.2 
+smartgun link and a licensed Smyth divided 
+spin/feed system that is the market standard for 
+Gatling guns the world over. With the Krime Tri-
+ple, the only thing not included is a target-rich 
+environment.
+Standard Accessories: Personalized grip, smart-
+gun link (internal, DR 1). All Krime Triples are sized 
+for the metatype named in the weapon.
+TRIPLE-TROLL MINIGUN (LIGHT MACHINE GUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3(5)
+10P
+–4
+FA
+—
+100(belt)
+18F
+2,000¥
+TRIPLE-ORK MICROGUN (LIGHT MACHINE GUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3(5)
+8P
+–2
+FA
+—
+100(belt)
+16F
+1,400¥
+TRIPLE-DWARF NANOGUN (LIGHT MACHINE GUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3(5)
+7P
+—
+FA
+—
+100(belt)
+14F
+1,000¥
+>	
+I was kind of insulted at the Krime Triple Dwarf bit, but 
+after using it, I have to say that even light rounds are very, 
+very dangerous to the morale of opponents.
+>	
+Chainmaker
+>	
+Just to prove that firearms fans will complain about 
+anything, the maximum rate of fire is “only” 3,000 rounds-
+per-minute rather than 5,000 or 6,000. I have yet to meet 
+anyone that has ever set a minigun to more than 2,000 
+rounds-per-minute, and most are happy at 1,000 to 1,500. 
+Also, look into the Krime Pack if you want to keep going all 
+night long. Or, you know, longer than ten seconds.
+>	
+Zhaganaash
+GATLING GUN HIGH RATE OF FIRE
+A Gatling gun’s main reason for being is deploying an 
+extreme amount of ammo around the poor unlucky slitch who 
+deserves it, and everyone around them. As such, they are 
+primarily used to suppress a larger-than-normal area when 
+compared to other assault rifles and machine guns. Any Gatling 
+gun (including the Ares HVAR and GE Vindicator in Run & Gun) 
+is capable of suppressing up to one additional zone (see the 
+suppression rules, p. 179-180, SR5; and Enhanced Suppression, 
+p. 120, Run & Gun) with a single test provided that they are 
+adjacent to one another. Each additional zone requires an 
+additional twenty rounds of ammunition. That 100-round belt is 
+starting to look pretty small, huh?
+Hope your reload is fast on their feet!
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    41
+
+
+===== PAGE 43 =====
+CANNONS/
+LAUNCHERS
+HK 82A1
+One of the smallest available grenade launchers, 
+the 82A1 is primarily used by security forces to 
+dispense gas grenades to quell riots, but it also 
+finds use as a support weapon with light infan-
+try units. Tipping the scales at 2.5 kilos, the 82A1 
+weighs less than half as much as a standard gre-
+nade launcher and has considerably less bulk. Its 
+compact design makes it less well-suited for lon-
+ger-range engagements.
+HK 82A1 (GRENADE LAUNCHER)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3
+*
+*
+SS
+(1)
+1(b)
+6F
+1,500¥
+* As grenade
+Note: This weapon suffers a –1 dice pool penalty at Long range 
+and a –2 dice pool penalty at Extreme range. It has a Concealability 
+Modifier of +4 with its folding stock retracted.
+>	
+My life would be a lot easier if security forces would start 
+using gas grenades. Fewer parts to replace that way.
+>	
+Borderline
+>	
+Very few units out there can afford to equip everyone on 
+a fireteam with Alphas. This is a fairly lightweight, cost-
+effective pick for your grenadier.
+>	
+Picador
+>	
+These fit in larger model briefcases, making them much 
+easier to sneak into places than something like a MGL-12. 
+They work best when you know ahead of time when you’ll 
+need a grenade and what type you’ll need next, but isn’t 
+that why we plan, chummers?
+>	
+Thorn
+M79B1 LAW ROCKET
+A single-shot, disposable rocket launcher, the 
+M79B1 remains the most common light anti-tank 
+weapon in use worldwide. When collapsed, the 
+M79B1’s tube forms a watertight seal, protecting 
+the rocket from the elements. Once opened, the 
+housing cannot be resealed.
+M79B1 LAW ROCKET (LAUNCHER)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+4
+*
+*
+SS
+—
+1(ml)
+9F
+750¥
+* As missile/rocket
+Wireless Bonus: You can use the wireless link trigger for your 
+missiles, even if you don’t have DNI.
+Note: This weapon can only fire anti-vehicular missiles/rockets.
+>	
+These have become depressingly common with some of 
+the better-equipped gangs out there. It’s not like they all 
+have ‘em, but they can get their hands on one if they know 
+they’ll need it.
+>	
+Turbo Bunny
+>	
+I think you may be experiencing some recency bias.
+>	
+Butch
+>	
+You don’t see someone undercutting Aztechnology on 
+price all that often, but this is cheaper than the Striker.
+>	
+Hard Exit
+>	
+And not as flexible. If you have a platoon and you know 
+you’re heading up against some APCs, sure. But if 
+you want a weapon that can be adapted to a variety of 
+situations, this isn’t for you.
+>	
+Red Anya
+>	
+Also not for you if you can’t afford to drop 750 nuyen per 
+shot.
+>	
+Chainmaker
+>	
+Rockets are not the favored weapon of the cheap. Which 
+makes them unlikely to become too common in gang 
+warfare.
+>	
+Thorn
+>	
+If you’re still standing after I unload a belt of ammo, I 
+adapt by using this next.
+>	
+Cayman
+>	
+We need to hang out more.
+>	
+Kane
+PHALANX SYSTEMS 
+VOGELJAGER II  
+MISSILE LAUNCHER
+The Vogeljäger is a man-portable air-defense 
+system (MANPADS) that has become the bane of 
+>> STREET LETHAL <<
+42    EXPANDED ARSENAL >>
+
+
+===== PAGE 47 =====
+>	
+Ares had a similar design that was in development for the 
+longest time, and its tendency to keep misfeeding was 
+a major, but not the only, problem. Then the project just 
+“died” and Krime came out with this six months later with 
+some rather dodgy looking evidence that they developed 
+it themselves in secret. Run gone well?
+>	
+Clockwork
+KRIME STUN-O-NET
+After one of Krime’s Thursday design discus-
+sions/bar fights, some of their people ran across 
+one of the local heroes of the area, John Zubiri 
+the Bouncer. He had a beat-up shotgun with a 
+bayonet lug on it, and he had placed a jury-rigged 
+stun baton on the damn thing. They knew a win-
+ner when they saw one—Zubiri now works for the 
+development team full time (though he still acts 
+as a bouncer in his uncle’s bar, since it’s a passion 
+of his). The Stun-O-Net reflects Zubiri’s mentality 
+of being ready to deal with the full range of meta-
+humanity and paracritters in the world, putting 
+more than a sharp chunk of metal on the end of 
+a rifle for the firearms owners of the world to use.
+KRIME STUN-O-NET (WEAPON ACCESSORY)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+9S(e)
+–5
+10R
+800¥
+KRIME STUN-O-NET (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+SKILL
+Underbarrel
+10
+1 hour
+Kit
+Armorer
+Note: This weapon has 10 charges and recharges at a rate of 1 
+charge per minute when plugged in.
+>	
+It’s a stun baton that can be hooked onto a rifle like 
+a typical bayonet. And it is selling, big time. I’m on the 
+waiting list for my crew to get a bunch, as we’re looking 
+at some escort jobs through a city, er, somewhere, and 
+having an option that doesn’t get people sliced up would 
+be a nice change.
+>	
+Picador
+>	
+There are some street gangs and crowd-clearing crews 
+out there that have made “stun pikes” by welding stun 
+batons to metal or plastic pipes. Putting a bayonet 
+mount on those pipes and being able to choose using 
+them as pikes or batons will open up options for those 
+headbreakers.
+>	
+Zhaganaash
+NARCOJECT DAZZLER
+The Dazzler name is rather on-the-nose for this 
+non-lethal piece of equipment. When triggered, 
+the dazzler emits intense, focused radiation to 
+temporarily disable its target with flash blindness. 
+The Dazzler can be tuned to various parts of the 
+light spectrum to target either the normal range 
+of visible light or infrared, allowing the weapon 
+to be used against metahumans and sensors with 
+thermographic capabilities. The Dazzler cannot 
+affect both spectrums at the same time.
+Looking directly at someone using a Dazzler for 
+any appreciable length of time is extremely danger-
+ous. On their first Initiative Pass, the viewer suffers 
+from Moderate Glare penalties (p. 175, SR5). If the 
+viewer has some form of low-light vision enhance-
+ment, these penalties are increased to Blinding 
+Glare. Flare compensation reduces the penalties by 
+one category. For each subsequent Initiative Pass 
+that the viewer continues to look at the Dazzler’s 
+user, the penalty increases by one category. If the 
+viewer suffered Blinding Glare penalties on their 
+previous Initiative Pass and continues to look at 
+the Dazzler, they must make an immediate unaug-
+mented Body [Physical] (4) Test. Failure temporarily 
+blinds the viewer for a number of hours equal to 4 
+minus the number of hits rolled on the test.
+The Narcoject Dazzler is commonly purchased 
+as a Heavy Pistol-sized device on its own (at the 
+same cost), but is also available as a top-mount-
+ed weapon accessory that can fit on weapons that 
+have a Concealability Modifier of +4 or greater. Its 
+price and Availability remain the same. Narcoject 
+prides itself on its patented array of optic lasers, 
+offering a full guarantee if any targets are perma-
+nently blinded.
+>> STREET LETHAL <<
+46    EXPANDED ARSENAL >>
+
+
+===== PAGE 48 =====
+NARCOJECT DAZZLER (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Top
+5
+30 
+minutes
+Kit
+15R
+1,000¥
+Armorer
+Note: This item can be used for 10 Combat Turns before it needs 
+to be recharged. It recharges at a rate of 1 Combat Turn of use per 15 
+minutes.
+RED DOT SIGHTS
+This archaic sight projects light onto a curved 
+lens, overlaying a red dot onto the user’s target. 
+It increases the weapon’s Accuracy by 1 and pro-
+vides a +1 dice pool modifier when used at Short 
+range. At Medium range, it only increases Accu-
+racy by 1, with no dice pool bonus. Red dot sights 
+have no effect at Long and Extreme ranges. Red 
+dot sights are not compatible with smartlink sys-
+tems, laser sights, holographic sights, or any form 
+of vision magnification.
+RED DOT SIGHT (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Top
+4
+10 
+minutes
+Kit
+75¥
+4
+Armorer
+>	
+Good God, they still make these?
+>	
+Bull
+>	
+As basic as basic gets, but there’s no wireless signal to 
+trace back to your location and ... well, that’s about it. Get 
+a smartlink. Hire a decker.
+>	
+Thorn
+ARMOR
+URBAN EXPLORER 
+DAEDALUS
+Already a favorite among traceurs, the Daeda-
+lus looks like the standard Urban Explorer Jump-
+suit, but it can deploy microfiber wings under each 
+arm and between the legs, creating an on-demand 
+wingsuit. Deploying the wings requires a Complex 
+Action. The Daedalus can hold up to 320 kilo-
+grams aloft. The user can cover three meters hor-
+izontally for every meter fallen and rolls Freefall + 
+Body to maneuver, with a threshold determined 
+by the gamemaster (p. 199, SR5). Like the Control 
+Vehicle action, this test must be performed once 
+per Combat Turn or the user loses control of her 
+descent. Losing control imposes –2 dice pool pen-
+alty to all rolls, including the next Freefall + Body 
+test. Failures on consecutive Combat Turns result 
+in a cumulative penalty. Successfully hitting the 
+threshold eliminates the penalty. The maximum 
+safe speed a user can reach is 2R (p. 124, Rigger 
+5). Although it is possible to make a hard bank to 
+come to a safe stop without assistance (threshold 
+4), the Daedalus comes equipped with a discreet-
+ly-packed BASE parachute for the safety-inclined 
+runner. This parachute is a one-use item.
+URBAN EXPLORER DAEDALUS (SPECIALITY ARMOR)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Top
+4
+10 
+minutes
+Kit
+75¥
+4
+Armorer
+Note: Parachutes for this item cost 750¥.
+>	
+The number of Daedalus fail MeFeeds out there is 
+staggering. Given some of the content, you’d think they’d 
+try to get them taken down, but I guess there really is no 
+such thing as bad publicity.
+>	
+Slamm-0!
+>	
+Just make sure you do your math beforehand. There’s 
+nothing quite as embarrassing as miscalculating and 
+coming in ten meters below target but still at a decent 
+altitude.
+>	
+Turbo Bunny
+>	
+With a little assistance from a drone, getting the altitude 
+you need for any standard building insertion isn’t hard. 
+Coming to a stop on a small rooftop is hard, but if your 
+mage knows the levitate spell, it’s much easier.
+>	
+Mika
+>	
+An alarming number of runners come up with plans that 
+revolve around these things and only realize post-jump 
+that they’ve never trained with them.
+>	
+Kat o’ Nine Tales
+>	
+Natural selection at work. Leave more jobs for the rest 
+of us.
+>	
+Clockwork
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    47
+
+
+===== PAGE 49 =====
+MELEE WEAPONS
+WEAPON
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Krime Bill
+5
+1/3*
+(STR+3)P
+–2
+12R
+1,500¥
+Krime Reaver Axe
+4
+1
+(STR+3)P
+–1
+—
+300¥
+Krime Reaver Pick
+4
+1
+(STR+1)P
+–4
+—
+—
+Krime Reaver Knob
+4
+1
+(STR+3)P
+—
+—
+—
+Krime Shiv
+5
+1
+(STR+2)P
+-2
+6R
+550¥
+Macuahuitl, traditional
+6
+1
+(STR+3)P
+–2
+7R
+3,000¥
+Macuahuitl, modern
+4
+1
+(STR+2)P
+–1
+5R
+200¥
+Nodachi
+5
+2
+(STR+5)P
+–5
+12R
+2,500¥
+Fluid-Motion Mace
+4
+1
+(STR+4)P
+—
+9
+1,500¥
+Gunstock War Club
+5
+1
+(STR+3)P
+–1
+10
+200¥
+Nunchaku
+5
+1
+(STR+2)P
+—
+6R
+75¥
+Tonfa
+4
+1
+(STR+3)P
+—
+4
+75¥
+Krime Gloves: Knucks
+Physical Limit
+—
+(STR)P
+—
+8R
+600¥
+Krime Gloves: Stun Pad
+Physical Limit
+—
+8S(e)
+–5
+—
+—
+Krime Stun Lance
+4
+2
+10S(e)
+–5
+9R
+900¥
+Krime Trollbow, blade
+3
+1
+(STR+1)P
+–1
+(Rating)R
+Rating X 150¥
+Krime Whammy, club
+4
+1
+(STR+2)P
+—
+—
+—
+PROJECTILE WEAPONS
+WEAPON
+ACC
+DAM
+AP
+AVAIL
+COST
+Krime Trollbow, bow
+4
+(Rating + 2)P
+–(Rating / 4)
+Rating(R)
+Rating X 150¥
+>> STREET LETHAL <<
+48    EXPANDED ARSENAL >>
+
+
+===== PAGE 131 =====
+>	
+The armor is definitely nice, but good luck trying to get 
+one. These are meant for Firewatch only, and Ares is very 
+strict when it comes to these units and will go after any 
+non-Firewatch personnel who obtain one. Although given 
+current events, who knows? 
+>	
+Red Anya
+ARES ARMS BUG STOMPER CUSTOM ARMOR
+RATING
+CAPACITY
+AVAIL
+COST
+20
+20
+30F
+35,000¥
+Features: Custom Fit, Holster (Pistol), Gear Access, Increase Social 
+Limit by 2 for Intimidation Checks. 
+Optional Features: Drone rack (micro or small, standard) or 
+gunfighter scabbard
+Special Rules: No other armor can be worn in combination with Bug 
+Stomper armor aside from a helmet.
+STONER-ARES M-22A1  
+VEHICLE MOUNTED  
+HEAVY MACHINE GUN
+Based on the Browning M-2 .50-cal heavy ma-
+chine gun, the M-22A1 is a modern upgrade of the 
+legendary weapon. In 2061, Ares bought out the 
+rights to the M-2 from Browning, who later sued, 
+claiming bad faith in the deal. But after a decade of 
+appeals, Ares through their partner Stoner Weap-
+ons began development of the new “Ma Duce.” 
+The result was a heavy machine gun that was so 
+big, so powerful, and had so much recoil, that the 
+only way it could be used effectively was mounted 
+to a vehicle or a heavy combat drone. Produced 
+in very limited numbers, the “Mad Mama,” as 
+it’s called, is used exclusively by Firewatch teams 
+when the heaviest firepower is needed. 
+STONER-ARES M-22A1 VEHICLE MOUNTED HEAVY MACHINE GUN
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+4
+18P
+–6
+FA
++6
+200 
+(belt)
+24F
+29,000¥
+Standard Equipment: Smartgun Targeting System
+AZTECHNOLOGY BLOOD 
+DRINKER COMBAT AXE 
+Rumored to have been used by Aztlan and Az-
+technology Special Forces as far back as 2061, 
+the Blood Drinker was only recently revealed to 
+the public following the Az-Am War. Slightly larg-
+er than a standard tomahawk, the Blood Drinker 
+looks like a cross between a hand axe and an an-
+cient macauitl. While the style and shape of the 
+blade varies by owner, each blade head is made 
+from molecularly hardened and sharpened obsid-
+ian with a titanium-tungsten shaft. These blades 
+can be simple or ornately crafted, depending on 
+the owner’s preferences. But no matter the look, 
+Blood Drinkers are meant for combat and are a 
+status symbol among the Aztlan/Aztechnology 
+security and soldiery.  
+>	
+These are also quite popular with blood mages, who like 
+to turn them into weapon foci. 
+>	
+Marcos
+AZTECHNOLOGY BLOOD DRINKER COMBAT AXE
+ACC
+DV
+AP
+AVAIL
+COST
+Physical
+(STR+3)P
+–3
+12F
+500¥
+EVO/YAMATETSU NAVAL 
+TECHNOLOGIES RAMPART 
+PORTABLE BALLISTIC 
+EMPLACEMENT
+In the chaos of a firefight, sometimes it’s hard to 
+find decent cover, let alone protect civilians. In 
+an effort to provide their security with a means 
+to protect both themselves and innocent civil-
+ians, Evo (through their subsidiary Yamatetsu) 
+developed a portable ballistic emplacement 
+that allowed responders to bring their cover 
+with them. Made of a Kevlar weave with ballis-
+tic-deflecting ceramic micro-plates on a titani-
+um frame, the Rampart is the size and weight 
+of a standard ballistic shield. But when activated 
+either manually or through a DNI, the Rampart 
+can horizontally expand up to four meters wide. 
+Extremely popular with Evo corporate security 
+responders, Yamatetsu currently has no plans 
+to sell the Rampart on the open market, instead 
+preferring to offer it to favored customers. 
+>	
+In a firefight, anything is better than nothing, I guess. 
+And while I can see how this would have its uses, I’ve 
+also seen hackers easily take these things over. The look 
+on the sec-guards face when their cover suddenly folded 
+up was priceless. 
+>	
+DangerSensei
+YAMATETSU NAVAL TECHNOLOGIES RAMPART  
+PORTABLE BALLISTIC EMPLACEMENT
+RATING
+AVAIL
+COST
++10 (hardened)
+12F
+3,000¥
+Special Rules: Takes Simple Action to deploy through DNI, Complex 
+Action manually. Hardened armor applies to all configurations.
+>> STREET LETHAL <<
+130    Opposition Report: CorpSec >>
+
+
+===== PAGE 132 =====
+HORIZON-FLYNN DEFENSE-COM 
+COMMLINK WEAPONS
+Sometimes the best weapon one has is the one no 
+one knows they have. Once again partnering with 
+renowned bladesmith Dante Flynn, Horizon has 
+recently released their Defense-Com brand of con-
+cealed weapons. Designed to look like standard 
+(but non-functional) commlinks, Defense-Com 
+weapons come in three varieties: the Def-Com 
+hold-out pistol, taser, and defensive knife. Each 
+one is perfect for the person who requires protec-
+tion but doesn’t want to draw attention. 
+>	
+These things can be handy. Undercover Horizon Protectors 
+are fond of these. Because of the low damage profile, 
+they usually load the pistol with capsule rounds filled 
+with appropriate night-night juice. The taser is decent, but 
+the knife is solid. I carry one. However, I suggest getting 
+to know them before you use them. Nothing worse than 
+grabbing the wrong ’link.
+>	
+Mika
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: HOLD OUT PISTOL
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+5
+5P
+—
+SS
+2(b)
+10
+400
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: TASER
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+5
+6S(e)
+–4
+SS
+4(b)
+10
+300¥
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: KNIFE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+4
+–
+(STR)P
+–2
+10
+250¥
+LONE STAR’S  
+REMINGTON 995 “BUZZSAW”
+A variant of their classic 990 shotgun, the 995 
+“Buzzsaw” has gained a reputation as being a 
+simple yet reliable and rugged entry gun. Cur-
+rently a favorite among Lone Star’s Shadow-
+riders, the 995 has a pistol grip in place of the 
+standard stock. But what makes the 995 an 
+effective door breacher is the barrel-mounted 
+titanium “teeth” that are jammed into a lock or 
+door hinge that prevent the weapon from skip-
+ping off when fired. It also features a grip han-
+dle that attaches to the pump-action but goes 
+over the weapon, allowing for rapid chamber-
+ing and maneuvering in close quarters. Both 
+these features allow for quick seating and em-
+ployment of the weapon. 
+>	
+Those teeth also hurt when you jam them into someone’s 
+hand, neck, or whatever. 
+>	
+Kane
+REMINGTON 995 “BUZZSAW” SHOTGUN
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+4
+11P
+–1
+SA
+—
+8(c)
+6R
+1,000¥
+Standard Upgrades: Breaching teeth, foregrip, modified pump 
+handle, side mount (top and bottom).
+Special Rules: Breaching teeth provide +2 to accuracy when 
+weapon barrel is seated against a target.
+LONE STAR’S BATES-BROWN 
+TACTICAL COMBAT BOOTS
+Also known as “drek-kicker” boots, these specially 
+designed combat boots not only protect one’s feet 
+and look stylish with tactical gear, but with their 
+reinforced soles and metal toes they also act as 
+knucks for kicking. That’s right, with these boots, 
+kick attacks are more damaging than ever. Perfect 
+for kicking in doors or a perp’s guts!
+>	
+One of the most cringe-worthy things I’ve seen is a Star 
+adept cop spin-kick a troll suspect in his … well you get 
+the idea. Frag, that looked like it hurt! 
+>	
+Bull
+BATES-BROWN TACTICAL COMBAT BOOTS
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+4
+—
+(STR+2)P
+–4
+10
+250¥
+Special Rules: +5 armor against attacks to the feet
+MAERSK SHIPYARDS 
+WAVECUTTER MPAC
+The Wavecutter MPAC, or Maritime Patrol and 
+Assault Craft, is loosely based on the PT-style 
+watercraft. But other than a few design features, 
+the Wavecutter and PTs have little in common. 
+Designed to fulfill a wide variety of maritime 
+warfare and security roles, the twenty-eight-me-
+ter-long Wavecutter weighs only approximately 
+twenty-five tons despite its heavily armored hull. 
+The Wavecutter also features a powerful Pack-
+ard-Voss V-31 Maritime engine that allows for an 
+impressive surface speed and maneuverability 
+profile. While the base model comes with several 
+features such as a small landing ramp that opens 
+>>	
+STREET LETHAL <<
+<< Opposition Report: CorpSec    131
+
+
+===== PAGE 133 =====
+to store a semi-rigid inflatable vehicle or other 
+small watercraft (up to two small craft, takes one 
+Complex Action to deploy). The Wavecutter also 
+has several other features that allow for extended 
+operations and is a favorite of Maresk’s Marines, 
+who use it extensively. 
+>	
+What you have here is a t-bird on water. Depending on the 
+modifications, this thing can be a floating gunship, drone 
+carrier, or a special-ops taxi. And Maersk uses them for all 
+of the above. It’s one of the few times I find myself envious 
+of a corp, because they’re hard, but not impossible, to get 
+if you’re not cozy with Maersk. 
+>	
+Kane
+MAERSK SHIPYARDS WAVECUTTER MPAC
+HAND
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+5
+5
+3
+25
+25
+4
+5
+12
+22F
+360,000¥
+Standard Equipment: Amenities (low), commlink (DR 7), ECM 4, four 
+additional body modification slots, four additional weapon mount 
+slots, manual control override, rigger cocoon, rigger interface, 
+satellite link, sun cell, signature masking 4
+Special Equipment: Small craft bay (rear).
+ 
+MCT/WINCHESTER-HOWE 
+HORNET DIRECT-FIRE  
+MINI-GRENADE
+For a corporation that’s famous for its Zero-Zone 
+security, most weren’t surprised when MCT 
+subcontracted munitions manufacturer Win-
+chester-Howe to develop the Hornet mini-gre-
+nade. A cross between a grenade and a rocket, 
+the Hornet is launched from a grenade launcher, 
+but instead of arching, it is a direct-fire, single-tar-
+get weapon. Like a grenade, the Hornet can be 
+programmed to detonate based on a timer or 
+proximity to a target. Before impact, the Hornet 
+splits into six different projectiles, which gives it 
+a burst-fire-like effect. While the Hornet can be 
+used in any standard grenade launcher, the tar-
+geting sensors in the grenade’s head tend to mal-
+function, which often prevents projectile separa-
+tion and cancels the burst effect. 
+WINCHESTER-HOWE HORNET DIRECT-FIRE MINI-GRENADE
+DV
+AP
+BLAST
+AVAIL
+COST
+12P
+–2
+Special
+16F
+400¥
+Special Rules: During normal operations, the Hornet is considered 
+to be a six-round burst fire weapon; normal rules apply. On a glitch 
+when firing, the Hornet does not separate. It will still do base DV –2, 
+but will lose its AP. 
+RENRAKU RED  
+SAMURAI KATANA
+The ultimate badge of honor and service among 
+Renraku’s Elite Red Samurai, these blades works 
+of art as much as functional weapons, forged with 
+a blend of modern and ancient techniques. Leg-
+end says that if a Red Samurai draws their blade, 
+it must taste blood or it will turn on its owner. 
+Whether this is true or not remains to be seen, but 
+when a Red Samurai draws their blade, someone 
+usually dies. A Red Samurai would rather die than 
+give up their blade willingly. Blades of honorably 
+fallen or passed Samurai are considered sacred 
+items. 
+>	
+And the Reds take this very seriously. Don’t get any 
+ideas about stealing one, unless you want the entire Red 
+Samurai corps after you. I’m not kidding. 
+>	
+Thorn
+RENRAKU RED SAMURAI KATANA
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+1
+(STR+3)P
+–4
+NA
+NA
+RENRAKU/INGRAM  
+SUPERMACH 200
+A weapon design subcontracted through the In-
+gram weapons corporation, the Supermach 200 is 
+a favorite among Najima (Renraku’s security sub-
+sidiary) and the Blue Samurai. An update of the 
+popular Supermach 100, the 200 is designed to 
+be light, compact, and hold a substantial ammo 
+capacity. But in order to accomplish all this, In-
+gram was forced to create a special proprietary 
+ammo type that can only be used in this weapon. 
+The result was a round that lacked the raw damage 
+profile of most weapons of similar caliber, but to 
+compensate it had one of the best armor-penetra-
+tion profiles without having to use APDS ammo. 
+Despite the 200’s supposed flaws, Renraku is 
+more than satisfied with the weapon, siting the 
+low potential for blow-through, and has contract-
+ed for several thousand over the next few years. 
+INGRAM SUPERMACH 2000 SMG
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+6
+5P
+–6
+BF/FA
+–2
+40(c)
+18F
+5,000¥
+Standard Upgrades: Internal smartgun system, shock pad
+Special Rules: Because of its specialized design, this weapon can 
+only take custom ammo. For gameplay, treat price as standard ammo 
+but with Availability of 16F.
+>> STREET LETHAL <<
+132    Opposition Report: CorpSec >>

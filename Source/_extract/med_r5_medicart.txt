@@ -1,0 +1,506 @@
+
+
+===== PDF page 142 =====
+motorized chair with wheels that can be controlled by 
+a simple trode-based DNI. Street-legal in the city, it can 
+also move around inside a building with ease.  
+Similar Models: Evo Freedom, DocWagon Chariot
+TRANSYS STEED (MEDIUM DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4/2
+1G
+1
+3(1)
+0
+2
+2
+2
+4,000¥
+LARGE DRONES
+AEROQUIP DUSTOFF
+The full details on this one are in Bullets and Bandages, 
+but I should point out that a few enterprising runners 
+had started modifying these things as personal trans-
+ports. For the cost of a motorcycle, you got an admit-
+tedly cramped personal helicopter. Prices shot up once 
+the hack got popularized online. Fraggin’ Invisible Hand!
+ARES MATILDA 
+(PILOT GROUND CRAFT)
+If you pushed over a refrigerator and gave it tank treads, 
+you’d have a Matilda. Blocky design, clumsy, and slow, the 
+Matilda’s main claims to fame are the two blast doors—es-
+sentially riot shields—that fold out from its side, allowing 
+officers to use it as mobile cover while advancing on rein-
+forced positions. The Matilda comes standard with a small 
+minigrenade launcher that can lob gas grenades ahead 
+for disruption, leaving the officers protected. Knight Errant 
+credits the Matilda with saving the lives of over two dozen 
+officers this past year, absorbing fire so that they don’t have 
+to. She ain’t pretty, but she works.
+Standard Upgrades: Two riot shields, standard 
+weapon mount, underbarrel grenade launcher, Target-
+ing (3) autosoft
+(if a shot hits the Matilda from a rear flank while the 
+shields are deployed, armor is halved.)
+ARES MATILDA (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+1
+2G
+1
+8
+8
+2
+1
+12R
+18,000¥
+ARES MULE 
+(PILOT WALKER)
+Another ancient design that dates back to DARPA re-
+search in the old United States, the Mule is a simple 
+>> RIGGER 5.0 <<
+ARES MULE
+>> THE AUTOMATED ARMY <<    141
+
+
+===== PDF page 143 =====
+four-legged drone designed to haul cargo around for 
+soldiers in the field, leaving them well-supplied but 
+lightly equipped enough to hustle when shit goes 
+down. With four legs and an excellent sense of bal-
+ance, the Mule can go anywhere a soldier can, but it 
+can carry an entire squad’s worth of supplies without 
+slowing down—a good thing, considering it’s as slow 
+as a marching soldier. Nearing fifty years old, the Mule 
+predates the idea of arming a drone, but the head can 
+issue a surprisingly strong grip when called on.
+Standard Upgrades: Drone arm (Strength 6, Agility 2)
+>	
+It doesn’t come with guns, but you can damn sure strap 
+‘em on these days.
+>	
+Stone
+>	
+The head and neck are as flexible and functional as a 
+primitive cyberarm. You’d be surprised at how often this 
+is overlooked.
+>	
+Kia
+ARES MULE (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+4
+1G
+1
+4(3)
+6
+2
+2
+4
+8,000¥
+ARES PALADIN
+(PILOT GROUND CRAFT)
+After the debacle that was the Excalibur project, Ares 
+has been working hard to re-establish the trust they 
+lost among their most important customers: militaries 
+and law enforcement. In order to help rebuild that trust, 
+Ares decided to take a chip shot and release a simple, 
+effective, and affordable drone that could not possibly 
+go wrong. They call it the Paladin.
+The design of the Paladin is as straightforward and utili-
+tarian as they come. A simple tracked platform houses the 
+primary components of the drone, which is outfitted with 
+a pair of hydraulic arms that lift a sheet of plasteel and Kev-
+lar on command. The drone is designed to be integrated 
+with a sensor network to allow it access to cameras, mi-
+crophones, and other devices. A simple version of the old 
+Ares TacNet software is used to analyze data from these 
+various sources and determine if a shot has been fired. If 
+a shot has been fired, the arms swing up very quickly and 
+attempt to intercept the round in mid-flight.
+Once the plate is engaged, the drone’s dog brain 
+transitions to an escape plan. These plans can be 
+pre-loaded, or the pilot can be relied upon to utilize the 
+network’s data to create an escape route on the fly. The 
+Paladin has already seen several successes, most nota-
+bly in foiling a recent assassination attempt upon the 
+president of Kenya in Nairobi.
+>	
+Knight Errant is supposed to be working on using the 
+Paladin to protect their HTR units during breaches. 
+Instead of having a metahuman holding a riot shield, 
+they’re going to use the drone. The biggest problem 
+they’ve been running into is getting the drone to run 
+toward the gunfire.
+>	
+Turbo Bunny
+>	
+That’s not the only obstacle they’re facing. The drone isn’t 
+exactly quick. HTR teams often have to operate at least as 
+fast as a street samurai, so they’re jacked up on all sorts 
+of combat drugs. The drone just can’t keep up with that 
+level of reaction. Ares is a long way from phasing out 
+metahuman bodyguards.
+>	
+Mihoshi Oni
+Standard Upgrades: Tracked platform
+Game Information: The Paladin has limited func-
+tionality without a network. When operating in a net-
+work, the drone makes a Perception test as soon as a 
+shot is fired anywhere within detection range of any 
+device on the network. The number of hits that are 
+achieved on the test are treated as extra armor for the 
+protected VIP for that Initiative Pass. Afterward, the 
+plate acts as Good Cover for the VIP ( p. 190, SR5) as 
+long as the VIP is using the Take Cover action. If the Pal-
+adin is operating by itself, it cannot provide the Armor 
+bonus when a shot is fired. Instead, it can only be used 
+as Good Cover for the VIP.
+ARES PALADIN (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+5
+4G
+1
+5(0)
+18
+3
+2
+8R
+5,000¥
+CRASHCART “MEDICART”
+(PILOT GROUND CRAFT)
+Long seen as the little brother of DocWagon, Crash-
+Cart has recently gained a step on their competition. 
+The MediCart was unveiled at DroneCon at the end of 
+last year, and it has quickly gained a coveted position 
+in almost all disaster-recovery units around the world. 
+The tracked platform allows the MediCart to haul tre-
+mendous amounts of weight, and traverse almost any 
+terrain conditions that might be in the way of its desti-
+nation. Within the large frame resides a set of hydrau-
+lic rescue tools (commonly referred to as the “Jaws of 
+Life”), a pair of extendable arms that can lift up to 200 
+kilograms, and medical tools.
+The drone’s dog brain prioritizes targets that it can 
+detect first and attempts to get to those people who are 
+nearest to its location. During the Boston Lockdown, a 
+number of MediCarts were deployed to areas that had 
+seen the worst rioting. The rescue tools can cut through 
+most materials, and the arms can be used to lift debris 
+or patients. The medical tools are often deployed and 
+operated remotely, but the built-in software allows the 
+drone to perform basic life-support functions.
+>> RIGGER 5.0 <<
+142    >> THE AUTOMATED ARMY <<
+
+
+===== PDF page 144 =====
+Since its release, the MediCart has been credited 
+with saving over a dozen corporate lives, and sales have 
+been through the roof. Not to be outdone, DocWagon 
+has recently announced plans for a drone similar to the 
+MediCart, but with a built-in Valkyrie module and the 
+ability to lift up to 300 kilograms.
+Standard Upgrades: Tracked, specialized tools (hy-
+draulic rescue tools, medkit)
+Game Information: The hydraulic rescue tools on 
+the MediCart are capable of tearing through metal that 
+has been seared together, and it comes with the nec-
+essary appendages to puncture even plascrete. When 
+attempting to perform an act that would normally re-
+quire Strength + Body (such as lifting, forcing some-
+thing open, or tearing), use triple the MediCart’s Body 
+Rating for all tests. This means that the MediCart can 
+easily carry 270 kilograms without requiring a test. 
+The MediCart is capable of deploying a medkit to anyone 
+within two meters of the drone. The drone’s Pilot rating re-
+places the medkit’s rating for tests. The medkit comes with 
+twenty uses but cannot be used without the drone. Normal 
+replacement components are sufficient to refill the medkit.
+CC ‘MEDICART’ (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+5
+5G
+1
+6(2)
+5
+4
+4
+6
+10,000¥
+GTS TOWER
+(PILOT AIRCRAFT)
+A fairly standard lighter-than-air drone, slow, unar-
+mored, and unarmed, the Tower pulls double-duty as 
+a retransmission drone, extending a rigger’s own wire-
+less signal, as well as serving as an “airbase” for up to 
+four minidrones or eight microdrones. These passen-
+gers can be used for protection, but mostly are used to 
+scatter and scan a large area swiftly. Several police cor-
+porations park Towers over events with large crowds in 
+order to keep a wide-eye on the surroundings. 
+Standard Upgrades: Drone rack (4)
+Similar 
+Models: 
+Cyberspace 
+Designs 
+Nexus, 
+GN-Nissan Beehive
+GTS TOWER (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+1P
+1
+4(0)
+6
+2
+2
+8
+10,000¥
+SAEDER-KRUPP  
+MK-17D NEPTUNE
+(PILOT WATERCRAFT)
+Designed to fit into a standard torpedo tube, the Nep-
+tune can either be launched from a submarine as origi-
+nally designed or, far more common these days, be de-
+ployed in a more traditional manner. Fully submersible 
+to depths of a kilometer, the Neptune has become the 
+industry-standard exploration and underwater survey 
+drone. The Neptune has a more-advanced Pilot than 
+most drones due to the difficulty, if not impossibility, of 
+radio communication once it dives, leaving it to oper-
+ate in a fully autonomous state, surfacing in designated 
+locations at designated times, allowing it to be gath-
+ered up and data transferred.
+Standard Upgrades: Submersible, Searchlight
+Similar Models: Proteus Tiefaucher, Shiawase Suredo
+>	
+Too expensive for most runners, priceless to coastal 
+smugglers.
+>	
+2XL
+>	
+Needs more boom.
+>	
+Kane
+>	
+You can tether a drone via cable to get around the 
+wireless transmission issues faced by water, but your dive 
+is limited by the length of the cord. Cut the cord and the 
+drone’s pilot has to take over as best it can.
+>	
+Sounder
+S-K NEPTUNE (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+3W
+1
+5(0)
+3
+4
+3
+10R
+17,500¥
+MITSUHAMA MALAKIM
+(PILOT AIRCRAFT)
+The standard response drones for GOD, the Malakim 
+are quad-copter drones that pack non-lethal weaponry 
+and high-level jammers, released in support of agents 
+on foot. The Malakim’s job is to block off communi-
+cation, keep updated via reports from Doves that are 
+scattered around watching potential escape routes, 
+and serve as a last line of offense should a takedown be 
+needed. While well-armed and armored, the Malakim’s 
+larger size prevents it from entering some areas, so if 
+you’re being pursued, move from building to building 
+and never get caught out in the open; if you do, it’ll 
+drop you.
+Standard Upgrades: Standard weapon mount, area 
+jammer (6), directional jammer (6), Targeting autosoft (4)
+MITSUHAMA MALAKIM (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+6P
+2
+4(0)
+9
+4
+4
+20F
+40,000¥
+HUGE DRONES
+ARES KN-Y0
+(PILOT GROUND CRAFT)
+Designated as an unmanned micro-tank, the KN-Y0 se-
+ries of combat drones shows that Ares isn’t sitting idle 
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    143
+
+
+===== PDF page 167 =====
+that a rigger may want installed on their vehicle. This 
+could include such things as a dozer blade, snoware-
+moval device, asphalt dispenser, road-paint applicator, 
+or temperature controlled storage. No fixed costs are 
+provided, as the gamemaster has final say on what can 
+be installed on the vehicle and what effect it may have.
+VALKYRIE MODULE
+If you have teammates that just can’t seem to stop from 
+getting themselves critically injured, then they are going 
+to thank you for installing a Valkyrie module. Named af-
+ter the mythical maidens that carry a Viking warrior to 
+the afterlife, the Valkyrie module is a small-scale, porta-
+ble, automated emergency room. The module includes 
+a bed with a transparent, enclosed lid and a host of so-
+phisticated medical equipment with built-in software 
+that can quickly analyze and treat almost any injury. 
+Any person placed in the Valkyrie module is auto-
+matically stabilized (p. 209, SR5). The systems on the 
+Valkyrie module are equivalent to a Rating 6 Medkit (p. 
+450, SR5), with all of the same functionality. Additional-
+ly, the Valkyrie module operates as an autodoc, and so 
+can be operated remotely (p. 208, SR5).
+WINCH
+For those times when a runner needs to pull or tow 
+something and they don’t want to call an underpaid 
+and overweight member of the auto club, there is the 
+winch modification. The basic winch hasn’t changed its 
+design much in about a hundred years. It has a heavy 
+gauge steel cable ending with a hook or latch and wraps 
+around a powered drum. A winch can be mounted on 
+the front or rear of the vehicle, and comes with about 
+one hundred meters of cable and can support a load 
+of up to ten tons, provided the vehicle itself is heavy 
+enough to support this. If wireless enabled, the winch 
+hook can be released remotely with a Free Action. An 
+enhanced winch is generally found in heavy industrial or 
+rescue vehicles but can be useful to a runner. Its winch 
+replaces the hook with an advanced system using a 
+combination of gecko-grip technology and magnetism 
+that can attach to any surface on its target without the 
+need to manually place a hook on an appropriate part. 
+The system can be activated or deactivated remotely 
+with a wireless command (if enabled). The enhanced 
+system can support a load of up to one hundred tons 
+and includes additional stabilizers deployed from the 
+vehicle and onto/into the ground to double the towing 
+vehicle’s weight for lifting purposes.
+WORKSHOP
+For the true tinkerers who can never be apart from their 
+tools, a vehicle with ample enough space can be made 
+into a mobile workshop. Niceties and comfort items are 
+removed to make room for shelving, work spaces, and 
+equipment. A vehicle modified in this way counts as 
+being a Shop for the purposes of tool availability (p. 
+443, SR5). The type of shop (Automotive Mechanic, 
+Armorer) must be chosen at the time of the modifica-
+tion and cannot be changed.
+ELECTROMAGNETIC
+Electromagnetic modifications are connected to or 
+modify a vehicle’s electronic systems.
+ELECTROMAGNETIC SHIELDING
+When a rigger wants absolute control over the signals 
+that come in and out of their vehicle, there isn’t a better 
+option than the electromagnetic shielding modifica-
+tion. This system builds a system of conductive metal 
+bands into the exterior body of the vehicle, designed 
+to conduct away and dissipate all wireless signals that 
+attempt to penetrate the body of the vehicle, going in 
+or out. This modification only works on vehicles that 
+create an enclosed space—it is useless for vehicles that 
+are open, such as a motorcycle. In game terms, the 
+body of the vehicle acts as a Faraday cage for Noise 
+purposes (p. 231, SR5) meaning that no communica-
+tion is possible through the barrier. When the system 
+is installed, the owner can choose to have certain sys-
+tems or features be able to move through the barrier by 
+running a physical wire through the cage. Any device 
+that can connect to the body of the vehicle with a wired 
+connection can bypass the Faraday cage.
+ELECTRONIC 
+COUNTERMEASURES (ECM)
+Savvy riggers and deckers know that it is often easier 
+to attack the signals controlling a device than to attack 
+the device itself. To that end, a vehicle can be equipped 
+with an electronic countermeasures (ECM) suite. This 
+modification allows the vehicle to function exactly like 
+an area jammer (p. 441, SR5), with all of the same rules. 
+Just like a jammer, the modification comes with a Rat-
+ing of 1 to 6.
+GRIDLINK
+Gridlink is a fairly ubiquitous feature for modern ve-
+hicles in the Sixth World, at least in the areas where 
+the sun of corporate control continually shines. Using 
+a system of embedded power lines in the road system, 
+any vehicle equipped with gridlink can use these lines 
+to draw operational power and thus have an unlimit-
+ed running time as long as it is connected. As with ev-
+erything in the Sixth World, there’s a downside. In ex-
+change for the free power, vehicles running on gridlink 
+essentially give up control to the owner of the local 
+GridGuidesystem. A vehicle is identified and tracked 
+every second it is attached to the system, is limited to 
+>> RIGGER 5.0 <<
+166    >> BUILDING THE PERFECT BEAST <<

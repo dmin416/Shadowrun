@@ -1,0 +1,816 @@
+
+===== SS PDF 188 =====
+>> STOLEN SOULS <<
+DISGUISES
+DISGUISE
+AVAILABILITY
+COST
+Uniforms
+16F
+2,000-15,000¥
+Fixer services
+—
+250¥ per hour
+Forger services
+—
+500¥+
+FACTORY VEHICLES AND THEIR SPECIALIZED USES
+VEHICLE
+SPECIALIZED USE
+Ares Roadmaster (transport)
+Counterfeit SWAT vehicle/Urban Command Center
+Chrysler-Nissan Journey (car)
+Counterfeit Lone Star patrol cruiser
+Conestoga Trailblazer
+Counterfeit moving truck
+Dodge Ram Industrial
+Garbage truck
+Esprit Industries Watcher (SUV)
+Counterfeit CAS government vehicle
+GMC Endurance (van)
+Counterfeit DocWagon ambulance
+GMC Sidewinder (SUV)
+Counterfeit UCAS government vehicle
+Honda Artemis (car)
+Counterfeit Knight Errant patrol cruiser
+S-K LT-21 (delivery van)
+Counterfeit CrashCart ambulance
+VEHICLE MODIFICATIONS
+MODIFICATION
+AVAILABILITY
+COST
+Chameleon coating
+12R
+Body x 2,000¥
+Dash light bar
+15F
+3,500¥
+Emergency light bar
+15F
+5,000¥
+Morphing license plate
+8F
+1,000¥
+Siren
+15F
+1,400¥
+Smuggling compartment (dwarf, human, elf, or ork)
+12F
+3,500¥
+Smuggling compartment (troll)
+12F
+7,000¥
+Spoof chips
+8F
+500¥
+Rigger services
+—
+500¥ per hour
+186    EXTRACTOR’S TOOLKIT >>
+DRUGS (PER DOSE)
+DRUG
+AVAILABILITY
+COST
+Caldwell lily extract
+10R
+600¥
+Caldwell lily extract, concentrated
+12R
+1,000¥
+Chloral hydrate
+6R
+50¥
+Chloroform
+4R
+75¥
+DMSO
+5R
+50¥
+Gamma-scopolamine
+14F
+200¥
+Läel
+10F
+400¥
+Laés
+12F
+750¥
+Liquid nutrients
+4R
+75¥
+Narcoject
+8R
+50¥
+Normal saline
+—
+30¥
+Slab
+8R
+250¥
+
+===== SS PDF 189 =====
+>> STOLEN SOULS <<
+GAME INFO: MISC. ITEMS
+ITEM
+DAM
+AP
+REACH
+MODE
+AVAIL
+COST
+Stimtouch Hosiery
+8S(e)
+–5
+0
+—
+6R
+250¥
+Laced lipstick
+(as drug)
+—
+—
+—
+10F
+(Drug+DMSO 
+cost) + 50¥
+GAME INFO: VEHICLES*
+VEHICLE
+HAND
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+Ares Roadmaster
+3/3
+3
+1
+18
+18
+3
+3
+8
+8
+52,000¥
+Chrysler-Nissan Journey
+4/3
+3
+3
+9
+5
+1
+1
+4
+—
+17,000¥
+Conestoga Trailblazer
+2/1
+2
+1
+14
+6
+2
+1
+2
+4
+75,000¥
+w/ trailer
+1/1
+1
+1
+20
+6
+2
+1
+N/A
+N/A
++20,000¥
+Dodge Ram Industrial (large)
+2/1
+1
+1
+16
+8
+2
+4
+2
+4
+51,000¥
+Dodge Ram Indust. (narrow)
+3/1
+1
+1
+16
+8
+2
+4
+2
+4
+49,000¥
+Esprit Ind. Watcher (SUV)
+3/3
+3
+3
+9
+8
+1
+3
+5
+4
+40,000¥
+GMC Endurance (van)
+3/3
+4
+3
+14
+6
+1
+2
+8
+—
+35,000¥
+GMC Sidewinder (SUV)
+4/3
+3
+2
+10
+6
+2
+2
+6
+4
+33,000¥
+Honda Artemis (car)
+4/2
+3
+3
+9
+6
+1
+1
+4
+—
+17,000¥
+S-K LT-21 (delivery van)
+2/1
+2
+1
+15
+7
+2
+2
+2
+—
+31,000¥
+*For official emergency vehicles that have better performance, multiply these vehicle attributes by 1.5 (round up).
+GAME INFO: DRONES
+DRONE
+HAND
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+Bust-A-Move (second 
+generation) (medium)
+4
+3
+1
+2
+1
+2
+2
+—
+700-1,500¥
+Cyberspace Designs 
+Dragonfly (small)
+4
+3
+2
+1
+1
+3
+2
+12R
+2,500¥*
+GMC Snatch’n’Grab (large)
+3
+4
+2
+2
+4
+3
+3
+12F
+8,000¥
+Modified Dassault  
+Janitorial Drone (large)
+2
+2
+2
+10
+2
+2
+2
+8
+10,000¥
+Transys Office Maid (medium)
+3
+2
+2
+3
+0
+4
+3
+4
+8,000¥
+Modified Renraku 
+Manservant-3 (large)
+2
+2
+2
+3
+5
+3
+3
+14F
+9,000¥
+*Cost of drugs not included
+<< EXTRACTOR’S TOOLKIT    187
+
+===== SS PDF 192 =====
+HIBERNATE 
+(MANIPULATION)
+Type: M • Range: T • Duration: P • DV: F – 2
+The caster must touch a voluntary or unconscious 
+subject. The spell puts the subject in a form of suspend-
+ed animation. The subject’s bodily processes are slowed 
+significantly, allowing for the subject to survive perfectly 
+in hibernation without nourishment for long periods of 
+time. In addition, the individual’s respiration also de-
+creases, allowing the character to survive on very lim-
+ited amounts of oxygen for longer periods of time. For 
+every hit on the Spellcasting Test, a character may be 
+placed in this state of hibernation for up to four hours. 
+So if a caster scores three hits on the Spellcasting Test, 
+the target may be placed in suspended animation for up 
+to twelve hours. Once this period of time ends, the tar-
+get’s metabolic processes return to normal. If the caster 
+wishes to keep the individual in this hibernation for lon-
+ger, the character will need to recast this spell. This spell 
+does not keep a subject unconscious, and if the charac-
+ter wakes up and resists against the effects of the spell, 
+their metabolism returns to normal and the spell breaks. 
+This is why a caster normally uses this spell in conjunc-
+tion with another spell, or uses a drug to keep the target 
+unconscious. The number of hits also determines the 
+factor by which a character can survive without nourish-
+ment or in an environment with limited amounts of ox-
+ygen. For example, with 3 hits, a character whose body 
+is being influenced by the Hibernate spell can survive 
+three times as long without food or water, and can sur-
+vive three times as long in a situation where oxygen is 
+limited. Six or more successes are required to be able to 
+fool medkit computers and biomonitors and to convince 
+them that the subject is deceased.
+INTERFERENCE 
+(ENVIRONMENTAL, AREA) 
+(MANIPULATION)
+Type: P • Range: LOS (A) • Duration: S • DV: F – 2
+Interference creates a barrage of static in the electro-
+magnetic spectrum, jamming radio and wireless signals. 
+This spell jams all signals in the area of effect with a Sig-
+nal rating less than the hits scored by the spellcaster, just 
+like a jammer (p. 441, SR5).
+INTOXICATION 
+(MANIPULATION)
+Type: M • Range: T • Duration: P • DV: F – 3
+This spell causes inebriation. The target resists with 
+Counterspelling + Body; any protection the target has 
+against ingestion vector toxins also applies. Each net hit 
+inflicts 1 box of Fatigue damage (p. 172, SR5), which rep-
+resents the target’s drunken state. Antidote and Detox 
+can negate the effects of this spell.
+NUTRITION 
+(MANIPULATION)
+Type: P • Range: T • Duration: P • DV: F – 3 (volun-
+tary)/F (unconscious and unwilling targets)
+The Nutrition spell provides a target with nourish-
+ment, allowing them to live off pure mana. One hit is 
+enough to satisfy the target for a few hours, with extra 
+hits increasing the quality of the delivered nutrients. 
+This spell prevents starvation and dehydration, but it 
+has a downside. Those who abuse this spell for long 
+periods of time risk becoming addicted to magical 
+nourishment (treat the nutrients as having Addiction 
+Rating 2, Addiction Threshold 1;see Substance Abuse 
+and Addiction, p. 413, SR5). Nutrition works best on 
+voluntary targets, but can be used on unconscious and 
+unwilling targets. When used on unwilling or uncon-
+scious targets, the Drain value for the magician increas-
+es by 3.
+SOUND BARRIER
+(REALISTIC, SINGLE-SENSE, AREA) 
+(MANIPULATION)
+Type: P • Range: LOS (A) • Duration: S • DV: F – 2
+A variant of the Silence spell (p. 291, SR5), Sound 
+Barrier creates a perimeter of silence around the area 
+of effect (rather than creating a mass area of silence). 
+Those inside cannot hear outside noises but can hear 
+sounds within the globe and vice versa. Only sounds 
+crossing the border are affected; those are affected in 
+the same manners as the Silence spell. This spell also af-
+fects technological devices, infrasound, and ultrasound.
+VEHICLE MASK 
+(REALISTIC, MULTI-SENSE) (ILLUSION)
+Type: P • Range: T • Duration: S • DV: F – 2
+This version of the Physical Mask spell (p. 291, SR5) 
+is specifically used to mask vehicles and drones. The 
+vehicle must be masked to look like another vehicle of 
+roughly the same size. Each point of Force of the spell 
+successfully masks 2 points of Body for the vehicle or 
+drone (round up). The higher body the vehicle has, the 
+higher Force needed to completely mask the vehicle. 
+So if the caster desires to cast Vehicle Mask on an Ares 
+Roadmaster, which has a body of 18, the caster will need 
+to cast the spell at force 9. This spell can also affect the 
+vehicle’s sound, smell, and other characteristics. The 
+caster must touch the vehicle being masked.
+>> STOLEN SOULS <<
+190    EXTRACTOR’S TOOLKIT >>
+
+===== SS PDF 198 =====
+196    STOLEN SOULS TABLES >>
+STOLEN SOULS STATS
+EXTRACTION DEVICES
+AVAILABILITY
+COST
+Houdini Machine I (commlink and biomonitor)
+12F
+8,500¥
+(does not include cost of drugs)
+Houdini Machine II (medkit computer)
+12F
+12,000¥
+(does not include cost of drugs)
+Ambulance gurney
+8
+2,000¥
+Body bag
+6
+50¥
+Fake DocWagon wrist band
+10F
+100¥
+Stimtouch hosiery
+6R
+250¥
+Laced lipstick
+10F
+Special
+DISGUISES
+AVAILABILITY
+COST
+Uniforms
+16F
+2,000-15,000¥
+Fixer services
+—
+250¥/hr
+Forger services
+—
+500¥+
+FACTORY VEHICLE
+SPECIALIZED USE
+Ares Roadmaster (transport)
+Counterfeit SWAT vehicle/Urban Command Center
+Chrysler-Nissan Journey (car)
+Counterfeit Lone Star Patrol Cruiser
+Conestoga Trailblazer
+Counterfeit moving truck
+Dodge Ram Industrial
+Garbage truck
+Esprit Industries Watcher (SUV)
+Counterfeit CAS government vehicle
+GMC Endurance (van)
+Counterfeit DocWagon ambulance
+GMC Sidewinder (SUV)
+Counterfeit UCAS government vehicle
+Honda Artemis (car)
+Counterfeit Knight Errant Patrol Cruiser
+S-K LT-21 (delivery van)
+Counterfeit CrashCart ambulance
+MODIFICATION
+AVAILABILITY
+COST
+Chameleon coating
+12R
+Body x 2,000¥
+Dash light bar
+15F
+3,500¥
+Emergency light bar
+15F
+5,000¥
+Morphing license plate
+8F
+1,000¥
+Siren
+15F
+1,400¥
+Smuggling compartment (dwarf, human, elf, or ork)
+12F
+3,500¥
+Smuggling compartment (troll)
+12F
+7,000¥
+Spoof chips
+8F
+500¥
+Rigger services
+—
+500¥/hr
+MISCELLANEOUS ITEMS
+DAMAGE
+AP
+REACH
+MODE
+AVAIL
+COST
+Stimtouch hosiery
+8S(e)
+–5
+0
+—
+6R
+250¥
+Laced lipstick
+(as drug)
+—
+—
+—
+10F
+(Drug + DMSO cost) + 
+50¥
+
+===== SS PDF 199 =====
+<< STOLEN SOULS TABLES    197
+STOLEN SOULS STATS
+DRUGS (PER DOSE)
+AVAILABILITY
+COST
+Caldwell lily extract
+10R
+600¥
+Caldwell lily extract, concentrated
+12R
+1,000¥
+Chloral hydrate
+6R
+50¥
+Chloroform
+4R
+75¥
+DMSO
+5R
+50¥
+Gamma-scopolamine
+14F
+200¥
+Läel
+10F
+400¥
+Laés
+12F
+750¥
+Liquid nutrients
+4R
+75¥
+Narcoject
+8R
+50¥
+Normal saline
+—
+30¥
+Slab
+8R
+250¥
+VEHICLES*
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+Ares Roadmaster
+3/3
+3
+1
+18
+18
+3
+3
+8
+8
+52,000¥
+Chrysler-Nissan Journey
+4/3
+3
+3
+9
+5
+1
+1
+4
+—
+17,000¥
+Conestoga Trailblazer
+2/1
+2
+1
+14
+6
+2
+1
+2
+4
+75,000¥
+w/ trailer
+1/1
+1
+1
+20
+6
+2
+1
+N/A
+N/A
++20,000¥
+Dodge Ram Industrial 
+(large chassis)
+2/1
+1
+1
+16
+8
+2
+4
+2
+4
+51,000¥
+Dodge Ram Industrial 
+(narrow chassis)
+3/1
+1
+1
+16
+8
+2
+4
+2
+4
+49,000¥
+Esprit Industries Watcher 
+(SUV)
+3/3
+3
+3
+9
+8
+1
+3
+5
+4
+40,000¥
+GMC Endurance (van)
+3/3
+4
+3
+14
+6
+1
+2
+8
+—
+35,000¥
+GMC Sidewinder (SUV)
+4/3
+3
+2
+10
+6
+2
+2
+6
+4
+33,000¥
+Honda Artemis (car)
+4/2
+3
+3
+9
+6
+1
+1
+4
+—
+17,000¥
+S-K LT-21 (delivery van)
+2/1
+2
+1
+15
+7
+2
+2
+2
+—
+31,000¥
+*For official emergency vehicles that have better performance, multiply these vehicle attributes by 1.5 (round up). 
+DRONES
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+Bust-A-Move (2g) 
+(medium)
+4
+3
+1
+2
+1
+2
+2
+—
+700–1,500¥
+Cyberspace Designs 
+Dragonfly (small)
+4
+3
+2
+1
+1
+3
+2
+12R
+2,500¥
+GMC Snatch’n’Grab (large)
+3
+4
+2
+2
+4
+3
+3
+12F
+8,000¥
+Modified Dassault 
+Janitorial Drone (large)
+2
+2
+2
+10
+2
+2
+2
+8
+10,000¥
+Transys Office Maid 
+(medium)
+3
+2
+2
+3
+0
+4
+3
+4
+8,000¥
+Modified Renraku 
+Manservant-3 (large)
+2
+2
+2
+3
+5
+3
+3
+14F
+9,000¥
+* Cost of drugs not included

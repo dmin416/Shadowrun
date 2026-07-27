@@ -1,0 +1,527 @@
+
+
+===== chromeflesh.pdf PDF page 147 =====
+ESSENCE COSTS
+Nanoware does not carry an Essence cost, nor does it 
+currently come in grades. Nanocybernetic augmenta-
+tions, however, as specialized cybernetics, do carry an 
+Essence cost. 
+USING NANOWARE
+While nanotech sees myriad applications, nanoware 
+is the term for nanotech implanted in living organ-
+isms as a form of enhancement. What sets nanoware 
+apart from other forms of enhancement is the role of 
+nanotech itself. The most common type of nanoware 
+consists of free-floating nanite colonies designed to 
+supplement or replace a body’s physiological systems, 
+to enhance metabolic processes, or to act as a prophy-
+lactic measure. To this end, nanoware circulates via the 
+blood, lymph, and extra-cellular fluids to reach all parts 
+of the body. Other types of nanoware install them-
+selves in the vicinity of a particular organ to either en-
+hance organ functions or build and maintain ultra-fine 
+nanostructures. Various types of neural nanoware, fil-
+tration systems, and organ enhancements fall into this 
+category, and what distinguishes them from cyberware 
+is the need for active nanite colonies.
+Nanoware uses either hard machines delivered using 
+an aerosol or injection or soft machines delivered via in-
+jection or ingestion vectors to make precise adjustments 
+to biological systems. Once introduced, nanites become 
+active in about a minute. Nanoware systems are consid-
+ered to be always active unless a nanohive implant is 
+present. Among other functions, nanohives allow for 
+controlled activation of nanoware systems or colonies, 
+recovering them, and storing them during 
+“downtime.” Another defining aspect 
+of nanoware is that it’s not usually 
+permanent. Despite modern tech-
+niques that provide nanites with 
+protein-matched 
+immune 
+markers to stave off the 
+worst, a living body is 
+still an incredibly hostile environment to the little guys, 
+and sooner or later nanites are flushed or absorbed by 
+the system.
+NANOWARE RATINGS  
+AND DEGRADATION
+All nanoware has a Rating that represents that specific 
+nanite colony’s hardiness, versatility, and level of per-
+formance—whether it is used in “bladeless surgery,” 
+cyberware implantation, antidote treatment, or as a 
+form of enhancement or stimulant. Nanoware systems 
+are transient in nature, meaning they are purged in due 
+course by the body’s filtration, digestive, and immune 
+processes. To represent this transient nature, the Rat-
+ings of nanoware systems permanently degrade over 
+time, at the rate of 1 Rating point per week. A func-
+tioning nanohive (p. 151) counters this nanite loss by 
+providing a safe environment for replenishing feed-
+stocks and colony numbers—regardless of whether the 
+system involves hard or soft machines.
+Active nanoware in the organism also suffers degra-
+dation when the body takes serious wounds—bleeding 
+out or straying into contact with foreign bodies or phys-
+iological systems that they aren’t designed to tolerate. 
+For every 3 boxes of Physical damage taken by the host, 
+reduce the Rating of any active nanoware systems by 1. 
+This loss can be recovered over time with a nanohive.
+When a nanoware system’s Rating reaches 0, it is de-
+stroyed. A nanohive can still replenish the system nor-
+mally.
+The nanoware in a CFD sufferer does not degrade, 
+instead finding other ways to remain active.
+DETECTING SOFT NANITES
+The threshold to detect soft nanites via na-
+no-scanner or clinical tests is increased by +2 
+(see Nanoscanner, p. 153). They are pow-
+ered by natural organic processes 
+and function much like bacteria 
+or parasites, and for the 
+>>	
+CHROME FLESH <<
+146    HACKING THE METAHUMAN CODE >>
+
+
+===== chromeflesh.pdf PDF page 148 =====
+most part appear just like their natural counterparts, 
+making them much harder to detect.
+REPROGRAMMING  
+HARD NANITES
+One of the advantages offered only by hard nanites 
+is the ability to reprogram hard nanite systems. Hard 
+nanites are reprogrammed through the body’s own 
+conductive tissues by a hard nanohive.
+When hard nanites are reprogrammed, they change 
+their type, becoming a new kind of hard nanoware. Re-
+programming itself requires the hard nanites to suspend 
+whatever operation they were performing and receive 
+their new instructions. A hard nanohive does not reduce 
+the Rating of its nanites.
+HARD NANITES AND THE 
+MATRIX
+Hard nanites use conductive tissue and other surfaces 
+and UV radiation to communicate. They do not use the 
+Matrix, and so they do not show up as icons in the Ma-
+trix. Hard nanites can be indirectly affected by hackers via 
+a hard nanohive, a devices that has its own Matrix icon.
+NANOWARE 
+SYSTEMS
+HARD NANOWARE 
+SYSTEMS
+The following are the nanoware systems on the mar-
+ket that are certified against CFD infection.
+ANTI-RAD
+Popular among spacers and workers in high-ambi-
+ent radiation environments such as the SOX, anti-rad 
+nanoware is a new development and quite expensive. 
+This free-floating system scours the body via the lym-
+phatic system for telltale isotope traces, free radicals, 
+and radiation damaged cells. Anti-rad nanites bind 
+contaminants in a solvent cage and inject damaged or 
+mutated cells with a compound that induces cell death. 
+The anti-rad nanites then attach to the waste and trans-
+port it to the nearest lymph node to be processed and 
+evacuated normally.
+Anti-rad nanoware reduces the Power of radiation 
+damage by its Rating. Anti-rad is intended as a prophy-
+lactic measure and is unable to eliminate metastasized 
+cancers or pre-existing cell mutations.
+CONTROL RIG BOOSTER
+This specialized breed of neural amplifier nanites 
+are designed to complement implanted control rigs 
+(p. 452, SR5). The nanites organize themselves into 
+artificial neural pathways, building and maintaining 
+a network of nanofilaments. This extends the nor-
+mal interface between the control rig and the mid-
+dle brain to parts of the dorsolateral prefrontal cor-
+tex, cerebellum, and thalamus—areas of the brain 
+that manage subconscious movement, sensory in-
+terpretation, and instinctive decision-making. The 
+booster colony’s dedicated neural pathways allow 
+a rigger to make greater use of the brain’s intuitive 
+understanding of spatial positioning and capacity 
+for instinctive motion control when jumped in to 
+a vehicle or drone. The control rig itself translates 
+the resulting neural impulses into rigging data like 
+speed control, inertia handling, and so forth.
+The booster applies its Rating as a dice pool modifier 
+to your Vehicle Tests when you’re jumped into a drone 
+or vehicle. It cannot be combined with the control rig 
+optimization genetech.
+IMPLANT MEDIC
+This nanoware system is installed along with a specific 
+cyberware implant. The free-floating nanites in this sys-
+tem are designed to monitor the health and well-being 
+of that implant, and to immediately act to repair it if any 
+malfunction or damage occurs. If the nanites detect a 
+problem, they work to restore the implant to its stan-
+dard operating parameters by rejoining neural connec-
+tions, sealing fractures, repairing circuitry, removing 
+foreign bodies or damaged tissue, and so on.
+An implant medic system automatically seeks to re-
+pair a damaged implant. If an implant takes Matrix dam-
+age, this system begins repairing it on the next Combat 
+Turn, using its Rating x 2 as its Hardware + Logic dice 
+pool and its Rating as its Mental limit. You can read more 
+on repairing Matrix damage on p. 228, SR5.
+NANITE HUNTERS
+Nanite hunters seek out and destroy active nanites 
+other than their own colony. By default, hunter nanites 
+seek out all nanites, but they can be reprogrammed by 
+the usual method for hard nanites to target nanites of 
+a specific type (hard, soft, or a specific system). Repro-
+gramming nanite hunters in this way never reduces the 
+system’s rating.
+At the end of each Combat Turn that a nanite hunt-
+er system is active, make a Rating x 2 [Rating] v. Tar-
+get’s Rating x 2 Test. For each net hit the hunters get, 
+reduce the target nanites’ Rating by 1. The hard nanite 
+hunters have a hard time targeting soft nanites, taking 
+a –2 dice pool modifier when attacking them. If more 
+than one valid target is available to the nanite hunters, 
+the system chooses its target at random each Combat 
+Turn.
+Hunter nanites are unable to breach a nanohive to 
+attack dormant nanite systems.
+>>	
+CHROME FLESH <<
+<< HACKING THE METAHUMAN CODE    147
+
+
+===== chromeflesh.pdf PDF page 149 =====
+MARKERS
+These nanites are sealed microscopic optical chips 
+used for transporting valuable data without being de-
+tected. Data is typically divided up and downloaded 
+into multiple nanites, building in redundancy against 
+nanite loss. Later, a simple blood sample is all that is 
+needed to collect enough datacapsules to reconsti-
+tute the data within. Markers are designed to defeat 
+nanoscanners: reduce the nanoscanner’s dice pool by 
+the marker’s Rating for the Detection test. Markers can 
+carry one or multiple files.
+NANOTATTOOS
+Once injected, nanotattoo hard machines embed them-
+selves as a lattice of liquid crystal microdisplays under 
+the subject’s skin. A Rating 1 nanotattoo covers one limb 
+or the face, Rating 2 covers half the body, and Rating 3 
+covers the whole body. A nanotattoo (or “nanotat”) can 
+be reprogrammed to display any image the user wishes, 
+including preprogrammed animation. They can also be 
+programmed to be inactive and appear indistinguish-
+able from your normal skin. Reprogramming nanotats in 
+this manner does not reduce its rating.
+Nanotattoos can provide effective camouflage, if 
+you have a full body treatment and you’re not wearing 
+much, imposing a –1 dice pool modifier to Perception 
+tests to detect you visually.
+TAGGANTS
+Unlike most nanites, taggants emit a signal that can be 
+detected by a standard wireless device. This produces 
+an ARO and icon in the Matrix. Taggants can be used 
+to advertise the subject’s criminal convictions or legal 
+status, commercial goods, political propaganda, or 
+any other information programmed into the system. 
+Taggants can have their icon and the information they 
+broadcast changed via reprogramming—such repro-
+gramming does not reduce the taggants’ rating.
+TRAUMA CONTROL SYSTEM
+This nanoware system seeks out and gathers around 
+vital organs. Some component nanites apply elec-
+tro-stimulation to the heart and respiratory muscles, 
+while others regulate blood flow away from wounds 
+without starving the brain of oxygen. While you’re busy 
+dying from overflow damage to your Physical Condi-
+tion Monitor, the TCS attempts to stabilize you every 
+minute, using its Rating in place of both First Aid and 
+Logic in the Stabilization Test (p. 209, SR5).
+REPLICATORS
+Nanoware has some disadvantages. It only has 
+one function, or maybe one function at a time if you’re 
+reprogramming hard nanites. It can lose its potency over time. 
+It’s very expensive to buy and upkeep. But there’s one kind of 
+nanite that can perform multiple roles, actually gains strength 
+as it works, and best of all it’s free of charge: REPLICATORS!
+Replicators are only found in CFD victims … all CFD 
+victims. These nanites have been altered by the virus to let 
+them build nanites of other types. They can construct both soft 
+and hard nanites given sufficient raw materials, which they will 
+happily take out of the victim’s food, blood, or body. The virus 
+camouflages them as other types of nanites to conceal them 
+and prevent detection, but the mechanism for this is unknown, 
+and there still isn’t a way to detect them … until it’s too late.
+So if you want a powerful nanoware system at absolutely 
+no cost, contact your nearest head case and join the unknown 
+but secretly growing multitudes who use replicators! Your new 
+personality will thank you for it!
+HARD NANOWARE SYSTEMS
+NANOWARE
+RATING
+AVAILABILITY
+COST
+Anti-rad
+1–6
+14F
+Rating x 6,000¥
+Control rig booster
+1–3
+12F
+Rating x 6,000¥
+Implant medic
+1–6
+12F
+10% of implant cost
+Nanite hunters
+1–6
+16R
+Rating x 5,000¥
+Markers
+1–3
+12
+Rating x 2,000¥
+Nanotattoos
+1–3
+12F
+Rating x 1,000¥
+Taggants
+1–3
+12
+Rating x 600¥
+Trauma control system
+1–6
+12F
+Rating x 4,000¥
+>>	
+CHROME FLESH <<
+148    HACKING THE METAHUMAN CODE >>
+
+
+===== chromeflesh.pdf PDF page 154 =====
+the surroundings, providing a –2 dice pool modifier to 
+Perception Tests to spot the camouflaged character if 
+they’re not wearing much.
+Newprint: This upgrade allows the user to repro-
+gram his finger- or palm-prints, just like dynamic hand-
+print nanocybernetics (p. 151).
+Sealer: The sealant upgrade repairs its own tears and 
+punctures. Since it perfectly follows body contours, it 
+also serves as an effective pressure dressing. This adds 
+a +2 dice pool modifier on tests to stabilize the wear-
+er, but imparts a –2 dice pool modifier on First Aid and 
+Medicine tests to treat the character until it is removed. 
+Shifter: The shifter upgrade cannot cause gross 
+changes in body shape, but it can alter facial features 
+and skin textures. Club goers and artists sometimes 
+use this to give themselves a scaly or “engraved” sur-
+face texture, but runners find it to be a useful form of 
+disguise. Users can change a shifter configuration via 
+wireless, but the altskin takes ten minutes to take on the 
+requested configuration. Shifter altskin gives you +1 to 
+the limit of Disguise and Impersonation Tests. 
+ETCHERS
+Etchers are used to temporarily or permanently inscribe 
+a metallic pattern on the subject’s bones or cartilages. 
+These marks can be detected by magnetic anomaly 
+detectors (MADs) and magnetic resonance imagers 
+(MRIs). Temporary bone markings break up over time, 
+but permanent treatments can only be removed with 
+surgery that scrapes the bone clean. Once injected, 
+a bone marker takes eight hours to form. Etchers are 
+used to identify prisoners, mark bioware, carry infor-
+mation, among other purposes.
+MONOWIRE
+Superfine monofilament wire, constructed using nano-
+tech buckytubes, sees a wide variety of uses but is best 
+known for its security applications. Nearly invisible and 
+with high tensile strength, monowire can be stretched 
+atop fences as hi-tech barbed wire or in a maze pattern 
+across doorways and hallways. Monowire garrotes (p. 
+20, Run & Gun), carried in a special wrist-worn contain-
+er with a pull-tab at one end, are also common among 
+assassins. To detect monowire when extended and taut 
+requires a Perception + Intuition [Mental] (3) Test.
+NANOPASTE DISGUISE
+The use of cheap cosmetics and latex-based disguis-
+es are a thing of the past with the development of a 
+versatile biostatic nanite paste. Once spread across the 
+affected area, the paste utilizes the body’s bioelectric 
+charge to power itself. It can be programmed to change 
+color and texture or to display patterns. The paste can 
+also remember preset configurations. A small contain-
+er of paste covers the user’s face and hands, while the 
+large container coats the entire body. A person’s face 
+can be duplicated if you have a scan or a trid image—
+use your or someone else’s Medicine or Artisan skill in 
+a Teamwork Test for your Disguise test. The nanopaste 
+disguise lasts for twenty-four hours before the nanites 
+self-destruct.
+NANOSCANNER
+Nanoware can be very difficult to detect. Cyberware 
+scanners may sometimes detect extensive nanoware, 
+but a dedicated nano-scanner that can test blood, sali-
+va, tissue, or other materials for nanites is required for 
+positive identification in most cases. Once limited to 
+medical and high-security facilities due to cost, it has 
+become common to issue these devices to emergency 
+response teams in order to identify CFD victims. This 
+function can be installed in any sensor device like other 
+sensor functions (p. 445, SR5). The range of this sensor 
+is one meter. The threshold for detecting nanoware can 
+be found on the Nanotech Detection table. A test must 
+be made for each system.
+NANOSPY
+These nanites provide a discreet, flexible surveillance 
+option to deploy in unsecured sites. Once sprayed or 
+painted upon a surface (one application), a layer of 
+hard machines constructs an invisible antenna, a dis-
+tributed microphone, and a compound optical lens. 
+The entire assembly is about thirty centimeters square 
+and appears to be no more than a very faint discolor-
+ation of the material it’s been applied to. Noticing an 
+application by sight is a Perception + Intuition [Mental] 
+(3) Test. NanoSpies can even be applied like makeup 
+to living creatures, turning a face into a camera. Imag-
+ing software corrects distortions caused by the surface 
+area and compound lens. A single application lasts for 
+NANOTECH DETECTION
+TYPE OF NANOWARE
+DETECTION THRESHOLD
+Nanocybernetics
+Standard
+1
+Alphaware
+2
+Betaware
+3
+Deltaware
+4
+Nanoware
+Hard
+2
+Soft
+3
+CFD Replicators
+5
+>>	
+CHROME FLESH <<
+<< HACKING THE METAHUMAN CODE    153
+
+
+===== chromeflesh.pdf PDF page 155 =====
+twenty-four hours. Nanospies are capable of effective-
+ly monitoring events within five meters. Beyond that, 
+image and sound distortion makes capture unfeasible.
+SAVIOR MEDKIT
+Originally developed by Shiawase Biotech but now 
+available from several corps, these advanced medkits 
+combine cutting-edge nanotech and advanced expert 
+systems. When activated, the medkit injects enough 
+nanites to last five minutes into its subject. The sav-
+ior then acts as a Rating 6 medkit and follows all the 
+normal rules for medkits (p. 450, SR5). If the patient is 
+bleeding out, the savior’s nanites act as a trauma con-
+trol system (p. 148) for the duration. The savior’s sup-
+ply of nanites is limited, and it must be restocked every 
+time it is used.
+SMART CORROSIVES
+This system consists of a swarm of nanites suspended 
+in a clear chemical solution. Each nanite carries a pay-
+load of a corrosive compound. When applied, these 
+nanites are programmed to bind to a certain substance 
+and use the corrosive to melt it. Because the nanites 
+only activate when in contact with the target sub-
+stance, the corrosive is applied in a manner that affects 
+only the target, while everything around it remains un-
+touched. Smart corrosive solutions can be applied via 
+squirtguns, spray canisters, splash grenades, and a va-
+riety of other methods. Each solution is configured to 
+corrode only a specific substance, from skin to metal to 
+plasteel—the corrosive carried by the nanites will affect 
+only that substance. On contact, smart corrosives deal 
+10P(acid) damage to the substance it is programmed 
+to affect. It must be washed or scraped off to prevent 
+continuing damage.
+UNIVERSAL SEALANT
+This nanotech application is used extensively in space 
+and undersea habitats and is becoming increasing 
+common in a number of fields. It employs nanites sus-
+pended in a polymer gel/foam that hardens upon con-
+tact with air. When deployed (normally via handheld 
+spray or squirtgun), the nanites bind seams, fracture 
+NANOGEAR
+NANOGEAR
+RATING
+ESSENCE
+CAPACITY
+Altskin (per application)
+Hard
+10
+1,250¥
+     Armor
+—
++3
++500¥
+     Chameleon
+—
++2
++250¥
+     Newprint
+—
++4F
++(Rating x 200¥)
+     Sealer
+—
++1
++250¥
+     Shifter
+—
++2
++250¥
+Etchers
+Hard
+8
+500¥
+Monowire (per meter)
+Hard
+14R
+1,000¥
+Nanopaste disguise
+     Small container
+Hard
+12F
+350¥
+     Large container 
+Hard
+16F
+700¥
+Nanoscanner
+—
+8
+As sensor
+NanoSpy (per application)
+Hard
+14F
+10,000¥
+Savior medkit
+—
+6
+2,000¥
+Savior medkit supplies
+Hard
+4
+300¥
+Smart corrosives (per 
+application)
+Soft
+10R
+4,000¥
+Universal sealant (per 
+application)
+Hard
+10
+250¥
+>>	
+CHROME FLESH <<
+154    HACKING THE METAHUMAN CODE >>

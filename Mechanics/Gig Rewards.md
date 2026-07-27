@@ -7,7 +7,7 @@ Runs pay in **nuyen**, **Karma**, and sometimes **reputation / gear / favors**.
 - Negotiated with **Mr. Johnson** using Negotiation (and leverage).
 - Typical pay scales with risk, opposition, and sprawl (GM sets baseline).
 - Extras: hazard pay, silence bonuses, live-capture bonuses, expenses covered or not.
-- Cut for fixers, fences, and team shares — decide before the run.
+- Cut for fixers, fences, and team shares - decide before the run.
 
 ### What money is for
 

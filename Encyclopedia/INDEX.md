@@ -1,6 +1,6 @@
-# Encyclopedia — Item Types
+# Encyclopedia - Item Types
 
-Catalog of major **Shadowrun 5e** gear and purchasable item categories. Every file below starts as a **stub**.
+Catalog of major **Shadowrun 5e** gear and purchasable item categories. Filled files have PDF-verified tables; others remain stubs until sourced.
 
 Track fill progress in the project [TODO](../TODO.md).
 
@@ -52,8 +52,8 @@ Track fill progress in the project [TODO](../TODO.md).
 
 | Type | File | Books |
 | --- | --- | --- |
-| Commlinks & general electronics | [Commlinks and Electronics](Commlinks%20and%20Electronics.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [DT](../Source%20Texts/Data%20Trails/INDEX.md); [KC](../Source%20Texts/Kill%20Code/INDEX.md) |
-| Cyberdecks, programs, agents | [Cyberdecks and Programs](Cyberdecks%20and%20Programs.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[DT](../Source%20Texts/Data%20Trails/INDEX.md)**; [KC](../Source%20Texts/Kill%20Code/INDEX.md) |
+| Commlinks & general electronics | [Commlinks and Electronics](Commlinks%20and%20Electronics.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [DT](../Source%20Texts/Data%20Trails/INDEX.md); [KC](../Source%20Texts/Kill%20Code/INDEX.md); [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) (PI-Tac / weapon link) |
+| Cyberdecks, programs, agents | [Cyberdecks and Programs](Cyberdecks%20and%20Programs.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[DT](../Source%20Texts/Data%20Trails/INDEX.md)**; [KC](../Source%20Texts/Kill%20Code/INDEX.md); [RF](../Source%20Texts/Run%20Faster/INDEX.md) (Decker PACKs) |
 | RCC, control gear, autosofts | [Rigger Gear](Rigger%20Gear.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)** |
 | Sensors, vision, audio | [Sensors and Optics](Sensors%20and%20Optics.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md); [R5](../Source%20Texts/Rigger%205/INDEX.md); [DT](../Source%20Texts/Data%20Trails/INDEX.md) |
 
@@ -61,30 +61,30 @@ Track fill progress in the project [TODO](../TODO.md).
 
 | Type | File | Books |
 | --- | --- | --- |
-| Foci, reagents, lodges, ritual materials | [Magical Goods](Magical%20Goods.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[SG](../Source%20Texts/Street%20Grimoire/INDEX.md)**; [FA](../Source%20Texts/Forbidden%20Arcana/INDEX.md) |
+| Foci, reagents, lodges, ritual materials | [Magical Goods](Magical%20Goods.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[SG](../Source%20Texts/Street%20Grimoire/INDEX.md)**; [FA](../Source%20Texts/Forbidden%20Arcana/INDEX.md); [CF](../Source%20Texts/Chrome%20Flesh/INDEX.md); [RF](../Source%20Texts/Run%20Faster/INDEX.md) |
 
 ## Vehicles & drones
 
 | Type | File | Books |
 | --- | --- | --- |
-| Ground / air / water craft | [Vehicles](Vehicles.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)** |
+| Ground / air / water craft | [Vehicles](Vehicles.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)**; [SS](../Source%20Texts/Stolen%20Souls/INDEX.md) (extractor chassis) |
 | Drones | [Drones](Drones.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)** |
-| Vehicle & drone mods | [Vehicle and Drone Modifications](Vehicle%20and%20Drone%20Modifications.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)** |
+| Vehicle & drone mods | [Vehicle and Drone Modifications](Vehicle%20and%20Drone%20Modifications.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)**; [SS](../Source%20Texts/Stolen%20Souls/INDEX.md) (extractor light bars/siren/people-smuggling) |
 
 ## Medical, chem, identity, living
 
 | Type | File | Books |
 | --- | --- | --- |
-| Medkits, supplies, clinical gear | [Medical Gear](Medical%20Gear.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [CF](../Source%20Texts/Chrome%20Flesh/INDEX.md) (aug clinics / repair context) |
+| Medkits, supplies, clinical gear | [Medical Gear](Medical%20Gear.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [CF](../Source%20Texts/Chrome%20Flesh/INDEX.md); [R5](../Source%20Texts/Rigger%205/INDEX.md); [SS](../Source%20Texts/Stolen%20Souls/INDEX.md) |
 | Drugs, toxins, chemicals | [Drugs Toxins and Chemicals](Drugs%20Toxins%20and%20Chemicals.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[CF](../Source%20Texts/Chrome%20Flesh/INDEX.md)**; [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) |
-| Fake SINs, licenses, credsticks | [Identity and Documentation](Identity%20and%20Documentation.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [RF](../Source%20Texts/Run%20Faster/INDEX.md) |
+| Fake SINs, licenses, credsticks | [Identity and Documentation](Identity%20and%20Documentation.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [RF](../Source%20Texts/Run%20Faster/INDEX.md) (PACKs); [SS](../Source%20Texts/Stolen%20Souls/INDEX.md) (forger / Fake DocWagon band) |
 | Lifestyles & safehouses | [Lifestyles and Safehouses](Lifestyles%20and%20Safehouses.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[RF](../Source%20Texts/Run%20Faster/INDEX.md)** |
 | Tools, kits, survival | [Tools Kits and Survival](Tools%20Kits%20and%20Survival.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md); [RF](../Source%20Texts/Run%20Faster/INDEX.md) |
-| Maglocks, cameras, alarms | [Security and Surveillance](Security%20and%20Surveillance.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [DT](../Source%20Texts/Data%20Trails/INDEX.md); [R5](../Source%20Texts/Rigger%205/INDEX.md) |
+| Maglocks, cameras, alarms | [Security and Surveillance](Security%20and%20Surveillance.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) (entry tools); RF B&E PACK |
 
 ## Plot / setting books (occasional gear)
 
-These rarely define whole *categories*, but may add one-off items or variants — cite per entry when used:
+These rarely define whole *categories*, but may add one-off items or variants - cite per entry when used:
 
 | Book | Typical gear relevance |
 | --- | --- |
@@ -98,4 +98,4 @@ These rarely define whole *categories*, but may add one-off items or variants �
 - Prefer tables for stats; each **item** row should include **Source** (book abbr + chapter/section if known).
 - Category **Books** on this index = where to look first, not an exhaustive reprint list.
 - Book links point at each title’s `Source Texts/.../INDEX.md`.
-- Do not invent canon stats — leave blank or mark `TBD` until sourced.
+- Do not invent canon stats - leave blank or mark `TBD` until sourced.

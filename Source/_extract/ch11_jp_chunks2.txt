@@ -1,0 +1,273 @@
+[0] line~21 TEXT: This coming from the guy who can’t get laid without dosing his date? Slamm-0!, are we really tapping this temp-head to tell us about drug use?
+[1] line~25 HANDLE: Pistons
+[2] line~27 TEXT: He’s got about as much right to be here as any of us, and honestly, I’d rather hear this kind of thing from someone with experience than from a straight-edger. I mean, I’d probably ask Sticks about ammo types before Man-of- Many-Names. If I want to find Panther Assault Cannon rounds, I’ll ask Am-Mut, not Bull.
+[3] line~34 HANDLE: Slamm-0!
+[4] line~36 TEXT  <-- single line, NOT in whitelist (check manually): Hey!
+[5] line~38 HANDLE: Bull
+[6] line~40 TEXT: If it makes you feel any better, you’ve got the rest of us to offer our two nuyen if we think he’s wrong. Sound good?
+[7] line~43 HANDLE: Turbo Bunny
+[8] line~45 TEXT  <-- single line, NOT in whitelist (check manually): I’ve got no problem putting him in his place.
+[9] line~47 HANDLE: Butch
+[10] line~49 TEXT  <-- single line, NOT in whitelist (check manually): I swear, all I ever do is edit other people’s work …
+[11] line~51 HANDLE: Nephrine
+[12] line~53 TEXT  <-- single line, NOT in whitelist (check manually): Patience, doc, your turn is right around the bend.
+[13] line~55 TEXT: Slamm-0! YESTERDAY’S UPPERS, TODAY! In the age of cybernetic augmentation, customized vat- grown organs and designer genetics and nanoware, you might wonder why anyone would resort to some- thing like drugs. Isn’t it just more cost-effective to in- vest in something that lasts a long time and gets you a big ol’ net for your nuyen instead of pissing it away piecemeal? Well, sure, you might ask that … if you’re the type who’s always got some money on the stick. C’mon, think about it. You’re going day to day, trying to survive in the barrens, eating expired soy cold from the pouch, you think you’re going to be planning out your cybersuite? Chrome can be complicated to acquire. Drugs are usually as far away as your street corner. Usually not even that far.
+[14] line~73 TEXT: If you’re that damn poor, maybe you shouldn’t be spending your nuyen on drugs?
+[15] line~76 HANDLE: Baka Dabora
+[16] line~78 TEXT: That’s ignoring the whole environment that encourages drug use. The right drugs can save you from sickness, from insanity, from violence, and once you’re hooked, you’re not thinking straight enough to sweat it out. And that’s not counting the number of opportunities you’ll get for a free sample from a pusher, or someone passing around the hypo or the tabs at a party. Or maybe you inherited an addiction from your folks. It’s a culture, a cycle of addiction and poverty, that has existed in some form or another for centuries.
+[17] line~89 TEXT: Aufheben Low-level go-gangs don’t have the cash to invest in implants, but drugs can be had on the cheap and offer a CHROME FLESH QUICK & DIRTY AUGMENTATIONS 168    QUICK & DIRTY AUGMENTATIONS >> \n===== PDF_IDX 169 PRINT~169 =====\nthrill no ’ware can give you. Sooner or later, by the time a ganger makes some real cred on a score, he wonders why he needs cyberspurs when his knife is treating him fine. After all, he can always tear some out of the next poor slot he rips up while riding the chemical wave.
+[18] line~102 TEXT: And sooner or later, Holly the Halloweener, all jazzed on her juice of choice, picks a fight she can’t win and doesn’t have the brains to pull back. Said brains then decorate the pavement.
+[19] line~107 HANDLE: Sticks
+[20] line~109 TEXT  <-- single line, NOT in whitelist (check manually): Since when do Halloweeners have brains?
+[21] line~111 TEXT: Bull But there’s more to it than just how much it costs to get it. I mean, I’ve dragged a street samurai into a back alley shadowclinic enough times to know that when the chrome takes a bullet, your account feels the damage. And that’s not even figuring for regular maintenance, firmware upgrades, surgery, and everything else that goes with it. I can’t even begin to imagine how compli- cated it gets with bioware.
+[22] line~121 TEXT: Not necessarily more complicated, since bioware heals much as the rest of the metahuman body will. It’s when it’s out of balance that there are complications.
+[23] line~125 HANDLE: KAM
+[24] line~127 TEXT  <-- single line, NOT in whitelist (check manually): Wrong section, Doc.
+[25] line~129 TEXT: Bull Think about that upkeep for a minute. Think about when the fake skin gets torn and people can see that you’ve got chrome. Now you’re a target for every chop- per gang that wants to snatch that cyber and sell it off. Or you get spotted by a Knight Errant patrol and they do a little SIN scan, and wouldn’t you know it, you haven’t got a very good fake SIN, if you have one at all. Possession of cyber? Better scan it closer. Now they’re finding things like spurs and wired reflexes, all kinds of stuff. And you’ll lose the chrome, anyway, when they put you away. You know what happens when you get stuck up for drugs? You can just hand them over. Without losing the hand. You can take them, and they’re gone. Done. Finito. You’re in the clear. Or toss them. Whatever you gotta do. Are you worried about a tox screen? Are any of us ap- plying for actual jobs? And if you get pulled over, you’ve already got bigger problems than a charge for posses- sion or use.
+[26] line~149 TEXT: He’s jumping the gun here. There are a lot of ways having chems in your system can get you in trouble.
+[27] line~152 HANDLE: Thorn
+[28] line~154 TEXT  <-- single line, NOT in whitelist (check manually): Besides being unreliable and blitzed?
+[29] line~156 HANDLE: Pistons
+[30] line~158 TEXT: Seriously, though. Chem sniffers, trained paranatural security, some spells, and more can register the chemical byproducts off your body associated with drug use. If you’re taking the sneaky way in, posing as staff at a party for example, you might get tagged for drug use. Other drugs can also elevate body temperatures, making you more visible on thermoptics, or induce physical tics, retinal quakes, and reactions that automated monitoring and facial recognition software tags as suspicious.
+[31] line~168 HANDLE: Thorn
+[32] line~170 TEXT: Is there any chance it can scramble ritual samples like blood if you’ve been shot while high?
+[33] line~173 HANDLE: Whippet
+[34] line~175 TEXT: Afraid not. You’d have to have such a concentration of the drugs in your system that you’d be dead already.
+[35] line~178 HANDLE: Red
+[36] line~180 TEXT: There has been some research into BADs capable of scrambling the mana signature of subjects to render them untraceable by ritual or astral tracking, but every success so far also included dramatic long-term damage to the subject’s aura. Those who could use magic found their abilities diminished permanently. Manadyne and a few other companies predict a successful test within the next decade, which … doesn’t really mean anything.
+[37] line~189 TEXT: The Smiling Bandit << QUICK & DIRTY AUGMENTATIONS    169 \n===== PDF_IDX 170 PRINT~170 =====\n> Let me just chime in that a hit of cram now and again did, in fact, get me through a lot of late-night study sessions.
+[38] line~195 HANDLE: Lyran
+[39] line~197 TEXT  <-- single line, NOT in whitelist (check manually): Ditto for me with coding.
+[40] line~199 HANDLE: Slamm-0!
+[41] line~201 TEXT: I don’t condone drug use among my men, but I would probably be dead right now if one of my snipers hadn’t been dosing to stay awake and sharp for thirty-six hours straight.
+[42] line~206 HANDLE: Picador
+[43] line~208 TEXT  <-- single line, NOT in whitelist (check manually): Is anyone here besides me not hitting the patches?
+[44] line~210 HANDLE: /dev/grrl
+[45] line~212 TEXT  <-- single line, NOT in whitelist (check manually): They don’t work on me, so, me.
+[46] line~214 HANDLE: Red
+[47] line~216 TEXT  <-- single line, NOT in whitelist (check manually): And I prefer chips.
+[48] line~218 HANDLE: Turbo Bunny
+[49] line~220 TEXT  <-- single line, NOT in whitelist (check manually): You mean “preferred” right?
+[50] line~222 HANDLE: Bull
+[51] line~224 TEXT: No. Prefer. You’re never really over an addiction, no matter what you say.
+[52] line~227 TEXT: Turbo Bunny And then there’s the rich man’s perspective. I’ve crashed on enough corporate couches to know they live a designer-drug lifestyle. Pressure to perform, stay sharp, put in a crazy number of hours all week, and com- pete with the smiling sharks they swim with—yeah, they need escapes and edges just like anyone else. Even the ones who already have it all are looking for the next big joyride, and even in the age of digital trips, pharma can still deliver. >> CHROME FLESH << 170    QUICK & DIRTY AUGMENTATIONS >> \n===== PDF_IDX 171 PRINT~171 =====\nTHE TACTICS OF GETTING HIGH There’s another upside to drugs that ’ware can’t match: flexibility. You get muscle implants, and they’ll make you stronger. That’s what they do. It’s what they’ll al- ways do. It’s all they’ll do. For the same price I could get whole kilos of speed or even the new designer drugs making the rounds. A different patch for every occa- sion. Something to make you fast, take away your pain, boost your brains, or buff your brawn. A pocket full of options. A good long toke of deepweed can make any competent brawler an astral asset. Think about when you face off against a tweaker and he doses a tab. What is it doing to him? How is it chang- ing the fight? You don’t even know. There’s the outside chance it’ll make him slow or sloppy, but right now, he might be sharper, faster. Hell, if it was the right BAD, you are now fighting a regenerator. And the worst part is, until it’s too late, you have no idea what he is capable of.
+[53] line~260 TEXT: Lone Star SOP with an obvious juicer is to taze ’em until they’re comatose. If that doesn’t work, lethal force is authorized. The last thing you need is some psychopathic MPCP freak tearing through people like tissue paper.
+[54] line~265 HANDLE: Hard Exit
+[55] line~267 TEXT: Something that always gets me: A lot of drugs offer some inherent resistance to mind control spells. If their thoughts are too slippery to get a hold on, the drugs can keep an interloper from taking control.
+[56] line~272 HANDLE: Red
+[57] line~274 TEXT: True, but plenty of other narcos can work just as well to make them much more susceptible. These are usually the recreational drugs you see at parties or in dens. Combat drugs are the ones that can shake you off.
+[58] line~279 HANDLE: Lyran
+[59] line~281 TEXT: An interesting thing: Drugs and chips can work wonders when fighting shedim, especially against that fear effect that surrounds them.
+[60] line~285 HANDLE: Turbo Bunny
+[61] line~287 TEXT  <-- single line, NOT in whitelist (check manually): A false skin of courage cannot hold true terror within.
+[62] line~289 HANDLE: Man-of-Many-Names
+[63] line~291 TEXT: For once I know what he’s saying. Using drugs and chips as a substitute for actual morale and courage is a shoddy tactic. The moment the protection of the drug slips and fear overcomes the soldier, it totally overwhelms them.
+[64] line~296 TEXT: Picador EVERYDAY DOSE People don’t like to think of themselves as addicts, but pharmaceuticals have become as much a part of our lives as food, air, and water. In fact, if you’re living la vida corporata, it’s probably mixed into all three. The differ- ence between a drug and everyday nutrients and sup- plements is a cultural one, and when Big Brother Corpo- ration tells you it’s not a narcotic, you’ll take their word for it. They’ve got the marketing skills to make it so. So what is your average wageslave dosing? Well, they’re aware of things like cram and EZBreathe, but they aren’t thinking about the stuff the corp is giving them for “free.” Things like antidepressants in the drink- ing water.
+[65] line~312 TEXT  <-- single line, NOT in whitelist (check manually): “Do you know what ‘fluoridation’ is, Mandrake?”
+[66] line~314 HANDLE: Red
+[67] line~316 TEXT  <-- single line, NOT in whitelist (check manually): What?
+[68] line~318 HANDLE: /dev/grrl
+[69] line~320 TEXT  <-- single line, NOT in whitelist (check manually): Here we go again …
+[70] line~322 HANDLE: Red
+[71] line~324 TEXT  <-- single line, NOT in whitelist (check manually): I can verify this.
+[72] line~326 HANDLE: Nephrine
+[73] line~328 TEXT  <-- single line, NOT in whitelist (check manually): Any proof?
+[74] line~330 HANDLE: Snopes
+[75] line~332 TEXT: Uploading sample reports from my own lab and examinations.
+[76] line~335 HANDLE: Nephrine
+[77] line~337 TEXT  <-- single line, NOT in whitelist (check manually): Holy drek …
+[78] line~339 HANDLE: Snopes
+[79] line~341 TEXT: How do they dose everyone without causing widespread chemical imbalances in everyone drinking it?
+[80] line~344 HANDLE: Aufheben
+[81] line~346 TEXT: By adjusting dosages in waves. You gradually scale it up and down over time, which prevents anyone from developing any noticeable maladjustments, while maintaining limitations on mood and excitement and not building up an immunity. Individual cases can be monitored and countered by corporate medical care.
+[82] line~353 HANDLE: Butch
+[83] line~355 TEXT: Drugs to counteract the drugs, and any excuse they want to give to explain it away. Fuck.
+[84] line~358 TEXT: Ecotope >> CHROME FLESH << << QUICK & DIRTY AUGMENTATIONS    171 \n===== PDF_IDX 172 PRINT~172 =====\n> Plenty of them actively go for it. Those who know about it are counseled into seeing it as a perks package. You’re probably already considering antidepressants, and going back to your doss after an eighteen-hour workday to your AR decorations, games, and simdramas. If the corp is offering something to help you make it through the day, why would you say no?
+[85] line~370 HANDLE: Baka Dabora
+[86] line~372 TEXT: Note that upper-level execs aren’t drinking the water, as it were. They’ve got perk packages to keep them in line, and they already exhibit initiative and skill to get where they are, demonstrating ambition and loyalty. The drugs can dull creative thinking just as well as they numb discontent and rebellion. There’s a reason execs tend not to worry about people from below stealing their jobs.
+[87] line~380 HANDLE: Kia
+[88] line~382 TEXT  <-- single line, NOT in whitelist (check manually): This is disgusting.
+[89] line~384 HANDLE: Aufheben
+[90] line~386 TEXT: If it makes you feel any better, they’re unlikely to use it in most places. Why bother pumping happy in the air or into the cafeteria drinking water unless it is cost-effective to do so? You’ll find it among low-level workers at isolated locations, or line workers in places more likely to cause depression and anxiety, usually enclosed environments like arcologies or aquacologies.
+[91] line~394 HANDLE: Kia
+[92] line~396 TEXT: Makes you wonder how many would-be geniuses are suppressed among the sararimen.
+[93] line~399 HANDLE: The Smiling Bandit
+[94] line~401 TEXT  <-- single line, NOT in whitelist (check manually): Or how many revolutionaries.
+[95] line~403 TEXT: Marcos There’s plenty of other stuff people take but don’t think of as a narcotic. Betel, for example. Folks are chew- ing it at Wuxing and Shiawase all the time. You can tell by the sharp, distinctive herbal scent in their breath, al- most like licorice, and the bluish stain on their teeth. And they’re wired like they’ve had a couple shots of espresso.
+[96] line~411 TEXT  <-- single line, NOT in whitelist (check manually): CorpCandy: Not even once.
+[97] line~413 HANDLE: Netcat
+[98] line~415 TEXT  <-- single line, NOT in whitelist (check manually): I still don’t see what the problem is.
+[99] line~417 HANDLE: Slamm-0!
+[100] line~419 TEXT: In your case, never again. Your drool stained the sheets black.
+[101] line~422 HANDLE: Netcat
+[102] line~424 TEXT  <-- single line, NOT in whitelist (check manually): Awww …
+[103] line~426 TEXT: Slamm-0! DAYTRIPPERS And then there’s the stuff everyone knows is a drug, but doesn’t cross the line into “unreasonable.” Deep- weed, novacoke, betameth, and there’s plenty of mar- ket for classics like old-school LSD, marijuana, amphet- amines, and more. And of course, booze never goes out of style.
+[104] line~435 TEXT: Booze takes on new dimensions when you consider the complexities of elven wines.
+[105] line~438 HANDLE: Thorn
+[106] line~440 TEXT  <-- single line, NOT in whitelist (check manually): Or the sheer power of hurlg.
+[107] line~442 HANDLE: 2XL
+[108] line~444 TEXT  <-- single line, NOT in whitelist (check manually): Hurlg: The booze that tastes like it sounds.
+[109] line~446 HANDLE: Lyran
+[110] line~448 TEXT: I doubt many of you have much use for this, but when an Infected feeds on the blood of someone who is drunk, the metabolized alcohol packs as much of a punch for us as it does for the one who drank it. I think the same goes for drugs, though I haven’t run into that happening, personally.
+[111] line~455 HANDLE: Red
+[112] line~457 TEXT: Ditto for ghouls, though meat that isn’t fresh won’t maintain the buzz. You can just tell it was there.
+[113] line~460 HANDLE: Hannibelle
+[114] line~462 TEXT  <-- single line, NOT in whitelist (check manually): Gross.
+[115] line~464 HANDLE: Slamm-0!
+[116] line~466 TEXT: You want gross? Blood with P4MO in it. Tastes like plastic. Can’t stand the taste whatsoever.
+[117] line~469 HANDLE: Red
+[118] line~471 TEXT  <-- single line, NOT in whitelist (check manually): Something to bear in mind …
+[119] line~473 TEXT: Clockwork The newest fad is binaural beats, sonic playback that gets you high in different ways depending on tones and vibrations. It can be done with a high-quality set of ear- buds, implants, or a kind of specialized drug den the kids are calling “Noize Holes.”
+[120] line~480 TEXT: I’ve been to one of those. It’s like a sensory deprivation tank with a serious stereo system. I didn’t try it myself, I was working, but the people getting out were dazed and happy.
+[121] line~485 TEXT: /dev/grrl >> CHROME FLESH << 172    QUICK & DIRTY AUGMENTATIONS >> \n===== PDF_IDX 173 PRINT~173 =====\n> It’s pretty cool. I tried it out at an after-party in LA maybe two weeks ago. I felt super calm and relaxed, like right after taking a nap. My drummer, on the other hand, puked his guts out.
+[122] line~494 HANDLE: Kat o’ Nine Tales
+[123] line~496 TEXT: The theory has been around since the nineteenth century. In effect, it’s the emulation of brain-generated low- frequency pulsations when two tones at close frequencies are presented separately to each ear. Difference in tone can result in a number of effects.
+[124] line~502 HANDLE: The Smiling Bandit
+[125] line~504 TEXT: You can find them for digital download from a few sites. At least, you can find some that are supposedly for meditation or de-stressing. Makes me wonder if there is a BTL equivalent …
+[126] line~509 HANDLE: Turbo Bunny
+[127] line~511 TEXT: Sure. And your brains are literally scrambled by sonics. Might as well put one of those Ares sonic rifles up to your head.
+[128] line~515 HANDLE: Goat Foot
+[129] line~517 TEXT: What I’m curious about is how it would interact with other drugs. A tab of bliss and one of those sonic dens with a sensory deprivation tank—who knows how calm a human being can get?
+[130] line~522 HANDLE: Nephrine
+[131] line~524 TEXT: Given what I’ve seen when people mix BTLs and plain old narcos, you can calm yourself right into a coma.
+[132] line~527 HANDLE: Turbo Bunny
+[133] line~529 TEXT: Some high-end alternative clinics offer it as an Awakened- friendly anesthetic option.
+[134] line~532 TEXT: Butch And let’s not forget chips. BTL or bust, that was the motto of the ’50s. You’re no doubt already familiar with the old classics. Not a lot has been done to innovate in that region, so most of what hits the streets is just new takes on what we’ve seen before. Polite society is having fun with Soma Chips, little personafix chips that make you want to work out. BTL it’s not, but it’s popular for the lazy sarariman. Most BTLs are just standard sims without limiters, meaning movies, porn, and recordings taken past normal sensation.
+[135] line~544 TEXT: Custom and dedicated BTL productions tend to follow the trends the same, but more in the spirit of productions than the literal product. Taboos people get fascinated about but can’t talk about in polite society. For example, there’s a kink about body snatching with all the hoopla about Boston and CFD going on. Some of the bestsellers right now are based on the fantasy of someone you like getting their brain taken over and turning them into someone who actually wants to fuck you. The really weird ones try to mix personafix and alien sensates to make you “experience” being taken over and turned into … well, whatever the chip is selling. Terrorist, nymphomaniac, etc. Same crap as always, just a different story about how you get there.
+[136] line~559 HANDLE: Turbo Bunny
+[137] line~561 TEXT: Who would want to fantasize about being brainjacked? That’s disgusting.
+[138] line~564 HANDLE: Bull
+[139] line~566 TEXT  <-- single line, NOT in whitelist (check manually): I wouldn’t jump to conclusions.
+[140] line~568 HANDLE: Plan 9
+[141] line~570 TEXT  <-- single line, NOT in whitelist (check manually): Watch it, Plan. We’re still keeping an eye on you.
+[142] line~572 HANDLE: Slamm-0!
+[143] line~574 TEXT: People get up to stranger things in meatspace wherever magic is concerned.
+[144] line~577 HANDLE: Jimmy No
+[145] line~579 TEXT  <-- single line, NOT in whitelist (check manually): Or anywhere there’s money.
+[146] line~581 HANDLE: Frosty
+[147] line~583 TEXT  <-- single line, NOT in whitelist (check manually): Or anywhere at all.
+[148] line~585 TEXT: Kane WIZ AND BANG Bio-Awakened drugs. BADs. The combination of mag- ic and narcotics to give you a high literally out of this world. Most folks don’t know what tempo really did to people, and they eagerly await the next South Ameri- can innovation to hit the streets since the majority of the tempo supply has run dry.
+[149] line~594 TEXT  <-- single line, NOT in whitelist (check manually): And you’re not in that group?
+[150] line~596 HANDLE: Pistons
+[151] line~598 TEXT: Look, I know you don’t trust me. And given what we’ve learned about flipside, I don’t blame you. Moreover, I feel the same way. The time I lost is the time I might have done the things you think I did. I can’t feel guilt over actions I didn’t choose to take, but I still wake up nights in a cold sweat wondering who I might have hurt. Sometimes the dreams feel like memories, and I don’t like what I see. That’s on me. So say what you’ve got to say, punish me as long as you think it’s necessary. There is honestly nothing you can do to me that’s worse than this uncertainty.
+[152] line~609 TEXT: Haze >> CHROME FLESH << << QUICK & DIRTY AUGMENTATIONS    173 \n===== PDF_IDX 174 PRINT~174 =====\nThe thing is, magical means of getting high go back to the Oracles of Delphi, Native American vision quests, and all kinds of stuff all over the world. The latest thing to hit the streets is oneiros, a vaporized mixture of Awak- ened reagents refined and inhaled to provide dream- like visions that often seem to have prophetic meanings. So far, no signs of any untoward bodyjacking or any- thing else sinister, but I’m the first person to tell you to have someone keep an eye on you. Things like Animal Tongue and Immortal Flower have been around a while and seem safe enough.
+[153] line~624 TEXT  <-- single line, NOT in whitelist (check manually): Sounds like he’s trying to turn over a new leaf, to me.
+[154] line~626 HANDLE: Arete
+[155] line~628 TEXT  <-- single line, NOT in whitelist (check manually): You’re forgetting that Haze is a manipulator. That’s his MO.
+[156] line~630 HANDLE: Pistons
+[157] line~632 TEXT  <-- single line, NOT in whitelist (check manually): We all are, Pistons. Maybe cut him a little slack.
+[158] line~634 TEXT: Glitch THE SMOKING EDGE So whats around the corner? What new innovations can we expect from the likes of corporate manufacto- ries, basement labs, and Ghost Cartel fields? Here’s a sample of some of the highlights that have floated to me through the grapevine. First up is the legal shit. You can find this in any phar- macorp’s stockholder projections, but it’s worth men- tioning. Shiawase is promising big returns on an upgrade to analgesics with something they are calling Salvatol, and a combination nutrient concentrate laced with ap- petite suppression for dieters called TrimLine.
+[159] line~648 TEXT  <-- single line, NOT in whitelist (check manually): So, an actual meal pill?
+[160] line~650 HANDLE: Nephrine
+[161] line~652 TEXT: Am I the only one who looks around every now and again and realizes this is the future?
+[162] line~655 HANDLE: Red
+[163] line~657 TEXT  <-- single line, NOT in whitelist (check manually): Just the loudest about it.
+[164] line~659 HANDLE: /dev/grrl
+[165] line~661 TEXT  <-- single line, NOT in whitelist (check manually): This’ll be killer for long-term sniper roosts.
+[166] line~663 HANDLE: Balladeer
+[167] line~665 TEXT: I wouldn’t give too much credence to these claims. There will be projects underway along those lines, but predictions are always optimistic to charm potential investors and reassure current shareholders.
+[168] line~670 HANDLE: Mr. Bonds
+[169] line~672 TEXT: Still worthwhile to know. Projects underway and suspicious investors means extractions and data runs. Money to be made.
+[170] line~676 TEXT: Rigger X Ares Biotech has announced big progress on anti-re- jection drugs for cybernetics and bioware that have less addictive effects and work faster and with less stress to the system. The spooky part is where rumors say they come from, everything from tamed e-ghosts in nanites to some captive bug byproduct. Not sure how much credit it deserves, considering how bad Ares is doing in the PR department, but you never know. Aztechnology is making a big deal out of their latest prescription, Cereprax, which is supposed to boost intel- ligence and intuition for a while. No doubt there’s a lot of grad students and a load of corp-lab eggheads enjoying the fruits of the formula’s leak last month. It doesn’t have an official release date yet.
+[171] line~692 TEXT: This stuff isn’t ready for public consumption. I’ve seen a lot of early users on my table after an OD. There’s a cool-down period, but no one has pinned down what it is just yet. If you overdose, you can expect cerebral hemorrhaging and permanent brain damage at worst, a month of literally blinding migraines and slowed mental capacity at best. and the worst part is that it is psychologically very addictive. Most of my patients say they don’t feel like their real self when they aren’t on it. I’ve heard that song before, but this is scarier, because when they get it, they use all that artificial intellect to justify the next dose.
+[172] line~704 HANDLE: Butch
+[173] line~706 TEXT: If I had to guess, the dosage needs to be carefully regulated for every individual based on their brain chemistry. A round dosage for off-the-shelf purchases is going to take time, additional limiters, and the results will be much less dramatic than they currently appear.
+[174] line~712 HANDLE: Nephrine
+[175] line~714 TEXT: If you’re determined to try this, don’t mix it with anything else. I saw a grad student at SU mix it with cram. Her eyes lit up with understanding exactly long enough to figure out what a huge mistake she’d made. By the time the ambulance got there, she was already brain dead.
+[176] line~720 TEXT: Red In the independent entrepreneurial side of things (read: illegal), the streets are coming up with all kinds of stuff. Or, in the case of Resonator, stealing it. Word is some runners pulled a smash-and-grab on NeoNET labs in Manhattan and got the prototype of a drug for vir- tuakinetics. It’s all too complicated for me, but it’s sup- posed to increase their connection to the Resonance. >> CHROME FLESH << 174    QUICK & DIRTY AUGMENTATIONS >> \n===== PDF_IDX 175 PRINT~175 =====\n> Like I’m going to trust anything NeoNET makes for a technomancer.
+[177] line~734 TEXT: Netcat The Ghost Cartels are still hard at work on their new- est innovation. While their production of normal street treats continues unabated, they’re looking to expand selection, especially among performance enhancers. Whipcrack is a new reflex-booster that’s supposed to give users the speed of a fully wired samurai, but so far it’s only produced corpses. Honesty is less a thrill shot and more of a tool, acting as a safe, reliable, potent truth serum. It’ll probably get released when they can keep the effects from being permanent.
+[178] line~746 TEXT: I doubt that’s kept them from using it on people they don’t give a drek about.
+[179] line~749 HANDLE: Glasswalker
+[180] line~751 TEXT  <-- single line, NOT in whitelist (check manually): I’ll still keep faith with Mind Probe spells.
+[181] line~753 HANDLE: Lyran
+[182] line~755 TEXT  <-- single line, NOT in whitelist (check manually): Not all of us have the luxury of magic.
+[183] line~757 HANDLE: Marcos
+[184] line~759 TEXT: I’ve seen the leaked research on whipcrack. The speed is unbelievable, but the body literally burns itself out, over- processing nutrients and straining muscles and ligaments until they snap.
+[185] line~764 HANDLE: Nephrine
+[186] line~766 TEXT: The cartels might not want to release honesty until the bugs are worked out, but I guarantee you that someone out there is going to use it as extortion material. “Pay me a billion nuyen or you’ll never be able to lie for the rest of your life.” Hell, now that I’ve mentioned it, I’m beginning to think about how I can get in on it.
+[187] line~773 TEXT: Cayman Chip tech took a slump for a little while during the tempo craze, but with the BAD backlash, they’re seeing a resurgence, especially since developers decided to start exploring new avenues of use that BADs couldn’t touch. The first is something Evo has been working on: PsychChips. The idea is to create a chip that offers a crutch for psychological issues. This isn’t like your nor- mal HeadShrinker PersonaPal or FreudSim. This inserts engrams that compensate for phobias, compulsions, things like that.
+[188] line~785 TEXT: The idea is noble enough, but it’s based off traditional brainwashing tech. Aversion therapy stuff. The whole carrot-stick method is effective for retraining the brain, but chips like this end up making the brain weaker as it learns something else is doing its work for it. The user needs more and more powerful chips to compensate, and if they stop jacking them, the problem comes back with a vengeance. Like, crippling. If the backlash is too bad, it can break the user’s grip on reality completely.
+[189] line~795 HANDLE: Plan 9
+[190] line~797 TEXT: I thought that was going to be conspiracy drek, but yeah, this checks out completely.
+[191] line~800 HANDLE: Snopes
+[192] line~802 TEXT  <-- single line, NOT in whitelist (check manually): Oh ye of little faith.
+[193] line~804 TEXT: Plan 9 Much more extreme are reports of an entirely new way to augment: BodyBenders. These chips are rumored to use BTL psychotropics to stimulate subconscious, psychosomatic genetic rewiring. Plug in a chip and it will stimulate muscle growth, neural reconnections, you name it. Right now, it’s all drawing board stuff, but if it works out, it’ll be the next step in augmentation, and a whole new school of science.
+[194] line~814 TEXT: Blue sky research at best. More likely pink clouds. The theory is enticing, but the science simply isn’t there to support it as of yet.
+[195] line~818 HANDLE: The Smiling Bandit
+[196] line~820 TEXT: That’s not stopping Wuxing, Aztechnology, and Truman Technologies from giving it the old college try.
+[197] line~823 TEXT: Cosmo The scariest thing said to be in development are Ghost Chips. Based off a rumored technology devel- oped by Global Technologies back in the ’50s, these personafixes are supposed to come with complete skillsuites, eliminating the need for skillwires. The spooky part? They’re supposed to be made by trap- ping e-ghosts and using the skills they have on de- mand.
+[198] line~833 TEXT  <-- single line, NOT in whitelist (check manually): No. Fucking no.
+[199] line~835 HANDLE: Slamm-0!
+[200] line~837 TEXT: Looks like Global Technologies is a relatively recent acquisition for Horizon. Before that, they were part of NeoNET. If this is true, they’ve got the resources, before and after.
+[201] line~842 HANDLE: Cosmo
+[202] line~844 TEXT: Whatever the tech was back then, it must have had some serious bugs if we aren’t hearing about it until twenty years later.
+[203] line~848 TEXT: Bull >> CHROME FLESH << << QUICK & DIRTY AUGMENTATIONS    175 \n===== PDF_IDX 176 PRINT~176 =====\nBADS COMPLIANCE, BOTTLED SPELLS, AWAKENING Even though lots of potential replacements are coming up,  don’t count BADs out just yet (though the stuff I’m hearing about makes the chips sound downright rea- sonable). First up is compliance, a mix of radicals meant to make the subject more susceptible to mental influ- ence and mind control. You sneak it into the target and they’re ready for persuasion.
+[204] line~862 TEXT  <-- single line, NOT in whitelist (check manually): Right up your alley.
+[205] line~864 TEXT: Pistons Next is zombie dust. Not to be mistaken for trance, zombie dust prepares the user for possession right away. I don’t trust this stuff whatsoever, but I imagine a voudoun might shoot a dart of it into an opponent and conjure up a loa.
+[206] line~871 TEXT: This makes me nervous as hell. Imagine what a shedim might do with this.
+[207] line~874 HANDLE: Red
+[208] line~876 TEXT: Think it might make targets for inhabitation take an insect spirit easier?
+[209] line~879 HANDLE: Ethernaut
+[210] line~881 TEXT  <-- single line, NOT in whitelist (check manually): Let’s hope not.
+[211] line~883 TEXT: Sticks Now we get to the insane stuff. Bottled spells. Al- chemy spells applied as an injection. You shoot up the juice and you’ve got a spell on call, ready to be cast drain-free. Pure rumors, of course, nobody even claims to know a guy who has seen it, but you can bet the Pow- ers-That-Be want to make magic on tap, and collect the price tag to match. The most outrageous is something folks are calling wake up. Supposedly a mixture of the rarest, most mag- ically active reagents, grown in mana-rich environments or even somehow retrieved from the metaplanes them- selves, it supposedly can endow someone with magic. Some say it’s something you can keep taking to keep the powers; others say once you’re Awakened, you’re a mage for good. This urban myth has been around since the Awakening, and while I don’t give it one second of credence, you can bet there’s research on it.
+[212] line~902 TEXT: There is, and has been since the Awakening. Probably always will be, seeing how magic just keeps showing us new things no matter how deep we go.
+[213] line~906 TEXT: Ethernaut SPEEDBALLING For the user who needs to get higher, faster, it is possible to mix narcotics together. Sometimes called “cocktailing,” different recipes often become vogue in the club and drug scene. Characters who mix drugs add 1 to the Addiction Ratings of all drugs involved. PORTABLE CHEMICAL INJECTOR An external auto-injector, the PCI can be operated with the push of a button or controlled wirelessly. It comes in three sizes, each capable of holding a different number of chem doses. The wrist model is worn like a watch. The thigh model straps on like a gun holster. The harness is worn much like a double shoulder holster and can feed massive amounts of chemicals into the user. Wrist: 3 doses, 500 nuyen Thigh: 5 doses, 750 nuyen Harness: 20 doses, 2,500 nuyen No chemicals are included in the cost of the injector EVERYDAY PHARMA Versaception: Birth control for women. Contrax: Birth control for men. Alphasprin: Extra strength analgesics. EZBreathe: Lozenges that offer relief from pollution-based breathing troubles. Especially popular in high-density smog zones such as Tenochitlán (provides +1 dice pool modifier on pollution-based fatigue tests while in use; see p. 147, Run & Gun). VitaMax: A massive multivitamin. Also available as a gummy for kids called VitaBombs, about the size of a fist and available in four exciting flavors: Red, Blue, Orange, and Mystery! Remember to not eat it all at once. ComaDoze: Extra-strength sleeping pills. Trimline: An appetite suppressant, Trimline extends time before taking starvation penalties by fifty percent. Beta Inhibitors: Popular sex drug. Also mixed with downers to counteract drowsiness. >> CHROME FLESH << 176    QUICK & DIRTY AUGMENTATIONS >> \n===== PDF_IDX 177 PRINT~177 =====\n> There is magic waiting in all things, if one knows how to find it, and doesn’t fear what they find.
+[214] line~949 HANDLE: Man-of-Many-Names
+[215] line~951 TEXT: Are you saying you know how to bring about Awakening with alchemy?
+[216] line~954 HANDLE: Plan 9
+[217] line~956 TEXT: He doesn’t. He’d be rich beyond the dreams of avarice if he could.
+[218] line~959 HANDLE: Jimmy No
+[219] line~961 TEXT: I am already rich in the ways that matter. What matters is how I use it.
+[220] line~964 HANDLE: Man-of-Many-Names
+[221] line~966 TEXT  <-- single line, NOT in whitelist (check manually): So you can do it?
+[222] line~968 HANDLE: /dev/grrl
+[223] line~970 TEXT  <-- single line, NOT in whitelist (check manually): Even the immortals can’t grant magic. Even dragons.
+[224] line~972 TEXT: Man-of-Many-Names POSTED BY: NEPHRINE Everyone is always looking for an edge on the streets, but for many folks, cyberware, nanotech, and bioware aren’t always an option, for some reason or another. It could be because of cost, fear of losing themselves (literally, with CFD), lack of time for surgery or medical consults, or something else entirely. More and more people are looking for that cheap, quick boost, and these days often it comes in the form of pharmaceuti- cal enhancement. Drugs provide a quick, temporary boost to give the edge that might mean the difference between life and death. Because of this, business is booming, and every- one wants a piece of the action even if they don’t want to publicly admit it. The megacorps know that they have to do something to keep up with the runners who are coming to get their secrets, assets, or personnel. Cyber- ware isn’t an option because of cost and training takes time. More and more, the corps are turning to drugs to give their guards the boost they need to stand up to run- ners. Even if one in ten gets hooked on the combat drug they use to survive against runners, it is far cheaper than the funeral and death benefits they would have to pay out otherwise.
+[225] line~998 TEXT: The quality of life of the security guards matters not a bit to the corps. They are happy to addict them, wring them out, and throw them away. The main reason they provide pre-natal care to pregnant corp citizens is to help breed the next generation of security guards and other menial workers when they wring the current generation out.
+[226] line~1005 HANDLE: Cosmo
+[227] line~1007 TEXT: Then, once they are hooked, they have corporate dealers who unofficially keep these addicts supplied.
+[228] line~1010 HANDLE: Butch
+[229] line~1012 TEXT: Sometimes they supply the drugs in an official capacity. It depends on the local acceptance of drug use and how the corporation markets a specific drug to the public.
+[230] line~1016 TEXT: Dr. Spin The megacorps, as always, are working an angle on this. They can beat street dealers on price and reliabili- ty of product (street cooks have the advantage of being close to home, if you live in a barrens, and sometimes their product beats the hell out of watered-down corp drek), but that’s not always enough. They are working on a new generation of drugs that is tailored to individual users, using processes your independent dealer is going to have trouble replicating. Everyone’s needs are different. What gives you the edge to survive on the street might do nothing for me. Corp-manufactured street drugs have evolved in an effort to give that needed edge, so you have to figure out what works for you. The most obvious example of this evolu- tion is the creation of customized drugs. These drugs are built off a foundation and then modified and enhanced to suit a particular user’s needs. Though made in high-tech corporate labs, these customized drugs are just begin- ning to filter down to the streets. And those running the shadows are embracing these drugs and using them in ways the manufacturer never originally imagined.
+[231] line~1039 TEXT: The corps may not have imagined the uses, but unless it’s used against them directly, they don’t care. The money from unintentional sales spends the same.
+[232] line~1043 HANDLE: Slamm-0!
+[233] line~1045 TEXT: That’s the thing, though. Some of the drugs they created to help scientists find the next advancement in their field also allow a combat mage to cast more powerful spells when stealing the paydata.
+[234] line~1050 TEXT: Lyran The advantage of tailoring customized drugs to your needs can’t be understated. Tailoring also allows you to build a big boost to pull your hoop out of the fire without having to worry about drug interactions messing you up.
+[235] line~1056 TEXT: If you inject two different customized drugs, you can still end up with an unforeseeable interaction.
+[236] line~1059 HANDLE: Butch
+[237] line~1061 TEXT: That’s why you build multiple customized drugs, each one for a different purpose.
+[238] line~1064 TEXT: 2XL >> CHROME FLESH << << QUICK & DIRTY AUGMENTATIONS    177 \n===== PDF_IDX 178 PRINT~178 =====\n> That’s all well and good until you’re addicted to them all and need to constantly use to stay sane.
+[239] line~1071 TEXT: Turbo Bunny Not all drugs are created equal. How your street gang mixes drugs to keep cost down isn’t the same as how it’s done in a controlled lab. Drugs straight from the lab are purer and contain less filler, which means they can get the same effects with a smaller dosage and few- er side effects. This purity is expensive to achieve, and therefore more expensive to get hold of.
+[240] line~1080 TEXT: Those who can get the top-end drugs are connected to some corporation, and if you want to keep getting the good stuff, it’s important to know what corporation that is.
+[241] line~1084 HANDLE: Turbo Bunny
+[242] line~1086 TEXT: More importantly, who is your dealer more loyal to, you or their corporate connection?
+[243] line~1089 TEXT: Am-mut DRUG INTERACTIONS Taking multiple drugs, even when under a doctor’s supervision, can be tricky. Doing it on your own us- ing street drugs can have all kinds of unintended side effects and consequences, and not good ones either. Whenever you use an additional drug while still under the effects of a drug, there is a chance of an inter- action. Even if you’ve mixed the same drugs before, there’s still the chance for a problem to occur. The more impurities in a drug, the more likely a bad reac- tion is to occur.
+[244] line~1102 TEXT: It isn’t just street drugs. A street samurai I used to run with used jazz on a regular basis to give him that edge during combat. He once got hit by a spell and was just about knocked out. Then he slapped on a stim patch to counteract the effects and went into cardiac arrest. There’s nothing as hair-raising as doing CPR on someone in the middle of combat.
+[245] line~1110 TEXT: Thorn The different elements used in various batches of a drug, the amount of impurities that may be present, and other elements make drug interactions unpredict- able. Sometimes you’ll get a harder crash, sometimes that crash will leap out and get you as soon as the drugs are imbibed, and sometimes you’ll get a terri- ble headache or horrible stomach cramps. Sometimes you’ll get nothing, which is enough to encourage peo- ple to give it a shot and ignore the possibility of an abrupt death. Because that’s another thing that hap- pens sometimes. AWAKENED DRUGS During the Awakening, some plants took on magical properties, and it didn’t take people long to start turn- ing some of these plants into drugs. Deepweed is the best known of these, though laés has been receiving more attention lately.
+[246] line~1129 TEXT  <-- single line, NOT in whitelist (check manually): A good scandal has a tendency to do that.
+[247] line~1131 TEXT: Cosmo The Aztlan-Amazonia war and exploration of wil- derness in other parts of the world have led to the dis- covery of more Awakened plants. With these discover- ies have come new drugs. Some of the recent arrivals that show potential to be useful in the shadows are forget-me-not, a drug to help resist mind-altering sub- stances and magic, and memory fog, which puts the user in an altered state of mind to help them endure something they might want to forget—or something the person who gave them the drug does not want them to remember.
+[248] line~1144 TEXT: When you’re under memory fog’s effects, it’s difficult to remember things that happened when you weren’t on the drug. Then when you’re off, it’s tough to remember what happened while you were on.
+[249] line~1149 TEXT: Turbo Bunny BIOENGINEERED AWAKENED DRUGS The public became acutely aware of bioengineered Awakened drugs (BADs) during the tempo crisis. While tempo has been contained (for the most part), several other BADs are beginning to hit the streets. None of them are as radical or dangerous as tempo, but at the same time they aren’t without risks. The two I know of are a magic-enhancer called Hecate’s blessing, and one called Ayao’s will that helps the mind resist magi- cal attempts to manipulate it.
+[250] line~1162 TEXT: Hecate’s blessing has the side effect of occasionally burning out the user by overloading their ability to channel mana.
+[251] line~1166 TEXT: Winterhawk BETTER-THAN-LIFE CHIPS Another way of getting a temporary boost is through the use of simsense chips, especially better-than-life chips (BTLs). Some feel BTLs are little more than elec- tronic drugs, but the reality is more complex, as some people use them actively rather than just enjoying them passively. Corps have enjoyed using designer chips for specific applications. Personafix chips (p-fix), for exam- ple, can help turn an ordinary schlub into the perfect >> CHROME FLESH << 178    QUICK & DIRTY AUGMENTATIONS >> \n===== PDF_IDX 179 PRINT~179 =====\nemployee with the needed skills. This is especially use- ful when the skills are rare or take a long time to learn.
+[252] line~1181 TEXT  <-- single line, NOT in whitelist (check manually): Why not just use skillwires instead of a p-fix?
+[253] line~1183 HANDLE: /dev/grrl
+[254] line~1185 TEXT: You see those used when a talented employee becomes a discipline or morale problem. Give them a quick bump back into the right path. It’s cheaper than skillwires. It can’t be an ongoing treatment, though, as the constant use of BTLs will eventually burn out the user.
+[255] line~1191 HANDLE: Kay St. Irregular
+[256] line~1193 TEXT: Rumors tell of a Sioux prison that uses p-fixes on the correctional officers.
+[257] line~1196 HANDLE: Mika
+[258] line~1198 TEXT: What do they gain from that, especially since Kay St. said this couldn’t be an ongoing treatment?
+[259] line~1201 HANDLE: /dev/grrl
+[260] line~1203 TEXT: It’s incredibly cost-effective. Prisoners cost money to keep and feed, and guards cost money too; by turning a prisoner into a guard, you use the money spent on a prisoner to pay a guard. The BTLs eventually wear off, the guard loses it, and the prisoners—who really hate these converted guards—tear into these guys. The corp claims they don’t owe any bereavement payments to family members, as the rights to such were forfeited when the prisoner was incarcerated, and they then look for their next candidate.
+[261] line~1214 TEXT: Clockwork More specialized p-fixes are just starting to reach the market. Some of these have the single use-and-erase function while others allow for continuous or repeated use. Other specialized p-fixes that are finding some use on the streets have been labeled berserker chips and bodyguard chips. The names are self-explanatory. With both of these chips, the RAS override feature is disabled, and the user retains the use of all their normal faculties in addition to what the chip provides.
+[262] line~1225 TEXT: This got me to thinking. A personafix chip overrides a person’s control and implements its own programing instead, suppressing the personality of the user. Could they be used to prevent a CFD personality from taking control?
+[263] line~1231 HANDLE: /dev/grrl
+[264] line~1233 TEXT: So you trade one type of loss of control for another. I don’t see the advantage.
+[265] line~1236 HANDLE: Slamm-0!
+[266] line~1238 TEXT: If your divergent personality is a rager or one of the other violent types, at least you know you (probably) wouldn’t be murdering your friends and family in one of your fugue states
+[267] line~1243 HANDLE: /dev/grrl
+[268] line~1245 TEXT: Or if you have your personality made into a p-fix, you could use it to stabilize yourself.
+[269] line~1248 HANDLE: Turbo Bunny
+[270] line~1250 TEXT: What would prevent the personality from infecting and overwriting the chip?
+[271] line~1253 HANDLE: Bull
+[272] line~1255 TEXT: Yeah, there’s always a hitch. But it could be useful for short-term stabilization—provided you still have a decent copy of your own personality.

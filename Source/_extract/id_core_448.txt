@@ -1,0 +1,141 @@
+have a SIN only if they have the SINner quality (p. 84). 
+Most runners don’t have one, either because they were 
+unfortunate enough to be born poor, or because they 
+lost it or ditched it somewhere along the way. SINs are 
+digital, not physical objects. They exist on your com-
+mlink, or in your PAN. 
+Getting by without a SIN can be a pain, so most run-
+ners settle for the next best thing: a fake. High quality 
+fakes are difficult for The Man to spot; low quality fakes 
+are … less good. The rating of the fake SIN is used in tests 
+against verification systems (Fake SINs, p. 367) .
+Just like a real SIN, anytime you use a fake SIN for le-
+gitimate activity, you leave a datatrail in your wake. The 
+fact that criminal activities can be tracked to fake SINs 
+makes fake SINs inherently disposable. Most runners 
+operate two or more fake SINs at a time, one for legal 
+activity like paying rent and going shopping, another 
+for shadier activity, and possibly a third to be used only 
+when it’s time to get the hell outta Dodge.
+Fake license: For those who can’t or won’t go through 
+the standard legal channels, fake licenses are available for 
+all kinds of restricted items and activities. Items with no 
+letter next to their availability don’t require licenses. Items 
+that are Forbidden have no license available. Licenses, 
+therefore, are for Restricted items. Each type of item/ac-
+tivity permission requires a separate license. Things that 
+require licenses include hunting (bow and rifle), posses-
+sion of a firearm, concealed carry of a firearm (separate 
+license), spellcasting, and any Restricted gear or augmen-
+tations, etc. Just as SINs essentially exist on your com-
+mlink, fake licenses exist on your SIN and are linked to it. 
+When you buy a fake concealed-carry license, you don’t 
+buy it for Murderman the professional shadowrunner, 
+you buy it for John Doe, one of Murderman’s fake SINs. 
+Each license must be assigned to a particular (fake) SIN of 
+the player’s choosing. Use the fake license’s rating against 
+verification systems (Fake SIN, p. 367). 
+TOOLS
+Building and repairing items requires the right tools for 
+the job. Tools must be bought separately for a specific 
+skill (for example, an Ar-
+morer shop, a Disguise kit, 
+a Nautical Mechanic facil-
+ity, etc.). A kit is portable 
+and contains the basic gear 
+to make standard repairs. 
+A shop is transportable in 
+the back of a van and con-
+tains more advanced tools 
+for building and repairing. 
+A facility needs a building 
+and is immobile because of the bulky and heavy ma-
+chines involved, but it can be used for very advanced 
+constructions and modifications. Shops and facilities are 
+both stocked with standard spare parts.
+There are some guidelines to help you figure out 
+when a kit, shop, or facility is necessary for a particular 
+job (Building & Repairing, p. 145). The gamemaster gets 
+final say, though, and might even tell you that you need 
+specific or unusual parts you have to get separately.
+OPTICAL AND 
+IMAGING DEVICES
+From wiz shades to bulky goggles, basic vision enhancers 
+are available in several forms. All such devices have—and 
+by default use—wireless capability, although you can use 
+a universal data cable for most of them. Each device has 
+a Capacity that allows you to add vision enhancements. 
+Some of these devices are worn, while others are external 
+sensor devices or even attached to weapons.
+Binoculars: Typically handheld, binoculars come 
+with built-in vision magnification. Binoculars are avail-
+able in optical (which can’t take additional vision en-
+hancements) and electronic versions (which can take 
+vision enhancements).
+Camera: A common visual device, cameras can 
+capture still photos, video, and trideo, including sound. 
+Cameras may also be upgraded with vision enhance-
+ments and audio enhancements. A micro version is 
+available with a Capacity 1.
+Contacts: The most recent display devices are worn 
+directly on the eyes. They are nearly undetectable, but 
+they offer a bit of space for enhancements. Contacts 
+have to be wireless; they don’t have room for a universal 
+data connector.
+Glasses: Glasses are lenses contained in light-
+weight frames worn on the bridge of the nose; numer-
+ous cosmetic styles are available, and vision-enhance-
+ment-equipped glasses are hard to distinguish from 
+prescription glasses or sunglasses at a glance.
+Goggles: Relatively large and bulky, goggles are 
+strapped to the head, making them difficult to dislodge. 
+>> STREET GEAR <<
+CREDSTICKS
+TYPE
+MAX VALUE
+AVAIL
+COST
+Standard
+5,000¥
+—
+5¥
+Silver
+20,000¥
+—
+20¥
+Gold
+100,000¥
+5
+100¥
+Platinum
+500,000¥
+10
+500¥
+Ebony
+1,000,000¥
+20
+1,000¥
+IDENTIFICATION
+TYPE
+AVAIL
+COST
+Fake SIN (Rating 1-6)
+(Rating x 3)F
+Rating x 2,500¥
+Fake license (Rating 1-6)
+(Rating x 3)F
+Rating x 200¥
+TOOLS
+TYPE
+AVAIL
+COST
+Kit
+—
+500¥
+Shop
+8
+5,000¥
+Facility
+12
+50,000¥
+<< Electronics    443

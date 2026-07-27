@@ -15,7 +15,7 @@ Commlinks are weaker; decks swap attribute arrays. Noise and distance impose pen
 
 ## Marks & hosts
 
-- Illegal actions place **marks** on targets (1–3).
+- Illegal actions place **marks** on targets (1-3).
 - More marks unlock more powerful actions (file edit, reboot, dumpshock, etc.).
 - **Hosts** are rated systems (corp sites, security) with their own attributes and IC.
 
@@ -25,7 +25,7 @@ Matrix actions are Free / Simple / Complex like meat actions and share Initiativ
 
 ## Overwatch & GOD
 
-Illegal actions build **Overwatch Score**. When it hits the limit, **GOD** convergence dumps and traces you — bad news.
+Illegal actions build **Overwatch Score**. When it hits the limit, **GOD** convergence dumps and traces you - bad news.
 
 ## Cybercombat
 

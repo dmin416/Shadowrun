@@ -1,0 +1,147 @@
+===== PAGE 499 =====
+CHARACTER ________________________
+PLAYER ___________________________
+NOTES ____________________________
+© 2013 The Topps Company, Inc. Shadowrun is a registered trademark of The Topps Company, Inc., in the United States and/or other countries. Permission given to copy for personal use.
+PERSONAL DATA
+IDs / LIFESTYLES / CURRENCY
+ATTRIBUTES
+CORE COMBAT INFO
+QUALITIES
+CONDITION MONITOR
+NAME/PRIMARY ALIAS
+Quality Notes Type
+Physical Damage Track Stun Damage Track
+Body Essence
+Characters have 8 + (Body ÷ 2, round up) boxes on 
+the physical damage track; black out extra boxes.
+Characters have 8 + (Will ÷ 2, round up) boxes on 
+the stun damage track; black out extra boxes.
+Agility Magic/Resonance
+Reaction Initiative
+Strength Matrix Initiative
+Willpower Astral Initiative
+Logic Composure
+Intuition
+Edge
+Judge Intentions
+Lift/Carry
+Charisma
+Edge Points
+Physical Limit: Mental Limit: Social Limit:
+Memory
+Movement
+Primary Lifestyle
+Primary Armor
+Primary Ranged Weapon
+Primary Melee Weapon
+Rating
+Metatype
+Nuyen
+Age
+Fake IDs / Related Lifestyles / Funds / Licenses
+Street Cred
+Karma Total Karma Misc
+Notoriety Public Awareness
+Sex Height Weight
+Ethnicity
+Licenses
+Dam Acc AP Mode RC Ammo
+Reach Dam Acc AP
+P / N
+P / N
+P / N
+P / N
+P / N
+P / N
+P / N
+P / N
+P / N
+P / N
+SKILLS
+Skill RTG Type Skill RTG Type
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+A / K
+-1
+-2
+-3
+-4
+-5
+-6
+-1
+-2
+-3
+-4
+CONTACTS
+Name Loyalty Connection Favor
+Overflow
+For every 3 boxes of damage on any 
+one damage track, the character 
+takes a –1 Dice Pool modifier on 
+tests; these modifiers are cumulative 
+within and across damage tracks, 
+see Wound Modifiers, p. 169.
+===== PAGE 500 =====
+CHARACTER ________________________
+PLAYER ___________________________
+NOTES ____________________________
+© 2013 The Topps Company, Inc. Shadowrun is a registered trademark of The Topps Company, Inc., in the United States and/or other countries. Permission given to copy for personal use.
+MELEE WEAPONS
+ADEPT POWERS OR OTHER ABILITIES
+SPELLS / PREPARATIONS
+RITUALS / COMPLEX FORMS
+Weapon Dam Acc AP Mode RC Ammo Weapon Reach Dam Acc AP
+Name Rating Notes
+S/P/R/CF Type/Target Range Duration Drain
+VEHICLE
+Vehicle Handling
+Acceleration Speed
+Pilot Body
+SensorArmor
+Notes
+AUGMENTATIONS
+GEAR
+Augmentation Rating Notes Essence
+Item Rating
+RANGED WEAPONS
+ARMOR
+Armor Rating Notes
+CYBERDECK
+Model Attack Sleaze
+Device Rating Data Processing Firewall
+Programs
+Matrix Condition Monitor 1 2 3 4 5 6 7 8 9 10 11 12

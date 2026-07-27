@@ -1,0 +1,652 @@
+
+
+===== PDF page 5 =====
+BUILDING THE  
+     PERFECT BEAST	
+150
+MODIFICATION RULES	
+151
+Parts and Plan	
+151
+Tools	
+151
+Skill	
+151
+Modification Slots	
+151
+Removing Modifications	
+152
+VEHICLE EQUIPMENT	
+152
+Morphing License Plate	
+152
+Spoof Chip	
+152
+Road Strips	
+152
+Special Tires	
+153
+Tool Kit	
+153
+MODIFICATION LIST	
+154
+Power Train	
+154
+Acceleration Enhancement	
+154
+Gecko Tips	
+154
+Gliding System	
+154
+Handling Enhancement	
+154
+Improved Economy	
+154
+Manual Control Override	
+154
+Multifuel Engine	
+155
+Off-Road Suspension	
+155
+Removed Manual Controls	
+155
+Rigger Cocoon	
+155
+Rocket Booster	
+156
+Secondary Manual Controls	
+156
+Secondary Propulsion: Hovercraft	
+156
+Secondary Propulsion: Amphibious	
+156
+Secondary Propulsion: Rotor	
+157
+Secondary Propulsion: Tracked	
+157
+Secondary Propulsion: Walker	
+157
+Speed Enhancement	
+157
+Protection	
+159
+Anti-Theft System	
+159
+Armor	
+159
+Passenger Protection System (PPS)	
+159
+Personal Armor	
+159
+Special Armor Modification	
+159
+Weapons	
+159
+Ammo Bins	
+159
+Drone Rack	
+160
+Gun Port	
+160
+Missile Defense System	
+160
+Oil Slick Sprayer	
+161
+Ram Plate	
+161
+Road Strip Ejector	
+161
+Smoke Projector	
+161
+Weapon Mount	
+163
+Body	
+163
+Assembly/Disassembly	
+163
+Chameleon Coating	
+163
+Extra Entry/Exit Points	
+164
+Ejection Seats	
+164
+Extreme Environment Modification	
+164
+Increased Seating	
+164
+Life Support	
+164
+Mechanical Arm	
+165
+Nanomaintenance System	
+165
+Realistic Features	
+165
+Smuggling Compartment	
+165
+Special Equipment	
+165
+Valkyrie Module	
+166
+Winch	
+166
+Workshop	
+166
+Electromagnetic	
+166
+Electromagnetic Shielding	
+166
+Electronic Countermeasures (ECM)	
+166
+Gridlink	
+166
+Gridlink Override	
+167
+Pilot Enhancement	
+167
+Retrans Unit	
+168
+Satellite Link	
+168
+Sensor Upgrade	
+168
+Signature Masking	
+168
+SunCell	
+168
+Touch Sensors	
+169
+Cosmetic	
+169
+Amenities	
+169
+Enhanced Image Screens	
+170
+Metahuman Adjustment	
+170
+Rigger Interface	
+171
+Interior Cameras	
+171
+Searchlight	
+171
+Vehicle Tag Eraser	
+171
+Yerzed Out	
+171
+MAXIMUM PURSUIT	
+172
+ADVANCED DRIVING RULES	
+173
+Speed	
+173
+Terrain	
+173
+Control	
+174
+Range	
+174
+Vehicle Actions	
+174
+General Actions	
+174
+Change Linked Device Mode 	
+174
+Change Speed	
+174
+Bootleg Turn	
+174
+Catch Up/Break Away 	
+174
+Control Vehicle	
+175
+Crazy Ivan	
+175
+Cut Off 	
+175
+Discreet Pursuit 	
+176
+Driveby/Broadside 	
+176
+Fire a Vehicle Weapon	
+176
+Hold it Together Baby 	
+176
+Like a Glove 	
+176
+Pickup 	
+176
+PIT	
+176
+Ram 	
+177
+Shake Things Up a Bit 	
+177
+Switch the Six 	
+177
+Zen Control 	
+177
+Vehicle Test 	
+177
+Use Sensors 	
+177
+Use Simple Device	
+177
+Ground Vehicle Actions	
+177
+Clear Exit	
+177
+Drift	
+178
+Make a Hole 	
+178
+Aircraft Vehicle actions	
+178
+Leaf on the Wind 	
+178
+Falling Leaf 	
+178
+Strafe 	
+179
+Drone Vehicle actions	
+179
+Swarm 	
+179
+Passenger/Pilot Vehicle actions	
+179
+Bailout	
+179
+Fire Weapon 	
+179
+Grapple/Board 	
+179
+Melee Attack 	
+179
+Watercraft  
+Vehicle actions	
+179
+Capsize 	
+179
+Driving With Style	
+180
+Pedal to the Metal	
+180
+COMPILED TABLES	
+184
+>> RIGGER 5.0 <<
+4    >> CONTENTS & CREDITS <<
+© 2015-16 The Topps Company, Inc. All Rights Reserved. 
+Shadowrun and Matrix are registered trademarks 
+and/or trademarks of The Topps Company, Inc., in the 
+United States and/or other countries. No part of this 
+work may be reproduced, stored in a retrieval system, 
+or transmitted in any form or by any means, without 
+the prior permission in writing of the Copyright Owner, 
+nor be otherwise circulated in any form other than that 
+in which it is published. Catalyst Game Labs and the 
+Catalyst Game Labs logo are trademarks of InMediaRes 
+Productions, LLC.
+First Printing by Catalyst Game Labs, an imprint of 
+InMediaRes Productions, LLC
+PMB 202 • 303 -91st Ave. NE, E-502
+Lake Stevens, WA 98258
+Find us online:
+info@shadowruntabletop.com
+	
+(Shadowrun questions)
+http://www.shadowruntabletop.com
+	
+(Catalyst Shadowrun website)
+http://www.shadowrun.com
+	
+(official Shadowrun Universe website)
+http://www.catalystgamelabs.com
+	
+(Catalyst website)
+http://shop.catalystgamelabs.com
+	
+(Catalyst/Shadowrun orders)
+
+
+===== PDF page 144 =====
+Since its release, the MediCart has been credited 
+with saving over a dozen corporate lives, and sales have 
+been through the roof. Not to be outdone, DocWagon 
+has recently announced plans for a drone similar to the 
+MediCart, but with a built-in Valkyrie module and the 
+ability to lift up to 300 kilograms.
+Standard Upgrades: Tracked, specialized tools (hy-
+draulic rescue tools, medkit)
+Game Information: The hydraulic rescue tools on 
+the MediCart are capable of tearing through metal that 
+has been seared together, and it comes with the nec-
+essary appendages to puncture even plascrete. When 
+attempting to perform an act that would normally re-
+quire Strength + Body (such as lifting, forcing some-
+thing open, or tearing), use triple the MediCart’s Body 
+Rating for all tests. This means that the MediCart can 
+easily carry 270 kilograms without requiring a test. 
+The MediCart is capable of deploying a medkit to anyone 
+within two meters of the drone. The drone’s Pilot rating re-
+places the medkit’s rating for tests. The medkit comes with 
+twenty uses but cannot be used without the drone. Normal 
+replacement components are sufficient to refill the medkit.
+CC ‘MEDICART’ (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+5
+5G
+1
+6(2)
+5
+4
+4
+6
+10,000¥
+GTS TOWER
+(PILOT AIRCRAFT)
+A fairly standard lighter-than-air drone, slow, unar-
+mored, and unarmed, the Tower pulls double-duty as 
+a retransmission drone, extending a rigger’s own wire-
+less signal, as well as serving as an “airbase” for up to 
+four minidrones or eight microdrones. These passen-
+gers can be used for protection, but mostly are used to 
+scatter and scan a large area swiftly. Several police cor-
+porations park Towers over events with large crowds in 
+order to keep a wide-eye on the surroundings. 
+Standard Upgrades: Drone rack (4)
+Similar 
+Models: 
+Cyberspace 
+Designs 
+Nexus, 
+GN-Nissan Beehive
+GTS TOWER (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+1P
+1
+4(0)
+6
+2
+2
+8
+10,000¥
+SAEDER-KRUPP  
+MK-17D NEPTUNE
+(PILOT WATERCRAFT)
+Designed to fit into a standard torpedo tube, the Nep-
+tune can either be launched from a submarine as origi-
+nally designed or, far more common these days, be de-
+ployed in a more traditional manner. Fully submersible 
+to depths of a kilometer, the Neptune has become the 
+industry-standard exploration and underwater survey 
+drone. The Neptune has a more-advanced Pilot than 
+most drones due to the difficulty, if not impossibility, of 
+radio communication once it dives, leaving it to oper-
+ate in a fully autonomous state, surfacing in designated 
+locations at designated times, allowing it to be gath-
+ered up and data transferred.
+Standard Upgrades: Submersible, Searchlight
+Similar Models: Proteus Tiefaucher, Shiawase Suredo
+>	
+Too expensive for most runners, priceless to coastal 
+smugglers.
+>	
+2XL
+>	
+Needs more boom.
+>	
+Kane
+>	
+You can tether a drone via cable to get around the 
+wireless transmission issues faced by water, but your dive 
+is limited by the length of the cord. Cut the cord and the 
+drone’s pilot has to take over as best it can.
+>	
+Sounder
+S-K NEPTUNE (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+2
+3W
+1
+5(0)
+3
+4
+3
+10R
+17,500¥
+MITSUHAMA MALAKIM
+(PILOT AIRCRAFT)
+The standard response drones for GOD, the Malakim 
+are quad-copter drones that pack non-lethal weaponry 
+and high-level jammers, released in support of agents 
+on foot. The Malakim’s job is to block off communi-
+cation, keep updated via reports from Doves that are 
+scattered around watching potential escape routes, 
+and serve as a last line of offense should a takedown be 
+needed. While well-armed and armored, the Malakim’s 
+larger size prevents it from entering some areas, so if 
+you’re being pursued, move from building to building 
+and never get caught out in the open; if you do, it’ll 
+drop you.
+Standard Upgrades: Standard weapon mount, area 
+jammer (6), directional jammer (6), Targeting autosoft (4)
+MITSUHAMA MALAKIM (LARGE DRONE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+3
+6P
+2
+4(0)
+9
+4
+4
+20F
+40,000¥
+HUGE DRONES
+ARES KN-Y0
+(PILOT GROUND CRAFT)
+Designated as an unmanned micro-tank, the KN-Y0 se-
+ries of combat drones shows that Ares isn’t sitting idle 
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    143
+
+
+===== PDF page 168 =====
+the legal speed limit set for the area, and can be re-
+motely shut down by the owner of the system. Most 
+vehicles constructed come with a gridlink system as 
+standard, but the system can be installed afterward 
+with a vehicle modification.
+In game terms, the host that controls the gridlink sys-
+tem is automatically assumed to have 3 marks (or be the 
+owner) of any vehicle connected. Needless to say, run-
+ners consider the GridGuide system to be a major liabili-
+ty to their work and will always (if they’re smart) remove 
+the system or install a gridlink override (see below).
+GRIDLINK OVERRIDE
+Using a combination of hardware and software mod-
+ifications, a vehicle can be equipped to override its 
+gridlink system, and retain independent control. When 
+activated, the vehicle appears to be a interacting with 
+the system normally but cannot be shut down, can ex-
+ceed the posted speed limit, and randomly rotates its 
+identifier so it cannot be tracked for an extended peri-
+od. Since even runners are pragmatic, the vehicle still 
+draws its operational power from the gridlink system, 
+as long as it is available, because who doesn’t love 
+stealing from the corps?
+PILOT ENHANCEMENT
+More than just another program, vehicle Pilot programs 
+are some of the most sophisticated software programs 
+in use today. Enhancing a drone’s Pilot program takes 
+more than just loading a new program: select chips 
+on the hardware set are replaced and upgraded, new 
+communication channels are installed to enhance in-
+BODY MODIFICATIONS
+MODIFICATION
+SLOTS
+THRESHOLD
+TOOLS
+SKILL
+AVAIL
+COST
+Assembly/Disassembly
+2
+Body x 4 (Min. 1) Facility
+— 
+6
+1,000¥
+Chameleon Coating
+2
+10
+Facility
+—
+12F
+Body x 1,000¥
+Extra Entry/Exit Points
+1
+8
+Shop
+—
+8
+2,500¥
+Extreme Environment Modification
+2
+12
+Shop
+—
+6
+2,000¥
+Increased Seating
+2
+6
+Shop
+—
+4
+2,000¥
+Life Support
+Level 1
+2
+10
+Shop
+—
+8
+Body x 500¥
+Level 2
+4
+20
+Shop
+—
+12
+Body x 2,000¥
+Mechanical Arm
+Basic
+2
+8
+Shop
+—
+4
+1,000¥
+Articulated
+3
+16
+Facility
+—
+6
+5,000¥
+Nanomaintenance System (Rating 1-4)
+Rating
+Rating x 4
+Shop
+—
+(R x 5)R
+Rating x 5,000¥
+Realistic Features (Rating 1-4)
+Rating
+Rating x 4
+Shop
+Medicine (R x 3)R
+Rating x Body x 
+1,000¥
+Smuggling Compartment
+3
+16
+Facility
+—
+8F
+1,500¥
+Shielding
+n/a
+12
+Facility
+—
+12F
+3,000¥
+Special Equipment
+variable
+variable
+variable
+variable
+variable
+variable
+Valkyrie Module
+4
+6
+Shop
+Hardware 
+8
+2,000¥
+Winch
+Basic
+1
+8
+Shop
+—
+4
+750¥
+Enhanced
+2
+12
+Facility
+—
+8
+4,000¥
+Workshop
+6
+20
+Facility
+—
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    167

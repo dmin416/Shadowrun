@@ -1,0 +1,1194 @@
+\n\n======== PDF PAGE 189 ========\n>> RIGGER 5.0 <<
+188    >> COMPILED TABLES <<
+AIRCRAFT
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Agular GX-2
+5
+7
+5
+20
+16
+4
+5
+2
+28F
+500,000¥ 
+p. 97
+Agular GX-3AT
+4
+6
+4
+22
+20
+4
+4
+10
+28F
+550,000¥ 
+p. 97
+Banshee
+6
+8
+4
+20
+18
+4
+6
+12
+24F
+2,500,000¥ 
+p. 465, SR5
+Cessna C750
+3
+5
+3
+18
+4
+2
+2
+4
+8
+146,000¥ 
+p. 464, SR5
+Commuter
+3
+3
+3
+16
+8
+3
+3
+30
+10
+350,000¥
+p. 465, SR5
+Dragon
+4
+4
+3
+22
+8
+3
+3
+18
+12
+355,000¥ 
+p. 464, SR5
+Gryphon
+5
+8
+7
+24
+24
+4
+5
+2
+28F
+3,200,000¥ 
+p. 103
+Hound
+5
+4
+3
+16
+16
+2
+4
+12
+13R
+425,000¥ 
+p. 464, SR5
+“Krime Wing” 
+4
+6
+5
+22
+18
+4
+5
+10 (20)
+24F
+2,275,000¥ 
+p. 105
+“Lift-Ticket” ALS-669
+5
+3
+3
+16
+12
+3
+4
+5
+14
+325,000¥ 
+p. 102
+LZP-2070
+4
+2
+3
+12
+6
+5
+4
+6
+12
+85,000¥ 
+p. 106
+“Mothership” LAVH
+3
+3
+3
+10
+5
+3
+4
+1
+24R
+50,000¥ 
+p. 108
+Nightwing
+6
+3
+1
+4
+0
+1
+1
+1
+8
+20,000¥ 
+p. 464, SR5
+PBY-70 Catalina II
+4
+3
+3
+22
+14
+3
+4
+16
+12
+250,000¥ 
+p. 100
+Sea Sprite
+5
+4
+3
+18
+12
+3
+5
+14
+18R
+400,000¥ 
+p. 99
+SKA-008
+6
+5
+8
+16
+18
+4
+4
+12
+24R 
+525,000¥ 
+p. 98
+Stallion
+5
+5
+4
+16
+16
+4
+4
+8
+12
+440,000¥ 
+p. 95
+Tundra-9
+3
+4
+3
+20
+10
+3
+3
+24
+12
+300,000¥ 
+p. 464, SR5
+Venture
+5
+7
+4
+16
+14
+4
+4
+6
+12F
+400,000¥ 
+p. 465, SR5
+Wasp
+5
+5
+3
+10
+8
+3
+3
+1
+12R
+86,000¥ 
+p. 465, SR5
+DRONES
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Ares KN-Y0
+Deimos
+3
+2G
+1
+6(0)
+18
+5
+3
+—
+20F
+220,000¥ 
+p. 143
+Eris
+3
+2G
+1
+6(0)
+18
+5
+3
+—
+24F
+270,000¥ 
+p. 143
+Phobos
+3
+2G
+1
+6(0)
+18
+5
+3
+—
+16F
+250,000¥ 
+p. 143
+Avenging Angel
+3
+6J
+2
+6(0)
+12
+6
+6
+—
+40F
+1,000,000¥ 
+p. 145
+Bloodhound
+3
+1G
+1
+2(0)
+0
+2
+4
+—
+8
+10,000¥ 
+p. 136
+Castle Guard
+4/2
+1G
+1
+2(0)
+6
+3
+2
+—
+8R
+10,000¥ 
+p. 133
+Cheetah
+4
+6G
+2
+2(0)
+6
+3
+2
+—
+12R
+14,000¥ 
+p. 138
+Condor
+2
+0R
+0
+1(1)
+0
+2
+4
+—
+6R
+4,000¥ 
+p. 129
+Crawler
+4
+3
+1
+3
+3
+4
+3
+—
+4
+4,000¥ 
+p. 466, SR5
+Criado Juan
+2
+2G
+1
+2
+0
+2
+2
+—
+2
+8,000¥ 
+p. 145
+Dalmatian
+5
+5
+3
+5
+5
+3
+3
+—
+6R
+10,000¥ 
+p. 466, SR5
+\n\n======== PDF PAGE 190 ========\n>> RIGGER 5.0 <<
+>> COMPILED TABLES <<    189
+DRONES, CONT.
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Direktionssekretar
+4
+4G
+2
+4
+3
+4
+4
+—
+12R
+40,000¥ 
+p. 148
+Doberman
+5
+3
+1
+4
+4
+3
+3
+—
+4R
+5,000¥ 
+p. 466, SR5
+Dragonfly
+4
+2P
+1
+1(0)
+3
+3
+2
+—
+12R
+4,000¥ 
+p. 129
+Duelist
+3
+3
+1
+4
+4
+3
+3
+—
+5R
+4,500¥ 
+p. 466, SR5
+Evo Krokodil
+3
+2G/3W
+1
+3(1)
+6
+2
+2
+—
+8R
+12,000¥ 
+p. 139
+F-B Kull
+3
+4P
+2
+3(3)
+0
+3
+2
+—
+4
+10,000¥ 
+p. 140
+Ferret RPD-5X
+4/2
+1G
+1
+2(1)
+3
+3
+3
+—
+8R
+4,000¥ 
+p. 132
+Fly-Spy
+4
+3
+2
+1
+0
+3
+3
+—
+8
+2,000¥ 
+p. 466, SR5
+Flying Eye
+4
+3
+2
+1
+0
+3
+3
+—
+8
+2,000¥ 
+p. 466, SR5
+Garuda
+6
+3J/6J
+2/4
+2
+2
+4
+3
+—
+20F
+8,500¥ 
+p. 149
+Gerbil
+4/2
+2G
+1
+1(1)
+0
+2
+2
+—
+4
+2,000¥ 
+p. 130
+Goldfish
+2/4
+1W
+1
+0
+0
+2
+2
+—
+6
+500¥ 
+p. 128
+Gun Turret
+—
+—
+—
+2(0)
+6
+3
+2
+—
+4R
+4,000¥ 
+p. 133
+Hedgehog
+3
+1G
+1
+1(0)
+0
+4
+3
+—
+8F
+8,000¥ 
+p. 129
+Horizon CU^3
+4
+1P
+1
+1(1)
+0
+2
+3
+—
+4
+3,000¥ 
+p. 130
+Jardinero
+2/4
+1G
+1
+2(1)
+0
+2
+2
+—
+4
+2,000¥ 
+p. 136
+Job-a-Mat
+—
+—
+—
+2(2)
+0
+2
+2
+—
+4
+3,000¥ 
+p. 137
+Juggernaught
+3
+4G
+1
+6
+12
+3
+3
+—
+14R
+100,000¥ 
+p. 147
+Kanmushi
+4
+2
+1
+0
+0
+3
+3
+—
+8
+1,000¥ 
+p. 465, SR5
+Kenchiku-Kikai
+2
+2G
+1
+5
+3
+2
+2
+—
+8R
+20,000¥ 
+p. 146
+Knight Errant P5
+4/2
+6G
+2
+2(1)
+0
+3
+2
+—
+10R
+8,000¥ 
+p. 133
+Kodiak
+2/4
+2G
+1
+6(2)
+12
+2
+2
+—
+12R
+40,000¥ 
+p. 145
+Krake
+5
+3W
+4
+2(0)
+2
+4
+3
+—
+18F
+10,000¥ 
+p. 134
+LEBD-2
+4
+2P
+1
+3(0)
+9
+4
+4
+—
+12R
+20,000¥ 
+p. 140
+Little Buddy
+2
+1G
+1
+1
+0
+2
+2
+—
+4
+2,000¥ 
+p. 146
+Lynx
+5
+4
+2
+6
+12
+3
+3
+—
+10R
+25,000¥ 
+p. 466, SR5
+Malakim
+3
+6P
+2
+4(0)
+9
+4
+4
+—
+20F
+40,000¥ 
+p. 143
+Matilda
+1
+2G
+1
+8
+8
+2
+1
+—
+12R
+18,000¥ 
+p. 141
+MediCart
+5
+5G
+1
+6(2)
+5
+4
+4
+—
+6
+10,000¥ 
+p. 142
+Microskimmer
+3
+3
+1
+0
+0
+3
+3
+—
+6
+1,000¥ 
+p. 465, SR5
+\n\n======== PDF PAGE 191 ========\n>> RIGGER 5.0 <<
+190    >> COMPILED TABLES <<
+DRONES, CONT.
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Mini-Zep
+2
+0P
+0
+2(4)
+0
+2
+2
+4
+4
+2,000¥ 
+p. 132
+Mule
+4
+1G
+1
+4(3)
+6
+2
+2
+—
+4
+8,000¥ 
+p. 141
+Neptune
+2
+3W
+1
+5(0)
+3
+4
+3
+—
+10R
+17,500¥ 
+p. 143
+NoizQuito
+4
+3R
+2
+1
+0
+3
+3
+—
+10R
+2,000¥
+p. 128
+Optic-X2
+4
+4
+3
+2
+2
+3
+3
+—
+10
+21,000¥ 
+p. 466, SR5
+Paladin
+5
+4G
+1
+5(0)
+18
+3
+2
+—
+8R
+5,000¥ 
+p. 142
+Pelican
+4
+2P
+1
+2(1)
+0
+2
+2
+—
+2
+4,000¥ 
+p. 137
+Pigeon 2.0
+4
+2P
+1
+1(1)
+0
+2
+2
+—
+8
+3,000¥ 
+p. 129
+Prairie Dog
+2/4
+2G
+1
+2(0)
+3
+3
+4
+—
+12F
+8,000¥ 
+p. 134
+Proletarian
+4/2
+2G
+1
+2(1)
+0
+2
+2
+—
+6
+4,000¥ 
+p. 131
+Remote Cyberhand
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+—
+—
+8
+8,000¥ 
+p. 130
+Renraku Dove
+4
+2P
+1
+2(1)
+0
+2
+2
+—
+4
+5,000¥ 
+p. 136
+Roto-Drone
+4
+4
+2
+4
+4
+3
+3
+—
+6
+5,000¥ 
+p. 466, SR5
+Sentry V
+4/—
+1G
+1
+2(0)
+6
+3
+2
+—
+4R
+4,000¥ 
+p. 130
+Seven
+4
+1P
+1
+1(1)
+0
+2
+3
+—
+4
+3,000¥ 
+p. 133
+     Wheelie
+4/2
+2G
+1
+1(3)
+0
+1
+1
+—
+—
+2,000¥ 
+p. 133
+     Treads
+3
+2G
+1
+1(3)
+0
+1
+1
+—
+2
+2,000¥ 
+p. 133
+     Dirty
+2/4
+2G
+1
+1(3)
+0
+1
+1
+—
+2
+2,000¥ 
+p. 133
+     Quad
+4
+1G
+1
+1(3)
+0
+1
+1
+—
+4
+2,000¥ 
+p. 133
+     Swims
+3
+2W
+1
+1(3)
+0
+1
+1
+—
+4
+1,000¥ 
+p. 133
+     Hovers
+4
+1P
+1
+1(3)
+0
+1
+1
+—
+6
+4,000¥ 
+p. 133
+     Soars
+3
+2J
+1
+1(3)
+0
+1
+1
+—
+8
+4,000¥ 
+p. 133
+Sewer Snake
+3
+1G/1W
+1/1
+2(1)
+0
+2
+2
+—
+10
+6,000¥ 
+p. 132
+Shamus
+3
+3G
+1
+4(0)
+4
+3
+8
+—
+10
+30,000¥ 
+p. 137
+Shiawase i-Doll
+3
+3G
+1
+3
+0
+3
+3
+—
+4
+20,000¥ 
+p. 148
+Smoke Generator
+3
+1G
+1
+2(0)
+0
+2
+2
+—
+8
+4,000¥ 
+p. 130
+Steed
+4/2
+1G
+1
+3(1)
+0
+2
+2
+—
+2
+4,000¥ 
+p. 140
+Sundowner
+3
+4P
+1
+2(0)
+0
+2
+2
+—
+8
+10,000¥ 
+p. 134
+Tower
+2
+1P
+1
+4(0)
+6
+2
+2
+—
+8
+10,000¥ 
+p. 143
+Tunneler
+3
+0P
+0
+3(2)
+6
+2
+2
+—
+8R
+10,000¥ 
+p. 140
+Wolfhound
+3
+2J
+1
+2(1)
+0
+2
+4
+—
+12
+30,000¥ 
+p. 131
+\n\n======== PDF PAGE 194 ========\n© 2015 The Topps Company, Inc. All rights reserved. Shadowrun and Matrix are registered 
+trademarks and/or trademarks of The Topps Company, Inc., in the United States and/or 
+other countries. Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of 
+InMediaRes Productions, LLC. Printed in the USA.
+Under License From
+®
+www.catalystgamelabs.com
+Spin your wheels over slick sprawl 
+streets while drifting away from hot pursuit. 
+Fly through narrow canyons ahead of 
+missiles twisting their way after you. Shrink 
+down to insect size to get an eye on places 
+outsiders aren’t supposed to see. These are 
+just some of the ways riggers jack up their 
+seemingly unending adrenaline rush, as 
+they show that the hardest shadowrunners 
+to hit are the ones that stay in motion.
+Rigger 5.0 is the ultimate hot-rod, jet 
+plane, speedboat, and more companion for 
+Shadowrun. With dozens of new vehicles 
+and drones, more detailed rules for vehicle 
+chase and combat, and customization 
+rules, this is a book that every rigger needs 
+to get ahead of the competition and stay 
+there. Get the feel of laying down hot 
+rubber in the cold shadows of the Sixth 
+World and a taste for speed, danger, and a 
+good, clean getaway.
+Rigger 5.0 is for use with Shadowrun, 
+Fifth Edition
+F I F T H E D I T I O N

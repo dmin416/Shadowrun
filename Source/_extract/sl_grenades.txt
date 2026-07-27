@@ -1,0 +1,1054 @@
+
+===== PAGE 43 =====
+CANNONS/
+LAUNCHERS
+HK 82A1
+One of the smallest available grenade launchers, 
+the 82A1 is primarily used by security forces to 
+dispense gas grenades to quell riots, but it also 
+finds use as a support weapon with light infan-
+try units. Tipping the scales at 2.5 kilos, the 82A1 
+weighs less than half as much as a standard gre-
+nade launcher and has considerably less bulk. Its 
+compact design makes it less well-suited for lon-
+ger-range engagements.
+HK 82A1 (GRENADE LAUNCHER)
+ACC DAM AP MODE RC AMMO AVAIL COST
+3 * * SS (1) 1(b) 6F 1,500¥
+* As grenade
+Note: This weapon suffers a –1 dice pool penalty at Long range 
+and a –2 dice pool penalty at Extreme range. It has a Concealability 
+Modifier of +4 with its folding stock retracted.
+> My life would be a lot easier if security forces would start 
+using gas grenades. Fewer parts to replace that way.
+> Borderline
+> Very few units out there can afford to equip everyone on 
+a fireteam with Alphas. This is a fairly lightweight, cost-
+effective pick for your grenadier.
+> Picador
+> These fit in larger model briefcases, making them much 
+easier to sneak into places than something like a MGL -12. 
+They work best when you know ahead of time when you’ll 
+need a grenade and what type you’ll need next, but isn’t 
+that why we plan, chummers?
+> Thorn
+M79B1 LAW ROCKET
+A single-shot, disposable rocket launcher, the 
+M79B1 remains the most common light anti-tank 
+weapon in use worldwide. When collapsed, the 
+M79B1’s tube forms a watertight seal, protecting 
+the rocket from the elements. Once opened, the 
+housing cannot be resealed.
+M79B1 LAW ROCKET (LAUNCHER)
+ACC DAM AP MODE RC AMMO AVAIL COST
+4 * * SS — 1(ml) 9F 750¥
+* As missile/rocket
+Wireless Bonus: You can use the wireless link trigger for your 
+missiles, even if you don’t have DNI.
+Note: This weapon can only fire anti-vehicular missiles/rockets.
+> These have become depressingly common with some of 
+the better-equipped gangs out there. It’s not like they all 
+have ‘em, but they can get their hands on one if they know 
+they’ll need it.
+> Turbo Bunny
+> I think you may be experiencing some recency bias.
+> Butch
+> You don’t see someone undercutting Aztechnology on 
+price all that often, but this is cheaper than the Striker.
+> Hard Exit
+> And not as flexible. If you have a platoon and you know 
+you’re heading up against some APCs, sure. But if 
+you want a weapon that can be adapted to a variety of 
+situations, this isn’t for you.
+> Red Anya
+> Also not for you if you can’t afford to drop 750 nuyen per 
+shot.
+> Chainmaker
+> Rockets are not the favored weapon of the cheap. Which 
+makes them unlikely to become too common in gang 
+warfare.
+> Thorn
+> If you’re still standing after I unload a belt of ammo, I 
+adapt by using this next.
+> Cayman
+> We need to hang out more.
+> Kane
+PHALANX SYSTEMS 
+VOGELJAGER II  
+MISSILE LAUNCHER
+The Vogeljäger is a man-portable air-defense 
+system (MANPADS) that has become the bane of 
+>> STREET LETHAL  <<
+42    EXPANDED ARSENAL >>
+===== PAGE 44 =====
+helicopter and VTOL pilots everywhere. The in-
+cluded imaging scope comes standard with both 
+thermographic and low-light enhancements. 
+Missiles fired at airborne targets receive a +1 dice 
+pool modifier, while missiles fired at other types 
+of targets suffer a –3 dice pool penalty. Addition-
+ally, sensor-equipped missiles fired from a Vo-
+geljäger receive a +2 dice pool bonus for sensor 
+attacks against airborne targets.
+Standard Accessories: Imaging scope (top)
+PHALANX SYSTEMS VOGELJÄGER II MISSILE LAUNCHER  
+(MISSILE LAUNCHER)
+ACC DAM AP MODE RC AMMO AVAIL COST
+5 * * SS — 1(ml) 20F 2,600¥
+* As missile
+Wireless Bonus: This weapon’s IFF (Identify Friend or Foe) al-
+lows its user to reroll the direction of scatter (p. 182, SR5) once per 
+missile. The user must use the second roll.
+> I’m not sure if the smoke plume these create is distinctive 
+or if it’s simply something you never forget, but if you’ve 
+seen one, you know the feeling. These are the reason 
+you pay extra for the stick jockey who can go faster than 
+anyone else in tight terrain.
+> Rigger X
+> Another reason asymmetrical warriors like to set up camp 
+in rugged terrain. If you force the Banshee to bank a few 
+times before setting down on the one open field, you’ve 
+probably slowed it enough to take a shot.
+> Hard Exit
+> I had a job clearing out a tunnel network of belligerents 
+in advance of a conventional troop landing for this very 
+reason. Had an Ares Dragon a few klicks away make some 
+noise, which got them to fire up their MANPADS. A few 
+seconds of work from our ELINT crew, and they detonated 
+in the tunnels.
+> Picador
+> I think the moral of this story is that the decker is always 
+the hero.
+> Slamm-0!
+> The moral of the story is if you can afford to have pretty 
+toys, you can afford to have Matrix security.
+> Pistons
+TERRACOTTA X-6 MGL
+Renraku’s entry into the portable grenade launch-
+er market, the X-6 has been quickly adopted by a 
+variety of corporate and paramilitary outfits in Af-
+rica, raising hopes that its market may be world-
+wide. Certified gold after enduring Terracotta’s 
+stringent quality control process including drop 
+tests, salt-fog mist, and practical application, the 
+X-6 offers fantastic value for the cost. The X-6 
+holds six 40mm minigrenades in a rotating cylin-
+der and sports a foregrip to help minimize recoil.
+Standard Accessories: Foregrip (under)
+TERRACOTTA X-6 MGL (GRENADE LAUNCHER)
+ACC DAM AP MODE RC AMMO AVAIL COST
+4 * * SS 1 6(cy) 8F 2,000¥
+* As grenade
+> A lot of the “stringent practical application” testing 
+occurred in various hotspots around the globe. Make sure 
+you’re getting a direct-to-market model and not one of the 
+early prototypes.
+> Picador
+> Amazing how often Renraku products pass Renraku 
+quality control.
+> Clockwork
+> The foregrip is nice for distributing weight, but the rate of 
+fire on this is noticeably lower than its competitors. Recoil 
+is rarely an issue.
+> Hard Exit
+> Foregrips look badass.
+> Slamm-0!
+OTHER RANGED 
+WEAPONS
+NARCOJECT GAS GUN
+The Narcoject Gas Gun is a shotgun-sized weap-
+on designed to allow for easier distribution of 
+inhalation-vector toxins; provided the user has 
+adequate protection, the Gas Gun is much more 
+accurate than mines or thrown grenades. The Gas 
+>> STREET LETHAL  <<
+<< EXPANDED ARSENAL    43
+===== PAGE 64 =====
+can work all the basic bugs out, might as well crash some 
+shadowrunner who picked up his training ghost knows 
+where and will ride this thing for kicks. I wouldn’t be 
+surprised if some have already had the pleasure of taking 
+a trip to Africa and getting to play with some fun new toys 
+in the jungles of the Congo.
+> Turbo Bunny
+HUMMINGBIRD
+I’ll still bet on the Sky Whale, but these models 
+might be a close second to market. There are sev-
+eral models, varying from small- to large-drone 
+size, that have the same power limitations as the 
+Crotch Rocker but don’t need to haul any extra 
+mass. At least not until they need to be outfitted 
+with arms or sensors to serve an actual purpose 
+other than just floating around. To work out these 
+kinks and test ways to possibly make improve-
+ments for the other small craft, these things are 
+all over their African facility, along with numerous 
+reports from testing on Mars.
+HUMMINGBIRD (SMALL)
+HAND SPEED ACCEL BOD ARM PILOT SENS SEATS
+5 3 2 4 2 3 3 —
+HUMMINGBIRD (MEDIUM)
+HAND SPEED ACCEL BOD ARM PILOT SENS SEATS
+4 4 4 7 6 3 3 —
+HUMMINGBIRD (LARGE)
+HAND SPEED ACCEL BOD ARM PILOT SENS SEATS
+4 5 3 10 8 3 3 —
+> Now this is where I don’t see the difference in current tech 
+versus what these things can do. We have plenty of flyers 
+of all sizes, and the systems they use work just fine. What 
+benefit do these grav-drones offer?
+> Sounder
+> Operation in space, for one. The specs point out that the 
+system functions as a drive not just within a planetary 
+gravitational field, but also outside that field. Other than 
+some small rocket models that SK, Evo, and Ares use for 
+their space operations, there aren’t a lot of drones capable 
+of space flight. If I’ve read the specs correctly, every one of 
+these things would be just as maneuverable in zero-G as 
+they are on Earth; in fact, they might be more so without 
+the additional gravity of Earth to contend with. 
+> Orbital DK
+> That also means they can move between the two. The 
+same drone that is operating dirtside can move on up 
+or get moved on up without any issue. Versatility goes 
+a long way.
+> Icarus
+> Payload. They’re currently limited, but that won’t last long. 
+Once they settle the power consumption issues, these 
+things generate a field that makes a one hundred-kilo 
+cannon move around like a one-kilo pistol. 
+> Beaker
+> Ceiling. The vertical ceiling on most drones is limited by 
+their drive system, mass, and the density of the air around 
+them. Lift has to be generated in some way. This system 
+removes the concept of lift and therefore expands the 
+ceiling of flight for the drones, and all these other craft, 
+right out into space. Systems in the drone will have to be 
+designed for the other rigors of space, but it’s more of a 
+theoretical talk right here, not looking at some specific 
+model. And as for other craft, well, they’d need some 
+way to protect the squishy beings inside them from 
+vacuum, cold, radiation, and a long list of other space 
+unpleasantries.
+> Turbo Bunny
+> Anyone wondering if all of this is really Evo and their 
+Monad minions developing tech, or have they found 
+something on Mars? Maybe this is all just reverse 
+engineering some alien tech. I still have pics from the Big 
+D’s will of some crazy stuff on Mars.
+> Grinder
+> And that wasn’t Plan 9. Or 10. What is this VPN coming to?
+> Slamm-0! 
+SKYGUIDE
+With plans for a global launch of the Sprawl Wan-
+derer in the ’80s, Evo had to develop a system 
+to manage all this new air traffic. For that, they’re 
+developing SkyGuide. Like GridGuide, and com-
+patible to a certain degree (can you say espio-
+nage?), this system controls the guidance system 
+of these low-flying craft through what they call 
+SkyLanes. The system is currently being devel-
+oped at their African facility, and boardroom 
+gossip has a plan for developing for a system in 
+several sprawls across Africa. The system appar -
+ently uses stacked rather than lateral lanes, ap-
+proximately five meters apart, and it has no com-
+ponent for large cargo craft. That could change, 
+but even a small grav-drive vehicle can haul a lot 
+of mass, though volume is a limitation. 
+>> STREET LETHAL  <<
+<< MILITARY AND FUTURE WEAPONS    63
+===== PAGE 65 =====
+> Another system to frag with! Yay!
+> Slamm-0!
+> While all that grav-drive stuff is all the rage for you guys 
+thinking about paydata targets, this is a much better 
+idea. Not every corp has the resources to develop these 
+grav systems, but they all have enough codemonkeys to 
+handle a system like this, and competing for contracts in 
+this arena will be far more lucrative around the world than 
+who can build and sell the most flying cars. GridGuide 
+started as a single corp, and now just about every corp 
+has a GridGuide-compatible system they put in place 
+under the GridGuide moniker. 
+> Icarus
+> I was wondering why anyone had included this in 
+this data drop until you put that up there Icarus. 
+This isn’t something we can drive or shoot, but it’s 
+definitely something we can steal and sell to make 
+some serious cash.
+> Stone
+ 
+ANTI-GRAVITY/ 
+GRAVJACK GRENADE
+Tough to fight when you can’t keep your footing 
+or when you suddenly feel like you weigh 500 
+kilos, and you’re not a troll linebacker. This un-
+assuming little piece of weapon-tech creates a 
+field of altered gravity. Those caught in the effect 
+find themselves suddenly weightless or fighting 
+against their abuptly crippling mass. The basics 
+of the tech involve a dispersion of microparticles 
+into the air followed by an energy discharge from 
+the core device. Each device works in both direc-
+tions. The user selects which energy pulse will be 
+released when activated. The two biggest prob-
+lems with these are materials and device timing. 
+The material used in the microparticles isn’t easy 
+to produce as it’s a combination of rare-earth 
+metals that are finicky when interacting together. 
+As for functional issues, the microparticles need 
+time for dispersion but can’t get too far or the 
+pulse won’t jump properly. Too little dispersion 
+and the effects are too extreme for Evo’s design 
+purposes.
+A-G/GRAVJACK GRENADE
+DAM AP BLAST
+— — 4m–10m
+> I’ve seen one of these things in action. I had no idea what 
+I was seeing, though. I thought it was some kind of mass 
+levitate spell. Our slinger said there was no magic around, 
+but I thought maybe it was hidden. I don’t know mojo. 
+We were hitting a convoy running between Seattle and 
+Denver. We hadn’t backtracked the owners thoroughly 
+beforehand, because we didn’t have time. The defense 
+team started coming at us and all of a sudden we were 
+wheels up, in a black Universe that was definitely not 
+designed for flight. The truck tumbled, and we were done 
+with our pursuit. I should have known something was 
+up when a few minutes later—while we were licking our 
+wounds and working on a ride, a cleanup team showed 
+up to secure the area. We got KO’d so they could lock 
+down the site.
+> Grinder
+> Field-testing is a frequent opportunity for runners to get 
+a glimpse at the future, but it’s also a chance for them to 
+get screwed by Mr. Johnson—or more accurately, the 
+mega behind them. The things we field-test usually carry 
+failsafes and anti-tampers in order to prevent them from 
+being sold off, and they also help corps clean up a mess 
+in case their property winds up in the wrong hands. These 
+devices are especially dangerous, because a slight tweak 
+to the settings could leave a bunch of evidence smashed 
+into oblivion.
+> Beaker
+> I’m interested in the broad area effects of these devices. 
+When they detonate, what happens to random objects or 
+objects in motion? I want to see the field-research data on 
+this stuff.
+> Plan 9
+>> STREET LETHAL  <<
+64    MILITARY AND FUTURE WEAPONS >>
+===== PAGE 66 =====
+> If I snag some data, I’ll pop it up here. This looks like a fun 
+toy to play with if we can get our hands on one. I’ll drop 
+everyone a PM if I manage to get something.
+> Mika 
+GRAVITY  
+SHIELDING/ARMOR
+If you can manipulate gravity, you can manipulate a 
+pretty serious force for good or ill. This system was 
+originally designed as a deflection system for their 
+Star Ferry program. Its initial purpose was to keep 
+objects from hitting the ship while it flew through 
+space at ridiculous speeds. Evo couldn’t just let it 
+stop there, though. They’ve worked to miniaturize 
+everything they’ve designed in an effort to apply 
+it to personal tech, both for use with those on their 
+exodus ship and as a product for consumer con-
+sumption. This tech is a prime example of what al-
+lying with the Monads has done for Evo. 
+The system is designed to supplement stan-
+dard armor with a narrow field of repellent energy 
+that slows down any incoming object. It’s ineffec-
+tive against any form of energy weapon, but stan-
+dard ballistic ammo and all sorts of melee weap-
+ons face a decrease in their overall efficiency. Like 
+many of the other systems discussed here, power 
+is an issue. On a starship, it’s easy to provide the 
+power, even on the massive scale it’s needed for 
+there. But even at the small scale that’s needed for 
+a coat, there’s a lot of energy. The current solu-
+tion is a manual activation system that allows the 
+wearer to turn the effect on and off. An automated 
+system, connected to a sensor that detects incom-
+ing threats, is in the works but has proven fallible 
+in testing.
+GRAVITY SHIELDING/ARMOR
+ARMOR ARMOR RATING
+GravArmor + Variable
+Features: Power Cell (20)
+Wireless: The Armor Rating can be changed with a Free 
+Action via DNI.
+The Armor Rating of the device is determined by the 
+amount of power in use. For every Combat Turn the system 
+is active, it uses 1 point of power per each additional point of 
+Armor Rating. The system can recharge at a rate of 1 point of 
+power every ten minutes.
+> I’m going to work for Evo. That’s it.
+> Slamm-0!
+> These are in field-testing. I’m positive! There’s a crew 
+in Lagos decked out in long black coats that have been 
+rumored to be bulletproof. They’re building a bit of legend 
+around them that pulled my attention their way. I dug into 
+what kinds of things they’re doing, other than just being 
+bulletproof, and found they’re connected to a lot of ops 
+that would be beneficial to Evo’s bottom line. 
+> Hard Exit
+> I’ve heard of the guys you’re talking about. I was in Lagos 
+a few days ago and the streets were buzzing with story 
+of one of them going down. Local footage showed the 
+A-G/GRAVJACK GRENADE RULES
+The A-G/GravJack is thrown like any other grenade but 
+requires one additional Simple Action (Free if the wireless is 
+activated) to prep the settings. There are four settings to adjust: 
+Detonation (Impact, Timed, or Wireless), Duration (1 to 4 Combat 
+Turns), Gravity Effect (Anti or Increased), and Blast Radius 
+(Between 4 meters and 10 meters; dome shaped). Once set, the 
+grenade is thrown using a standard Throwing Weapons attack 
+and detonates based on its settings. 
+Anti-Gravity: Immediate Agility (8) Test; Physical Test Dice 
+Pool Modifier of 8 – hits; Disorientation (Duration + 2 Combat 
+Rounds); leaving the field requires an Agility (8 + Meters to edge) 
+Extended Test.
+Heavy Gravity: Immediate Strength (8) test; Physical Test Dice 
+Pool Modifier of 8 – hits; Knocked prone (Duration; Lift/Carry (6) Test 
+to stand); leaving the field requires a Strength (8 + meters to edge) 
+Extended Test.
+Vehicles: A vehicle targeted by either must resist the damage 
+of a Crash immediately. The driver must also make an appropriate 
+Piloting (6) test or lose control of the vehicle. 
+Glitch and Critical Glitch Effects: A glitch means the particle 
+dispersion occurred before throwing it, and the user is affected by 
+the desired effect. A critical glitch results in an overly dense field 
+hitting the area of effect with crushing levels of gravity. Using half 
+the blast radius setting, everyone in the adjusted blast radius must 
+resist 18P damage at –8AP .
+>> STREET LETHAL  <<
+<< MILITARY AND FUTURE WEAPONS    65
+===== PAGE 67 =====
+gunfight that took him down. It wasn’t a bullet, but an 
+incident with the coat. It collapsed inward and crushed the 
+guy wearing it. 
+> Kane
+> These systems could, and should, and probably are, 
+being tested on vehicles of all sorts as a safety feature. 
+Not that corps are going to bother with that. Gotta figure 
+out a military use first. 
+> Orbital DK
+PERSONAL  
+GRAVITY DEVICES
+These are similar in function to the grenades they 
+designed but are intended to function on a slight-
+ly smaller and more personal scale. The design 
+has two primary functional setting: Lighten and 
+Lockdown. The device emits a narrow field that 
+alters local gravitational effects. Its primary de-
+sign purpose was to help exploration of distant 
+worlds, adjusting the local gravity to match that 
+needed for metahuman comfort. Within the base 
+gravity of Earth, it has some other alternate areas 
+of potential effect. On the Lighten setting, it re-
+duces the local effects of gravity, allowing faster 
+climbing, faster movement, and further jumping. 
+Switched to Lockdown, it increases local gravi-
+ty, anchoring its user in place, or as currently 
+planned by Evo, locking them in a single spot, be-
+cause again, like the A-G/GravJack grenade, the 
+device has multiple settings to vary the strength 
+of the field.  
+> Oh yeah! These are going to create the next amazing 
+sport. Imagine running up walls! Leaping over other 
+players! Sprinting at cheetah speeds! Someone want to 
+join me in hacking Evo and planting a proposal for a new 
+sports league with these?
+> Slamm-0!
+> I know plenty of people who can already run up walls.
+> Mika
+> Don’t we need some rules for the game first? 
+> Turbo Bunny 
+> Nah. Corps will figure that out later. We need support and 
+some idea men pushing it. Maybe drop it on Horizon, get 
+them to go after the data from Evo.
+> Slamm-0!
+> I wonder how large the field is. Is it possible to carry 
+another person? Does that cause issues? Man, all this 
+prototype tech leaves me with a ton of questions.
+> Beaker 
+MAG ROUNDS
+I found the specs on these, but unless they do some 
+serious construction design changes or build loca-
+tions specifically for use with these rounds, I don’t 
+see a big reason to use them. In general, these bul-
+lets are made with a specialized magnetic alloy that 
+reacts with the construction material used on the 
+craft the Monads are building. Their magnetic prop-
+erties interact with the properties of the hull mate-
+rial to stop the bullet with minimal damage. They 
+even leave the slug intact, making them reusable. 
+The goal is to avoid hull breaches while still being 
+able to defend the ship with deadly ranged weap-
+ons. Basic ballistic analysis indicates the rounds 
+have similar flight properties to their standard ball 
+ammunition counterparts, but the additional mass 
+of the material they’re constructed from gives 
+them a slightly harder impact, so their ability to be 
+stopped by a specific construction material is not 
+the only thing that makes them special, though the 
+cost based on material availability will likely be pro-
+hibitive once they hit the market.
+MAG ROUNDS
+DV AP
++2 +2
+Note: These rounds ignore all bonuses provided by Grav 
+Armor and cancel Personal Grav Devices and grav fields for 
+grav drive vehicles.
+PGD POWER USE
+The PGD uses one point of power per level of use per 
+Combat Turn on the Lighten settings, and one point per level 
+per minute on the Lockdown setting. The basic power cell for 
+the device has 10 points of power and takes 10 minutes per 
+point to recharge. 
+Lighten: Each level in use provides a virtual increase 
+to the user’s Strength and Agility for determining their rate 
+of movement, as well as their dice pool for Running tests, 
+Climbing tests, and Jumping tests.  
+Lockdown: Each level in use provides a virtual decrease 
+to the user’s Strength and Agility for determining their rate 
+of movement. An Agility or Strength of 0 means they are 
+immobilized and incapable of moving. 
+>> STREET LETHAL  <<
+66    MILITARY AND FUTURE WEAPONS >>
+===== PAGE 74 =====
+ened bacteria—and designed one that inhib-
+its mana in a localized area, effectively eating 
+spells—or more accurately, the mana that was 
+used to construct the spell. The system doesn’t 
+discriminate, so not only are harmful effects halt-
+ed, but beneficial ones as well. The system is 
+not intended to drain magic, like the strain used 
+in Chicago, but evolutionary events have been 
+known to occur within the system that lead to re-
+sults like this. It happens when you have a crea-
+ture that can create several new generations each 
+hour. Evolution happens fast, and since these 
+strains were all generated from the same ances-
+tor, a little evolutionary reversion or variation isn’t 
+uncommon. 
+The prototype form for this armor was built from 
+an Ares-model longcoat with a large hood added. 
+The inside has a layer of thin, gel-filled patches, sim-
+ilar to their gel-pack system but smaller and not in 
+any way worth a damn at stopping anything. Each 
+pack is a nutrient solution that sustains the bacteria, 
+and the outer layer of the coat is a low-functional-
+ity ruthenium that goes clear for short periods each 
+day in order to let in sunlight for the mini-system in-
+side the packs. As one could guess, there are tons of 
+issues with maintaining a self-contained ecosystem 
+within the packs even beyond controlling genetic 
+mutation. Overpopulation kills off some areas, and 
+too little light leads to insufficient food production. 
+On top of that, temperature and weather can play 
+havoc with the system. 
+FAB-ULOUS ARMOR
+ARMOR RATING AVAIL COST
+8 14P
+Note: The rating refers to the Rating of the FAB system, 
+not the Armor Rating of the lined coat.
+> The field reports on this tech show tons of problems when 
+the gel sacs are breached. The FAB strain inside the coat 
+can escape into the environment and eventually create an 
+arcane dead zone. While this sounds like a great idea to 
+some, once in place it’s hard to remove and damages the 
+local manasphere. 
+> Jimmy No
+> No one who uses magic should or will ever wear one of 
+these things willingly. Even without the zap tech add-on, it 
+frags with magic so bad it’s not worth it. As for other folks, 
+this could be the stuff of dreams. Especially those with the 
+irrational fear of magic out to get them everywhere they go.
+> Ethernaut
+>> STREET LETHAL  <<
+<< MILITARY AND FUTURE WEAPONS    73
+===== PAGE 75 =====
+> Anti-magic tech is huge in some places. There’s a growing 
+portion of the population that’s fearful of being taken over 
+by a magocracy. Even though it’s not at all realistic, it 
+doesn’t change the fact they will spend ridiculous sums of 
+money to be protected from magic. 
+> Lyran
+> Figure out a way to add a little Faraday shielding to this 
+baby and you can stop all those pesky freaks. No mojo, 
+no techno. This sounds like a great idea. I need to send a 
+message over to Ares.   
+> Clockwork
+WHO THE HELL 
+THINKS OF  
+THESE THINGS
+POSTED BY: G1GA8YT3
+Welcome to the world of the weird and deadly. 
+The powers that be asked me for some insight 
+into works coming down the pipeline, specifical-
+ly things designed to give a runner a real bad day. 
+You can expect to find examples of all this drek 
+somewhere in the R&D pipeline of every AAA-
+megacorp with an arms division and even more 
+terrifying, being developed by AA- and A-rat-
+ed megas like boxers trying to fight above their 
+weight class. At some point, someone bigger is 
+gonna come take their title! Oh, yeah, that’s what 
+runners are for! With no further ado, I give you a 
+look into the crystal ball.
+SMART BULLETS
+Smartgun systems use advanced electronics to 
+help a shooter overcome their lack of skill and 
+training with tech-wizardry. You modify the gun 
+and then hope no smarthoop hacker comes 
+along and resets the last diagnostic run. Smart 
+bullets, on the other hand, are a whole new 
+ball game, with the advanced electronics min-
+iaturized enough to fit in a conventionally fired 
+round. Either the shooter, or a friend they’ve 
+handed off the guidance laser to, puts the little 
+laser dot on a specific spot and then pulls the 
+trigger facing any direction that isn’t leading di-
+rectly to a solid surface. The bullet finds its way 
+to the target every time. These aren’t real use-
+ful indoors, and they don’t steer around things 
+well, but a few of these in a magazine and some 
+warning shots in the air that suddenly come 
+down on the enemies’ heads … yeah, that’s what 
+I’m talking about. 
+I always like to thank the Brits for the gyrojet. 
+Those SAS goons really wanted a way to kill folks 
+underwater (or from under the water), and they 
+found it with the gyrojet. The gyrojet had its fair 
+share of problems, including range issues, the need 
+for custom arms, and some stability issues. The last 
+was solved with a fold-out fin system, and that led 
+to other great gyrojet developments. The other is-
+sues have yet to be resolved, but those fins … ah, 
+those fins. They gave some real bright boy an idea. 
+If it’s got fins, we can steer it!
+FAB-ULOUS ARMOR RULES
+FAB-ulous armor, when operating correctly, acts similar to 
+a localized area of Counterspelling. The wearer gets a number 
+of dice equal to the Rating of the armor to use to defend 
+against all spells being cast at her or at her immediate vicinity. 
+The dice pool is finite, as the FAB have only a limited capacity 
+for absorbing the mana before they are overloaded. The dice 
+pool refreshes at a rate of 1 point every ten minutes until back 
+up to its maximum, which is the Rating of the armor. 
+FAB-ulous armor is a standalone system, as the ruthenium, 
+specialized gel sacs, temperature-regulating threading, and 
+other components cannot be integrated into any other existing 
+armor. The ruthenium system is rudimentary and cannot be 
+modified without damaging the gel sacs and thus negating the 
+function of the armor.
+When used as an anti-magic device and put on a target, 
+the field functions against all uses of magic, including adept 
+abilities, spirit powers and summoning, and alchemical 
+concoctions. It can also be integrated with a system to zap 
+the wearer if any use of magic is detected. This electrical 
+discharge interferes with the FAB and causes an immediate 
+reduction in the permanent effective Rating of the coat by 2. 
+The Shock variant costs another 500 nuyen. Damage is 
+12S(e), –5 AP . 
+As a secondary effect, reading the aura of a person 
+wearing this armor is almost impossible. Impose a negative 
+dice pool modifier equal to 2 x Rating to all Assensing tests 
+against the wearer. 
+>> STREET LETHAL  <<
+74    MILITARY AND FUTURE WEAPONS >>
+===== PAGE 76 =====
+The gyrojet isn’t common on the streets, but 
+once the perfection of its latest targeting system is 
+achieved (and we know they don’t really need to 
+be perfect …*cough* Excalibur *cough*), street 
+sams up and down the block are going to be lin-
+ing up for the latest Ares model. This one’s a triple 
+threat. Option one: a laser like the smart bullet. 
+This is okay, but you still need to point something 
+at the target. Option two: GPS targeting. You know 
+how GOD is always threatening to bullseye your 
+decker with a Thor shot for being a Matrix pain 
+in the hoop by using the GPS coordinates that all 
+our electronics broadcast, all the time? Well, these 
+bullets do the same. Type in a GPS location (down 
+to the nanosecond), and the bullet finds its way 
+there. It’s capable of steering along major road-
+ways. Option three: RFIDs. Whether placed on a 
+target or used in conjunction with conventional 
+ammunition to “mark” a target, the gyrojet finds 
+the RFID signal and drills it! 
+Now, while I said the bullet can steer, it still 
+can’t stop to wait for doors and it will still get 
+stopped, slowed, or damaged beyond functioning 
+if it hits something solid before the skull of the tar-
+get. They’re still best for outdoor use, but I’m sure 
+someone somewhere is working on that. 
+> Ares has a design that incorporates building plans 
+and flies at slow enough speeds to turn tight corners 
+before accelerating into the target. They’ve also tested 
+models with miniaturized explosive warheads. Not 
+just fragmentation rounds or a small incendiary, but a 
+genuine warhead with a microcharge of mil-spec-grade 
+boomjuice. 
+> Picador
+MAKER MAGS  
+AND MISSILES
+Have you ever been in a firefight, pumping out 
+gel rounds like a good little hooder, when all of 
+a sudden some goon pops out in some badass 
+armor and you suddenly wish you’d loaded those 
+APDS rounds? Maker Mags are coming, and 
+they’re going to change the way fights roll on the 
+streets. No more swapping out mags for those 
+specialty rounds, now you just send the Mak -
+er Mag a message and it changes up the ammo 
+it’s making. No muss, no fuss, and according to 
+the projected specs, no wait. That’s the biggest 
+issue they’re working out right now—well, that 
+and the massive amount of fear people still have 
+over anything with nanotech in it. The magazines 
+are standard size, though they hold about half 
+the ammo, but the type of ammo can be deter -
+mined only moments before firing. Currently, 
+the reports I’ve seen have round production at 
+about half a second. This speed is all good for 
+most semi-autos not in the hands of a fragging 
+wired-up street blazer, but it caps full-auto at 120 
+rounds per minute. That’s still half the fire rate 
+of those old crank-fired gatling guns you see in 
+the western trids, and nowhere near the needed 
+600 to 900 rounds per minutes you’ll need to 
+be a worthy AR these days. Efforts to overcome 
+the lacking production speed include bulking up 
+the magazine, and that’s the sort of thing no one 
+but a troll wants. They’re also considering limit-
+ing the rounds available in a Maker Mag, which 
+was shown to double the production rate and 
+increase magazine capacity by fifty percent; and 
+finally increasing the number of nanites, which 
+was shown to increase the rate of hand-shaking 
+in testers who were aware of the reality of CFD, 
+but also quadrupled the rate of production with 
+only a fifty percent increase in nanite count. 
+Alongside Maker Mags, I discovered some 
+ongoing work on Maker Missiles (and technically 
+rockets as well, but most people can’t explain the 
+difference between the two anyway). The Maker 
+Missile isn’t built inside the tube by nanites before 
+firing—too big and complex for that—but some 
+genius at Ares figured they could load a missile 
+with nanotech and optimize its payload in flight 
+or while still part of the launch vehicle’s payload. 
+Target area suddenly crawling with armored vehi-
+cles? Tweak the tip payload for maximum punch 
+through power. Civvies running everywhere? De-
+grade the structure to powderize and go straight 
+concussive to deliver the KO instead of the KIA. 
+The test reports put the most drastic changes at 
+under ten seconds and most payload swaps under 
+SMART BULLETS
+Smart bullets allow a secondary individual to use a 
+secondary guidance system to make the actual attack test. 
+This can include firing an RFID round at a target, using a 
+laser-guidance system, or using a Computer + Software (Data 
+Processing) test to enter GPS coordinates. All of these attack 
+tests are Complex Actions, while the shooter can fire a number 
+of gyrojet rounds equal to their Agility as a Simple Action. 
+>> STREET LETHAL  <<
+<< MILITARY AND FUTURE WEAPONS    75
+===== PAGE 77 =====
+three. The system is especially designed for those 
+wicked multiple-tube rocket launchers that give 
+folks nightmares when a dinky little Wasp rolls 
+around a corner but has a pair of fat tubes under its 
+little stub wings ready to give you a really bad day. 
+They can load a set of Maker Missiles (now rock -
+ets, but you know, alliteration in advertising) into 
+all the tubes and not have to worry about varying 
+payload needs. They can switch them out prior to 
+launch or even after launch if they have enough 
+range to target. A single launch can also include a 
+variety of different payloads all crashing down and 
+ruining someone’s party. 
+Their test reports also indicate that incomplete 
+transitions can result in duds, split effects, in-
+creased effects, lessened effects, and unexpected 
+effects. Best I saw was an attempt to swap an AV 
+(Anti Vehicle) for a Concussion load that resulted 
+in a ground-level blast wave that swept the feet 
+out from under dummy targets for over one hun-
+dred meters in every direction. Comically little ac-
+tual damage, just a giant knockdown rocket. Once 
+they solve a few problems, expect these to hit the 
+streets, literally.
+ > I’m sure they’ll hit the streets before they solve all the 
+problems. Runners are great for field testing. 
+> Stone
+ 
+> I may have some experience working with these, and I 
+have found that a skilled hacker can hit them in transit and 
+make payload mod requests without too much trouble. 
+It was pretty much the only gripe I had with these things 
+during my encounter. 
+> Picador 
+MICROWAVE WEAPONS
+I’m not exactly sure how any sane scientist went 
+from thinking that something we use to reheat 
+the bulk of our food could be used as a weap-
+on system, but I like to imagine it involved a pet 
+or something standing too close to a unit with a 
+damaged shield and some shorted wiring rather 
+than the scientist sticking said pet inside just to 
+see what happens. That latter idea is probably 
+the more likely, but I try to see the world through 
+rose-colored glasses as often as possible, though 
+that might just be a bloodstain on the lenses, but 
+I should get to the point instead of entertaining 
+you with witty banter. 
+Somewhere out there—okay, probably many 
+somewheres—there are corps working with micro-
+wave technology to try to create a non-lethal solu-
+tion for induced subject compliance. Fancy way of 
+saying taking the fight out of the fighter. Judging 
+by the materials I’ve gained access to—and there 
+are lots of them—the corps are taking one of two 
+routes, neither completely perfected yet, but both 
+having great and entertaining “detrimental second-
+ary effects,” in order to get to their goal of a weap-
+on that neutralizes a subject without permanent 
+harm or risk of critical injury. The two methods hit 
+two very different ends of the spectrum, though 
+microwaves fit in only a very small portion of the 
+energy spectrum, namely pain and docility. Either 
+they make a subject feel soooo much pain that they 
+can’t continue to function, or they make them all 
+docile like a ganger on a triple dose of bliss. 
+Pain! Let’s talk about this first because, as we all 
+well know, this is the megacorps’ preferred method of 
+creating compliance in defiant subjects. They’ve got 
+plenty of docility all over their workforce; why not get 
+some good ol’fashioned pain for shits and giggles? 
+Some might imagine that the microwave pain gun 
+functions by actually using microwaves to cook the 
+subject, but, last I checked, cooking someone seems 
+MAKER MAGS AND MISSILES
+Maker Mags are bought with a basic supply load and 
+a specific set of rounds that can be produced. Once the 
+maximum number of rounds has been used, the Maker Mag 
+is empty and useless. They cannot be refilled yet. They are 
+currently only available for weapons with the Semi-Automatic 
+fire mode. Selecting the type of round requires a wireless AR 
+(Simple Action) or DNI link (Free Action).
+Standard Maker Mags have half the capacity of the regular 
+weapon. 
+Extended Maker Mags have three-quarters the capacity of 
+the regular weapon.
+Maker Missiles can be changed via a wireless link before 
+or after launch. 
+MAKER ARMS
+MODEL AVAIL COST
+Standard Mag 18R Base Ammo Capacity 
+x 100¥
+Extended Mag 18R Base Ammo Capacity 
+x 150¥
+Maker Missile 24F 5,000¥
+Maker Grenade 18F 500¥
+>> STREET LETHAL  <<
+76    MILITARY AND FUTURE WEAPONS >>
+===== PAGE 132 =====
+HORIZON-FLYNN DEFENSE-COM 
+COMMLINK WEAPONS
+Sometimes the best weapon one has is the one no 
+one knows they have. Once again partnering with 
+renowned bladesmith Dante Flynn, Horizon has 
+recently released their Defense-Com brand of con-
+cealed weapons. Designed to look like standard 
+(but non-functional) commlinks, Defense-Com 
+weapons come in three varieties: the Def-Com 
+hold-out pistol, taser, and defensive knife. Each 
+one is perfect for the person who requires protec-
+tion but doesn’t want to draw attention. 
+> These things can be handy. Undercover Horizon Protectors 
+are fond of these. Because of the low damage profile, 
+they usually load the pistol with capsule rounds filled 
+with appropriate night-night juice. The taser is decent, but 
+the knife is solid. I carry one. However, I suggest getting 
+to know them before you use them. Nothing worse than 
+grabbing the wrong ’link.
+> Mika
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: HOLD OUT PISTOL
+ACC DV AP MODE AMMO AVAIL COST
+5 5P — SS 2(b) 10 400
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: TASER
+ACC DV AP MODE AMMO AVAIL COST
+5 6S(e) –4 SS 4(b) 10 300¥
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: KNIFE
+ACC REACH DV AP AVAIL COST
+4 – (STR)P –2 10 250¥
+LONE STAR’S  
+REMINGTON 995 “BUZZSAW”
+A variant of their classic 990 shotgun, the 995 
+“Buzzsaw” has gained a reputation as being a 
+simple yet reliable and rugged entry gun. Cur -
+rently a favorite among Lone Star’s Shadow -
+riders, the 995 has a pistol grip in place of the 
+standard stock. But what makes the 995 an 
+effective door breacher is the barrel-mounted 
+titanium “teeth” that are jammed into a lock or 
+door hinge that prevent the weapon from skip-
+ping off when fired. It also features a grip han-
+dle that attaches to the pump-action but goes 
+over the weapon, allowing for rapid chamber -
+ing and maneuvering in close quarters. Both 
+these features allow for quick seating and em-
+ployment of the weapon. 
+> Those teeth also hurt when you jam them into someone’s 
+hand, neck, or whatever. 
+> Kane
+REMINGTON 995 “BUZZSAW” SHOTGUN
+ACC DV AP MODE RC AMMO AVAIL COST
+4 11P –1 SA — 8(c) 6R 1,000¥
+Standard Upgrades: Breaching teeth, foregrip, modified pump 
+handle, side mount (top and bottom).
+Special Rules: Breaching teeth provide +2 to accuracy when 
+weapon barrel is seated against a target.
+LONE STAR’S BATES-BROWN 
+TACTICAL COMBAT BOOTS
+Also known as “drek-kicker” boots, these specially 
+designed combat boots not only protect one’s feet 
+and look stylish with tactical gear, but with their 
+reinforced soles and metal toes they also act as 
+knucks for kicking. That’s right, with these boots, 
+kick attacks are more damaging than ever. Perfect 
+for kicking in doors or a perp’s guts!
+> One of the most cringe-worthy things I’ve seen is a Star 
+adept cop spin-kick a troll suspect in his … well you get 
+the idea. Frag, that looked like it hurt! 
+> Bull
+BATES-BROWN TACTICAL COMBAT BOOTS
+ACC REACH DV AP AVAIL COST
+4 — (STR+2)P –4 10 250¥
+Special Rules: +5 armor against attacks to the feet
+MAERSK SHIPYARDS 
+WAVECUTTER MPAC
+The Wavecutter MPAC, or Maritime Patrol and 
+Assault Craft, is loosely based on the PT-style 
+watercraft. But other than a few design features, 
+the Wavecutter and PTs have little in common. 
+Designed to fulfill a wide variety of maritime 
+warfare and security roles, the twenty-eight-me-
+ter-long Wavecutter weighs only approximately 
+twenty-five tons despite its heavily armored hull. 
+The Wavecutter also features a powerful Pack -
+ard-Voss V-31 Maritime engine that allows for an 
+impressive surface speed and maneuverability 
+profile. While the base model comes with several 
+features such as a small landing ramp that opens 
+>> STREET LETHAL  <<
+<< OPPOSITION REPORT: CORPSEC    131
+===== PAGE 133 =====
+to store a semi-rigid inflatable vehicle or other 
+small watercraft (up to two small craft, takes one 
+Complex Action to deploy). The Wavecutter also 
+has several other features that allow for extended 
+operations and is a favorite of Maresk’s Marines, 
+who use it extensively. 
+> What you have here is a t-bird on water. Depending on the 
+modifications, this thing can be a floating gunship, drone 
+carrier, or a special-ops taxi. And Maersk uses them for all 
+of the above. It’s one of the few times I find myself envious 
+of a corp, because they’re hard, but not impossible, to get 
+if you’re not cozy with Maersk. 
+> Kane
+MAERSK SHIPYARDS WAVECUTTER MPAC
+HAND SPEED ACCEL BODY ARM PILOT SENS SEATS AVAIL COST
+5 5 3 25 25 4 5 12 22F 360,000¥
+Standard Equipment: Amenities (low), commlink (DR 7), ECM 4, four 
+additional body modification slots, four additional weapon mount 
+slots, manual control override, rigger cocoon, rigger interface, 
+satellite link, sun cell, signature masking 4
+Special Equipment: Small craft bay (rear).
+ 
+MCT/WINCHESTER-HOWE 
+HORNET DIRECT-FIRE  
+MINI-GRENADE
+For a corporation that’s famous for its Zero-Zone 
+security, most weren’t surprised when MCT 
+subcontracted munitions manufacturer Win-
+chester-Howe to develop the Hornet mini-gre-
+nade. A cross between a grenade and a rocket, 
+the Hornet is launched from a grenade launcher, 
+but instead of arching, it is a direct-fire, single-tar-
+get weapon. Like a grenade, the Hornet can be 
+programmed to detonate based on a timer or 
+proximity to a target. Before impact, the Hornet 
+splits into six different projectiles, which gives it 
+a burst-fire-like effect. While the Hornet can be 
+used in any standard grenade launcher, the tar -
+geting sensors in the grenade’s head tend to mal-
+function, which often prevents projectile separa-
+tion and cancels the burst effect. 
+WINCHESTER-HOWE HORNET DIRECT-FIRE MINI-GRENADE
+DV AP BLAST AVAIL COST
+12P –2 Special 16F 400¥
+Special Rules: During normal operations, the Hornet is considered 
+to be a six-round burst fire weapon; normal rules apply. On a glitch 
+when firing, the Hornet does not separate. It will still do base DV –2, 
+but will lose its AP . 
+RENRAKU RED  
+SAMURAI KATANA
+The ultimate badge of honor and service among 
+Renraku’s Elite Red Samurai, these blades works 
+of art as much as functional weapons, forged with 
+a blend of modern and ancient techniques. Leg-
+end says that if a Red Samurai draws their blade, 
+it must taste blood or it will turn on its owner. 
+Whether this is true or not remains to be seen, but 
+when a Red Samurai draws their blade, someone 
+usually dies. A Red Samurai would rather die than 
+give up their blade willingly. Blades of honorably 
+fallen or passed Samurai are considered sacred 
+items. 
+> And the Reds take this very seriously. Don’t get any 
+ideas about stealing one, unless you want the entire Red 
+Samurai corps after you. I’m not kidding. 
+> Thorn
+RENRAKU RED SAMURAI KATANA
+ACC REACH DV AP AVAIL COST
+6 1 (STR+3)P –4 NA NA
+RENRAKU/INGRAM  
+SUPERMACH 200
+A weapon design subcontracted through the In-
+gram weapons corporation, the Supermach 200 is 
+a favorite among Najima (Renraku’s security sub-
+sidiary) and the Blue Samurai. An update of the 
+popular Supermach 100, the 200 is designed to 
+be light, compact, and hold a substantial ammo 
+capacity. But in order to accomplish all this, In-
+gram was forced to create a special proprietary 
+ammo type that can only be used in this weapon. 
+The result was a round that lacked the raw damage 
+profile of most weapons of similar caliber, but to 
+compensate it had one of the best armor-penetra-
+tion profiles without having to use APDS ammo. 
+Despite the 200’s supposed flaws, Renraku is 
+more than satisfied with the weapon, siting the 
+low potential for blow-through, and has contract-
+ed for several thousand over the next few years. 
+INGRAM SUPERMACH 2000 SMG
+ACC DV AP MODE RC AMMO AVAIL COST
+6 5P –6 BF/FA –2 40(c) 18F 5,000¥
+Standard Upgrades: Internal smartgun system, shock pad
+Special Rules: Because of its specialized design, this weapon can 
+only take custom ammo. For gameplay, treat price as standard ammo 
+but with Availability of 16F.
+>> STREET LETHAL  <<
+132    OPPOSITION REPORT: CORPSEC >>

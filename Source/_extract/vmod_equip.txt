@@ -1,0 +1,341 @@
+\n\n======== PDF 150 ========\n\nDRONE MISSILE
+ARES “GARUDA”
+(PILOT AIRCRAFT)
+Several years ago, Ares was first-to-market with a 
+rigged missile system.  The main drawback was that 
+it required a rigger who was tremendously skilled to 
+operate sufficiently.  Additionally, when the missile ex-
+ploded, the rigger could suffer dumpshock as a result. 
+Since then, Ares has been hard at work on the next it-
+eration: the Garuda.
+Like the mythical Indian god, the Garuda is the sort 
+of missile you launch to blot out the sun.  Rather than 
+a single missile that causes the rigger to suffer dump-
+shock upon detonation, the Garuda is a cluster munition, 
+allowing the rigger to operate the core of the drone, fire 
+off the cluster rounds, and continue moving to prevent 
+dumpshock.
+Another major upgrade is the addition of a second-
+ary launch mechanism that allows the drone to operate 
+slowly at first, but then activate a booster module to gain 
+speed tremendously fast.  This allows less-skilled rig-
+gers to operate the Garuda in a fashion similar to most 
+drones, but be able to “turn on the jets,” so to speak, in 
+order to catch up with a fast-moving target.
+The booster module and the cluster munition mech-
+anism give the Garuda a dual purpose—it can operate 
+similarly to a normal airborne drone, but can also be 
+utilized as a missile.  The Garuda can be outfitted with 
+anti-vehicle, fragmentation, or high explosive warheads. 
+Additionally, the Garuda is small enough to be shoul-
+der-launched, or it can be fired from a mounted missile 
+launcher.  The Garuda is, however, incapable of under-
+water operation, as the engines require oxygen.
+Standard Upgrades: Launched, cluster munitions, 
+laser guidance
+Game Information: The cluster munitions act like 
+multiple small explosives. The statistics for each war-
+head type are described on the table “Grenades/Rock-
+ets/Missiles” on page 435 of SR5. Note that the costs 
+of these explosives are not included in the cost of the 
+drone missile and must be purchased separately.
+ARES ‘GARUDA’ (DRONE MISSILE)
+HANDL
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+AVAIL
+COST
+6
+3J/6J
+2/4
+2
+2
+4
+3
+20F
+8,500¥
+>> RIGGER 5.0 <<
+>> THE AUTOMATED ARMY <<    149
+\n\n======== PDF 151 ========\n\nTurbo Bunny winced as the bullets spattered off of the 
+Bulldog’s armor. She winced because she felt them, felt 
+them just like sharp needles pricking her own skin. She 
+also felt the wind whistling against her skin, the glare 
+of the city lights, the roar of the engines in her ears, 
+and the ache in her calves from the strain of running. 
+As far as her brain was concerned she was the van and 
+could move it just as nimbly as being able to move 
+her own body. She slipped between the cars in traffic, 
+keeping as many of them as she could between her and 
+her pursuers. An ache in her calves let her know that 
+the van couldn’t keep up this speed much longer, and 
+a splitting pain in her side let her know that the vehicle 
+had taken some serious damage. She had the munch-
+ies too, which also meant that the Bulldog was running 
+low on fuel.
+Safely enclosed in her rigger cocoon, Turbo Bunny 
+brought up the visual feed from the aerial drone that 
+she had shadowing them. Then she saw a new problem. 
+Just a couple of kilometers ahead, Knight Errant had set 
+up a roadblock. A big one. Frag. She checked the road 
+map: there were no exits off the highway before the 
+road block. Pursuit cars were closing in from behind. 
+She flipped back to the aerial view from the surveillance 
+drone. Then she saw it, another way off of this road. She 
+suddenly wrenched the Bulldog hard to the left, send-
+ing the passengers in the back tumbling, sprawling, and 
+cursing. With a flip of a mental switch, twin panels in the 
+front bumper slid back to reveal rockets behind them. 
+With the front of the vehicle aiming straight for the con-
+crete wall that bordered the highway she fired rockets, 
+smoke trails streaking straight for the wall. She pinned 
+the accelerator as twin explosions sent chunks of con-
+crete flying in all directions and the van sped toward the 
+freshly made hole.
+“Hang on,” she blasted through the van’s internal 
+speakers. It was time to try out that new modification 
+she had just installed. Sparks flew from the flanks of the 
+vehicle, and she felt like multi-bladed razors rake her ribs 
+as the vehicle ripped its way through the hole and plum-
+meted into the empty space beyond. As the nose tipped 
+and rushed toward the waters Puget Sound below, Turbo 
+Bunny activated the brand-new modification. Her head 
+rocked and her vision swam when the van hit the water. 
+Once she came to her senses, Bunny checked over 
+the new systems. 
+Water Seals: Engaged.
+Internal Air Supply: Active.
+Water Jets: Ready.
+“Don’t be alarmed. Please return to your seats,” she 
+piped over the van’s internal speakers. “We will now 
+resume travel to our previous destination by way of 
+lovely, murky, and heavily polluted Puget Sound. Enjoy 
+the ride.”
+Turbo Bunny switched on the high-beam headlights, 
+engaged the underwater propulsion system, and smiled 
+to herself as the Bulldog slipped on toward the opposite 
+shoreline.
+RIGGER 5.0
+BUILDING THE 
+PERFECT BEAST
+150    >> BUILDING THE PERFECT BEAST <<
+\n\n======== PDF 152 ========\n\nMODIFICATION 
+RULES
+Runners who use their vehicles day in and day out to 
+pull their jobs rarely want to keep them as they are off 
+the shelf. In the highly competitive world of shadow-
+running, runners need to get every edge they can to 
+avoid winding up dead. This means riggers and others 
+who use vehicles for their jobs will modify them in a 
+variety of ways to suit whatever needs they have. That 
+may be making them faster and more maneuverable to 
+avoid pursuit, giving extra armor and weapons to turn 
+them into a mobile firebase, or packing them with sur-
+prise tricks to give themselves an ace up their sleeve 
+for the right situation.
+There are three aspects or factors in getting a modifi-
+cation installed in a vehicle: parts and plan, tools, and skill.
+PARTS AND PLAN
+The first thing a runner needs for a modification is the 
+parts and the plan, or procedures for installing the 
+modification. The Modification List (p. 154) shows the 
+base threshold for acquiring the parts for a modifica-
+tion, which is based on its obscured and complexity. 
+The gamemaster is free to modify these values if there 
+are special circumstances that would make the parts 
+easier or more difficult to acquire. Depending on the 
+source, these parts may be provided “as is” or will have 
+the plans or instructions on how to install them on the 
+vehicle in question. If the parts were not provided with 
+a plan, the character can attempt to find one with con-
+tacts and legwork, or by doing a Matrix Search (p. 241, 
+SR5) with threshold and modifiers set as appropriate by 
+the gamemaster. A plan is not required to attempt the 
+modification, but if available the plan provides a bonus 
+to the Build/Repair Test (as per p. 146, SR5).
+TOOLS
+The complexity of installing a modification varies wide-
+ly, but in general they all require some sort of tools. This 
+can be a set of simple hand tools, ranging all the way 
+up to a building full of complicated and sophisticated 
+equipment. Each modification lists the required level of 
+tools for the job: Kit, Shop, or Facility. If the required 
+tools are not available, the modification can still be at-
+tempted but will suffer the Inadequate (if not the right 
+level) or Unavailable (for none at all) modifier (as per p. 
+146, SR5).
+SKILL
+With the plan, parts, and tools all (hopefully) in place, 
+the character can attempt to install the modification in 
+the vehicle. Installing a modification always uses the 
+Mechanic skill relevant to the vehicle (Automotive, 
+Nautical, etc.). The installer makes a (Mechanic Skill) 
++ Logic [Logic] (threshold, 1 hour) Extended Test, ap-
+plying all appropriate modifiers from the Build/Repair 
+Table (p. 146, SR5). The process can be interrupted and 
+resumed at a later time, but the gamemaster can de-
+termine if some or all of the vehicle’s systems cannot 
+be used until the modification is complete. Only one 
+modification can be applied at a time. If a critical glitch 
+is rolled, the modification automatically fails and the 
+parts are ruined; the character must start over. Once 
+the required hits have been accumulated, the modifica-
+tion is complete and ready for use. 
+If the modification list a Special Skill then one addi-
+tional die roll needs to be made before the modification is 
+complete. The character must succeed at a (Special Skill) 
++ Logic [Logic] (4) Test to complete the modification.
+MODIFICATION SLOTS
+Every vehicle has a certain number of Modification Slots 
+that determines how much extra stuff can be packed 
+into the vehicle. Each vehicle modification has a num-
+ber of Modification Slots equal to its Body in each 
+Modification Category. There are six Modification Cat-
+egories: Power Train, Protection, Weapons, Body, Elec-
+tromagnetic, and Cosmetic. So a GMC Bulldog with 
+a Body of 16 has 16 Modification Slots in each of the 
+six categories. Modifications only take up the slots for 
+their category. Once a vehicle has used up the Modifi-
+cation Slots for a category, no more modifications may 
+be installed from the category. A vehicle cannot exceed 
+its Modification Slots in any category. Not even a little.
+>> BUILDING THE PERFECT BEAST <<    151
+\n\n======== PDF 153 ========\n\nREMOVING 
+MODIFICATIONS
+A modification can be removed to free up the slots 
+that it originally took up. This will allow further modi-
+fications in that category to be installed. Removing a 
+modification takes the same tools and skill(s) that the 
+original modification took, but the threshold is halved. 
+Removed modification parts are assumed to be not be 
+reusable in any other vehicle, but they may be kept for 
+re-installation in the original vehicle, at the gamemas-
+ter’s discretion.
+VEHICLE 
+EQUIPMENT
+The following are not considered modifications to the 
+vehicle since they do not integrate into the systems 
+of the vehicle in a significant way. They are standard 
+pieces of equipment that can be purchased and easily 
+installed or used.
+MORPHING LICENSE PLATE
+While most modern governments primarily use elec-
+tronic identification for vehicles, they still require some 
+sort of physical identification plate to uniquely identify 
+a vehicle. Since being positively identified is something 
+that an average shadowrunner wants to avoid, most in-
+stall a special morphing license plate. Made from smart 
+materials, a morphing license plate can reshape itself 
+with a Complex Action and mimic any of the forms 
+used in governments around the world today. Runners 
+will typically also purchase a spoof chip (see below) to 
+keep their vehicle from being identified.
+SPOOF CHIP
+All governments in the civilized world require that a ve-
+hicle be uniquely tagged and broadcast that identifica-
+tion on demand. This allows law enforcement and any 
+authorized government agency (and some unautho-
+rized) to quickly identify and track a vehicle. All of that 
+may sound great to the common wageslave, but those 
+are all things that a shadowrunner wants to avoid like 
+a VITAS plague. Consequently, installing a spoof chip 
+has become a common practice for anyone wanted to 
+use a vehicle for their shadow activities. The spoof chip 
+mimics a standard vehicle identifier chip but can be 
+command with a Complex Action to change its iden-
+tifier to a different random value that is arithmetically 
+generated to appear authentic. Installing a spoof chip 
+requires a Hardware + Logic [Logic] (2) Test.
+ROAD STRIPS
+Road strips use a myomeric rope to stretch out over 
+a length of about fifteen meters (approximately four 
+lanes of traffic) in order to cause some effect on the 
+vehicle(s) that drive over it.
+Spike Strip: This strip consists of sharp, penetrating 
+spikes that damage the tires of any vehicle that drives 
+over it. The vehicle’s tires immediately blow out unless 
+they are run flat tires (see below), forcing the driver to 
+make an immediate Vehicle Test to avoid crashing. Even 
+if the crash is avoided, flat tires give a –2 dice pool pen-
+alty on Vehicle Tests.
+Zapper Strip: The zapper strip is equipped with 
+hundreds of tiny “feelers” that extend upward to brush 
+against the chassis of a vehicle that passes over. When a 
+EXAMPLE
+ADDING A MODIFICATION
+Rigger X wants to add a weapon mount to his GMC 
+Bulldog to provide some fire support for the team. He 
+wants heavy firepower while remaining able to drive 
+around downtown, so he chooses a heavy concealed 
+turret weapon mount. That modification has a Slot 
+cost of 8 (4 + 2 + 2 = 8), a threshold of 28 (10 + 6 + 12 
+= 28), an Availability 20 (12 + 2 + 6 = 20), and a cost 
+of 10,500¥. Installing it requires a Vehicle Facility. The 
+Bulldog has the modification slots available, and Rig-
+ger X has the nuyen from his last job. He has a chum-
+mer with a Vehicle Facility he can use, and his Fixer 
+owes him a favor and got him the parts. Now all that is 
+left is to install the gear.
+Rigger X will be making the modifications in his 
+chummer’s Facility, which is in a renovated old gas 
+station garage in the Barrens. Not ideal, but it’ll do 
+the job. He managed to score AR-guided plans for the 
+modification, giving him a +2 bonus. With his Logic of 
+5 and Automotive Mechanic skill of 5, he has a total of 
+12 dice for the test. Time to get to work.
+On the first test, Rigger X rolls 5 hits, a good start. 
+He drops down to 11 dice and keeps rolling, getting 
+4 more hits and then drops down to to 10 dice. Con-
+tinuing like that, Rigger X rolls hits of: 3, 3, 4, 3, 2, 2, 1, 
+and 1 for the necessary 28 hits. In total, installing the 
+weapon mount took Rigger X 10 hours (probably with a 
+break for sleep in the middle). It was a lot of work, but 
+the LMG that the Bulldog is now sporting will come in 
+handy for her team!
+>> RIGGER 5.0 <<
+152    >> BUILDING THE PERFECT BEAST <<
+\n\n======== PDF 154 ========\n\nvehicle drives over it, the strip sounds a powerful elec-
+tromagnetic pulse into the chassis of the vehicle, at-
+tempting to damage its electronics. A vehicle that drives 
+over a zapper strip suffers 10 DV(e) damage. A zapper 
+strip has enough power for 10 discharges before need-
+ing to be recharged.
+Tracking Strip: The tracking strip is a subtle way to 
+gather information about vehicles that pass by. Once de-
+ployed, whenever a vehicle passes over a tracking strip, it 
+“fires” a stealth tag (p. 440, SR5) that attaches itself to the 
+vehicle. A tracking strip contains fifty stealth tags.
+SPECIAL TIRES
+Tires are one of the easiest ways to customize a ve-
+hicle. The following tires are available for all wheeled 
+ground craft. Changing tires requires a Automotive 
+Mechanic + Logic [Logic] (4, 5 minutes) Extended Test; 
+or you can get your brother-in-law to do it for a case of 
+beer, though that tends to take longer.
+Off-Road Tires: Designed specifically for rough ter-
+rain, these tires are not as effective as standard tires on 
+standard roads. When equipped, the vehicle’s off-road 
+Handling is increased by +1, and on-road Handling is re-
+duce by –1.  Off-road tires are also considered run flat 
+tires (see below).
+Racing Tires: The flip-side of off-road tires, racing 
+tires are designed to maximize vehicle performance in 
+urban conditions. When equipped, the vehicle’s on-road 
+Handling is increased by +1 and off-road Handling is re-
+duced by –1.
+Run Flat Tires: A common upgrade for shadowrun-
+ners, run flat tires are filled with a dense but flexible 
+foam instead of air. They continue to operate even when 
+the tire has been punctured but will quickly deteriorate if 
+the tire suffers significant structure damage.
+TOOL KIT
+It never hurts to be prepared! A smart vehicle owner 
+will purchase at least an Automotive Mechanic Kit in 
+their vehicle to affect emergency repairs, and possibly 
+others if the vehicle has more exotic equipment (see p. 
+443, SR5).
+>> RIGGER 5.0 <<
+>> BUILDING THE PERFECT BEAST <<    153

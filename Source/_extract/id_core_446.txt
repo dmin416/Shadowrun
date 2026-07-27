@@ -1,0 +1,129 @@
+instantly severing the direct connection. This does not 
+harm the cable.
+Headjammer: The headjammer is used by security 
+personnel to neutralize implanted commlinks. When 
+it’s attached to your head (or other body part) and ac-
+tivated, it works in the same way as any other jammer, 
+with its effects limited to you and your augmentations. 
+Removing a headjammer from someone without the 
+proper key requires a Hardware + Logic [Mental] or a 
+Locksmith + Agility [Physical] (8, 1 Complex Action) 
+Extended Test. Removing a Headjammer from your-
+self without the proper key is an Escape Artist + Agility 
+[Physical] (4) Test, requiring a Complex Action.
+Jammer: This device floods the airwaves with electro-
+magnetic jamming signals to block out wireless and ra-
+dio communication. The jammer generates noise equal 
+to its Device Rating. The area jammer affects a spherical 
+area—its rating is reduced by 1 for every 5 meters from 
+the center (similar to the blast rules for grenades). The 
+directional jammer affects a conical area with a 30-de-
+gree spread—its rating is reduced by 1 for every 20 me-
+ters from the center. The jammer only affects devices 
+(and personas on those devices) that are within the jam-
+ming area, but it affects all of them. Walls and other ob-
+stacles may prevent the jamming signal from spreading 
+or reduce its effect (gamemaster’s discretion).
+Wireless: You can set your jammer to not interfere 
+with devices and personas you designate.
+Micro-transceiver: This classic short-range com-
+municator has been favored by professional operatives 
+since the 2050s. It doesn’t do anything special, it just 
+lets you communicate by voice with other micro-trans-
+ceivers and commlinks that you (and the other person) 
+choose, within a kilometer. The micro-transceiver con-
+sists of an ear bud and an adhesive subvocal micro-
+phone (p. 439), both of which are commonly available 
+in hard-to-spot designs.
+Wireless: The micro-transceiver’s range becomes 
+worldwide.
+Tag eraser: This handheld device creates a strong 
+electromagnetic field perfect for burning out RFID tags 
+and other unshielded electronics. It is probably strong 
+enough to destroy a commlink, and you might want to 
+keep it away from your cyberdeck just in case. When you 
+bring the eraser within 5 millimeters of an electronic de-
+vice and push the button, the device takes 10 boxes of 
+Matrix damage (resisted normally). The extremely short 
+range makes it hard to use on targets like vehicles, most 
+drones, maglocks, and cyberware (and by the time you 
+open them up to get at the electronics, you’ve already 
+done plenty of damage). The tag eraser has one charge 
+but can be fully recharged at a power point in 10 seconds.
+Wireless: The tag eraser recharges fully in an hour by 
+induction.
+White noise generator: This device creates a field 
+of random noise, masking the sounds within its area 
+and preventing direct audio surveillance. All Perception 
+Tests to overhear a conversation within (Rating) meters 
+of a white noise generator receive a negative dice pool 
+modifier equal to the generator’s Rating. If more than 
+one generator is in use, only count the highest rating. A 
+white noise generator is redundant in a noisy environ-
+ment (such as a nightclub or a firefight) and does not 
+help to curtail video surveillance or jam wireless signals.
+Wireless: The white noise generator’s effective radius 
+is tripled.
+SOFTWARE
+Software can be purchased as an online download or less 
+commonly on chip from physical stores. Datasofts, map-
+softs, shopsofts, and tutorsofts can be easily stored and 
+accessed on a commlink, dataterminal, or cyberdeck.
+Agents and cyberprograms: These are used in cy-
+berdecks and are explained in Programs, p. 243.
+Autosofts: For information on these programs for 
+drones, see p. 269.
+Datasofts: Datasofts encompass a wide variety of in-
+formation files, databases containing information on ev-
+erything from hydraulic fracturing to 18th century roman-
+tic poetry. An appropriate datasoft gives you a +1 bonus 
+to your Mental limit on related Knowledge Skill Tests.
+Mapsoft: Mapsoft programs feature detailed infor-
+mation about a particular area, from streets to business/
+residential listings to topographical, census, GPS and 
+environmental data. An interactive interface allows you 
+to quickly determine the best routes and directions, lo-
+cate the nearest spot of your choice, or create your own 
+customized maps. If a wireless link is maintained, the 
+map automatically self-updates with the latest data from 
+GridGuide. Of course, this feature also means that the 
+mapsoft can be used to track your location. At the gam-
+emaster’s discretion, mapsofts provide a +1 limit bonus 
+to Navigation Tests made to navigate the area they cover.
+Shopsofts: Shopping apps like Clothes Horse, Cave-
+at Emptour, and Guns Near Me provide pricing break-
+downs and user reviews for comparison shopping 
+purposes, both for standard goods and black market 
+purchases. Shopsofts self-update regularly to stay cur-
+>> STREET GEAR <<
+COMMUNICATIONS
+DEVICE
+AVAIL
+COST
+Bug scanner (Rating 1-6)
+(Rating)R
+Rating x 100¥
+Data tap
+6R
+300¥
+Headjammer (Rating 1-6)
+(Rating)R
+Rating x 150¥
+Jammer, area (Rating 1-6)
+(Rating x 3)F
+Rating x 200¥
+Jammer, directional 
+(Rating 1-6)
+(Rating x 2)F
+Rating x 200¥
+Micro-transceiver
+2
+100¥
+Tag eraser
+6R
+450¥
+White noise generator 
+(Rating 1-6)
+Rating
+Rating x 50¥
+<< Electronics    441

@@ -1,0 +1,212 @@
+
+
+===== PAGE 185 =====
+GEAR
+The world is not made for orks and trolls, so they 
+have to make it fit them. Here are some pieces of 
+gear that can help.
+ANTENNA GRILL
+Got an implanted commlink or cyberdeck? Want 
+to cut through the noise that afflicts the wireless 
+world? Then get yourself a stylish and useful an-
+tenna grill. Useful only on tusks (since they have 
+regular exposure to the air outside the mouth), 
+these metal implants connect to a wire in the jaw 
+that runs up to the ’link or deck, improving recep-
+tion. Double the distance on all categories when 
+calculating noise modifiers (p. 231, SR5).
+Essence 0.1, Availability 4, Cost 1,000¥
+Anarchy Shadow Amp: Amp level 1. Add one to 
+a single die roll on a Matrix test.
+BMW TROLLHAMMER
+BMW revamped their meta-friendly classic, soup-
+ing up the engine, pushing the front wheel slightly 
+more forward, and giving it a more angular appear-
+ance. Most of the basics remain intact, though, 
+from its low-slung seat to its throaty engine. It’s 
+not the most economical bike on the market, but 
+sometimes you pay a premium to get something 
+that feels like it fits you with no compromises.
+Anarchy: Armor 8, Durability 10
+FOLDING METACHAIR
+Look, this is a luxury and probably unnecessary. 
+But when you spend enough time going from 
+place to place with chairs that don’t fit you, or 
+that threaten to break the moment you place 
+any weight on them, you start to wish you just 
+had a reliable chair you could bring with you any-
+where. This is that chair. It compresses to a cylin-
+der only slightly larger than your favorite soykaf 
+thermos, but when assembled, it can hold an ork 
+easily. Get the MaxiMetaChair, and it can hold a 
+troll (though when compressed, it has twice the 
+volume of the smaller version). The chair sets up 
+within minutes—or faster, with the microbot-en-
+abled self-assembly model. Do you want to 
+make a statement that you will make a place for 
+yourself in the world? Then set one of these up 
+in whatever trog-unfriendly place you visit, and 
+show that any place can be made to suit you.
+MetaChair, basic: Availability —, Cost 50¥
+MetaChair, self-assembly: Availability —, Cost 
+200¥
+MaxiMetaChair, basic: Availability —, Cost 85¥
+MaxiMetaChair, self-assembly: Availability —, 
+Cost 235¥
+Anarchy: Treat as gear.
+FORD TITAN
+As would be expected, the more purchasing 
+power a certain group has, the more they are go-
+ing to be marketed to. The Ford Titan is a variant 
+on their Econovan with more headroom, a sturdi-
+er suspension, and larger seats. Humans, elves, 
+and dwarfs may feel lost in the large interior, but 
+orks and trolls love being able to get in without 
+excessive bending, stooping, or folding. The loss 
+of some seating capacity is, of course, a natural 
+consequence of trying to make orks and trolls 
+comfortable, and the van is longer than the Econ-
+BMW TROLLHAMMER
+HAN
+SPEED ACCEL BOD
+ARM PILOT SENS SEATS AVAIL COST
+4/3
+4
+2
+10
+8
+1
+2
+1
+—
+12,500¥
+THE COMPLETE TROG
+EVERYTHING
+TROG
+184    EVERYTHING TROG >>
+
+
+===== PAGE 186 =====
+ovan. Some orks and trolls feel resentment at hav-
+ing one of the companies that treated them as an 
+afterthought for so long suddenly acting like their 
+ally, and they view any of their fellow trogs who 
+drive the Titan as sell-outs. Others, though, can’t 
+resist the comfort and fit the van provides.
+Anarchy: Armor 8, Durability 16
+HORN COMPARTMENT
+Similar to a tooth compartment (p. 452, SR5) but 
+larger, the horn compartment gives a slick way to 
+carry credsticks, RFID tags, or other small items. As 
+with the tooth compartment, it can be equipped 
+to remove the enclosed items with either a wire-
+less signal or a hidden catch. Unlike the tooth 
+compartment, it cannot be used for self-poisoning 
+purposes, because of course it can’t. 
+Essence —, Availability 8, Cost 1,000¥
+Anarchy: Treat as gear.
+OSMIUM MACE
+There are all sorts of ways to make weapons more 
+effective, but in the end, if you have a strong arm 
+delivering the blow, all you really need in order to 
+be effective is something with lots of mass and 
+inertia that will pound a huge amount of force 
+into the chest of whoever you’re hitting. The club 
+does this job pretty well, but if you have the arm 
+strength for it, having extra weight at the end of 
+the shaft can really get momentum swinging, 
+delivering a huge payload of kinetic energy to 
+the target. Enter the osmium mace, which some 
+say is over the top in terms of its pain-delivering 
+mass, while others say that’s just the way they like 
+it. Osmium is the most dense metal on earth, but 
+its brittle nature makes it unsuitable for the con-
+struction of a weapon. It’s just fine, though, for 
+a ball on the interior of a mace head, especially 
+when it is alloyed to make it more durable and 
+then surrounded by a titanium shell to help dif-
+fuse some of the shock of impact away from the 
+core. The result is a weapon that is difficult for the 
+average person to lift up, let alone swing. When 
+you get up to ork or troll levels of strength, you 
+can deliver devastating blows that make you look 
+like a character straight out of mythology. 
+*Accuracy decreases to 3 when wielded by 
+someone with Strength of 4 or lower and increas-
+es to 5 when wielded by someone with Strength 
+of 7 or higher.
+DV changes to (STR+2)P when wielded by 
+someone with Strength of 4 or lower and increas-
+es to (STR+6)P when wielded by someone with 
+Strength of 7 or higher.
+Anarchy Weapon: Close Combat, DV (STR/2 + 
+3), Close OK, Near —, Far —
+REINFORCED ROPE
+Normal and stealth rope typically hold 400 kilo-
+grams, which seems like more than enough for 
+most metatypes, but put two trolls on a single 
+rope—or even an ork and a troll—and you have 
+trouble. Reinforced rope provides extra strength 
+when you need to haul multiple trogs. Both the 
+FORD TITAN
+HAN
+SPEED ACCEL BOD
+ARM PILOT SENS SEATS AVAIL COST
+3/2
+4
+1
+16
+8
+2
+2
+8
+—
+32,500¥
+OSMIUM MACE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+4*
+2
+(STR+4)P
+–1
+14R
+5,500¥
+<< EVERYTHING TROG    185
+
+
+===== PAGE 187 =====
+standard and stealth variants hold up to 600 kilo-
+grams, while reinforced micro rope can hold 200 
+kilograms (which leaves trolls still out of luck, but 
+it’s at least something for orks!).
+Reinforced standard rope: Availability 2, Cost 
+100¥ per 100 m
+Reinforced stealth rope: Availability 12F, Cost 
+170¥ per 100 m
+Reinforced microwire: Availability 8, Cost 
+100¥ per 100 m
+Anarchy: Treat as gear.
+ 
+ROCKBLOOD OLD SCHOOL LINE
+This fashion line is designed to enhance the ork 
+form, making it look both strong and elegant. 
+Well-dressed orks across the globe are getting 
+on board with Rockblood’s fashion sense, mak-
+ing them feel like they don’t have to look like 
+other metatypes to be stylish. The clothing has 
+an armor rating of 8 and increases the wearer’s 
+Social limit by 1. Capacity 10, Availability 8, Cost 
+1,900¥.
+Anarchy: Armor value 9. 
+When used as Shadow Amp: Amp value 2. Ar-
+mor value 9, add 1 to a single die on any Social test.
+ROCKBLOOD SIGNATURE 
+ARMORED SHIRT
+This is an armored shirt specifically designed for 
+trolls by the fashion designer known as Rockblood. 
+>> THE COMPLETE TROG <<
+186    EVERYTHING TROG >>

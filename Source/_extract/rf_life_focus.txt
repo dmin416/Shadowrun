@@ -1,0 +1,2035 @@
+
+
+===== runfaster.pdf p160 =====
+PIE IESU DOMINE.  
+DONA EIS REQUIEM.
+BONUS: 2 KARMA
+The character is a flagellant, believing in causing him-
+self pain to serve a greater good. Perhaps they seek 
+clarity through pain; perhaps it is a constant act of 
+contrition for their deeds. Whatever the reason, the 
+character gains High Pain Tolerance 1 but always starts 
+the day with 1 box of Physical damage. This box can 
+be healed, but the character will seek to cause himself 
+another box of damage as soon as possible. Note that 
+the character’s wounds may cause questions in certain 
+social settings, should anyone notice.
+POOR SELF CONTROL
+BONUS: 4 TO 12 KARMA
+Whether they’re a boaster, an adrenaline junkie, or just 
+can’t stand disorder, characters with this quality span 
+a variety of mental ticks that all boil down to the in-
+ability to control one’s actions. The Karma costs vary 
+based on the threshold of the Composure test involved 
+in restraining the character’s actions. The quality can be 
+taken multiple times, but only once for each form of 
+control issue. 
+Braggart (5 Karma): No one has ever done it big-
+ger or better than her. The character will always try to 
+top anyone else’s claims of success, even to the point 
+of lying about it. This may result in them being ignored, 
+considered infantile, or challenged to prove their superi-
+ority, but without a Composure (3) Test they won’t back 
+down from the brag. 
+Thrill-Seeker (4 Karma): It’s all about the rush. The 
+character will always take the most dangerous and risky 
+option in any situation if they don’t succeed at a Com-
+posure (2) Test. There is a slight payoff, as the adrenaline 
+rush provides a +1 to their Initiative Score for 5 Combat 
+Turns (meaning that is how long the bonus lasts, not that 
+the character gets an additional bonus each turn).
+Compulsive (4 To 12 Karma): There is an order to all 
+things that must be maintained, and the character feels 
+the need to exert their sense of order on everything. The 
+value of this mental malady comes from how severe the 
+compulsion is and how much of a negative impact it 
+can have on the character. Maybe she likes a tidy house, 
+maybe she sees a necessary order to the items on the 
+tables out in the world, or maybe she feels the need to 
+practice her skills (be they hacking, casting, shooting, 
+talking, stealing, sneaking, etc.) every chance she gets. 
+The character must make a Composure (2) test to resist 
+the compulsion. The base Karma value is (2 x threshold 
+needed for Composure Test; must be from 1 to 4); then 
+add 2 for things in the character’s personal environment 
+(e.g., placement of furniture and minor appliances), 3 
+for a single aspect of the public environment (e.g., cor-
+recting bad apostrophes on signs, counting every Ford 
+Americar they see), or 4 for a broad aspect of the public 
+environment (e.g., touching every light post they walk 
+by, hacking into every camera they see).
+Vindictive (5 Karma): Though best served cold, the 
+thought of vengeance sure makes your blood boil. No 
+matter how small the slight, it cannot go unreturned, and 
+the escalation factor must always be considered. An in-
+sult may be returned with a calm threat, a threat might 
+get the same or may require a payment in pain, and any 
+injurious assault must be brought back upon your en-
+emies two-fold (or more). To resist the urge for instant 
+payback, the character must make a successful Compo-
+sure (2) Test, and even when resisted, the character must 
+add the offender’s name to their hit list for the future. 
+Combat Monster (10 Karma): The red rage blinds to 
+all but victory. A character with this quality loses much 
+of her self-control once a fight has begun. She’ll fight un-
+til all her opponents are disabled, even if outnumbered 
+and losing, unless she can make a Composure (3) Test to 
+clear her head enough to break off the fight. 
+RECORDS ON FILE
+BONUS: 1 KARMA PER RATING  
+(MAX RATING 10)
+For every point of Karma spent on this quality, one of 
+the Big 10 megacorps possesses a relatively up-to-
+date record of the character’s SIN, biometrics, person-
+PHOBIA TABLE
+CONDITION
+KARMA
+DESCRIPTION
+Uncommon
+2
+The triggering condition is 
+relatively rare, such as the 
+smell of roses or specific 
+insects.
+Common
+5
+The triggering condition is 
+commonly encountered, such 
+as sunlight, trolls, insects in 
+general, magic, the outdoors, 
+or crowds.
+SEVERITY
+KARMA
+EFFECTS
+Mild
+3
+–1 dice pool modifier to all 
+actions
+Moderate
+5
+–3 dice pool modifier to all 
+actions; Composure (2) Test or 
+must get away from the source
+Severe
+10
+–6 dice pool modifier; 
+Composure (5) Test or must flee 
+from the source for (5 – hits) 
+Combat Turns
+>> RUN FASTER <<
+158    AS YOU AS YOU CAN BE >>
+
+
+===== runfaster.pdf p161 =====
+al, and medical data. The gamemaster and player can 
+work together to figure out why they have this data or 
+the player can leave that mystery up to the gamemas-
+ter. The data provides the megacorp’s agents a +2 dice 
+pool modifier for any tests made to identify the charac-
+ter through their records. Due to the proliferation and 
+saturation of facial recognition and identification sys-
+tems used by the megacorporations to track consumer 
+habits, representatives of the selected megacorps also 
+have a +2 dice pool modifier on tests to track down or 
+locate the character whenever they are in an area with 
+a C or better security rating. No character can have Re-
+cords on File and Erased at the same time.
+REDUCED (SENSE)
+BONUS: 2 TO 29 KARMA
+One of the character’s five (or six for certain Awakened 
+folks) senses is about as sharp as a butter knife. Any 
+Test involving the chosen sense faces a –2 dice pool 
+modifier. This quality can be taken multiple times, re-
+ducing a different sense each time, and its effects are 
+cumulative for tests involving more than one sense, 
+such as general Perception Tests. A character with a re-
+duced sense of smell or taste gains 2 Karma, while a 
+reduced sense of hearing, sight, or astral sight is worth 
+5 Karma, and a reduced sense of touch is worth 10 
+Karma because it affects most Physical skill rolls due to 
+lack of tactile sensitivity. 
+If the sense is ever repaired or corrected permanent-
+ly, the quality must be bought off. If the character does 
+not have enough Karma to buy off the quality, the in-
+tended repair cannot be made. No character can have 
+Reduced (sight) and Blind at the same time, or Reduced 
+(hearing) and Deaf at the same time.
+SENSORY OVERLOAD 
+SYNDROME
+BONUS: 15 KARMA
+Sensory Overload Syndrome (SOS) is a growing epi-
+demic in the world of ever-present AROs and excessive 
+wireless sensory input. The condition is an offshoot 
+of AIPS, and victims suffer similar epileptic episodes. 
+Whenever a character with SOS enters an area of high 
+ARO saturation (gamemaster discretion) or attempts to 
+make use of sensory enhancement systems, they must 
+make a Willpower + Edge (4) Test or enter into an epi-
+leptic seizure for (5 – hits) minutes. 
+The condition can possibly be prevented by deacti-
+vating enhancement systems, the character’s commlink, 
+or running the commlink in hidden mode, but these last 
+two options create issues in areas where identification is 
+required or suspicious when not broadcast. 
+SIGNATURE
+BONUS: 10 KARMA
+The origami swan can mean only one thing. For some 
+reason, a character with this quality feels it is necessary 
+to leave their calling card to announce their involve-
+ment in a job. The signature is usually some specific 
+item, symbol, or technique the character uses that 
+identifies their participation. For those who know the 
+character and their signature, the signature is easily 
+identified. Anyone performing a test to identify the 
+character’s handiwork or track the character is given a 
+dice pool modifier equal to the character’s Street Cred 
+and Public Awareness combined.  
+VENDETTA
+BONUS: 7 KARMA
+This is some Hatfield and McCoy-level drek. The char-
+acter is entangled in a blood feud with an individual 
+or group, and no matter the initial cause, the vendet-
+ta is now as much an issue of honor and reputation as 
+revenge. The quality means the character has extreme 
+difficulty resisting a confrontation with her foe. 
+Whenever the character encounters the target of her 
+ire, she must make a Composure (3) Test or else have no 
+choice but to incite a violent confrontation. If the charac-
+ter should ever neutralize their nemesis, they have two 
+options. They can buy off the quality, or someone new 
+will pick up the vendetta, giving the character gets a new 
+nemesis. 
+WANTED
+BONUS: 10 KARMA
+It feels so good to be wanted, or maybe not. Though 
+most runners are probably wanted for questioning in a 
+few cases, this is something different. When the char-
+acter takes this quality, they work out why they have a 
+bounty or contract on their head. The bounty should 
+be worth at least 25,000 nuyen, enough to tempt even 
+one’s own “friends.” The character should have to fre-
+quently deal with someone coming for them or finding 
+out about the bounty and using it against them. 
+If for some reason the bounty ever goes away, like 
+the character is turned in or they clear their name, the 
+quality must be bought off with Karma. 
+>> RUN FASTER <<
+<< AS YOU AS YOU CAN BE    159
+
+
+===== runfaster.pdf p162 =====
+>> RUN FASTER <<
+After years of training, years of operating on the compa-
+ny’s behalf, and years of absolute loyalty, for some reason 
+the burned company man was blacklisted. He barely had 
+enough time to retrieve his emergency go-bag; all of his 
+accounts were frozen, right when he had the heat on his six. 
+Good thing he kept one account off the books for just such 
+an emergency. Now all he has is a go bag and some spare 
+cred, just enough to secure some drekhole to use as a new 
+base of operations. It’s okay, though. He’s been in worse 
+fixes before. For years the company sent him to all corners 
+of the world to “facilitate” various operations. He can fight, 
+but he’s not a frontline kind of guy. His skillsets are more 
+geared toward planning, working the angles, and analyz-
+ing the big picture. The company made a big mistake when 
+they burned him, because he’ll never forgive what they did 
+to him. And he certainly won’t forget.
+BURNED 
+COMPANY MAN
+160    AS YOU AS YOU CAN BE >>
+METATYPE: DWARF
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+4
+4
+4 (6)
+4
+4
+3
+5
+5
+5.4
+2
+Condition 
+Monitor (P/S)
+10/10
+Armor
+9
+Limits
+Physical 6, Mental 5, Social 7
+Physical 
+Initiative
+9 (11) + 1D6
+Active Skills
+Athletics skill group 3, Close Combat skill group 3, Computer 3, Con 5, 
+Etiquette 4, Firearms skill group 4, First Aid 2, Instruction 4, Intimidation 
+5, Leadership 6, Navigation 2, Negotiation 4, Palming 3, Perception 4, 
+Pilot Ground Craft 1, Pilot Watercraft 1, Sneaking 4, Survival 2, Thrown 
+Weapons 3
+Knowledge 
+Skills
+Poetry 2, Psychology 3, Small Unit Tactics 2
+Languages
+Aztlaner Spanish N, English 4, French 2, German 1, Japanese 2
+Qualities
+Bad Rep, Blandness, Driven, Guts, Insomnia 1, Photographic Memory
+Augmentations
+Reaction enhancers 2
+Gear
+Antidote patch (2), certified credstick (gold), concealable holster, cram 
+(2 doses), Erika Elite commlink, fake SIN (Rating 4), fake license (Rating 
+3, light pistol, SMG), fitted suits, glasses [Capacity 3 w/ image link, 
+smartlink, vision magnification], jazz (2 doses), lined coat [Rating 3 w/ 
+Chemical Protection 1, Fire Resistance 1, Nonconductivity 1], long haul 
+(3 doses), Low lifestyle (2 months), medkit [Rating 4], stim patch (2), tag 
+eraser, tranq patch (2)
+Weapons
+Colt America L36 [Light Pistol, Acc 7(9), DV 7P, AP—, SA, RC —, 11 (c), 
+w/ silencer, smartgun system (external), 3 spare clips, 110 rounds of 
+regular ammo]
+Colt TZ-120 [SMG, Acc 4(6), DV 7P, AP—, SA/BF/FA, RC 2(3), 32 (c), w/ 
+silencer, smartgun system (external), 3x spare clips, 200 rounds of 
+regular ammo]
+Defiance EX Shocker [Taser, Acc 4, DV 9S(e), AP –5, SS, RC —, 4 (m), w/ 
+40 darts]
+Extendable baton [Club, Acc 5, Reach 1, DV (STR+2)P, AP –]
+Knife [Blade, Acc 5, Reach -, DV (STR+1)P, AP –1]
+Throwing knives (2) [Throwing Weapon, Acc Physical, Reach 1, DV 
+(STR+1)P, AP –1]
+Walther Palm Pistol [Hold-Out, Acc 4, DV 7P, AP—, SS/BF, RC—, 2 (b), w/ 
+10 rounds of regular ammo]
+Contacts
+Assassin (Connection 3, Loyalty 2), Disavowed Spy (Connection 3, 
+Loyalty 3), Fixer (Connection 3, Loyalty 3)
+Starting ¥
+4,225 + (3D6 + 60)
+
+
+===== runfaster.pdf p163 =====
+>> RUN FASTER <<
+Sometimes called angels of the battlefield, the combat 
+medic is a welcome addition to any team. A hardened vet-
+eran of war, he’s seen more than his share of death and de-
+struction. Tough both mentally and physically, he’s usually 
+the one to run through hellish incoming fire to save the life 
+of a buddy or teammate. A warrior concerned more with 
+preserving life than taking it, he also brings to any battle a 
+wide variety of life-saving options that include potent heal-
+ing magic and good old-fashioned hands-on first aid. But 
+don’t think for a moment that the medic can’t defend him-
+self and his patents. Many have learned that the hard way. It 
+takes a special kind of brave (or crazy) to do what he does, 
+because the medic is someone who cares more for the life 
+of others than for his own. For a combat medic, no one is 
+ever left behind.
+COMBAT
+MEDIC
+METATYPE: HUMAN (MYSTIC ADEPT, SHAMAN)
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+M
+4
+4
+4
+4
+5
+3
+3
+5
+6
+2
+5
+Condition 
+Monitor (P/S)
+10/11
+Armor
+14
+Limits
+Physical 6, Mental 5, Social 7
+Physical 
+Initiative
+7 + 1D6
+Skills
+Automatics 3, Computer 1, Counterspelling 5, First Aid 6, Gymnastics 
+3, Navigation 2, Perception 4, Pistols 4, Running 2, Medicine 3, 
+Spellcasting 5, Survival 2, Swimming 1, Unarmed Combat 3 
+Knowledge 
+Skills
+Mass Casualty Incidents 2, Mercenary Hangouts 3, Triage 3
+Languages
+Arabic 1, Aztlaner Spanish 2, English N, German 2
+Qualities
+Code of Honor (Leave No One Behind), Guts, Poor Self Control (Thrill 
+Seeker), Quick Healer, SINner (national), Toughness  
+Adept 
+Powers
+Combat Sense 2, Danger Sense 2, Empathic Healing, Mystic Armor 2, 
+Pain Relief, Pain Resistance 1, Spell Resistance 1 
+Spells
+Antidote, Detect Life, Heal, Increase Reflexes, Levitate, Stabilize, 
+Stunbolt
+Gear
+3 antidote patches, Ares PED Mark III (w/ oxygen tank), armor jacket 
+[12], binoculars (optical), biomonitor, counterspelling focus 1(combat 
+spells), 3 disposable syringes, flashlight, gas mask, 2 medkits [Rating 
+3], 6 medkit supplies, monocle [Rating 4, w/ flare compensation, image 
+link, low-light vision, smartlink], Middle lifestyle (3 months), Narcojet (3 
+doses), spell formula (manaball, manabolt), spellcasting focus [Rating 
+2, health spells], subvocal microphone, 3 tranq patches, Transys 
+Avalon commlink, 4 trauma patches
+Weapons
+HK-227 [Assault Rifle, Acc 4(6), DV 7P, AP—, SA/BF/FA, RC 1, 28 (c), w/ 
+100 rounds regular ammo, 4 spare clips]
+Salavette Guardian [Heavy Pistol, Acc 5 (7), DV 8P, AP –1, SA/BF, RC 1, 
+12 (c), w/ 60 rounds regular ammo, 4 spare clips]
+Survival Knife [Blades, Acc 5, Reach—, DV(STR+2)P, AP 1]
+Contacts
+Fixer (Connection 2, Loyalty 2), Street Doc (Connection 2, Loyalty 3)
+Starting ¥
+5,070 + (4D6 + 100)
+<< AS YOU AS YOU CAN BE    161
+
+
+===== runfaster.pdf p164 =====
+>> RUN FASTER <<
+So what if it’s a stereotype that big, massive, hulking trolls 
+make good bodyguards. It works, so why mess with it? But 
+just because someone has the body, the skills, and the ’ware 
+for the work doesn’t mean everything always goes well. 
+Sometimes, the job goes sideways and the principle gets 
+geeked. Maybe she didn’t notice something or was just a 
+half a second too slow, or maybe someone else screwed up 
+but she took the heat for it. Now instead of working lucrative 
+corp-executive or celebrity protection details, she’s forced 
+to use her skills in the shadows. But the skills she honed in 
+protecting a principle have more than one use—what had 
+been used for defense can also be used to attack. Her role 
+may have changed, but she’s still committed to never fail 
+her “principle”—whatever that might be. 
+DISGRACED
+BODYGUARD
+162    AS YOU AS YOU CAN BE >>
+METATYPE: TROLL
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+9
+5
+5 (7)
+8
+3
+3
+3
+3
+2.45
+1
+Condition 
+Monitor (P/S)
+13/10
+Armor
+17
+Limits
+Physical 10(11), Mental 4, Social 4
+Physical 
+Initiative
+10 + 1D6
+Skills
+Blades 3, Clubs 3, Gymnastics 3, Intimidation 3, Perception 4, 
+Pistols 5(6), Unarmed Combat 5(6)
+Knowledge 
+Skills
+Corporate Culture 3, Entertainment Gossip 3, Psychology 3, Threat 
+Assessment 3
+Languages
+English N, Japanese 1, Spanish 1
+Qualities
+Code of Honor (Protect the Principle), Dependents (elderly parent), 
+Disgraced, Guts, SINner (National), Toughness 
+Augmentations Bone density augmentation 3, cyberears [Rating 1 w/ audio 
+enhancement 1, select sound filter 1, spatial recognizer], datajack, 
+flare compensation, internal air tank 1, orthoskin 3, reaction 
+enhancer 2, reflex recorder [pistols, unarmed combat], shock 
+hand, smartlink
+Gear
+2 antidote patches, 2 concealable quick-draw holsters, Executive 
+Suite armor [12], forearm guards [+1], license (professional 
+bodyguard), Low lifestyle (two months), jammer (area, Rating 3), 
+spare ammo (100 rounds regular, heavy pistol), 2 stim patches, 
+subvocal microphone, 2 trauma patches
+Weapons
+Savalette Guardian [Heavy Pistol, Acc 5 (7), DV 8P, AP –5, SA/BF, RC 
+1, 12 (c), w/ 60 rounds APDS ammo, 4 spare clips]
+Savalette Guardian [Heavy Pistol, Acc 5 (7), DV 8S*/6S(e)**, 
+AP–2**/–5***, SA/BF, RC 1, 12 (c), w/ 30 gel rounds, 30 rounds 
+Stick-n-Shock ammo, 4 spare clips]
+* gel round stats
+** Shock hand [Reach 1, Acc Physical, DV 9S(e), AP –5]
+Telescoping staff [Club, Acc 4, Reach 2, DV (STR+2)P, AP—]
+Contacts
+Corporate Administrative Assistant (Connection 3, Loyalty 2); Fixer 
+(Connection 2, Loyalty 2)
+Starting ¥
+3,580 + (3D6 x 60)
+
+
+===== runfaster.pdf p165 =====
+>> RUN FASTER <<
+Part do-gooder and part glory-hound, the investigative reporter 
+is bound and determined to do whatever it takes, go anywhere 
+to get a story. And while her newly acquired technomancer 
+abilities freaked her out at first, she came to realize they’re 
+definitely an advantage. Hey, those data sprites are great for 
+research and data sifting while she concentrates on hitting the 
+shadows to get the full story. But she’s not stupid. Without help, 
+she knows she would become just another story in the obits. 
+Sometimes (often) she turns to runners for backup. And some-
+times they turn to her—they may need help investigating some 
+slime-ball, be it in person or in the Resonance, or they may need 
+to learn about the power players in a particular neighborhood 
+or corporation. Plus, she can serve as a little extra muscle when 
+needed. She’s decent in a fight, but her true talent is talking to 
+and pumping people for info. The truth is out there, but some-
+times it just needs the proper leverage to go public.
+INVESTIGATIVE
+REPORTER
+<< AS YOU AS YOU CAN BE    163
+METATYPE: HUMAN
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+RES
+2
+3
+3
+2
+3
+4
+4
+4
+6
+2
+5
+Condition Monitor (P/S)
+9/10
+Armor
+12
+Limits
+Physical 3, Mental 5, Social 5
+Physical Initiative
+6 + 1D6
+Matrix Initiative
+6 + 4D6
+Skills
+Compiling 5, Computer 5, Con 5, Cracking skill group 
+5, Decompiling 2, Gymnastics 3, Influence skill group 
+5, Intimidation 5 (Interrogation +2), Perception 5, Pilot 
+Ground Craft 2, Pistols 4, Registering 4, Sneaking 3, 
+Software 5, Tracking 3 (Urban +2), Unarmed Combat 3
+Knowledge Skills
+Investigative Reporting 4, Journalism 3, Local Politics 2
+Languages
+English N, Japanese 3
+Qualities
+Allergy (uncommon, mild, grass), Analytical Mind, Code 
+of Honor (Seek the Truth), Home Ground (You Know a 
+Guy, home city), Natural Hardening, SINner (national)
+Living Persona
+Attack 3, Data Processing 3, Device Rating 5, Firewall 
+3, Sleaze 3
+Complex Forms
+Puppeteer, Resonance Spike, Resonance Veil
+Gear
+Area jammer (Rating 5), armor jacket [12], Actioneer 
+Business Clothes [8], binoculars (Capacity 3 w/ image 
+link, vision enhancement 2, vision magnification 
+electric), bug scanner (Rating 5), camera (Capacity 6 w/ 
+audio enhancement 2, image link, vision enhancement 
+2, vision magnification electronic), 2 certified credsticks 
+(silver), 2 certified credsticks (standard), 2 concealable 
+holsters, contacts (Rating 3, w/ flare compensation, 
+image link, low-light vision), 10 datachips, DocWagon 
+contract (basic), directional microphone (Capacity 2, 
+w/ audio enhancement 1, select sound filter 1), earbuds 
+(Rating 1), 5 sheets electronic paper, laser microphone 
+(Capacity 2, w/ audio enhancement 1, select sound 
+filter 1), maglock passkey (Rating 5), micro-camera, 
+micro omni-directional microphone, Middle lifestyle (3 
+months), omni-directional microphone (Capacity 2 w/ 
+audio enhancement 1, select sound filter 1)
+Weapons
+Browning Ultra-Power [Heavy Pistol, Acc 5 (6), DV 
+8P, AP –1, SA, RC —, 10 (c), w/ 100 rounds regular 
+ammo, 3 spare clips]
+Cavalier Safeguard [Taser, Acc 5(6), DV 6S(e), AP –5, 
+SA, 6 (m) w/ laser sight, 60 taser darts]
+Shock hand [Taser, Reach —, DV 9S(e), AP –5]
+Contacts
+Blogger (Connection 1, Loyalty 2); Fixer (Connection 
+2, Loyalty 2); Screamsheet Editor (Connection 3, 
+Loyalty 3)
+Starting ¥
+5,255 + (4D6 x 100)
+
+
+===== runfaster.pdf p166 =====
+>> RUN FASTER <<
+Even in an era where ever-advancing technology competes with 
+ancient forces over which is more powerful, there’s still a need 
+for someone who can put a bullet through someone’s cranium 
+from 1,500 meters away. Combining the best in modern firearms 
+technology, Awakened abilities, and raw skill, the marksman ad-
+ept is a specialist who lives by the motto “One shot, one kill, no 
+exceptions.” For him, big explosions and putting lead downrange 
+fast isn’t as important as putting the shot dead on target, usually 
+through the cranium. While many consider him a cold-blooded 
+killer or assassin, he’s actually an honorable professional with a 
+select set of skills who prefers precision to brute strength and col-
+lateral damage. Whether it’s as a designated marksman moving 
+with a team providing long-range precise fire support or in the 
+classic sniper role of providing overwatch and taking out key tar-
+gets ahead of the main force, the marksman adept is a welcome 
+addition to any team and a serious threat to his enemies. 
+MARKSMAN ADEPT
+164    AS YOU AS YOU CAN BE >>
+METATYPE: HUMAN
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+M
+3
+6
+5(6)
+3
+4
+4
+3
+3
+6
+3
+6
+Condition Monitor (P/S)
+10/10
+Armor
+9
+Limits
+Physical 5(6), Mental 5, Social 6
+Physical Initiative
+8(9) + 2D6
+Active Skills
+Armorer 3, Automatics 4(5), Close Combat skill group 
+2, Etiquette 2, Gymnastics 3, Longarms 5(6), Perception 
+5, Pistols 4(5), Running 3, Sneaking 4(5), Survival 3, 
+Tracking 3
+Knowledge Skills
+Ballistics 3, Firearm History 1, Meditation 2, Mercenary 
+Units 2, Small Unit Tactics 4
+Language Skills
+Aztlaner Spanish 3, English N
+Qualities
+Astral Chameleon, Catlike, Code of Honor (Warrior’s 
+Code), Emotional Attachment (Crockett EBR)
+Adept Powers
+Danger Sense 1, Enhanced Accuracy (Automatics), 
+Enhanced Accuracy (Longarms), Enhanced Accuracy 
+(Pistols), Improved Ability (Automatics) 1, Improved 
+Ability (Longarms) 1, Improved Ability (Pistols) 1, 
+Improved Potential (Physical), Improved Reflexes 1, 
+Motion Sense, Stillness 2
+Gear
+Binoculars, catalyst stick, chameleon suit [9], climbing 
+gear, concealable holster, DocWagon contract (basic), 
+Erika Elite commlink, fake SIN (Rating 3), flashlight 
+(low-light), ghillie suit (forest/jungle), ghillie suit (urban), 
+goggles [Capacity 2 w/ low-light vision, smartlink], 
+grapple gun, license (Awakened individual, professional 
+mercenary) Middle lifestyle (1 month), periscope, 
+rappelling gloves, stealth rope (100m), subvocal 
+microphone, survival kit, tool kit (Armorer)
+Weapons
+AK-97 [Assault Rifle, Acc 5(7), DV 10P, AP –2, SA/BF/
+FA, RC 2, 38 (c), w/ foregrip, sling, 150 rounds regular 
+ammo, smartgun system (external), 3 spare clips]
+Cavalier Arms Crockett EBR [Sniper Rifle, Acc 6 (8), DV 
+12P, AP –5, SA/BF, RC 3, 20 (c), w/ 80 rounds APDS 
+ammo, bipod, imaging scope, 100 rounds regular 
+ammo, shock pad, smartgun system (external), 3 
+spare clips, 20 stealth tag tracker ammo]
+Colt Government 2066 [Heavy Pistol, Acc 6(9), DV 7P, 
+AP –1, SA, RC —, 14 (c), w/ laser sight, 150 rounds 
+regular ammo, silencer/suppressor, 3 spare clips]
+Franchi Spas-24 [Shotgun, Acc 4(6), DV 12P, AP –1, 
+SA/BF, RC 1, 15 (c), w/ 50 flechette rounds, 30 gel 
+rounds, shock pad, smartgun system (internal), 100 
+rounds regular ammo (slug) ]
+Survival knife [Blade, Acc 5, DV (STR+2)P, Reach —, 
+AP –1]
+Contacts
+Fixer (Connection 2, Loyalty 2); Mercenary NCO 
+(Connection 2, Loyalty 3)
+Starting ¥
+3,885 + (4D6 X 100)
+
+
+===== runfaster.pdf p167 =====
+>> RUN FASTER <<
+Some people have a fever, and the only prescription is … shadow-
+running. Artists sometimes find their muses in the most unlikely 
+of places. In the case of the rocker, he found his inspiration in 
+the shadows. Unable to decide between the world of music and 
+shadowrunning, the rocker lives a dangerous dual life and draws 
+inspiration from his experiences in the high-stakes, live-or-die 
+world of the shadows. He composes everything from mournful 
+ballads dedicated to fallen teammates to hyper-charged pow-
+er-anthems about rebellion, anarchy, and true freedom. Whether 
+it’s riffing on his prized guitar at a concert or laying down sup-
+pression fire with his assault rifle, the rocker is all about living in 
+the moment, since tomorrow, we may all die. Some in the biz 
+see the rocker as excess baggage at best or a liability at worse, 
+but in a fight he can more than hold his own. And his force of will 
+and rock-star charisma and bad-boy charms are potent weapons 
+in their own right. But no matter what the situation is, the rocker 
+will be in the forefront putting it all on the line because one never 
+really knows where the next bit of inspiration will come from. 
+ROCKER
+<< AS YOU AS YOU CAN BE    165
+METATYPE: HUMAN
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+4
+4
+4(6)
+3
+3
+3
+5
+6
+3.9
+5
+Condition Monitor (P/S)
+10(11)/10
+Armor
+12
+Limits
+Physical 5(6), Mental 5, Social 7
+Physical Initiative
+9 (11) + 1D6
+Active Skills
+Artisan 4 (Songwriter +2), Automatics 3, Blades 
+2, Con 3, Etiquette 3, Leadership 2, Negotiation 4, 
+Perception 4, Performance 6, Pistols 5, Stealth 
+skill group 5, Unarmed Combat 3
+Knowledge Skills
+Dive Bars 3, Groupies 1, Music 4, Music Venues 2
+Languages
+English N, French 2, German 2, Japanese 2, 
+Spanish 2
+Qualities
+Addiction (Mild, shadowrunning), Distinctive Style 
+(Rock and Roll!!!), Indomitable (Social) 1, Too 
+Pretty to Hit, SINner (National)
+Augmentations
+Cyberarm (obvious) [w/ shock hand, Agility 
+4, Strength 4], cyberears [Rating 3, w/ audio 
+enhancement 1, dampener, select sound filter, 
+sound link, spatial recognizer], datajack, reaction 
+enhancer 2
+Gear
+Armor jacket [12], 2 certified credsticks (silver), 2 
+concealable holsters, DocWagon contract (Gold, 
+1 year), ear buds [Capacity 1, w/ select sound filter 
+1], Fender-Hall Pegasus electric guitar, glasses 
+[Capacity 3. w/ flare compensation, low-light 
+vision], Hermes Ikon commlink, Low lifestyle (3 
+months), sub-vocal microphone, tool kit (Disguise)
+Weapons
+Browning Ultra-Power [Heavy Pistol, Acc 5 (6), 
+DV 8P, AP –1, SA, RC —, 10 (c), w/ laser sight, 
+40 rounds regular ammo, 3 spare clips]
+Cavalier Safeguard [Taser, Acc 5(6), DV 6S(e), AP 
+–5, SA, 6 (m) w/ laser sight, 12 taser darts]
+FN HAR [Assault Rifle, Acc 5(6), DV 10P, SA/BF/FA, 
+RC 2, 35 (c) w/ laser sight, 200 rounds regular 
+ammo, sling, 3 spare clips]
+Combat knife [Blade, Acc 6, Reach —, DV (STR 
++2)P, AP 3)]
+Shock hand [Taser, Reach —, DV 9S(e), AP –5]
+Contacts
+Retired Street Samurai (Connection 3, Loyalty 
+4); Club Owner (Connection 4, Loyalty 3); Fixer 
+(Connection 3, Loyalty 4); Street Performer 
+(Connection 2, Loyalty 3); Studio Musician 
+(Connection 2, Loyalty 3)
+Starting ¥
+6,360 + (3D6 + 60)
+
+
+===== runfaster.pdf p168 =====
+>> RUN FASTER <<
+She got her start on the amateur racing circuit, showing off her 
+skills with a bike, maneuvering in ways no one else could. Peo-
+ple started betting on her, so she started betting on herself, and 
+a fun hobby turned into a source of income. She moved her way 
+up to the semi-professional circuit, loving the adrenaline rush 
+but wishing for something more, something that would put her 
+even more on the edge. She found it in the shadows. Shadow-
+runners place high value on someone who can get out of a tight 
+spot, and that’s the street racer’s specialty. She will outrace any-
+thing, anytime, anywhere. She’s foolish enough to believe she 
+might be able to outrace a bullet, and skilled enough to maybe 
+have a chance at pulling it off.
+STREET RACER
+166    AS YOU AS YOU CAN BE >>
+METATYPE: ELF
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+3
+3
+4(6)
+3
+3
+4(6)
+3
+3
+1.5
+4
+Condition 
+Monitor (P/S)
+10/10
+Armor
+16
+Limits
+Physical 5, Mental 6, Social 4
+Physical 
+Initiative
+7(9) + 1D6
+Matrix Initiative 
+(AR/Cold sim)
+8 + 3D6/8 + 4D6
+Skills
+Automatics 4, Automotive Mechanic 5, Electronic Warfare 4, 
+Electronics Group 5, Gunnery 5(6), Navigation 3, Perception 4, Pilot 
+Ground Craft 6, Pistols 5, Sneaking 3
+Knowledge 
+Skills
+Drift Racing 2, Go Gangs 3, Police Procedures 3, Underground Racing 
+Circuits 3
+Languages
+English N, Japanese 3
+Qualities
+Addiction (Moderate, caffeine), Dependents 1 (sibling), Distinctive Style 
+(speed-freak), Gearhead, Juryrigger, Prejudiced (Specific, outspoken, Law 
+Enforcement)
+Augmentations
+Cerebral booster (Rating 2), control rig (Rating 2), cybereyes [Rating 2, 
+w/ flare compensation, image link, low-light vision, smartlink], datajack, 
+dermal plating (Rating 2), reaction enhancers (Rating 2), reflex recorder 
+(Gunnery), rigger command console (CompuForce TaskMaster)
+Gear
+Ares PED Mark III (w/ oxygen tank), bike racing armor [12] (w/ fire 
+resistance 2), bike racing armor helmet [+2], certified credstick (gold), 
+concealable holster, DocWagon contract (basic), facility (automotive 
+mechanic), fake licenses [Rating 5, driving], fake SIN [Rating 5], Hermes 
+Ikon commlink (DR 5) Middle lifestyle (4 months), medkit (Rating 4, 
+w/ 2 supply refills) miniwelder, 3 stim patches, subvocal microphone, 
+sunglasses [Capacity 2, w/ vision enhancement 2] tag eraser, toolkit 
+(automotive mechanic), 3 trauma patches
+Vehicles
+Ford Americar [Handling 4/3, Speed 3, Accel 2, Body 11, Armor 6, Pilot 1, 
+Sensor 2, Passenger 4, rigger interface, weapon mount (Uzi IV)]; Colt 
+TZ-120 [SMG, Acc 4(6), DV 7P, AP-, SA/BF, RC 2, 40 (c), w/ smartgun 
+system (external), 300 rounds regular ammo]
+GMC Bulldog Step-Van [Handling 3/3, Speed 3, Accel 1, Body 16, Armor 
+12, Pilot 1, Sensor 2, Passenger 6, rigger interface, 2 weapon mount 
+(Ingram Valiant)]; Ingram Valiant [LMG, Acc 5(7), DV 9P, AP-2, BF/FA, 
+RC 2(3), 100 (belt), w/ smartgun system (external), 300 rounds regular 
+ammo]
+Suzuki Mirage [Handling 5/3, Speed 6, Accel 3, Body 5, Armor 6, Pilot 1, 
+Sensor 2, Passenger 1, rigger interface, weapon mount (Uzi IV)]; Uzi 
+IV [SMG, Acc 4(6), DV 7P, AP-, BF, RC 1, 24 (c), w/ smartgun system 
+(external), 300 rounds regular ammo]
+Yamaha Growler [Handling 4/5, Speed 3/4, Accel 1, Body 5, Armor 5, Pilot 
+1, Sensor 1, Passenger 1]
+Weapons
+Ares Predator V [Heavy Pistol, Acc 5 (7), DV 8P, AP –1, SA, RC —, 15 (c), 
+w/ 150 rounds regular ammo]
+Ingram Smartgun X [SMG, Acc 4(6), DV 8P, AP —, BF/FA, RC 2, 32 (c), w/ 
+150 rounds regular ammo]
+Contacts
+Fixer (Connection 2, Loyalty 2); Go Ganger (Connection 2, Loyalty 3)
+Starting ¥
+4,360 + (4D6 x 100)
+
+
+===== runfaster.pdf p169 =====
+>> RUN FASTER <<
+It takes a special kind of con artist to infiltrate the Sixth World’s 
+most dangerous gangs, criminal organizations, and shadows. 
+But the undercover cop is up to it (or so she hopes). The mo-
+ment they go under, the undercover cop’s past is gone. Their 
+cover becomes their life. With their handler being their only 
+connection to their real identity, the cop must walk a fine line 
+between obeying and breaking the law in an effort to bring 
+criminals to justice, all while keeping their cover intact. Many 
+undercover cops don’t live past their first few months, and 
+very few live to see retirement. Everyone who goes under is 
+changed. Some give in to the corruption they see, while others 
+become jaded and self-destructive. But a rare few learn to use 
+both law and the shadows to bring a little justice to the world … 
+even if they get their hands a bit dirty in the process. 
+UNDERCOVER COP
+<< AS YOU AS YOU CAN BE    167
+METATYPE: ORK
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+5
+4
+4
+4
+4
+3
+4
+5
+5.25
+1
+Condition Monitor 
+(P/S)
+11/10
+Armor
+12
+Limits
+Physical 6, Mental 5, Social 7
+Physical Initiative 8 + 1D6
+Active Skills
+Close Combat skill group 5, Con 6, Escape Artist 3, Etiquette 3 (Street +2), 
+Gymnastics 3, Intimidation 4, Longarms 3, Negotiation 4, Perception 4, 
+Pilot Ground Craft 2, Pistols 5, Running 2, Stealth skill group 5, Tracking 5 
+(Urban +2)
+Knowledge Skills
+Black Markets 2, Criminal Operations 2, Gangs 3, Law Enforcement 2, 
+Organized Crime 3
+Language Skills
+Chinese 2, English N, Italian N, Japanese 3, Russian 2
+Qualities
+Allergy (Uncommon, Mild, dogs), Bilingual, Home Ground (Street Politics), 
+SINner (Corporate Limited), Tough as Nails
+Augmentations
+Cyberears [Rating 2 w/ audio enhancement 1, select sound filter 1, 
+soundlink], cyberhand [Rating 2, Agility 4, Strength 4, w/ hand razors], 
+datajack, image link
+Gear
+Armor jacket [12], certified credstick (silver), 3 concealable holsters, fake 
+SIN [Rating 3], Low lifestyle (1 month), 10 plastic restraints, 10 sensor tags, 
+10 stealth tags, Renraku Sensei commlink
+Weapons
+Colt America L36 [Light Pistol, Acc 7(8), DV 7P, AP —, SA, RC —, 11 (c), w/ 
+55 gel rounds, laser sight (external), 3 spare clips]
+Defiance EX Shocker [Taser, Acc 4, DV 9S(e), AP –5, SS, RC 3, 4 (m), w/ 20 
+spare darts]
+Remington 990 [Shotgun, Acc 4(5), DV 11P, AP –1, SA, RC —, 8(c), w/ 40 
+flechette rounds, 40 gel rounds, laser sight, 40 rounds regular ammo 
+(slug)]
+Ruger Super Warhawk [Heavy Pistol, Acc 5(9), DV 9P, AP –2, SS, RC —, 6 
+(cy), w/ laser sight, 60 rounds, 3 speed loaders]
+Hand razors [Blade, Acc 6, Reach —, DV (Str+1)P, AP –3]
+Knife [Blade, Acc 5, Reach —, DV (STR+1)P, AP –1]
+Contacts
+Bartender (Connection 2, Loyalty 2): Black Market Dealer (Connection 3, 
+Loyalty 3): BTL Dealer (Connection 2, Loyalty 2): Fixer (Connection 2, Loyalty 
+1): Handler (Connection 3, Loyalty 2): Mafia Capo (Connection 2, Loyalty 3): 
+Street Hustler/Face (Connection 4, Loyalty 3)
+Starting ¥
+4,547 + (3D6 X 60)
+
+
+===== runfaster.pdf p170 =====
+Netcat reclined into her luxuriously wonderful WCG 
+Bèibù ànmó massage chair, which had been designed 
+specifically for people with long-term pain due to the 
+various ways life had to hurt a person. Included with the 
+chair was an aftermarket Senpaitek Kangofu medkit with 
+vitals monitoring and a self-changing IV abilities, the best 
+friend a decker or technomancer could have when delv-
+ing deep into the Matrix and beyond for days at a time. 
+The biggest drawback was the catheter, but it there really 
+was no way around using it if you wanted to get things 
+done properly. Today, though, was not a deep dive type 
+of day, and so the catheter was not needed. She mentally 
+called up a data sprite that she had registered to monitor 
+news feeds, blogs, forums, and even a few shadow sites 
+for information that would be of interest to her, and or-
+ganize it all for her in terms of priority. It was a cute little 
+thing, shaped like a little stick of ancient RAM with an an-
+alog reel-to-reel tape-drive face, and it chirped happily 
+as it transferred its report.
+The smallest file was flagged for immediate attention, 
+so Netcat gave it a quick once over. Then she slowed 
+down and looked again, her eyes widening, her mouth 
+dropping. She twisted in her chair, which reformed com-
+pletely around her body and went back to massaging the 
+exhaustion and tension out of her back and shoulders. 
+The file was simple text, no voice feed included, and it 
+carried codes in the title that were only found in fan-fic-
+tion. She was appalled, but that didn’t keep her from 
+reading it a third time so she could confirm that she was 
+really reading what she thought she was.
+Netcat held the toaster to her naked bosom, his perky elven brown 
+nipples stiffening against the hard, cold plasteel of the case. She 
+cooed lightly to it, like one would do when cuddling a lover that 
+meant much, much more than some random one-night stand 
+in a heartless world. It was the sound you make to a soulmate.
+“This is wrong.” The toaster transmitted to her, “You are a 
+metahuman, while I am just a lowly appliance, built to roast 
+DOMESTICALLY 
+DISTURBED
+168    DOMESTICALLY DISTURBED
+
+
+===== runfaster.pdf p171 =====
+bread with heating coils. I lack even a heart to properly return 
+the love you have for me.”
+Netcat lowered her head, kissing the crossbar that sepa-
+rated the slots for the slices of bread, “If this is wrong, then 
+I wish never to be right again.” The curvy and naked elf 
+declared to God and anyone else that was listening in on a 
+proclamation of true love, and lowered her kiss so that her 
+tongue …
+Rage filled the Netcat’s mind. The worse a joke is, the 
+longer it lives, she thought. The term of casual disparage-
+ment for technomancers had never made much sense, 
+yet here was some idiot bringing it to literal, hideous 
+life. She was suddenly angry at a lot of people, but only 
+one of them was near enough to be on the receiving 
+end of her wrath. She stalked around the home, seeth-
+ing as she thought about the methods of revenge for 
+his many, many flaws and thoughtless actions. Her mind 
+filled with images of castration, dismemberment, slow 
+starvation, removal of cybernetics with crude tools, de-
+struction of his online reputation, and, finally, before 
+she left the police to have what was left, forcing him to 
+watch as she burned down his ever-so-holy Safeco Field 
+baseball stadium...
+“Fred!” Netcat screamed, her tone deeply soaked in 
+venom. Her sprite dashed away in fright, while her cat 
+stopped sharpening his claws on one of the pieces of 
+electronic detritus that cluttered the home, specifically 
+an old Fuchi Gateway 4217-G system that was the only 
+access the home had to the Matrix. Heavily updated 
+over the years, it housed Netcat’s sprites, some very 
+nasty interface countermeasures, a few pieces of fake 
+data for clever skript kiddies to think they got some real 
+paydata, and a piece of old rug on the case for Ogmios, 
+the Bastet E-Cat.
+“Can’t talk, sugarfingers. Baseball,” Slamm-0! re-
+plied from the living room, lying back on the couch with 
+his son in his lap. Both of them were intently watching 
+the trid of the live Mariners game. The Sony Prismtron 
+wasn’t the best model on the market, and certainly 
+not the most expensive, but its standard multi-display 
+DOMESTICALLY DISTURBED    169
+BY RAYMOND CROTEAU
+
+
+===== runfaster.pdf p210 =====
+er gangs. Further, within these large bodies, there is a 
+lot of variation in culture. There’s almost always a “pro-
+gressive” splinter and a more “conservative” faction, 
+so it always pays off to know which group Mr. John-
+son belongs to. Syndicate Johnsons are typically a little 
+less anonymous than corporate ones, so getting your 
+Johnson’s rap sheet and knowing how he treated past 
+shadowrunners is going to be easier. Be sure to take 
+advantage of that.
+MAFIA
+The Cosa Nostra is a very wide and diverse group, more 
+than most other syndicates. What started out as an Ital-
+ian thing is really now a Jewish, Irish, Polish, Black, and 
+so on thing. The common thread is respect. You must 
+always show respect to Mafia Johnsons. It’s part of their 
+rules. Any disrespect must be punished.
+Mafioso Johnsons typically don’t have too much of 
+a problem with working with shadowrunners. They are 
+another bunch that are pleasant to meet, as good al-
+cohol is usually offered. Mafia Johnsons like to meet in 
+places they control, often restaurants, bars, or gambling 
+clubs, though this can extend to less-friendly places 
+like the docks or alleys in their territory. Don’t read too 
+much into the choice of places. If they want you dead, 
+they’re equally likely do it in any of these locations. Short 
+of that, the mob typically pays what it promises, so not 
+getting paid is rarely a concern. They’ll either pay you 
+fully or kill you.
+YAKUZA
+Yakuza Johnsons are the ones who have the most trou-
+ble working with runners. They don’t like dishonorable 
+scum like you, and unless you’re an all-Japanese-hu-
+man-male team, they’re frequently going to have is-
+sues with at least some of you. They don’t like women, 
+they don’t like gaijin, and they certainly don’t like meta-
+humans.
+Despite all that, it hardly means you won’t be doing 
+jobs for the Yaks. The Yakuza are some of the world’s fin-
+est hypocrites. They’ll break all the rules they insist make 
+them so superior, and to do so they’ll use the worst 
+scum they can find: you. 
+Yakuza Johnsons are unpleasant. They don’t like be-
+ing near you. They are the kind of guys who will invite 
+you to meet somewhere nice, but you won’t be sam-
+pling any of the delights; they will be for Mr. Johnson, 
+helping him compensate for the nastiness he has to suf-
+fer through. They will get to business quickly and plain-
+ly. They’ll assume you are idiots so will keep it simple. 
+Don’t ask too many questions, that just prolongs how 
+long he has to suffer your presence, so he’ll cut it short 
+and tell you to do your homework. Unpleasant people, 
+I told you.
+That being said, the Yakuza have their claws in a lot 
+of corporations, through extortion and blackmail. They 
+leverage those contacts to get a lot of inside info, so runs 
+often have a little help from the inside. The Yaks pay well 
+enough, but they like to pay in kind, especially in vices, 
+though you can sometimes get cyberware, hacking gear, 
+weapons, that sort of stuff. 
+TRIADS
+Working for the Triads is typically pretty straightfor-
+ward. They don’t have an opinion about shadowrun-
+ners one way or another. Johnsons are typically older 
+gentlemen and ladies, so don’t expect too much ex-
+citement in your meets. They are, however, infuriating-
+ly superstitious and talk in metaphors way too much. 
+The Triads will often be pairing you with some of their 
+own muscle as backup or diversion, as needed.
+Don’t expect to become a regular of your Triad John-
+son. You are not one of them and never will be. You 
+don’t understand. They’ll use you purely as mercenaries, 
+and you’ll never be one of their favorites or whatever. It’s 
+a cold life working for the Triads.
+Also, a word of caution. If you need to cross them 
+for some reason, payback will come using magic. You’d 
+better find a nice, warded place and plan to stay there 
+for the rest of your life.
+VORY
+The Vory v Zakone are a tough bunch. They’ll take a beat-
+ing and keep on ticking. Vory rely on shadowrunners 
+more than the other criminal outfits. They are probably 
+alone in not feeling superior to you. You’re not Vory, no, 
+you’re still an outsider, but so long as you deliver on what 
+you are tasked, then you are just swell in their opinion. 
+Make no mistake, Vory Johnsons are the epitome of 
+violent men. You don’t need to treat them special, but 
+you do need to be effective, to deliver, and never ever 
+cost them money. The Vory only know one way to solve 
+problems: kill everyone you know, knew, or might pos-
+sibly get to know in spectacularly bloody fashion as they 
+work their way to you. They are cold, cold people whose 
+smiles never quite thaw the ice in their eyes.
+Vory Johnsons are very pragmatic. Whatever works, 
+whatever you need to do, is fine by them if it doesn’t 
+screw up their work. Whatever they can do to assist, 
+they’ll do, for a certain charge. Good people to work for, 
+so long as you aren’t looking to make friends (if you are, 
+you’re in the wrong business anyway).
+EXTREMISTS
+Extremists … now we’re getting to the fun part. Extremists 
+are terrorist groups—very much including eco-terrorist—
+as well as insurgents, freedom fighters, rebels, but also 
+secret societies, political organizations, magical groups. 
+All of those kinds of people. Anyone who believes in 
+something. Anyone who values, above all else, some-
+thing other than nuyen. God, these people make me sick.
+>> RUN FASTER <<
+208    BOSSES & BETRAYERS >>
+
+
+===== runfaster.pdf p211 =====
+Extremist organization Mr. Johnsons are almost always 
+the bosses who call the shots. This is because most of 
+these group work in cell structures where the less mem-
+bers know, the better. So, really, nobody but the top guy of 
+a local “cell” or whatever they call themselves (sometimes 
+it’s “chapter” or “parish”) knows anything at all about the 
+big picture going on, so really nobody would know you 
+need to be hired. That means that in order to talk to anyone 
+who can do anything, you have to talk to the boss.
+Extremists do fund quite a lot of shadow work. The 
+reason is often very straightforward: they need your 
+skillset. Extremists often have a lot of members very 
+much willing to break the law and/or hurt unbelievers, 
+but what good qualities these people bring to the ta-
+ble in terms of enthusiasm, they cancel out by lacking in 
+skill. If we’re talking about armed groups—terrorist and 
+the like—then the jobs are often pretty straightforward 
+with little political aspect to it. These guys need you as 
+mercenaries to supplement their forces and reach where 
+they can’t, plain and simple. 
+However, it is the very opposite with nominally un-
+armed groups such as secret societies and policlubs. 
+Because they often want to present themselves as 
+peace-loving, perfectly rational and law-abiding people, 
+they need to secretly hire you to do the real dirty work 
+that is the entire point of their existence. The classic ex-
+ample is Humanis, an organization that goes to great 
+length to present itself as “not anti-metahuman but 
+pro-human,” hiring you to go and burn down an orphan-
+age for ork children.
+While these two halves have different reasons for 
+hiring you, they unfortunately have a similar tendency 
+to think it’s a great idea to kill you when you’re done. 
+These guys are amazing at rationalizing murder away 
+and for the most part have little concept of long-term 
+consequences and reputation in the shadows. As 
+soon as they don’t need you, there is a strong tenden-
+cy for them to eradicate you. Most likely, you are an 
+unbeliever to their cause anyway, so you’re just anoth-
+er unclean they need to burn in their crusade sooner 
+or later anyway, right? Now is as good a time as any 
+to kill you.
+>> RUN FASTER <<
+<< BOSSES & BETRAYERS    209
+
+
+===== runfaster.pdf p212 =====
+So, above all other Johnson types, be real careful 
+about what work you accept from these crazies. The 
+covenant that binds us all together—reputation—doesn’t 
+matter to these people. They will promise you moun-
+tains of gold when all they have is ten UCAS Dollars in 
+their pocket. They will lie to you about everything—any-
+thing to get you to do the job. And then when you’re 
+done, simple math comes up. Do they need you again? 
+If yes, then you’re okay. If not, then it’s really a question 
+of how many casualties they will take taking you out. 
+Note that I’m not saying “if” they will take casualties, but 
+“how many.” Throwing away the lives of trusting believ-
+ers is what these guys do best. Losing a dozen to kill four 
+or five runners isn’t a big deal—assuming their supply of 
+loyal underlings is holding up adequately.
+Given that they care nothing about honoring agree-
+ments and care only if they have a future need for you, 
+how do you make sure you get paid? Obviously, make 
+yourself indispensable. Show your potential for The 
+Cause. You can easily do this by going beyond the pa-
+rameters of the mission. Hired to burn down an orphan-
+age for orks? Then burn it down and then burn down the 
+nearby school mostly attended by orks. And, of course, 
+make sure there are plenty of orks in those buildings 
+when you burn them down. Then get video footage of 
+orks begging for their lives as you watch them burn and 
+give it to your Johnson when you come for the handoff. 
+He’ll like that. If you work for extremists, then you need 
+to be all in. If you show that you’re one of them, then 
+they will trust you. Trusted mercenaries are hard to come 
+by, so you’ve just made yourself useful. And by show-
+ing the same insane bias these people have, whatever it 
+may be, then you’re showing that your loyalties lie with 
+the group. So if you get arrested, you won’t talk. That’s 
+good. They like that.
+But, whatever you do, do not be an obstacle. Do not 
+suddenly grow a conscience and decide you don’t want 
+to complete the job. Do not act disgusted at their hidden 
+hatred. If you meet them, you’re on their radar now. Ex-
+tremist group are paranoid—very paranoid. Mostly they 
+have reason to be so, as governmental and corporate 
+spy agencies and law-enforcement agencies like to keep 
+tabs on them. If they’ll smoke you for simply not being 
+all in, imagine what they’ll do to you if they think you’re 
+actively against them. You just went from having an em-
+ployer to having an enemy hunting you down.
+All in all, if you ask me, you have to be pretty des-
+perate to work for extremist groups. But I understand 
+sometimes you just have to pay the bills. If you play your 
+cards right, though, there is no reason you can’t prosper. 
+Whether you can sleep at night after what these guys 
+ask you to do is another matter.
+>	
+Not all causes are morally bankrupt. Sometimes working 
+with those with a cause just means understanding you need 
+to push harder because there is more than nuyen at stake.
+>	
+Marcos
+>	
+Chummer, there ain’t ever nothing more than nuyen at 
+stake.
+>	
+Matt Wrath
+EXTREMIST ORGANIZATIONS
+HUMANIS
+Working for Humanis isn’t as bad as you might think. 
+They aren’t going to get you to line up and execute a 
+bunch of metas. That’s not their style. You’ll probably be 
+doing datasteals, surveillance, planting evidence, that 
+sort of thing. Humanis is about convincing people meta-
+humans are bad, not slowly executing the lot of them 
+one by one. While I’m sure they wouldn’t mind that hap-
+pening, the upper echelons try to be subtle.
+Speaking of the leaders, your Humanis Johnson isn’t 
+going to be some toothless hick. It’ll probably be some 
+rich guy’s assistant. He will think very highly of himself, 
+but even more highly of his boss, the guy funding your 
+run. They have no qualms hiring metahumans, by the 
+way. They can’t resist the smug satisfaction of being 
+proven right that metahumans are criminals and scum. 
+Plus, if you get caught, it’ll just show everyone else that 
+metahumans are nasty little thugs and thieves.
+Humanis are pretty middle-ground employers. Pay is 
+decent, but no real perks beyond that, and an average 
+chance to get betrayed. Humanis Johnsons tend to be 
+lazy, and they like hiring the same teams over and over 
+so long as nothing goes dramatically bad. 
+ILLUMINATES OF THE NEW DAWN
+Well, this is going to be a shocker, but your IoND Mr. 
+Johnson is going to be a smug fascist hermetic mage. 
+Sorry to have to break it to you. He is going to be a little 
+hoarder of secrets and act very self-important. If you can 
+deal with that, you can probably do business. The IoND 
+is not just looking for mage runners. They have plenty of 
+mages. What they often need is some good old street 
+muscle and techies like riggers and hackers.
+I may deride them a little, but I won’t deny Illuminate 
+Johnsons are smart bastards. They will have a very good 
+plan to get you to your objective. However, this plan will 
+most likely rely too much on magic and human manip-
+ulation: the two things they understand really well. It’ll 
+be a little light on making use of hacking and good old 
+violence, because they don’t know how to use these 
+tools effectively. I suggest you evaluate the plan and 
+inject what you know. You’ll probably offend your John-
+son, but he’ll eventually come around. Deep down, they 
+know you are better at doing this than they are.
+>> RUN FASTER <<
+210    BOSSES & BETRAYERS >>
+
+
+===== runfaster.pdf p213 =====
+The Illuminates have a reputation for being rich. Don’t 
+believe it. They don’t pay that well. However, if you need 
+secrets, they have that in spades. Blackmail dirt, who is 
+doing what to whom, what various people are planning, 
+all kinds of info a shadowrunner might find useful. Also, 
+any hermetics on your team will be grateful to be paid in 
+the kind of arcane items they have lying around, but they 
+will never give out the really good stuff.
+NEO-ANARCHISTS
+The little brats of the world have a natural affinity for 
+shadowrunners, and vice-versa. You two get along like 
+soykaf and Styrofoam cups. The Neo-As never have a 
+shortage of need for qualified shadowrunners, because 
+their own people are typically idealist dreamers who 
+can’t actually get anything done. The equation is very 
+simple when working with Neo-As. You have next to 
+no chance of getting betrayed, but you also will get the 
+poorest pay you’ve ever laid eyes on. But they at least 
+have pretty much every contact people of your kind 
+might need. Street docs, hacker software and hardware 
+supplies, weapons, safehouses … everything. 
+AMATEURS
+The final category is a broad one—the amateurs. Am-
+ateurs are people who do not normally operate in the 
+shadows at all. These are people who really don’t know 
+shadowrunners and don’t have a clue about the rules 
+of the game they just stepped in. Some examples of 
+amateurs are the scientist who personally hires you to 
+sabotage a rival’s project, the rich mage guy who wants 
+you to retrieve a rare artifact, or the parents who hire 
+you to find their daughter who disappeared in the Bar-
+rens (invariably, she ends up being an insect shaman, 
+but that’s another story).
+Amateurs aren’t dangerous per se. They lack the 
+means to kill you for whatever reason. The mad scientist 
+might try to kill you once you acquire that thingamajig, 
+but it’ll typically be a silly, over-elaborate plan that you 
+just sidestep pretty easily. I mean, these people haven’t 
+ever killed anyone before. They don’t know how it’s re-
+ally done. They don’t know actual shadowrunners, just 
+what they saw on the trid or the secondhand stories they 
+overheard. 
+The tradeoff to the safety of dealing with amateurs, 
+and possibly the good karma you get for helping some-
+one who really desperately needs your help, is that the 
+pay is shit. A few personally rich assholes aside, few am-
+ateurs have the thousands of nuyen it takes to properly 
+compensate runners for their time. You’ll typically get 
+some cash and then maybe something really precious to 
+the person, like a family heirloom or something. I know 
+two types of runners who take amateur jobs—the ones 
+who end up refusing most of the payment, and the ones 
+who milk Mr. Johnson dry. 
+You’re either the type that is going to see those poor 
+parents cry their eyes out when you tell them you had 
+to put down their insect shaman daughter for the good 
+of humanity and then feel really bad, thinking they’ve 
+been through enough, and accept a few hundred bucks 
+(if anything) and leave it at that. Or you’re the type 
+that’s going to do the job as an excuse to come back 
+and extort everything these people have simply be-
+cause you can. I mean, your beefy muscled cyberarm 
+is the size of that schmuck’s torso and your handgun 
+is the size of his head. Is he going to say no? If they 
+were dumb enough to invite you into their home, then 
+you’re going to clean them out. Easily justified consid-
+ering even after you rob them—excuse me, “accept due 
+payment”—tomorrow they go back to their plush cor-
+porate lives, and within a few years they’ll have rebuilt 
+their life savings. You? Tomorrow you’re waking up in a 
+slum and risking your life for another job, and the odds 
+of you being alive in ten years are slim to none. So get 
+paid while you can.
+Assuming you actually decide to go through the mo-
+tions of accepting the amateur Johnson’s job, be aware 
+that the intel they will have on the job is going to be 
+worthless. They’ll either know nothing, or the intel is go-
+ing to be so biased with wishful thinking that relying on 
+it would be extremely hazardous to your health. (Exam-
+ple: “Our good little girl has gone missing! She is help-
+less, please save her!” No—she is an insect shaman, not 
+a good little girl.)
+All things considered, amateur Johnsons require 
+some patience, but it can be a nice change of scenery. 
+You might get a feel-good factor from doing these jobs, 
+which I’ll grant can probably be nice every now and 
+then, though that will directly correspond to a serious 
+decrease in cash payment. Or, go for the other side of 
+the coin and realize amateurs are easy marks for you to 
+milk for very little effort or consequence. By definition, 
+they have no experience in the shadows—therefore no 
+contacts they can use. So whatever you do, it’s unlikely 
+your reputation will be affected since nobody is going to 
+hear about it. I mean, your conscience, if you have one, 
+will know, but that’s your business.
+>> RUN FASTER <<
+<< BOSSES & BETRAYERS    211
+
+
+===== runfaster.pdf p214 =====
+Kat o’ Nine Tales scanned the AR views of properties 
+while drinking a mimosa at the Millennium Hotel in L.A. 
+The once-glorious homes of the rich and famous sit in 
+front of her, strewn across the water like shells in the sand. 
+Artificial and Twin-created islands made finding specific 
+locations more of a challenge, especially when using 
+mapsofts from before the quakes. As she flips the ethere-
+al page of the virtual book, the walls and trid reacts to her 
+selection. Pointing to one of the pages, a great chandelier 
+manifests above Kat’s head and a ghostly spiral staircase 
+emerges out of the wall. She stands up to look around. 
+Not too shabby, lots of space and an upstairs, she thinks.
+With one step forward, the room quickly shifts to the 
+outside. Rubble from nearby homes is piled on the grey, 
+lumpy lawn. Ocean salt and pollution from the Twins 
+killed several large palm and black oak trees on either side 
+of the driveway. Turning to look at the front of the place, 
+Kat nearly chokes on the mimosa as all the windows have 
+covered up. 
+“Probably with projectors to avoid the view,” she 
+signs, then scans down the floating AR window, looking 
+for a price. She finds one, then shakes her head. “Igno-
+rance is bliss, but not at that price.”
+She flips to the next one and the room changes again. 
+Colored light now projects from a beautiful stained-glass 
+window above a balcony connected to twin staircases of 
+reclaimed hardwood. She turns around to admire the ar-
+chitecture. No art on the walls and more functional light-
+ing, but somehow the lighting of the place appeals to her. 
+Another step forward and the traditional lawn appears to 
+have been replaced with polished stone and sand-sculpt-
+ed landscape with large column stones to represent 
+trees. It’s a style she finds appealing. Another step and 
+she is to the edge of the island. Santa Monica is just on 
+the horizon. There’s a cliff edge about five or six meters 
+high, and someone has put in a floating dock and carved 
+in a few steps. She looks at another AR window, reading 
+that it’s apparently a reclaimed home, so the price has 
+been marked down significantly. Kat schedules an ap-
+pointment today to go see the place and then closes the 
+program. The room reverts to the eggshell white empti-
+ness as she steps out on the balcony to imagine the new 
+residence.
+Four hours later, with the Santa Anna breeze blowing 
+across the ocean, she reaches the island. Her dress flaps 
+in the wind as she reaches the top of the steps, but as she 
+walks the natural path, the wind turns into a breeze, tem-
+pered by the stone trees. 
+“Another plus for the place, but I doubt it has any sort 
+of plumbing or drinkable water,” she whispers looking 
+around.
+The house looked pretty good when she approached 
+it. The paint has faded with the sun and ocean spray, but 
+the windows and roofing appear to be intact. A digital 
+voice on the door says “Welcome! Please come in—the 
+realtor will arrive shortly.”
+She opens the door and steps in. An oriental rug lies in 
+the middle of the foyer allowing the light from the stained-
+glass window to dance upon it. Walking over to the rug, 
+she smiles at the artistic play of light. But the brief smile 
+vanishes as she finds that her feet can’t move from the rug.
+“Ah, yes. Beautiful work. I modeled it after your fourth 
+album cover,” says a familiar voice.
+Kat turns to see a rather pale man in the same yellow 
+tweed jacket, rolling a small ball at her feet. She tries to 
+pulls out her pistol and finds that her arms are weak and 
+sluggish. Realizing the futile gesture, she smiles, “Larry? I 
+thought you were dead. I see you have some new toys.”
+“Yes, Kat, I had to relocate after a falling out with cer-
+tain customers, but I found a great place here. Isolated 
+properties and all that. My new clients offer a variety of 
+toys to procure product for them. The immobility will end 
+soon, so we’ll have to cut the formalities short. I’m glad 
+you found this place, though.”
+“I’m not staying long.”
+“Indeed you’re not.” He approaches her with a long 
+syringe, “I have shipments to fulfill and parts don’t stay 
+fresh.”
+“What I should have said, Larry, is that I’m not here 
+looking for a place for myself. Some of Kane’s boys are 
+wanting a safehouse for the summer, and I owed Kane a 
+favor. Isn’t that right Scrimshaw?”
+The front door is pushed open. Ducking through the 
+doorway is a very weathered troll, whose arms wrinkle 
+with muscle augmentation. “Aye, mum,” he answers. Be-
+hind him are more people, partially obscured by Scrim-
+shaw’s frame.
+Kat sits down to wait for the spell to expire while she 
+watches Larry grow even paler. “Larry, why don’t you 
+negotiate the price with Scrimshaw, while the rest of the 
+crew checks the place out. I’ll just sit here and enjoy the 
+view.”
+RUN FASTER
+A DUMP OF
+ONE’S OWN
+212    A DUMP OF ONE'S OWN >>
+
+
+===== runfaster.pdf p215 =====
+WHAT’S IN A 
+LIFESTYLE?
+BY /DEV/GRRL
+While I initially was forced into a discussion on safe-
+houses and bolt holes a few years ago, I’ve found the 
+subject interesting and have continued to think more 
+about how we all live. Some of us have a house to go 
+to, some are not so lucky, while others prefer hotels or 
+living out of their car. Besides the physical aspect of a 
+lifestyle, I asked myself, what else is there? As a com-
+munity of shadowrunners, are there common forms of 
+entertainment? Security? Paranoid habits? So in a more 
+philosophical approach, I present a discussion about 
+what’s in a lifestyle. Fastjack, this one is for you.
+The first question is, what is a lifestyle? Simple—it’s 
+how you live on a day-to-day basis, and is normally bro-
+ken into socio/economic classes (Street, Low, Medium, 
+Luxury, etc.). So the follow-up question is, what are the 
+elements of a lifestyle? We can break a lifestyle down 
+into a few elements. I count seven parts to a lifestyle: 
+Comforts, Necessities, Security, Neighborhood, Enter-
+tainment, Services, and Assets. While a lifestyle should 
+include work, we all know what we do for a living, so 
+we’ll leave that out for now.
+COMFORTS
+A comfort is something that gets you out of the elements 
+and protects you from the cold, extreme heat, rain, or 
+snow that may be raging outside. Hypothermia, heat 
+stroke, sepsis, poisoning, and infection are risks that can 
+occur in if we’re outside too much, but these are mitigat-
+ed by modern conveniences of housing. In our lovely 
+world, urban temperatures tend to run two or three de-
+grees warmer than those in nearby rural areas. Smog and 
+acid rain are a constant reminder of how we screwed up 
+the world. The world can be cruel; have you been denied 
+a decent apartment, because you don’t have a SIN to val-
+idate your existence? So does what you do cause you 
+to live with minimum comforts, or do you do what you 
+do to gain more comforts? What I’ve seen is once you 
+have some cash, a fake SIN is a necessity to get a dump of 
+one’s own for almost everyone. How many of us support 
+two different places of “comfort” (using the term loose-
+ly)? One for the comfortable SINner, the other a hole-in-
+the-wall for the shadowrunner personality?
+>	
+Hypothermia can set in, even in warmer climates. Walking 
+around in fog-wet clothes in Seattle when it’s around 15 
+Celsius can potentially lead to death in an hour. I’ve seen 
+it happen in the Underground when people try to get out 
+of the rain.
+>	
+Bull
+>	
+There’s always room in the Barrens, if you don’t mind the 
+neighbors.
+>	
+Slamm-0!
+>	
+Coffin motels are fine if you run light, but they can be hard 
+on relationships. Living from hotel to motel doesn’t allow 
+you to personalize a place for yourself, and you have to 
+suffer through any problems that exist in the room (bad 
+heating, leaks, no AC, etc.).
+>	
+Kat o’ Nine Tales
+>	
+A bullet to the brainpan would also ruin a relationship. 
+A coffin motel is easy to walk away from when the shit 
+hits the fan. They allow something reasonably close to 
+anonymity.
+>	
+Clockwork
+ Everyone also needs a place to sleep. This can be 
+difficult when you have to be wary of someone shanking 
+you in the middle of the night for your shoes. With sleep 
+deprivation, a runner can make mistakes or become 
+slower to react. In this business, slow reaction equals 
+death. So what do you do to achieve some semblance 
+of adequate rest? 
+>	
+Get cyberware. You only need half your brain to function.
+>	
+DangerSensei
+>	
+That’s too easy an opening. Who needs sleep? LongHaul 
+can keep you alert ’til you get where you’re supposed to 
+be, and then some.
+>	
+Turbo Bunny
+<< A DUMP OF ONE'S OWN    213
+
+
+===== runfaster.pdf p216 =====
+NECESSITIES
+Food and water—or in some people’s cases, whiskey 
+and a smoke—are daily necessities, not only to survive, 
+but to properly live. Potable water is scarce, even for 
+urban dwellers. Contractual obligations of various wa-
+ter treatment and reclamation plants give preferential 
+treatment to corporate premises first. In non-corpo-
+rate areas, water quality, while within legal standards, 
+leaves much to be desired.
+>	
+The water tastes fine, just don’t leave it next to an open 
+flame or drink it before a drug test.
+>	
+Traveler Jones
+>	
+A drug test? Who do you work for, nuns?
+>	
+Haze
+>	
+Travel Tip #8: Water can contain germs. Whiskey kills even 
+those germs in a glass. That’s how you keep from having 
+Montezuma’s revenge in a foreign country. Even the 
+pilgrims gave their kids light beer to drink!
+>	
+Kane
+>	
+And you wonder why you don’t get to babysit without 
+supervision?
+>	
+Slamm-0!
+>> RUN FASTER <<
+<UPLOADING INITIATION #1>
+Hi, I’m Otto Clutch,
+I was told that I needed to give a little lifestyle background 
+before I’m allowed access to the forum, so here it is.
+I take two-liter bottles to the municipal steam-filtered 
+water plant ten clicks outside of Redmond, in Kirkland. It’s one 
+of the few cheap places to get potable water. I am one of the 
+many SINless faces surviving in the barrens. I look threatening 
+enough to get a few square meters of floor space at an old 
+auto dealership and repair shop. I’m not the only one here, so I 
+keep my stuff locked in the car and a Predator under my pillow. 
+At least the garage is big enough for all of us to get out of the 
+rain and vehicles out of sight. It’s not much, but it’s better than 
+living on the street or in the car. The dealership has restrooms, 
+but it’s a manual flush without running water. There’s no power, 
+therefore no heat, or air conditioning anywhere. We’ve made 
+do with a few scavenged batteries to power fans or heaters. 
+Entertainment is whatever you can find on the public grid with 
+your commlink or what’s playing at the local bar. We’re all 
+here for mutual protection, or at least a deterrent by numbers. 
+We also share what can be scrounged up to keep everyone’s 
+wheels running. We all have a fear of being without a working 
+vehicle, as that’s our escape route if things go south.
+214    A DUMP OF ONE'S OWN >>
+
+
+===== runfaster.pdf p217 =====
+Food most likely is greyscale soy paste and a bottle 
+of the flavor of the day. An apple is out of the price range 
+of most shadowrunners. So do you suffer the same cold 
+meal every day, do you eat out to have some semblance 
+of the real thing, or have you added assets to your life-
+style that help you get a little taste of something better?
+>	
+Cricket hatcheries are a big hit in Cal-Free. Doesn’t take 
+much to keep them growing. Fry them up and they make 
+a great traveling snack. If you don’t have a soy processor, 
+sprinkle them in a bowl of soy and pretend they’re nuts.
+>	
+Kat o’ Nine Tales
+SECURITY
+Security covers a broad sense of how much a deterrent 
+your place is to unwanted guests and criminal activities 
+(other than your own). Those living on the street can 
+only protect what they can hold on to; others up the 
+lifestyle chain have a physical location that can store 
+and protect them rather than have it on their back all 
+the time. Security can be further divided into astral, 
+physical, and Matrix security, though mainly we’re 
+talking physical security, unless you’re a magician ca-
+pable of putting up wards and calling up spirits or are 
+rich as Villiers and have your own grid.
+>	
+There are magicians who can provide ritual services to 
+protect a home. A bit expensive and has to be renewed 
+on a monthly basis, but available. See Sanchez in Seattle if 
+you have to deal with spirits and have no magic protection 
+of your own.
+>	
+Ma’Fan
+>	
+Faraday cage wallpaper and throwback hard lines can 
+keep nearby technomancers out of your business.
+>	
+Clockwork
+NEIGHBORHOOD
+Lone Star has categorized the various neighborhoods 
+based on security coverage. From AAA to Z, each rating 
+represents the security investment in the area, with AAA 
+being the most secure and Z being, well, “fend for your-
+self.” Their motivations for making those investments de-
+pend on the various premises and, if there are corporate 
+assets, what the corporation is willing to pay outside their 
+own territorial security. So where do you hang your hat? 
+Are you a Barrens Brat or a Corporate one? Do you just 
+find a place to park your car and sleep in it like a posses-
+sive rigger, or do you look for a motel vacancy?
+>	
+When I’m down on my luck, I just drive around ’til I find 
+a good alley or a secluded parking lot to park in. For 
+paranoia’s sake, you have to put some countermeasures 
+around the area.
+>	
+Turbo Bunny
+ENTERTAINMENT
+When you are not sneaking through corporate halls or 
+shooting people in the face for money, there are places 
+you see and people you hang out with during down-
+time. Do you hang out a bar? Do you relax listening to 
+a live orchestra? Do you have season tickets to watch a 
+sports team? How do you relax? Some people are so-
+cial and hang out with others, some are anti-social and 
+play video games or some other RPG, and then there 
+are some like Kane.
+>	
+Now why am I being singled out here? I’m an ordinary 
+guy. I prefer gambling, womanizing, driving fast cars, 
+boats, jets, and blowing shit up. Explosions are more of 
+a hobby. I’ve gotten pretty good in shaping a blast; kinda 
+like fireworks, but with more kick.
+>	
+Kane
+SERVICES
+As part of your lifestyle, do you have your clothes dry-
+cleaned? Do you subscribe to a grid? There are many 
+tasks that we can hire others to do for discreet purpos-
+es or to maintain a perception of “normalcy,” but which 
+ones can you afford? Do they work under the table to 
+provide their talents to the SINless masses or do they 
+conduct a shadow business?
+>	
+Besides shadow banking that can launder corporate 
+scrip and certified credsticks, I have a no-questions-asked 
+laundry service that will patch up bullet holes and clean 
+blood stains
+>	
+Pistons
+<UPLOADING INITIATION #2>
+Not sure why this question is on here, but here goes. I’m 
+Geoduck, by day, just a low-end wageslave supporting other 
+wageslaves. I do an average job with minimum hours so as 
+not to show up on anyone’s radar. To them, I’m just a cook for 
+Soylicious in Tacoma, and I’m good at it. I really am a culinary 
+expert, but I won’t waste my talents at this point on the 
+corporation.
+I do this because when I come home, I’m not worried about 
+some drug addict ransacking my place for something to sell. 
+I have a bed to sleep in, good food to eat, a garage, even a 
+backyard. I can BBQ with the neighbors; hell, there’s a group of 
+us who go to the virtual gun range every other Friday. Granted 
+the whole place is under the control of the corporation, but they 
+don’t see everything. If I don’t bring “work” home with me, I’m 
+okay and the corporation is none the wiser. Good enough for 
+you, /dev/grrl? 
+>> RUN FASTER <<
+<< A DUMP OF ONE'S OWN    215
+
+
+===== runfaster.pdf p218 =====
+>	
+Four Point Delivery Services. Weapons and other gear 
+delivered to Pacific Rim destinations. They are on the 
+Matrix if you’ve forgotten to bring something when you 
+get to your destination.
+>	
+Red Anya
+ASSETS
+Your house is not just where you eat and sleep, it’s 
+where you clean your gun, study magic, and maybe 
+cook a little hooch. Assets are the tangible things that 
+you can access. To everyone I’ve had to work with, ac-
+cess to showers are a must. It’s not your reputation that 
+precedes you; it’s your three-day binge after the last 
+paycheck. Another must is a nearby laundromat. Wear-
+ing dried blood to a meet-up can very easily send the 
+wrong kind of message. 
+>	
+A sanctum of peace where one resolves internal conflict is 
+also useful for those in our line of business.
+>	
+Man-of-Many-Names
+>	
+Not to crash /dev/grrl’s work, but I’d like to throw in a few 
+comments on fashion relating to lifestyle. 
+1. You will be treated as you appear. Try to blend in 
+when you want to be invisible. Try to clash when you want 
+attention. Try to be as ostentatious as possible when you 
+want people to remember the clothing and not the person 
+in them.
+2. Never assume. That guy sleeping in the gutter in the 
+beat-up lined coat drinking from a paper bag? Maybe he’s 
+a street sam waiting for an excuse to show you his cyber 
+enhancements and martial skills as he beats you into the 
+ground.
+>	
+Plan 9
+>	
+Or he’s just a bum.
+>	
+Pistons
+>	
+Who is a contact of an enemy and is being paid to watch 
+and report on who goes in and out of a building.
+>	
+Plan 9
+Bolt holes and safehouses are common parts of a 
+shadowrunner’s life. I’ve covered this before, but let’s 
+sum up briefly: Bolt holes are prearranged, cash-only paid 
+spaces that you crawl into when the shit hits the fan. Bolt 
+holes are usually set up in advance and then left to sit in 
+whatever dark, unseen place they inhabit. A bolt hole isn’t 
+some vacation home in the Bahamas—it’s more likely a 
+cargo crate with food rations, a chemical toilet, and noth-
+ing but time on your hands to contemplate your sins and 
+what to do next. A few people may share a bolt hole, but 
+they might kill each other if they stay confined too long. 
+A safehouse is much like what you see in the trids. 
+A little out-of-the way home used on a temporary basis 
+to keep people safe as they are moved out of the city/
+country or just until business is taken care of. Corpora-
+tions and governments use them for witness protection 
+or to offer them to shadowrunners to babysit assets. 
+A safehouse is generally a step up from a bolt hole. In 
+that they tend to be controlled by some House Master/
+Madame who maintains whatever operating façade the 
+safe house has constructed. 
+GAME INFORMATION
+Presented here are optional rules for gamemasters and 
+players to use to add more depth and playability to a 
+character’s lifestyle. A lifestyle is divided into four cat-
+egories: Comforts & Necessities (C&N), Security (S), 
+Neighborhood (N), and Entertainment (E).
+Each lifestyle has preset levels for these four cat-
+egories, plus a set of points that can be spent to raise 
+individual levels or buy entertainment options. Lifestyle 
+categories cannot be lowered (unless, of course, you 
+switch to a lower lifestyle level). Each lifestyle also has 
+a category limit, listed in brackets next to the base level. 
+The category cannot be raised higher than this limit. The 
+Entertainment category does not have a level. Instead 
+of being used to raise the level, points can be used to 
+buy specific entertainment options (p. 219). Not all the 
+points for each lifestyle need to be spent—each point 
+can raise the monthly cost of the lifestyle, so players 
+have to consider the benefits they get and the costs of 
+gaining them. Each point spent on Comforts & Neces-
+sities, Security, or Neighborhood increases the Lifestyle 
+cost by ten percent of the base lifestyle. Points spent in 
+the Entertainment category vary in cost; depending on 
+the associated lifestyle, they may not bring in additional 
+costs (see Entertainment, p. 219, as well as the informa-
+tion for each category).
+Lifestyle options (p. 224) can be taken to get more 
+points for the lifestyle or reduce one or more categories. 
+The negative options cannot reduce the level of a cat-
+egory below 0; if an option would do that, it cannot be 
+selected. A lifestyle can gain up to twice the starting life-
+style points when taking lifestyle options. Some positive 
+options can increase the limit; this is noted with each 
+option. Additionally, some lifestyles come with lifestyle 
+options already included. These are noted in the lifestyle 
+descriptions below.
+BOLT HOLE
+Living the Bolt Hole lifestyle is not pretty. A bolt hole 
+is a space away from everything (people, grid, enter-
+tainment), and most often you’re stuck in it for a while 
+because you need to stay out of sight. Add 4 to the 
+threshold of any test involving someone trying to track 
+a character who is living la vida Bolt Hole. In the En-
+tertainment category, assets can be bought for a Bolt 
+Hole, but not services or outings (see p. 219). Bolt 
+holes only have a monthly cost when used. The char-
+>> RUN FASTER <<
+216    A DUMP OF ONE'S OWN >>
+
+
+===== runfaster.pdf p219 =====
+acter pays for the whole month, even if he used it for a 
+day, or even just a few hours (though if you only need 
+to hide for a few hours, use a no-tell motel already).
+•	
+Comforts & Necessities: 1[2]
+•	
+Security: 1[4]
+•	
+Neighborhood: 1[4]
+•	
+Points: 4
+•	
+Built-in option: Not A Home
+•	
+Cost: 1,000 ¥
+STREET
+See category description on p. 373, SR5. In this cate-
+gory, increased levels in the Comforts & Necessities, 
+Security, and Neighborhood categories result in a flat 
+increase of 50 nuyen per level per month. Entertain-
+ments come with their normal listed costs, but any as-
+sets or services the player wants to purchase must be 
+approved by the gamemaster, as they would have to be 
+usable/accessible by the general public.
+•	
+Comforts & Necessities: 0[1]
+•	
+Security: 0[1]
+•	
+Neighborhood: 0[1]
+•	
+Points: 2
+•	
+Cost: 0¥ a month
+FASHION BY LIFESTYLE
+There are certain styles of clothes that come with each lifestyle; 
+for each month of lifestyle purchased, characters get one set of 
+clothes. If they want more, they have to buy them separately. If the 
+character wants to make an impression or go slumming, they should 
+purchase clothing that matches that lifestyle. There is also a social 
+stigma of not dressing the part. When you are going to an interview 
+with Mr. Johnson, you should be wearing clothes at the same social 
+level as Mr. Johnson or at least the same level as the locale where 
+you are meeting him. Most often, Mr. Johnson meets at some high-
+class restaurant while he is dressed for success. The gamemaster 
+may opt to impose a dice-pool penalty depending on how far the 
+team’s dress is from where it should be.
+Robin and her merry gang have just gotten their 
+first meet with Mr. Johnson at a posh restaurant. Robin 
+puts on her special little black dress made with real silk 
+(Luxury class). As she arrives, she finds that her gang 
+must have come from a combat biker rally, as they 
+are wearing faux-black leather and smelling of cheap 
+smokes and sweat. So as to not cause embarrassment 
+(her little gang would have penalized her negotiations, 
+leaving her to explain to Mr. Johnson that they really are 
+professionals and/or apologize), she threatens them all 
+with bodily harm if they don’t go home and come back 
+clean and properly attired.
+STREET AND SQUATTER
+Vendingwear is a cheap option for people looking for modest 
+covering, and if you have a Street or Squatter lifestyle, that’s what 
+you get. Vendingwear is recycled plastic that is shredded and woven 
+into fabric (with an elastic band for pants, socks, and underwear). It 
+has no options except for color (avocado green or dirt brown) and 
+size (small, medium, large, and extra-large). Many people who live 
+on the street turn in bottles or old vendingwear to get new clothes. 
+Prices range from 1 to 20 nuyen.
+LOW
+Besides thrift stores selling cast-off clothes of the middle class, 
+Beaux Retail (Mitsuhama) has simple casual (20 nuyen) to business 
+(100 nuyen) clothing made from industrial polymers and put together 
+by the cheapest labor available. Kong Walmart has many affordable 
+knockoff brands. Prices range from 20 to 150 nuyen.
+MEDIUM
+For business, you can go as high as Wellington Bros (Shiawase 
+Fashion); for casual wear, Vashon Island (Shiawase Fashion) and 
+Victory (Ares) won’t break the bank. Prices range from 150 to 500 
+nuyen.
+HIGH
+A High lifestyle can always default to the original Très Chic 
+Clothing (Aztechnology) for business or casual wear. Optionally 
+there’s also a more Old World look with RhineGold (Saeder-Krupp) or 
+Styling wearing KoGo (Wuxing). Prices range from 500 to 1,000 nuyen.
+LUXURY
+Designer clothes are a must for people living the Luxury lifestyle. 
+This includes designs from artists such as Berwick (Mortimer of 
+London), Armanté (Zoë), and Jean-Paul. Prices range from 1,000 to 
+5,000 nuyen.
+>> RUN FASTER <<
+<< A DUMP OF ONE'S OWN    217

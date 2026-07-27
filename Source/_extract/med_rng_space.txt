@@ -1,0 +1,479 @@
+
+
+===== runandgun.pdf PDF page 80 =====
+DRYSUIT
+and an inner layer snug against the skin. Because dry-
+suits work even more effectively in heat insulation than 
+wetsuits, divers use them for dives in Arctic waters or 
+for dives greater than 200 meters that would last ex-
+tended periods of time. 
+DIVING ARMOR
+Looks like a wetsuit, protects like armored underwear.
+>	
+Armor tech is not known for buoyancy so make sure you 
+actually know how to swim if you put this stuff on. 
+>	
+Sounder
+ARCTIC DIVER SUIT
+This stuff takes drysuit tech to the next level. Intended 
+to be used in the freezing waters of the Arctic and Ant-
+arctic, this suit adds a nanotech heater under the inner 
+layer to keep the skin warm. 
+>	
+Nanotech?! Do people still buy these?
+>	
+Butch
+>	
+Not everyone believes all the rumors they hear. Anyway, 
+it’s a heater, not some invasive nanotech treatment. Stop 
+rumormongering and bothering my customers.
+>	
+Armand
+SPACE, THE MOON, 
+OR MARS
+Not to brag, but I truly have connections all over the 
+place, even off-planet. These aren’t my best-selling 
+pieces, they usually take a little time to get, and I often 
+need to get some measurements to assure proper fit, 
+but Armand’s Armor Emporium is committed to offer-
+ing a full range of gear!
+>	
+Seriously Armand, fraggin’ spacesuits? What kind of 
+runners do you think we are? This is real life, not some 
+action trid. 
+>	
+Bull
+>	
+You’re not my only customers.
+>	
+Armand
+>> ARMOR & PROTECTION <<
+DIVING ARMOR
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Diving Armor
+7
+4
+6
+1,750¥
+Features: Custom Protection (Chemical Protection 4), –2 dice pool penalty to Swimming Tests
+Wireless Bonus: Transmits environmental information; Swimming Test penalty is only –1.
+ARCTIC DIVING SUIT
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Arctic Diving Suit
+1
+4
+8
+3,000¥
+Features: Custom Protection (Insulation 8, in water only)
+Special Rules: The suit will keep the diver warm for a forty-five-minute dive before any tests need to be 
+made. It has to be recharged in between dives; charging takes two hours.
+Wireless Bonus: Extend the warm diver time to 1 hour.
+80    specialty armor >>
+
+
+===== runandgun.pdf PDF page 81 =====
+EVO HEL SUIT
+The HEL (Hostile Environment Living) is the every-
+day dress of space-station inhabitants and astronauts. 
+The thin, tight-fitting, puncture- and-tear-resistant suit 
+covers the whole body except the face, which can be 
+protected by a hood and self-attaching breath and 
+eye mask with an internal five-minute supply of highly 
+compressed air that is usually carried within one of the 
+suit’s many pouches. The suit is made of some of the 
+most advanced clothing materials available, offering 
+limited vacuum protection, as well as protection from 
+hot or cold environments and chemicals. Due to its 
+many useful traits and high comfort, the suit has be-
+come increasingly popular with people working in un-
+comfortable earthbound surroundings as well (at least 
+those for whom the suit’s high price is no obstacle).
+>	
+Straight from the Evo catalog! Armand, you’re getting 
+lazy.
+>	
+Slamm-0!
+SPACESUIT
+If you need one of these, you best know all the specs of 
+the suit and then some, but they tend to design these 
+suits with the lowest common denominator in mind. I 
+carry basic models from all the major manufacturers, 
+each with a basic list of features that align pretty well 
+with each other—generally a life-support system, bio-
+monitor, commlink, standard polarized face shield, and 
+a liquid canteen built in for hydration during standard 
+operations. Don’t get in a tussle in one of these—any 
+damage will threaten the integrity of the suit and result 
+in the death of the user shortly after they hit the vacu-
+um of space.
+SECURITY SPACESUIT
+A standard spacesuit for use by security personnel or 
+runners looking to test whether it really is such a bad 
+idea to get into a fight in space.
+>> ARMOR & PROTECTION <<
+EVO HEL SUIT
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Evo HEL Suit
+8
+5
+10
+3,000¥
+Features: Custom Protection (Insulation 4, Fire Resistance 2, Radiation Shield 3, Chemical Protection 2), 
+Custom Fit, Gas Mask
+Wireless Bonus: Records and transmits environmental information.
+SPACESUIT
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Spacesuit
+12
+6
+16
+12,000¥
+Features: Biomonitor, Commlink (Device Rating 3), Custom Fit, Custom Protection (Chemical Seal, 
+Insulation 6, Thermal Damping 4), Flare Compensation
+Special Rules: Spacesuits require an Agility + Reaction (12, 1 minute) Extended Test to put on. Due 
+to the potentially lethal hazard caused by a mistake in putting on a suit, they come with alarms and 
+warning systems. Glitches cost time or have some other non-lethal effect, while critical glitches can be 
+life-threatening but should not result in the instant death of the vacuum of space. The spacesuit’s built-
+in oxygen supply lasts for twelve hours. The power supply lasts for twenty-four hours before it needs 
+recharging.
+Spacesuits require one hour of maintenance for every twelve hours of use. If a spacesuit doesn’t 
+get this maintenance, roll 1D6 each time it is used. On a roll of 1, the suit develops a potentially fatal 
+failure: a cracked seal, an air leak, temperature or power failure, etc. Increase the likelihood of a failure 
+by 1 for every additional 12 hours of use without maintenance (the suit fails on a 1D6 roll of 1 or 2 after 
+24 hours, and so on). Spacesuits come equipped with five emergency slap patches (additional patches 
+cost 50¥ each).
+No other armor can be worn with a spacesuit, but the suits can be equipped with armor add-ons 
+and modifications.
+Wireless Bonus: Records and transmits environmental information.
+<< specialty armor    81
+
+
+===== runandgun.pdf PDF page 82 =====
+>	
+Are there really runners dumb enough to get into a fight 
+in a vacuum?
+>	
+Sunshine
+>	
+Usually not for long!
+>	
+Slamm-0!
+EVO ARMADILLO  
+ARMORED SPACE SUIT
+This one is kind of neat. With rumors of alien life on 
+Mars, Evo made this little contribution to the SRS 
+(Space Rescue Service). It’s like the security space-
+suit, but Evo added an exo-frame and servo motors. 
+It’s also got extra shielding against radiation and 
+electrostatic discharges, which can be dangerous 
+on the surface of Mars. The Armadillo also offers 
+additional protection from suit breaches, thanks to 
+Evo’s BreachBuster™ technology. I’ve also got the 
+new scaled-down version, which is offered to the 
+general public—or at least the part of the general public 
+that can afford to drop tens of thousands of nuyen on 
+a suit for a place only a few metahumans will ever go. 
+>	
+All of these suits look like something out of a sci-fi trid 
+except they aren’t really battle-hardened, just lightly 
+bullet-resistant. Holes may be patched up by Evo’s 
+tech, but I wouldn’t wear a repaired suit—any structural 
+weakness at all increases your risk of death by exposure 
+to vacuum. 
+>	
+Orbital DK
+>	
+Not to mention death by exposure to nanites. Or 
+something worse than death.
+>	
+Plan 9
+>	
+Are you admitting you’re worse than before?
+>	
+Orbital DK
+EVO ARMADILLO 
+ARMORED SPACE SUIT
+>> ARMOR & PROTECTION <<
+SECURITY SPACESUIT
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Security Spacesuit
+15
+10
+24
+25,000¥
+Features: As spacesuit
+Wireless Bonus: Records and transmits environmental information.
+82    specialty armor >>
+EVO ARMADILLO ARMORED SPACE SUIT
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Armadillo
+16
+10
+24R
+35,000¥
+Features: Custom Fit, Custom Protection (Chemical Seal, Fire Resistance 4, Insulation 6, Thermal 
+Damping 4), Enhanced Strength (+2 Strength for Climbing or Lifting, but not on Attack Damage)
+Special Rules: As Spacesuit. Self-sealing system prevents one breach (the suit automatically reseals if 
+a breach occurs, but only once). Post-operation repairs requires a Logic + Armorer [Mental] (6, 1 hour) 
+Extended Test.
+Wireless Bonus: Records and transmits environmental information.
+
+
+===== runandgun.pdf PDF page 83 =====
+MAGNETIC BOOTS
+In places that lack gravity, sometimes it’s nice to just be 
+able to stick to one place or walk around without using 
+your hands. Magnetic boots are the answer. A combi-
+nation of electromagnets and tiny suction cups make 
+adhesion to virtually any surface possible.  
+>	
+They can work in regular gravity too, but don’t trust them 
+to hold you completely against gravity. These with some 
+gecko tape gloves make scaling buildings easier, even if 
+you do have to climb facing out. 
+>	
+Mika
+SURVIVAL BUBBLE
+This self-inflating mylar bubble is designed for escape 
+and survival in the case of emergency decompression. 
+Or for rich people to entertain themselves rolling down 
+hills, or floating in the ocean. None of those uses are 
+the intended purpose for this thing, but if you’re cre-
+ative you can find other uses, even ones that take place 
+on terra firma. 
+THE NASTY SPOTS
+MCT EE SUIT
+While Evo has focused on spacesuit design due to their 
+extraterrestrial intentions, Mitsuhama has been de-
+signing ways to protect themselves from the messes 
+they keep leaving all over the planet. This is one such 
+effort—it’s a full-body, extreme-environment suit from 
+Mitsuhama and it’s worn by those who deal directly 
+with hazardous materials/environments, especially 
+chemical and biological agents or radiation. 
+>> ARMOR & PROTECTION <<
+MAGNETIC BOOTS
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Magnetic Boots
+—
+4
+12
+2,500¥
+Features: Custom Fit
+Special Rules: Movement in these boots is limited to 1/4 of normal movement rate, with no Sprint Tests 
+allowed. Climbing Tests receive +3 for wearers of these boots, but climbing takes place at half the 
+normal pace.  
+SURVIVAL BUBBLE
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+Survival Bubble
+4
+4
+Rating x 3
+2,000¥
+Special Rules: The bubble takes one Combat Turn to inflate around the user(s). The sphere features 
+transparent windows, an airlock, 24 hours of oxygen per person each point of Rating (meaning a Rating 
+2 bubble can provide either 24 hours of oxygen for two people or 48 hours of oxygen for one person), 
+emergency food and water rations, a homing beacon (100 kilometer range), and a medkit (Rating 4). The 
+Rating of the bubble is how many people it will hold (maximum 6).
+Wireless Bonus: The homing beacon transmits supply levels to rescue personnel.
+MCT EE SUIT
+NAME
+ARMOR RATING
+CAPACITY
+AVAIL
+COST
+MCT EE Suit
+6
+5
+10
+2,500¥
+Features: Custom Protection (Chemical Seal, Fire Resistance 4, Radiation Shielding 6).
+Wireless Bonus: Record and transmits environmental information.
+<< specialty armor    83
+
+
+===== runandgun.pdf PDF page 87 =====
+>> ARMOR & PROTECTION <<
+<< customizations and options    87
+INSTALLED GEAR AND CAPACITY
+Apply the following Capacity for each of these items detailed in the Street Gear chapter of SR5. For gear items in this 
+book, see the individual listings.
+ARMOR ADD-ON
+CAPACITY
+ARMOR ADD-ON
+CAPACITY
+Auto-Picker
+[1]
+Biomonitor
+[1]
+Climbing Gear
+[5]
+Concealed Holster
+[4]
+Flashlight
+[1]
+GPS
+[1]
+Holster
+[3]
+Keycard Copier
+[3]
+Lockpick Set
+[2]
+Medkit
+[5]
+Micro-flare Launcher
+[1]
+Miniwelder w/ 1 fuel canister
+[1]
+Miniwelder fuel canister
+[1]
+Quick-Draw Holster
+[4]
+Sequencer
+[2]
+Survival Kit
+[6]
+Tool Kit
+[6]
+Wire Clippers
+[1]
+ARMOR MODIFICATION
+Chemical Protection
+[Rating]
+Chemical Seal
+[6]
+Environmental Adaptation
+[4]
+Feedback System
+[3]
+Fire Resistance
+[Rating]
+Gas Mask
+[2]
+Internal Air Tank
+[1 per hour]
+Insulation
+[Rating]
+Nonconductivity
+[Rating]
+Respirator
+[2]
+Shock Frills
+[2]
+Thermal Damping
+[Rating]
+AUDIO ENHANCEMENTS
+Audio System
+[1]
+Audio Enhancement
+[Rating]
+Select Sound Filter
+[Rating]
+Spatial Recognizer
+[2]
+COMMUNICATIONS GEAR
+AR Gloves
+[1]
+Commlink
+[2]
+Jammer
+[2]
+Micro-transceiver
+[1]
+RFID Tag-Sim Module
+[1]
+Simrig
+[5]
+Skinlink
+[3]
+Tag Eraser
+[1]
+Trid Projector
+[2]
+Trodes
+[1]
+White Noise Generator
+[2]
+Wireless Link
+—
+SENSORS
+Atmosphere Sensor
+[1]
+Bug Scanner
+[2]
+Camera
+[1]
+Cyberware Scanner
+[1]
+Directional Microphone
+[1]
+Geiger Counter
+[1]
+Laser Microphone
+[2]
+Laser Range Finder
+[1]
+MAD Scanner
+[1]
+Microphone
+[1]
+Motion Sensor
+[1]
+Olfactory Sensor
+[1]
+Omni-directional Microphone
+[2]
+Radio Signal Scanner
+[1]
+Ultrasound
+[1]
+VISION ENHANCEMENTS
+Flare Compensation
+[1]
+Image Link/HUD
+[1]
+Low-Light Vision
+[1]
+Smartlink
+[1]
+Thermographic Vision
+[1]
+Ultrasound Sensor
+[2]
+Vision Enhancement
+[Rating]
+Vision Magnification
+[1]

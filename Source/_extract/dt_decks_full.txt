@@ -1,0 +1,547 @@
+==== PAGE 62 ====\nEVOTECH HIMITSU
+This lunchbox-sized commlink appears to be a generic, 
+uninteresting, low-level consumer commlink. In fact, it 
+contains a secret compartment that can hold items no 
+larger than a pistol or a cigar box. The compartment 
+is shielded with its own built-in Faraday cage, and the 
+commlink has a stealth module integrated into the 
+board, giving it Sleaze 5.
+MCT BLUE DEFENDER
+This commlink comes standard as a wristband that is, 
+as you’d expect, blue. Designed for legitimate sale to 
+security forces and off-the-books distribution to shad-
+owrunners and criminals worldwide, this stylish brace-
+let protects your devices from evil hackers with a stron-
+ger-than-average Firewall.
+NIXDORF SEKRETÄR
+Are you constantly confused and lost? Does your file 
+directory look like your commlink was the sole victim 
+of the Crash 3.0? Worry no more, because the Nix-
+dorf Sekretar has your back. It has a built-in Rating 
+3 agent that will organize your calendar, your files, 
+your work, and (with the Liebesekretär upgrade) your 
+love life.*
+* Liebesekretär package includes automatic match mak-
+ing, date scheduling, concierge service, and rating system. No 
+guarantee is implied in this service. Some terms and condi-
+tions apply. Always use protection.
+COMMLINK DONGLES
+A dongle is a small device that attaches to a commlink’s 
+universal data port and gives it extra functionality. Un-
+less you’ve got a teeny little commlink, a dongle barely 
+increases the size of the whole thing. A commlink can 
+only use one dongle at a time.
+ATTACK DONGLE
+This dongle doesn’t actually attack people, though that 
+would be cool. It gives the commlink an Attack rating 
+equal to its rating, providing some on-the-fly, quick at-
+tack resources. DemiGODs love corporate employees to 
+use these, as they can provide more time for them to track 
+down and punish intruders.
+CABLE TAP
+This shady dongle has a small split ring that can be 
+wrapped around a data cable, giving your commlink a 
+direct connection to the devices on either side of the 
+cable it’s clipped to.
+COMMLINK FORM FACTOR
+FORM
+AVAIL
+COST
+Non-standard Form Factor
++2
++20%
+Weapon Form Factor
++4R
++50%
+COMMLINKS
+COMMLINK
+DEVICE RATING
+DATA PROC.
+FIREWALL
+AVAIL
+COST
+EvoTech Himitsu
+2
+1
+2
+8R
+11,000¥
+MCT Blue Defender
+3
+1
+5
+7
+2,000¥
+Nixdorf Sekretär
+4
+6
+2
+5
+4,000¥
+    w/ Liebesekretär
++1
++2,000¥
+<< THE GUTS OF THE MATRIX    61
+\n==== PAGE 63 ====\nSTEALTH DONGLE
+A stealth dongle gives the commlink a Sleaze rating 
+based on the rating of the dongle, for those who want 
+their quick actions to be more subtle, less brutal.
+STUN DONGLE
+This dongle turns your commlink into a stun gun, 
+though one that requires contact with the target to op-
+erate. It is a popular choice of civilians who want incon-
+spicuous protection and a convenient carrying case. It 
+packs three charges in its slim form factor.
+RECEIVER
+Just plug this dongle into your commlink and you get 
+Noise Reduction 2 for your commlink and all slaved de-
+vices! Great for spam zones!
+CYBERDECKS
+The cyberdeck is the decker’s bread and butter. And 
+knife. And plate. And toaster. Really, it’s the entire 
+kitchen. There are lots of cyberdecks on page 439 of 
+SR5, but we know you’re hungry for more.
+FORM FACTOR
+The standard cyberdeck form factor is a smooth, flat, 
+elongated rectangle about twenty-five centimeters 
+long, with plenty of display space for touch controls. 
+Like commlinks, cyberdecks can also fit into non-stan-
+dard form factors, following the same rules and costs 
+for commlink form factors (p. 60).
+STANDARD DECKS
+For more information about cyberdecks, see Cyber-
+decks, p. 227, SR5.
+RADIO SHACK PCD-500
+This little wonder is the perfect model for the aspiring 
+young cybersecurity specialist. Bulk discount for edu-
+cational institutions—contact a sales representative for 
+details. Are you going to squeeze a lot of power out of 
+it? No. But it’s like the Radio Shack motto says: “Radio 
+Shack: Better than nothing, most of the time!”
+LITTLE HORNET
+This compact cyberdeck is made in Chicago under the 
+UCAS ghoul employment program, and we pass the 
+savings right on to you! It’s high end goes to pretty 
+good heights, but watch out where you put those low-
+end attributes. Lots of Little Hornet owners also invest 
+in a Configurator program (p. 245, SR5).
+MICROTRÓNICA AZTECA 300
+Sold as an upgrade to the 200 model, the Microtrónica 
+Azteca 300 is little more than the 200 with a smaller 
+cooling system and an extra quaternion quantum buf-
+fer. Even so, you can’t dismiss the extra power the new 
+configuration gives the 300, with some benchmarks 
+outperforming similarly rated decks. 
+XIAO MPG-1
+The MPG-1 is designed by our friends at the Midwest 
+Pirate’s Guild with one deadly purpose: smash every-
+thing in your way before it can hit back. Lots of IC was 
+harmed in the making of this deck.
+SHIAWASE CYBER-4
+The first product of Shiawase’s reboot of the Fuchi Cy-
+ber line, the Cyber-5, was a deck that had high praise 
+but low sales figures, criticized for being out of reach 
+COMMLINK DONGLES
+DONGLE
+AVAIL
+COST
+Attack dongle (Rating 1-6)
+[Rating x 
+2]R
+(Rating)2  
+x 3,000¥
+Cable tap
+8R
+500¥
+Stealth dongle (Rating 1-6)
+[Rating x 
+2]R
+(Rating)2  
+x 3,000¥
+Stun dongle
+6R
+600¥
+Receiver
+3
+400¥
+CLUBS
+CLUB
+ACCURACY
+REACH
+DAMAGE
+AP
+AVAIL
+COST
+Stun dongle
+4
+—
+8S(e)
+–5
+6R
+600¥
+CYBERDECK FORM FACTOR
+FORM
+AVAIL
+COST
+Non-standard Form Factor
++3
++20%
+Weapon Form Factor
++6R
++50%
+>> DATA TRAILS <<
+62    THE GUTS OF THE MATRIX >>
+\n==== PAGE 64 ====\nof the larger cybersecurity market. The Cyber-4 was in-
+troduced as a low-price, high-performance cyberdeck, 
+undercutting the price point of the CIY-720 while out-
+performing the more popular cyberdeck in some areas. 
+This model will save you a lot of money, but leave you 
+with one glaring vulnerability. Tread carefully.
+FAIRLIGHT PALADIN
+An incredible feat of human ingenuity, the Fairlight Pal-
+adin is a masterpiece of cyberdeck design and engi-
+neering. The Paladin is considered a “pinnacle achieve-
+ment” by execs and engineers at NeoNET’s Fairlight 
+division. Fairlight has sold only five of the decks in the 
+world and report that they are filling orders for another 
+twelve. Some say that the deck costs more to manu-
+facture than the million-plus asking price, making the 
+top-end cyberdeck more of a territorial marker in the 
+industry than a product intended for sale.
+SPECIALTY DECKS
+Specialty cyberdecks are built with a specific purpose 
+in mind. You can’t swap a specialty deck’s attributes 
+when you reconfigure, only its programs. On the plus 
+side, they’re a bit cheaper than standard decks.
+MCT TRAINEE
+A spider’s got to start somewhere, and Mitsuhama 
+starts theirs with cybercombat training decks. These 
+decks have built-in Biofeedback Filter programs to keep 
+the trainees (relatively) safe. Though if you take one 
+into the wilds of the Matrix, you’d better be ready for 
+the demiGODs to get creative in the ways they cause 
+you pain.
+C-K ANALYST
+The Cantor-Kurosawa Analyst is what every investiga-
+tive journalist needs to poke around without being no-
+ticed, find the plain truth, package it up, and broadcast 
+it in microseconds. The built-in high-def camera and 
+recording suite, complemented by the hardwired Edit 
+>> DATA TRAILS <<
+<< THE GUTS OF THE MATRIX    63
+\n==== PAGE 65 ====\nprogram, will make you look like a million nuyen as you 
+tell it like it is to the world.
+AZTECHNOLOGY EMISSARY
+For the courier on the go, this deck is designed to car-
+ry and protect files. It’s also handy for protecting slaved 
+devices and your own wetware. Just don’t make the mis-
+take of many a medieval noble who wandered out from 
+behind their walls to engage the enemy. Being strong on 
+defense is not the same as being skilled in attack.
+YAK KILLER
+This powerful but somewhat fragile deck isn’t exactly an 
+official product of the Reality Hackers gang of Seattle. 
+Their unusual configuration isn’t exactly licensed, the 
+proceeds don’t exactly go to the gang, and having one 
+won’t exactly make you the gang’s best friend, but it’s 
+a popular model among up-and-coming deck-trippers.
+RING OF LIGHT SPECIAL
+If you haven’t heard of the trid show, Ring of Light, 
+welcome back to civilization from your cave-dwelling 
+sabbatical. The decks used by the virtual fighters in this 
+digital cage match are now for sale to the public, and 
+are required for RoL-sanctioned local events and feed-
+er leagues. They’re about as stealthy as a troll riding a 
+rhino through a library, but stealth makes for bad trid.
+ARES ECHO UNLIMITED
+This deck puts the “special” in special forces. It is rugge-
+dized for hard combat missions with security contrac-
+tors like Hard Corps and Wolverine, along with a number 
+of government and civilian security organizations.
+CYBERDECK MODULES
+A cyberdeck module is a prefabricated component that 
+extends the capabilities of your deck. Each cyberdeck has 
+one module slot inside its case. Inserting, removing, or 
+swapping modules requires a Hardware + Logic [Mental] 
+(1) Test and about half a minute of time (10 Combat Turns).
+Modules aren’t as robust as your average deck and 
+are vulnerable to Matrix damage. If your deck is ever 
+bricked, any module in it becomes a useless hunk of 
+slag, even if you repair the deck.
+HARDENING
+The hardening module acts as a shield between your 
+deck and incoming damage. It has a Matrix Condition 
+Monitor with five boxes, and it takes damage before 
+your deck does. These boxes cannot be repaired.
+INDUCTION RECEIVER
+When you have this module installed, your deck can tap 
+into data cables and hardlines on contact. By placing your 
+CYBERDECKS
+DECK
+DEVICE RATING
+ATT. ARRAY
+PROGRAMS
+AVAIL
+COST
+Radio Shack PCD-500
+1
+2 2 1 1
+1
+2
+21,000¥
+Little Hornet
+2
+5 4 1 1
+2
+5R
+89,700¥
+Microtrónica Azteca 300
+3
+7 5 3 1
+3
+9R
+200,000¥
+Xiao MPG-1
+4
+8 5 4 3
+3
+13R
+302,000¥
+Shiawase Cyber-4
+4
+8 6 4 2
+3
+12R
+331,000¥
+Fairlight Paladin
+6
+9 9 8 8
+6
+20R
+1,050,000¥
+SPECIALTY CYBERDECKS
+DECK
+DEVICE RATING
+A S D F
+PROGRAMS
+AVAIL
+COST
+MCT Trainee
+1
+2 1 1 2
+1
+3R
+17,250¥
+C-K Analyst
+2
+1 5 4 3
+1
+5R
+83,800¥
+Aztechnology Emissary
+3
+2 3 3 8
+1
+8R
+168,000¥
+Yak Killer
+3
+7 6 2 3
+2
+13R
+194,000¥
+Ring of Light Special
+4
+8 1 2 6
+3
+10R
+242,000¥
+Ares Echo Unlimited
+5
+9 6 4 5
+3
+15R
+395,900¥
+>> DATA TRAILS <<
+64    THE GUTS OF THE MATRIX >>
+\n==== PAGE 66 ====\ncyberdeck directly onto the cable, it becomes directly 
+connected to the devices on either side of the cable.
+MULTIDIMENSIONAL 
+COPROCESSOR
+This tongue-twister of a module speeds up Matrix sig-
+nals and commands, granting the deck’s operator an 
+additional +1D6 to Matrix Initiative (remember that you 
+can never roll more than 5D6 worth of initiative dice).
+OVERWATCH MASK
+This handy module confuses GOD’s watchful eye by 
+pretending it’s part of the Matrix enforcement system. 
+The Matrix doesn’t converge on a deck with this mod 
+until its Overwatch Score reaches 4 more than normal 
+(making it 44 in normal conditions).
+PROGRAM CARRIER
+This module holds a program that your deck can run 
+permanently. You pick the program and we lock it in at 
+manufacture, which means you can’t change it, but hey, 
+it’s an extra program. Price includes the program cost.
+SELF-DESTRUCT
+This module is 98 percent explosive material by weight. 
+When your deck detects a specific pre-determined 
+condition (chosen by you), the module explodes, turn-
+ing your cyberdeck into a fragmentation grenade—see 
+p. 435, SR5 for all the mayhem that causes. The deck, 
+of course, is completely unrecoverable, meaning may-
+be don’t put one of these into a Fairlight Paladin.
+VECTORED SIGNAL FILTER
+By adding a dedicated signal filter to your deck, this 
+module gives you Noise Reduction 2.
+ODD MODS
+If you want to modify a device to increase its built-in 
+ratings, or give it a new function, you’ve come to the 
+right place. All you need is the Hardware skill, some 
+Hardware tools (a kit will suffice), and some electronic 
+parts. You’ll also need some time.
+To start the process, pick a device and a modification 
+you want (there’s a list of modifications below). Then 
+make sure you have the electronic parts you need. Then 
+you just need to roll some dice and bam! You’ll have a 
+modified device. Or a mess.
+ELECTRONIC PARTS
+We say “parts,” but what we really mean is all of the 
+doo-dads and what-nots you’re going to need to 
+make your modification. This sort of thing includes in-
+tegrated circuits, disposable solder packets, ceramic 
+nano-sheets, quantum transducers, optical switches, 
+yadda, yadda, yadda—it’s easier to just say “parts” and 
+be done with it. 
+As you can see, there are a lot of expensive little 
+fiddly-bits needed to make Sixth-World electronics 
+work. To make things simpler for Shadowrun, we call the 
+amount of parts required to make one modification a 
+pack of parts.
+There are a couple of ways to get parts packs, the 
+two most common being to just go out and buy them or 
+to scrounge them by cannibalizing otherwise perfectly 
+good devices.
+ELECTRONIC  
+COMPONENT PACKS
+Electronic packs are sold over the counter at your 
+friendly local electronics store—buy in bulk for your 
+best deals. You can also get packs when buying tools. 
+Your standard Hardware shop (p. 443, SR5) comes with 
+two packs when you acquire it, and will need restock-
+ing when you use it up. A Hardware facility (also p. 443, 
+CYBERDECK MODULES
+MODULES
+AVAILABILITY
+COST
+Hardening
+3R
+1,500¥
+Induction Receiver
+10R
+1,200¥
+Multidimensional Coprocessor
+7R
+1,400¥
+Overwatch Mask
+9F
+4,200¥
+Program Carrier
+2
+900¥
+Self-Destruct
+12F
+200¥
+Vectored Signal Filter
+3
+800¥
+>> DATA TRAILS <<
+<< THE GUTS OF THE MATRIX    65
+\n==== PAGE 67 ====\nSR5) has enough spare parts to make up ten electronic 
+component packs when you buy it.
+SCROUNGING FOR  
+ELECTRONIC COMPONENTS
+It’s a lot cheaper to cannibalize other devices for parts. 
+Stripping down an otherwise useful device for parts re-
+quires a Hardware toolkit and about ten minutes. Make 
+a Hardware + Logic [target’s Device Rating] Test, with 
+modifiers from the Device Stripping Modifiers table. 
+Every hit from this test gets you one quarter of a pack 
+of parts. You can keep the change, as it were, keeping 
+a fraction of a pack and saving it to add to future scav-
+enging results.
+MAKING THE 
+MODIFICATION
+If you don’t have enough packs of parts to make your 
+modification, the whole process is a no-go. You can’t 
+make something out of nothing. If you don’t have 
+enough parts, start looking for devices you can canni-
+balize, and you should be set. Or just go to the store.
+Making the modification to a device is a Hardware 
++ Logic [Mental] (15, 15 minutes) Extended Test. You 
+take a –4 dice pool modifier if you don’t have any Hard-
+ware tools, and the modifiers for working conditions and 
+working from memory (p. 146, SR5) apply.
+DEVICE MODIFICATIONS
+Here’s a list of mods you can perform on a device. This 
+isn’t an exhaustive list—if you want to try something 
+that isn’t written here, check with your gamemaster to 
+see if you can do it. There are no additional costs for 
+the mods beyond the cost for the parts and for any kits 
+or facilities used. Unless otherwise noted, a device can 
+only have one modification.
+Add a Matrix Attribute: You can add a rating that a 
+device doesn’t have, specifically Attack or Sleaze. When 
+you perform this mod, the rating starts at 1. You can’t 
+add a Matrix attribute to a device that already has that 
+attribute. Remember that all devices have Data Process-
+ing and Firewall, even if that information is not listed in 
+their gear entry. The Increase a Matrix Attribute modifi-
+cation can later be added to this modification. The num-
+ber of parts packs needed for this modification equals 
+the (Device Rating x 2) of the object being modified.
+Add a Module: You can hardwire a cyberdeck mod-
+ule into a device. You need the module you want to add 
+to the device. Most devices can only have one module, 
+although cyberdecks can have two—one in the normal 
+module slot, and the one you hardwire in. Hardwired 
+modules follow the same rules as normal modules (p. 
+64). This requires two packs of parts.
+Increase a Matrix Attribute: You can increase a sin-
+gle Matrix attribute by one point, but the cost in packs of 
+parts is equal to the new attribute rating x 2. This modifi-
+cation takes a lot out of the device’s other components, 
+causing two permanent and irreparable boxes of Matrix 
+damage to the device.
+Modify a Matrix Attribute: You can use this to in-
+crease one Matrix attribute and decrease a different 
+Matrix attribute, each by one point. This also works on 
+the attribute array of a cyberdeck. This requires four sets 
+of parts.
+Persona Firmware: With two packs of parts, you can 
+add the ability to run a persona to a device. If the device 
+already has this capability, you can’t add it again. 
+ELECTRONIC PARTS
+PACK
+AVAIL
+COST
+Single Pack
+—
+250¥
+Five-Pack
+—
+1,000¥
+DEVICE STRIPPING MODIFIERS
+CONDITION
+DICE POOL MOD
+Device is...
+   … a commlink or cyberdeck
++4
+   … cyberware
++0
+   … another type of device
+–4
+Each box of Matrix damage
+–1
+>> DATA TRAILS <<
+66    THE GUTS OF THE MATRIX >>

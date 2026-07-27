@@ -1,0 +1,5933 @@
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p428 =====
+Monofilament whip: Iconic. Terrifying. Deadly. Few 
+weapons on the street are more feared. This monofila-
+ment line can cut through bone and armor like hot butter. 
+The line extends out to two meters, and retracts into the 
+weapon’s handle when not in use. The whip action, the 
+weighted tip, and the deadly thread of the monofilament 
+line itself make this weapon a potential danger to it’s 
+wielder. On a glitch, you catch the weighted tip on some-
+thing nearby and need to disentangle it before you make 
+another proper attack with it. On a critical glitch, you hit 
+yourself with the whip and take its base damage (resisted 
+normally). A monofilament whip requires the Exotic Me-
+lee Weapon (Monofilament Whip) skill to use.
+Wireless: The whip can be readied with a Free Action, 
+rather than a Simple Action, and the whip’s built-in safety 
+system retracts automatically instead of getting you en-
+tangled on a glitch. The Accuracy is also increased by 2.
+Shock Gloves: These electrically insulated gloves 
+have a wire mesh that discharges electric current with 
+a punch or a simple touch. The gloves deal electricity 
+damage (p. 170) and are good for ten charges before 
+they need to be plugged in and recharged (at a rate of 
+one charge per ten seconds). Attacks with shock gloves 
+use the Unarmed Combat skill.
+Wireless: The shock gloves recharge by induction, re-
+gaining one charge per full hour of wireless-enabled time.
+PROJECTILE AND 
+THROWING WEAPONS
+These weapons are primarily muscle-powered, al-
+though some might use simple mechanical assistance 
+for added distance or speed (see Projectiles, p. 181).
+Bows: This could be a traditional longbow of fiberglass 
+or wood, or possibly a modern compound-and-pulley 
+bow. Both are archaic and rare weapons on the streets 
+of 2075, and both have the advantage of being hack-
+er-proof. Reloading a bow takes a Simple Action (Ready 
+Weapon, p. 165).
+Bows have ratings that indicate the minimum 
+Strength you need to use that weapon. When attacking 
+with a bow, a character whose Strength is less than the 
+Strength minimum suffers a –3 dice pool modifier per 
+point below the minimum; this penalty reflects the diffi-
+culty they have in pulling the bow and nocking an arrow. 
+The weapon’s Rating is also used to determine its range 
+and damage (maximum Rating is 10). Use the lowest val-
+ue of your Strength, the bow’s rating, or the arrow Rating 
+for range and damage when attacking a target, because 
+your average Rating 10 titanium-sheathed beryllium-al-
+loy bow tends to turn wood or fiberglass arrows into 
+powder when they hit a target.
+>> STREET GEAR <<
+MELEE WEAPONS
+BLADES
+ACCURACY
+REACH
+DAMAGE
+AP
+AVAIL
+COST
+Combat axe
+4
+2
+(STR + 5)P
+–4
+12R
+4,000¥
+Combat knife
+6
+—
+(STR + 2)P
+–3
+4
+300¥
+Forearm snap-blades
+4
+—
+(STR + 2)P
+–2
+7R
+200¥
+Katana
+7
+1
+(STR + 3)P
+–3
+9R
+1,000¥
+Knife
+5
+—
+(STR + 1)P
+–1
+—
+10¥
+Pole arm
+5
+3
+(STR + 3)P
+–2
+6R
+1,000¥
+Survival knife
+5
+—
+(STR + 2)P
+–1
+—
+100¥
+Sword
+6
+1
+(STR + 3)P
+–2
+5R
+500¥
+CLUBS
+ACCURACY
+REACH
+DAMAGE
+AP
+AVAIL
+COST
+Club
+4
+1
+(STR + 3)P
+—
+—
+30¥
+Extendable baton
+5
+1
+(STR + 2)P
+—
+4
+100¥
+Sap
+5
+—
+(STR + 2)P
+—
+2
+30¥
+Staff
+6
+2
+(STR + 3)P
+—
+3
+100¥
+Stun baton
+4
+1
+9S(e)
+–5
+6R
+750¥
+Telescoping staff
+4
+2
+(STR + 2)P
+—
+4
+350¥
+OTHER
+ACCURACY
+REACH
+DAMAGE
+AP
+AVAIL
+COST
+Knucks
+Physical
+—
+(STR + 1)P
+—
+2R
+100¥
+Monofilament whip
+5 (7)
+2
+12P
+–8
+12F
+10,000¥
+Shock gloves
+Physical
+—
+8S(e)
+–5
+6R
+550¥
+<< gear listing    423
+
+===== runandgun.pdf p202 =====
+202    RUN & GUN TABLES >>
+RUN & GUN TABLES
+BLADES
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Combat axe
+4
+2
+(STR+5)P
+–4
+12R
+4,000¥
+422, SR5
+Combat knife
+6
+—
+(STR+2)P
+–3
+4
+300¥
+422, SR5
+Cougar Fineblade (Long)
+6
+—
+(STR+3)P
+–1
+7R
+600¥
+20
+Cougar Fineblade (Short)
+6
+—
+(STR+2)P
+–1
+5R
+350¥
+20
+Forearm snap-blades
+4
+—
+(STR+2)P
+–2
+7R
+200¥
+422, SR5
+Highland Forge Claymore (Blade)
+5
+2
+(STR+5)P
+–5
+14R
+4,500¥
+18
+Horizon-Flynn Rapier
+7
+1
+(STR+2)P
+–3
+9R
+500¥
+18
+Katana
+7
+1
+(STR+3)P
+–3
+9R
+1,000¥
+422, SR5
+Knife
+5
+—
+(STR+1)P
+–1
+—
+10¥
+422, SR5
+Monofilament Sword
+5
+1
+(STR+3)P
+–3
+8R
+900¥
+19
+Pole arm
+5
+3
+(STR+3)P
+–2
+6R
+1,000¥
+422, SR5
+Survival knife
+5
+—
+(STR+2)P
+–1
+—
+100¥
+422, SR5
+Sword
+6
+1
+(STR+3)P
+–2
+5R
+500¥
+422, SR5
+Victorinox Memory Blade (Sword)
+5
+1
+(STR+2)P
+–2
+14R
+1,500¥
+19
+Victorinox Memory Blade (Dagger)
+5
+—
+(STR+1)P
+–2
+14R
+1,250¥
+19
+CLUBS
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Club
+4
+1
+(STR+3)P
+—
+—
+30¥
+422, SR5
+Extendable baton
+5
+1
+(STR+2)P
+—
+4
+100¥
+422, SR5
+Sap
+5
+—
+(STR+2)P
+—
+2
+30¥
+422, SR5
+Staff
+6
+2
+(STR+3)P
+—
+3
+100¥
+422, SR5
+Stun baton
+4
+1
+9S(e)
+–5
+6R
+750¥
+422, SR5
+Stun Staff
+6
+2
+9S(e)
+–5
+8R
+1,000¥
+20
+Telescoping staff
+4
+2
+(STR+2)P
+—
+4
+350¥
+422, SR5
+OTHER
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Knucks
+Physical
+—
+(STR+1)P
+—
+2R
+100¥
+422, SR5
+Monofilament whip
+5(7)
+2
+12P
+–8
+12F
+10,000¥
+423, SR5
+Shock gloves
+Physical
+—
+8S(e)
+–5
+6R
+550¥
+423, SR5
+EXOTIC MELEE WEAPONS
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Garrote
+5
+—
+(STR+4)S
+–6
+—
+50¥
+20
+Monofilament garrote
+5
+—
+(STR+6)P
+–8
+18F
+2,000¥ 
+20
+Bullwhip
+6
+2
+(STR+1)P
++3
+6
+100¥ 
+20
+Ash Arms combat chainsaw
+5
+1
+8P
+–4
+6R
+2,000¥ 
+21
+Ash Arms monofilament 
+chainsaw
+5
+1
+12P
+–8
+8R
+7,500¥ 
+21
+
+===== runandgun.pdf p203 =====
+<< RUN & GUN TABLES    203
+RUN & GUN TABLES
+IMPROVISED WEAPONS
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Bottle (unbroken)
+3
+—
+(STR+1)S
+—
+—
+—
+22
+Bottle (broken, after first hit)
+3
+—
+(STR)P
+—
+—
+— 
+22
+Chain
+4
+2
+(STR+1)P
+—
+—
+10¥ 
+22
+Chair
+3
+1
+(STR+2)S
+—
+—
+30¥ 
+22
+Fork
+4
+—
+(STR-1)P
++1
+—
+— 
+22
+Frying pan
+3
+—
+(STR+1)P
+—
+—
+20¥ 
+22
+Hammer
+4
+—
+(STR+1)P
+–1/–2
+—
+30 
+22
+Pistol
+4
+—
+(STR+1)P
+—
+As weapon
+As weapon 
+22
+Pool cue
+4
+—
+(STR)P
++1
+—
+45¥ 
+22
+Rifle butt
+3
+—
+(STR+3)S
+—
+As weapon
+As weapon 
+22
+Sledge hammer
+3
+1
+(STR+4)P
+—
+1
+40¥
+22
+PROJECTILE WEAPONS
+ITEM
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+PAGE
+AquaDyne Shark-XS harpoon gun
+5
+9P
+–2
+SS
+—
+5(m)
+8R
+800¥ 
+22
+Bow
+6
+(Rating + 
+2)P
+–(Rating/4)
+n/a
+n/a
+n/a
+Rating
+Rating x 
+100¥
+423, SR5
+Pistol crossbow
+7
+4P
+—
+SS
+—
+—
+6R
+300¥ 
+23
+Slingshot
+7
+2P
+—
+SS
+—
+—
+—
+50¥ 
+23
+Standard harpoon gun
+5
+9P
+–2
+SS
+—
+1
+6R
+200¥ 
+22
+CROSSBOWS
+ITEM
+ACC
+DV
+AP
+AVAIL
+COST
+PAGE
+Light
+7
+5P
+–1
+2
+300¥
+423, SR5
+Medium
+6
+7P
+–2
+4R
+500¥
+423, SR5
+Heavy
+5
+10P
+–3
+8R
+1,000¥
+423, SR5
+ARROWHEADS
+ITEM
+ACC
+DV
+AP
+AVAIL
+COST
+PAGE
+Arrow
+—
+—
+—
+Rating
+Rating x 2¥
+423, SR5
+Barbed head
+—
++1
+—
+5R
+10¥ 
+23
+Bolt
+—
+—
+—
+2
+5¥
+423, SR5
+Explosive head
+–1
++2
+–1
+9F
+15¥ 
+23
+Hammerhead
+–1
++1S
++2
+5
+5¥ 
+24
+Injection bolt
+—
+—
+—
+8R
+50¥
+423, SR5
+Incendiary head
+–1
+special
+—
+12F
+100¥ 
+24
+Injection arrow
+—
+—
+—
+(Rating + 2)R
+Rating x 20¥
+423, SR5
+Screamer head
+–2
+–2S
++6
+2
+5¥ 
+24
+Stick ‘n’ Shock
+–1
+8S(e)
+–5
+6R
+25¥ 
+24
+Static shaft
+—
++4S(e)
+—
+6R
+Rating x 25¥ 
+24
+
+===== runandgun.pdf p18 =====
+For some of us, talking about having “enough weap-
+ons” is like talking about having “enough money.” Peo-
+ple who don’t understand think you should just stop 
+collecting at a certain point, because enough’s enough, 
+right? Except it’s not. As long as there is someone out 
+there who might have enough to take you out, you 
+don’t have enough. In certain circles, accumulating 
+more is not about greed—it’s about survival.
+We’re going to run down a few dozen weapons here, 
+tools for every kind of situation. Choose wisely, train 
+hard, and save your nuyen so that you can buy what you 
+need and use it right. If you need more of an explanation 
+than that, then do us all a favor and don’t buy anything 
+more powerful than a BB gun until you take a class or 
+something. For the rest of us, here’s a guide to some of 
+the things that are out there.
+BLADES
+HIGHLAND FORGE CLAYMORE
+Quality killing in the classic Scottish fashion. An ideal 
+accessory for your Heritage Line clothing or for the troll 
+who thinks a regular sword makes a better toothpick. 
+The Highland Forge Claymore comes with a classic 
+leather scabbard to add that authentic look. The blade 
+is custom-forged with a proprietary technique even the 
+masters of Damascus would be unable to match.
+>	
+The classic leather scabbard can’t be drawn off the back 
+of anyone smaller than a troll. The blade is just too long 
+to clear the scabbard. Get a quickdraw sheath if you 
+aren’t a troll.
+>	
+Hard Exit
+>	
+While the Highland Forge model claymore disses the 
+samurai, the same megacorp that produces it also 
+produces the Nippon Steel Nodachi, a samurai-style 
+extra long blade. 
+>	
+Mihoshi Oni
+HORIZON-FLYNN RAPIER
+Not every street samurai studies the art of kenjutsu. 
+Some prefer the more elegant Fiore dei Liberi and thus 
+choose the rapier over the common katana. Horizon 
+and world-renowned bladesmith Dante Flynn have 
+joined forces to create the ultimate tool for slipping 
+past a flawed defense and finding a home in the heart 
+HIGHLAND FORGE
+CLAYMORE
+HIGHLAND FORGE CLAYMORE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+2
+(STR + 5)P
+–5
+14R
+4,500¥
+The standard scabbard of the Highland Forge 
+requires a Complex Action to Ready Weapon.
+RUN & GUN
+ARSENAL
+18    ARSENAL >>
+
+===== runandgun.pdf p19 =====
+of an enemy. The Horizon-Flynn blade is a slender com-
+posite designed for strength, flexibility, and stability for 
+maximum armor penetration. 
+>	
+The fact that Horizon has joined up with anyone to create 
+a killing tool seems strange. It actually makes me feel like 
+maybe they are just another mega and not something far 
+more diabolical. 
+>	
+Netcat
+>	
+Very likely the intent of this partnership. Horizon plays 
+so nice in so many areas, having a branded killing tool 
+seems to ground them with the rest of the evil megacorps. 
+Also gets people to talk about something besides killing 
+technomancers and backing the losers of the Azt-Am War.
+>	
+Slamm-0!
+VICTORINOX MEMORY BLADE
+Is it a belt, or is it a deadly weapon? A strange ques-
+tion, but one you must ask yourself when it comes to 
+the Memory Blade. Victorinox uses their SmartSteel 
+technology to provide a flexible material that can be 
+commanded to stiffen and form a blade. They current-
+ly have two “self-defense” designs available for special 
+order. The Belt, a sword length design worn around the 
+waist, and the Bracelet, a design aimed at lady execs 
+who want a little extra protection. Mostly found on 
+executives with too much money, they often find their 
+way into the shadow market after extraction ops. 
+>	
+With a good decker you can modify the basic shape if you 
+don’t want a bracelet or belt. It takes a little bit of skill, 
+but a few Matrix jockey’s have uploaded pre-programmed 
+codes to various sites to reshape them as anklets, 
+bandoliers, connected rings, armbands, even one that 
+turns the sword blade into a full shoe. You need two of the 
+shoes if you want it to look right, but damn is that creative.
+>	
+Stone
+ARES “ONE” MONOSWORD
+“There can be only One” is Ares latest slogan for this 
+classic. This tool of the modernized street samurai fea-
+tures a monofilament line along the edge that provides 
+unmatched penetration potential.
+HORIZON-FLYNN RAPIER
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+7
+1
+(STR + 2)P
+–3
+9R
+500¥
+ARES ‘ONE’ MONOSWORD
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+(STR + 3)P
+–3
+8R
+900¥
+VICTORINOX MEMORY BLADE
+SWORD
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+(STR + 2)P
+–2
+14R
+1,500¥
+DAGGER
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+—
+(STR + 1)P
+–2
+14R
+1,250¥
+The weapon’s sheath can be formed into a piece of clothing 
+or put in some other appropriate place to hide the weapon. If the 
+weapon’s grip is concealed as well the Concealability modifier is 
+–4 in order to detect the weapon. The memory blade requires a 
+Complex Action to harden or become flexible again in addition to 
+the Simple Action for readying or drawing the weapon.
+Changing the shape of the blade requires a Software + Logic 
+[Mental] (8, 1 minute) Extended Test.
+<< Blades    19
+
+===== runandgun.pdf p20 =====
+COUGAR FINEBLADES
+Finely crafted but also expensive, the Fineblade line of 
+Cougar products are usually only found in the hands 
+of professionals where they belong. They come in two 
+designs, a long blade, currently crafted in the fashion of 
+a gladius; and a short blade, currently fashioned after 
+the Bowie knife. Previous years’ designs have run the 
+gamut since the introduction of the original Fineblade 
+back in the ‘50s.
+CLUBS
+NEMESIS ARMS  
+MAUL STUN STAFF
+Double-sided zapping power! The stun staff is basical-
+ly a staff with stun batons on each end. They’re rather 
+large and a bit ugly but they look quite intimidating in 
+the hands of the guards at Shiawase HQ. 
+EXOTIC MELEE 
+WEAPONS
+GARROTE
+This can be as simple as a string attached to a pair of 
+pencils but is usually a far more professional tool. The 
+garrote is a handheld weapon designed to quietly kill 
+via strangulation. The weapon consists of a central 
+string, usually a semiflexible wire of some sort, at-
+tached to a pair of handles used to pull the weapon 
+tight once it is wrapped around a targets neck. Death is 
+slow and unpleasant as the target usually struggles in-
+tensely, so a strong stomach and skill are both required.
+ARES “QUEEN OF HEARTS” 
+MONOFILAMENT GARROTE
+Leave it to Ares to make something deadly even dead-
+lier. The Queen of Hearts is the nickname for Ares’ 
+monofilament garrote that will often take a head right 
+off well before the target suffocates, though I’m certain 
+that was part of the intended design. Other megacorps 
+have copied the design, but Ares is by far the biggest 
+name out there.
+>	
+Beware mistakes. A misplaced pinky can be the difference 
+between a clean kill and a place on the dishonored 
+yakuza list. The Queen of Hearts and her sister models are 
+unforgiving on untrained fools. 
+>	
+Thorn
+BULLWHIP
+Whether it’s redirecting bulls, snagging wrists, or lash-
+ing infidels, the whip has seen an interesting history as 
+a tool, a showpiece, a torture device, and a weapon. 
+This versatility is both its greatest asset and its biggest 
+detriment. The training that is needed to use this weap-
+on is very specific, but a truly skilled individual can 
+perform feats with this item unmatched by any other 
+weapon. 
+COUGAR FINEBLADES
+SHORT
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+7
+—
+(STR + 2)P
+–1
+5R
+350¥
+LONG
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+7
+—
+(STR + 3)P
+–1
+7R
+600¥
+MAUL STUN STAFF
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+2
+9S(E)
+–5
+8R
+1,000¥
+GARROTES
+STANDARD GARROTE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+—
+(STR + 4)S
+–6
+—
+50¥
+MONOFILAMENT GARROTE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+—
+(STR + 6)P
+–8
+18F
+2,000¥
+Using a garrote requires and initial successful attack test to 
+get the weapon in place similar to subduing combat. The attacker 
+uses their Exotic Melee Weapon (Garrote) skill to initiate the 
+subduing. The attack must use the Called Shot Location modifier 
+and needs at least 1 net hit to succeed. After the weapon is in 
+place, the attacking character can choose to do the damage of 
+the weapon during their next Action Phase along with improving 
+their hold with another Attack Test or knocking the opponent to 
+the ground. 
+Breaking free of the garrote requires an Agility + Unarmed 
+Combat [Physical] Test with a threshold of the attacker’s net hits 
+on all attacks or a successful Knock Out of Hands called shot or 
+similar attack that breaks the attacker’s grip.
+>> ARSENAL <<
+20    Clubs >>
+
+===== runandgun.pdf p21 =====
+ASH ARMS COMBAT CHAINSAW
+It was popular culture in the late 20th century that 
+made the idea of wielding a tree-trimming tool as an 
+implement of death part of popular myth. After some-
+one made a flatvid film about a chainsaw-wielding kill-
+er in Texas and then slipped a fictional S-Mart model 
+over the stumpy forearm of a time-traveling fighter of 
+evil, the chainsaw somehow became thought of as a 
+sword with a spinning chain blade. Truth is, trying to 
+swing a chainsaw as a weapon is fragging ridiculous, 
+but that doesn’t stop niche market weapons manufac-
+turers from feeding the public hunger. 
+>	
+This model is decent with its special features that remove 
+some of the safety features located on most chainsaws, 
+but cheap street rats will still try and use their local 
+hardware store model in a fight. Most learn about their 
+mistake the hard way. 
+>	
+Hard Exit
+ASH ARMS  
+MONOFILAMENT CHAINSAW
+Monofilament makes everything better or so Ash Arms 
+would like us to believe. While the civilian model is ac-
+tually used for cutting things like concrete and sculpting 
+stone, that is just never enough. Ash has retooled the 
+monofilament cousin of the standard chainsaw as well 
+and made it into a unique weapon that has probably cut 
+off more limbs from brain-dead wielders than their in-
+tended victims. But boy is a successful hit awesome. 
+>	
+Same problems occur here when people try and use the 
+tools as the weapons. Darwin would be proud. 
+>	
+Butch
+BULLWHIP
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+2
+(STR + 1)P
++3
+6
+100¥
+A whip can be used to snare handheld objects, including 
+weapons, or to trip an opponent using the Called Shot rules (p. 
+195, SR5). Disarming or grabbing a held object requires a Blast 
+Out of Hands called shot with an additional Opposed Strength 
+Test to yank the item free and toward, instead of away from, the 
+attacker. The attacker must be within 2 meters of the opponent 
+and gains a +2 dice pool bonus to their Strength Test. Tripping an 
+opponent uses the Knockdown called shot. Again, the attacker 
+must be within 2 meters of the target.
+ASH ARMS CHAINSAWS
+COMBAT CHAINSAW
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+8P
+–4
+6R
+2,000¥
+MONOFILAMENT CHAINSAW
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+12P
+–8
+8R
+7,500¥
+Non-combat versions of the chainsaw and monofilament 
+chainsaw have their Accuracy reduced to 3, Damage Value 
+reduced by 2, Availability changed to 2 and 6R respectively, and 
+prices reduced to 150¥ and 1,500¥.
+ASH ARMS 
+COMBAT CHAINSAW
+>> ARSENAL <<
+<< Exotic Melee WEapons    21
+
+===== runandgun.pdf p22 =====
+SLEDGE
+HAMMER
+IMPROVISED 
+MELEE WEAPONS
+I’ve seen mannequins, snapped off tree limbs, chairs, 
+park benches, bottles, toilet seats, and manhole covers 
+all used as improvised weapons. And that was all just 
+yesterday in Redmond. Anything that can be swung 
+and has enough mass to knock some sense into the 
+misguided or an edge that can cut to the truth has been 
+used at one point or another in history to lay down the 
+hurt. These tools aren’t all perfect, and you can’t real-
+ly use them with much finesse or style. But if they’re 
+all that’s handy, swing that old iron frying pan and see 
+what momma’s got cookin’ in the kitchen.
+RANGED WEAPONS
+AQUADYNE SHARK-XS 
+HARPOON GUN
+Whether used to spear fish, defend against some of 
+the more aggressive denizens of the oceans, or remind 
+other sentient swimmers that what you’ve found be-
+neath the waves belongs to you, the Aquadyne Shark 
+can be a valuable asset. Powered by CO2 and possess-
+ing an internal magazine, the Shark doesn’t stop after 
+just one pull of the trigger, a feature that has saved 
+many a diver that trusted the Aquadyne brand. For the 
+sport fisherman, the Shark features the QuickClip line 
+system that makes setting up for the next catch faster 
+than ever.
+IMPROVISED WEAPONS
+WEAPON
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+Bottle (unbroken)
+3
+—
+(STR + 1)S
+—
+—
+—
+Bottle (broken, after first hit)
+3
+—
+(STR)P
+—
+—
+—
+Chain
+4
+2
+(STR + 1)P
+—
+—
+10¥
+Chair
+3
+1
+(STR + 2)S
+—
+—
+30¥
+Fork
+4
+—
+(STR – 1)P
++1
+—
+—
+Frying Pan
+3
+—
+(STR + 1)P
+—
+—
+20¥
+Hammer
+4
+—
+(STR + 1)P
+–1/–2
+—
+30¥
+Pistol
+4
+—
+(STR + 1)P
+—
+As weapon
+As weapon
+Pool cue
+4
+—
+(STR)P
++1
+—
+45¥
+Rifle butt
+3
+—
+(STR + 3)S
+—
+As weapon
+As weapon
+Sledge hammer
+3
+1
+(STR + 4)P
+—
+1
+40¥
+AQUADYNE SHARK-XS 
+HARPOON GUN
+>> ARSENAL <<
+22    improvised melee weapons >>
+
+===== streetlethal.pdf p49 =====
+MELEE WEAPONS
+WEAPON
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Krime Bill
+5
+1/3*
+(STR+3)P
+–2
+12R
+1,500¥
+Krime Reaver Axe
+4
+1
+(STR+3)P
+–1
+—
+300¥
+Krime Reaver Pick
+4
+1
+(STR+1)P
+–4
+—
+—
+Krime Reaver Knob
+4
+1
+(STR+3)P
+—
+—
+—
+Krime Shiv
+5
+1
+(STR+2)P
+-2
+6R
+550¥
+Macuahuitl, traditional
+6
+1
+(STR+3)P
+–2
+7R
+3,000¥
+Macuahuitl, modern
+4
+1
+(STR+2)P
+–1
+5R
+200¥
+Nodachi
+5
+2
+(STR+5)P
+–5
+12R
+2,500¥
+Fluid-Motion Mace
+4
+1
+(STR+4)P
+—
+9
+1,500¥
+Gunstock War Club
+5
+1
+(STR+3)P
+–1
+10
+200¥
+Nunchaku
+5
+1
+(STR+2)P
+—
+6R
+75¥
+Tonfa
+4
+1
+(STR+3)P
+—
+4
+75¥
+Krime Gloves: Knucks
+Physical Limit
+—
+(STR)P
+—
+8R
+600¥
+Krime Gloves: Stun Pad
+Physical Limit
+—
+8S(e)
+–5
+—
+—
+Krime Stun Lance
+4
+2
+10S(e)
+–5
+9R
+900¥
+Krime Trollbow, blade
+3
+1
+(STR+1)P
+–1
+(Rating)R
+Rating X 150¥
+Krime Whammy, club
+4
+1
+(STR+2)P
+—
+—
+—
+PROJECTILE WEAPONS
+WEAPON
+ACC
+DAM
+AP
+AVAIL
+COST
+Krime Trollbow, bow
+4
+(Rating + 2)P
+–(Rating / 4)
+Rating(R)
+Rating X 150¥
+>> STREET LETHAL <<
+48    EXPANDED ARSENAL >>
+
+===== streetlethal.pdf p21 =====
+KRIME BILL (BLADES)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+1/3*
+(STR+3)P
+–2
+12R
+1,500¥
+* This weapon’s Reach is 1 while collapsed, and 3 when extend-
+ed. Krime Bill has a Concealability modifier of +4 when collapsed 
+and cannot be concealed when extended, due to physics. Krime Bill 
+takes one simple action to extend.
+>	
+I saw some Society for Creative Anachronisms-types 
+trying to raid a gated community after somehow disabling 
+the turrets on the wall. They got three ladders full of angry 
+trolls on it before the air drones showed up. They got 
+pretty far, actually, as archers took out the air drones, but 
+they got a firm reminder that mass rushes don’t exactly 
+work in a world with fully-automatic weapons. I would’ve 
+stayed to watch more, but I had a delivery to make.
+>	
+RRW
+>	
+Well, if you can train gangers to fight in a mass against 
+opponents that don’t have copious amounts of automatic 
+weapons, or even ammo …
+>	
+Borderline
+>	
+Train gangers, riiiiiiiiiiight, pull the other one.
+>	
+Clockwork
+KRIME REAVER
+After much research and development with some 
+of the finest mercenaries in the world, Krime has 
+finally revolutionized the classic entrenching tool. 
+It’s larger, heavier, more effective than a shovel, 
+as well as working as a prybar, pick, hatchet, ham-
+mer, and saw. In addition, it can be used in three 
+different combat roles: axe, armor-piercing pick, 
+or club thanks to Krime’s patented Krime Knob. 
+Note: The Reaver is only available in troll sizes.
+KRIME REAVER AXE (BLADES)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+3)P
+–1
+—
+300¥
+KRIME REAVER PICK (BLADES)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+1)P
+–4
+—
+—
+KRIME REAVER KNOB (CLUBS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+3)P
+—
+—
+—
+>	
+I can’t imagine using one of these solo, but the trolls in my 
+unit swear by them. Our quartermasters can’t get enough 
+of them.
+>	
+Picador
+>	
+That’s partly because Krime stuff is prone to breaking, and 
+they need to buy replacements.
+>	
+Thorn
+KRIME SHIV
+A while back, some crazy old trog walked into the 
+offices of Krime and started ranting and raving on 
+just about everything, especially about how use-
+less the sizes of most multitools are, with their 
+fiddly little blades and all that. It took a while 
+for Old Man Krime to empty his bottle of synth-
+scotch so that he could shatter it and scare the 
+guy off, but it did get Krime engineers thinking. 
+Maybe captain crazypants had a point. So they 
+worked on that very problem, and this is their re-
+sponse—the Shiv Multitool Machete. Holding a 
+variety of useful tools in the handle, especially a 
+steel toothpick, the blade of the machete is also 
+made from some of the finest Krupp steel. Krime 
+hosts monthly contests for users to post the most 
+imaginative uses of the tool, and those videos are 
+not safe for family viewing.
+KRIME SHIV (BLADES)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+1
+(STR+2)P
+-2
+6R
+550¥
+Note: The multitool is the equivalent of a poorly supplied, ill-la-
+beled Hardware Kit. Any rolls suffer from a –2 dice pool penalty and 
+glitches automatically become critical glitches.
+>> STREET LETHAL <<
+20    EXPANDED ARSENAL >>
+
+===== streetlethal.pdf p22 =====
+>	
+Krime apparently has some wonderfully exact receipts 
+showing that they paid in full for that steel. Pity the 
+steel mill that supposedly sold the allotment doesn’t 
+have any evidence that they ever made it in the first 
+place, just a hole where it should have been making 
+that amount of steel.
+>	
+Plan 9
+>	
+Um, yeah, about that. Technically, you’re bragging at 
+this point.
+>	
+Plan 10
+>	
+Oh, this isn’t going to be confusing or a problem at all. 
+Nope nope nope.
+>	
+Snopes
+MACUAHUITL
+A traditional Aztec weapon, the macuahuitl is a 
+meter-long wooden sword embedded with ra-
+zor-sharp obsidian blades. Occasionally used 
+by ceremonial guard, authentic macuahuitls are 
+most often carried by the wealthy and status-con-
+scious in Aztlan. While it looks odd to the modern 
+eye, causing many opponents to underestimate 
+it, a macuahuitl is capable of decapitating a horse 
+with a single blow. Cheaper densiplast knock-offs 
+have begun to appear on the streets as well, re-
+placing obsidian blades with low-quality steel.
+TRADITIONAL MACUAHUITL (BLADES)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+6
+1
+(STR+3)P
+–2
+7R
+3,000¥
+Note: If an attack with this weapon hits but fails to damage its 
+target after the standard Body + Armor roll, there is a fifty percent 
+chance that one of the obsidian blades will break off, reducing the 
+Damage Value by one.
+MODERN MACUAHUITL (BLADES)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+2)P
+–1
+5R
+200¥
+>	
+I saw a few Leopard Guards using these down in 
+Columbia. They made a show of punishing some punk 
+they found carrying one of the imitations.
+>	
+Hard Exit
+>	
+That probably had more to do with making a show of force 
+than it did something to do with protecting traditions.
+>	
+0rkCE0
+>	
+The difference was lost on the punk.
+>	
+Hard Exit
+>	
+As with any expensive, rare commodity, there’s an 
+entire subculture of collectors for these. It has its own 
+vernacular, pecking order, and value system. More than a 
+few Aztechnology higher-ups are avid collectors.
+>	
+Fianchetto
+NODACHI
+Nodachi are massive, two-handed swords, often 
+reaching lengths of nearly two meters. Originally 
+designed as an anti-cavalry weapon, nodachi are 
+popular weapons in the shadows among both the 
+highly trained and the overly enthusiastic.
+NODACHI (BLADES)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+2
+(STR+5)P
+–5
+12R
+2,500¥
+Note: If the wielder’s Strength is under 4 or if they have fewer 
+than 4 ranks in Blades, attacks made with this weapon suffer a –2 
+dice pool penalty.
+>	
+There is nothing subtle about these. While a samurai’s 
+daisho has symbolic meaning, the nodachi is a weapon 
+of war and viewed as such. Carrying one in certain places 
+is—at best—considered a grave breach of etiquette, and 
+at worst seen as a declaration of war.
+>	
+Kia
+>	
+To the untrained eye, a nodachi looks like a giant katana. 
+So-called samurai who carry a katana to lend themselves 
+an air of authenticity fall in love with these as soon as they 
+see one. Then they get them stuck in a wall.
+>	
+Mihoshi Oni
+>	
+If fighting people with meter-long razorblades has gotten 
+dull, you’ll be happy to learn that Yakashima has been 
+outfitting some of its people with these. Double the blade 
+for double the fun.
+>	
+Mika
+>	
+That’s not how that works.
+>	
+Ma’fan
+CLUBS
+FLUID-MOTION MACE
+A large, somewhat unwieldy two-handed weapon, 
+the fluid-motion mace contains a hollow reservoir 
+filled with a liquid (commonly mercury), creating 
+additional momentum upon impact. Originally 
+conceived as a weapon for a Neil the Ork Barbarian 
+spinoff show, the spectacular potential of the mace 
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    21
+
+===== streetlethal.pdf p23 =====
+made it a popular pick for various underground com-
+bat leagues. Characters with a Strength of less than 
+5 suffer a cumulative –1 dice pool penalty to attack 
+rolls for each attack after the first. This penalty can 
+be reset to zero if the character spends a Standard 
+Action doing something other than using the mace. 
+FLUID-MOTION MACE (CLUBS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+4)P
+—
+9
+1,500¥
+Note: A character can spin this weapon to increase its momen-
+tum. Treat this as the Take Aim action (p. 166, SR5).
+>	
+Matt Wrath has seen this in the pits. Matt Wrath knows 
+a man who uses this as a finishing weapon. Matt Wrath 
+hasn’t eaten grapes since.
+>	
+Matt Wrath
+>	
+I’m just impressed you had enough nuyen to be eating 
+grapes in the first place.
+>	
+Thorn
+>	
+These come in all sorts of packages: maces, hammers, 
+giant baseball bats, you name it. A go-gang down in 
+Renton has taken to using them as drive-by weapons.
+>	
+Red
+>	
+Did no one else notice the mention of mercury? Carrying 
+around a container of mercury and then bashing people 
+over the head with said container is crazy. Caveat emptor.
+>	
+Butch
+GUNSTOCK WAR CLUB
+A valuable tool for Native Americans, this weap-
+on has become an important part of the Okich-
+itaw martial combat style. Its name is a clear 
+descriptor—it’s a war club that is shaped like a 
+gunstock, though there’s plenty of debate about 
+which design came first. With a sharp point often 
+set at the crook, this club delivers a lot of impact 
+at the point of contact, and in the right hands it 
+can puncture through a fair amount of protection.
+GUNSTOCK WAR CLUB
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+1
+(STR+3)P
+–1
+10
+200¥
+GUNSTOCK WAR CLUB (AS THROWING WEAPON)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Physical
+—
+(STR+2)P
+–1
+—
+—
+Note: Using a gunstock war club as a throwing weapon requires 
+the Exotic Ranged Weapon skill.
+>	
+You don’t really see how dangerous these are until you 
+see one in the hands of a skilled Okichitaw practitioner. 
+There is a lot of spinning and motion so that when the 
+club finally hits, it drives in deep, usually at a vulnerable 
+spot. Practitioners usually have a knife in their off hand, 
+the better to hurt you with if you get too caught up 
+watching the club.
+>	
+Mika
+>	
+They can also be pretty concealable. Make it so the spike 
+is removable, bury that deep in some piece of luggage, 
+and this will get past a lot of inattentive security.
+>	
+Cayman
+NUNCHAKU
+Thought to have its origin as an Okinawan farm-
+ing tool, the nunchaku is comprised of two short 
+sticks made of wood, metal, or plastic, fastened 
+together by a short length of chain or rope. When 
+properly used, nunchaku can deliver a flurry of 
+blows from a variety of angles. Nunchaku can 
+also be used to choke opponents.
+NUNCHAKU (CLUBS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+1
+(STR+2)P
+—
+6R
+75¥
+Note: If this weapon is used to choke someone, use the standard 
+Garrote rules (p. 20, Run & Gun). The wielder may substitute his Clubs 
+skill in place of Exotic Weapon (Garrote) with a –2 dice pool penalty.
+>	
+Few things are more fun than watching people use these 
+for the first time.
+>	
+/dev/grrl
+>	
+These are remarkably simple to smuggle into places. 
+It’s easy to find models that won’t show up on a MAD 
+scanner and all you need is a tube to conceal it. Furniture 
+legs, loaves of bread, you name it.
+>	
+2XL
+>	
+Loaves of bread?
+>	
+Slamm-0!
+>	
+Don’t laugh. I worked a prison break in Indonesia based 
+on that idea. If you’re nice, I’ll show you the video feed of 
+the ensuing riot.
+>	
+2XL
+>	
+I’m in.
+>	
+Slamm-0!
+>> STREET LETHAL <<
+22    EXPANDED ARSENAL >>
+
+===== streetlethal.pdf p24 =====
+TONFA
+Now popular with security forces throughout the 
+world, the tonfa’s roots go back to traditional Oki-
+nawan martial arts. A fifty-centimeter shaft with 
+a perpendicular handle that allows it to be held 
+parallel to the forearm, the tonfa is an excellent 
+defensive weapon. Often used in pairs, tonfa 
+can strike from a variety of angles and distances, 
+making them exceptionally versatile.
+TONFA (CLUBS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+3)P
+—
+4
+75¥
+Note: For each tonfa wielded, the user gains a +1 dice pool bo-
+nus to defensive tests while using the Parry and Riposte Interrupt 
+Actions.
+>	
+Security goons get handed these but are rarely trained in 
+their proper use. They’ll just club you over the head, which 
+I guess is effective in its own way, but doesn’t require any 
+Tai Sabaki.
+>	
+Mihoshi Oni
+>	
+That a new liquor?
+>	
+Cayman
+>	
+It’s an idea that encompasses body position. Creating 
+paths of ingress into your opponent’s guard without 
+relying on brute force, that sort of stuff. Tonfa are best as 
+counterattacking weapons—if you’re out of position when 
+you get attacked, you’re going to be out of position for 
+your response.
+>	
+Mihoshi Oni
+>	
+That’s nice and all, but I have a simple solution: Carry a 
+shotgun.
+>	
+Kane
+OTHER MELEE 
+WEAPONS
+KRIME GLOVES
+The only thing harder than finding a set of knuck-
+leduster or stun gloves in a decent size is figuring 
+out which would be better to wear that day. Krime 
+designers were looking at exactly that problem 
+and thought, “Bah! We’ll make gloves that have 
+both!” And so they did. Incorporating recycled 
+densiplast along with their “skullwhomper” stun-
+palm pad and some serious street style, these are 
+gloves to be worn with pride! When the punks 
+step up acting like hardhoops, you can knock 
+them down even harder. They also come with 
+a Stormcuff battery system, allowing a user to 
+swap out the battery like a clip in a gun, for those 
+extra-long riots.
+KRIME GLOVES: KNUCKS (UNARMED)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Physical 
+Limit
+—
+(STR)P
+—
+8R
+600¥
+KRIME GLOVES: STUN PAD (UNARMED)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Physical 
+Limit
+—
+8S(e)
+–5
+—
+—
+>	
+Most decent hardliner gloves look just like gloves—a 
+little heavy for normal gloves, but they blend in fairly 
+well. These? They look like weapons just on their own 
+without the chrome studs added onto the knuckles and 
+the studded wristband.  Unlike a lot of stuff out of Krime, 
+however, they are available in sizes other than “engine 
+block.”
+>	
+Zhaganaash
+>	
+While they are available in other sizes, most importantly 
+they are available in size XL-Troll, which isn’t true of so 
+many other clothing options.  The stun palm of the glove 
+is also non-slick, which makes these useful driving gloves 
+for someone my size, too. And, after you snap the chrome 
+studs off, um, well, yeah, they still look like combat gloves.
+>	
+2XL
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    23
+
+===== streetlethal.pdf p25 =====
+>	
+The battery replacement also means that they don’t 
+need to be thrown out after a year as the batteries lose 
+their ability to hold a charge, unlike other (eventually 
+disposable) stun gloves on the market.  Krime also only 
+builds the gloves and densiplast knuckles, while the 
+electrical work is farmed out all around Euskal Herria 
+whose quality ranges from “well, that’s Krime for you” all 
+the way to “wow, they almost put effort into this!”
+>	
+Clockwork
+KRIME STUN LANCE
+When Krime was approached by the newly re-
+formed Winged Hussars, asking that they provide 
+proper lances to ride into battle with, their crew 
+of negotiators, after many rounds of vodka and a 
+very long history lesson on who the Hussars are, 
+finally asked, “For what, on horseback?” “No,” the 
+response came. “Combat motorcycles.” Well, the 
+agreement was signed right fragging then and 
+there because that kind of stuff is right up Krime’s 
+alley. The Krime Lance is the result, after many 
+hours of research, development, and working 
+with a variety of Polish and Serbian experts in the 
+combat biker and urban brawl fields. This three-
+meter-long stun baton allows a charge that will 
+leave any rioter jerking in the streets. Available 
+in a variety of colors and with heraldic additions. 
+Ballistic streamers extra.
+Note: The Krime Stun Lance comes in troll sizes 
+only; see Using Unadapted Gear (p. 420, SR5).
+KRIME STUN LANCE (EXOTIC MELEE WEAPON)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+2
+10S(e)
+–5
+9R
+900¥
+>	
+Stun batons are just the right length, weight, and 
+balance to be easy to use. These, not so much. On the 
+other hand, facing a bunch of people on motorcycle-
+back doing an old-skool calvary charge would put the 
+fear of Ghost into anyone!
+>	
+DangerSensei
+>	
+It took all of fifteen seconds for go-gangers to find these 
+and rediscover jousting. Most “heraldic” additions are 
+just gang signs. Although, if you think of older armies as 
+the original street gangs, that makes sense. On the other 
+hand, my boyfriend wants one for when he’s riding slitch 
+on my Triumph and thinks the purple streamers he wants 
+with it are pretty, yet manly powerful.
+>	
+RRW
+PROJECTILE 
+WEAPONS
+KRIME TROLLBOW 
+On a trip to England to try to set up a trade deal, 
+a Krime sales team got to watch an archery com-
+petition, largely because the beer was on special. 
+They came back with lots of notes and one of 
+the archers, who was enticed with the promise 
+of even more beer and bows. They promptly in-
+sisted that the company start making composite 
+bows. There were questions about the company 
+making such an “elfy” weapon, but after watch-
+ing an arrow go through a radiator, the doubters 
+immediately changed their tune, only demanding 
+that engineers add blades onto the form so that it 
+could have some proper “troll horns.” Krime be-
+lieves they have perfected the modern archery 
+weapon for the Sixth World: the Trollbow! Accept 
+no substitutes, troll not included!
+KRIME TROLLBOW (BLADES)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+3
+1
+(STR + 1)P
+–1
+(Rating)R
+Rating X 
+150¥
+KRIME TROLLBOW (BOWS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+(Rating + 2)P –(Rating / 4)
+—
+—
+—
+Note: This weapon is only available at Ratings between 6 and 12 
+and requires a Strength equal to its Rating to use properly.
+>	
+You occasionally get archers in the shadows here and 
+there, and they fall into two categories:  Really, really 
+good, or really, really idiotic. Krime’s heavily chromed 
+and bladed bow is just going to bring out more of the 
+second type.
+>	
+Bull
+>	
+The draw weight on these things limit them to beefy orks, 
+trolls, or otherwise augmented metahumans. And you’ll 
+>> STREET LETHAL <<
+24    EXPANDED ARSENAL >>
+
+===== streetlethal.pdf p34 =====
+those who don’t require dozens of bullets to 
+make their point and those who simply cannot 
+bring themselves to carry lighter pistols.
+Standard Accessories: Laser Sight (top)
+MORRISSEY ELITE (HEAVY PISTOL)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+4(5)
+8P
+–1
+SA
+—
+5(c)
+6R
+500¥
+Note: This weapon uses Light Pistol ranges and has a Conceal-
+ability Modifier of –1. 
+>	
+For jobs where blending in is paramount, this is a nice 
+choice, especially if you’re splitting your team between 
+high-profile and low-profile details. A few people carrying 
+SMGs will draw all the attention while you work the crowd 
+packing one of these.
+>	
+Mihoshi Oni
+>	
+Stopping power is the ability to reliably group your shots 
+at the brainstem. 
+>	
+Cayman
+>	
+If I’m firing a gun, I’m going to need a lot more than five 
+bullets.
+>	
+Kane
+>	
+Is that a sign that you need to spend some more time 
+practicing?
+>	
+Netcat
+>	
+Naw, it’s a sign that I need to cut down on using bullets as 
+punctuation marks when I speak.
+>	
+Kane
+>	
+True story.
+>	
+/dev/grrl
+NEMESIS ARMS 
+PRAETORIAN
+Originally used as a ceremonial showpiece, the 
+Praetorian has gone from oddity to workhorse. Its 
+reinforced frame not only makes it an excellent 
+choice for close-quarters combat, it also helps 
+reduce barrel rise, making it easier to empty the 
+clip in an orderly fashion. Customers can submit 
+their own artwork to be used as custom etchings 
+upon order or pick from a library of stock designs.
+Standard Accessories: Bayonet (barrel), Melee 
+Hardening, Smartgun System (internal)
+NEMESIS ARMS PRAETORIAN (HEAVY PISTOL)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+4(6)
+8P
+–1
+SA
+1
+12(c)
+7R
+750¥
+Note: This weapon cannot accept barrel accessories or modifi-
+cations since the bayonet is permanently affixed.
+NEMESIS ARMS PRAETORIAN BAYONET (BLADES)
+ACC
+DAM
+AP
+REACH
+5
+(STR+1)P
+–1
+—
+>	
+Remember that troll from Dallas? Well, he’s still around 
+and kicking, although he’s moved on to Chicago and 
+gotten himself enough ‘ware to use two of these things at 
+the same time. Still impressive, although now it’s a wave 
+of lead followed by a blender.
+>	
+Sunshine
+>	
+I’d hate to be the security guard who closes distance as 
+soon as they hear him drop a clip.
+>	
+Black Knight
+>	
+These make pretty good trade bait with gangers. High-
+end guns require a level of maintenance that most gangs 
+simply can’t afford, but these are rugged enough to 
+withstand the inevitable mistreatment a gang will inflict 
+on them.
+>	
+Stone
+>	
+The streets aren’t dumb; they just value efficiency. 
+Carrying one of these tells people that you’re prepared to 
+empty your clip and keep fighting. That fights with you are 
+tests of will and endurance. That’s a strong message.
+>	
+Chainmaker
+ONOTARI ARMS 
+VAGABOND
+The Vagabond’s distinctive brushed stainless-steel 
+frame offers a more modern take on the revolver 
+than some of the other models on the market to-
+day. Its smooth double action makes getting off 
+accurate shots in rapid succession a snap. Firing 
+from the bottom of the cylinder instead of the 
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    33
+
+===== streetlethal.pdf p42 =====
+proper size for their functions, running the finest 
+recycled titanium alloys for the head to a flexbond 
+composite for the shaft to minimize kinetic trans-
+fer to the hands from the point of impact. Avail-
+able in chrome finish or Super-Street-Chrome.
+Standard Accessories:   Melee hardening, shock 
+pad. The Whammy is only available in troll sizes.
+KRIME WHAMMY (SHOTGUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3
+12P
+–1
+SS
+1
+5(m)
+12F
+2,000¥
+KRIME WHAMMY (CLUBS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+2)P
+—
+—
+—
+Note: All range penalties are doubled with this weapon. Bullets 
+fired from this weapon are not considered to be penetrating weap-
+ons for the purposes of overcoming barriers. When using the ham-
+mer portion of this weapon against a barrier, the user may roll Agility 
++ Clubs [Accuracy] or Agility + Strength. A minimum Strength of 5 is 
+required to use this weapon.
+>	
+Titanium alloy? More like a steel alloy that has a smidgen 
+of titanium in it.  And with Krime’s marketing and target 
+audience, I figure that metahumans will be targeted more 
+with this than really tough doors.
+>	
+Bull
+>	
+It’s a battering ram with a built-in shotgun, or vice versa 
+depending on your point of view. If someone in your crew 
+has one, just point them in a direction and they’ll be able 
+to make a straight line to wherever you need to go.
+>	
+2XL
+MACHINE GUNS
+KRIME TRIPLE SERIES
+Third time’s the charm, they say. Krime brought 
+out three barrels of pain to all comers who 
+face their wondrous Triple Series of Gatling 
+guns. The Triple-Troll Minigun uses Light Ma-
+chine Gun rounds, the Triple-Ork Microgun 
+uses Assault Rifle rounds, and the Triple-Dwarf 
+Nanogun uses Submachine Gun rounds. That 
+gets combined with the latest in chainsaw grip 
+technology, incorporating a Radio Shack S4.2 
+smartgun link and a licensed Smyth divided 
+spin/feed system that is the market standard for 
+Gatling guns the world over. With the Krime Tri-
+ple, the only thing not included is a target-rich 
+environment.
+Standard Accessories: Personalized grip, smart-
+gun link (internal, DR 1). All Krime Triples are sized 
+for the metatype named in the weapon.
+TRIPLE-TROLL MINIGUN (LIGHT MACHINE GUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3(5)
+10P
+–4
+FA
+—
+100(belt)
+18F
+2,000¥
+TRIPLE-ORK MICROGUN (LIGHT MACHINE GUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3(5)
+8P
+–2
+FA
+—
+100(belt)
+16F
+1,400¥
+TRIPLE-DWARF NANOGUN (LIGHT MACHINE GUN)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3(5)
+7P
+—
+FA
+—
+100(belt)
+14F
+1,000¥
+>	
+I was kind of insulted at the Krime Triple Dwarf bit, but 
+after using it, I have to say that even light rounds are very, 
+very dangerous to the morale of opponents.
+>	
+Chainmaker
+>	
+Just to prove that firearms fans will complain about 
+anything, the maximum rate of fire is “only” 3,000 rounds-
+per-minute rather than 5,000 or 6,000. I have yet to meet 
+anyone that has ever set a minigun to more than 2,000 
+rounds-per-minute, and most are happy at 1,000 to 1,500. 
+Also, look into the Krime Pack if you want to keep going all 
+night long. Or, you know, longer than ten seconds.
+>	
+Zhaganaash
+GATLING GUN HIGH RATE OF FIRE
+A Gatling gun’s main reason for being is deploying an 
+extreme amount of ammo around the poor unlucky slitch who 
+deserves it, and everyone around them. As such, they are 
+primarily used to suppress a larger-than-normal area when 
+compared to other assault rifles and machine guns. Any Gatling 
+gun (including the Ares HVAR and GE Vindicator in Run & Gun) 
+is capable of suppressing up to one additional zone (see the 
+suppression rules, p. 179-180, SR5; and Enhanced Suppression, 
+p. 120, Run & Gun) with a single test provided that they are 
+adjacent to one another. Each additional zone requires an 
+additional twenty rounds of ammunition. That 100-round belt is 
+starting to look pretty small, huh?
+Hope your reload is fast on their feet!
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    41
+
+===== streetlethal.pdf p98 =====
+it. Failure means they lose everything, which is a 
+powerful motivator. 
+Second, don’t underestimate what they’re 
+packing. They may not be able to carry the most 
+powerful weapons because of their mission pro-
+file, but what they do carry, they tend to be ex-
+tremely efficient with. Protection units, both high- 
+and low-profile, tend to stay mobile. Therefore 
+they often tend to travel with and pack weaponry 
+based on this concept. SMGs and carbines with 
+high accuracy ratings and loaded with specialty 
+ammo are often favored by these details as prima-
+ry weapons. For secondary options, any pistol with 
+an above-average accuracy rating (also packing 
+specialty ammo) is also common. Melee weapons 
+of any kind are usually used only as weapons of 
+last resort. In addition to their weapons load-out, 
+most corp protection details tend to have a host 
+of support assets, such as Matrix, vehicle/drone, 
+and magical support, especially for high-priority 
+or high-profile missions. 
+>	
+I’ve seen supposedly competent runners scoff at a corpsec 
+officer with “only” a light pistol, right until that officer put 
+a bullet right between their teammate’s eyes. Knockdown 
+power is a myth; accuracy and shot placement trump 
+everything else.
+>	
+Balladeer
+>	
+Only if you don’t care about collateral damage or the 
+repercussions of such. Otherwise, high-volume fire and 
+grenades work just as well. 
+>	
+Rigger X
+Third, this is a corporate escort/protection de-
+tail. This means that they have the funds to get 
+whatever they may need as long as it helps pro-
+tect their principal. It also means that they can 
+usually get away with a lot of drek because cor-
+porate and international laws often bend favor-
+ably in their direction. This means that nine times 
+out of ten, the local law enforcement will be on 
+the corps’ side. Nothing new, but it never hurts to 
+be reminded.
+Fourth—and this is actually good news for us 
+shadow-folk—the corps generally try to show 
+at least some restraint. Okay, not all but most of 
+them, but let’s not get ahead of ourselves. Public 
+relations is very much a double-edged sword. If a 
+corp is trying to make inroads in a particular area 
+or schmooze a certain government, it’s not going 
+to help their case if their security operatives be-
+come overzealous and waste a bunch of civvies. 
+Kinda looks bad all around and plays horribly on 
+the trid. That’s something we can use to our ad-
+vantage, but don’t think the corps won’t have con-
+tingency plans in place for that. 
+>	
+Conversely, a heavily armed corp sec team assisting local 
+law enforcement with apprehending (or eliminating) 
+dangerous criminal elements (such as us) also gets a lot 
+of traction on the trid. 
+>	
+Danger Sensei 
+And fifth, realize that if attacked, most corpsec 
+teams (again, key word: most) are trained to retreat 
+and evade rather than engage in heavy, prolonged 
+engagements. Doing so not only puts the princi-
+pal in jeopardy but could have other long-reaching 
+implications and repercussions. This can be used 
+to one’s advantage. But again remember, this is a 
+scenario for which most sec-officers are specifi-
+cally trained.  
+SO HOW DOES  
+THIS ALL WORK?
+So now that we’ve gone over some of the various 
+terms, principles, and general knowledge about how 
+corpsec operates, one may still be asking: How does 
+this come together? While I can’t say it enough that 
+corps will do things differently, there are enough 
+similarities to give a basic rundown on how corpsec 
+operates in regards to that fragging CSSI doctrine. 
+LAYERED APPROACH
+The best way to describe on-site physical security 
+is to think of each part as a layer that together 
+constitutes a whole. Simple enough. In order for 
+Johnny or Jane Shadowrunner to get what they 
+want, they’ll need to figure out exactly how to 
+penetrate those layers.  To illustrate, let’s look 
+at a basic security response through a break-
+ing-and-entering scenario. 
+Potential intruders need to consider the target’s 
+passive security measures, as they’re usually the 
+first thing they’ll encounter. They’ll need to deter-
+mine exactly what passive security measures are 
+present before they can figure out how to defeat 
+them. If there’s an outer barrier such as a fence 
+or wall, what would be the best way to overcome 
+them? They’ll also need to determine if any sensors 
+or remote-access cameras are watching those stat-
+ic structures. Those will need to be dealt with.
+>>	
+STREET LETHAL <<
+<< Opposition Report: CorpSec    97
+
+===== streetlethal.pdf p132 =====
+HORIZON-FLYNN DEFENSE-COM 
+COMMLINK WEAPONS
+Sometimes the best weapon one has is the one no 
+one knows they have. Once again partnering with 
+renowned bladesmith Dante Flynn, Horizon has 
+recently released their Defense-Com brand of con-
+cealed weapons. Designed to look like standard 
+(but non-functional) commlinks, Defense-Com 
+weapons come in three varieties: the Def-Com 
+hold-out pistol, taser, and defensive knife. Each 
+one is perfect for the person who requires protec-
+tion but doesn’t want to draw attention. 
+>	
+These things can be handy. Undercover Horizon Protectors 
+are fond of these. Because of the low damage profile, 
+they usually load the pistol with capsule rounds filled 
+with appropriate night-night juice. The taser is decent, but 
+the knife is solid. I carry one. However, I suggest getting 
+to know them before you use them. Nothing worse than 
+grabbing the wrong ’link.
+>	
+Mika
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: HOLD OUT PISTOL
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+5
+5P
+—
+SS
+2(b)
+10
+400
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: TASER
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+5
+6S(e)
+–4
+SS
+4(b)
+10
+300¥
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: KNIFE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+4
+–
+(STR)P
+–2
+10
+250¥
+LONE STAR’S  
+REMINGTON 995 “BUZZSAW”
+A variant of their classic 990 shotgun, the 995 
+“Buzzsaw” has gained a reputation as being a 
+simple yet reliable and rugged entry gun. Cur-
+rently a favorite among Lone Star’s Shadow-
+riders, the 995 has a pistol grip in place of the 
+standard stock. But what makes the 995 an 
+effective door breacher is the barrel-mounted 
+titanium “teeth” that are jammed into a lock or 
+door hinge that prevent the weapon from skip-
+ping off when fired. It also features a grip han-
+dle that attaches to the pump-action but goes 
+over the weapon, allowing for rapid chamber-
+ing and maneuvering in close quarters. Both 
+these features allow for quick seating and em-
+ployment of the weapon. 
+>	
+Those teeth also hurt when you jam them into someone’s 
+hand, neck, or whatever. 
+>	
+Kane
+REMINGTON 995 “BUZZSAW” SHOTGUN
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+4
+11P
+–1
+SA
+—
+8(c)
+6R
+1,000¥
+Standard Upgrades: Breaching teeth, foregrip, modified pump 
+handle, side mount (top and bottom).
+Special Rules: Breaching teeth provide +2 to accuracy when 
+weapon barrel is seated against a target.
+LONE STAR’S BATES-BROWN 
+TACTICAL COMBAT BOOTS
+Also known as “drek-kicker” boots, these specially 
+designed combat boots not only protect one’s feet 
+and look stylish with tactical gear, but with their 
+reinforced soles and metal toes they also act as 
+knucks for kicking. That’s right, with these boots, 
+kick attacks are more damaging than ever. Perfect 
+for kicking in doors or a perp’s guts!
+>	
+One of the most cringe-worthy things I’ve seen is a Star 
+adept cop spin-kick a troll suspect in his … well you get 
+the idea. Frag, that looked like it hurt! 
+>	
+Bull
+BATES-BROWN TACTICAL COMBAT BOOTS
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+4
+—
+(STR+2)P
+–4
+10
+250¥
+Special Rules: +5 armor against attacks to the feet
+MAERSK SHIPYARDS 
+WAVECUTTER MPAC
+The Wavecutter MPAC, or Maritime Patrol and 
+Assault Craft, is loosely based on the PT-style 
+watercraft. But other than a few design features, 
+the Wavecutter and PTs have little in common. 
+Designed to fulfill a wide variety of maritime 
+warfare and security roles, the twenty-eight-me-
+ter-long Wavecutter weighs only approximately 
+twenty-five tons despite its heavily armored hull. 
+The Wavecutter also features a powerful Pack-
+ard-Voss V-31 Maritime engine that allows for an 
+impressive surface speed and maneuverability 
+profile. While the base model comes with several 
+features such as a small landing ramp that opens 
+>>	
+STREET LETHAL <<
+<< Opposition Report: CorpSec    131
+
+===== streetlethal.pdf p133 =====
+to store a semi-rigid inflatable vehicle or other 
+small watercraft (up to two small craft, takes one 
+Complex Action to deploy). The Wavecutter also 
+has several other features that allow for extended 
+operations and is a favorite of Maresk’s Marines, 
+who use it extensively. 
+>	
+What you have here is a t-bird on water. Depending on the 
+modifications, this thing can be a floating gunship, drone 
+carrier, or a special-ops taxi. And Maersk uses them for all 
+of the above. It’s one of the few times I find myself envious 
+of a corp, because they’re hard, but not impossible, to get 
+if you’re not cozy with Maersk. 
+>	
+Kane
+MAERSK SHIPYARDS WAVECUTTER MPAC
+HAND
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+5
+5
+3
+25
+25
+4
+5
+12
+22F
+360,000¥
+Standard Equipment: Amenities (low), commlink (DR 7), ECM 4, four 
+additional body modification slots, four additional weapon mount 
+slots, manual control override, rigger cocoon, rigger interface, 
+satellite link, sun cell, signature masking 4
+Special Equipment: Small craft bay (rear).
+ 
+MCT/WINCHESTER-HOWE 
+HORNET DIRECT-FIRE  
+MINI-GRENADE
+For a corporation that’s famous for its Zero-Zone 
+security, most weren’t surprised when MCT 
+subcontracted munitions manufacturer Win-
+chester-Howe to develop the Hornet mini-gre-
+nade. A cross between a grenade and a rocket, 
+the Hornet is launched from a grenade launcher, 
+but instead of arching, it is a direct-fire, single-tar-
+get weapon. Like a grenade, the Hornet can be 
+programmed to detonate based on a timer or 
+proximity to a target. Before impact, the Hornet 
+splits into six different projectiles, which gives it 
+a burst-fire-like effect. While the Hornet can be 
+used in any standard grenade launcher, the tar-
+geting sensors in the grenade’s head tend to mal-
+function, which often prevents projectile separa-
+tion and cancels the burst effect. 
+WINCHESTER-HOWE HORNET DIRECT-FIRE MINI-GRENADE
+DV
+AP
+BLAST
+AVAIL
+COST
+12P
+–2
+Special
+16F
+400¥
+Special Rules: During normal operations, the Hornet is considered 
+to be a six-round burst fire weapon; normal rules apply. On a glitch 
+when firing, the Hornet does not separate. It will still do base DV –2, 
+but will lose its AP. 
+RENRAKU RED  
+SAMURAI KATANA
+The ultimate badge of honor and service among 
+Renraku’s Elite Red Samurai, these blades works 
+of art as much as functional weapons, forged with 
+a blend of modern and ancient techniques. Leg-
+end says that if a Red Samurai draws their blade, 
+it must taste blood or it will turn on its owner. 
+Whether this is true or not remains to be seen, but 
+when a Red Samurai draws their blade, someone 
+usually dies. A Red Samurai would rather die than 
+give up their blade willingly. Blades of honorably 
+fallen or passed Samurai are considered sacred 
+items. 
+>	
+And the Reds take this very seriously. Don’t get any 
+ideas about stealing one, unless you want the entire Red 
+Samurai corps after you. I’m not kidding. 
+>	
+Thorn
+RENRAKU RED SAMURAI KATANA
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+1
+(STR+3)P
+–4
+NA
+NA
+RENRAKU/INGRAM  
+SUPERMACH 200
+A weapon design subcontracted through the In-
+gram weapons corporation, the Supermach 200 is 
+a favorite among Najima (Renraku’s security sub-
+sidiary) and the Blue Samurai. An update of the 
+popular Supermach 100, the 200 is designed to 
+be light, compact, and hold a substantial ammo 
+capacity. But in order to accomplish all this, In-
+gram was forced to create a special proprietary 
+ammo type that can only be used in this weapon. 
+The result was a round that lacked the raw damage 
+profile of most weapons of similar caliber, but to 
+compensate it had one of the best armor-penetra-
+tion profiles without having to use APDS ammo. 
+Despite the 200’s supposed flaws, Renraku is 
+more than satisfied with the weapon, siting the 
+low potential for blow-through, and has contract-
+ed for several thousand over the next few years. 
+INGRAM SUPERMACH 2000 SMG
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+6
+5P
+–6
+BF/FA
+–2
+40(c)
+18F
+5,000¥
+Standard Upgrades: Internal smartgun system, shock pad
+Special Rules: Because of its specialized design, this weapon can 
+only take custom ammo. For gameplay, treat price as standard ammo 
+but with Availability of 16F.
+>> STREET LETHAL <<
+132    Opposition Report: CorpSec >>
+
+===== streetlethal.pdf p175 =====
+search facility. They’ll probably need help along 
+the way and maybe even on the actual attack, but 
+I’m not certain how many runners who read this 
+are going to go and take a trip over to the deep 
+jungles of Central Africa to help a local militia fight 
+a megacorporation. Especially one doing research 
+into space-age tech, including weapons.
+>	
+Here on JackPoint, low numbers; on the streets, where 
+they’re fed a load and then jump on a plane, too many.
+>	
+Bull 
+MEAT FOR  
+THE GRINDER
+SECURITY/MERCENARY/ 
+MILITIA GRUNT 
+(PROFESSIONAL RATING 2, HUMAN)
+These are your basic security grunts and merc 
+and militia recruits waiting to drop into their first 
+combat zone. They’re papier-mâché to your aver-
+age street sam, and even the squishiest runner on 
+the job should be able to take one in a one-on-
+one tussle. If they have a little luck on their side. 
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+4(+1)
+3
+3
+3
+3
+2
+3
+2
+5.8
+Initiative
+6 + 1D6
+Condition Monitor
+10
+Limits
+Physical 5, Mental 4, Social 4
+Armor
+9
+Active Skills
+Athletics skill group 2, Close Combat skill 
+group 3, Firearms skill group 3, First Aid 1, 
+Perception 2, Pilot Ground Craft 1, Sneaking 
+1
+Qualities
+Toughness 
+Gear
+Armor vest (9), commlink (Device Rating 3), 
+ear buds [Rating 1, w/ audio link], stimulant 
+patch (Rating 6), trauma patch
+Augmentations
+Cybereyes [Rating 1, w/ image link, low-light, 
+thermographic]
+Weapons
+Combat Knife [Blades, Reach —, Acc 6, DV 
+5P, AP –3]
+Ares Light Fire 70 [Light Pistol, Acc 7(8), DV 
+6P, AP –, SA, RC —, 16 (c), w/ laser sight]
+Steyr TMP [Machine Pistol, Acc 4(5), DV 7P, 
+AP —, SA/BF/FA, RC —, 30(c), w/ laser 
+sight]
+Colt M-23 [Assault Rifle, Acc 4(5), DV 9P, AP 
+–2, SA/BF/FA, RC —, 40(c), w/ laser sight]
+SECURITY/MERCENARY/ 
+MILITIA ELECTRONICS GRUNT
+(PROFESSIONAL RATING 2, HUMAN)
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+2
+2
+3
+2
+4
+3
+3
+2
+5.9
+Initiative
+6 + 1D6
+Condition Monitor
+9
+Limits
+Physical 3, Mental 5, Social 5
+Armor
+9
+Active Skills
+Athletics skill group 1, Automatics 1, Close 
+Combat skill group 1, Cracking skill group 2, 
+Electronics skill group 2, First Aid 1, Gunnery 
+2, Perception 1, Pilot Aircraft 2, Pilot Ground 
+Craft 2, Pistols 1, Sneaking 1
+Augmentations
+Datajack
+Gear (Personal)
+Armor vest (9), commlink (Device Rating 4), 
+ear buds [Rating 1, w/ audio link], stimulant 
+patch (Rating 6), trauma patch
+Gear (Company)
+Novatech Navigator cyberdeck [Device 
+Rating 3, Atts 6 5 4 3, Programs 3; w/ 
+programs (Armor, Encryption, Signal Scrub)] 
+or Essy Motors DroneMaster RCC [Device 
+Rating 3, DP 4, Firewall 4, Programs 3; w/ 
+programs (Armor, Guard, Signal Scrub)], 
+S-B Microskimmer (clearsight 2), GM-
+Nissan Doberman (programs: clearsight 
+2, Doberman Maneuvering 2, Targeting 
+SMG 2), MCT-Nissan Rotodrone (programs: 
+clearsight 2, Rotodrone Evasion 2, Targeting 
+SMG 2)
+Weapons
+Ares Light Fire 70 [Light Pistol, Acc 7(8), DV 
+6P, AP —, SA, RC —, 16 (c), w/ laser sight]
+Steyr TMP [Machine Pistol, Acc 4(5), DV 7P, 
+AP —, SA/BF/FA, RC —, 30(c), w/ laser 
+sight]
+SECURITY/MERCENARY/ 
+MILITIA ARCANE GRUNT
+(PROFESSIONAL RATING 2, HUMAN)
+>> STREET LETHAL <<
+174    Unconventional Warriors >>
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+M
+2
+2
+3
+2
+4
+3
+3
+2
+6
+3
+Initiative
+6 + 1D6
+Condition Monitor
+9
+Limits
+Physical 3, Mental 5, Social 5
+Armor
+9
+Active Skills
+Assensing 2, Astral Combat 2, Athletics skill 
+group 1, Close Combat skill group 1, Firearms 
+skill group 1, First Aid 1, Perception 2, Pilot 
+Ground Craft 1, Sneaking 1, Sorcery skill 
+group 3, Summoning skill group 2, Throwing 
+Weapons 1
+Gear
+Armor vest (9), commlink (Device Rating 3), ear 
+buds [Rating 1, w/ audio link], stimulant patch 
+(Rating 6), trauma patch, reagents (20 drams)
+Spells
+Armor, Heal, Increase Reflexes, Light, 
+Lightning Bolt, Stunbolt
+Weapons
+Ares Light Fire 70 [Light Pistol, Acc 7(8), DV 6P, 
+AP —, SA, RC —, 16 (c), w/ laser sight]
+Steyr TMP [Machine Pistol, Acc 4(5), DV 7P, AP 
+—, SA/BF/FA, RC —, 30(c), w/ laser sight]
+
+===== streetlethal.pdf p176 =====
+SECURITY/MERCENARY/ 
+MILITIA SPECIALIST
+(PROFESSIONAL RATING 3, HUMAN)
+After a few years and a little time on the job, 
+you’ve got a better breed of opposition. These 
+are the guys and gals who are trying to move up 
+in the world. Some of them are found at more se-
+cure sites or working in units to keep the new-
+blood in line. They’re better trained, in better 
+condition, and they’ve started investing their re-
+sources back into themselves.
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+5(+2)
+4
+4
+3
+3
+2
+4
+3
+4
+Initiative
+8 + 1D6
+Condition Monitor
+11
+Limits
+Physical 5, Mental 4, Social 5
+Armor
+15
+Active Skills
+Athletics skill group 4, Close Combat skill 
+group 4, Con 2, Demolitions 1, Firearms 
+skill group 4, First Aid 3, Heavy Weapons 
+1, Intimidation 2, Outdoors skill group 2, 
+Perception 4, Pilot Ground Craft 3, Sneaking 
+4, Throwing Weapons 1
+Qualities
+Toughness 
+Gear
+Armor jacket (12), commlink (Device Rating 4), 
+jazz inhaler, micro-transceiver, stimulant patch 
+(Rating 8), smartgoggles, trauma patch
+Augmentations
+Cyberears [Rating 1, w/ audio enhancement 
+1, sound link, damper], cybereyes [Rating 2, 
+w/ image link, flare compensation, low-light, 
+thermographic], dermal plating 2, plastic 
+bone lacing
+Weapons
+Unarmed [Unarmed, Acc 5, DV 4P, AP —, 
+Reach —]
+Combat Knife [Blades, Acc 6, DV 5P, AP –3, 
+Reach —]
+Ares Predator V [Heavy Pistol, Acc 7(8), DV 
+6P, AP —, SA, RC —, 16 (c), w/ smartgun 
+system, spare clip (regular)]
+HK-227 [SMG, Acc 5(7), DV 7P, AP —, SA/
+BF/FA, RC (1), 28(c), w/ smartgun system, 
+spare clip (regular)]
+Colt M-23 [Assault Rifle, Acc 4(6), DV 9P, AP 
+–2, SA/BF/FA, RC —, 40(c), w/ smartgun 
+system, spare clip (regular)]
+Flash-Bang [Grenade, Acc 5, DV 10S, AP –4, 
+Blast 10m]
+SECURITY/MERCENARY/MILITIA 
+ELECTRONICS SPECIALIST
+(PROFESSIONAL RATING 3, HUMAN)
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+3(+1)
+3
+5
+2
+4
+4
+4
+3
+4.9
+Initiative
+9 + 1D6
+Condition Monitor
+10
+Limits
+Physical 3, Mental 5, Social 5
+Armor
+13
+Active Skills
+Athletics skill group 2, Automatics 3, Close 
+Combat skill group 2, Con 1, Cracking skill 
+group 4, Electronics skill group 4, First Aid 2, 
+Gunnery 4, Outdoors skill group 1, Palming 
+2, Perception 2, Pilot Aircraft 4, Pilot Ground 
+Craft 4, Pistols 3, Sneaking 2, Throwing 
+Weapons 1
+Augmentations
+Cyberears [Rating 1, w/ audio enhancement 
+1, sound link, damper], cybereyes [Rating 2, 
+w/ image link, flare compensation, low-light, 
+thermographic], datajack, plastic bone lacing
+Gear (Personal)
+Armor jacket (12), commlink (Device Rating 5), 
+jazz inhaler, micro-transceiver, stimulant patch 
+(Rating 8), trauma patch
+Gear (Company)
+Sony CIY-720 cyberdeck [Device Rating 
+4, Atts 7 6 5 4, Programs 4; w/ programs 
+(Armor, Edit, Encryption, Signal Scrub)] or 
+CompuForce TaskMaster RCC [Device Rating 
+4, DP 5, Firewall 4, Programs 4; w/ programs 
+(Armor, Encryption, Guard, Signal Scrub)], 
+S-B Microskimmer (clearsight 3), GM-
+Nissan Doberman (programs: clearsight 3, 
+Doberman Maneuvering 3, Targeting Assault 
+Rifle 3), MCT-Nissan Rotodrone (programs: 
+clearsight 3, Rotodrone Evasion 3, Targeting 
+Assault Rifle 3)
+Weapons
+Combat Knife [Blades, Acc 6, DV 4P, AP –3, 
+Reach —]
+Browning Ultra Power [Heavy Pistol, Acc 
+5(6), DV 8P, AP -1, SA, RC —, 10 (c), w/ 
+laser sight, spare clip (regular)]
+Colt Cobra TZ-120 [SMG, Acc 4(5), DV 7P, 
+AP —, SA/BF/FA, RC 2(3), 32(c), w/ laser 
+sight, spare clip (regular)]
+>> STREET LETHAL <<
+<< Unconventional Warriors    175
+
+===== streetlethal.pdf p177 =====
+SECURITY/MERCENARY/MILITIA 
+ARCANE SPECIALIST
+(PROFESSIONAL RATING 3, HUMAN)
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+M
+3
+2
+4
+2
+4
+4
+3
+4
+6
+5
+Initiative
+7(9) + 1D6(2D6)
+Condition Monitor
+10
+Limits
+Physical 4, Mental 5, Social 6
+Armor
+12(14)
+Active Skills
+Arcana 1, Assensing 4, Athletics skill group 
+2, Close Combat skill group 2, Con 1, Firearms 
+skill group 2, First Aid 2, Heavy Weapons 
+1, Leadership 2, Outdoors skill group 1, 
+Perception 4, Pilot Ground Craft 1, Sneaking 3, 
+Sorcery skill group 4, Summoning skill group 3, 
+Throwing Weapons 2
+Qualities
+Focused Concentration 2 (Increased Reflexes, 
+2 hits)
+Gear
+Armor jacket (12), commlink (Device Rating 
+3), ear buds [Rating 1, w/ audio link], micro-
+transceiver, stimulant patch (Rating 6), 
+reagents (40 drams), sustaining focus (Force 2, 
+Manipulation; Armor 2), trauma patch
+Spells
+Armor, Detect Magic, Detect Guns, Heal, 
+Increased Reflexes, Light, Lightning Ball, 
+Lightning Bolt, Mass Confusion, Stunball, 
+Stunbolt
+Bound Spirits
+Spirit of air (Force 4, 3 Services; Elemental 
+Attack (electricity))
+Weapons
+Combat Knife [Blades, Acc 6, DV 4P, AP –3, 
+Reach —]
+Browning Ultra Power [Heavy Pistol, Acc 5(6), 
+DV 8P, AP –1, SA, RC —, 10 (c), w/ laser 
+sight, spare clip (regular)]
+Colt Cobra TZ-120 [SMG, Acc 4(5), DV 7P, AP 
+—, SA/BF/FA, RC 2(3), 32(c), w/ laser sight, 
+spare clip (regular)]
+SECURITY/MERCENARY/ 
+MILITIA VETERAN 
+(PROFESSIONAL RATING 4, HUMAN)
+After years on the job, security sites and battle-
+fields around the world, these officers and sol-
+diers are looked up to by those around them. 
+They’ve got the skills, they’ve put in the efforts, 
+and not only have they invested in themselves, 
+but the outfit they work for has invested in them. 
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+5(+3)
+5(6)
+5(6)
+4(5)
+5
+3
+5
+4
+1.31
+Initiative
+10(11) + 1D6(2D6)
+Condition Monitor
+13
+Limits
+Physical 6(7), Mental 6, Social 5
+Armor
+16
+Active Skills
+Athletics skill group 6, Close Combat skill 
+group 7, Con 4, Demolitions 4, Firearms 
+skill group 7, First Aid 5, Heavy Weapons 4, 
+Intimidation 5, Leadership 3, Outdoors skill 
+group 5, Perception 6, Pilot Ground Craft 4, 
+Sneaking 5, Throwing Weapons 5
+Qualities
+High Pain Tolerance (1), Quick Healer, 
+Toughness, Tough As Nails 2
+Gear
+Armor jacket [(12) non-conductivity 4, insulation 
+4, fire resistance 4], ballistic mask (+2, gas mask, 
+micro-transceiver), commlink (Device Rating 6), 
+stimulant patch (Rating 8), trauma patch
+Augmentations
+(betaware except where noted) Aluminum 
+bone lacing, Cyberears [Rating 2 (alphaware), 
+w/ audio enhancement 2, sound link, 
+select sound filter 4, damper], Cybereyes 
+[Rating 3 (alphaware), w/ image link, 
+flare compensation, low-light, smartlink, 
+thermographic, vision enhancement 3], dermal 
+plating (2) (alphaware), muscle toner (1), 
+muscle augmentation (1), wired reflexes (1) 
+Weapons
+Unarmed [Unarmed, Acc 7, DV 7P, AP —, Reach —]
+Combat Knife [Blades, Acc 6, DV 7P, AP –3, 
+Reach —]
+Ares Predator V [Heavy Pistol, Acc 5(7), DV 8P, 
+AP –1, SA, RC —, 16 (c), w/ personalized grip, 
+smartgun system, 2 spare clips (explosive)]
+HK-227 [SMG, Acc 5(7), DV 7P, AP —, SA/BF/FA, 
+RC 3(4), 28(c), w/ gas-vent (3), personalized 
+grip, shock pad, smartgun system, 2 spare clips 
+(explosive), spare clip (gel)]
+Colt M-23 [Assault Rifle, Acc 5(7), DV 9P, AP –2, SA/
+BF/FA, RC 3, 40(c), w/ gas-vent (2), personalized 
+grip, shock pad, smartgun system, 2 spare clips 
+(explosive), spare clip (gel)]
+Flash-bang [Grenade, Acc 7, DV 10S, AP –4, 
+Blast 10m]
+Fragmentation [Grenade, Acc 7, DV 18P(f), AP +5, 
+Blast –1/m]
+High explosive [Grenade, Acc 7, DV 16P, AP –2, 
+Blast –2/m]
+>> STREET LETHAL <<
+176    Unconventional Warriors >>
+
+===== streetlethal.pdf p178 =====
+SECURITY/MERCENARY/MILITIA 
+ELECTRONICS VETERAN 
+(PROFESSIONAL RATING 4, HUMAN)
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+4(+1)
+4
+5
+3
+4
+5(6)
+5(6)
+4
+2.5
+Initiative
+9 + 1D6(2D6)
+Condition Monitor
+10
+Limits
+Physical 5, Mental 7(8), Social 5
+Armor
+13
+Active Skills
+Athletics skill group 3, Automatics 4 (SMG 
++2), Close Combat skill group 3, Con 3, 
+Cracking skill group 7, Electronics skill group 
+7, First Aid 3, Gunnery 7, Outdoors skill group 
+3, Palming 4, Perception 4, Pilot Aircraft 6, 
+Pilot Ground Craft 6, Pistols 5, Sneaking 3, 
+Throwing Weapons 4
+Augmentations
+Boosted reflexes, cerebral booster (1), 
+cerebellum booster (1), control rig (1), 
+cyberears [Rating 1, w/ audio enhancement 
+1, sound link, damper], cybereyes [Rating 2, 
+w/ image link, flare compensation, low-light, 
+thermographic], datajack, plastic bone lacing
+Gear (Personal)
+Armor jacket [(12) non-conductivity 6, 
+insulation 6], commlink (Device Rating 6), 
+micro-transceiver, stimulant patch (Rating 8), 
+trauma patch
+Gear (Company)
+Shiawase Cyber-5 cyberdeck [Device Rating 5, 
+Atts 8 7 6 5, Programs 5; w/ programs (Armor, 
+Biofeedback Filter, Decryption, Encryption, 
+Signal Scrub)] or Vulcan Liegelord RCC 
+[Device Rating 5, DP 5, Firewall 6, Programs 5; 
+w/ programs (Armor, Encryption, Guard, Shell, 
+Signal Scrub)], S-B Microskimmer (clearsight 
+4, pilot 4), GM-Nissan Doberman (Pilot 
+upgrade, programs: clearsight 4, Doberman 
+Maneuvering 4, pilot 4, Targeting Assault 
+Rifle 4), MCT-Nissan Rotodrone (programs: 
+clearsight 4, pilot 4, Rotodrone Evasion 4, 
+Targeting Assault Rifle 4)
+Weapons
+Combat knife [Blades, Acc 6, DV 5P, AP –3, 
+Reach —]
+Colt Manhunter A1 [Heavy Pistol, Acc 
+6(7), DV 8P, AP –1, SA, RC —, 16 (c), w/ 
+holographic sight, personalized grip, 2 
+spare clips (Stick-n-Shock), throwback]
+Colt Cobra TZ-120 [SMG, Acc 5(6), DV 7P, 
+AP —, SA/BF/FA, RC 2(3), 32(c), w/ laser 
+sight, personalized grip, 2 spare clips 
+(gel)]
+Flash-bang [Grenade, Acc 5, DV 10S, AP –4, 
+Blast 10m]
+SECURITY/MERCENARY/ 
+MILITIA ARCANE VETERAN 
+(PROFESSIONAL RATING 4, HUMAN)
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+M
+4
+3
+4
+2
+5(7)
+5
+5
+5
+6
+5(7)
+Initiative
+9(13) + 1D6(3D6)
+Condition Monitor
+10
+Limits
+Physical 4, Mental 7(8), Social 7(8)
+Armor
+12(16)
+Active Skills
+Arcana 3, Assensing 6, Athletics skill group 
+4, Close Combat skill group 4, Con 3, Firearms 
+skill group 4, First Aid 3, Heavy Weapons 
+3, Leadership 4, Outdoors skill group 2, 
+Perception 6, Pilot Ground Craft 1, Sneaking 4, 
+Sorcery skill group 7, Summoning skill group 6, 
+Throwing Weapons 3
+Qualities
+Focused Concentration 2 (Increased Willpower, 2 
+hits), Initiate (Grade 1, Shielding)
+Gear
+Armor jacket [(12) non-conductivity 6, insulation 
+6], commlink (Device Rating 5), ear buds [Rating 
+1, w/ audio link], micro-transceiver, power focus 
+(Force 2), stimulant patch (Rating 6), trauma 
+patch, reagents (50 drams), sustaining focus 
+(Force 4, Manipulation; Armor 4), sustaining focus 
+(Force 4, Health; Increased Reflexes, 4 hits)
+Spells
+Armor, Cure Disease, Death Touch, Deflection, 
+Detect Guns, Detect Magic, Electricity Grenade, 
+Heal, Increase Reflexes, Increase Willpower, 
+Light, Lightning Ball, Lightning Bolt, Mass 
+Confusion, Oxygenate, Physical Mask, Stabilize, 
+Stunball, Stunbolt, Translate
+Bound Spirits
+Spirit of air (Force 6, 2 Services; Elemental 
+Attack (electricity), Fear), spirit of earth (Force 
+6, 3 Services; Concealment, Engulf)
+Weapons
+Combat knife [Blades, Acc 6, DV 4P, AP –3, 
+Reach —]
+Colt Manhunter [Heavy Pistol, Acc 6(7), DV 
+8P, AP –1, SA, RC —, 16 (c), w/ laser sight, 
+personalized grip, 2 spare clips (EX-
+explosive)]
+Colt Cobra TZ-120 [SMG, Acc 5(6), DV 7P, AP 
+—, SA/BF/FA, RC 2(3), 32(c), w/ laser sight, 
+personalized grip, 2 spare clips (gel)]
+Flash-bang [Grenade, Acc 4, DV 10S, AP –4, 
+Blast 10m]
+>> STREET LETHAL <<
+<< Unconventional Warriors    177
+
+===== streetlethal.pdf p179 =====
+SECURITY/MERCENARY/ 
+MILITIA ELITE 
+(PROFESSIONAL RATING 5, HUMAN)
+There are only a few people in the industry 
+who are skilled enough to be called elite. In 
+nations and corps they get titles like Black 
+Dagger, Wildcats, Delta Force, Red Samurai, and 
+Black Talons, though they lack the funding of 
+those big boys. They’re the best around in skills, 
+tech, training, and access to intel. 
+SECURITY/MERCENARY/ 
+MILITIA ELECTRONICS ELITE
+(PROFESSIONAL RATING 5, HUMAN)
+>> STREET LETHAL <<
+178    Unconventional Warriors >>
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+6(+4)
+6(9)
+5(7)
+5(7)
+6
+3
+6
+4
+0.11
+Initiative
+11(13) + 1D6(3D6)
+Condition Monitor
+14
+Limits
+Physical 7(9), Mental 6, Social 5
+Armor
+24
+Active Skills
+Athletics skill group 7, Automatics 9(10) (Assault 
+Rifle, SMG +2), Close Combat skill group 9, Con 
+6, Demolitions 6, First Aid 7, Heavy Weapons 6, 
+Intimidation 8, Leadership 4, Longarms 9, Outdoors 
+skill group 6, Perception 7, Pilot Ground Craft 4, 
+Pistols 9 (10) (Semi-auto +2), Sneaking 6, Throwing 
+Weapons 7
+Qualities
+High Pain Tolerance (1), Quick Healer, Toughness, 
+Tough As Nails 3
+Gear
+Armor jacket [(12) non-conductivity 4, insulation 
+4, fire resistance 4], ballistic mask (+2, gas mask, 
+LRAD, micro-transceiver), commlink (Device Rating 
+6), Securetech PPP (arms +1, legs +1, vitals +1), 
+stimulant patch (Rating 8), trauma patch
+Augmentations
+Titanium bone lacing (betaware), cyberears [Rating 
+2 (alphaware), w/ audio enhancement 3, sound link, 
+select sound filter 4, damper], cybereyes [Rating 
+4 (alphaware), w/ image link, flare compensation, 
+low-light, smartlink, targeting laser (infrared), 
+thermographic, vision enhancement 3], damage 
+compensators 4 (alphaware), dermal plating 4 
+(betaware), muscle toner 3, muscle augmentation 
+2, reflex recorder (automatics) (alphaware), reflex 
+recorder (pistols) (alphaware), reflex recorder 
+(sneaking) (alphaware), sleep regulator, synaptic 
+booster 2 (alphaware)
+Weapons
+Unarmed [Unarmed, Acc 9, DV 10P, AP –, Reach 
+—]
+Combat Knife [Blades, Acc 6, DV 9P, AP –3, Reach 
+—]
+Ares Predator V [Heavy Pistol, Acc 5(7), DV 8P, 
+AP –1, SA, RC —, 16 (c), w/ personalized grip, 
+smartgun system, 2 spare clips (EX-explosive)]
+HK-227 [SMG, Acc 5(7), DV 7P, AP —, SA/BF/FA, RC 
+3(4), 28(c), w/ gas-vent (3), personalized grip, 
+shock pad, smartgun system, 2 spare clips (EX-
+explosive), spare clip (gel)]
+Colt M-23 [Assault Rifle, Acc 5(7), DV 9P, AP –2, 
+SA/BF/FA, RC 5, 80(c), w/ gas-vent 3, extended 
+clip 2, foregrip, personalized grip, shock pad, 
+smartgun system, 2 spare clips (EX-explosive), 
+spare clip (gel)]
+Flash-bang [Grenade, Acc 9, DV 10S, AP –4, Blast 
+10m]
+Fragmentation [Grenade, Acc 9, DV 18P(f), AP +5, 
+Blast –1/m]
+High explosive [Grenade, Acc 9, DV 16P, AP –2, 
+Blast –2/m]
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+4(+2)
+4
+6
+3
+5
+5(8)
+6(8)
+4
+0.92
+Initiative
+12(14) + 1D6(2D6)
+Condition Monitor
+10
+Limits
+Physical 6, Mental 7(10), Social 5
+Armor
+14
+Active Skills
+Athletics skill group 4, Automatics 5 (SMG +2), 
+Close Combat skill group 5, Con 5, Cracking 
+skill group 9, Electronics skill group 9, First Aid 
+4, Gunnery 9, Outdoors skill group 5, Palming 6, 
+Perception 6, Pilot Aircraft 7, Pilot Ground Craft 
+7, Pistols 5, Sneaking 4, Throwing Weapons 6
+Augmentations
+Aluminum bone lacing (betaware), boosted 
+reflexes (betaware), cerebral booster (3) 
+(alphaware), cerebellum booster 2, control rig 
+2, cyberears [Rating 1, w/ audio enhancement 
+1, select sound filter 2, sound link, damper], 
+cybereyes [Rating 2, w/ image link, flare 
+compensation, low-light, thermographic, 
+vision enhancement 3], datajack
+Gear (Personal)
+Armor jacket [(12) non-conductivity 6, 
+insulation 6], ballistic mask (+2; gas mask, 
+micro-transceiver, spatial recognizer, vision 
+magnification), commlink (Device Rating 6), 
+Securetech PPP (arms +1, legs +1, vitals +1), 
+stimulant patch (Rating 8), trauma patch
+Gear (Company)
+Transys Graygul cyberdeck [Device Rating 
+6, Atts 8 8 7 6, Programs 8; w/ programs 
+(Armor, Biofeedback Filter, Crash, Decryption, 
+Encryption, Fork, Lockdown, Signal Scrub)] 
+or MCT Drone Web RCC [Device Rating 6, 
+DP 7, Firewall 6, Programs 3; w/ programs 
+(Armor, Clearsight 6, Encryption, Guard, Shell, 
+Signal Scrub)], Cyberspace Designs Dragonfly 
+(programs: pilot 5, dragonfly maneuvering 
+5, dragonfly evasion 5, targetting dragonfly 
+bite 2), S-B Microskimmer (clearsight 4, pilot 
+4, microskimmer evasion 4, microskimmer 
+maneuvering 4), Steel Lynx Combat Drone 
+(programs: clearsight 5, pilot 5, Steel Lynx 
+Maneuvering 5, Targeting Assault Rifle 5), 
+MCT Fly-Spy (programs: pilot 5, clearsight 
+5, maneuvering fly-spy 5, evasion fly-spy 5), 
+MCT-Nissan Rotodrone (Armor upgrade (8), 
+programs: clearsight 5, pilot 5, Rotodrone 
+Evasion 5, Targeting Assault Rifle 5)
+Weapons
+Combat knife [Blades, Acc 6, DV 5P, AP –3, 
+Reach —]
+Colt Manhunter A1[Heavy Pistol, Acc 6(7), DV 
+8P, AP –1, SA, RC —, 16 (c), w/ holographic 
+sight, personalized grip, 2 spare clips 
+(Stick-n-Shock), throwback]
+Colt Cobra TZ-120 [SMG, Acc 5(6), DV 7P, AP 
+—, SA/BF/FA, RC 2(3), 32(c), w/ laser sight, 
+personalized grip, 2 spare clips (gel)]
+Flash-bang [Grenade, Acc 6, DV 10S, AP –4, 
+Blast 10m]
+
+===== streetlethal.pdf p180 =====
+SECURITY/MERCENARY/ 
+MILITIA ARCANE ELITE
+(PROFESSIONAL RATING 5, HUMAN)
+LIFE MODULES
+FORMATIVE YEARS
+MERC KID
+Momma was a merc, daddy was a merc, and you’ve 
+grown up in the merc life. One parent or the other 
+was always in the field, and the other was always 
+struggling to fit into the regular world. Half the time 
+they left you with civilian relatives, and you found all 
+sorts of trouble to get into and out of. 
+Attributes: Body +1, Charisma +1
+Qualities: Poor Self Control: Attention Seeking 
+(–5), Common Sense (3)
+Skills: Sneaking +1, Con +1, Palming +1, Running 
++1, Negotiation +1, Swimming +1, Unarmed Combat 
++1, Knowledge (Mercenary Units) +2
+DOCK RAT
+Some squat kids think downtown is the place to 
+be, but you know there’s no better spot to grow 
+up streetwise than dockside. You know how to 
+keep out of sight, find the right spot to catch a 
+glimpse of who’s shipping what, with who, and to 
+where. The dock security may chase you off but 
+that just means you need to find another way in, 
+or wait for whatever local guard you’ve managed 
+to sucker with your quirky attitude. 
+Attributes: Strength +1, Willpower +1
+Qualities: Phobia: Mild, Common (crowds) 
+(–8), Barrens Rat (5)
+Skills: 
+Swimming 
++2, 
+Con 
++1, 
+Survival 
++1, Palming +1, Running +1, Gymnastics +1, 
+Knowledge (Shipping Corps) +2 
+TEEN YEARS 
+MERC TEEN
+With the merc life in your blood, and you final-
+ly old enough to properly hold a rifle, both mom 
+and dad have been teaching you how to follow in 
+their bootsteps. Problem is, parenting isn’t all just 
+about discipline and shooting guns, so the norms 
+of social interaction might have been lost on you. 
+Attributes: Reaction +1, Intuition +1
+Qualities: Antipathy (–8)
+Skills: Close Combat skill group +1, Firearms 
+skill group +1, Sneaking +1, Athletics skill group +, 
+Con +1, Demolitions +1, Knowledge (Merc Corps) 
++2, Knowledge (Geography) +2
+BOAT BRAT
+“What? You don’t own a boat?” That’s a common 
+phrase from your mouth because you grew up 
+in a world where everyone had a boat. Maybe it 
+was a powerboat, maybe your family sailed, but 
+you’ve learned your way around the water, and 
+around a boat itself. They made you crew, and af-
+ter a while you picked up a few things. 
+Attributes: Logic +1, Charisma +1
+>> STREET LETHAL <<
+<< Unconventional Warriors    179
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+M
+5
+4
+6(8)
+2
+6(8)
+6(8)
+5
+6
+6
+8(12)
+Initiative
+11(21) + 1D6(5D6)
+Condition Monitor
+11
+Limits
+Physical 5(6), Mental 8(10), Social 9
+Armor
+17(21)
+Active Skills
+Arcana 6, Assensing 8, Astral Combat 6, Athletics 
+skill group 5, Close Combat skill group 5, Con 5, 
+Firearms skill group 6, First Aid 4, Heavy Weapons 5, 
+Leadership 6, Outdoors skill group 3, Perception 8, 
+Pilot Ground Craft 1, Sneaking 6, Sorcery skill group 9, 
+Summoning skill group 8, Throwing Weapons 4
+Qualities
+Focused Concentration 6 (Increased Willpower, 2 hits; 
+Increased Reaction, 2 hits; Increased Logic, 2 hit), 
+Initiate (Grade 2, Absorption, Shielding)
+Gear
+Armor jacket [(12) non-conductivity 6, insulation 6], 
+ballistic mask (+2; flare compensation, gas mask, 
+image link, low-light vision, micro-transceiver, vision 
+enhancement 2), commlink (Device Rating 5), ear buds 
+[Rating 1. w/ audio link], power focus (Force 4), reagents 
+(150 drams), Securetech PPP (arms +1, legs +1, vitals 
++1), stimulant patch (Rating 6), sustaining focus (Force 
+4, Manipulation; Armor 4), sustaining focus (Force 8, 
+Health; Increased Reflexes 8 hits), trauma patch
+Spells
+Armor, Awaken, Blast, Catfall, Chaotic World, Clout, 
+Combat Sense, Confusion, Cure Disease, Death Replay, 
+Death Touch, Deflection, Demolish Guns, Detect Guns, 
+Detect Guns (extended), Detect Magic, Detect Magic 
+(extended), Detox, Fling, Electricity Grenade, Heal, 
+Improved Invisibility, Increase Reflexes, Increase 
+Willpower, Knockout, Light, Lightning Ball, Lightning 
+Bolt, Mana Static, Mass Confusion, Oxygenate, Physical 
+Mask, Punch, Ram Door, Shadow, Stabilize, Sterilize, 
+Stunball, Stunbolt, Translate
+Bound Spirits
+Spirit of air (Force 8, 2 Services; Elemental Attack 
+(electricity), Fear), spirit of earth (Force 8, 3 Services; 
+Concealment, Engulf), spirit of fire (Force 6, 3 
+Services; Noxious Breath, Search), spirit of man 
+(Force 8, 3 Services; Movement, Psychokinesis), spirit 
+of man (Force 6, 3 Services; Fear, Movement), spirit of 
+water (Force 6, 3 Services; Binding, Weather Control)
+Weapons
+Combat knife [Blades, Acc 6, DV 4P, AP –3, Reach —]
+Colt Manhunter [Heavy Pistol, Acc 6(7), DV 8P, AP –1, 
+SA, RC —, 16 (c), w/ laser sight, personalized grip, 
+2 spare clips (EX-explosive)]
+Colt Cobra TZ-120 [SMG, Acc 5(6), DV 7P, AP -, SA/BF/
+FA, RC 2(3), 32(c), w/ laser sight, personalized grip, 
+2 spare clips (gel)]
+Flash-Bang [Grenade, Acc 6, DV 10S, AP –4, Blast 
+10m]
+Fragmentation [Grenade, Acc 6, DV 18P(f), AP +5, 
+Blast –1/m]
+
+===== chromeflesh.pdf p20 =====
+corporations looking to recruit assets from their rivals, 
+but this is not the case. Most researchers are bound by 
+non-compete agreements, so the Johnsons will still need 
+to extract them and give them new identities. And as a 
+bonus, many of these laid off employees will no longer 
+be in corporate-owned facilities or arcologies; they’ll be 
+moved to less secure surroundings, making extractions 
+easier for shadowrunners. 
+At street level, what else can runners expect from 
+all this fear surrounding CFD? With all the paranoia over 
+potentially having clients infecting each other, many 
+restaurants, clubs, and other entertainment venues are 
+establishing “no cyberware, no augmentations” pol-
+icies. Many of these places are installing new security 
+measures at the front doors to scan customers for cy-
+berware. Many argue such devices will only detect 
+augmentations that do not inflict the CFD virus on a 
+metahuman, such as basic cyberlimbs, likely missing the 
+smaller, harder to detect augmentations more likely to 
+be responsible for the infection. 
+That is part of the next problem for runners: profiling. 
+If establishments in areas particularly hard hit by CFD 
+paranoia see that you are enhanced in some way, they 
+feel that there’s a real chance you may have other aug-
+mentations that have left you vulnerable to the disease, 
+and may refuse you service. You will not be welcome in 
+their dining areas, let alone their private rooms reserved 
+for VIPs. Usually, runners can meet with Mr. Johnson by 
+bridging the individuals working the security devices at 
+the front doors, but sometimes, security may not take 
+your bribes. And sometimes, you’ll just have to let un-
+augmented members of your team do the talking for 
+you while you wait outside. This may be beneficial, as 
+many Mr. Johnsons are just as squeamish about dealing 
+with runners with augmentations as the rest of society. 
+There have been reports of Johnsons not offering jobs 
+to their teams if they even see a hint of cyberware, re-
+gardless of if the augmentation in question is not known 
+to infect a user with CFD. For many Mr. Johnsons, the 
+risk of infection is not worth it. It is always a good idea 
+to ask the fixer how Mr. Johnson feels about augment-
+ed individuals before the meeting; it may save you from 
+wasting your time and losing a job. 
+Mr. Johnsons and bouncers aren’t the only ones pro-
+filing runners with enhancements. Lately, law enforce-
+ment needs only a little provocation to stop and search 
+those who are augmented. Even if the stop and search is 
+illegal in a particular jurisdiction, a cop’s response of “the 
+subject was acting unusually, and I needed to check to 
+see if they could be infected with CFD” is usually a good 
+enough reason to keep them from getting into trouble 
+with their superiors in areas hit hard by CFD. Hell, some-
+times it even gets them a promotion for looking out for 
+the welfare of the community. And while a runner is out 
+on a job, if they are injured and have a DocWagon con-
+tract (or other medical service provider), EMTs could re-
+fuse to serve augmented runners. Of course, these EMTs 
+have been fired on the spot for causing DocWagon and 
+other providers to breach their terms of service, but that 
+is of little consolation to runners who bled out while 
+waiting for help.
+There also appears to be a brand-new phenomenon 
+developing on the streets: a new policlub calling itself 
+“The Purists.” This policlub is vehemently against most 
+forms of augmentations. Unless you’ve lost your arm or 
+leg in an accident, or have otherwise been crippled, they 
+assume you’re a walking abomination. To them, you’re 
+an example of “bad science,” or “science for profit” that 
+is being used to “contravene natural selection.” For The 
+Purists, overuse of these augmentations is ensuring 
+those with the weakest genes can still compete and sur-
+vive. Some Purists are satisfied just preaching on cor-
+ners and passing out pamphlets based on their beliefs. 
+Others, however, are much more violent. In the last year, 
+this militant anti-enhancement group attacked nearly 
+four hundred metahumans across North America. This 
+group does not just target metahumans, but anyone with 
+obvious augmentations, including humans (disproving a 
+leading theory that Humanis or Human Nation is behind 
+this movement). This group is adding members as quick-
+ly as the CFD virus is spreading, with chapterhouses ap-
+pearing daily in most major sprawls. If you are augment-
+ed and haven’t encountered these guys yet, be careful. 
+Chances are, you will.    
+ 
+>	
+Yeah, I’ve heard of these guys. Some of their members 
+are claiming CFD is punishment for us from the dragons 
+after the great dragon civil war. Others claim it’s a 
+conspiracy from the Corporate Court for some bizarre, 
+new population control technique they’re trying. They’re 
+serious nut jobs. Best to stay out of their way if possible.  
+>	
+Snopes
+While some shadowrunners are still willing to acquire 
+new ’ware, specifically genetic therapies and nanotech, 
+many runners avoid even safe cyberware and bioware. 
+In recent months, there has been a rush of break-ins at 
+various implant clinics, not for brand new cyberware, 
+but for parts and components for older cyberware, to 
+allow older models to stay functional for longer. There’s 
+a lot of superstition and misunderstanding of how CFD is 
+transmitted, but this superstition is making a lot of peo-
+ple rich on the black market. Basic replacement compo-
+nents for cyberware that used to go for fifty nuyen are 
+now selling on the black market for two hundred nuyen, 
+if not more. Street docs and fixers are looking to cash in 
+on that trend, including trying to salvage what they can 
+from used cyberware taken from jobs. Groups that deal 
+in a lot of used cyberware, such as Tamanous, are seeing 
+huge profits from those looking for a safer alternative to 
+the current ’ware on the streets. 
+Some are trying to locate older products for bioware 
+created prior to the CFD virus, although these older 
+batches are rare. In my professional opinion, I cannot say 
+>> CHROME FLESH <<
+<< CLUSTERF*CKED    19
+
+===== chromeflesh.pdf p67 =====
+>	
+I’m not sure if that’s Plan 9 or Plan 10, but either way, Baka, 
+you probably shouldn’t be on the same page as them.
+>	
+Kay St. Irregular
+2024 brought simsense to the general populace, 
+with the horrors of BTL addiction right behind. 2025 
+saw the first augmented athlete (Mario Sanchez of the 
+Philadelphia Eagles, for those playing Matrix Trivia), and 
+2026 was when cyberterminals were created, giving 
+us our first deckers and a new interface. Cyberware is 
+more than pop-out blades and enhanced skeletons, af-
+ter all. Headware memory became a thing, cybereyes 
+and datajacks slowly turned into standard-issue in first-
+world countries, and Ares made a killing with the first 
+Ares Predator taking advantage of their Picus Smartgun 
+System. By 2050, cyberware was all but required for 
+anyone wanting a combat edge on the streets and was 
+present in many elite corporate forces, if still beyond the 
+reach of footsloggers in corporate forces, national mil-
+itaries, or police forces. Lone Star briefly flirted with a 
+requirement that all officers would have to be upgraded 
+with a smartgun system and a radio for communication, 
+but the legal battles were costly and ongoing cyberpsy-
+chosis incidents helped get the idea shelved. 
+>	
+As happy as we were about that, the officers were even 
+happier. Oh, sure, you still get a few legbreakers in the 
+shadier departments that are chromed to the gills on 
+impounded cyber, but most of them are well aware of 
+the downsides to getting wires plugged into your head. 
+Mind you, there’s also been opposition to badge-cams for 
+decades, so old-fashioned tech-hate is present.
+>	
+Bull
+>	
+Knight Errant is fairly close on both, but the high-threat 
+response teams break both molds. KE doesn’t have the 
+reputation for being dirty like the Star, but your basic 
+pawn’s still uncomfortable with Big Brother watching 
+everything. I chalk it up to basic infantry mentality; if the 
+brass is around, your ass’d better be doing something. 
+With no commander watching every move, they can slack 
+off a bit, talk to one another, smoke … you know, normal 
+human stuff.
+>	
+Hard Exit
+>	
+For a hard contrast, Renraku’s Neo-Police require badge 
+cameras on every officer, left on as soon as they’re on the 
+clock and not turned off until they finish their shift. They 
+keep their uniforms spotless, right down to the mandatory 
+white gloves, and even the meter maids have drone back-
+up and advanced commlink support. 
+>	
+Baka Dabora
+>	
+I hear that they’re pretty awful in a scrap. Too much polish, 
+not enough spit. True?
+>	
+2XL
+>> CHROME FLESH <<
+66    SHINY: THE LATEST CHROME >>
+CYBERSPORTS
+Different sports have differing rules for what is, and isn’t, 
+allowed in terms of augmentations. Here’s a few!
+Baseball: Allowed some upgrades in 2032 but has a 
+byzantine system on how much is too much that’s modified 
+by quality of implant as well as type. Reflexes, muscles, 
+and eye upgrades are the primary augmentations allowed. 
+Surprisingly, while many older records have fallen with the 
+new wave of tech coming into the game, several remain. The 
+general consensus is that while the quality of augmentation 
+has improved, baseball’s fall from being the primary game of 
+the UCAS has taken the highest caliber of player into other 
+fields. Then there’s the fact that augmentations on hitters tend 
+to be balanced by augmentations in pitchers, keeping the 
+playing field somewhat level.
+Basketball: Anything that modifies a player’s height or 
+reach is right out, as are pure cyberlimbs, but improved 
+reflexes and general, low-level muscle augmentation are 
+allowable. Cybernetic “Smartball” tech was grudgingly 
+allowed into the game in 2047, but it was a bitter fight that kept 
+many more advances out for nearly a decade. 
+Football: Probably no classic sport has adapted to 
+augmentation as much as football. By 2025, the race was 
+on, and the 2028 season was delayed by two months while 
+new fields were constructed to take the new upgrades into 
+account. (In 2027, there were 227 serious injuries and 4 deaths, 
+showing how much adapting had to be done.) The field was 
+again upgraded in 2053, and is now fully two hundred meters 
+long and eighty meters wide. A first-down requires a twenty-
+five-meter advance, while the ball weighs three kilos. The 
+UCAS and CAS play head-to-head, but the CAS league still 
+uses yards, not meters, resulting in some problems. After the 
+2052 season, the NFL went ahead and allowed fully cybernetic 
+limbs, meaning that the only things not allowed were actual 
+weapons; anything less was good to go, and no limits on the 
+number of implants were ever in place, resulting in players 
+with more chrome than skin. Needless to say, the old records 
+are long dead.
+Soccer: The world’s top sport remains that last port of call 
+for unaugmented players, banning virtually all cyberware. 
+The commonality of datajacks and cybereyes has given some 
+wiggle room, but ocular improvements or active wireless 
+communication on the field is outlawed, as are all muscle or 
+reflexive improvement. The fact that a shoeless player from 
+a dirt-poor country could one day stand tall at the World Cup 
+without hundreds of thousands of nuyen worth of upgrades is 
+a powerful driving factor in the game’s standing as the most 
+popular worldwide.
+Urban Brawl: The only sport to go deeper into cybernetics 
+than football, urban brawl has no problem with cyber-weapons 
+or limb replacements, and the more exotic, the better. Urban 
+brawl remains the world’s number two sport in terms of 
+popularity, behind soccer in most countries. 
+
+===== chromeflesh.pdf p91 =====
+wide range of motion impossible with ordinary hands, 
+as well as the ability to slip fingers through tight spaces 
+or narrow gaps. 
+Each cyberhand with snake fingers raises the user’s 
+Physical limit by +1 for feats of manual dexterity, while a 
+pair adds +1 to the user’s Palming skill.
+Wireless Bonus: Snake Fingers may be activated or 
+deactivated as a Free Action, rather than a Simple Action.
+TELESCOPIC CYBERLIMB
+Cyberlimbs modified with telescopic options may vast-
+ly increase their length, at a cost of strength, allowing 
+the user to elevate themselves, reach high spots, or see 
+over obstacles. While this extra reach can be quite use-
+ful, it comes at a cost in that the extended limbs cannot 
+bring their full strength to bear. Note that the telescopic 
+option may only be added to full or partial cyberlimbs, 
+not hands or feet.
+For each point of Rating, a limb may be extended 1 
+meter, but for each meter extended, the user’s effective 
+Strength with the limb is reduced by 2.
+Wireless Bonus: Telescopic limbs may be activated 
+or deactivated as a Free Action, rather than as a Simple 
+Action.
+WATER JET
+Installed into a full or partial cyberleg, these waterjets 
+speed a user’s path underwater. While one jet doubles 
+the user’s Swimming speed, a pair triples it.
+CYBER-IMPLANT 
+WEAPONS
+Unless otherwise noted, the following weapons cannot 
+accept accessories and use either the Unarmed Com-
+bat (Cyber-Implant Weaponry) skill if melee-based, or 
+Exotic Weapon (the particular cyber-implant weapon) 
+if ranged. 
+CYBERGUN MODIFICATION
+While there are a wide variety of cyberguns on the mar-
+ket, Ares was the first to recognize that name brands are 
+name brands and, at the end of the day, a street samu-
+rai just feels more comfortable knowing that they have 
+an Ares Predator up their sleeve rather than just some 
+gun. Other corporations soon followed, as is so often 
+the case, and in short order, a vast array of firearms 
+became available in cybergun variants. Each uses their 
+own statline as normal—for example, an Ares Predator 
+V uses Ares Predator V stats, not “Implant Heavy Pistol” 
+stats, though it uses the same Essence and Capacity as 
+a normal cybergun of that type. In the case of an Ares 
+Predator V, that would be 0.5 Essence/[6] Capacity, as a 
+normal Implant Heavy Pistol. Modification of a normal 
+gun into a cyber-implant version costs are shown on 
+the following chart, while Availability is increased by 4.
+Tasers are treated as Light Pistols, Exotic Pistols are 
+treated as Heavy Pistols, and other guns might be modi-
+fiable into cyberguns if the Gamemaster so chooses. As-
+sault Rifles and larger weapons cannot be so modified.
+EXTREME CYBER- 
+IMPLANT WEAPONS
+Not all cyber-implant weapons are sexy blades or cool 
+guns. Some are little more than strapping a power tool 
+to a stump and letting fly. Buzzsaws, chainsaws, whirl-
+ing flails—the field is as varied as the imagination. While 
+there are obvious differences between a power drill and 
+an automatic vice, the differences are mostly academic 
+compared to their use as a weapon. It’s vital to note that 
+extreme cyber-implant weapons fully replace one hand 
+of the user, which can make life quite awkward!
+Lower the user’s Physical limit by 1 when trying to 
+attack with an extreme cyber-implant weapon.
+FANGS
+While almost entirely replaced by bioware versions, fangs 
+CYBERGUNS
+CYBERWARE
+COST
+Hold-out pistol
+Gun + 1,800¥
+Light pistol
+Gun + 3,500¥
+Machine pistol
+Gun + 3,000¥
+Heavy pistol
+Gun + 3,800¥
+Submachine gun
+Gun + 4,000¥
+Shotgun
+Gun + 7,000¥
+Grenade launcher
+Gun + 20,000¥
+>> CHROME FLESH <<
+CYBERLIMBS
+MELEE WEAPON
+REACH
+DAMAGE
+AP
+Raptor foot
+—
+(Str + 2) P
+–3
+RANGED WEAPON
+AC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+Grapple fist
+3
+7S
+–2
+SS
+—
+1 (ml)
+90    SHINY: THE LATEST CHROME >>
+
+===== chromeflesh.pdf p92 =====
+come in both retractable and non-retractable versions. 
+Fangs are difficult to use as weapons but are frequent-
+ly connected to chemical reservoirs to deploy venom or 
+other chemical agents. Lower the user’s Physical limit by 2 
+when trying to attack an aware target with fangs.
+FLAMETOSSER
+Not as effective as a full-fledged flamethrower, the fla-
+metosser is nonetheless a fun weapon for the more in-
+cendiary-minded shadowrunner. Consisting of a liquid 
+sprayer, two chemical storage containers that ignite 
+when mixed, and a small pop-up port for releasing it, 
+the flametosser ordinarily holds enough ammunition for 
+five shots, but additional fuel canisters may be added as 
+needed. Each chemical has its own refueling port, and 
+they are clearly color-coded when the ports are open, 
+to ensure that no mishaps occur. Users who pour fuel 
+into the wrong port and burst into flames have no legal 
+recourse, per Ares Macrotechnology vs. Jablonski, 2032.
+The flametosser uses Taser ranges. 
+JUNKYARD JAW
+A solid metal replacement for the lower jaw, and a 
+more hidden upper mouth enhancement as well, the 
+junkyard jaw is only seen on barrens gangers who 
+just don’t care about normal society at all anymore. 
+Able to bite through bottles, knife blades, and even 
+metal pipes with relative ease, the junkyard jaw’s a 
+famous intimidation tool. Note that very few users 
+are further modified to digest the inorganic matter 
+that they bite, so they are forced to spit it out after 
+a good chomp. A junkyard jaw can obviously do just 
+terrible things to the metahuman body. Approach 
+with caution. 
+The junkyard jaw provides one additional box on 
+your physical condition monitor, like a cyberlimb.
+ONE-SHOT DARTGUN
+While ordinary multi-use dartguns fall under cyber-
+guns above, one-shot dart launchers are surprising-
+ly common modifications with unpredictable mount 
+locations. Fingers are the norm, but under-tongue 
+mouthdarts, small of the back and rear-firing, or even 
+eyesocket mounts are just a few examples. Note that 
+an eye-mounted dartgun leaves the socket unable to 
+hold a cybereye. One-shot dartguns use Taser ranges 
+and take one minute to reload. It’s highly recommend-
+ed that one-shot dartgun ammunition be coated with 
+some type of chemical agent.
+>> CHROME FLESH <<
+CYBERWEAPONS
+CYBERWARE
+ESSENCE
+CAPACITY
+AVAILABILITY
+C0ST
+Extreme cyber-implant
+0.5
+[5]
+8F
+2,000¥
+Fangs (pair)
+0.1
+[1]
+6
+200¥
+     Retractable
+0.15
+[2]
+8
+500¥
+Flametosser
+1.0
+[8]
+12F
+4,000¥
+     Extra fuel (5 shots)
+0.2
+[2]
+12F
+500¥
+Junkyard jaw
+0.75
+[6]
+8F
+2,000¥
+Oral slasher
+0.25
+[3]
+12R
+750¥
+Weapon launcher
+0.2
+[2]
+12F
+500¥ (added to 
+weapon cost)
+CYBERWEAPONS
+RANGED CYBERWEAPONS
+ACC
+DAMAGE
+AP
+MODE
+RC
+AMMO
+One-shot dartgun
+4
+4P
+—
+SS
+—
+1 (m)
+Flametosser
+4
+6P(fire)
+–6
+SA/BF
+—
+5 (m)
+MELEE CYBERWEAPONS
+REACH
+DAMAGE
+AP
+Extreme cyber-implant
+1
+(STR + 5) P
+—
+Fangs
+—
+(STR) P
+—
+Junkyard jaw
+—
+(STR + 3) P
+–6
+Oral slasher
+1
+6P
+–3
+<< SHINY: THE LATEST CHROME    91
+
+===== runfaster.pdf p117 =====
+FANGS
+COST: 4 KARMA
+The character’s canine teeth are enlarged and sharp-
+ened like a carnivore’s. The fangs can be used to attack 
+using the Unarmed Combat skill (DV (STR +1)P, Reach 
+–1, AP —).
+FROG TONGUE
+COST: 4 KARMA
+The character possesses a long adhesive tongue, 
+which can be extended in a spring-loaded fashion by 
+a muscular trigger. When triggered, it shoots outward 
+to strike at a target and then retracts. Though not pre-
+hensile enough to manipulate a tool, the tongue is 
+strong enough to snatch an object, provided the ob-
+ject’s weight is less than the character’s unaugmented 
+Strength x 100 grams. Because of the tongue’s sticky 
+secretions, the object will stick to the tongue until man-
+ually removed. If the character also possesses the Nat-
+ural Venom quality (p. 117) the tongue can be used to 
+apply the substance with a successful touch-only me-
+lee attack (p. 187, SR5) using the Exotic Melee Weapon 
+(Frog Tongue) skill.
+FUNCTIONAL TAIL
+COST: 4 TO 7 KARMA
+A tail grows from the base of the character’s spine; 
+this may be scaly (like a lizard), hairy (like a monkey), 
+or hairless (like an opossum’s tail), and it is fully devel-
+oped and functional, unlike the Vestigial Tail (p. 123).
+The character’s clothing must accommodate the tail 
+to gain any of the above effects. Sitting in certain posi-
+tions for long periods of time will be uncomfortable and 
+cause a –1 dice pool modifier to all actions while the 
+character is sitting on his tail. The Functional Tail qual-
+ity is incompatible with any other tail modification or 
+quality. Characters with the Functional Tail quality suffer 
+social stigma and modifiers (see Freaks sidebar, p. 123).
+Balance (6 Karma): Usually between one and two 
+meters long, a tail used for balance is not under the 
+character’s conscious control. Instead, it functions in-
+stinctively by twitching, swaying, and even wrapping 
+around things at random in order to improve the charac-
+ter’s balance. Characters with a balance tail receive a +1 
+dice pool modifier for all Balance, Climbing, Gymnastics, 
+or Jumping-related tests.
+Paddle (4 Karma): This broad and scaly beaver-like 
+tail can be used to steer and paddle when swimming, 
+granting a +2 dice pool modifier for all Swimming Tests.
+Prehensile (6 Karma): This tail functions like the Bal-
+ance tail, except that the character can consciously ma-
+nipulate it as if it were an extra limb. The tail can pick 
+up items, though it lacks digits and has difficulty with 
+fine manipulation. Apply a –4 dice pool modifier to any 
+attempt at fine manipulation of an object with the tail, 
+such as pressing a button or pulling a trigger. The tail has 
+an effective Strength equal to half the character’s unaug-
+mented Strength (round down), but it can hold the char-
+acter’s entire body weight if he chooses to hang from it. 
+Prehensile tails do not provide an extra attack.
+Thagomizer (5 Karma): This powerfully muscled pre-
+hensile tail ends in an array of dermal spikes and can be 
+used for a melee attack using the Exotic Melee Weapon 
+(Thagomizer) skill, with the following stats: DV (STR + 3)
+P, Reach 1, AP –1. 
+GILLS
+COST: 4 OR 6 KARMA
+Amphibian-like gills allow the character to breathe un-
+derwater. These can be located on the side of the neck, 
+on the pectoral region, or beneath the armpits. The 
+character’s respiratory and circulatory systems allow 
+her to reflexively alternate between using lungs and 
+gills as necessary. These gills develop in varying levels 
+of functionality representing the difference in Karma 
+cost. For 4 Karma the character has either Air or Aqua 
+Gills, chosen when the quality is taken. These gills ar-
+en’t perfect, and Fatigue Test durations are halved in 
+either air (for aqua gills) or water (for air gills). For 6 
+Karma, the gills function equally well, without penalty, 
+in either environment.
+GLAMOUR
+COST: 12 KARMA
+A character with Glamour is paranaturally gifted so 
+that all sapient beings perceive him as moving with un-
+earthly grace. His countenance always seems radiant, 
+and his voice is soul wrenching and laden with emo-
+tion. People may describe him as angelic or fairylike, 
+and everyone he speaks to cannot help but feel moved 
+and inspired. Sapient beings always respond with awe, 
+deference, and kindness to the character as long as he 
+does not act hostile. The character adds 2 to his Social 
+limit and has a +1 dice pool modifier to all Social Skill 
+Tests, with the exception of Intimidation. This quality 
+renders the character particularly memorable, and he 
+suffers from the effects of Distinctive Style quality (p. 
+80, SR5).
+GORING HORNS
+COST: 5 KARMA
+A single horn or horns express on the character’s head. 
+If the character already had horns, these grow even 
+bigger or more pronounced. The horns can be any-
+thing from ram horns to deer-like antlers to devil horns 
+or even jagged crests of bone around the skull. Unlike 
+most metatype horns, the character may use these in 
+combat with the Exotic Melee Weapon (Horns) skill. 
+Goring Horns have the following stats: DV (STR + 2)P, 
+Reach —, AP –1.
+>> RUN FASTER <<
+<< THE MESS OF METAHUMANITY    115
+
+===== runfaster.pdf p120 =====
+It can be used for small manipulations or even a blunt 
+punch using the Exotic Melee Weapon (Trunk) skill (DV 
+(STR – 1)P, Reach —, AP +1). Apply a –2 dice pool modifi-
+er to any attempt to manipulate an object with the trunk. 
+It has an effective Strength equal to the character’s un-
+augmented Strength. Trunks do not provide an extra 
+attack. Characters with a proboscis suffer modifiers to 
+social interaction (see Freaks sidebar, p. 123).
+SATYR LEGS
+COST: 10 KARMA
+The character’s legs are shaped like a quadruped’s hind 
+legs, often with cloven hooves, though other types 
+such as kangaroo or hare legs are possible. The legs 
+also grow more hair, like those of a satyr. A character 
+with Satyr Legs increases her Running rate to (Agility x 
+6) and also adds +1m/turn to her Sprint increase (see 
+Movement, p. 161, SR5). The legs also provide a +2 
+Strength modifier to the damage of any kicking attacks.
+Characters with the Satyr Legs quality suffer social 
+stigma and modifiers (see Freaks sidebar, p. 123).
+SETAE
+COST: 4 KARMA
+Also known as gecko hands, these hairlike structures on 
+a character’s palms allow the character to move along 
+vertical surfaces just like certain reptilian species. Char-
+acters with this quality always use assisted climbing 
+rates (p. 134, SR5) as long as their hands are exposed.
+SHIVA ARMS
+COST: 8 KARMA PER PAIR
+Certain rare changelings and one metavariant grant a 
+character an additional set of arms that extend from 
+modified shoulder joints. The character may hold and 
+carry double the number of objects than normal. These 
+so-called Shiva arms or Kali arms can be moved inde-
+pendently, but the character will still have one domi-
+nant hand unless she has the Ambidextrous quality (p. 
+71, SR5), which can be taken multiple times, each time 
+adding another dominant hand. Characters with Shi-
+va Arms can wield multiple weapons: firearms, melee 
+weapons, or a combination of the two. Weapons wield-
+ed in an off-hand suffer the usual penalty; this applies 
+both to firearms and melee weapons (see the Melee 
+Modifiers table, p. 187, SR5). The character can use the 
+Multiple Attacks Free Action (p. 164, SR5) with weap-
+ons in their extra hands, though the character must still 
+split her dice pool between the weapons, and any pen-
+alties for using weapons in their off-hands still apply. 
+This quality may be taken twice, for a total of six arms.
+Characters with the Shiva Arms quality suffer social 
+stigma and modifiers (see Freaks sidebar, p. 123).
+THERMAL SENSITIVITY
+COST: 4 KARMA
+Like a snake, the character possesses infrared-sensitive 
+receptors next to his olfactory organs that allow him to 
+sense radiated heat. This quality allows the character to 
+make a non-visual Perception Test to detect anything 
+that produces heat (bodies, electronics, etc.) within ten 
+meters. Thresholds and modifiers can be adjusted for 
+factors such as warm environments, lower heat outputs 
+(such as friction or decomposition), or heat pollution 
+(too many sources, thermal smoke, etc.). Hits on the 
+test give information on distance, movement, heat 
+output, and location. The sense is not fooled by Invisi-
+bility or Silence spells. When using thermal sensitivity 
+in combat, the sense reduces the Visibility and Light/
+Glare modifiers by one level.
+THERMOGRAPHIC VISION
+COST: 3 KARMA
+A character with this quality has natural thermographic 
+vision, just like dwarfs and trolls.
+THORNS
+COST: 2 KARMA
+Hard, sharp protrusions 1 centimeter long protrude 
+through the character’s skin. These points resemble 
+plant thorns. They are, in fact, a modified form of ker-
+atin growing naturally from a sub-dermal layer that 
+painfully emerge from beneath the skin. They regrow 
+over a few days if cracked or broken. Thorns make the 
+character mildly more dangerous in unarmed combat. 
+Add +1 to the DV of any Unarmed Combat attack. Un-
+fortunately, the character is in constant discomfort due 
+to the discomfort of the thorns, giving them –1 to all 
+Physical Tests. The character must have clothing that 
+accommodates her unusual physique and may require 
+customization of certain gear (like armor), increasing 
+the cost by 20–100 percent.
+UNDERWATER VISION
+COST: 3 KARMA
+The character develops an additional, specially adapt-
+ed membrane to the outer eye that enables him to use 
+his normal vision unrestricted in and out of water. This 
+allows the character to use the underwater visibility 
+modifiers (p. 157, Run & Gun) as if he were wearing 
+goggles or a mask.
+VOMERONASAL ORGAN
+COST: 3 KARMA
+The character’s nose contains additional olfactory or-
+ganelles that augment her sense of smell, granting a 
+higher sensitivity and contrast by sending neural sig-
+nals not only to the accessory olfactory bulb but also 
+>> RUN FASTER <<
+118    THE MESS OF METAHUMANITY >>
+
+===== runfaster.pdf p163 =====
+>> RUN FASTER <<
+Sometimes called angels of the battlefield, the combat 
+medic is a welcome addition to any team. A hardened vet-
+eran of war, he’s seen more than his share of death and de-
+struction. Tough both mentally and physically, he’s usually 
+the one to run through hellish incoming fire to save the life 
+of a buddy or teammate. A warrior concerned more with 
+preserving life than taking it, he also brings to any battle a 
+wide variety of life-saving options that include potent heal-
+ing magic and good old-fashioned hands-on first aid. But 
+don’t think for a moment that the medic can’t defend him-
+self and his patents. Many have learned that the hard way. It 
+takes a special kind of brave (or crazy) to do what he does, 
+because the medic is someone who cares more for the life 
+of others than for his own. For a combat medic, no one is 
+ever left behind.
+COMBAT
+MEDIC
+METATYPE: HUMAN (MYSTIC ADEPT, SHAMAN)
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+M
+4
+4
+4
+4
+5
+3
+3
+5
+6
+2
+5
+Condition 
+Monitor (P/S)
+10/11
+Armor
+14
+Limits
+Physical 6, Mental 5, Social 7
+Physical 
+Initiative
+7 + 1D6
+Skills
+Automatics 3, Computer 1, Counterspelling 5, First Aid 6, Gymnastics 
+3, Navigation 2, Perception 4, Pistols 4, Running 2, Medicine 3, 
+Spellcasting 5, Survival 2, Swimming 1, Unarmed Combat 3 
+Knowledge 
+Skills
+Mass Casualty Incidents 2, Mercenary Hangouts 3, Triage 3
+Languages
+Arabic 1, Aztlaner Spanish 2, English N, German 2
+Qualities
+Code of Honor (Leave No One Behind), Guts, Poor Self Control (Thrill 
+Seeker), Quick Healer, SINner (national), Toughness  
+Adept 
+Powers
+Combat Sense 2, Danger Sense 2, Empathic Healing, Mystic Armor 2, 
+Pain Relief, Pain Resistance 1, Spell Resistance 1 
+Spells
+Antidote, Detect Life, Heal, Increase Reflexes, Levitate, Stabilize, 
+Stunbolt
+Gear
+3 antidote patches, Ares PED Mark III (w/ oxygen tank), armor jacket 
+[12], binoculars (optical), biomonitor, counterspelling focus 1(combat 
+spells), 3 disposable syringes, flashlight, gas mask, 2 medkits [Rating 
+3], 6 medkit supplies, monocle [Rating 4, w/ flare compensation, image 
+link, low-light vision, smartlink], Middle lifestyle (3 months), Narcojet (3 
+doses), spell formula (manaball, manabolt), spellcasting focus [Rating 
+2, health spells], subvocal microphone, 3 tranq patches, Transys 
+Avalon commlink, 4 trauma patches
+Weapons
+HK-227 [Assault Rifle, Acc 4(6), DV 7P, AP—, SA/BF/FA, RC 1, 28 (c), w/ 
+100 rounds regular ammo, 4 spare clips]
+Salavette Guardian [Heavy Pistol, Acc 5 (7), DV 8P, AP –1, SA/BF, RC 1, 
+12 (c), w/ 60 rounds regular ammo, 4 spare clips]
+Survival Knife [Blades, Acc 5, Reach—, DV(STR+2)P, AP 1]
+Contacts
+Fixer (Connection 2, Loyalty 2), Street Doc (Connection 2, Loyalty 3)
+Starting ¥
+5,070 + (4D6 + 100)
+<< AS YOU AS YOU CAN BE    161
+
+===== runfaster.pdf p164 =====
+>> RUN FASTER <<
+So what if it’s a stereotype that big, massive, hulking trolls 
+make good bodyguards. It works, so why mess with it? But 
+just because someone has the body, the skills, and the ’ware 
+for the work doesn’t mean everything always goes well. 
+Sometimes, the job goes sideways and the principle gets 
+geeked. Maybe she didn’t notice something or was just a 
+half a second too slow, or maybe someone else screwed up 
+but she took the heat for it. Now instead of working lucrative 
+corp-executive or celebrity protection details, she’s forced 
+to use her skills in the shadows. But the skills she honed in 
+protecting a principle have more than one use—what had 
+been used for defense can also be used to attack. Her role 
+may have changed, but she’s still committed to never fail 
+her “principle”—whatever that might be. 
+DISGRACED
+BODYGUARD
+162    AS YOU AS YOU CAN BE >>
+METATYPE: TROLL
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+9
+5
+5 (7)
+8
+3
+3
+3
+3
+2.45
+1
+Condition 
+Monitor (P/S)
+13/10
+Armor
+17
+Limits
+Physical 10(11), Mental 4, Social 4
+Physical 
+Initiative
+10 + 1D6
+Skills
+Blades 3, Clubs 3, Gymnastics 3, Intimidation 3, Perception 4, 
+Pistols 5(6), Unarmed Combat 5(6)
+Knowledge 
+Skills
+Corporate Culture 3, Entertainment Gossip 3, Psychology 3, Threat 
+Assessment 3
+Languages
+English N, Japanese 1, Spanish 1
+Qualities
+Code of Honor (Protect the Principle), Dependents (elderly parent), 
+Disgraced, Guts, SINner (National), Toughness 
+Augmentations Bone density augmentation 3, cyberears [Rating 1 w/ audio 
+enhancement 1, select sound filter 1, spatial recognizer], datajack, 
+flare compensation, internal air tank 1, orthoskin 3, reaction 
+enhancer 2, reflex recorder [pistols, unarmed combat], shock 
+hand, smartlink
+Gear
+2 antidote patches, 2 concealable quick-draw holsters, Executive 
+Suite armor [12], forearm guards [+1], license (professional 
+bodyguard), Low lifestyle (two months), jammer (area, Rating 3), 
+spare ammo (100 rounds regular, heavy pistol), 2 stim patches, 
+subvocal microphone, 2 trauma patches
+Weapons
+Savalette Guardian [Heavy Pistol, Acc 5 (7), DV 8P, AP –5, SA/BF, RC 
+1, 12 (c), w/ 60 rounds APDS ammo, 4 spare clips]
+Savalette Guardian [Heavy Pistol, Acc 5 (7), DV 8S*/6S(e)**, 
+AP–2**/–5***, SA/BF, RC 1, 12 (c), w/ 30 gel rounds, 30 rounds 
+Stick-n-Shock ammo, 4 spare clips]
+* gel round stats
+** Shock hand [Reach 1, Acc Physical, DV 9S(e), AP –5]
+Telescoping staff [Club, Acc 4, Reach 2, DV (STR+2)P, AP—]
+Contacts
+Corporate Administrative Assistant (Connection 3, Loyalty 2); Fixer 
+(Connection 2, Loyalty 2)
+Starting ¥
+3,580 + (3D6 x 60)
+
+===== runfaster.pdf p167 =====
+>> RUN FASTER <<
+Some people have a fever, and the only prescription is … shadow-
+running. Artists sometimes find their muses in the most unlikely 
+of places. In the case of the rocker, he found his inspiration in 
+the shadows. Unable to decide between the world of music and 
+shadowrunning, the rocker lives a dangerous dual life and draws 
+inspiration from his experiences in the high-stakes, live-or-die 
+world of the shadows. He composes everything from mournful 
+ballads dedicated to fallen teammates to hyper-charged pow-
+er-anthems about rebellion, anarchy, and true freedom. Whether 
+it’s riffing on his prized guitar at a concert or laying down sup-
+pression fire with his assault rifle, the rocker is all about living in 
+the moment, since tomorrow, we may all die. Some in the biz 
+see the rocker as excess baggage at best or a liability at worse, 
+but in a fight he can more than hold his own. And his force of will 
+and rock-star charisma and bad-boy charms are potent weapons 
+in their own right. But no matter what the situation is, the rocker 
+will be in the forefront putting it all on the line because one never 
+really knows where the next bit of inspiration will come from. 
+ROCKER
+<< AS YOU AS YOU CAN BE    165
+METATYPE: HUMAN
+B
+A
+R
+S
+W
+L
+I
+C
+ESS
+EDG
+4
+4
+4(6)
+3
+3
+3
+5
+6
+3.9
+5
+Condition Monitor (P/S)
+10(11)/10
+Armor
+12
+Limits
+Physical 5(6), Mental 5, Social 7
+Physical Initiative
+9 (11) + 1D6
+Active Skills
+Artisan 4 (Songwriter +2), Automatics 3, Blades 
+2, Con 3, Etiquette 3, Leadership 2, Negotiation 4, 
+Perception 4, Performance 6, Pistols 5, Stealth 
+skill group 5, Unarmed Combat 3
+Knowledge Skills
+Dive Bars 3, Groupies 1, Music 4, Music Venues 2
+Languages
+English N, French 2, German 2, Japanese 2, 
+Spanish 2
+Qualities
+Addiction (Mild, shadowrunning), Distinctive Style 
+(Rock and Roll!!!), Indomitable (Social) 1, Too 
+Pretty to Hit, SINner (National)
+Augmentations
+Cyberarm (obvious) [w/ shock hand, Agility 
+4, Strength 4], cyberears [Rating 3, w/ audio 
+enhancement 1, dampener, select sound filter, 
+sound link, spatial recognizer], datajack, reaction 
+enhancer 2
+Gear
+Armor jacket [12], 2 certified credsticks (silver), 2 
+concealable holsters, DocWagon contract (Gold, 
+1 year), ear buds [Capacity 1, w/ select sound filter 
+1], Fender-Hall Pegasus electric guitar, glasses 
+[Capacity 3. w/ flare compensation, low-light 
+vision], Hermes Ikon commlink, Low lifestyle (3 
+months), sub-vocal microphone, tool kit (Disguise)
+Weapons
+Browning Ultra-Power [Heavy Pistol, Acc 5 (6), 
+DV 8P, AP –1, SA, RC —, 10 (c), w/ laser sight, 
+40 rounds regular ammo, 3 spare clips]
+Cavalier Safeguard [Taser, Acc 5(6), DV 6S(e), AP 
+–5, SA, 6 (m) w/ laser sight, 12 taser darts]
+FN HAR [Assault Rifle, Acc 5(6), DV 10P, SA/BF/FA, 
+RC 2, 35 (c) w/ laser sight, 200 rounds regular 
+ammo, sling, 3 spare clips]
+Combat knife [Blade, Acc 6, Reach —, DV (STR 
++2)P, AP 3)]
+Shock hand [Taser, Reach —, DV 9S(e), AP –5]
+Contacts
+Retired Street Samurai (Connection 3, Loyalty 
+4); Club Owner (Connection 4, Loyalty 3); Fixer 
+(Connection 3, Loyalty 4); Street Performer 
+(Connection 2, Loyalty 3); Studio Musician 
+(Connection 2, Loyalty 3)
+Starting ¥
+6,360 + (3D6 + 60)
+
+===== completetrog.pdf p180 =====
+Energy, of course, does not translate into power. 
+TOLO does an excellent job connecting members 
+to job opportunities and providing professional de-
+velopment responsibilities, but their work to build 
+the strength of orks and trolls through collective ac-
+tion is … well, unfinished. Anyone seeking to gain 
+power needs some sort of leverage, and TOLO is 
+still looking for the right source. Strikes plain and 
+simply don’t work—most governments don’t rec-
+ognize a right to strike, and it’s hard to get enough 
+trogs on board from any one sector to make any 
+sort of an impact. Sure, some trog executives are 
+on board with TOLO, but they know where their 
+bread is buttered. If push comes to shove, they’ll 
+side with their corps and leave TOLO twisting in the 
+wind. Pho knows just how far TOLO can push—and 
+she knows not to go any farther.
+With all that said, what good is TOLO, then, es-
+pecially when it comes to people in the shadows? 
+Well, for one thing, remember that they’re looking 
+for leverage, and as time has worn on, their lead-
+ership has decided that they are not above using 
+a little blackmail to help advance their cause. Their 
+judicious in their use—it has to be the right infor-
+mation at the right time—but if you come across 
+some dirt that an org like TOLO might be able to 
+use, carefully approaching them about selling it 
+might bring you some nuyen.
+Second, TOLO has connections in corporations 
+across the world, and they are generally inclined 
+to help out a fellow trog. Sometimes they even 
+have pieces of dirt that they are waiting for the 
+right time to use. Treat them nice and perhaps use 
+some cash judiciously, and some of their knowl-
+edge might become yours.
+The third option is perhaps one for the more 
+creative runners out there. Along with placing 
+trogs in existing corps, TOLO is often looking to 
+help new trog start-ups, which requires upfront 
+funding. Plenty of people in the shadows know 
+that new businesses are also a great way to launder 
+some money. So if you are working an operation 
+that could stand to have some money cleaned, 
+TOLO might be a good contact. 
+>	
+There are a number of fun games you can play with this. 
+For example, let’s say you find a corp exec who is a secret 
+Human Nation supporter. Chances are good he has his 
+support all locked up and secret so it can’t be connected 
+to them. It might be easy to dummy up some TOLO 
+investment and them connect then to that. Once that 
+connection is made, let the Human Nation know that their 
+supposed supporter is secretly supporting trog rights. 
+Then step back and watch the feathers fly.
+>	
+Dr. Spin 
+LARRY’S KIDS
+POSTED BY: THORN
+Larry Zincan, the ork Prince, always has been an 
+anomaly. Named a Prince of Tír Tairngire in 2036 
+in order to show that the nation represented more 
+metatypes than elves, Zincan seemed to dance 
+across fissure lines within the Tír, finding ways to 
+transform the nation while never really being ac-
+cepted by some of the country’s elite. He found 
+enough popular support to become High Prince, 
+instituting reforms that helped bring the oft-iso-
+lated Tír more into the fellowship of nations. One 
+significant sign of his achievements is that when 
+the more-isolation-minded Marie-Louise Teles-
+trian took over, she didn’t rollback all the initia-
+tives Zincan launched—in fact, she couldn’t have 
+even if she wanted to, because many of Zincan’s 
+reforms had already taken deep root. The educa-
+tion systems he introduced are now part of the 
+fabric of the nation—everyone who lives there, 
+even orks and trolls, have the chance to attend a 
+decent, even good, school. 
+While Zincan has no direct, or even indirect, 
+role to play in the organization, Larry’s Kids seeks 
+to carry out the ideals he represented in his time 
+in office—namely, more integration between 
+all races, better educational opportunities, and 
+law-enforcement reforms. Unsurprisingly, they’re 
+based in the Pacific Northwest. Also unsurpris-
+ingly, they are not based in the Tír, because Zin-
+can did not change things so much in that nation 
+that an ork-centric social organization could be 
+expected to thrive there. Instead, the organiza-
+tion took root in Tacoma—close enough to Puyal-
+lup to take advantage of its trog population, but 
+connected to mainstream society enough to get 
+the infrastructure and funding needed to turn it 
+into a real organization.
+The leader of the group—an ork named Baruk 
+Fahd—is savvy enough to alter his pitch to various 
+donors. When he is talking to his fellow trogs, he’ll 
+focus on overcoming obstacles, getting access to 
+education, creating equity in hiring practices, and 
+so forth. When he is speaking to non-trogs, he’ll 
+focus on “wayward youth,” orks and trolls who 
+need to be redirected from their criminal ways into 
+options that will help them become more produc-
+>> THE COMPLETE TROG <<
+<< UNITED WE STOMP: TROG GROUPS & SOCIETIES    179
+
+===== completetrog.pdf p181 =====
+tive members of society. Since there is very little 
+that scares a conventional middle-class corp suit 
+more than a trog wearing gang colors, this ap-
+proach works. The more trog youth are redirected 
+to other options, the fewer there will be to mug 
+them, they figure.
+Fahd has definitely put some of the money he 
+has collected into branding—AROs proclaiming 
+the good work of Larry’s Kids have been increas-
+ingly common in Seattle, with sightings also oc-
+curring in Cara’sir, San Francisco, and even L.A. 
+He bought a two-story building near the bay, 
+made sure it had the Larry’s Kids logo (a styl-
+ized L overlapping a K, with the top legs of the K 
+looking like tusks) all over, and produced some 
+nice images of the parts of the Sprawl near the 
+bay that highlight the logo nicely. Plenty of peo-
+ple have seen the image; fewer could tell you 
+just what the organization does from this build-
+ing. Some basic activities are clear—hosting 
+mentoring programs involving orks and trolls 
+working corporate jobs, building parks in Puy-
+allup, and directing funds to Puyallup and Red-
+mond schools. None of this is game-changing, 
+or even large scale, so it is not clear why Larry’s 
+Kids deserves the attention it is getting, or just 
+what plans Fahd has for the organization.
+There is one interesting and perhaps troubling 
+sign. Larry’s Kids runs a youth center in Puyallup, 
+across the street from a lot that, as far as I can tell, 
+has been vacant for about two decades. That va-
+cancy is about to end, though—construction has 
+started on a ten-story building that, according to 
+permits on file, will contain one story of retail (a 
+function almost entirely absent from that part of 
+Puyallup), five stories of housing, a story of offic-
+es for undefined functions, and then “three sto-
+ries of open recreational area.” Does that sound 
+familiar? How about the fact that the ceilings of 
+these floors are abnormally high, and the floors 
+will be designed to hold loads far beyond normal 
+building capacities? 
+These are the only hints about the building’s 
+nature the plans contain. The plans were filled by 
+a large though nondescript construction firm—
+Moore & Buck, to be specific—on behalf of the 
+neutrally named and privately held Assets Hold-
+ing, Inc. (yes, that’s the real name). Searches of 
+Assets Holding reveal nothing of note, primarily 
+because they reveal nothing at all. It is an empty 
+shell with well-disguised owners. But those rein-
+forced three stories make people think the build-
+ing is being constructed by the same scaly indi-
+vidual who built a similar (though larger) structure 
+in Redmond. 
+What, though, does this have to do with Lar-
+ry’s Kids, other than being across the street? Most 
+of us would answer, “nothing,” but here is where 
+the preservative powers of the Matrix work for us. 
+Touting their work in Puyallup, Larry’s Kids issued 
+a press release in May. The original version stayed 
+on their Matrix site for approximately four hours, 
+then was replaced by an edited version. The third 
+paragraph of the release originally read like this:
+Larry’s Kids is proud to be a spark in the grow-
+ing Puyallup renaissance. By bringing job and ed-
+ucational opportunities to area residents, LK has 
+already become a trusted resource and partner in 
+the community. Our partnerships are growing—
+food pantries, after-school programs, and recre-
+ational facilities are part of our network, and the 
+new Playground facility being built across from 
+our Puyallup location will be a vital partner and 
+community resource for years to come.
+After the change, it read as follows:
+Larry’s Kids is proud to be a spark in the grow-
+ing Puyallup renaissance. By bringing job and ed-
+ucational opportunities to area residents, LK has 
+already become a trusted resource and partner in 
+the community. Our partnerships are growing—
+food pantries, after-school programs, and recre-
+ational facilities are part of our network, and we 
+look forward to forming new partnerships with 
+organizations following our lead into this fertile 
+neighborhood of Seattle.
+I found no other references to this “Playground” 
+in connection with the building going up across 
+the street. The staff of Larry’s Kids clearly has 
+knowledge about the place that no one else has—
+and their knowledge, combined with the building 
+specs, certainly makes it sound like Urubia’s Fun-
+house. What is this partnership about, and what 
+is Urubia’s ultimate goal in his construction plans? 
+Let the construction commence.
+>	
+In the interest of fairness, I should say that maybe this 
+was a mistake, an error in wishful thinking rather than 
+leaking private information. Someone on the staff of 
+Larry’s Kids may have heard something about the plans 
+and gotten a little ahead of themselves, speculating about 
+>> THE COMPLETE TROG <<
+180    UNITED WE STOMP: TROG GROUPS & SOCIETIES >>
+
+===== completetrog.pdf p182 =====
+what the construction across the street might be without 
+accurate or verified information. The press release was 
+then scrubbed when higher-ups noticed the unfounded 
+language in the document.
+>	
+Sunshine
+>	
+Do you really believe that’s what happened?
+>	
+Sounder
+>	
+No.
+>	
+Sunshine
+>	
+If Urubia is connected to Larry’s Kids, that means she’s 
+taken a different tack then the one she followed in 
+Redmond, where she worked directly with the gangs. In 
+Redmond, she was the reformer; if she’s working with 
+Larry’s Kids, she’s letting someone else do the reforming 
+first. Dragons don’t do things randomly—if she made a 
+change, why did she do it?
+>	
+Borderline
+>	
+Unless she hasn’t changed, and Larry’s Kids has few 
+verifiable activities because they are not so much 
+focused on gang reform as raising money and funneling 
+it to the gangs.
+>	
+Mika
+>	
+Interesting theory, but needs evidence.
+>	
+Snopes
+TROG BUREAU OF 
+INVESTIGATION
+POSTED BY: MIHOSHI ONI
+The Troll Bureau of Investigation—abbreviat-
+ed TBI, naturally—does not exist. Of course it 
+doesn’t. It’s a ludicrous concept on its face. 
+Yes, there are a few non-governmental intelli-
+gence agencies—Aegis Cognito and InFolio im-
+mediately leap to mind, and many of the larger 
+mercenary firms have an intelligence arm—but 
+these agencies came along to replace govern-
+ment functions, not act in opposition to them. 
+The TBI is an agency for a country that does not 
+exist, which is a solid argument for why it it-
+self does not exist, for no organization can exist 
+without funding.
+Some people say that perhaps trog-oriented 
+nations might fund the TBI, but how many of them 
+are there? The Black Forest Troll Republic wouldn’t 
+outsource such functions, and if we exclude them, 
+who’s left? Tír Tairngire? They also take care of 
+their own intelligence, and if they outsourced any-
+thing, you can be sure it would not be to a militant 
+pro-trog organization. A corp certainly wouldn’t 
+support this group, or at least not any of the big 
+ones. It cannot have any significant funding, there-
+fore it cannot exist.
+Yet the rumors persist of a vast network of orks 
+and trolls gathering sensitive intelligence and de-
+ploying it in startlingly effective ways. Given that 
+we can’t be sure the organization exists, we cer-
+tainly don’t know anything about the leadership 
+or members. Or anything. All we have are rumors 
+and stories—here are some I have heard.
+Vladivostok: When Anatoly Kirilenko was killed, 
+finger-pointing began immediately, and one of the 
+groups that quickly came under suspicion was the 
+local Sons of Sauron chapter. Evidence emerged 
+placing a Sons member at the scene with a weap-
+on of the type used in the shooting. Naturally, there 
+was a lot of pressure on law enforcement to find 
+someone responsible, and they were happy to fol-
+low the bait that was dangled in front of them. To 
+be clear: They were far more interested in solidify-
+ing the evidence against the Sons of Sauron than 
+they were in exploring any other theories. Yet with-
+in a week, they had turned up evidence that 1) The 
+weapon of the Sons member in question had not 
+been fired in days; 2) The Vory had been looking to 
+bring the Sons into line and had leaked evidence 
+about said member in order to put pressure on the 
+metahumans organization; and 3) Kirilenko may 
+have been taken out as part of a shadowrunner 
+campaign against prominent head cases. How did 
+the police turn up so much information that they 
+were not looking for? An informant showed up, an 
+ork listed on police records as having the decidedly 
+non-Russian name of Tiffany Brunson Ignatius. As 
+a complete stranger, she would not have been giv-
+en much credibility by the police except for the fact 
+that she provided corroboration, including inter-
+cepted messages and recorded conversations, for 
+each point she made. The police did not, of course, 
+disclose how she received this information. They 
+averred, though, that it was exceptionally sound.
+Denver: Chaos is never good for the most vul-
+nerable populations of any location, and Denver is 
+no different. With Ghostwalker removing all trac-
+es of democracy and turning the city into his fief-
+dom, along with the eugenic medical work being 
+conducted by Paladin Medical Group, trogs in that 
+city were suffering, hard. Suddenly, messages start-
+ed darting out to commlinks across the city. Trogs 
+>> THE COMPLETE TROG <<
+<< UNITED WE STOMP: TROG GROUPS & SOCIETIES    181
+
+===== completetrog.pdf p183 =====
+needing evacuation services were connected to 
+available slots. People planning emergency food 
+drops received messages about hidden popula-
+tions of hungry trogs that they didn’t know about. 
+Families who had been separated from each other 
+received messages telling them where to find their 
+missing kin. And so on. The common thread in all 
+of these messages were that they came from Tran-
+sition Builders, Inc., a company that has zero pres-
+ence on the Matrix, and there is no registration for 
+them anywhere.
+Nairobi: The Kilimanjaro mass driver is up 
+and functioning, but that does not mean the lo-
+cal spirits have given up the fight against it. They 
+have not engaged in any mass disruptions, but 
+rather seem to favor regular harassment of con-
+voys making their way from Nairobi to the mass 
+driver, particularly those that carried parts im-
+portant to continued space operations. After 
+some study, though, one bureaucrat noticed that 
+trucks driven by orks and trolls seemed to make it 
+through, without hassle, far more often than oth-
+er trucks. Willing to test this theory out, managers 
+connected to the mass driver started assigning 
+more work to trog drivers. Non-trogs didn’t like 
+losing the work, but sure enough the number of 
+attacks dropped dramatically. While the drivers 
+will tell you it was because of their greater skill in 
+avoiding roadblocks, a free spirit allied to Saed-
+er-Krupp dropped into Nairobi with an interesting 
+story, saying that some of the spirits of Kilimanja-
+ro were not harassing orks and trolls due to what 
+they called the “Thuo Bank Initiative.” As you no 
+doubt assumed, there is no Thuo Bank in Nairobi. 
+Or Kenya. Or anywhere.
+All this is just circumstantial, but it is also the tip 
+of the iceberg. You can find plenty of Matrix boards 
+embroiled in discussions of this mysterious intelli-
+gence-gathering entity, one that seems to be both 
+omnipresent and nowhere. These theorists con-
+nect people half-seen in security camera stills with 
+rumors of individuals who may be ghosts or may 
+never have existed. They pile coincidence on coinci-
+dence to see what might lie underneath. They have 
+no evidence, but as is the case with any conspiracy 
+theory, they claim that the lack of evidence is the 
+true proof that something is going on.
+Is there anything there? I can’t say. Do I sleep 
+better at night, thinking that there is a secretive band 
+of trogs gathering what information they can, then 
+carefully deploying it in ways that benefit our kind? 
+Damn right I do.
+>	
+I suppose in any post of decent length, we can dedicate 
+some space to comforting fairy tales.
+>	
+Snopes
+>	
+Yep, nothing more than a pipe dream. A pipe dream that, 
+frankly, pays pretty well.
+>	
+Sounder
+>	
+Oh, you bastard, I’m going to find out what it takes to 
+get you to spill everything you know about this subject. 
+I gotta hear it.
+>	
+Butch
+>	
+Don’t bother. She’s screwing with you.
+>	
+2XL
+>	
+The great thing about how people view the TBI right now 
+is that it creates its own misinformation almost as soon 
+as it’s mentioned. Absolutely nothing can be believed. 
+Whether it’s real or it’s a smokescreen, getting that level 
+of automatic doubt about every possible statement is 
+an impressive feat. I tip my hat in the direction of these 
+invisible masters.
+>	
+Fianchetto
+ORK RIGHTS 
+COMMITTEE
+The elder statesman of pro-trog organizations 
+is at a crossroads. The Ork Rights Committee 
+prospered for a long time under the leadership 
+of Greg Jackson—anytime they looked like they 
+were running short on funding, or maybe were a 
+vote or two shy on getting an initiative to pass 
+Congress, Jackson would deliver and inspiring 
+speech, make a few commcalls, and/or take a 
+few meetings, and the final puzzle pieces would 
+fall into place. But the life of an activist is de-
+manding, and Jackson stepped down from the 
+organization last year. The original plan called for 
+a new president to be in place when Jackson re-
+tired. Then that changed to have board member 
+Baldwin Kew step in as interim president for six 
+months until the new president was hired. Then 
+six months passed, and no president was named. 
+No new timeframe has been announced.
+It’s difficult to say just why the search is taking 
+this long, but here is one thing that is definitely 
+not the problem: a lack of qualified candidates. 
+Yes, orks are underrepresented in management 
+positions across the world, but that doesn’t mean 
+>> THE COMPLETE TROG <<
+182    UNITED WE STOMP: TROG GROUPS & SOCIETIES >>
+
+===== completetrog.pdf p184 =====
+they’re aren’t at least a few thousand of them. 
+And a number of them would be happy to take 
+over leadership of such a prestigious organization 
+(even if it meant a pay cut from what they would 
+earn in the corporate sector). A number of capa-
+ble names have been floated, and it seems clear 
+that ORC could get reasonable terms from most of 
+them. All they have to do is make a decision.
+That, then, is the challenge, and it’s a dilemma 
+that puts to two strains of the ORC against each 
+other, possibly to a breaking point. It’s a concern 
+similar to that faced by the Timmons Fund: Is the 
+ultimate goal integration or a separate, self-sus-
+taining home for trogs? The ORC has trod both 
+sides of this debate for a long time, but the strug-
+gle to get a new leader has a lot of people feeling 
+as if it’s time to make a decision. The new leader 
+will put their stamp on the direction of the orga-
+nization, so board members, senior-level staffers, 
+and even some politicians are angling to make 
+sure that stamp is the one they want. And this is 
+not just about isolation versus integration—the 
+methods of insider lobbying versus outsider ac-
+tion are being discussed. These two elements 
+are not necessarily in opposition, as plenty of 
+organizations have combined political work with 
+grassroots advocacy before, but there are some 
+within ORC who would like to shed the organiza-
+tion’s somewhat stodgy reputation entirely and 
+be much more aggressive, to Sons of Sauron lev-
+els or beyond. It’s not likely that these forces will 
+win in the fight for control of the organization, but 
+they definitely have played a role in dragging out 
+the leadership search. Kew is holding the fort for 
+now, and while he is a capable administrator, he is 
+not the leader the organization needs.
+Here’s a quick guide to three of the top players 
+in this ongoing drama.
+CrimeTime: The legendary musician was re-
+cruited by Jackson to the ORC board a few years 
+ago. Early in his term CrimeTime served as mostly 
+a tool to raise money (including the donations he 
+made), but as Jackson was preparing to retire, he 
+took some time to groom the CrimeTime and help 
+him better understand what the organization was 
+doing and why. He now is a leading voice for the 
+stay-the-course-and-preserve-Jackson’s-legacy 
+faction in the organization.
+Diamond Reeve: Reeve has been with the orga-
+nization for fifteen years, starting as a research 
+intern and working her way up to vice-president 
+of infrastructure. Which means that she has been 
+involved in every effort the ORC has undertaken 
+to build ork sanctuaries, cities, and even nations. 
+She has been quite energetic in this regard, and 
+she is now one of the leaders pushing hardest 
+for a homeland-building approach. Or at least, 
+several homelands, since you generally can’t just 
+up and buy an entire nation for orks to inhabit. 
+She has a detailed list of spots that she believes 
+are ripe to become ork havens, spots that could 
+then be pivotal in shifting the attitude of entire 
+nations. Monte Video, Uruguay. Prague, Czech 
+Republic. Rangoon, Indochina. Those are some of 
+her leading targets. What she will do with those 
+cities, or if she will get the chance to do them, 
+remains to be seen.
+Bernard Marks: Marks has been involved with 
+ORC almost from the beginning, and he has been 
+both a staunch supporter and a nonstop critic of 
+its work. ORC has generally worked through es-
+tablished channels, which means working to get 
+legislation passed, lobbying the government, 
+pressuring politicians, and so forth. The problem, 
+Marks avers, is that it takes significant effort to 
+get the government to do anything, and when 
+you do, all you are influencing is a sector whose 
+influence is far beneath that of the corps. In the 
+end, ORC’s methods are making them fight for 
+the scraps of the scraps that fall to government. 
+He wants to move the organization a few steps 
+up the food chain.
+Marks is clear in his belief that the way you get 
+things in the Sixth World is to take them. To him, 
+the ends very much justify the means, because the 
+ends—what you have and what you can do with 
+it—are the only things that matter. He supports 
+anything that can get trogs a more fair share piece 
+of the pie. Theft and violence are all on the table. 
+The only constraints are avoiding reprisals—push 
+the powers of the world too far, and they might 
+swing back before you have enough strength to 
+resist. He is cagey, and some call him amoral. He’s 
+not, though; it’s just that his moral center is fo-
+cused on elevating orks and trolls. Whatever does 
+that is right in his eyes.
+Those are the big three. Who will win out for 
+control of the ORC, and what direction will the or-
+ganization take? Who knows, but the shadows will 
+help decide.
+>> THE COMPLETE TROG <<
+<< UNITED WE STOMP: TROG GROUPS & SOCIETIES    183
+
+===== completetrog.pdf p185 =====
+GEAR
+The world is not made for orks and trolls, so they 
+have to make it fit them. Here are some pieces of 
+gear that can help.
+ANTENNA GRILL
+Got an implanted commlink or cyberdeck? Want 
+to cut through the noise that afflicts the wireless 
+world? Then get yourself a stylish and useful an-
+tenna grill. Useful only on tusks (since they have 
+regular exposure to the air outside the mouth), 
+these metal implants connect to a wire in the jaw 
+that runs up to the ’link or deck, improving recep-
+tion. Double the distance on all categories when 
+calculating noise modifiers (p. 231, SR5).
+Essence 0.1, Availability 4, Cost 1,000¥
+Anarchy Shadow Amp: Amp level 1. Add one to 
+a single die roll on a Matrix test.
+BMW TROLLHAMMER
+BMW revamped their meta-friendly classic, soup-
+ing up the engine, pushing the front wheel slightly 
+more forward, and giving it a more angular appear-
+ance. Most of the basics remain intact, though, 
+from its low-slung seat to its throaty engine. It’s 
+not the most economical bike on the market, but 
+sometimes you pay a premium to get something 
+that feels like it fits you with no compromises.
+Anarchy: Armor 8, Durability 10
+FOLDING METACHAIR
+Look, this is a luxury and probably unnecessary. 
+But when you spend enough time going from 
+place to place with chairs that don’t fit you, or 
+that threaten to break the moment you place 
+any weight on them, you start to wish you just 
+had a reliable chair you could bring with you any-
+where. This is that chair. It compresses to a cylin-
+der only slightly larger than your favorite soykaf 
+thermos, but when assembled, it can hold an ork 
+easily. Get the MaxiMetaChair, and it can hold a 
+troll (though when compressed, it has twice the 
+volume of the smaller version). The chair sets up 
+within minutes—or faster, with the microbot-en-
+abled self-assembly model. Do you want to 
+make a statement that you will make a place for 
+yourself in the world? Then set one of these up 
+in whatever trog-unfriendly place you visit, and 
+show that any place can be made to suit you.
+MetaChair, basic: Availability —, Cost 50¥
+MetaChair, self-assembly: Availability —, Cost 
+200¥
+MaxiMetaChair, basic: Availability —, Cost 85¥
+MaxiMetaChair, self-assembly: Availability —, 
+Cost 235¥
+Anarchy: Treat as gear.
+FORD TITAN
+As would be expected, the more purchasing 
+power a certain group has, the more they are go-
+ing to be marketed to. The Ford Titan is a variant 
+on their Econovan with more headroom, a sturdi-
+er suspension, and larger seats. Humans, elves, 
+and dwarfs may feel lost in the large interior, but 
+orks and trolls love being able to get in without 
+excessive bending, stooping, or folding. The loss 
+of some seating capacity is, of course, a natural 
+consequence of trying to make orks and trolls 
+comfortable, and the van is longer than the Econ-
+BMW TROLLHAMMER
+HAN
+SPEED ACCEL BOD
+ARM PILOT SENS SEATS AVAIL COST
+4/3
+4
+2
+10
+8
+1
+2
+1
+—
+12,500¥
+THE COMPLETE TROG
+EVERYTHING
+TROG
+184    EVERYTHING TROG >>
+
+===== completetrog.pdf p186 =====
+ovan. Some orks and trolls feel resentment at hav-
+ing one of the companies that treated them as an 
+afterthought for so long suddenly acting like their 
+ally, and they view any of their fellow trogs who 
+drive the Titan as sell-outs. Others, though, can’t 
+resist the comfort and fit the van provides.
+Anarchy: Armor 8, Durability 16
+HORN COMPARTMENT
+Similar to a tooth compartment (p. 452, SR5) but 
+larger, the horn compartment gives a slick way to 
+carry credsticks, RFID tags, or other small items. As 
+with the tooth compartment, it can be equipped 
+to remove the enclosed items with either a wire-
+less signal or a hidden catch. Unlike the tooth 
+compartment, it cannot be used for self-poisoning 
+purposes, because of course it can’t. 
+Essence —, Availability 8, Cost 1,000¥
+Anarchy: Treat as gear.
+OSMIUM MACE
+There are all sorts of ways to make weapons more 
+effective, but in the end, if you have a strong arm 
+delivering the blow, all you really need in order to 
+be effective is something with lots of mass and 
+inertia that will pound a huge amount of force 
+into the chest of whoever you’re hitting. The club 
+does this job pretty well, but if you have the arm 
+strength for it, having extra weight at the end of 
+the shaft can really get momentum swinging, 
+delivering a huge payload of kinetic energy to 
+the target. Enter the osmium mace, which some 
+say is over the top in terms of its pain-delivering 
+mass, while others say that’s just the way they like 
+it. Osmium is the most dense metal on earth, but 
+its brittle nature makes it unsuitable for the con-
+struction of a weapon. It’s just fine, though, for 
+a ball on the interior of a mace head, especially 
+when it is alloyed to make it more durable and 
+then surrounded by a titanium shell to help dif-
+fuse some of the shock of impact away from the 
+core. The result is a weapon that is difficult for the 
+average person to lift up, let alone swing. When 
+you get up to ork or troll levels of strength, you 
+can deliver devastating blows that make you look 
+like a character straight out of mythology. 
+*Accuracy decreases to 3 when wielded by 
+someone with Strength of 4 or lower and increas-
+es to 5 when wielded by someone with Strength 
+of 7 or higher.
+DV changes to (STR+2)P when wielded by 
+someone with Strength of 4 or lower and increas-
+es to (STR+6)P when wielded by someone with 
+Strength of 7 or higher.
+Anarchy Weapon: Close Combat, DV (STR/2 + 
+3), Close OK, Near —, Far —
+REINFORCED ROPE
+Normal and stealth rope typically hold 400 kilo-
+grams, which seems like more than enough for 
+most metatypes, but put two trolls on a single 
+rope—or even an ork and a troll—and you have 
+trouble. Reinforced rope provides extra strength 
+when you need to haul multiple trogs. Both the 
+FORD TITAN
+HAN
+SPEED ACCEL BOD
+ARM PILOT SENS SEATS AVAIL COST
+3/2
+4
+1
+16
+8
+2
+2
+8
+—
+32,500¥
+OSMIUM MACE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+4*
+2
+(STR+4)P
+–1
+14R
+5,500¥
+<< EVERYTHING TROG    185
+
+===== completetrog.pdf p187 =====
+standard and stealth variants hold up to 600 kilo-
+grams, while reinforced micro rope can hold 200 
+kilograms (which leaves trolls still out of luck, but 
+it’s at least something for orks!).
+Reinforced standard rope: Availability 2, Cost 
+100¥ per 100 m
+Reinforced stealth rope: Availability 12F, Cost 
+170¥ per 100 m
+Reinforced microwire: Availability 8, Cost 
+100¥ per 100 m
+Anarchy: Treat as gear.
+ 
+ROCKBLOOD OLD SCHOOL LINE
+This fashion line is designed to enhance the ork 
+form, making it look both strong and elegant. 
+Well-dressed orks across the globe are getting 
+on board with Rockblood’s fashion sense, mak-
+ing them feel like they don’t have to look like 
+other metatypes to be stylish. The clothing has 
+an armor rating of 8 and increases the wearer’s 
+Social limit by 1. Capacity 10, Availability 8, Cost 
+1,900¥.
+Anarchy: Armor value 9. 
+When used as Shadow Amp: Amp value 2. Ar-
+mor value 9, add 1 to a single die on any Social test.
+ROCKBLOOD SIGNATURE 
+ARMORED SHIRT
+This is an armored shirt specifically designed for 
+trolls by the fashion designer known as Rockblood. 
+>> THE COMPLETE TROG <<
+186    EVERYTHING TROG >>
+
+===== completetrog.pdf p188 =====
+It makes trolls look both powerful and elegant, so 
+that dermal deposits seem like a part of the cloth-
+ing. The wearer receives +1 to both Etiquette and 
+Intimidate tests while wearing the shirt—as long as 
+they’re a troll. It also has an Armor value of 6 and a 
+Capacity of 4. Availability 14, Cost 800¥.
+Anarchy: Armor value 6 (+1 skill point).
+When used as Shadow Amp: Amp value 2. Ar-
+mor value 6, may reroll 1 die on any Social test.
+TROLL ROARER
+This unusual implant takes advantage of the low 
+frequencies of troll voices that go beyond any-
+thing emitted by other metatypes. The sounds 
+are not audible to other metatypes. The roarer 
+extends the distance by which the sound can 
+be heard by 1 kilometer per point of Rating. 
+Due to the nature of infrasound, trolls cannot 
+shape full words when using the roarer, so it 
+cannot be used to hold a conversation. It can 
+be very useful, however, in allowing trolls to 
+signal each other at range in a way that has low 
+chance of detection or interference—unless, of 
+course, the opposition has a troll on staff who 
+hears the signal, too.
+Ratings for the troll roarer range from 1 to 12
+Availability: (Rating)R, Cost (50 x Rating)¥, Es-
+sence 0.1
+Anarchy: Treat as gear.
+YERZ KIT
+Your vehicle is not simply a mode of transporta-
+tion—it’s a statement. And the thrust of that state-
+ment is that you are not to be ignored. Whether 
+it’s a nice set of rims, some accent lighting, a fan-
+cy paint job, or something else, you spend a little 
+extra to make your vehicle very distinctly your 
+own. This kit has items you need to make your 
+vehicle fully yerzed out.
+Availability: —, Cost 500¥
+GEAR AVAILABILITY AND COSTS
+ITEM
+AVAILABILITY
+COST
+Antenna grill
+4
+1,000¥
+BMW Trollhammer
+—
+12,500¥
+Folding MetaChair
+     Basic
+—
+50¥
+     Basic, self-assembly
+—
+200¥
+     Maxi, basic
+—
+85¥
+     Maxi, self-assembly
+—
+235¥
+Ford Titan
+—
+32,500¥
+Horn compartment
+8
+1,000¥
+Osmium mace
+14R
+5,500¥
+Reinforced standard rope
+2
+100¥ per 100m
+Reinforced stealth rope
+12F
+170¥ per 100m
+Reinforced microwire
+8
+100¥ per 100m
+Rockblood Old School Line
+8
+1,900¥
+Rockblood Signature Armored Shirt
+14
+800¥
+Troll roarer
+(Rating)R
+(50 x Rating)¥
+Yerz kit
+—
+500¥
+>> THE COMPLETE TROG <<
+<< EVERYTHING TROG    187
+
+===== completetrog.pdf p189 =====
+QUALITIES
+Here are some qualities to help make your ork 
+or troll character the orkiest and trolliest possible.
+POSITIVE QUALITIES
+BLACK FOREST NATIVE
+COST: 22 KARMA
+You were born and raised in the Black Forest Troll 
+Republic, and that has given you certain knowledge 
+and benefits. You receive both the You Know a Guy 
+and Street Politics variants of the Home Ground 
+quality, and you may choose one of the following bo-
+nuses: a +2 bonus when casting the preferred spells 
+of the Druidic tradition (Camouflage, Control Pack, 
+Invisibility, Resist Pain, and Stunball), or +2 on Infiltra-
+tion tests and Survival tests in wooded areas.
+Anarchy: Choose one effect when this quality 
+is selected: +2 dice on Sorcery tests or +2 dice on 
+Survival tests.
+COMMUNITY CONNECTION
+COST: 5 KARMA
+The ork and troll community is not well-known for 
+its wealth, but there are a number of trogs who 
+have gained some money and are determined 
+to use it to help others. Fortunately for you, you 
+made contact with them and have become one of 
+the beneficiaries. It didn’t make you rich, but it’s a 
+nice boost. Ork and troll characters with this quaity 
+can maintain a Squatter lifestyle for free, or a Low 
+lifestyle for half the usual amount (making it 1,000 
+nuyen per month for orks, 2,000 for trolls).
+Anarchy: Improve an existing Shadow Amp by 
+a single level for free.
+DELICATE FINGERS
+COST: 5 KARMA; ONLY AVAILABLE TO 
+TROLLS, INCLUDING TROLL VARIANTS
+You’ve lived for a while as a troll in a human 
+world, and you’ve gotten quite good at adapt-
+ing. Plus, you have thinner-than-usual fingers and 
+hands, which are good for using human-size de-
+vices and gear. You do not suffer the –2 penalty 
+for using gear that is not adapted to your troll size 
+(see Using Unadapted Gear, p. 420, SR5).
+Anarchy: +1 die on Escape Artists tests and +1 
+die on Engineering tests.
+HUMAN LIFESPAN
+COST: 10 KARMA
+This quality can only be taken at character cre-
+ation. It replaces the ork’s normal average lifespan 
+with that of a human, so they age and mature at a 
+human rate. It has no other effect on the character.
+Anarchy: The effect is the same as the SR5 
+variant.
+NASTY TROG
+COST: 5 KARMA
+With sharpened horns and/or tusks, clothing worn 
+to highlight dermal deposits, and so forth, you 
+highlight your inherent trog characteristics in ways 
+that make other metatypes nervous. You receive 
++3 to Intimidation tests against all non-orks and 
+-trolls (a group that includes ork and troll variants). 
+Anarchy: +2 dice on Intimidation tests.
+TROG ARTISAN
+COST: 8 KARMA
+Maybe you learned making things out of scraps in 
+Seattle’s Ork Underground. Or maybe you spent 
+time in Sweetwater Creek, learning how to craft 
+things for orks and trolls. You gain a +2 dice pool 
+bonus whenever using the Artisan skill for items 
+designed specifically for use by orks or trolls. Note 
+that it must be made especially for orks or trolls, 
+not just equally usable by them and other groups.
+Anarchy: +2 dice on Engineering tests. 
+TROG HISTORIAN
+COST: 4 KARMA
+Whether through dedicated study of recorded his-
+tory or long conversations with the people who 
+were there, you have amassed a considerable 
+body of knowledge of trog history. Whenever you 
+are making a Knowledge Skill test that in some 
+way involves a significant event in ork or troll his-
+tory, you receive a +2 dice pool bonus.
+Anarchy: Add 2 history-related Knowledge skills. 
+TROG LEADER
+COST: 7 KARMA; ONLY AVAILABLE TO 
+ORKS OR TROLLS, INCLUDING ORK 
+AND TROLL VARIANTS
+You say the right things, make the right gestures, 
+>> THE COMPLETE TROG <<
+188    EVERYTHING TROG >>
+
+===== completetrog.pdf p190 =====
+and your people respond. When making Leader-
+ship tests with any group entirely composed of orks 
+and/or trolls, you receive a +2 dice pool bonus.
+Anarchy: +1 die to Con tests, +1 die to Nego-
+tiation tests.
+TROG NETWORKER
+COST: 12 KARMA; ONLY AVAILABLE 
+TO ORKS OR TROLLS, INCLUDING ORK 
+AND TROLL VARIANTS
+You are at one with your people. Wherever you go, 
+once you are in predominantly ork or troll areas 
+(whichever matches your particular metatype), you 
+either find someone you know, or someone who 
+knows someone you know, or someone who is ea-
+ger to get to know you. When you are in neighbor-
+hoods that have a majority of your metatype, you 
+get a +2 dice pool bonus on Etiquette tests, and you 
+receive a +1 dice pool bonus on Navigation tests—
+because you either have a good feel for these areas, 
+or you’re skilled at finding the right people to give 
+you quick directions.
+Anarchy: +1 dice on Con tests, +1 to Survival tests.
+NEGATIVE QUALITIES 
+BAD CREDIT
+BONUS: 8 KARMA
+Money has never flowed easily to you. You didn’t 
+have a network or friends and families with money 
+who could help you out in hard times, and landlords 
+and employers always seemed to take one look at 
+you and rescind their offers, or make the terms much 
+worse. In order to survive, you had to fall in with the 
+type of lenders and financiers who charge scan-
+dalous interest rates and ruinous late fees. All that 
+has resulted in black marks that seem to follow you 
+wherever you go, no matter what names or SINs you 
+use. Your lifestyle costs are 10 percent higher than 
+they would otherwise be, and Availability for all piec-
+es of gear is treated as 1 higher than it would other-
+wise be (note that this effect does not apply to gear 
+purchased during the character creation process).
+Anarchy: Whenever you receive 4 or more Kar-
+ma for a mission, reduce that amount by 1. 
+ELEVATED STRESS
+BONUS: 8 KARMA
+Years of having mainstream society look down on 
+you has taken its toll, as has the long-term stress 
+associated with it. You take –1 dice pool penalty 
+on any Addiction and Toxin Resistance tests due 
+to the strain on your health system.
+Anarchy: After you take any sort of damage, on 
+your next three tests, add a Glitch Die that cannot 
+roll any hits. 
+FORCE OF CHAOS
+BONUS: 4 KARMA
+Planning is great—for others. You prefer to throw 
+yourself into whatever is happening and see what 
+you can pull off, which makes you chafe against 
+plans. Any bonuses you might receive from em-
+ploying tactics or group maneuvers in combat are 
+cut in half (rounded up). 
+Anarchy: When other players try to assist you 
+on a test, the dice bonus you receive equals half 
+the hits on their assist roll, rounded up.
+TROG TRAITOR
+BONUS KARMA: 5
+Maybe you were a security executive in Renraku. 
+Maybe you had some hints that the Mr. Johnson 
+you were working for was funded by the Human 
+Nation, but you decided to take the money and 
+not ask too many questions. Whatever it was, 
+other orks and trolls look at you with suspicion. 
+Your Notoriety is considered to be 5 higher than 
+its actual value when you are in ork- or troll-ma-
+jority neighborhoods.
+Anarchy: –2 dice on Con and Intimidation tests 
+in ork- and troll-majority neighborhoods.
+LIFE MODULES
+The following modules are for use with the Life 
+Module character creation system described on 
+p. 65, Run Faster.
+FORMATIVE YEARS
+ORK/TROLL SLUM DWELLER
+You didn’t have much in the way of money, and 
+you lived in a part of the sprawl where people 
+tried to push you to the side and forget about 
+you. You developed the ability to survive in dif-
+ficult circumstances—and you also developed a 
+pretty big chip on your shoulder.
+>> THE COMPLETE TROG <<
+<< EVERYTHING TROG    189
+
+===== completetrog.pdf p191 =====
+BLACK FOREST BABY
+You were born in the Black Forest Kingdom and 
+saw it evolve to the Black Forest Troll Republic. 
+You have been steeped in ork and troll ways, and 
+given an optimistic view of troll and ork potential, 
+because you have seen how well it can go when 
+they control their own destiny.
+TEEN YEARS
+TROG GANGER
+Strength is in numbers, weakness in isolation. In 
+your formative years, you bound yourself to peo-
+ple who could help you survive the rough side of 
+your city, including the people who wanted to see 
+you impoverished, isolated, or even killed simply 
+because of your horns and/or tusks. You lashed 
+out, hitting the opposition the world aligned 
+against you. Sometimes the world hit back, but 
+you learned how to keep yourself standing.
+SURVIVOR
+There were many times when you were growing 
+up that the world seemed determined to kill you. 
+Sometimes, it took a slow tack, starving you out, 
+while other times it went about its task more di-
+rectly, with rocks, knives, and bullets rushing to-
+ward your head. Somehow, though, you made 
+it through all that alive, thanks to your guile and 
+cunning. The experience gave you wisdom you 
+carry with you.
+FURTHER EDUCATION
+BILOXI TECHNICAL INSTITUTE 
+(65 KARMA)
+Biloxi Technical Institute is new, but not so new 
+that it hasn’t graduated some students, and you 
+are honored to be among that number. You grad-
+uated with only a fine education, but also a strong 
+sense of trog pride. And, of course, complete 
+knowledge of every word of the newly penned 
+school fight song.
+ORK/TROLL SLUM DWELLER
+Attributes
+Willpower +1, Intuition +1
+Qualities
+Trog Networker
+Skills
+Clubs +1, Perception +1, Sneaking +2, 
+Survival (Urban) specialization, Unarmed 
+Combat +1, Street Knowledge: [City] +3
+TROG GANGER
+Attributes
+Agility +1, Willpower +1
+Qualities
+Bad Rep (7), Nasty Trog
+Skills
+Close Combat skill group +2, Con +1, 
+Escape Artist +1, First Aid +1, Gymnastics 
++1, Intimidation +1, Palming +1, Sneaking 
++1, Survival +1, Street Knowledge: [City] +1
+SURVIVOR
+Attributes
+Body +1, Willpower +1, Intuition +1
+Qualities
+Bad Credit, Trog Networker
+Skills
+Blades +1, Clubs +1, Con +1, First Aid +1, 
+Gymnastics +1, Running + 1, Sneaking +2, 
+Survival +2, Swimming +1, Tracking +1, 
+Street Knowledge: [City] +1
+BILOXI TECHNICAL INSTITUTE
+Attributes
+Logic +1, Willpower +1
+Qualities
+Trog Historian
+Skills
+Computer +1, Perception +1, Etiquette +1, 
+Academic Knowledge [Any] +2
+Computer 
+Science
+Cybercombat +1, Electronics skill group 
++1, Hacking +1, Academic Knowledge: 
+Hardware Design +2
+Engineering Chemistry +1, Hardware +1, Industrial 
+Mechanic +1, Academic Knowledge: 
+Engineering +4
+BLACK FOREST BABY
+Attributes
+Willpower +1, Logic +1
+Qualities
+Black Forest Native
+Skills
+Etiquette +1, Leadership +1, Longarms 
++1, Negotiation +1, Survival (Forests) 
+specialization, Black Forest Government 
++1, Black Forest History +1, Black Forest 
+People +1
+>> THE COMPLETE TROG <<
+190    EVERYTHING TROG >>
+
+===== completetrog.pdf p192 =====
+REAL LIFE
+TROG PROFESSIONAL
+You spent day after day telling yourself that there 
+were worse ways to live. After all, you had a roof 
+over your head and you knew where your meals 
+would be coming from. And you weren’t just some 
+low-level grunt—you had authority over some 
+people, even though there were plenty of peo-
+ple who had authority over you. You withstood 
+sideways glances and muttered remarks that your 
+co-workers hoped you would not hear, and sever-
+al promotions you earned but did not get, because 
+something about you wasn’t right for the job. It 
+wasn’t so bad, you kept telling yourself—but you 
+felt like a huge burden was relieved the day you 
+threw it all away to find something else.
+TROG REBEL
+You live in a world that wants to control you, 
+wants to berate you, wants to tell you all the 
+things you are not so you remain in your place. 
+You don’t just reject those ideas—you throw them 
+angrily in the face of the world. Maybe you fell in 
+with a group such as the Sons of Sauron, or may-
+be you acted on your own, but either way you 
+spent plenty of time blowing up what pieces of 
+the establishment you could, and bringing pain 
+where you believed it was deserved. Some call 
+you a hero, some a criminal, some a terrorist. You 
+just feel like you did the only thing you could.
+TROG PROFESSIONAL
+Attributes
+Logic +1, Intuition +1
+Qualities
+Limited Corporate SIN (15)
+Skills
+Computer +1, Firearms skill group +2, 
+Etiquette +1, Hardware +1, Instruction +1, 
+Leadership +1, Medicine +1, Perception 
++1, Pilot Ground Craft +1, Software +1, 
+Corporate Procedures +3
+TROG REBEL
+Attributes
+Willpower +1, Intuition +1
+Qualities
+Force of Chaos, Nasty Trog
+Skills
+Con +1, Demolitions +1, Escape Artist +1, 
+Firearms skill group +2, Gymnastics +1, 
+Perception +1, Sneaking +2, Survival +1, 
+Tracking +1, Covert Tactics +3
+>> THE COMPLETE TROG <<
+<< EVERYTHING TROG    191
+
+===== completetrog.pdf p193 =====

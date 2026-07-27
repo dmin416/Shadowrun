@@ -1,0 +1,3086 @@
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF page 474 =====
+>> SHADOWRUN, FIFTH EDITION MASTER INDEX <<
+	
+fortis, SG 211
+	
+regia, SG 211
+	
+vitae, SG 211-12
+Aquadyne Shark-X5 harpoon gun, RG 22-23
+Aquaticus, RG 160
+Arabian Caliphate, SG 14, 74
+Arcana, SR5 142
+	
+mundane and, SG 126
+Arcane
+	
+arrester, RF 111-12
+	
+bodyguard, SG 151
+	
+enhancements, CF 201-2
+	
+organizations, RF 38-39
+	
+service providers, SG 19
+Arcanoarchaeologist, SG 33
+Archery, SR5 130
+Archive, DT 109, 113-14, 140; SR5 215
+Arcology, DT 136
+	
+living, RF 68
+Arcology Mile, RG 154
+Arctic diver suit, RG 80
+Area attacks, R5 28
+Area spell(s), SR5 281, 306
+Ares Corporation/Macrotechnology, 
+	
+SG 18-19; SR5 22, 25, 30, 31, 38
+	
+Alpha, SR5 428
+	
+Alpha gunner table, RF 233
+	
+Antioch-2, SR5 430-31
+	
+Archon Heavy MP laser, RG 49
+	
+Arctic Forces suit, RG 77-78
+	
+Armored coldsuit, RG 78
+	
+Armored Survivalist, RG 75
+	
+Arms Sentry V (and Mercury), 130
+	
+biotech anti-rejection drugs, CF 174
+	
+Cheetah, 138-39
+	
+Chuck Wagon, 59
+	
+Crusader II, SR5 427
+	
+demiGOD, DT 70-71
+	
+Desert Strike, SR5 428
+	
+Dragon, SR5 464
+	
+drones and, R5 121
+	
+Duelist, R5 155; SR5 466
+	
+Echo Unlimited, DT 64
+	
+Executioner submachine gun, RG 35
+	
+FlaShield, RG 72
+	
+Garuda, 149
+	
+Getting Network, CF 81
+	
+Giantslayer slingshot, RG 23
+	
+Global Grid, DT 15, 19
+	
+head case, CF 17
+	
+HVAR assault rifle, RG 37
+	
+Integrated Solutions, CF 14
+	
+Johnson (Mr.) from, RF 204
+	
+KN-YO, R5 143-44
+	
+Lancer MP laser, RG 48
+	
+Light Fire 70, SR5 425
+	
+Light Fire 75, SR5 425
+	
+Matilda, R5 141
+	
+Monads citizenship, CF 220
+	
+Monads grid messages, CF 216
+	
+Mule, R5 141-42
+	
+“One” monosword, RG 19
+	
+Paladin, R5 142
+	
+PED Mark III, RG 104
+	
+Picus Smartgun System, CF 66
+	
+pistol pack/table, RF 233 
+	
+Polar Sneak suit, RG 78
+	
+Predator, CF 67; SG 231; SR5 426
+	
+Redline laser pistol, RG 48
+	
+Roadmaster, SR5 464
+	
+S-111 Super Squirt, SR5 429-30
+	
+Screech sonic rifle, RG 26
+	
+-Segway Terrier, R5 42
+	
+subject appropriation, CF 205
+	
+Thunderstruck gauss rifle, RG 45
+	
+Trident, RG 160
+	
+UnlimiTech, CF 202
+	
+Venture, SR5 465
+	
+Victory, RG 63-65
+	
+Vigorous Assault cannon, RG 46
+	
+Viper Slivergun, SR5 426
+Argentum coat, RG 58
+Arm, drone, R5 125
+Armand’s Armor Emporium, RG 57
+Armanté, RG 57, 61
+Armor, CF 152; R5 159; RG 14-15, 56; 
+	
+SR5 168, 269, 417, 436-38
+	
+clothing, SR5 437
+	
+clothing, high-fashion, RG 57-65
+	
+customizations, RG 84-87, 212
+	
+drone, R5 123
+	
+encumbrance and, SR5 169
+	
+features, RG 59
+	
+jacket(s), RG 56; SR5 437
+	
+modifications, SR5 437-38
+	
+packs, RF 236-38
+	
+penetration, SR5 169, 417
+	
+piercing ratings, SR5 171
+	
+power, SR5 394
+	
+program, SR5 245
+	
+spell, SR5 292
+	
+table, RG 210-11
+	
+vehicle, SR5 199
+	
+vest, SR5 437
+Armorer, SR5 143
+Armory, RF 220
+Arms dealer, RF 182
+ArmTech MGL-12, SR5 431
+Army, RF 82, 83
+Arnis de mano, RG 128
+Arrowheads, RG 23-24
+	
+table, RG 203
+Art prize, DT 171
+Artemis Industries 
+	
+Nightwing, R5 155; SR5 464
+Artemis Lunar Arcology, RG 167
+Artifact assensing, SR5 307
+Artificial intelligence (AI), CF 209; 
+	
+DT 134, 145; SR5 21
+	
+advanced programs and, DT 157-61
+	
+attributes, DT 146
+	
+calculations table, DT 155
+	
+CFD and, CF 211
+	
+creation of, DT 145-46
+	
+damage repair, DT 157
+	
+data packet nature of, DT 152
+	
+depth, DT 146
+	
+emergence of new ones, DT 132
+	
+essence, DT 145
+	
+grid messages and, CF 214
+	
+home, DT 156-57
+	
+Karma, DT 146
+	
+loading into devices, DT 153-54
+	
+Matrix combat, DT 154-56
+	
+megacorps citizenship, CF 220-21
+	
+negative qualities, DT 151-52
+	
+old ones, DT 131-32
+	
+persona, DT 133, 152
+	
+personal index, DT 157
+	
+positive qualities, DT 146-51
+	
+power source for, DT 136
+	
+priority chart, DT 147
+	
+quality assurance, DT 146
+	
+restoration and realignment, DT 156-57
+	
+sapients, DT 134-36
+	
+shelters, DT 134
+	
+SINs and, DT 133
+	
+skills, DT 146
+	
+struggles of, CF 218
+	
+update at home, DT 156
+	
+variant attribute table, DT 147
+	
+vehicle combat, DT 156-57
+Artificially induced psychotropic 
+	
+schizophrenia, CF 51
+Artificing, SR5 142, 316
+	
+steps in, SR5 306-7
+Artisan, SG 224; SR5 143
+	
+adept, SG 167, 176
+Artist, SG 156-57
+	
+adept, SG 167, 176
+As You as You Can Be, RF 144
+Asamando, SG 13-14; SR5 27
+Asatru, SG 20
+Asceticism, SG 141
+Ash Arms 
+	
+combat chainsaw, RG 21
+	
+monofilament chainsaw, RG 21
+Asia, SR5 26-27
+ASIST, DT 10
+	
+-related deaths, DT 11
+Aspect Mana line, SG 122
+Aspected magician(s), RF 80; SG 25; 
+	
+SR5 68, 276
+	
+character, RF 64
+Assassin(s), RG 16
+Assassin’s Creed, SR5 79-80
+Assassination, SR5 340
+Assault cannon rounds, SR5 434
+Assault rifles, RG 14, 36-38; SR5 428
+	
+table, RG 206
+Assensing, SR5 142
+	
+table, SR5 313
+Assets, RF 218
+Asthma, RF 152
+	
+effects table, RF 152
+Astral acclimation, SR5 74-75
+Astral attributes, SR5 314
+Astral beacon, SR5 78-79
+Astral bluff, SG 150
+Astral chameleon, SR5 72
+Astral clairvoyance, SG 106
+Astral combat, SR5 142, 315
+Astral damage table, SR5 315
+Astral detection, SR5 314
+Astral doppelganger, SG 122-23
+Astral echoes, SG 190
+Astral form(s), SR5 312
+	
+power, SR5 394-95
+Astral gateway, SG 194
+Astral hazing, RF 119
+Astral intersections, SR5 316
+Astral journeys, RF 36-37
+Astral limit, SR5 278
+Astral living, SG 183 
+Astral message, SG 106
+Astral movement, SG 191-92; SR5 313-14
+Astral perception/projection, RG 158; 
+	
+SG 27, 204, 207; SR5 167, 309, 312-13
+Astral phenomena, SG 32-33
+Astral plane, cost of staying, SR5 314
+Astral powder, SG 212
+Astral rifts, SG 28
+Astral shallows, SG 28
+	
+sample, SG 29
+Astral signature, SR5 312
+Astral Space Preservation Society, SG 57-58
+Astral topography, SG 28-30
+Astral tracking, SR5 315
+	
+modifiers, SR5 315
+Astral window, SG 107-8
+Astral world, SR5 312
+Athabaskan Council, RF 67; SG 15
+Athame, SG 91-92
+Athlete, adept, SG 167, 176
+Athletics, SR5 153
+Atlantean Foundation, CF 39; SR5 35-36
+Atmosphere sensor, SR5 446
+Atomizer, RG 196
+Atonement, SG 123, 207
+Attack(s), DT 179; SR5 173, 244
+	
+against vehicles, SR5 205
+	
+from cover with imaging device, SR5 177
+	
+dongle, DT 61, 62
+	
+matrix, SR5 227
+	
+steps in, RG 96
+	
+types of, RG 95-96
+	
+upgrade, SR5 258
+Attacker
+	
+firing burst or semi-auto burst, SR5 190
+	
+firing full auto burst, SR5 190
+	
+firing long burst, SR5 190
+	
+making charger attack, SR5 186-87
+	
+in melee combat, SR5 177
+	
+from moving vehicle, SR5 177
+	
+prone, SR5 187
+	
+reach advantage, SR5 189
+	
+running, SR5 178
+	
+using image magnification, SR5 178
+	
+using off-hand weapon, SR5 178
+	
+wounded, SR5 178
+Attendance, SG 130
+Attention co-processor, CF 78, 82
+Attention deficit hyperactivity disorder, CF 51
+Attention-seeking, CF 58
+Attitude, SR5 334-35
+Attribute(s), SR5 51-52, 66-67, 95, 105
+	
+ally spirit, SG 201
+	
+assigning points, SR5 67
+	
+boost, SR5 309
+	
+-only tests, SR5 152
+	
+karma advancement table for, SR5 107
+	
+using, SR5 152
+Attune animal, SG 123
+Attune item, SG 124
+	
+table, SG 124
+Auctioneer Business Clothes, SR5 437
+Audio analyzer, CF 75
+Audio devices, SR5 445
+Audio enhancement(s), SR5 445, 453
+Augmentation(s), CF 3, 54; RF 56-57; 
+	
+SR5 23, 95, 451
+	
+bundles, CF 92-93
+	
+drugs and, CF 168-70
+	
+functional genetic, CF 137
+	
+military grade, CF 69
+	
+negative qualities, CF 57-60
+	
+positive qualities, CF 54-56
+Augmented culture, characters and, RF 57
+Augmented healing, CF 156
+Augmented reality (AR), DT 176, 179; 
+	
+SR5 53-54, 215, 221-23, 229
+	
+games, DT 55-56
+	
+gloves, SR5 439
+	
+pilot using, SR5 201
+Augmented reality objects (AROs), 
+	
+SR5 53, 54, 221-22
+Augury, SG 124
+Aura(s), SG 115; SR5 312
+	
+masking, SG 194
+Aurora Borealis, SG 31
+Auschwitz, SG 31
+Australia, SR5 27
+Australian Republic, SR5 27
+Authority, DT 158
+Autodocs, SR5 208
+Auto-injector, CF 82, 85
+Automated Army, The, R5 116-18
+Automated defenses, SR5 366
+Automated gun systems, SR5 366
+Automatics, SR5 130, 185
+Automotive Mechanic, SR5 143-44
+Autonomous Tracking and 
+	
+Heuristics Robot, CF 215
+Autopicker, SR5 447
+Autosofts, SR5 269
+	
+drone, R5 127
+	
+group, R5 127
+	
+prices, R5 127
+	
+skillset, R5 127
+Auto-Assault 16 shotgun, RG 40
+Auto-injector, RG 84, 85
+Availability, SR5 94, 417, 418
+Avatar, SG 188, 202; SR5 215
+Avengers, SG 85
+Awaken, SG 109
+Awakened, SG 5; SR5 68, 276, 277, 308
+	
+born, SG 11-12
+	
+critters, SR5 362
+	
+drugs, CF 178, 184-86
+	
+registration of, SG 26, 27
+	
+research, CF 137-38
+Awakening, CF 176-77
+Ayao’s Will, CF 184
+Azania, SR5 27
+Azanian Confederation, RF 49
+Aztec tradition, SG 41
+Aztech Chew, CF 183
+Aztechnology, CF 71, 77, 103-4, 197; 
+	
+RG, 57, 61, 90; SG 15, 19, 41, 64-65; 
+	
+SR5 22, 30, 31, 35, 38
+	
+Agular GX-2 and GX 3AT, R5 97-98
+	
+Cerepax, CF 174
+	
+Crawler, SR5 466
+	
+Criado Juan, R5 145
+	
+Cuanmiztli bundle, CF 92, 93
+	
+demiGOD in, DT 71
+	
+drones and, R5 121
+	
+Emissary, DT 64
+	
+genetech, CF 198
+	
+genetic memory, CF 198-99
+	
+grid, DT 14.19
+	
+head cases, CF 17
+	
+Hedgehog, R5 129
+	
+Johnson (Mr.) from, RF 204
+	
+Monads denied citizenship by, CF 220
+	
+Monads grid messages and, CF 216
+	
+nanites, CF 200
+	
+Nightrunner, R5 81-82
+	
+Striker, SR5 431
+	
+Tialoc space station, DT 132-33
+Aztechnology Military Aquacology, RG 160
+Aztlan, DT 24; RG, 153; SG 13, 15, 
+	
+33, 81; SR5 26
+	
+normal in, CF 206-7
+<< shadowrun, fifth edition master index    469
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF page 475 =====
+>> SHADOWRUN, FIFTH EDITION MASTER INDEX <<
+B
+Baby monitor program, SR5 245
+Backdoor
+	
+creation, DT 163
+	
+finding, DT 162-63
+Background(s), RF 18-20
+Background count(s), SG 30
+	
+examples, SG 31
+	
+ratings, SG 31
+	
+rules, SG 32 
+	
+triggers, SG 219
+Background noise, DT 138
+Backup weapons, RG 13
+Bad Luck, SR5 79
+Bad Rep, SR5 79
+Bag of organs, CF 60-61
+Bailout, R5 179
+Balance, SG 141 
+	
+augmenter, SR5 453-54
+	
+receptor, RF 112
+	
+tail, CF 82, 85; RF 115
+Balkans, SR5 27
+Ball lightning, SR5 284
+Ballestra, RG 119, 135
+Ballistic projectiles, SR5 185
+Ballistic mask, RG 74
+Ballistic shield, SR5 438
+Bandersnatch, RF 136
+Banishing, SR5 142, 278, 301, 316, 320
+	
+resistance, SG 194
+	
+test, SG 87
+Banshee, RF 136-37
+Barbed hooks, RG 135
+Baret Model 122 sniper rifle, RG 40
+Barghest, SR5 403
+Bark skin, RF 113
+Barrage, SG 159
+Barren spirit, SG 89
+Barrens, DT 11, 14
+Barrier(s), SR5 362-63
+	
+damaging, SR5 198
+	
+destroying, SR5 197-98
+	
+ratings, SR5 197
+	
+shooting through, SR5 197, 198
+Bartender, RF 182; SR5 390
+Barter, RF 174, 176 
+	
+optional qualities, RF 175
+Bartista,  RG 128
+Bartoli, Lenora, CF 65
+Base cost, SR5 375
+Baseball, CF 66
+Basic bioware/table, CF 229-30
+Basic combat drone pack/table, RF 250 
+Basic combat eyes pack/table, RF 241 
+Basic cyberdeck programs pack/table, RF 249 
+Basic decker pack/table, RF 249 
+Basic drone commander pack/table, RF 249 
+Basic magician pack/table, RF 251 
+Basic medicine bag pack/table, RF 251 
+Basic razorboi pack/table, RF 242 
+Basic rigger pack/table, RF 243 
+Basic speedboost pack/table, RF 242 
+Basic spirit stick pack/table, RF 252 
+Basic spy drone pack/table, RF 250 
+Basic vatjob pack/table, RF 242 
+Basic wires pack/table, RF 239 
+Basilisk, SR5 403-4
+Basketball, CF 66
+Bat cave, RF 224
+Battering rams, RG 103-4
+“Battle Fought, The,” SR5 16-19
+Bayonet, RG 50-51
+Beak, RF 112
+Bear, SR5 321
+Beast, RG 159; SG 157
+	
+adept, SG 167, 176-77
+Beat Cop, SR5 390
+Beetle spirit, SG 96
+Beggar’s Gaze, CF 182
+Belief, SG 130
+Bellevue Community College, SG 17
+Bellringer shot, RG 116
+Benandanti XXV, SG 67
+Bending of the reed, RG 135 
+Beretta 201T, SR5 425
+Berserk, SG 132, 169
+Berserker, RF 119; SG 199-200
+Berserker BTL, CF 193
+Berserker’s rage, SG 169
+Berwick suit/dress, RG 58
+Beta inhibitors, CF 176
+Beta quality, CF 71
+Betameth, CF 180
+Betel, CF 180
+Better to be feared than loved, CF 54
+Better-than-life (BTL, beetle), 
+	
+CF 175 SR5 215, 410, 412-13
+	
+chips, CF 178-79, 192-93; SR5 42-43, 413
+	
+costs, SR5 413
+	
+downloads, SR5 413
+	
+example, CF 193
+	
+specialized, CF 193
+Bicardiac, RF 112
+Bicycle speed, SR5 200
+Big boom pistol pack/table, RF 231
+Big Game Hunter clothing, RG 64
+Big regret, RF 153
+Big Ten (megacorps), SR5 22-23, 25
+Big vehicles, R5 20
+Bike(s), SR5 462
+	
+racing armor, RG 68
+Bilingual, SR5 72
+Binder IC, SR5 248
+Binding power, SG 113; 
+	
+SR5 142, 278, 300-301, 317, 320, 395
+	
+free spirit ritual, SG 204
+	
+long-term, SG 192
+	
+spirits and, SG 186
+Binoculars, SR5 443
+Biocompatibility, CF 54
+Bio-computer pack/table, RF 243-44
+Bioengineered Awakened drugs (BAD), 
+	
+CF 173-74, 175, 178
+	
+compliance, CF 176
+Bioengineering, CF 198
+Biofeedback
+	
+damage, SR5 229
+	
+filter, SR5 269
+	
+filter program, SR5 245
+	
+program, SR5 245
+Bioluminescence, RF 119-20
+Biometric reader, SR5 439
+Biomonitor, CF 82, 85; SR5 450
+Biosculpting, CF 107-8 
+	
+table, CF 108, 230
+Biosonar, RF 112
+Bio-tattoos, CF 109
+Biotechnology, CF 67; SR5 144, 155, 450
+	
+blue, CF 96
+	
+green, CF 96-97, 102
+	
+grey, CF 96
+	
+history of, CF 94-96
+	
+Type-O transplants, CF 98
+	
+white, CF 97-98, 101-2
+Bioware, CF 99, 197-98’ 
+	
+SR5 55, 94-95, 459-60
+	
+basic, CF 229-30
+	
+beef pack/table, RF 244
+	
+cosmetic, CF 109-11, 231
+	
+cultured, CF 118-20, 231
+	
+grades of, CF 99; SR5 451
+	
+lean pack/table, RF 243
+	
+standard, CF 111-16
+	
+table, CF 117
+Biowaste storage expansion, CF 82, 85
+Bio-weaponry, CF 120-22, 232 
+Bipod, SR5 431
+Bi-polar, RF 152-53
+Bipolar disorder, CF 42, 51
+Bitter, CF 180
+Black Box, CF 140-41
+Black Forest, RF 51, 52-53
+Black IC, SR5 248
+Black Lodge, SR5 38
+Black market 
+	
+goods, SR5 418
+	
+pipeline, RF 145
+Black Out, SR5 83
+	
+program, SR5 245
+Black Shakes, The, DT 143, 165
+Black Trenchcoat, RF 18
+Blackjack, SR5 422
+Blackmail, RF 178; SR5 42
+Blackstone Prison, SG 27, 31, 35
+Blademaster pack/table, RF 231
+Blades, RG 18-20; SR5 130, 422, 423
+	
+table, RG 202
+Blandness, SR5 72
+Blank slate, CF 57
+Blanks, CF 38
+Blast(s), SR5 284, 417
+	
+in confined space, SR5 183
+	
+effects, SR5 182-83, 195
+	
+multiple simultaneous, SR5 183
+	
+out of hand, RG 111, 142
+	
+shield, RG 104
+Blaster IC, SR5 248
+Blasting cap, RG 194-95
+Bleed out, SG 220
+Bleeder, CF 186
+Bleeker Street Medical, CF 38-39
+Bletcherous, DT 29
+Blighted, RG 169
+Blind, RF 153
+	
+fighting, SG 169
+	
+fire, SR5 178
+Blinded, SG 220
+Bliss, SR5 411
+Blitz, SR5 56, 161
+Block, RG 124; SR5 168, 192
+	
+levels of, CF 190-91
+Blohm & Voss Gmbh, DT 102
+	
+Classic III, R5 88-89
+Blood of Kali, CF 181
+Blood magic, SG 19, 41, 50, 81, 90
+	
+cannibalize, SG 91
+	
+foci, SG 91-92
+	
+path of, SG 90
+	
+power bleed, SG 91
+	
+sacrifice, SG 91
+Blood rite/ritual, SG 122, 125
+Blood sight, SG 125 
+	
+resistance factors, SG 125
+	
+test table, SG 125
+Blood spirit(s), SG 92 
+	
+invocation, SG 92
+Blood thirst, SG 132
+Bloodhound, DT 76
+Bloom, Eliza, SG 57-48
+Blow Up Good, RG 170
+Blowgun, RG 26
+Blubber, RF 113
+Blue biotech, CF 96
+Blue Blood, CF 182
+Blue Sky, Jeremy, SG 43
+BluSix, CF 26-27
+BMQ, DT 16
+BMW 
+	
+Blitzkrieg, R5 66-67
+	
+I8 Interceptor, R5 68-69
+	
+Luxus Limo, R5 73
+	
+Stürmwagon, R5 75-77
+	
+Teufelkatze, R5 71
+Boats, SR5 464
+Body, SR5 51, 90, 133, 151
+	
+armor bag, RG 70-71
+	
+barriers, SR5 198
+	
+drone, R5 123
+	
+repairs, RG 143
+	
+searching for, SR5 314
+	
+vehicle, SR5 199
+Body Hunt, DT 122-27
+Body Redefined, The, CF 94
+Bodyguard, RF 13, 182
+Bodyware, CF 81-86, SR5 454-455, 456
+	
+tables, CF 85, 224-25
+Bogotá, DT 9; RG 153
+Bolas, RG 26, 27
+Bolt hole, RF 216-17
+Bonb, SG 220
+Bone
+	
+density augmentation, SR5 459
+	
+lacing, SR5 454, 455
+	
+spikes, RF 112
+Bonus(es)
+	
+home ground, SR5 74-75
+	
+simple, SR5 187-88
+	
+wireless, SR5 421
+Book of Shadows, SG 128
+Bookie, RF 183
+Boomerang, RG 24, 25
+Boosted reflexes, CF 118
+Booster, R5 34 
+	
+endosont, CF 123
+Bootleg turn, R5 174
+Bootstrap, DT 56
+Border patrol, RF 83
+	
+agent, RF 183
+Born free spirit, SG 202-3
+Born to Hack, DT 50
+Born to kill, 60
+	
+formative years, CF 60-61
+	
+real life education, CF 61
+	
+teen years, CF 61
+Born rich, RF 145
+Borodin, Julian, CF 14
+Borrow sense, SG 106
+Borrowed time, RF 153
+Boston, DT 25; RG 155
+Boston Harbor, RG 155, 161
+Boston Hub, DT 10
+Bottled Demons on the Wall, SG 218
+Bottled spells, CF 176
+Bound Hands Club, CF 39
+Bound spirit(s), SR5 300-301
+	
+services, 302
+Bounding overwatch, RG 99
+Bounty hunter, RF 76, 183
+Bovine shapeshifter, RF 100
+Boxing, RG 129, 130
+Bow(s), SR5 183, 423, 424
+	
+fire, SR5 165
+	
+load and fire, SR5 167
+Brahmin, SG 46
+Bowman packs/tables, RF 231
+Bozoku, CF 184
+Braggart, RF 158
+Brain blaster, RG 119
+Brain boost, CF 180
+Brain Eaters, SR5 382
+Brand loyalty, RG 127
+Branding, SG 131
+Brass Balls, CF 181
+Brawler boxing, RG 129
+Brawling adept, SR5 117
+Breaching charges, RG 191
+Breadcrumbs, DT 174
+Break away, SR5 204
+Break target lock, R5 30
+Break weapon, RG 111
+Breaking & entering pack/table, RF 246
+Breaking shit, SR5 29
+Breast implants, CF 73, 74
+Breath
+	
+holding, SR5 137
+	
+scanners, SR5 364
+Breeder, SR5 14
+Brew master witch/warlock, SG 212
+Brick(ing), DT 176, 180; SR5 215, 228
+Broadened auditory spectrum, RF 112-13
+Broken 
+	
+fang, RG 135
+	
+grip, SG 220
+Brotherhood of Darkness, SG 67
+Brotherhood of the Iron Crescent, SG 64
+Browning & Beretta pistol pack/table, RF 232
+Browning Ultra-Power, SR5 426
+Browse program, SR5 245
+Brute block, CF 190
+Brute force, DT 178-80; SR5 238
+Buddhism, SG 43
+Budget ‘jack pack/table, RF 238
+Bug(s)
+	
+scanner, SR5 440
+	
+zapper, SG 114
+Bug-out bag/table, RF 244
+Buell Spartan, R5 44-45
+Build/repair table, SR5 146
+Building/structure, SR5 145-46
+	
+charges, RG 178
+	
+damage value threshold, RG 179
+	
+demolitions tests, RG 182-83
+	
+explosives needed, RG 180-82
+	
+planting explosives, 
+	
+	
+detonating, RG 183-84
+Building the Perfect Beast, R5 150
+Built-in medkit, CF 86, 89
+Built-in timer
+	
+detonation, SR5 181
+	
+projectile triggers, SR5 182
+Built-in utility kit, CF 86, 89
+Bulk modification, CF 86, 89
+Bulletproof jeff pack/table, RF 241
+Bullets around armor, RG 109-10
+Bulls-eye double-tap/burst shot, RG 116
+470    shadowrun, fifth edition master index >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF page 476 =====
+>> SHADOWRUN, FIFTH EDITION MASTER INDEX <<
+Bullwhip, RG 20-21
+Bunker gear, RG 69
+Bunny hopper pack/table, RF 247
+Burglary, SR5 29
+Burma, Juliette, SG 42-43
+Burn, SG 131
+Burned company man, RF 160
+Burnout, SG 157; SR5 78
+	
+adept, SG 167, 177
+Burst Fire (BF), SR5 179
+	
+mode, SR5 165
+Buses table, R5 186
+Bushido, RF 30-31; SR5 80
+Butch, CF 20, 21, 23-25, 48
+Butcher’s Bill, SG 160-63
+Buzz, CF 180; SR5 14
+Byrnes, Johnny “Shocky,” SG 231
+C
+Cable tap, DT 61, 62
+Cadmus Deep Habitat Colony, RG 160
+CalFreenetwork, DT 22
+California Free State (CFS), 
+	
+DT 22; SG 30, 58; SR5 25
+	
+metaspients citizenship in, CF 221
+	
+tour of duty, RF 84
+Called shot(s), RG 109, 110-12; SR5 163
+	
+ammo, RG 115-18
+	
+martial arts, RG 136, 142
+Calling spirit, SG 126
+Calm 
+	
+animal, SG 114
+	
+pack, SG 114
+CalTech, SG 31; SR5 35
+Cambridge University, CF 49
+Camelot Research Station, RG 166
+Camera(s), SR5 365, 443
+Camford, David, DT 137-38
+Camouflage, RF 113
+	
+check, SG 111 
+	
+power, SR5 256
+Campaign
+	
+alternate, SR5 354-55
+	
+data management, SR5 354
+	
+plot, SR5 353
+	
+plot pacing, SR5 353-54
+	
+plot simplicity, SR5 354
+	
+time and character advancement, SR5 354
+Cancer prevention treatment, CF 156
+Canine shapeshifter, RF 100
+Cannibalize, SG 91
+Cannons, RG 45-47; SR5 430-31
+	
+table, RG 207
+Cansasa, Snana, SG 50
+Cantor-Kurosawa Analyst, DT 63-64
+Canttenom Void, SG 33
+Capacity, SR5 417, 420
+Capoeira, RG 129
+Capsize, R5 179
+Capsule ammo, RG 55
+Car bombs 
+	
+for assassins, RG 187-88
+	
+for property damage, RG 185-87
+Carbine assault rifle, RG 37
+Carcerand-plus, CF 149
+Cardreaders, SR5 363-64
+Carib League, SG 20
+Carrier, RF 141
+Carromeleg, RG 129
+Carrying, SR5 152
+Cars, R5 19-20, 47-59; SR5 462-63
+	
+table, R5 184
+Cascade, DT 158
+Cash, RF 173, 174; SR5 375-76
+CASnet, DT 23
+Casemod(eling), CF 72, 74
+Cat, SR5 321
+Cat’s eyes, SR5 459
+Cat’s Paw, DT 56
+Catalog, SG 107
+Catapult, DT 76
+Catch up/break away, R5 174-75
+Catfall, SG 114
+Catholic Church, SG 14, 15, 20, 72-73
+“Catspaw,” RG 6-9
+Catalyst stick, SR5 449
+Catch up, SR5 204
+Catlike, SR5 72
+Causal groups, SG 56
+Causal societies, SG 56
+Cavalier Arms 
+	
+Alamo EBR, SR5 428-29
+	
+Deputy pistol, RG 32
+	
+Safeguard taser, RG 29
+	
+Urban Tribe tomahawk, RG 25
+Celebrity, RF 76
+Celedyr (dragon), SR5 21, 32
+Celerity, RF 113
+Cellular glove molder, SR5 447
+Cellular repair, CF 156-57
+Cellular scanners, SR5 364
+Centaur, CF 87-88, 89; RF 98
+Centering, SG 134-35, 154; SR5 325
+	
+focus, SR5 319
+Central America, SR5 26
+Centurion Financial, SG 19
+Centurion Services Group, SG 17
+Cephalopod skull, RF 120
+Cerebral booster, SR5 460
+Cerebrally implanted identities, 
+	
+legal status of, CF 219-20
+Cereprax, CF 180
+Cermak Blast Region, RG 155
+Certified credstick, SR5 39, 442
+Ceska Black Scorpion, SR5 427
+Cessna C750, SR5 464
+Chaff, SG 111
+Chain of command, RG 93
+Chain mail, RG 71
+Chainsaws, RG 21
+Chakram fighting, RG 129
+Chameleon, CF 152-53
+	
+coating, R5 163-64 
+	
+skin, CF 109
+	
+suit, SR5 437
+Change 
+	
+linked device mode, R5 174
+	
+speed, R5 174
+Changeling, RF 101, 102
+	
+characters and, RF 55
+	
+creating, RF 103
+	
+culture, RF 55
+Channeling, SG 148
+Chaos, SG 44, 200; SR5 290
+Chaotic world, SR5 290
+Character(s), SR5 50
+	
+advancement, SR5 103, 104, 106, 354
+	
+age, RF 19
+	
+attributes, SR5 51-52
+	
+augmented culture and, RF 57
+	
+backstories, SR5 104-5
+	
+birthplace, RF 19
+	
+changelings, RF 55
+	
+contacts, SR5 55
+	
+death, SR5 334
+	
+dwarfs, RF 47
+	
+edge and, SR5 56
+	
+education of, RF 19
+	
+elves, RF 50
+	
+family life, RF19
+	
+gear, SR5 54-55
+	
+gender, RF 19
+	
+general appearance, RF 19
+	
+goals, RF 19
+	
+hair, eyes, skin color, RF 19
+	
+hatred and, RF 19
+	
+human culture and, RF 54
+	
+improvement table, SR5 107
+	
+lifestyle, SR5 56, 373-74
+	
+limitations, RF 19
+	
+loves of, RF 19
+	
+magic and, SR5 53
+	
+metatype, SR5 50-51
+	
+modular generation (sample), RF 84-86
+	
+moral code, RF 19
+	
+name of, RF 19
+	
+negative qualities, RF 151-59
+	
+off-hand weapon use, SR5 187
+	
+orks, RF 51
+	
+personality, RF 19
+	
+physical size, RF19
+	
+positive qualities, RF144-51
+	
+qualities, RF 19; SR5 53
+	
+reasons for shadowrunning, RF 19
+	
+reputation, SR5 372-73
+	
+resume, RF 19
+	
+shapeshifters, RF 56
+	
+skills, SR5 348
+	
+spotlight time, SR5 348, 349
+	
+superior position, SR5 187
+	
+targeted by area-effect attack, SR5 190
+	
+trolls, RF 53
+Character creation, RF 20
+	
+attributes, SR5 66, 68
+checklist, SR5 101
+choosing concept, SR5 62, 64
+contacts, SR5 98, 100
+	
+final numbers, SR5 100-102
+	
+final steps, SR5 99
+	
+final touches, SR5 103-9
+	
+Infected, RF 133-35
+	
+Karma spending, SR5 98-100
+	
+knowledge, language skills, 
+	
+	
+SR5 88-89, 91-92
+	
+lifestyle, SR5 95
+	
+magic and, SR5 68-69, 70
+	
+metatype selection, SR5 65
+	
+prime runner, SR5 64
+	
+purchases and restrictions, SR5 98
+	
+qualities, SR5 71-86
+	
+questions to ask, RF 19
+	
+resonance and, SR5 68, 70
+	
+resources, SR5 94-95
+	
+specialization, SR5 88, 89
+	
+starting nuyen, SR5 95
+	
+street-level, SR5 64
+	
+tips for, SR5 62
+	
+types and their roles, SR5 63
+Charge attack, RG 120
+Charged ward, SG 127
+Charisma, SR5 51, 138, 139, 143, 151
+Charm, RF 17
+Charmer foundation, CF 190
+Charon, RG 167
+Chase
+	
+actions, SR5 204-5
+	
+combat, SR5 203
+	
+environment, SR5 203
+	
+ranges, R5 174; SR5 203
+	
+table, SR5 204
+Chaser, R5 33
+Chatty AI, DT 146
+Cheap soldier pack/table, RF 233
+Chem patch, SR5 451
+Chemical detection
+	
+explosives modifiers, RG 197
+	
+modifiers table, SR5 365
+	
+systems, SR5 365
+Chemical enhancements, CF 201
+Chemical glands, CF 112
+Chemical protection, SR5 437
+Chemical repulsion, CF 116
+Chemical seal, SR5 437
+Chemistry, SR5 144
+Chemsniffers, SR5 365
+Chemsuit, SR5 448
+Chevrolet Longboard, R5 52
+Chica, RF 13
+Chicago, DT 24-25; RG 155; SG 29
+Child of the shadows, CF 61
+Children of the Dragon, SG 68
+Chill, SR5 14
+Chill BTL, CF 192
+Chimera pets, CF 166-67
+Chin na, RG 136
+Chip(s), CF 187 
+	
+gaining, RF 176
+	
+tech, CF 175
+	
+truth, SR5 14
+Chipjack, CF 79, 82
+Chipped, SR5 14
+Chisel, SR5 447
+Chloroplast skin, CF 109
+Choke settings, shotgun, SR5 180-81
+Chop shop mechanic, RF 183
+Choson Ring, DT 36-37
+Christianity, SG 20, 44-45
+Chrome, SR5 14
+Chrysler-Nissan Jackrabbit, SR5 462-63
+Chugi, RF 25
+Chummer, SR5 14
+Church
+	
+pastor, RF 184
+	
+working for, SG 19-20
+Church of Scientology, SG 19
+Circle 
+	
+of cleansing, SG 127
+	
+of healing, SG 127; SR5 298
+	
+of protection, SG 127; SR5 298
+Citron-Brouillard Smoke Generator, 
+	
+R5 130-31; 130-31
+City government, RF 177
+City official, RF 184
+City slicker, RF 145
+	
+pack/table, RF 236 
+Clairaudience, SR5 286
+Clairvoyance spell, SR5 286
+Classic boxing, RG 129
+Claws, CF 120; RF 113; SG 157
+Clean, SG 114
+	
+metabolism, CF 109
+Cleaner, CF 123; SR5 252
+Cleaning service/table, RF 220-21
+Cleansing, SG 154-55
+Clear, CF 194
+Clear exit, R5 177-78
+Clearsight autosoft, SR5 269
+Climate adaptation, RF 113
+Climbing, SR5 134
+	
+failures and glitches, SR5 134
+	
+gear, SR5 448DEX <<
+	
+table, SR5 134
+Clinch, RG 119-20, 136
+Clinic, SR5 370-71
+Clip, SR5 14
+	
+insert, SR5 165
+	
+remove, SR5 166
+Cloak, SG 169
+Clockwork, R5 118
+Cloning, CF 98-99
+Close call function, SR5 46, 56
+Close combat, SR5 153
+Close quarter 
+	
+defense, RG 137
+	
+firearms, RG 136
+Clothes buying table, RF 253
+Clothing, SR5 436-37
+Cloudless, DT 56
+Clout, SR5 284
+Club(s), DT 62; RG 20; SR5 131, 422, 423
+	
+table, RG 202
+Club kid, RF 184 
+Club franchises, SR5 41
+ClusterF*cked: Augments Post-CFD, CF 8
+Cockatrice, SR5 404
+Cocktail kid pack/table, RF 245
+Code(s)
+	
+of Akichita, RF 29-30 
+cultivation, DT 13
+	
+of the good cop, RF 31-32
+	
+of the hacker, RF 27
+	
+of healers, RF 28-29
+	
+of honor, DT 46; RF 23, 30; SR5 79-80
+	
+of Paladin, RF 28
+	
+of shaman, RF 26-27
+	
+of silence, RF 25, 26
+	
+of soldiers, RF 29
+	
+of the streets, RF 26
+	
+of white hat, RF 31
+	
+of Wuxia, RF 27-28
+Codeblock. SR5 80
+CodeBlue biomonitor bracelet, CF 31
+Codeslinger, SR5 72
+Coeur D’Hiver, CF 183
+Cognitive Disorder Research Center, CF 49
+Cognitive Fragmentation Disorder (CFD), 
+	
+CF 9-13, 15-16, 48, 132, 200, 209, 219; 
+	
+RF 35, 38, 41; SG 71
+	
+biological platform, CF 49
+	
+care and feeding, CF 48
+	
+countermeasures, CF 143-44
+	
+cure for, CF 210-11
+	
+delusions, CF 139-40
+	
+minds integration, CF 48-49
+	
+new treatment protocols, CF 49-50
+	
+original coding, CF 211
+	
+possible treatment, CF 20
+	
+replicators in, CF 148
+	
+salvaging, CF 139
+	
+social integration, CF 50
+	
+treatment attempts, CF 25
+	
+vaccine development, CF 140-41
+	
+-xeno, CF 24-25
+Cold adaptation, CF 163
+Cold damage, RG 150; SR5 170
+<< shadowrun, fifth edition master index    471
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF page 477 =====
+>> SHADOWRUN, FIFTH EDITION MASTER INDEX <<
+	
+physical, RG 149-50
+	
+substance, RG 150
+Cold surfaces/substances, RG 150
+Cold-blooded, RF 120
+Cold-sim, SR5 215
+	
+virtual reality, DT 179; SR5 229
+Coldsuit, RG 76-77
+College education, RF 145
+Colleges, SG 16-17
+Color blindness, CF 156
+Color packs, RF 245-47
+Colloton, Angela, SR5 38
+Colt
+	
+America L36, SR5 425
+	
+Cobra TZ-120, SR5 427
+	
+Government 2066, SR5 426
+	
+M23, SR5 428
+	
+pistol pack/table, RF 232
+ComaDoze, CF 176
+Combat, RG 11-16; SR5 158
+	
+abstraction, RG 107
+	
+actions, SR5 162
+	
+active skills, SR5 130-32
+	
+astral, SR5 315
+	
+axe, SR5 422
+	
+balance, RG 107
+	
+biker pack/table, RF 248
+	
+correspondent, RF 76-77
+	
+critter, SR5 402
+	
+damage.consequences, DT 180
+	
+drone, SR5 270
+	
+drone packs, RF 250
+	
+edge, RG 126
+	
+eyes packs, RF 241
+	
+junkie, RG 127
+	
+knife, SG 226; SR5 422
+	
+mage, SR5 116
+	
+maneuver steps/tests, RG 98-99
+	
+maneuvers, RG 99-102
+	
+Matrix, DT 179-80
+	
+medic, RF 161
+	
+monster, RF 158
+	
+multiple opponent, RG 139
+	
+objective, RG 12
+	
+options, RG 107-15
+	
+options cheat sheet, RG 213
+	
+power, RG 94
+	
+realism, RG 107
+	
+resolution, SR5 172-73
+	
+rigger pack/table, RF 248
+	
+rigging, R5 16
+	
+sense, SR5 286, 309
+	
+sequence, SR5 173
+	
+spells, SG 102-6; SR5 282, 283-85
+	
+spirit services, SR5 302
+	
+stress, CF 46
+	
+surprise in, SR5 193-94
+	
+tactics, RG 89-90
+	
+teamwork, RG 98
+	
+triggers,  SG 219
+	
+turn sequence, SR5 158-59
+	
+turns, SR5 49
+	
+underwater, RG 158
+	
+vehicle, SR5 202
+Comforts, RF 213, 218-19
+Comm, SR5 14
+Command
+	
+control, RG 95
+	
+preparation trigger, SR5 305
+Commanding voice, SG 170
+Commcode, SR5 215
+Commercial explosive, SR5 436
+Commercial lifestyle, RF 217, 218
+Commercial vehicles table, R5 186
+Commlink (‘link), DT 55, 60; RG 90; 
+	
+SR5 215, 221, 438-39, 451-52
+	
+apps, DT 55-56
+	
+dongles, DT 61-62
+	
+form factor, DT 60-61
+	
+Matrix attributes, SR5 222
+	
+shadowrunning with, SR5 223
+	
+voice, DT 178
+Common programs, SR5 243, 245
+Common sense, RF 145
+Communications, SR5 440-41
+Community colleges, RF 72-73; SG 17
+ComPac-Esprit General, RG 105
+Company man, RF 12-13, 77
+Company suit, RF 184
+Compel truth, SG 114
+Compendium Maleficarum, SG 218
+Competence-on-a-chip pack/table, RF 240 
+Competition, tabs on, DT 171
+Compiled Sprite Task, SR5 256
+Compiling, SR5 143
+Complex actions, SR5 167
+	
+vehicle, SR5 203
+Complex form(s), DT 164; SR5 215
+	
+kill(ing), SR5 250, 251
+	
+learning, SR5 106
+	
+new, CF 25
+	
+sustain, SR5 256
+	
+thread, SR5 250, 251
+	
+using, SR5 253
+Complimentary genetics, CF 165-66 
+	
+table, CF 166, 238
+Composure, SR5 152
+Compulsion power, SR5 395
+Compulsive, RF 158
+Computer(s), SR5 41, 144, 226
+	
+illiterate, RF 153
+	
+working together, DT 60
+Con, SR5 138
+	
+fanatic, RF 185
+	
+modifiers, SR5 140
+	
+using, RF 178
+Concealability, RG 59 
+	
+modifier, SR5 417, 420
+Concealable holster, SR5 431
+Concealed quick-draw holster, RG 51
+Concealment, RG 95 
+	
+power, SR5 395
+Concentration, toxin, SR5 409
+Condition monitor, SR5 52, 199
+	
+exceeding, SR5 209
+	
+grunts, SR5 379
+Confederation of American States (CAS), 
+	
+RF 66;  SG 13, 23, 26-27, 74; SR5 25
+	
+AI, Monads citizenship in, CF 221
+	
+details, RF 66
+	
+normal in, CF 206
+	
+tour of duty, RF 83 
+Configuration program, SR5 245
+Confuse pilot, R5 30
+Confusion power, SR5 290, 395
+Conjuring, SR5 153, 299-300
+	
+geas, SG 207
+	
+reckless, SG 192-93
+Connection rating table, SR5 387
+Conspirational societies, SG 56-57
+Constrictor’s crush, RG 137
+Contact toxins, SR5 408
+Contacts, RF 172; SG 22-23; SR5 27-28, 
+	
+55, 390-92
+	
+age, RF 179
+	
+burning bridges, RF 179
+	
+connection, SR5 386
+	
+cost, RF 173-75
+	
+cutting a deal, RF 175
+	
+favor for a friend, SR5 389-90
+	
+favors, SR5 388-89
+	
+fencing and, SR5 419
+	
+gaining chips, RF 176
+	
+gear availability and, SR5 418
+	
+gender, RF 179
+	
+glitches, SR5 389
+	
+hobbies/vices, RF 180
+	
+legwork, SR5 387-88
+	
+loyalty, SR5 387
+	
+maintaining relations, RF 178
+	
+memory test, RF 179
+	
+mental quirks, RF 181
+	
+metatype, RF 179
+	
+networking, SR5 388
+	
+options, group or organization, RF 176-77
+	
+organizational, RF 177
+	
+personal life, RF 181
+	
+personality generator, RF 179
+	
+physical quirks, RF 181
+	
+preferred payment type, RF 180
+	
+relationship nature, RF 178
+	
+reputation and, RF 178-79
+	
+samples, RF 182-95
+	
+skills, RF 180
+	
+stats, RF 180
+	
+swag, SR5 388
+	
+triggers, SG 219
+	
+types, RF 172-73
+	
+using, SR5 388
+	
+verbal quirks, RF 181
+Contacts, eye, SR5 443
+Containment systems, SR5 366
+Contaminate, DT 165
+Contracted magical security, SR5 361
+Contractual ritual, SG 122, 126, 129-30, 136
+Contrax, CF 176
+Control actions, SG 141
+	
+animal, SG 115
+	
+pack, SG 115
+	
+spell, SR5 292
+Control rig, SR5 215, 266, 452
+	
+augmentation, SR5 266
+	
+booster, CF 147
+	
+optimization, CF 165
+Control thoughts spell, SR5 293
+Control vehicle, R5 175
+Control weapon mount, R5 163
+Convenience stores, SR5 41
+Convergence, DT 152; SR5 231, 232
+Cool resolve, SG 169
+Cookie power, SR5 256-57
+Cooperative, The, DT 37-38
+Core packs, RF 228
+Coriolis, CF 25, 48
+Corp, SR5 14
+	
+drone, RF 68
+Corpcandy, CF 180
+Corporate, RF 77
+	
+administrator, RF 185
+Court, CF 213-14; SR5 22
+	
+education, RF 69
+	
+espionage, DT 171
+	
+lore stores, SR5 276
+	
+-owned domicile, RF 224-25
+	
+research, CF 21-22 
+	
+Rorschach test, DT 175
+	
+scrip, RF 173, 174
+	
+security, SR5 382
+	
+societies, SG 60-65
+	
+sponsorship, DT 78-81
+	
+wageslave, RF 186
+Corporations, RF 42 
+	
+magic and, SG 17-18
+Corps, RF 12-13; SR5 30-32
+Corpsec vehicles, R5 66-77
+Corpus Hermeticum, SG 128
+Corrective gene therapy, CF 156
+Corrode spell, SG 102
+Corrosive secretions, RF 143
+Corrosive spit, RF 113; SR5 395
+Corrupter, DT 151
+Corruption, SG 87
+	
+fighting, DT 172 
+	
+sites, SG 87
+Cortex bomb, SR5 452
+Corsair 
+	
+Elysium, R5 85
+	
+Panther, R5 85-87
+	
+Trident, R5 87-88
+Cosmetic alteration/modification, 
+	
+R5 169-71;  CF 158
+	
+table, R5 171
+Cosmetic bioware, CF 109-11 
+	
+table, CF 111, 231
+Cosmetic cyberware, CF 72-74 
+	
+table, CF 74
+Cosmetic modifications, CF 99-100
+Cosmetic surgery, CF 72-73, 74
+Cost, SR5 417
+	
+modifiers, SR5 375, 376
+Cougar fineblades, RG 20
+Counseling, CF 44
+Counter peal, RG 99
+Counterfeit gear, RG 197
+Countermeasures, SR5 440-41
+Counterspelling, SR5 142, 278, 
+	
+294-95, 317, 319-20
+Counterstrike, RG 137, 142; SG 170
+Courage, RF 24
+Courier sprite, SR5 258, 259
+Court, Miles, DT 10
+Cover, RG 95; SR5 190, 356-57
+	
+take, SR5 166
+Covert operations, RF 77
+Cowboy way, RG 133-34
+Coyote, RF 186
+Crack sprite, SR5 258, 259
+Cracker Underground, DT 38-39
+Cracking, SR5 153
+Cracking the Bones, SG 74
+Cram, SR5 411
+Cramped area, SR5 374
+Cramped quarters, RF 225
+Crank, SG 109-10
+Crash(es), DT 57; SR5 201-2
+	
+IC, SR5 248
+	
+program, SR5 238
+Crash 2.0, DT 131-32
+CrashCart, CF 26, 29, 102; SR5 43
+	
+MediCart, R5 142-43
+Crazy Ivan, R5 175
+Create ally spirit, SG 127
+Creature of comfort, RF 153
+Cred, SR5 14
+Credit, SR5 442
+	
+account, SR5 442
+Credsticks, SR5 442, 443
+Creeping featuritis, DT 29
+Crime scene, DT 173
+Crime syndicates, CF 220
+Criminal(s), RG 97-98 
+	
+penalties, illegal possession 
+	
+	
+of explosives, RG 172
+Criminal Syndicate campaign, SR5 355
+Crimson Orchid, CF 184-85
+Crimson Sky suit, RG 58
+Cripple, SG 131
+Critical glitch, SR5 45-46, 48
+Critical power, SR5 394
+Critical strike, SR5 309
+Critter(s), SR5 361-62, 392-93
+	
+attributes and skills, SR5 393
+	
+combat, SR5 402
+	
+dracoforms, SR5 406-8
+	
+form, SG 118-19
+	
+movement, SR5 393-94
+	
+mundane, SR5 402-3
+	
+powers, SR5 394-401
+	
+powers, new, RF 143
+	
+spook, RF 120
+	
+weaknesses, SR5 401-2
+Crooked house, DT 141
+Cross Applied Technologies, SG 64
+Cross Biomed R&D site, DT 100
+Crossbows, SR5 183, 424
+	
+table, RG 203
+Crossfire, RG 100
+Croteau, Raymond, RF 169
+Crowbar, SR5 447
+Crush block, CF 190
+Crushing jaws, RG 137
+Cryo tolerance, CF 163
+Cryptesthesia, SG 108
+CS gas, SR5 409-10
+Cube, The (Tokyo), RF 227
+Cultured bioware, CF 118-20; SR5 460-61
+	
+table, CF 231
+Cure disease spell, SR5 288
+Curiosity killed the cat, DT 46
+Currency, SR5 39
+Curse, SG 127; SR5 297
+Cuspy, DT 29, 30
+Custom fit, RG 59
+Custom fit (stack), RG 59
+Custom protection, RG 59
+Customization, cyberlimbs, SR5 456
+Customized drone, R5 125
+Customized drugs
+	
+cost per dose table, CF 192
+	
+example, CF 192
+Cut-off, R5 175-76; SR5 204
+Cutters, CF 155
+Cutting charges, RG 192
+Cyber 
+	
+genitalia, CF 73, 74
+	
+holster, SR5457
+	
+melee weapons, SR5 458
+	
+packs, RF 238-44
+	
+singularity seeker, CF 54
+	
+solutions, DT 54
+Cyberarm gyromount, SR5 456
+Cyberarm slide, SR5 456-57
+Cybercombat, SR5 144, 226
+Cyberdarwinists, DT 144, 164
+Cyberdeck(s), DT 11, 16, 60; SR5 53, 227, 439
+	
+configuration, SR5 227
+472    shadowrun, fifth edition master index >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF page 490 =====
+	
+classic pack/table, RF 229-30
+	
+path of, RF 22-25
+	
+way of, RG 132
+Samuvani Criscraft Otter, SR5 464
+San Onofre Irradiated Zone, RG 154
+Sangre y acero, RG 133
+São Paulo district, DT 90
+Sap, SR5 422
+Sapience, SR5 400
+Sapient Bio-Integrated Lifeforms (SBILs), CF 213
+Sapper, DT 151
+Sarariman, SR5 15
+Sasquatch, SR5 406
+Satellite link, R5 168; SR5 439
+Satori, SG 141
+Satyr, RF 92
+	
+legs, RF 118
+Savalette Guardian pistol, RG 33
+Savior medkit, CF 154
+Scaffolding control, DT 109, 115
+Scales, RF 121
+Scanners, SR5 364-65
+Scarlet Bliss, CF 184-85
+Scatter, SR5 182
+	
+diagram, SR5 182
+Scavenging parts, R5 29
+Scene(s), SR5 335
+	
+relocation, SR5 350-51
+	
+removal, SR5 351
+	
+replacement, SR5 351
+	
+types, SR5 335-37
+Scent glands, RF 121-22
+SCK Model 100, SR5 428
+Schletz, Scott, CF 127; DT 123; RF 7; R5 111
+School of hard knocks, RF 149
+Schools, undergraduate, SG 15-16
+Schwartzkopf dragon, SG 67
+SCIRE system, DT 137
+Scorched, SR5 83
+Scorched physical side effects table, SR5 83
+Scottish Fringe Toxic Zone, RG 155
+Scottish Irradiated Zone, RG 155
+Scout spirit, SG 98
+Scramble IC, SR5 248
+Screamer, SR5 15
+	
+arrowhead, RG 24
+Scrip, RF 173, 174; SR5 15
+Script kiddie, RF 192
+Sculpting, SR5 216
+Se Liga Macumba, SG 23
+Sea, SR5 323
+Sea Dragon’s Lairs, RG 160-61
+Sea Ray Cottonmouth, R5 80-81
+Seal skin, CF 116
+SEAL Team 6, SR5 384
+Sealer, CF 153
+Sealing, ritual spell, SR5296
+Search 
+	
+modifiers table, SR5 401
+	
+power, SR5 400
+	
+program, DT 56
+Searchlight, R5 171
+Sears Tower, SG 29
+Seating, SR5 461
+Seattle, DT 10, 25; RF 51; RG 155; 
+	
+SG 23, 57-58, 60; SR5 25, 419
+	
+Metroplex, SG 76
+	
+Metroplex Administration Host, DT 68
+Second chance, SR5 56
+Second skin, RG 63
+Secondary manual controls, R5 156
+Secondary propulsion, R5 156 
+	
+adjustments, R5 157
+	
+modes, R5 157
+	
+rotor, R5 157
+	
+tracked, R5 157
+	
+walker, R5 157
+Secrecy, SG 130
+Secret Research Station, SR5 369
+Secret societies, RF 40-41 SG 65-67
+Secrets of the Initiates, SG 5, 138
+Secured Matrix site, SR5 28
+SecureTech PPP. RG 70
+Security, RF 215, 219
+	
+armor, RG 67-68
+	
+companies, RG 97
+	
+critter references, SR5 362
+	
+devices, SR5 362-66, 446-47
+	
+guard, RF 77
+Matrix, DT 85-86
+	
+response, SR5 247
+	
+spacesuit, RG 81-82
+	
+spiders, DT 78, 104
+	
+tags, SR5 440
+	
+technomancer, DT 76
+	
+troubleshooter, DT 105
+	
+vehicles table, R5 187
+Security control, DT 115
+	
+node, DT 109
+Seducer, SR5 323
+Seduction, using, RF 178
+Seelie court, SG 14
+Select sound filter, SR5 445, 454
+Selective hearing, CF 160
+Selective serotonin re-uptake inhibitors 
+(SSRIs), CF 184
+Self control, RG 12
+Self power, SR5 394
+Self-destruct, DT 65
+Semi-Automatic (SA), SR5 178-79
+	
+fire mode, SR5 165
+Semi-Automatic Burst (SB), SR5 167, 179
+Sense of direction, RF 149
+Sense link, SG 198
+	
+ally spirit, SG 202
+Sensei, RF 149
+Sensing, SG 155
+Sensitive skin, CF 110
+Sensitive system, SR5 83
+Sensor(s), SR5 364-65, 445, 446
+	
+array, SR5 445
+	
+attacks, SR5 184
+	
+drone, R5 123
+	
+functions, SR5 446
+	
+housings, SR5 445, 446
+	
+tags, SR5 440
+	
+targeting, SR5 184
+	
+upgrade, AI, DT 151; R5 168
+	
+use of, SR5 202
+	
+vehicle, SR5 199
+Sensor defense table, SR5 184
+Sensory overload, CF 42, 51; RF 159
+Seoulpa Rings, RF 206
+Seppuku, SG 61
+Sequencer, SR5 448
+Seraphim, SR5 384
+Sergevnay, Alexei, CF 215
+Service(s), RF 173-74, 215016; SG 130
+	
+buying table, RF 254
+	
+possession and, SG 197
+	
+sector, DT 88-89
+	
+spirit, SR5 302, 304
+Servile, SG 199
+Setae, RF 118
+Seven-7, SR5 410
+Severe variance, DT 117-18
+Sèvis Gine, SG 20
+Sex change, CF 107
+Sexuality, SR5 41-42, 333
+Sha effect, SG 35
+Shack ram, RG 104
+Shade, CF 187; SG 92
+Shadow(s), SR5 23-24, 294
+	
+block, RG 125-26, 140, 142
+	
+cloak, SG 198
+	
+magic in, SG 21-23
+	
+rigging, R5 15-19
+	
+rituals, SG 5, 120-21
+	
+services, RF 173 
+	
+slang, SR5 14
+	
+spirits, SG 91-92, 189
+	
+touch, SH 158
+	
+working, RF 80; RG 11-12 
+Shadowrun
+	
+with commlink, SR5 223
+	
+defined, SR5 1
+	
+hacking, DT 34
+	
+three worlds of, SR5 348
+Shadowrunner(s), RG 97; SR5 24
+	
+background, RF 11
+	
+codes and, RF 11
+	
+construction kits, RF 11
+	
+gear packs, RF 11
+	
+home and, RF 11
+	
+Infected and, RF 11, 130-31
+	
+jobs, RF 11, 80
+	
+life of, SR5 14
+	
+mental illness field guide, CF 40-42
+	
+noise and, DT 59
+	
+sample modular generation, RF 84-86
+Shadowscanner, CF 9
+Shaman(s), SG 12-13, 15
+	
+code of, RF 26-27 
+	
+insect, SG 94
+Shake things up a bit, R5 177
+Shake up, RG 112; SR5 196
+Shake, rattle and boom shot, RG 117
+Shake, rattle and pop shot, RG 117
+Shaman, SR5 279-80
+Shamanic tradition, SR5 280
+Shape material, SG 118
+Shapechange, SG 118
+Shapeshifter(s), RF 100-101 
+	
+attribute table, RF 105
+	
+creating, RF 102-3
+	
+culture, RF 55-56
+	
+metahuman form cost, RF 108
+Sharia law, SG 14
+Sharpshooter, RG 127
+Shark, SR5 323-24, 403
+Sharkskin, CF 116
+Shasta Shamans, SG 68, 69, 70
+Shatter, SR5 284
+Shattershield, SG 106
+Sheba, SR5 27
+Shedim, SG 93
+Shell, SR5 269
+	
+program, SR5 246
+Shenanigans, DT 172
+Sheng effect, SG 36
+Shiawase Corporation, CF 77;  
+	
+SR5 22, 26, 32, 33
+	
+biotech, CF 100-101
+	
+Blazer, RG 50
+	
+Central, DT 21
+	
+citizenship moratorium in, CF 221
+	
+Cyber-4, DT 62-63, 64
+	
+demiGOD in, DT 74-75
+	
+drones and, R5 122
+	
+head cases and, CF 17
+	
+I-Doll, R5 148
+	
+Johnson (Mr.) from, RF 205
+	
+Kacho Bundle, CF 93
+	
+Kammushi, R5 155; SR5 465
+	
+Monads grid messages, CF 217
+	
+normal in, CF 207
+	
+Puzzler pistols, RG 31
+Shiawase Fashion, RG 58, 60
+Shibanokuji, Yuri, SR5 30
+Shibanojuki Free Fall Resort, RG 166
+Shielding, SG 151; SR5 326
+Shields, SR5 438
+Shifter, CF 153
+Shin hits, RG 114
+Shinto tradition, SG 48-49
+Shiny: The Latest Chrome, CF 62
+Shiva arms, RF 118
+Shock
+	
+frills, SR5 438
+	
+gloves, SR5 423
+	
+hand, SR5 458
+	
+pad, SR5 432
+	
+weave, RG 84
+Shocker, DT 76
+Shock&Awe block, CF 191
+ShockNet, RG 28
+Shofar, SG 216
+Shop, SR5 443
+Shop kid, R5 35
+Shoppazulu, CF 80 
+Shopping, SR5 41
+Shooting 
+	
+bracer, RG 28
+	
+range, RF 223
+Shopsofts, SR5 441-42
+Short-range weapons, RG 13
+Shot(s)
+	
+called, SR5 178, 187, 195
+	
+spread, medium/large, RG 121-22
+	
+Shotguns, RG 40-42; SR5 180-81, 429
+	
+assault rifle, RG 37
+	
+table, RG 207
+Shotozumi, Oyabun Hanzo, SR5 33
+Shotozumi-rengo, SR5 33
+Shoulder hits, RG 114
+Shove move, RG 123
+Showdown, DT 174
+Shredded flesh shot, RG 117
+Shredder, DT 56
+Shuffle, CF 157
+Shunt, DT 160
+Shuriken, SR5 181, 424
+Signal scrub, SR5 269
+	
+program, SR5 245
+Signals, jam, SR5 240
+Signature, RF 159
+	
+masking, R5 168
+	
+resonance, SR5 250
+	
+table, SR5 184
+Sikorsky-Bell Microskimmer, SR5 465
+Silence, SR5 291-92
+Silence, SG 199
+Silencer/suppressor, SR5 432
+Silken storm, RG 140
+Silky skin, CF 110-11
+Silver Pinnacle, RG 166
+Silver-tonged devil, SG 159
+Sim Module, SR5 438
+Simple actions, SR5 164-67, 202-3
+Simple object use, SR5 202
+Simrig, SR5 216, 439, 452
+Sim-sational pack/table, RF 241
+Simsense, CF 67; SR5 15, 216
+Vertigo, SR5 83
+SIN (system identification number), 
+	
+SR5 15, 24, 366-68
+	
+AIs, DT 133
+Single sensor, SR5 445
+Single shot (SS), SR5 176, 178
+	
+fire mode, SR5 165
+Single-sense illusion, SR5 290
+SINless, SR5 15, 24
+SINner, SR5 15, 24
+SINner (layered), SR5 84-85
+Sioux Nation, RF 67; SG 35, 49-50; SR5 25
+Sioux Wildcats, SR5 384
+Sip Tidt, SR5 319
+Siphon, DT 165
+Sisterhood of Ariadne, SG 76-77
+Situational modifiers, SR5 176-78
+	
+table, SR5 176
+Sixth sense, RG 126 
+Sixth World
+	
+Awakened in, SG 5
+	
+language in, SR5 150
+	
+magic in, SG 12, 41-53
+	
+metasapients, RF 98-101
+	
+sapients, RF 88-98
+	
+start of, SR5 20
+Size, weapon mount, R5 163
+Skate(s), CF 88, 89; SG 174
+Skeletal pneumaticity, CF 161
+Skill(s), SR5 45
+	
+active, SR5 91, 92
+	
+autosofts, R5 127
+	
+choosing, SR5 91, 92
+	
+defaulting, SR5 130
+	
+groups, SR5 129, 153
+	
+groups and individual skills, SR5 90
+	
+Karma advancement table for, SR5 107
+	
+knowledge, SR5 91, 92
+	
+language, SR5 91, 92
+	
+numbers, SR5 88-89
+	
+ratings, SR5 129, 131
+	
+restricted, SR5 89
+	
+substituting, SR5 130
+	
+tables, SR5 105-6
+	
+types of, SR5 128
+	
+use of, SR5 128, 167
+Skilljack, CF 78; SR5 452
+Skillsofts, SR5 442
+	
+networks table, CF 78
+	
+technology, wireless, CF 77-78
+Skillwires, CF 78; RG 136; SR5 455
+Skimmers, CF 88, 89
+Skin 
+	
+artist, SG 157
+	
+pigmentation, CF 111
+	
+pocket, SR5 459
+	
+toner, CF 74
+Skinlink, DT 59
+Skullcracking, RG 15-16
+Skyguide drone, R% 126
+Slab, CF 183
+Slamm-O!, DT 26; RF 88
+Slap patches, SR5 450-51
+>> SHADOWRUN, FIFTH EDITION MASTER INDEX <<
+<< shadowrun, fifth edition master index    485
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf PDF page 493 =====
+Throwbacks, SR5 232, 421
+Through and through—and into shot, RG 117-18
+Throw person, RG 123, 141, 142
+Throwing
+	
+knife, SR5 181, 424
+Throwing weapons, SR5 132, 181, 423, 424
+	
+in space, RG 164
+	
+table, 204
+Thugs, SR5 381
+	
+life, RF 26
+Thunder strike, RG 141
+Thunderbird, SR5 324
+Thundercloud 
+Morgan, R5 52-53
+Mustang, R5 46-47
+Ti khao, RG 141
+Ticker, DT 56
+Tiffani Élégance shooting bracers, RG 28
+Tiffani-Defiance Protector taser, RG 29
+Time, passage of, SR5 49
+Timer detonator, RG 195-96
+Timer method, scenario switching, DT 176-77
+Tír Ghosts, SR5 384
+Tír na nÓg, RF 49, 67; SG 13-14, 
+	
+26, 31, 37, 47;  RG 90
+Tír Tairngire, DT 24; RF 49, 67; 
+	
+RG 90; SR5 25, 40
+	
+blocking Monads citizenship, CF 221
+	
+details, RF 67
+	
+tour of duty, RF 82-83
+Tire(s) 
+	
+modifications, drone, R5 126
+	
+special, R5 153
+Tirtlenet, DT 24
+TLE-X, CF 59
+TNT, RG 194
+Toadstone, CF 186
+Toggling, SR5 421
+Tomahawk, RG 25
+Toms, Malik, R5 7
+Tongkang Gala Trinity, R5 155
+Too much data, R5 34
+Too pretty to hit, RG 127
+Tools, R5 30; RG 88, 102-5; SR5 443
+	
+buying table, RF 254 
+	
+cleansers, SG 230
+	
+kit, R5 153
+Toolbox, SR5 269
+	
+program, SR5 245
+Tooth compartment, SR5 452
+Totem form, SG 157
+Touch
+	
+link, CF 85, 86
+	
+power, SR5 394
+	
+spells, SR5 306
+Touch sensors, R5 169
+Touch-only attack, RG 124; SR5 187
+Tough as nails, RF 150
+Tough and targeted, CF 60
+Toughness, SR5 77
+Tourist pack/table, RF 239
+Toxic adepts, SG 85-86
+Toxic magic, SG 80-81, 84-87
+Toxic mentor(s), SG 69 
+	
+spirits, SG 85
+Toxic spirits, SG 87-89
+Toxic strike, SG 176
+Toxic wave, SR5 283
+Toxin(s), SR5 408, 409-10
+	
+costs, SR5 409
+	
+extraction of, SR5 460
+	
+resistance to, SR5 77
+	
+using, SR5 409
+Toxin and drug protection table, SR5 408
+Toxin resistance test, SR5 408
+Toyota 
+Gopher, R5 155; SR5 463
+Talon, R5 55-56
+Traceless walk, SR5 311
+Tracer rounds, SR5 434
+Tracheal filter, SR5 460
+Track(ing), SR5 134
+IC, SR5 249
+	
+program, SR5 246
+	
+strip, R5 153
+	
+using, SR5 137
+Trackback action, DT 179
+Tracked propulsion, R5 157
+Tracker ammo, RG 55
+Tractor/trailers table, R5 186
+Trade school. RF 75, 76; R5 35
+Training rate table, SR5 105, 107
+Trainwreck, RF 84-86
+Tranq 
+	
+darter pack/table, RF 234
+	
+patch, SR5 451
+Trance, CF 186
+Transcendent grid, SR5 253
+Transference, CF 53
+Transgenic alteration, CF 164-65 
+	
+table, CF 165
+Transgenics, CF 160-62, 166-67 
+	
+tables, CF 162, 167, 238
+Transitions, SR5 337-38
+Translate, SG 106
+Translate-ear, CF 75
+Transmit phrase, SR5 164
+Trans-Oceanic Mining host, DT 91
+Trans-Polar Aleut Nation, RF 67
+Transponder-embedded keys, SR5 363
+Transportation, R5 19-23; SR5 43
+Transporter, SR5 75
+TransUnion Intercorp Searchnet, SG 19
+Transys Steed, R5 140-41
+Trap ward,  SG 137
+Traps, SR5 358
+Trauma 
+	
+control system, CF 148
+	
+damper, CF 119
+	
+patch, SR5 451
+Traveler lifestyle, RF 217, 218
+Traveling overwatch, RG 102
+Treading water, SR5 137
+Tremor reducer, CF 119-20
+Triads, RF 25, 206; SR5 33, 34, 383
+	
+Johnson (Mr.) from, RF 208
+Trick shot, RG 102; SR5 196
+Tricking, RG 141
+Trickster spirits, SG 189
+Trid
+	
+entertainment illusion, SR5 290-91
+	
+phantasm, SR5 291
+	
+pirate, RF 195
+	
+projection, SR5 439
+	
+stunt driver, R5 35
+Trideo, DT 17-18;  SR5 15, 40
+Trimline, CF 176
+Trip beams, SR5 364-65
+Tripchips, SR5 413
+Tripod, SR5 433
+Tripoli hot zone, RG 153-54
+Trodes,  DT 18; SR5 216, 439
+Trog, SR5 15
+Trojan Nanites, CF 144
+Troll(s), RF 52, 93-95; SR5 34, 50-51
+	
+characters and, RF 53
+	
+eyes, CF 115
+	
+finger popper shot, RG 118
+	
+reduction, CF 108
+	
+society and, RF 53
+	
+street samurai, SR5 110
+Troll Republic, RF 51, 52-53
+Tropes, DT 170
+Trucks, R5 20; SR5 463-64
+	
+table, R5 185
+True Hackers, Lusers & Dirtballs, DT 26
+True names, SG 203
+TrueHacker, DT 29, 30
+Trust, RF 17
+Trust fund, RF 151
+Trustworthy, RF 151
+Tsimshian Protectorate, RG 155; SR5 25
+Tsung, Sally, SR5 24
+Tunisia, SR5 27
+Turkestan Border, RG 154
+Turkish archery, RG 134
+Turn to goo, SG 119
+Turning Lead into Nuyen, SG 208
+Tusk(s), CF 121-22
+Tusker, SR5 15
+	
+toughskin pack/table, RF 237
+Tutorsofts, SR5 443
+Twist(s), SR5 343
+	
+table, SR5 343
+Twisted arts, SG 87
+Twisted way, SG 84-85
+Two-headed snake, RG 141
+Two-weapon 
+	
+attack, RG 141
+	
+defense, RG 141
+Type-O transplants, CF 98, 194-95
+U
+Ultimate Fighting Championship, SG 64
+Ultimax 70 machine pistol, RG 35
+Ultra-glide industrial lubricant, RG 104
+Ultramarine Kingfisher, R5 92
+Ultramax HMG-2, RG 45
+Ultramax MMG, RG  44
+Ultrasound, SR5 446
+	
+sensor, SR5 452
+Ulysses coat, RG 58
+Unable to speak, SG 220
+Unarmed situations
+	
+attack, SR5 167
+	
+combat, SR5 132
+Unbound spirit services, SR5 302
+Uncanny healer, CF 56
+Uncertainty, DT 160
+Unclassifiable, RF 16
+Uncouth, SR5 85
+Undecided way, SG 156
+Underbarrel 
+	
+bola launcher, RG 53
+	
+chainsaw, RG 53
+	
+flamethrower, RG 53
+	
+grapple gun, RG 53
+	
+grenade launcher, RG 53
+	
+weight, RG 53
+Undercover cop, RF 167
+Undergraduate schools, SG 15-16 
+Underwater 
+	
+combat, RG 158
+	
+habitats, RG 160-61
+	
+hazards, RG 156-58
+	
+magic, RG 158-59
+	
+perception modifiers, RG 157
+	
+protection, RG 79-80
+	
+visibility table, RG 157
+	
+vision, RF 118
+Underworld, DT 175-76
+Uneducated, SR5 87
+	
+critter, SR5 401
+Unexplained Genetic Expression (UGE), 
+SR5 20
+United Canadian and American States 
+(UCAS), RF 51, 66 RG 155; SG 26-27, 29, 33, 
+68, 74; SR5 21, 24-25, 38, 419
+	
+details, RF 66
+Monads, AI citizenship, CF 212
+normal in, CF 206
+	
+Online, DT 24
+	
+tour of duty, RF 83
+United Kingdom, RG 155; SR5 27
+United Netherlands, RG 155
+United Talismongers Association, SG 58
+Universal data connection, SR5 232
+Universal environmental protection, RG 75
+Universal Hovercraft Minnesota, R5 65
+Universal mirror material, RG 84, 86
+Universal Omnitech, CF 71, 106-7
+	
+head cases, CF 17
+Universal sealant, CF 154-55
+Universities, SG 16-17; SR5 35
+University of Washington, SR5 35
+Unknown, SG 81-84
+UnlimiTech, CF 202
+Unseen arts, SG 149-50
+Unseen beings theory, SG 39-40
+Unsteady Hands, SR5 87
+Unusual hair, RF 122
+Unwanted cerebral revision
+	
+legal ramifications of, CF 218-19
+	
+legal ramifications of copies, CF 219
+Up the ante shot, RG 118
+Up close and personal pack/table, RF 230
+Upper arm hits, RG 114
+Upper BTL, CF 192
+Urban brawler, CF 61
+Urban Explorer jumpsuit, SR5 437
+Ursine shapeshifter, RF 100-101
+Use 
+	
+sensors, R5 177
+	
+simple device, R5 177
+Used car salesman, RF 195
+Used goods (specific item), RF 222
+Usenet groups, SG 23
+UV host, DT 161
+	
+actions in, DT 161-62
+UV lighting, RF 134
+Uzi IV, SR5 428
+V
+V/STOL, R5 103-6
+Vacation-on-a-ship pack/table, RF 240
+Valentino, Marco “Red Sauce,” CF 38
+Valkyrie module, R5 166
+Vampire, RF 125-31, 140; SR5 406
+Vanguard spirits, SG 189
+Vans, SR5 463-64
+	
+table, R5 185
+Variance, DT 117-18
+sample, DT 117
+Varma, Adi, SG 46
+Vashon Island, RG 58, 60, 61
+Vasocon, CF 162
+Vatjob, SR5 15
+	
+packs, RF 242
+Vector, SR5 408
+Vectored Signal Filter, DT 65
+Vegas Technomancer Massacre, DT 72
+Vehicle(s), SR5 461, 463
+actions, R5 174-77
+assembly/disassembly, R5 163
+body modifications, R5 163-66
+body modifications/table, R5 163-67
+called shot on, SR5 205
+chameleon coating,R5 163-64
+chase example, R5 176
+combat, DT 156-57; SR5 198-99, 202
+combat example, R5 180, 182
+control, R5 174; SR5 203
+cosmetic modifications, R5 169-71
+damage, SR5 205
+damage threshold, RG 179
+disabling, RG 189
+drone support, RG 93
+ejection seats, R5 164
+electronic modifications/table, R5 166-69
+empathy, RF 151
+equipment/table, R5 152-53, 154
+erasing explosive fingerprints, RG 189
+	
+explosive and, RG 185-89
+	
+extra entry/exit points, R5 164
+	
+extreme environment modification, R5 164
+	
+fire weapon, SR5 203
+	
+hits, RG 115
+	
+increased seating, R5 164
+	
+life support, R5 164
+	
+make test for, SR5 203
+	
+mask, SG 113
+	
+mechanical arm, R5 165
+	
+modifications, SR5 461
+	
+modifiers, SR5 201
+	
+-mounted weapons, SR5 176
+	
+nanomaintenance system, R5 165 
+	
+packs, RF 247-48
+	
+range, R5 174
+	
+realistic features, R5 165
+	
+similar models of, SR5 462
+	
+skills, SR5 146-47
+	
+smuggling compartment, R5 165
+	
+special equipment, R5 165-66
+	
+speed, SR5 199, 200
+	
+speed table, SR5 203
+	
+stats, SR5 199
+	
+suppressive fire and, SR5 200
+	
+tag eraser, R5 171
+	
+test(s), R5 177; SR5 199
+	
+test modifier table, SR5 201
+	
+test threshold table, SR5 199
+Valkyrie module, R5 166
+	
+weapon fire, SR5 167
+	
+winch, R5 166
+	
+workshop, R5 166
+Vehicle modification, R5 151-52
+	
+adding example, R5 152
+	
+core, R5 155
+	
+parts and plan, R5 151
+	
+power train, R5 154
+	
+protection, R5 159
+	
+removing, R5 152
+	
+skill, R5 151
+	
+slots, R5 151-52
+>> SHADOWRUN, FIFTH EDITION MASTER INDEX <<
+488    shadowrun, fifth edition master index >>

@@ -1,0 +1,3895 @@
+
+
+===== PAGE 1 =====
+™
+
+
+===== PAGE 2 =====
+>> RUN & GUN <<
+TABLE OF CONTENTS
+CATSPAW	
+6
+FIGHT FOR YOUR LIFE	
+10
+WHAT YOU DON’T KNOW KILLS YOU	
+11
+Sensei’s Thoughts On: Fighting	
+12
+On Weapons	
+13
+On Armor and Protection	
+14
+On Tactics and teamwork	
+15
+On Manhandling and Skullcracking 	
+15
+On Things That Go Boom	
+16
+On ‘Sneaky Bastards’	
+16
+Final Thoughts	
+17
+ARSENAL	
+	
+18
+BLADES	
+18
+Highland Forge Claymore	
+18
+Horizon-Flynn Rapier	
+18
+Victorinox Memory Blade	
+19
+Ares “One” Monosword	
+19
+Cougar Fineblades	
+20
+CLUBS	
+20
+Nemesis Arms Maul Stun Staff	
+20
+EXOTIC MELEE WEAPONS	
+20
+Garrote	
+20
+Ares “Queen of Hearts” Monofilament Garrote	
+20
+Bullwhip	
+20
+Ash Arms Combat Chainsaw	
+21
+Ash Arms Monofilament Chainsaw	
+21
+IMPROVISED MELEE WEAPONS	
+22
+RANGED WEAPONS	
+22
+Aquadyne Shark-XS Harpoon Gun	
+22
+Ranger Sliver Pistol Crossbow	
+23
+Ares Giantslayer Slingshot	
+23
+ARROWHEADS	
+23
+Barbed Head	
+23
+Explosive Head	
+23
+Hammerhead	
+24
+Incendiary Head	
+24
+Screamer Head	
+24
+Stick ‘n’ Shock	
+24
+Boomerang	
+24
+Harpoon/Javelin	
+24
+Net	
+24
+Cavalier Arms Urban Tribe Tomahawk	
+25
+EXOTIC RANGED WEAPONS	
+26
+Ares Screech Sonic Rifle	
+26
+Blowgun	
+26
+Bolas	
+26
+Nemesis Arms Suruchin Monofilament Bolas	
+26
+FN-AAL Gyrojet Pistol	
+26
+Mortimer of London “Trafalger” Gun Cane	
+27
+SA Retiarus Net Gun	
+28
+Tiffani Élégance Shooting Bracers	
+28
+TASERS	
+29
+Cavalier SafeGuard	
+29
+Tiffani-Defiance Protector	
+29
+HOLD-OUTS	
+30
+Fichetti Tiffani Self-Defender 2075	
+30
+LIGHT PISTOLS	
+30
+Fichetti Executive Action	
+30
+Shiawase Arms Puzzler	
+31
+Nitama Sporter	
+31
+HEAVY PISTOLS	
+32
+Cavalier Deputy	
+32
+PSK-3 Collapsible Heavy Pistol	
+32
+Savalette Guardian	
+33
+Onotari Arms Violator	
+33
+MACHINE PISTOLS	
+34
+PPSK-4 Collapsible Machine Pistol	
+34
+Onotari Arms Equalizer	
+34
+Ultimax 70	
+35
+SUBMACHINE GUNS	
+35
+Ares Executioner	
+35
+HK Urban Combat	
+36
+ASSAULT RIFLES	
+36
+AK-98	
+36
+Ares HVAR	
+37
+HK XM30	
+37
+Nitama Optimum II	
+38
+SNIPER RIFLES	
+38
+Terracotta Arms AM-47	
+38
+Onotari Arms JP-K50	
+39
+Pioneer 60	
+39
+Barret Model 122	
+40
+SHOTGUNS	
+40
+Auto-Assault 16 	
+40
+Mossberg AM-CMDT	
+41
+Franchi SPAS-24	
+41
+Remington 990	
+42
+MACHINE GUNS	
+42
+GE Vindicator Mini-Gun	
+42
+SA Nemesis	
+43
+FN MAG-5	
+43
+Ultimax MMG	
+44
+Ruhrmetall SF-20	
+44
+Ultimax HMG-2	
+45
+CANNONS/LAUNCHERS	
+45
+Ares Thunderstruck Gauss Rifle	
+45
+Ogre Hammer SWS Assault Cannon	
+46
+Ares Vigorous Assault Cannon	
+46
+Onotari Arms Ballista MML	
+46
+Mitsubishi Yakusoku MRL	
+47
+LASER WEAPONS	
+47
+Ares Redline	
+48
+Ares Lancer MP Laser	
+48
+Ares Archon Heavy MP Laser	
+49
+FLAMETHROWERS	
+49
+Shiawase Blazer	
+50
+WEAPON ACCESSORIES	
+50
+AMMO	
+54
+EX-Explosive	
+54
+Frangible	
+54
+Flare	
+55
+Tracker 	
+55
+Capsule	
+55
+ARMOR & PROTECTION	
+	
+56
+WHY WE WEAR IT	
+57
+HIGH-FASHION ARMOR CLOTHING	
+57
+Armanté	
+57
+Mortimer of London	
+58
+Vashon Island	
+58
+Zoé	
+61
+Executive Suite	
+61
+Heritage	
+61
+NightShade/Moonsilver	
+62
+Second Skin	
+63
+Ares Victory	
+63
+SPECIALTY ARMOR	
+65
+Form-Fitting Body Armor	
+65
+Hardened Mil-Spec Battle Armor  
+     (Light, Medium, Heavy)	
+66
+Security Armor (Light, Medium, Heavy)	
+67
+Bike Racing Armor	
+68
+Bunker Gear	
+69
+Riot Control Armor	
+69
+SWAT Armor	
+70
+SecureTech PPP	
+70
+Body Armor Bag	
+70
+Chain Mail	
+71
+Padded Leather Armor	
+72
+Ares FlaShield	
+72
+Murder Armor	
+72
+Forearm Guards	
+73
+Ballistic Mask	
+74
+Environmental Protection	
+74
+Universal	
+75
+Ghillie Suit	
+75
+Ares Armored Survivalist	
+75
+Heat	
+75
+Desert Suit	
+75
+Snake Mesh Socks	
+76
+Lack of Heat	
+76
+Coldsuit	
+76
+Polar Survival Suit	
+76
+Ares Arctic Forces Suit	
+77
+Ares Armored Coldsuit	
+78
+Ares Polar Sneak Suit	
+78
+The Great Blue Mystery	
+79
+Enclosed Breathing Helmet	
+79
+Full Face Mask	
+79
+Drysuit	
+79
+Diving Armor	
+80
+Arctic Diver Suit	
+80
+Space, the Moon, or Mars	
+80
+Evo HEL Suit	
+81
+Spacesuit	
+81
+Security Spacesuit	
+81
+Evo Armadillo Armored Space Suit	
+82
+Magnetic Boots	
+83
+Survival Bubble	
+83
+The Nasty Spots	
+83
+CUSTOMIZATIONS AND OPTIONS	
+84
+Auto-Injector	
+84
+Fresnel Fabric	
+84
+Pulse Weave	
+84
+Shock Weave	
+84
+Universal Mirror Material	
+84
+YNT SoftWeave Armor	
+84
+Radiation Shielding	
+84
+Ruthenium Polymer Coating	
+85
+Gel Packs	
+85
+Responsive Interface Gear (RIG)	
+85
+TACTICS & TOOLS	
+	
+88
+SIXTH WORLD COMBAT TACTICS	
+89
+What Came Before	
+89
+“Geek the Mage First”	
+89
+2    CONTENTS/CREDITS >>
+
+
+===== PAGE 3 =====
+>> RUN & GUN <<
+Warfare Gone Digital	
+90
+REALITIES OF TACTICAL TEAMWORK	
+91
+Building the Team	
+91
+Team Types	
+91
+Know Your Role	
+92
+Small Unit Tactics: Basics	
+94
+Mission	
+94
+Operations	
+94
+Maneuver Considerations	
+95
+Offense and Defense	
+95
+“By the Book”	
+96
+The Military	
+96
+Law Enforcement and Security	
+97
+Shadowrunners	
+97
+Criminals and Gangs	
+97
+APPLYING THE LESSONS	
+98
+Combat Teamwork	
+98
+Combat Maneuver Tests	
+98
+Combat Maneuvers	
+99
+Bounding Overwatch	
+99
+Counter Peal	
+99
+Crossfire	
+100
+Diamond Formation	
+100
+Dog Pile	
+100
+Dynamic Entry, standard	
+100
+Dynamic Entry,  
+“Chuck and Charge”	
+100
+Fire Shield	
+100
+Marching Fire	
+101
+Slicing the Pie	
+102
+Traveling Overwatch	
+102
+THE TOOLS OF THE TRADE	
+103
+Personal Integrated Tactical Network	
+104
+KILLSHOTS AND MORE	
+	
+106
+PUTTING THE HURT ON	
+107
+Options for Deadlier or Less Lethal Combat	
+107
+RG1: No Action Phase Attack Limit	
+107
+RG2: Target Size Modifiers 	
+108
+RG3: Movement Penalties by Speed	
+108
+RG4: Alternate Initiative 	
+108
+RG5: Putting Bullets Around Armor	
+109
+RG6: Damage for No Defense	
+110
+More Called Shots	
+110
+Ammo-Specific Called Shots	
+111
+Blast out of Hand	
+111
+Break Weapon	
+111
+Dirty Trick	
+111
+Disarm	
+111
+Entanglement	
+111
+Feint	
+111
+Knock Down	
+112
+Pin 	
+112
+Reversal	
+112
+Shake Up	
+112
+Splitting Damage	
+112
+Specific Target	
+112
+Trick Shot	
+112
+Location, Location, Location.	
+112
+Ankle	
+112
+Ear	
+112
+Eye	
+113
+Foot	
+113
+Forearm	
+113
+Genitals	
+113
+Gut	
+113
+Hand	
+113
+Hip	
+114
+Jaw	
+114
+Knee	
+114
+Neck	
+114
+Shin	
+114
+Shoulder/Upper Arm	
+114
+Sternum	
+114
+Thigh	
+115
+Vehicle	
+115
+Ammo Whammy!	
+115
+Bellringer	
+116
+Bulls-Eye Double-Tap/Burst	
+116
+Down the Gullet	
+116
+Extreme Intimidation! 	
+116
+Finger Popper	
+116
+Flame On!	
+116
+Flash Blind	
+116
+Here’s Muck in Your Eye! 	
+116
+Hit ‘em Where It Counts 	
+116
+Light ’em Up	
+116
+More Muck, Better Duck! 	
+117
+Nasty Finger Prick	
+117
+On Pins and Needles	
+117
+Ricochet Shot 	
+117
+Shake, Rattle, and BOOM!	
+117
+Shake, Rattle, and Pop!	
+117
+Shredded Flesh	
+117
+Spinner	
+117
+Tag!	
+117
+That Hit the Spot!	
+117
+Through and Through … and Into	
+117
+Troll Finger Popper	
+118
+Up the Ante	
+118
+Warning Shot	
+118
+More actions!	
+119
+Aimed Burst	
+119
+Ballestra	
+119
+Brain Blaster	
+119
+Clinch	
+119
+Charge Attack	
+120
+Double-Tap	
+120
+Escape	
+120
+Enhanced Suppression	
+120
+Evade	
+120
+Finishing Move	
+120
+Flechette Suppressive Fire	
+120
+Flying Kick	
+121
+Full Offense	
+121
+Half Sword	
+121
+Haymaker	
+121
+Herding	
+121
+Iaijutsu	
+122
+Interception	
+122
+Kip-Up	
+122
+Playing Possum	
+122
+Pouncing Dragon	
+122
+Pre-emptive Block	
+122
+Pre-emptive Dodge	
+122
+Pre-emptive Parry	
+122
+Push/Shove/Sacrifice Move	
+123
+Reading the Defense	
+123
+Subduing	
+123
+Throw Person	
+123
+Touch-Only Attack	
+124
+Interrupt Actions 	
+124
+Block	
+124
+Counterstrike	
+124
+Dive for Cover	
+124
+Dodge	
+124
+Full Defense	
+124
+Parry	
+124
+Reversal	
+124
+Right Back At Ya!	
+124
+Run for Your Life/Dive on the Grenade	
+125
+Sacrifice Throw	
+125
+Riposte	
+125
+Protecting the Principle	
+125
+Shadow Block	
+125
+Combat Edge	
+126
+Lucky Move	
+126
+Miracle Shot	
+126
+Lucky Duck	
+126
+Sixth Sense	
+126
+Lucky Cover	
+126
+NEW QUALITIES	
+127
+Positive Qualities	
+127
+Acrobatic Defender	
+127
+Agile Defender	
+127
+Brand Loyalty	
+127
+One Trick Pony	
+127
+Perceptive Defender 	
+127
+Sharpshooter	
+127
+Too Pretty to Hit	
+127
+Negative Quality	
+127
+Combat Junkie	
+127
+MARTIAL ARTS	
+128
+Martial Art styles	
+128
+It’s All About How and Where You Hit	
+128
+52 Blocks	
+128
+Aikido	
+128
+Arnis De Mano	
+128
+Bartitsu	
+128
+Boxing (Brawler Style)	
+129
+Boxing (Classic Style)	
+129
+Boxing (Swarmer Style)	
+129
+Capoeira	
+129
+Carromeleg	
+129
+Chakram Fighting	
+129
+Drunken Boxing	
+130
+Fiore dei Liberi (Two Weapon Sword Fighting)	
+130
+Firefight	
+130
+Gun Kata	
+130
+Jeet Kune Do	
+130
+Jogo Du Pau	
+130
+Jujitsu	
+131
+Karate	
+131
+Kenjutsu	
+131
+Knight Errant Tactical	
+132
+Krav Maga	
+132
+Kunst des Fechtens (Longsword Fighting)	
+132
+Kyujutsu	
+132
+La Verdadera Destreza (Rapier Fighting)	
+132
+Lone Star Tactical	
+132
+Muay Thai	
+133
+Ninjutsu	
+133
+Okichitaw	
+133
+Parkour	
+133
+<< CONTENTS/CREDITS    3
+
+
+===== PAGE 19 =====
+of an enemy. The Horizon-Flynn blade is a slender com-
+posite designed for strength, flexibility, and stability for 
+maximum armor penetration. 
+>	
+The fact that Horizon has joined up with anyone to create 
+a killing tool seems strange. It actually makes me feel like 
+maybe they are just another mega and not something far 
+more diabolical. 
+>	
+Netcat
+>	
+Very likely the intent of this partnership. Horizon plays 
+so nice in so many areas, having a branded killing tool 
+seems to ground them with the rest of the evil megacorps. 
+Also gets people to talk about something besides killing 
+technomancers and backing the losers of the Azt-Am War.
+>	
+Slamm-0!
+VICTORINOX MEMORY BLADE
+Is it a belt, or is it a deadly weapon? A strange ques-
+tion, but one you must ask yourself when it comes to 
+the Memory Blade. Victorinox uses their SmartSteel 
+technology to provide a flexible material that can be 
+commanded to stiffen and form a blade. They current-
+ly have two “self-defense” designs available for special 
+order. The Belt, a sword length design worn around the 
+waist, and the Bracelet, a design aimed at lady execs 
+who want a little extra protection. Mostly found on 
+executives with too much money, they often find their 
+way into the shadow market after extraction ops. 
+>	
+With a good decker you can modify the basic shape if you 
+don’t want a bracelet or belt. It takes a little bit of skill, 
+but a few Matrix jockey’s have uploaded pre-programmed 
+codes to various sites to reshape them as anklets, 
+bandoliers, connected rings, armbands, even one that 
+turns the sword blade into a full shoe. You need two of the 
+shoes if you want it to look right, but damn is that creative.
+>	
+Stone
+ARES “ONE” MONOSWORD
+“There can be only One” is Ares latest slogan for this 
+classic. This tool of the modernized street samurai fea-
+tures a monofilament line along the edge that provides 
+unmatched penetration potential.
+HORIZON-FLYNN RAPIER
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+7
+1
+(STR + 2)P
+–3
+9R
+500¥
+ARES ‘ONE’ MONOSWORD
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+(STR + 3)P
+–3
+8R
+900¥
+VICTORINOX MEMORY BLADE
+SWORD
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+(STR + 2)P
+–2
+14R
+1,500¥
+DAGGER
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+—
+(STR + 1)P
+–2
+14R
+1,250¥
+The weapon’s sheath can be formed into a piece of clothing 
+or put in some other appropriate place to hide the weapon. If the 
+weapon’s grip is concealed as well the Concealability modifier is 
+–4 in order to detect the weapon. The memory blade requires a 
+Complex Action to harden or become flexible again in addition to 
+the Simple Action for readying or drawing the weapon.
+Changing the shape of the blade requires a Software + Logic 
+[Mental] (8, 1 minute) Extended Test.
+<< Blades    19
+
+
+===== PAGE 20 =====
+COUGAR FINEBLADES
+Finely crafted but also expensive, the Fineblade line of 
+Cougar products are usually only found in the hands 
+of professionals where they belong. They come in two 
+designs, a long blade, currently crafted in the fashion of 
+a gladius; and a short blade, currently fashioned after 
+the Bowie knife. Previous years’ designs have run the 
+gamut since the introduction of the original Fineblade 
+back in the ‘50s.
+CLUBS
+NEMESIS ARMS  
+MAUL STUN STAFF
+Double-sided zapping power! The stun staff is basical-
+ly a staff with stun batons on each end. They’re rather 
+large and a bit ugly but they look quite intimidating in 
+the hands of the guards at Shiawase HQ. 
+EXOTIC MELEE 
+WEAPONS
+GARROTE
+This can be as simple as a string attached to a pair of 
+pencils but is usually a far more professional tool. The 
+garrote is a handheld weapon designed to quietly kill 
+via strangulation. The weapon consists of a central 
+string, usually a semiflexible wire of some sort, at-
+tached to a pair of handles used to pull the weapon 
+tight once it is wrapped around a targets neck. Death is 
+slow and unpleasant as the target usually struggles in-
+tensely, so a strong stomach and skill are both required.
+ARES “QUEEN OF HEARTS” 
+MONOFILAMENT GARROTE
+Leave it to Ares to make something deadly even dead-
+lier. The Queen of Hearts is the nickname for Ares’ 
+monofilament garrote that will often take a head right 
+off well before the target suffocates, though I’m certain 
+that was part of the intended design. Other megacorps 
+have copied the design, but Ares is by far the biggest 
+name out there.
+>	
+Beware mistakes. A misplaced pinky can be the difference 
+between a clean kill and a place on the dishonored 
+yakuza list. The Queen of Hearts and her sister models are 
+unforgiving on untrained fools. 
+>	
+Thorn
+BULLWHIP
+Whether it’s redirecting bulls, snagging wrists, or lash-
+ing infidels, the whip has seen an interesting history as 
+a tool, a showpiece, a torture device, and a weapon. 
+This versatility is both its greatest asset and its biggest 
+detriment. The training that is needed to use this weap-
+on is very specific, but a truly skilled individual can 
+perform feats with this item unmatched by any other 
+weapon. 
+COUGAR FINEBLADES
+SHORT
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+7
+—
+(STR + 2)P
+–1
+5R
+350¥
+LONG
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+7
+—
+(STR + 3)P
+–1
+7R
+600¥
+MAUL STUN STAFF
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+2
+9S(E)
+–5
+8R
+1,000¥
+GARROTES
+STANDARD GARROTE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+—
+(STR + 4)S
+–6
+—
+50¥
+MONOFILAMENT GARROTE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+—
+(STR + 6)P
+–8
+18F
+2,000¥
+Using a garrote requires and initial successful attack test to 
+get the weapon in place similar to subduing combat. The attacker 
+uses their Exotic Melee Weapon (Garrote) skill to initiate the 
+subduing. The attack must use the Called Shot Location modifier 
+and needs at least 1 net hit to succeed. After the weapon is in 
+place, the attacking character can choose to do the damage of 
+the weapon during their next Action Phase along with improving 
+their hold with another Attack Test or knocking the opponent to 
+the ground. 
+Breaking free of the garrote requires an Agility + Unarmed 
+Combat [Physical] Test with a threshold of the attacker’s net hits 
+on all attacks or a successful Knock Out of Hands called shot or 
+similar attack that breaks the attacker’s grip.
+>> ARSENAL <<
+20    Clubs >>
+
+
+===== PAGE 21 =====
+ASH ARMS COMBAT CHAINSAW
+It was popular culture in the late 20th century that 
+made the idea of wielding a tree-trimming tool as an 
+implement of death part of popular myth. After some-
+one made a flatvid film about a chainsaw-wielding kill-
+er in Texas and then slipped a fictional S-Mart model 
+over the stumpy forearm of a time-traveling fighter of 
+evil, the chainsaw somehow became thought of as a 
+sword with a spinning chain blade. Truth is, trying to 
+swing a chainsaw as a weapon is fragging ridiculous, 
+but that doesn’t stop niche market weapons manufac-
+turers from feeding the public hunger. 
+>	
+This model is decent with its special features that remove 
+some of the safety features located on most chainsaws, 
+but cheap street rats will still try and use their local 
+hardware store model in a fight. Most learn about their 
+mistake the hard way. 
+>	
+Hard Exit
+ASH ARMS  
+MONOFILAMENT CHAINSAW
+Monofilament makes everything better or so Ash Arms 
+would like us to believe. While the civilian model is ac-
+tually used for cutting things like concrete and sculpting 
+stone, that is just never enough. Ash has retooled the 
+monofilament cousin of the standard chainsaw as well 
+and made it into a unique weapon that has probably cut 
+off more limbs from brain-dead wielders than their in-
+tended victims. But boy is a successful hit awesome. 
+>	
+Same problems occur here when people try and use the 
+tools as the weapons. Darwin would be proud. 
+>	
+Butch
+BULLWHIP
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+2
+(STR + 1)P
++3
+6
+100¥
+A whip can be used to snare handheld objects, including 
+weapons, or to trip an opponent using the Called Shot rules (p. 
+195, SR5). Disarming or grabbing a held object requires a Blast 
+Out of Hands called shot with an additional Opposed Strength 
+Test to yank the item free and toward, instead of away from, the 
+attacker. The attacker must be within 2 meters of the opponent 
+and gains a +2 dice pool bonus to their Strength Test. Tripping an 
+opponent uses the Knockdown called shot. Again, the attacker 
+must be within 2 meters of the target.
+ASH ARMS CHAINSAWS
+COMBAT CHAINSAW
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+8P
+–4
+6R
+2,000¥
+MONOFILAMENT CHAINSAW
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+5
+1
+12P
+–8
+8R
+7,500¥
+Non-combat versions of the chainsaw and monofilament 
+chainsaw have their Accuracy reduced to 3, Damage Value 
+reduced by 2, Availability changed to 2 and 6R respectively, and 
+prices reduced to 150¥ and 1,500¥.
+ASH ARMS 
+COMBAT CHAINSAW
+>> ARSENAL <<
+<< Exotic Melee WEapons    21
+
+
+===== PAGE 22 =====
+SLEDGE
+HAMMER
+IMPROVISED 
+MELEE WEAPONS
+I’ve seen mannequins, snapped off tree limbs, chairs, 
+park benches, bottles, toilet seats, and manhole covers 
+all used as improvised weapons. And that was all just 
+yesterday in Redmond. Anything that can be swung 
+and has enough mass to knock some sense into the 
+misguided or an edge that can cut to the truth has been 
+used at one point or another in history to lay down the 
+hurt. These tools aren’t all perfect, and you can’t real-
+ly use them with much finesse or style. But if they’re 
+all that’s handy, swing that old iron frying pan and see 
+what momma’s got cookin’ in the kitchen.
+RANGED WEAPONS
+AQUADYNE SHARK-XS 
+HARPOON GUN
+Whether used to spear fish, defend against some of 
+the more aggressive denizens of the oceans, or remind 
+other sentient swimmers that what you’ve found be-
+neath the waves belongs to you, the Aquadyne Shark 
+can be a valuable asset. Powered by CO2 and possess-
+ing an internal magazine, the Shark doesn’t stop after 
+just one pull of the trigger, a feature that has saved 
+many a diver that trusted the Aquadyne brand. For the 
+sport fisherman, the Shark features the QuickClip line 
+system that makes setting up for the next catch faster 
+than ever.
+IMPROVISED WEAPONS
+WEAPON
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+Bottle (unbroken)
+3
+—
+(STR + 1)S
+—
+—
+—
+Bottle (broken, after first hit)
+3
+—
+(STR)P
+—
+—
+—
+Chain
+4
+2
+(STR + 1)P
+—
+—
+10¥
+Chair
+3
+1
+(STR + 2)S
+—
+—
+30¥
+Fork
+4
+—
+(STR – 1)P
++1
+—
+—
+Frying Pan
+3
+—
+(STR + 1)P
+—
+—
+20¥
+Hammer
+4
+—
+(STR + 1)P
+–1/–2
+—
+30¥
+Pistol
+4
+—
+(STR + 1)P
+—
+As weapon
+As weapon
+Pool cue
+4
+—
+(STR)P
++1
+—
+45¥
+Rifle butt
+3
+—
+(STR + 3)S
+—
+As weapon
+As weapon
+Sledge hammer
+3
+1
+(STR + 4)P
+—
+1
+40¥
+AQUADYNE SHARK-XS 
+HARPOON GUN
+>> ARSENAL <<
+22    improvised melee weapons >>
+
+
+===== PAGE 24 =====
+HAMMERHEAD
+I always thought these were just designed to give an 
+archer the same options as a runner with a gel-load-
+ed pistol, but a little research led me to realize these 
+have been around for a long time. Hunters after small 
+game knew that organ punctures could ruin what little 
+meat the beasts had on them, so they’d opt to knock 
+them out instead of take risks with sharper arrowheads. 
+Additionally, poachers who were after exotic birds but 
+knew they lost a lot of value when they were dead 
+helped give this arrowhead a lot of use. 
+INCENDIARY HEAD
+Not the flaming arrows of ancient times, these arrow-
+heads contain a small charge and a pocket of white 
+phosphorous that erupts and sticks to the target, light-
+ing them on fire. Unpleasant beyond just the initial 
+hurting, the fire continues to burn unless it loses its 
+supply of oxygen. 
+SCREAMER HEAD
+Need to signal the team when you know the local air-
+waves are full of patrolling deckers? Fire a screamer 
+head. Though some models do in fact scream, most are 
+designed with less awkward sounds. The pitting pat-
+terns on the hollow pipe of the head are designed to 
+make a wide variety of sounds for signaling and can 
+even be modified fairly quickly out in the field. A handy 
+tool in any wannabe-Robin Hood’s arsenal.
+STICK ‘N’ SHOCK
+Though issues with nanomanufacturing have caused 
+some problems with Stick ‘n’ Shock ammo for firearms, 
+the same has not been completely true with these 
+heads. Or more accurately, with these arrows. The Stick 
+‘n’ Shock head is only a small portion of this latest ar-
+chery innovation. Bowmen who want to gain the full 
+potential of these heads need to combine them with 
+Static Shafts, an Ares innovation that fills the shaft with 
+a powder that builds a charge during flight.
+>	
+Not only during flight. I’ve heard of guys who zap 
+themselves when they jostle these things the wrong way. 
+Care should be taken when trying to use this tech. 
+>	
+Ma’Fan
+BOOMERANG
+This is not the cute toy of your youth that you throw 
+and try to get to come right back to you. This is the 
+Aboriginal hunting stick that can snap the neck of an 
+emu. Made of a wide variety of materials the modern 
+hunting boomerang is either a heavy wood with a dull 
+edge or a lighter composite with a sharp edge. Both are 
+deadly in the right hands.
+>	
+The BoomerEye is a Renraku Australia product that 
+combines a little Australian history with some Japanese 
+innovation. A cheap, unguided surveillance tool, the 
+BoomerEye is a lightweight sport boomerang with a 
+special camera mounted on the bottom. It’s designed 
+to be thrown over a wide arc and get a quick peak at 
+what might be hidden out of sight.
+>	
+Rigger X
+HARPOON/JAVELIN
+There’s a reason why the javelin was part of the 
+original Olympics, which was a militaristic sport-
+ing competition. Metahumans have been using 
+sharpened sticks to kill prey, and each other, for 
+millennia. Improvements to materials technology 
+have just allowed them to throw further, faster, 
+and more accurately. 
+NET
+There always seemed to be no more embarrass-
+ing gladiatorial death than to be trapped in a net 
+and then poked to death. I think the fact that the 
+gladiators who fought with nets were the lowliest 
+of the low makes it even worse. But these days it 
+doesn’t matter. If it works, use it. The net makes 
+a great way to slow an opponent and provide an 
+>> ARSENAL <<
+24    Arrowheads >>
+ARROWHEADS
+ITEM
+ACC
+DV
+AP
+AVAIL
+COST
+Barbed Head*
+—
++1
+—
+5R
+10¥
+Explosive Head
+–1
++2
+–1
+9F
+15¥
+Hammerhead
+–1
++1S
++2
+5
+5¥
+Incendiary Head
+–1
+**
+—
+12F
+100¥
+Screamer Head***
+–2
+–2S
++6
+2
+5¥
+Stick-n-Shock
+–1
+8S(e)
+–5
+6R
+25¥
+Static Shaft
+—
++4S(e)
+—
+6R
+Rating x 25¥
+*Removing a barbed arrow without doing further damage to the target requires a 
+First Aid + Logic [Mental] (3) Test. Failure results in a number of boxes of Physical 
+damage equal to 3 – hits, unresisted.
+**On a successful hit, even a Grazing Hit, the arrow erupts in white phosphorous fire 
+with a DV of 8P and -6 AP. The WP continues to burn for 3 Combat Turns, causing 
+6P (–4 AP) of fire damage each turn (Fire Damage, p. 171, SR5) and possibly igniting 
+and damaging items on the character each turn. 
+Wireless Bonus: The head can be detonated before impact and split between 
+two targets within 1 meter of each other. Both targets roll to avoid the attack 
+separately and neither takes the initial 8P damage, instead just suffering the 6P, 
+–4AP, for 4 Combat Turns, including the current one.
+***Resetting the sound setting requires a Simple Action and a Logic + Intuition (1) Test.
+Wireless Bonus: The sound resetting can be done as a Free Action, even 
+while in flight.
+
+
+===== PAGE 25 =====
+advantage, and isn’t that what life is always about—get-
+ting the advantage?
+>	
+And if it doesn’t work, modify it until it does. While a few 
+attempts at monofilament nets have been tried and failed 
+spectacularly, other more offensive materials have been 
+used with nets. The Terra Cotta ShredNet with its barbed 
+wire netting and the Ares ShockNet with an electrical 
+stun charge built in have been two very popular options 
+to spice things up. 
+>	
+Sticks
+CAVALIER ARMS  
+URBAN TRIBE TOMAHAWK
+This is not your grandfather’s tomahawk. Made from 
+modern composites and balanced for throwing, this 
+modern take on the classic Native American weapon 
+gives as much respect to its predecessors as it can while 
+moving into the 21st century. Popular among the urban 
+tribal street gangs, especially the First Nations in Seattle, 
+these finely crafted killing tools can also be found on the 
+belts of Salish Rangers and Sioux Wildcats.
+ 
+BOOMERANG
+ACC
+DV
+AP
+AVAIL
+COST
+Physical – 1 (STR + 2)P
+—
+4
+50¥
+Throwing and catching a returning boomerang requires two 
+tests spread over two Combat Turns—a Throwing Weapons + 
+Agility [Physical] (2) Test to throw it properly and an Agility + 
+Reaction (4) Test to catch it on the return. A boomerang that hits 
+a target does not return. 
+Boomerangs use the ranges of Aerodynamic Grenades. 
+Horizon BoomerEye: This is a cheap surveillance tool created 
+by some bored engineers out in the desert. The BoomerEye is a 
+video camera attached to a boomerang that can be tossed out and 
+get a bird’s-eye view of an area. The device can be downloaded 
+with a Complex Action on return to the thrower.
+Wireless Bonus: The device can provide live-feed video 
+while in flight.
+HARPOON/JAVELIN
+ACC
+DV
+AP
+AVAIL
+COST
+Physical
+(STR + 3)P
+–1
+6
+125¥
+Harpoons use the Throwing Weapons skill, but they may 
+also be used as melee weapon, using the Blades skill and doing 
+the same damage as the thrown weapon with a Reach of 2. 
+Harpoons and javelins use Aerodynamic Grenade ranges.
+URBAN TRIBE TOMAHAWK
+ACC
+DV
+AP
+AVAIL
+COST
+Physical + 1 (STR + 2)P
+–1
+4
+200¥
+The Urban Tribe tomahawk uses the Throwing Weapons skill with the 
+Thrown Knife range in ranged attacks; for melee attacks, use the Blades 
+skill, with the same damage as the thrown weapon
+NET
+ACC
+DV
+AP
+AVAIL
+COST
+Physical – 2
+—
+—
+6
+350¥
+With a successful attack using rules for a Grazing Hit (p. 173, 
+SR5), the net lands over an opponent and they are considered 
+to be in subduing combat (p. 195, SR5). An attacker must move 
+to the target in order to engage in any of the Subduing actions. 
+To break free of the net, the subdued character rolls Agility 
++ Unarmed Combat (rather than Strength + Unarmed Combat) or 
+Agility + Escape Artist as a Complex Action, against a threshold 
+equal to the attacker’s net hits.
+Nets use half the range of throwing knives (round up) and 
+employ the Exotic Ranged Weapons (Net) skill.
+URBAN TRIBE 
+TOMAHAWK
+>> ARSENAL <<
+<< Arrowheads    25
+
+
+===== PAGE 26 =====
+EXOTIC RANGED 
+WEAPONS
+ARES SCREECH SONIC RIFLE
+This is a nasty little oddball of a weapon. Though it’s 
+called the Screech and its classified as a sonic rifle, 
+anyone with this thing pointed at them will rarely hear 
+a thing other then their own retching as they puke up 
+their latest meal. This devious invention uses focused 
+sound waves to disorient the target while not causing 
+any real damage. Perfect for crowd control as long as 
+the users are prepped with gas masks, since the reek of 
+soybase vomit will fill the air this sucker is fired.
+>	
+Don’t try and use this against spirits. Their lack of a 
+standard biology makes them immune to the effect. 
+Works great on most other things though. Usually seems 
+to depend on whether they have ears that affect their 
+balance and equilibrium.
+>	
+Stone
+BLOWGUN
+Nope, not kidding. The blowgun has been silently neu-
+tralizing targets for hundreds of years. Especially pop-
+ular with stealthy forces that like to poison their targets 
+and then recover their goodies or finish them off once 
+they are no longer able to fight off a flea. They take a lot 
+of skill to use and almost always include a drug or tox-
+in on their needles. Otherwise it would just be ranged 
+acupuncture. 
+BOLAS
+Take a pair of rocks, tie them together with a rope. Now 
+you have basic bolas. Take that and throw it at some-
+thing, letting the extra centrifugal force give it some 
+added punch. Now get fancy and try and wrap it around 
+your target. It’s not easy, but if you hit just right it’s both 
+a takedown and a load of pain all in one. Modern bo-
+las aren’t rocks tied with strings; instead, they’re usually 
+solid steel connected with wire, often with three balls 
+instead of two. They’re a favorite weapon of hunters 
+that prefer to take their prey alive, especially bounty 
+hunters.
+NEMESIS ARMS SURUCHIN 
+MONOFILAMENT BOLAS
+If getting tangled up by a pair of metal balls on a met-
+al wire wasn’t bad enough, imagine if that wire was a 
+monofilament line. There’s very little intention to cap-
+ture and much more to harm, though the company tag 
+line is suppression through intimidation, claiming they 
+wrap and prevent escape by the threat of increased risk 
+of harm. 
+>	
+Sociopathic runners are often at the forefront of interesting 
+derivations and innovations in the arms race. Boom-
+bolas are an example of that. A pair of wireless-enabled 
+grenades, or one grenade and a counterweight, are used 
+to snare the target with a healthy reminder of how bad 
+not surrendering can be. There are also those who simply 
+use the bola design to put the grenades right on top of a 
+target. No longer chunky salsa, more of a fine purée. 
+>	
+Red Anya
+FN-AAL GYROJET PISTOL
+Once advertised as a favorite of the British Special Boat 
+Squadron, FN has increased their market audience to 
+most of the marine-based special operations forces 
+around the world. The gun fires miniature 6mm rockets 
+that explode on impact—an effect that, underwater, is 
+even worse than in the air. 
+>	
+FN makes a full array of alternate munitions that match 
+up well with their standard counterparts. Jelly rockets 
+are awesome. 
+>	
+Sticks
+ARES SCREECH SONIC RIFLE
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+6
+7S
+*
+SS
+—
+10(c)
+16R
+8,000¥
+The sonic rifle can fire with variable beam settings. It uses the 
+same rules as shotguns (p. 180, SR5) for determining the number of 
+targets affected and the DV modifier, as well as ranges. The Exotic 
+Ranged Weapon (Sonic Rifle) skill is used to fire this weapon.
+The Damage Resistance Test uses Willpower instead of Body 
+and ignores all standard armor. Damper earware (p. 454, SR5) 
+provides +2 bonus dice to the resistance test. A Hush or Silence 
+spell reduces the DV by –1 per hit on the Spellcasting Test. 
+Targets hit by a beam suffer the effects of disorientation 
+and nausea (p. 409, SR5; use Damage Resistance Test in place 
+of Toxin Resistance Test). The rifle uses peak discharge battery 
+packs, with each shot consuming 1 power unit.
+>> ARSENAL <<
+BLOWGUN
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+8
+1P
+—
+SS
+1(ml)
+4
+15¥
+Blowguns are fired with the Exotic Ranged Weapon (Blowgun) skill. 
+To deliver a toxin with a blowgun needle, use the Called Shot Location 
+rules to target an area not protected by armor. If the attack succeeds, the 
+poison is delivered. 
+Note that when using a blowgun, a character may inhale his own 
+dart on a critical glitch; some modern blowguns have a safeguard in form 
+of a small cross-like section in the mouthpiece.
+Blowguns use Taser ranges.
+26    Exotic Ranged WEapons >>
+
+
+===== PAGE 103 =====
+PERISCOPE CAM
+An inexpensive, hand-held sensor package used to 
+look around corners or over top of obstacles. Image 
+link is standard and it comes with limited upgrading 
+capabilities. It can be accessed wirelessly or viewed di-
+rectly through a small viewfinder at the base. 
+CAPACITY
+AVAIL
+COST
+1-3
+10R
+Capacity x 600¥
+BATTERING RAMS
+Sometimes, when a maglock pass key or a lock pick 
+just can’t get the job done, a more robust method be-
+comes necessary. Popular with entry teams, battering 
+rams range from hunks of metal to high-tech wireless 
+devices. Battering rams are not recommended for use 
+as a melee weapon but can be used as such (use Ex-
+otic Melee Weapon (Battering Rams) skill, assuming 
+you had the foresight to select it). Battering rams use 
+Strength + Agility for the attack test (see Destroying 
+Barriers, p.197, SR5).
+Standard Ram: A metal tube weighing approximately 
+20 kilograms with a blunted end and handles along the 
+sides, this is a no-frills entry tool that relies on the user’s 
+Strength for breaching. The standard ram is normally 
+used by one individual, but heavier versions are available 
+and can be used by two average humans.
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+—
+(STR+2)P
+–1
+10R
+2,000¥
+Fluid-Motion Ram: The same as the standard 
+battering ram, but it includes an internal ten-liter liquid 
+reservoir. When used, the ram is swung backwards and 
+then forward to strike the target. On impact the internal 
+fluid in the ram creates extra momentum that increases 
+the impact damage. Very useful against more durable 
+doors, but using it requires two average-size humans or 
+one average-size troll.
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+1
+(STR*+3)P
+–1
+10R
+3,500¥
+*Strength Rating to be used is 
+(combined Strength of all users) / (number of users)
+>> TACTICS & TOOLS <<
+<< the Tools of the Trade    103
+
+
+===== PAGE 104 =====
+Pneumatic Ram: Also known as the P-Ram, a 
+pneumatic ram’s breaching power comes from a large, 
+battery-powered pneumatic piston. A P-Ram is too 
+large and heave to be swung. The quad-legged device 
+is securely positioned at the door or barrier before 
+operation and triggered by a touch pad or wirelessly. Its 
+power comes at the expense of mobility; it requires a 
+four-person team of average humans to deploy. 
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+6
+—
+16P
+–4
+18R
+10,000¥
+Shock Ram: Users call it the Shock Knocker. It’s 
+a shock ram is designed to disable electronic locks 
+or defenses when it breaches a door or barrier. Four 
+large conductive spikes protrude from the ram’s head 
+that penetrates the barrier to deliver the charge. A 
+metahuman in contact with the barrier or the spikes must 
+resist shock damage per normal rules. Shock rams can 
+be wirelessly discharged. Though an effective breaching 
+tool, a shock ram requires frequent maintenance and 
+constant monitoring, as repeated use can damage the 
+mechanism and insulating protective casing. A glitch on 
+a use test results in the batteries failing; a critical glitch 
+results in a shock to the operator. 
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+2)P 
++ 12(e)
+–3
+10R
+15,000¥
+BLAST SHIELD
+The blast shield is a two meter by one meter vari-
+able-geometry shaped charge consisting of thermite 
+strips and several high-explosive devices. Handle 
+straps in the center allow it to be carried and used like 
+a shield until it’s deployed. Adhesives or magnets can 
+secure the blast shield to any surface. The charge can 
+be detonated with a timer or remotely. To use as a me-
+lee weapon, wielders must have Exotic Weapon (Blast 
+Shield) skill; the accuracy rating of the item is 4. 
+DAM
+AP
+BLAST
+AP
+AVAIL
+COST
+20P
+—
+Target
+–4
+8R
+20,000¥
+ARES PED (PERSONAL  
+EXTRICATION DEVICE) MARK III
+Originally called the “body bag,” the PED is a means 
+to transport unconscious or immobile individuals that’s 
+marketed to the general public as a lifesaving device. 
+Essentially a flexible bag of woven Kevlar, the PED of-
+fers protection roughly equivalent to medium armors, 
+and it is available in sizes to fit all metatypes. The PED 
+can form an airtight seal and sufficient insulation to 
+protect in hot, cold, or toxic environments; a tank with 
+sufficient oxygen to survive an hour is optional. Emer-
+gency GPS beacons are standard. 
+ARMOR RATING
+AVAIL
+COST
+12
+10R
+2,500¥
+ULTRA-GLIDE INDUSTRIAL LUBRICANT
+ImpZetaChem initially intended to develop an innovative 
+industrial-grade degreaser. On paper and in computer 
+modeling, that’s exactly what they did. But when they 
+tested their creation, they discovered the viscous liquid 
+not only didn’t remove grease, it was itself almost im-
+possible to remove without specialized solvents. More 
+importantly, any surface coated with their experimental 
+cleaner became for all practical intents and purposes 
+friction-free. ImpZetaChem wasted no time in rebrand-
+ing their failed cleaner as an industrial lubricant. Though 
+chemically improbable, Ultra-Glide works—the coating 
+produces a zero-friction surface that all but eliminates 
+wear and heat in machinery. Sold to consumers in jugs 
+and spray cans, Ultra-Glide is popular with security pro-
+viders who use it to coat approaches to potential breach 
+points. It can also be used in squirt weapons or in stan-
+dard paint grenades (applicable skill tests apply). To move 
+across a surface (per meter) coated with Ultra-Glide re-
+quires an Gymnastics + Agility (3) [Physical] Test, or an 
+Agility (4) Test to hold on to an Ultra-Glide coated item. 
+AVAIL
+COST
+12
+30¥ (per liter)
+HOLD-FAST ADHESIVE SPRAY
+Hold-Fast was developed at MIT&T as an effort to 
+meet—and cash in on—Dunkelzhan’s call for a non-le-
+thal alternative to conventional firearms. Its intend-
+ed purpose is to quickly immobilize subjects without 
+harming them. Though initially rejected by the Draco 
+Foundation for “not meeting the necessary criteria,” 
+Hold-Fast was adopted by Lone Star after their own in-
+dependent trials, conducted on the streets of several 
+CAS cities, proved it to be effective in apprehension 
+and crowd control. Hold-Fast is a liquid that is deliv-
+ered through a sprayer not unlike a fire extinguisher. 
+Once exposed to oxygen, the liquid hardens to form a 
+clear plastic-like shell in about thirty seconds. Standard 
+Hold-Fast become brittle after two hours, while the 
+long-lasting formula is stable until removed with a sol-
+vent. Use Taser ranges for Hold-Fast sprayer. Breaking 
+free of Hold-Fast requires a Strength (4) Test. 
+ACC
+DAM
+AP
+AMMO
+AVAIL
+COST
+–2
+Special
+—
+10
+12
+50¥
+PERSONAL INTEGRATED 
+TACTICAL NETWORK
+The PI-Tac (a.k.a. P-Tac, or—to old timers—Tac-Net) is the 
+latest generation of personal tactical network. Used by 
+both security and military forces, PI-Tac units are now 
+available to civilians—once said civilian has passed a 
+background check and been issued a permit. The Tac-Net 
+concept is not new; team networking devices of one sort 
+>> TACTICS & TOOLS <<
+104    the Tools of the Trade >>
+
+
+===== PAGE 105 =====
+or another have been around for decades. However all 
+previous ‘nets were add-ons that linked sensors and other 
+components that weren’t necessarily compatible, result-
+ing in a complex mash of patches subject to malfunctions. 
+PI-Tacs are self-contained, plug-in units designed from 
+the group up to integrate with a commlink, cyberdeck, 
+or rigger command console to form a shared PAN/WAN. 
+PI-Tac enhances team coordination and effectiveness 
+with streamlined simplicity and comes in three levels of 
+sophistication. Strictly speaking, only the most basic level 
+is legally available for civilian use. The benefits of using PI-
+Tac are substantial, but gamemasters should remember 
+that PI-Tac is wireless by nature, which makes it a target 
+for hackers. All PI-Tac models include: 
+•	
+Real-time GPS location software
+•	
+Universal image and audio link that can access any 
+image sources from within the network, including 
+all external sensors and personal augmentations
+•	
+Team Biomonitor
+•	
+Weapon status indicator (ammo count, opera-
+tional condition, possible incursion)
+•	
+“Enhanced Situational Awareness” (bonus to all 
+Perception Tests, based on level)
+Note that the maximum number of team members (includ-
+ing drones) on a particular ’net at one time equals DR x 1.5.
+LEVEL I
+The basic, civilian Level PI-Tac is popular with the ex-
+treme-sport set including combat re-enactors or ama-
+teur urban/combat brawl leagues and even big/game 
+hunters. While the Level I comes with only the basic 
+functions, it provides users with a +1 to all Perception 
+Tests, including audio and visual. 
+MODEL
+DR
+AVAIL
+COST
+Renraku Taka
+4
+12R
+115,000¥
+LEVEL II
+The Level II is intended for use by security, law en-
+forcement, and/or standard military forces. Unit cost 
+makes use of the Level II for routine security and law 
+enforcement impractical. Thus the Level IIs are usually 
+assigned only to special tactical response units. Level 
+II includes the basic functions of Level I, with upgrades 
+and additions as follows: 
+•	
+Host unit enhancement. One half the device 
+rating can be used to enhance either the firewall 
+or processing ratings of the host device. 
+•	
+Trauma module. Worn on the chest under any 
+armor, this flat plastic plate can be loaded with 
+one dose any drug of the users’ choice and 
+programed to automatically deliver the drug 
+under user-set conditions. 
+•	
+Enhanced situational awareness. Provides a +2 to 
+all Perception Tests, including audio and visual, 
+along with a +1 bonus to all Sneaking tests.
+•	
+Enhanced Team Leader Coordination. This allows 
+a designated team leader to coordinate combat 
+maneuvers as a simple rather than complex 
+action and to transfer five initiative points to one 
+select team member on the network. 
+•	
+Combat Mode. + 1 to one of the following com-
+bat skills of the player’s choice: Close Combat, 
+Automatics, Longarms, Pistols, Unarmed Com-
+bat. Player can switch to a different skill during 
+combat as a simple action.
+MODEL
+DR
+AVAIL
+COST
+Novatech 
+Tactician
+5
+18R
+325,000¥
+LEVEL III
+Designed for use by the most elite military and corpo-
+rate units, the unauthorized use of the Level III unit or 
+unlicensed possession of such a unit is considered a 
+felony by the Corporate Court and most national gov-
+ernments. Level III includes the basic functions of Lev-
+els I and II, with upgrades and additions as follows:
+•	
+Upgraded host unit enhancement. The full de-
+vice rating can be used to enhance both the fire-
+wall and processing power of the host device. 
+•	
+Enhanced Team Leader Coordination (upgraded). 
+This allows a designated team leader to coordi-
+nate combat maneuvers as a Simple rather than 
+Complex Action and to transfer ten points from 
+their initiative score to one team member on the 
+network or five points to two team members. 
+•	
+Enhanced situational awareness. Provides a +3 
+to all Perception Tests, including audio and visu-
+al and +2 to Sneaking and Tracking Tests. 
+•	
+Combat Mode. + 2 to one of the following com-
+bat skills of the player’s choice: Closed Combat, 
+Automatics, Longarms, Pistols, Unarmed Com-
+bat. Player can switch to a different skill during 
+combat as a simple action. 
+•	
+Remote and limited access to vehicles and 
+drones linked into the network. This allows the 
+team leader, or any other designated team 
+member (consider them to have three marks 
+on any vehicle while subscribed to the network) 
+can remotely access and have limited control 
+over a vehicle or drone by accessing their dog-
+brains. As long as the units are operational, sim-
+ple commands such as “go to this location” or 
+“attack this target” can be issued in the event a 
+rigger is rendered unconscious or dead.
+MODEL
+DR
+AVAIL
+COST
+ComPac-Esprit 
+General
+6
+18F
+855,000¥
+>> TACTICS & TOOLS <<
+<< the Tools of the Trade    105
+
+
+===== PAGE 124 =====
+TOUCH-ONLY ATTACK (P. 187, SR5)
+Complex Action
+The character makes a Close Combat Skill Attack 
+Test (with the +2, touch-only advantage) to make con-
+tact with the opponent. If successful, the character does 
+no damage, but is in contact with the opponent for that 
+Action Phase or until the opponent moves, risking an 
+Intercept Action (see Interception, p. 194, SR5). Touch 
+attacks have the disadvantage of being more easily 
+grappled in a Subduing or Clinch Action by an opponent. 
+Characters defending against a Grapple or Clinch after 
+making a touch-only attack against an opponent receive 
+a –2 dice pool penalty against that opponent.
+Weapons such as the shock glove or baton can in-
+flict damage during a touch-only attack. These attacks 
+don’t benefit from net hits from the attack to increase 
+Damage Value. Using the weapon to cause damage with 
+a touch-only attack makes it the only attack action the 
+character can make during that Action Phase.
+INTERRUPT ACTIONS 
+BLOCK (SR5, P. 192)
+Interrupt Action (–5 Initiative Score)
+COUNTERSTRIKE  
+(UNARMED COMBAT ONLY)
+Interrupt Action (–7 Initiative Score)
+Counterstrike allows the character to leverage the 
+opponent’s force into an advantage, allowing the char-
+acter to make a quick strike back. In place of the stan-
+dard Defense Test, the character makes an Unarmed 
+Combat + Reaction [Physical] Test against the oppo-
+nent’s standard Attack Test. If the defender achieves 
+more hits than the attacker, the defender successfully 
+avoided the attacker’s strike while returning and landing 
+a strike of their own. The defender’s counterstrike attack 
+has a Damage Value equal to the defending character’s 
+standard Unarmed DV + net hits. The damage is resisted 
+by a standard Damage Resistance Test. If the defender 
+does not achieve more hits, then he must make a Dam-
+age Resistance Test against the damage of the attack-
+er’s strike as normal. Note that use of this action requires 
+Martial Art training.
+DIVE FOR COVER
+Interrupt Action (–5 Initiative Score)
+Sometimes you don’t want to just sprawl out face-
+flat down on the ground to get below the incoming 
+stints of spray-and-pray Suppressive Fire. Being face 
+down behind some cover so you can get to your feet 
+without taking some rounds is a much better option than 
+getting perforated. This action allows a character to go 
+prone behind nearby cover. A character that is within the 
+area of a Suppressive Fire Attack can choose to take an 
+Interrupt Action and reduce their Initiative Score by 5 
+and Drop Prone behind any cover within 4 meters.
+DODGE (P. 191, SR5)
+Interrupt Action (–5 Initiative Score)
+FULL DEFENSE (P. 191, SR5)
+Interrupt Action (–10 Initiative Score)
+PARRY (P. 191, SR5)
+Interrupt Action (–5 Initiative Score)
+REVERSAL (UNARMED COMBAT ONLY)
+Interrupt Action (–7 Initiative Score)
+When a character finds himself stuck in a headlock 
+or some other form of Clinch or Grapple Action and 
+does not have the Superior Position melee modifier, 
+he has two options: Escape or Reversal. With a Rever-
+sal, the character makes an Unarmed Attack Test with a 
+threshold equal to the opponent’s hits from their Clinch 
+or Subduing Action. If successful, the character and op-
+ponent are still engaged in a Clinch or Subduing Action, 
+but the roles become reversed, giving the character the 
+Superior Position advantage and if reversing a Grapple, 
+the character can then attempt a Subduing Action on his 
+next Action Phase. Note that use of this action requires Mar-
+tial Art training.
+ 
+RIGHT BACK AT YA!
+Interrupt Action (–10 Initiative Score, Agility Test, 
+Throwing Weapons Test)
+Crazy is as crazy does, and this is what crazy does. 
+This action allows a character to return an incoming gre-
+nade by either intercepting its course in flight or scoop-
+ing it up off the ground and tossing it back. This action 
+is greatly affected by the type of trigger on the grenade. 
+With a basic attack and built-in timer trigger, the act-
+ing character needs enough Movement remaining to 
+reach the grenade or get into its path. If a gamemaster is 
+meticulous about distances in combat and wants to be 
+nasty, she can make the character decide to attempt this 
+before knowing if they have enough Movement. If the 
+character lacks the necessary Movement, they simply 
+move closer to the grenade and get themselves some 
+extra damage when the drek hits the fan. After sufficient 
+Movement is determined, the character needs to make 
+an Agility (2) Test to successfully pick up or intercept the 
+grenade. After that successful test, the character makes 
+a Throwing Weapons Attack Test with a –2 dice penal-
+ty due to all the other activity involved in this action to 
+throw the grenade.
+A grenade with a wireless trigger acts in essentially 
+the same way; the character just has to hope they can 
+>> KILLSHOTS AND MORE <<
+124    Putting the Hurt On >>
+
+
+===== PAGE 125 =====
+act quickly enough to counter the grenade before it is 
+wirelessly triggered.
+When a grenade is armed with a motion sensor 
+trigger, this action turns ugly. The character needs 
+sufficient Movement as before, but instead of being 
+able to send the grenade back, they simply end up at 
+zero distance when the grenade explodes. They can 
+however, choose to intercept the grenade anywhere in 
+its path, though they won’t know the effect until after 
+the big boom. 
+RUN FOR YOUR LIFE/ 
+DIVE ON THE GRENADE
+Interrupt Action (–5 Initiative Score)
+There are few things as frightening as the distinc-
+tive sound of a grenade bouncing into your vicinity or 
+watching a swirling ball of mana headed your way and 
+set to go boom. By the time you realize a whole lot of 
+trouble is on the way, there are very few options avail-
+able. This action covers two of those options. There is a 
+third, far more dangerous, option for incoming grenades 
+covered by the Right Back At Ya! Action. 
+Immediately after a Throwing Weapons Attack or 
+Area-Effect Indirect Combat Spell Spellcasting Test, a 
+character can make an immediate Interrupt Action to 
+flee. The character chooses a direction to move and can 
+use any amount of available Movement to move away 
+from the incoming attack. (Note that the gamemaster is 
+not obligated to determine or declare the final location 
+of the attack in the case of a fleeing character. A bad 
+bounce can still get a grenade on the character’s tail.)
+In the case of diving on the grenade, the character 
+moves toward the grenade, still limited by available re-
+maining Movement, and can choose to make a Drop 
+Prone Free Action when reaching the grenade. The sac-
+rifice means the character takes all the grenade damage 
+and eliminates the blast. In the case of a gas grenade, 
+this action cuts the effective radius in half. 
+SACRIFICE THROW
+Interrupt Action (–10 Initiative Score)
+A throw normally keeps the character standing, using 
+their hip, leg, or shoulder to leverage the opponent into 
+being thrown. The Sacrifice Throw technique uses the 
+whole character’s body as counterweight for the throw. 
+At the end both the character and opponent are Prone. 
+Add the character’s Strength and Body to the net hits of 
+the unarmed attack to determine if it exceeds the op-
+ponent’s Physical Limit. If successful, the opponent can 
+then be thrown up to a number of meters equal to 1 plus 
+the net hits scored on the test. The maximum distance 
+that a character can throw an opponent is the difference 
+in the character’s Strength minus the opponent’s Body in 
+meters. If this distance value is less than 0, then the max-
+imum distance is 0, meaning less than one meter away 
+from the character. The opponent suffers damage equal 
+to the net successes of the test, not the distance thrown. 
+If the initial test is successful but the throwing character 
+did not exceed the opponent’s Physical Limit, then both 
+characters are on the ground with no damage done to 
+either. If the attack is unsuccessful, the throwing char-
+acter is Prone and takes damage equal to the number 
+of net hits scored by the opponent minus the throwing 
+character’s Physical Limit. This may be no damage if the 
+character succeeded in the attack, but did not exceed 
+the opponent’s Physical Limit. Note that use of this action 
+requires Martial Art training.
+RIPOSTE  
+(ARMED MELEE COMBAT ONLY)
+Interrupt Action (–7 Initiative Score)
+Riposte allows shadowrunners to leverage an oppo-
+nent’s force to their advantage, giving a character the 
+chance to make a quick strike back at an attacker with 
+their readied weapon. In place of the standard Defense 
+Test, the character makes a (Melee Weapon Skill) + Re-
+action [Accuracy] Test against the opponent’s standard 
+Attack Test. If the defender achieves more net hits than 
+the attacker, the defender successfully avoided the at-
+tacker’s strike and managed to return a strike of their 
+own. The defender’s riposte attack has a Damage Value 
+equal to the normal DV of the weapon + net hits and is 
+resisted by a standard Damage Resistance Test. If the de-
+fender does not achieve more hits, then he must make 
+a Damage Resistance Test against the damage of the at-
+tacker’s strike, with the damage increased by 2 due to 
+the defender being off balance after their failed riposte. 
+Note that use of this action requires Martial Art training.
+PROTECTING THE PRINCIPLE
+Interrupt Action (–5 Initiative Score, 1 Edge)
+The character can choose to move up to 2 meters 
+to place themselves between an attacker and a target 
+and take the brunt of an incoming attack. There is no 
+Defense Test (Reaction + Intuition), only Damage Re-
+sistance (Body + Armor). This action can only be per-
+formed once per Combat Turn.
+SHADOW BLOCK
+Interrupt Action (–5 Initiative Score)
+ When one character in a fight tries to use their Gym-
+nastics skill to avoid a blow, or if they are trying to get 
+out of the fight, an opponent close to them can attempt 
+to interfere and make sure they take the damage com-
+ing their way. If a character is using the Dodge Interrupt 
+Action, an opponent can use Shadow Block on that op-
+ponent. They must make a Gymnastics + Agility [Phys-
+ical] Test with the threshold being the opponent’s net 
+hits from their Dodge Test. If successful, the character 
+reduces the hits the Dodging character received on their 
+Defense Test by the net hits they achieved on their test. 
+>> KILLSHOTS AND MORE <<
+<< Putting the Hurt On    125
+
+
+===== PAGE 126 =====
+Shadow Block can also be used to counteract an 
+Evade action. As above, the character with Shadow 
+Block makes a Gymnastics + Agility [Physical] Test 
+with the threshold being the opponent’s net hits from 
+their Evade Test. If successful they reduce this net hits 
+on the test, thereby reducing the number of people the 
+person attempting the Evade automatically passes. The 
+Shadow Blocker can choose which person then can at-
+tack, but it has to be someone who was within five me-
+ters of the person attempting to Evade at some point in 
+their movement. 
+Use of this action in either way requires Martial Art 
+training.
+COMBAT EDGE
+Edge is the ultimate x-factor of combat. One bad roll can 
+get turned around, a lucky maneuver can get a charac-
+ter out of trouble, and a hail-mary pass can be a game 
+winner—or get intercepted in the end zone. Using Edge 
+should add excitement and fun to the game. Here are a 
+few additional ways to involve Edge in your game.
+LUCKY MOVE
+The character can spend a point of Edge to use a Mar-
+tial Arts technique once per Combat Turn, whether they 
+are trained in that technique or not. The move doesn’t 
+look smooth, any effect it has is the result of pure luck, 
+but it works the same as if the character actually knew 
+what they were doing. Trained martial artists can use 
+this technique to make use of a technique they aren’t 
+trained in. This use of Edge can only be performed once 
+per Combat Turn.
+MIRACLE SHOT
+The character can spend a point of Edge to remove 4 
+points worth of Called Shot penalties for any Called 
+Shot. This means Called Shots from SR5 aren’t penal-
+ized, and some of the trickier moves from this tome 
+are made easier by the use thanks to the character’s 
+astounding luck.
+LUCKY DUCK
+A character can spend Edge for a teammate for the 
+purposes of avoiding an incoming attack. It costs two 
+of the character’s Edge points, and the teammate must 
+be within range for them to see what is coming and 
+warn their teammate (this includes commlink messag-
+es as well as audio and video systems). This ability is 
+used after an attack has been declared to make the 
+attack miss. 
+SIXTH SENSE
+Even when caught unaware, a character can use this 
+ability to spend a point of Edge and get a Defense 
+Test. In roleplaying terms, this could mean they catch 
+a glimpse of the incoming attack in a mirror, trip at the 
+right moment, or pay attention to the tingle running up 
+their spine. The point is they get lucky for that one mo-
+ment and get a chance to avoid a lot of incoming pain.
+LUCKY COVER
+The target can spend Edge to find a fortunate chunk 
+of cover—maybe ground thrown up by a grenade ex-
+plosion, or a rolling industrial barrel, or an extra large 
+wandering devil rat. The cover can provide a place to 
+hide during Suppressive Fire or provide a Defense Test 
+bonus for cover during a regular attack. This use of 
+Edge even provides a chance at cover during Enhanced 
+Suppression or Flechette Suppressive Fire. 
+EXAMPLE
+Tristan Skua is taking a shot at a Yak ganger named 
+Ikareteru. Ikareteru knows Skua is a good shot, so he de-
+cides to play it safe and declares a Full Defense Interrupt 
+Action. Skua’s friend Stiletto, though, wants Skua’s shot 
+to find its target, so she jumps in and declares a Shadow 
+Block action.
+Skua rolls first and gets 4 hits on his attack roll. 
+Ikareteru rolls his Willpower + Reaction + Intuition and 
+gets 5 hits, which is under his Physical limit of 6, so they 
+all count. He has 1 net hit, so as of now, Skua’s attack is 
+going to miss.
+But now Stiletto acts. She rolls Gymnastics + Agility 
+and gets an impressive 4 hits. The threshold for the test 
+was 1 (the amount of Stiletto’s net hits), so she ended up 
+with 3 net hits.
+That means Ikareteru’s 5 hits on his Defense Test are 
+reduced by 3, making it 2. That means Skua has gone from 
+missing his shot to having 2 net hits. Stiletto managed to 
+keep Ikareteru in the path of the bullet, and now the Yak 
+will have to resist the damage coming his way.
+>> KILLSHOTS AND MORE <<
+126    Putting the Hurt On >>
+
+
+===== PAGE 134 =====
+to hand combat to ensnare opponents and to drag 
+them off horses or out of formation to be killed. Today 
+the technique includes a mix of gun fighting, rope use, 
+and unarmed combat stylized by trids. It does not re-
+quire wearing a ten-gallon hat, but some practitioners 
+do anyway. Especially those with Distinctive Style.
+Available Techniques: Called Shot (Entanglement), 
+Hammer Fist, Haymaker, Knucklebreaker (Blast), Stag-
+ger, Tricking
+TURKISH ARCHERY
+Turkish Archery has two unique combat actions: Jarma-
+kee and Majra. Jarmakee is a balanced stance allowing 
+the archer to shoot from behind the head to give a 
+better angle without exposing herself to an opponent. 
+Majara is overdrawing; using shorter arrows with an ac-
+companying tool. The intent, as the story goes, is that 
+the opponent then couldn’t use the arrows to fire back. 
+There are few practitioners of Turkish Archery, with 
+most people preferring firearms and smartlinks, but 
+there are still tournaments held in Istanbul.
+Available Techniques: Called Shot (Pin), Close 
+Quarters Defense Against Firearms, HammerFist, Silken 
+Storm, Soaring Shackles, Thunder Strike
+WHIP FIGHTING
+Whip Fighting as a martial art style comes mainly from 
+the Philippines. Latigo y Daga (Whip and Dagger) fo-
+cuses on the use of flexible weapons; other martial 
+art styles, such as caci and wushu, use weapons such 
+as chain whips, but do not emphasize it as a primary 
+weapon. Whip Fighting covers entanglement of an op-
+ponent and, like a lion tamer, herding multiple oppo-
+nents with the crack of the whip.
+Available Techniques: Bending of the Reed, Called 
+Shot (Entanglement), Hammer Fist, Herding, Multiple 
+Opponent Defense (Friends in Melee), Multiple Oppo-
+nent Combat
+WILDCAT
+Wildcat is an advanced martial art style that builds on 
+Okichaw basic training for the Sioux Nation Special 
+Forces. It combines the more deadly parts of several 
+martial arts like Aikido, Muay Thai, and Karate. Unlike 
+Krav Maga, which emphasizes opponent neutraliza-
+tion, Wildcat employs more lethal techniques to disable 
+opponents. A few other NAN special forces have their 
+version of Wildcat style, but most prefer alternatives 
+like Krav Maga. Some Amerind gangs with ex-Wild-
+cats practice the Wildcat style of combat, with the vets 
+passing their knowledge on to their gang members.
+Available Techniques: Clinch, Counter Strike, Dim 
+Mak, Finishing Move, Multiple Opponent Combat, Ti 
+Khao
+WRESTLING (SPORT STYLE)
+This is the revered ancient art of throwing your oppo-
+nent to the ground and holding him there till he cries 
+“uncle.” Wrestling is one of the oldest forms of combat. 
+Reportedly existing for some four thousand years, with 
+more formal rules from all over the world. Grappling 
+your opponent and subduing him is the key strategy 
+with this style while throwing him to the ground is op-
+tional. Several folk wrestling styles including Mongo-
+lian Bökh and Cambodian Bok Cham Bab have similar 
+rules to the Sport style of wrestling.
+Available Techniques: Clinch, Constrictor’s Crush, 
+Jiao Di (Knock Down), Karmic Response, Sweep, 
+Throw Person
+WRESTLING (SUMO STYLE)
+Sumo is a competitive full-contact wrestling sport 
+where the rikishi, or wrestler, attempts to force an-
+other wrestler out of the ring or to touch the ground 
+with something besides their feet. While the only place 
+hosting Sumo as a professional sport is Japan, there 
+are smaller tournaments in North America and parts 
+of Asia where metahuman exiles have continued the 
+sport. There have been a number of international con-
+tenders in the sport, but they have been extremely 
+limited by the Sumo Association, which is believed in 
+some quarters to actively work to keep the sport from 
+being dominated by foreigners. In Africa, Senegalese, 
+or folk wrestling, has similar rules in that the winner 
+must throw the opponent out of the ring; the same 
+goes for Inbuan wrestling in India.
+Available Techniques: Barbed Hooks, Clinch, Herd-
+ing, Jiao Di (Knock Down), Rooted Tree, Throw Person
+WRESTLING  
+(PROFESSIONAL STYLE)
+Professional Wrestling is a mix of wrestling and theat-
+rics loosely based on the sporting style rules of wres-
+tling. Make no mistake, though—whether the outcomes 
+are pre-determined or not, the style requires significant 
+strength, coordination, and athleticism. Originating 
+in the early twentieth century, the Professional style 
+includes the basic classic techniques, which are then 
+enhanced in spectacular displays. A sacrificial throw 
+in professional wrestling is a suplex, while a sacrificial 
+move is called a spear. Professional wrestling has var-
+ious cultural and dramatic flavors. Someone may think 
+that this is not a style of martial arts—until they get a 
+flying elbow to the face.
+Available Techniques: Clinch, Jiao Di (Charge), Kar-
+mic Response, Sacrifice Throw, Tricking, Yielding Force 
+(Throw)
+>> KILLSHOTS AND MORE <<
+134    Martial Arts >>
+
+
+===== PAGE 135 =====
+WRESTLING (MMA STYLE)
+MMA, or Mixed Martial Art, style is a full-contact sport 
+of punches, kicks, and subdual holds mixing boxing and 
+wrestling. MMA has its roots in Greco-Roman sport 
+of Pankration with the same objective of beating the 
+opponent into unconsciousness or submission. MMA 
+is mostly a North American sport with similarities to 
+Brazilian Jiu-Jitsu and Shoot Wrestling in Asia. Popular 
+Aztechnology trideos include gladiatorial MMA and 
+Brazilian Jiu-Jitsu fights with frequent gory injuries. 
+Available Techniques: Clinch, Constrictor’s Crush, 
+Crushing Jaws, Jiao Di (Knock Down), Kick, Pouncing Dragon
+WUDANG SWORD
+Wudang Sword is part of the greater wudang martial arts 
+tradition. This style has been passed down for hundreds 
+of years and coveted as one of the greatest sword styles 
+from China. Many variations of sword techniques in oth-
+er Chinese martial arts derive themselves from Wudang 
+sword, but none surpass it. It consists of one sword with 
+six sections and 132 movements. The style is beautiful with 
+graceful lunges and jumps. Wudang Dui Jian is the dance 
+that occurs when two Wudang sword masters meet.
+Available Techniques: Ballestra, Finishing Move, Fly-
+ing Kick, HammerFist, Iaijutsu, Riposte
+MARTIAL ART 
+TECHNIQUES
+These martial art techniques cover various new ac-
+tions, Called Shots, and bonuses to actions that can be 
+learned in a martial art style. These techniques can only 
+be purchased through a martial art style or the One 
+Trick Pony Quality (p. 127). Note that characters should 
+use each technique as appropriate to the martial art 
+style even though the technique is available for various 
+styles. For example, while the brawl style of boxing in-
+cludes the Jiao Di technique, it should represent hook 
+and jab combinations to knock down an opponent.
+Whenever a Called Shot is used as a technique it 
+means one of two things. If the Called Shot is normally 
+available to everyone, the character can reduce the Called 
+Shot modifier by 1 for that Called Shot. If the Called Shot 
+description includes an action that requires Martial Arts 
+training, then the character is allowed to use that tech-
+nique but gets no reduction in the Called Shot modifier. 
+BALLESTRA (CLUBS/BLADES ONLY)
+See p. 119.
+BARBED HOOKS 
+(CLOSE COMBAT ONLY)
+The character is quick to strike out at opponents as they 
+move within his space. The technique provides a +1 die 
+bonus to Interception Interrupt Action tests.
+BENDING OF THE REED
+There’s two ways to face an opponent’s attack: meet it 
+head on or not be there. Bending of the Reed is the ap-
+proach of avoiding an attack by being more flexible and 
+using gymnastics to not be there when the strike oc-
+curs. This technique grants a +1 die bonus to Defense 
+Tests when using the Dodge Interrupt Action.
+BROKEN FANG
+Broken Fang is a set of strikes that specifically target 
+various weapons in order to make them less effective 
+when used. Even a slight bend in a sword can cause a 
+strike to miss its mark. Reduce Called Shot penalty by 1 
+for Called Shot (Break Weapon).
+>> KILLSHOTS AND MORE <<
+MARTIAL ART STYLES
+Each style can be used as a skill specialization. Some of these styles 
+can be a specialization for a combination of skills, or do not easily fit into 
+a single skill and so are not listed here. The gamemaster makes judgment 
+calls about what specializations may be applied to which skills.
+Examples: Chakram Fighting can be applied to both the Exotic 
+Ranged and Melee Weapon skill; Gun Kata can be applied to both 
+firearms and clubs.
+UNARMED COMBAT
+52 Blocks	
+Akido
+Boxing (Classic Style) 	
+Boxing (Brawler style) 
+Boxing (Swarmer Style)	
+Capoeira
+Carromeleg	
+Drunken Boxing
+Jeet Kune Do	
+Jujitsu
+Karate	
+Krav Maga
+Muay Thai	
+Sangre y Acero Wrestling (MMA style) 
+Tae Kwon Do	
+Wildcat
+Wrestling (Professional style)	 Wrestling (Sport style)
+Wrestling (Sumo Style)
+FIREARMS
+Firefight	
+Gun Kata
+Knight Errant Tactical	
+Lone Star Tactical
+The Cowboy Way
+GYMNASTICS
+Parkour
+BLADES
+Fiore dei Liberi (Two Weapon Sword Fighting)	 Kenjutsu
+Kunst des Fechtens (Long Sword Fighting)	
+Okichataw
+La Verdadera Destreza (Rapier Fighting)	
+Pentjak-Silat
+Wudang Sword
+CLUBS
+Arnis de Mano	
+Bartitsu
+Jogo Du Pau	
+Okichataw
+Quarterstaff Fighting
+ARCHERY
+Kyujutsu	
+Turkish Archery
+<< Martial Arts    135
+
+
+===== PAGE 136 =====
+CALLED SHOT (BREAK WEAPON)
+See p. 111.
+CALLED SHOT (DISARM) 
+(UNARMED COMBAT ONLY)
+See p. 111.
+CALLED SHOT (ENTANGLEMENT) 
+(EXOTIC WEAPON ONLY)
+See p. 111.
+CALLED SHOT (FEINT)  
+(CLOSE COMBAT ONLY)
+See p. 111.
+CALLED SHOT (PIN)  
+(ARCHERY OR THROWN WEAPON)
+See p. 112.
+CHIN NA
+Chin Na is the art of catching and locking joints. There 
+are seventy-two specific techniques, including small 
+joint manipulation. The proper pulling or bending of fin-
+gers, wrists, or toes gives a weaker character more lever-
+age over a stronger opponent. Add +2 to the Physical 
+Limit of the character for Subduing Actions.
+CLINCH
+See p. 119.
+CLOSE QUARTER FIREARMS 
+(RANGED WEAPONS ONLY)
+In the early use of ranged weapons when the enemy 
+charged in with swords and axes, this sort of training 
+helped keep the archer alive. Today this technique has 
+been modified to be effective with firearms while in 
+close-quarter combat with an opponent. This has been 
+effective against being charged by an opponent or 
+within a mixed amount of close combat and exchange 
+of fire. Close Quarter Firearms is learned for a specific 
+Ranged Weapon Skill. Reduce the ranged combat At-
+tacker in Melee Combat modifier by 1 for the charac-
+ter when using Firearms, Bow, or Throwing Weapons 
+Skill (depending on the Martial Art style it’s tied to). 
+This technique can be selected more than once to gain 
+each skill.
+CYBERNETICS AND MARTIAL ARTS
+With cybernetics, there are a few extra details that come up 
+when mixing them with martial art styles and techniques. Here are 
+a few that come up.
+CYBERNETIC LIMBS AND HANDS
+The Strength Rating of individual cybernetic limbs or partial 
+cybernetics can be used on various techniques. When applying 
+subduing damage to an opponent, the character could use their 
+individual hand, arm, or leg Strength in the attempt, as various 
+choke holds can be done either with the arm (example: half-
+nelson) or hand (example: trachea choke hold) or leg (triangular 
+choke hold).
+HAND RAZORS, BLADES, AND SPURS
+While these weapons work well in slicing up an opponent, they 
+are not compatible with all actions and techniques. For example, 
+when attempting to throw, grapple, subdue, or disarm an opponent, 
+the character does not get the cyber weapon specialization bonus 
+dice. Additionally, cybernetic weapons can be damaged and 
+broken in combat. This is especially true in Sangre y Acero style of 
+combat. Because the attack using a cybernetic melee weapon is 
+based on the Physical Limit of the character, it doesn’t make sense 
+to reduce the Accuracy of the weapon (that would be a Called 
+Shot to a location). Instead, a successful Called Shot reduces the 
+AP value by 1. If a cybernetic weapon is damaged more than once 
+this way, it can no longer retract properly (if said cyber weapon 
+was retractable). Damage to cyber weapons can only be repaired 
+by a cybernetic specialist at one tenth the price of the cyberware 
+being repaired and require a Logic + Cybertechnology [Mental] (10, 
+1 hour) Extended Test to complete. 
+SKILLWIRES
+While skillwires help with the applicable skill rating for a 
+character, they cannot allow the use of martial arts techniques 
+without the character first learning the style and techniques 
+separately.
+>> KILLSHOTS AND MORE <<
+136    Martial Arts >>
+
+
+===== PAGE 137 =====
+CLOSE QUARTER DEFENSE 
+AGAINST FIREARMS
+The Close Quarter Defense Against Firearms technique 
+teaches the character to avoid getting shot while en-
+gaged in close combat. This includes keeping your 
+melee opponent in the line of fire of other opponents 
+and keeping mobile. This technique provides a +1 die 
+bonus to Defense Tests against Ranged Attacks if en-
+gaged in close combat. 
+CONSTRICTOR’S CRUSH
+This technique masters various choke holds usually in-
+volving constricting air or blood flow to the head, to 
+more quickly subdue a target. +1 DV when inflicting 
+damage on a subdued opponent.
+COUNTERSTRIKE
+See p. 124.
+CRUSHING JAWS
+The Crushing Jaws technique covers clinches and locks 
+that bend bone and strain muscles. It covers maneu-
+vers with names like can opener, bear hug, and Boston 
+crab, moves that are illegal for many combat sports as 
+they can cause serious injury or death. The Crushing 
+Jaws technique allows Subduing actions (p. 195, SR5) 
+to cause Physical Damage equal to the character’s 
+Strength. This technique can only be used once per 
+Combat Turn.
+DEFIANT DANCE
+This technique keeps the character flexible, helping 
+them know how to turn a disadvantage to an advan-
+tage. When the character is attempting to reverse a 
+Subdual hold on him, reduce the Called Shot penalty 
+by 1 for Called Shot (Reversal) or reduce the threshold 
+for the Reversal Interrupt Action by 1 (player’s choice).
+DIM MAK
+Also known as the touch of death, this technique takes 
+advantage of artery and nerve points to cause lasting 
+pain, making the targeted arm or leg ineffective. Re-
+duce Called Shot penalty by 1 for Called Shot (Specific 
+Location). An arm or leg must be the location targeted.
+FINISHING MOVE  
+(CLOSE COMBAT ONLY)
+See p. 120.
+FLYING KICK
+See p. 121.
+FULL OFFENSE
+See p. 121.
+GRASPING VINES
+This technique improves the practice of using a whip, 
+chain, or rope in quickly entangling an opponent. Re-
+duce the Called Shot penalty by 1 for Called Shot (En-
+tanglement) (Exotic Weapon only).
+HALF SWORD (BLADE ONLY)
+See p. 121.
+MAGIC AND MARTIAL ARTS
+TOUCHING, GRAPPLING, SUBDUING, 
+AND CLINCHING WITH TOUCH SPELLS
+When a character and opponent are in physical contact, such as 
+when a magician is being subdued or subduing an opponent, and the 
+magician is casting a spell directed at that opponent, the opponent 
+can only resist the effects of the spell and does not get a Defense Test 
+against the Touch Attack.
+MAGICAL MARTIAL ART TECHNIQUES
+Some magicians may attempt to fight an opponent using a spell 
+like Magic Fingers. This is a very challenging task with martial arts. 
+This kind of combat doesn’t gain the benefits of the Superior Position 
+modifier or Reach, nor does it gain an extra damage advantage, so 
+some techniques do not apply. Visual modifiers apply as the use of the 
+spell is based on line of sight. The gamemaster may apply additional 
+modifiers for any action that requires finesse, such as using Dim 
+Mak, if they feel it interferes with the spellcaster’s concentration on 
+their magic. 
+PHYSICAL ADEPT POWERS WITH TECHNIQUES
+Some adept powers have a boost that is similar to a Martial Art 
+technique, such as Rolling Cloud or Light Body. If the adept has both 
+the power and the technique, the rules or bonuses of the power 
+supersede the gains and rules of the technique. This means that the 
+adept doesn’t gain benefit from both. If the adept turns off the power, 
+however, she can still use and gain the advantage of the technique. 
+Current list of powers/techniques with such an overlap include:
+	
+POWER	
+TECHNIQUE
+	
+Light Body	
+Rolling Cloud
+	
+Light Body	
+Leaping Mantis
+	
+Wall Running	
+Monkey Climb
+>> KILLSHOTS AND MORE <<
+<< Martial Arts    137
+
+
+===== PAGE 140 =====
+RANDORI
+This is a freestyle technique of sparring by using any 
+means necessary. While variations are incorporated 
+into martial arts such as Judo and Aikido, the gener-
+ic technique includes eye gouging and other less than 
+friendly holds and attacks. Reduce Called Shot penal-
+ty by 1 for Called Shot (Dirty Trick), reduce the Called 
+Shot penalty by 1 for Called Shot (Vitals), or reduce the 
+Called Shot penalty by 1 for Called Shot (Specific Loca-
+tion (Eye)). Characters only receive one of these bene-
+fits, as listed with the martial art style they select.
+RIPOSTE
+See p. 125.
+ROOTED TREE
+Rooted Tree allows a character to quickly shift their 
+center of gravity and resist an attack attempting to 
+move them without leaving their spot. It provides +1 
+to the Physical limit when resisting the Push, Shove, or 
+Sacrificial Move actions.
+SACRIFICE THROW
+See p. 125.
+SHADOW BLOCK
+See p. 125.
+SILKEN STORM
+The Silken Storm technique is a series of finesse strikes 
+to the body, aimed at spots that will break or bruise 
+painfully. It can be done with bare hands, with a club, 
+or with the use of both the edge and flat of a blade. 
+This technique reduces the penalty by 1 for Called Shot 
+(Splitting the Damage).
+>> KILLSHOTS AND MORE <<
+SPIRITS AND MARTIAL ARTS
+Fighting spirits has become somewhat more familiar in 
+the Sixth World, but it still presents plenty of challenges. 
+Techniques like Dim Mak or knocking down a spirit can be 
+ineffective thanks to the wide anatomical variety spirits 
+display when they materialize. Attempting to suffocate a 
+spirit is impossible, as while they may assume physical forms, 
+they don’t actually breathe. And their Immunity Power puts 
+a damper on a lot of styles. No single martial art style deals 
+directly with fighting spirits, but there is a technique for fighting 
+such unusual opponents. The technique is called Neijia, and 
+any character who has purchased a martial art style can learn 
+this technique
+NEIJIA
+Complex Action
+Neijia means internal strength. It’s as close as a mundane 
+can get to magical weaponry in fighting spirits. The technique 
+focuses the spiritual and mental strength of the character in 
+order to inflict damage to a Materialized spirit as an Attack 
+of Will. It allows the character to perform a physical version 
+of Astral Combat (p. 315, SR5) against Materialized spirits. 
+The style of the attack is based on Tai Chi’s soft and fluid 
+motion and mental discipline. The character must first make a 
+successful Touch Attack against the spirit. This can include a 
+Grapple or Clinch, but it also counts if the character has been 
+Engulfed. Using only Willpower vs. Willpower as an attack, 
+the character can impose Charisma + net hits in Stun Damage 
+that the spirit must resist. This damage is not physical, so it 
+cannot be used to take down wards or magical barriers. The 
+character feels drained after making this attack, resisting Stun 
+Damage equal to hits (not net hits) from the spirit defending 
+against the attack. If they are a mage they resist Drain per their 
+tradition; everyone else uses Willpower + Charisma.
+ELECTRICITY DAMAGE AND MARTIAL ARTS
+Some weapons seem to be perfectly suited to particular 
+martial arts. Like shock gloves and karate, or a stun baton and 
+baritsu. Notice a common theme? Weapons that deal electricity 
+damage give extra options when using Martial Arts. When a 
+character with a Martial Art training attacks an opponent using 
+a weapon such as a shock glove or stun baton, they have a 
+choice of damage to apply. They can either opt for the normal, 
+non-electric damage of the attack, taking full advantage of any 
+Martial Arts techniques they use, or they can apply the shock 
+damage without the net hits or increases from techniques. 
+If the character is in touch contact with an opponent 
+from a Grapple or Clinch and has equipment that deals 
+electricity damage, the character may make a Free Action 
+to initiate shock damage to the opponent provided that 
+the gamemaster agrees that the weapon is also in touch 
+contact with the opponent. If the weapon is not in touch 
+contact, it costs the character a Simple Action. The target 
+can attempt to squirm away, but the Grapple or Clinch 
+means they have trouble moving, giving them a –3 dice 
+penalty on their Defense Test. As is the case with Touch-
+Only Attacks (p. 187, SR5), the attack succeeds on a tied 
+roll. As is the case above, neither net hits nor techniques 
+will increase the Damage Value of the weapon when used 
+in this fashion.
+140    Martial Arts >>
+
+
+===== PAGE 141 =====
+SOARING SHACKLES
+This technique focuses the character on the opponent’s 
+motions, looking for the intersection of projectile, bar-
+rier, and opponent. It reduces the penalty by 1 for 
+Called Shot (Pin).
+STAGGER
+This technique focuses attacks on sensory and nerve 
+areas to disorient an opponent. This technique covers 
+the ear slap, or a strike to the groin, solar plexus, or 
+throat. It’s not the prettiest of attacks, but shadowrun-
+ning isn’t about appearances. It reduces the penalty by 
+1 for Called Shot (Shake up) or Called Shot (Specific Lo-
+cation (Eye, Ear, Sternum)).
+POUNCING DRAGON  
+(CLOSE COMBAT ONLY)
+See p. 122.
+ROLLING CLOUDS
+This technique is about adjusting the kinetic energies 
+thrust upon a body so that it bends and doesn’t break. 
+This includes resisting injuries from falling/jumping 
+from heights or from being thrown. It reduces the DV of 
+Falling Damage by 1.
+SWEEP (CLOSE COMBAT ONLY)
+Martial Art techniques allow more control over how 
+the opponent falls when the character knocks him off 
+his feet (Knockdown, p. 194, SR5). He may choose to 
+inflict damage as if it were a normal melee attack. Dam-
+age type from a sweep is always Stun.
+THROW PERSON
+See p. 123. 
+THUNDER STRIKE
+Thunder strike is a fierce punch or strike with a weapon. 
+It’s not just a punch to the nose; it’s an upper cut to the 
+nose that makes your opponent even uglier. It reduces 
+the penalty by 1 for Called Shot (Harder Knock).
+TI KHAO
+From Muay Thai, this technique covers various knee 
+strikes that the character can do while in a Clinch with 
+an opponent. When in Clinch combat, the character can 
+leverage their opponent’s body for more impact, giving 
+them +1 DV when inflicting damage.
+TRICKING
+This technique covers a mix of martial arts and gym-
+nastics involving showmanship and flair with lots of 
+jumping and flips. It includes such maneuvers as the 
+540 kick, butterfly twist, and double roundhouse. Trick-
+ing also covers a display of spinning and flashing the 
+character’s weapon around his body. Such maneuvers 
+are difficult to perform, but they can be effective in in-
+timidating the untrained in not wanting to fight. It re-
+duces the penalty by 1 for Called Shot (Trick Shot).
+TWO-HEADED SNAKE
+This technique is all about misdirection and misrepresen-
+tation, focusing on not giving away any tells in your tech-
+nique. It also involves a little method acting to give the 
+opponent a false impression of your status. It reduces the 
+penalty by 1 for Called Shot (Feint) (Close Combat only).
+TWO-WEAPON STYLE ATTACK 
+(CLUBS/BLADES ONLY)
+Eskrima’s double baraw or double daga, Ryoto Jutto 
+and modern fencing with sword and dagger are all ex-
+amples of martial arts that train people how to fight 
+with a weapon in each hand. Each weapon can only 
+have a reach of 1 or 0. Two-weapon style combat treats 
+both weapons as one. When attacking, use the lesser 
+Reach of the two weapons, but add 1 to the Accuracy 
+and Damage Value of the longer weapon. The character 
+must be able and ready to use a weapon in each hand 
+in order to perform this style of attack.
+TWO-WEAPON STYLE DEFENSE 
+(CLUBS/BLADES ONLY)
+This two-weapon style technique is more specific 
+to defense of the character. The character receives a 
+2 dice bonus when using Full Defense against Close 
+Combat attacks. The character must be able and ready 
+to use a weapon in each hand in order to perform this 
+style of defense.
+YIELDING FORCE
+Opposite of Opposing Force, Yielding Force is the prac-
+tice of using the opponent’s force against him. It provides 
++1 die to Riposte, +1 die to Counter Strike, or +1 die to 
+Throw (including both the Throw Person and Sacrificial 
+Throw actions). Characters only receive one of these bo-
+nuses, as indicated in their particular Martial Art style.
+>> KILLSHOTS AND MORE <<
+FIGHTING IN THE DARK
+Martial art styles don’t specifically train someone to fight 
+without sight, but there are special students who practice 
+relying on their other senses to achieve success. To this end, 
+they learn how to Strike the Darkness. Any character who has 
+purchased a Martial Art style can learn this technique.
+STRIKE THE DARKNESS
+This technique reduces the character’s reliance on his sight 
+to fight an opponent. It’s a mix of using other senses such as 
+hearing and smell and using memory, remembering previous 
+blocks and strikes to predict the opponent’s next position. It 
+reduces the penalty for Blind Fighting by 1.
+<< Martial Arts    141
+
+
+===== PAGE 142 =====
+>> KILLSHOTS AND MORE <<
+MARTIAL ARTS IN ACTION
+COUNTERSTRIKE
+Wombat just made the mistake of pick-
+ing a fight—and spilling his drink—on a wiry 
+fellow wearing what looks like white paja-
+mas. The opponent is named Ryu, and he is 
+a practitioner of Karate (Counter Strike, Op-
+posing Force (Block), Kick, Sweep and Kip-
+up). There’s also a bouncer in the bar who 
+feels obliged to get involved. When Wombat 
+swings, he finds his blow blocked by Ryu’s 
+right arm while a retaliatory left arm hits him 
+in the jaw. 
+Wombat is inebriated and has a –1 modi-
+fier to all actions. He plays Edge to Seize the 
+Initiative (leaving him with 4 Edge remain-
+ing) and rolls an Initiative Score of 19. Ryu 
+in turn rolls an Initiative Score of 16, while 
+the bouncer rolls an Initiative Score of 23. 
+The bouncer delays his action so he can see 
+how things are going before he intervenes.
+Wombat then rolls to attack. He has Un-
+armed Combat 4, Agility 6, and a Physical 
+limit of 5, and he takes a –1 penalty for his 
+inebriated state. He gets 5 hits.
+Ryu chooses to Counterstrike, in which 
+he as a specialization. He immediately de-
+ducts 7 from his Initiative Score (making it 
+9) and rolls Unarmed Combat 6, +2 for his 
+specialization, and Agility 5, with a Physical 
+limit of 7. Ryu rolls 6 hits, more than Wom-
+bat’s 5, so it is a successful Counterstrike. 
+Ryu’s Damage Value is 6S + 1 net hit from the 
+Counterstrike for a total DV of 7S.
+Wombat rolls his Damage Resistance 
+Test with his Body 6 + Armor 9 and gets only 
+4 hits, so he takes 3 boxes of Stun Damage, 
+imposing a –1 Wound Modifier.
+Wombat is understandably wary of what 
+his opponent might do now, so he tries not to 
+push too hard when he takes another punch. 
+He rolls Unarmed Combat 4 and Agility 6 
+with –1 for inebriation and –1 for his wound, 
+but he decides to throw in some Edge (he 
+now has 3 left). He gets 4 hits.
+Ryu decides to conserve his remaining Ini-
+tative Score and not do another Counterstrike, 
+so he just makes a standard Defense Test, get-
+ting 5 hits. Wombat has missed again.
+Ryu’s now has an attack, and he at-
+tempts a Called Shot (Knock Down). He 
+takes a –4 dice pool penalty to the roll and 
+ends up with 4 hits. Wombat rolls his De-
+fense Test and only gets 2 hits. So he fails, 
+meaning he falls prone. Ryu has the Sweep 
+technique, meaning Wombat has to roll his 
+Damage Resistance Test against a Damage 
+Value of 8S. With a lucky Damage Resis-
+tance roll, he gets off with only 1 box of Stun 
+Damage. But he’s still prone.
+The bouncer decides it’s not yet time to 
+intervene, and Wombat and Ryu are out of 
+Initiative Score, so the Combat Turn is over.
+THROW PERSON
+In the melee, another customer in the bar 
+has decided the fight looks entertaining and 
+has decided to join in. His name is Ken, and 
+he has a black belt in Jujitsu, and he knows 
+the following Techniques: Chin Na, Clinch, 
+Sacrificial Throw, Throw Person, and Called 
+Shot (Disarm). Wombat expects both to come 
+at him, but Ryu stands there as Ken gets 
+up and approaches Wombat. The initiative 
+scores are as follows: Wombat 27, Ken 26, 
+Ryu 17, and the bouncer 16
+Wombat swings and misses at Ryu—his 
+penalties are dragging him down. Ken then 
+charges in and aims a roundhouse kick at 
+Wombat, but he also misses. Ryu tries to 
+punch Wombat, but keeping the theme for 
+this Initiative Pass going, he misses. The 
+bouncer continues to delay action. Wombat 
+now has an Initiative Score of 17, Ken 16, Ryu 
+7, and the bouncer 6.
+Wombat decides to take on the newcomer 
+and charges Ken; the charge bonus offsets his 
+penalties, and he gets 4 hits. Ken decides to 
+Block, so he rolls Unarmed Combat 5 and Agil-
+ity 5 with a Physical limit 6. He gets 5 hits and 
+subtracts 5 from his Initiative Score (now 11). 
+Ken is successful, and he then declares a 
+Throw Person Action. Ken subtracts 10 from 
+his Initiative Score (making it 1). Ken rolls to 
+attack and gets 5 hits; Wombat rolls his De-
+fense Test and only gets 2 hits.
+The sum of Ken’s Strength (5) + 3 net 
+hits is greater than Wombat’s Physical Limit 
+(5). Wombat’s Body is 5, meaning Wombat is 
+thrown 3 meters. After rolling for Damage Re-
+sistance (Body + Armor) he suffers 3 boxes of 
+Stun Damage (it’s Stun because the modified 
+Armor Value is greater than modified Dam-
+age Value).
+Wombat’s Initiative Score is 6, while 
+Ken’s Initiative Score is now 1. Ryu and the 
+bouncer delay their actions.
+CALLED SHOT (BLAST OUT OF HANDS)
+Wombat is now pissed off enough to pull 
+out his holdout pistol. He uses a Complex Ac-
+tion to pull out the gun, since it was not in a 
+quick-draw holster, or in a position to draw 
+quickly. 
+The bouncer, who happens to be an ad-
+ept, decides this is a good time to act. He 
+knows the following Techniques: Close Quar-
+ter Defense Against Firearms, Barbed Hooks, 
+Imposing Stone, and Hammer Fist. He runs up 
+to Wombat and attempts to kick the gun clear 
+out of his hands. He makes a Called Shot 
+(Blast out of Hands). Bouncer rolls to attack 
+with the following values: Agility 6, Unarmed 
+Combat 8, –4 for called shot, +1 for Hammer 
+Fist. He does not get the + 2 specialization 
+bonus because he has not learned a specific 
+style) and gets 7 hits. Wombat gets 3 hits on 
+his Defense Test. The bouncer gets 4 net hits, 
+enough to send the gun flying 4 meters away. 
+The gun flies over the bar.
+SHADOW BLOCK
+It’s time to roll Initiative again. Wombat 
+rolls an Initiative Score of 20, Bouncer rolls 
+an 18, and Ryu and Ken both get a 16.
+Wombat decides it’s time to get out of a 
+worsening situation. He heads for the door 
+and tries to Evade his three opponents. He 
+rolls Agility + Gymnastics [Physical] and gets 
+the 3 hits needed to avoid Interception or 
+Interception attacks by his opponents. Wom-
+bat’s Initiative Score is now 10.
+The bouncer doesn’t want Wombat to 
+get away after causing so much disruption, 
+so he spends a point of Edge while attempt-
+ing a Shadow Block. Bouncer rolls Agility + 
+Gymnastics [Physical] with a threshold equal 
+to Wombat’s 3 hits. Bouncer takes 5 from his 
+Initiative Score and gets 4 hits, which is 1 net 
+hit. That means he drops Wombat’s net hits 
+to two. Wombat no longer has enough net 
+hits to get by everybody automatically. The 
+bouncer decides he will be the one to attack 
+Wombat. His Initiative Score had already 
+dropped from 18 to 13 thanks to the Shadow 
+Block, and he drops another 5 to attempt an 
+Interception. The bouncer does not have a 
+weapon ready, so this is an Unarmed Combat 
++ Agility [Physical] Test. He gets 2 net hits, 
+which are added to his Strength to make a 
+Damage Value of 7. Wombat gets 4 hits on his 
+Damage Resistance Test, which means the 
+final damage to him is 3, which is less than 
+his Body Rating. That means the bouncer’s 
+Interception failed, so Wombat bounds by 
+and out into the street—hopefully resolved 
+to resist the urge to get into a fight next time 
+he’s in a bar.
+142    Martial Arts >>
+
+
+===== PAGE 143 =====
+FIXIN’ ALL THE 
+BROKEN DREK
+The SR5 Core Rulebook covers the basic rules for fixing 
+gear and fixing people. But not all things fix the same, 
+so we have some more specific rules to help the game-
+master better reflect the variety of repair jobs that take 
+place in the Sixth World. 
+MAKING THE BLIND SEE  
+AND THE DEAF HEAR
+With Called Shots now able to be aimed at all sorts of 
+specific body parts, we can also have more specific rolls 
+to stop the bleeding or mend that trigger finger straight. 
+Some of those rolls are described within the particular 
+Action, but we’ll cover some other situations here.
+Eye and ear attacks that blind and deafen require 
+a little extra care. Any type of Healing Test (First Aid, 
+Medicine, Heal spells, etc.) have their threshold in-
+creased by 1 when working in these sensitive spots. 
+In all cases once the healer has taken care of enough 
+boxes to cover the DV Limit of the Called Shot, the in-
+jury is considered repaired no matter how much other 
+damage may be present. 
+BROKEN WEAPONS
+The standard Build and Repair rules (p. 145, SR5) cover 
+the main rules but only give general advice to the gam-
+emaster for those times when guns, knives, swords, 
+and spurs get broken. Here are some specifics for get-
+ting in depth into putting broken pieces back together.
+For starters, all broken melee weapons require an 
+Extended Test with a Long Interval (1 hour). Whether 
+the weapon requires reforging, rebalancing, or resharp-
+ening, it will take a while to make a truly combat-ready 
+weapon. The threshold for the Repair Test should be 
+based on just how much effectiveness the weapon has 
+lost. A loss of Accuracy is Average (12)—with a little re-
+sharpening or rebalancing, the weapon is good as new. 
+A loss of AP is Hard (18), with damage being done to 
+the integrity of the weapon. A loss of Reach is Very Hard 
+(24) to repair, as trying to reconnect any of the damaged 
+parts together is going to take multiple steps. 
+The tough part of all of this is often the cost. Is it really 
+cost effective to fix your favorite katana after a run-in with 
+some street nut with a swordbreaker? If the character is 
+doing the work themselves, usually it is. The materials to 
+repair an item cost two percent of the original cost per box 
+of damage being repaired, ten percent of the original cost 
+of the weapon for each point of Reach lost, five percent of 
+the original cost for each point of AP, and thee percent for 
+each point of Accuracy. Yes, bringing that weapon back 
+from the dead may cost as much as buying one, or it may 
+even cost more, but it was essentially destroyed, so it 
+doesn’t get fixed quick. 
+The real cost issue comes in when you hire some-
+one to do the work. A skilled craftsman will charge (Skill 
+Rating x the number of hours for repair x 10) nuyen plus 
+the cost of materials above. More skill on the part of the 
+repairer gets the piece back faster, but probably costs a 
+little more. And the people capable of doing that work 
+may be hard to find. Less skill on the part of the repairer 
+takes more time but could save you a few nuyen.
+ALL THE OTHER BROKEN DREK
+Commlinks, cars, gear, and other goodies can all get 
+trashed in the dangerous Sixth World but there is always 
+someone with the skills and supplies to fix them back up. 
+The same general costs apply; two percent of the original 
+cost per box of damage being repaired for the materials. 
+Specific attributes are tough to break down, especially 
+with all the gear and goodies in the Shadowrun universe, 
+but a few pieces can be covered, especially since we 
+mentioned them specifically here in Run & Gun. Check 
+out the Fixin’ That Old Beater table for the parts of a car 
+we already told you that you could break.
+The labor is the really expensive part. A skilled me-
+chanic will charge (Skill Rating x number of hours for re-
+pair x 10) nuyen plus the cost of materials for the work. It’s 
+good to remember that a mechanic working in a regular 
+shop won’t likely put in more than four hours a day on a 
+single car. Extra nuyen will probably keep them focused on 
+a particularly important project for as long as eight hours in 
+a day, but unless the money is really good they’re better off 
+spreading the work around to keep the projects flowing. 
+Most everyday gear in the world of 2075 is pretty 
+disposable, but sometimes sentimental value compels 
+people to keep an old standby around. Follow the ba-
+sic guideline of ten percent of the original cost per box 
+of damage being repaired for the materials. Since this is 
+everyday stuff, laborers are easier to come by and there-
+fore a little cheaper. Repairman in this area will charge 
+(Skill Rating x number of hours to repair x 5) nuyen for 
+their services. Thresholds for everyday gear can be esti-
+mated as Device Rating x 3. If something seems like it 
+should be complex or intricate, slide the number up the 
+scale; if it seems simple, drop it a few. Sometimes it’s fun 
+to enjoy the power of being the gamemaster. 
+>> KILLSHOTS AND MORE <<
+FIXIN’ THAT OLD BEATER
+PART
+THRESHOLD
+PRICE
+Antenna
+4
+20¥
+Axle
+18
+2,000¥
+Door lock
+12
+800¥
+Engine block
+24
+25 percent  
+of vehicle cost
+Fuel tank/battery
+18
+1,200¥
+Window motor
+12
+800¥
+Window
+12
+300¥
+<< fixin’ all the broken drek    143
+
+
+===== PAGE 144 =====
+Watching the temperature numbers drop on the AR display while sitting in the cozy warmth of his MCT EnviroGen 
+extreme environment tent made Grant Toshi beam with pride over the advanced temperature regulation systems he 
+had helped to develop. It was thrilling to finally be out of the lab and in the field. Though he had some doubts in the 
+beginning about using his precious vacation time to do some private field testing, he was past all that now. 
+As the wind outside continued to howl and he watched the display slide past –30° Celsius, he slipped off the last 
+of his garments to truly enjoy the cozy 24° C air inside the spacious tent. He considered the howling and pulled up 
+another window in the AR field to jot down notes for a proposed upgrade, a model with more sound dampening. That 
+note was quickly followed by a few more notes on how to develop that without compromising the other systems. 
+He was in the middle of a heat absorption equation for MCT’s new Sairento™ advanced sound dampening material 
+when Shiyonin, his agent program, informed him of a message he had just received. 
+<Get dressed, exit the tent, and walk away.> No signature. No transmission authentication code. 
+Toshi considered his options. Doing as the message said was not one of them. He had only reached his current 
+location with the help of his guide, Shan-jun, who was currently assisting another climber on a distress call the pair 
+had received about an hour earlier. He wouldn’t survive long without the guide, and he knew it. Toshi thought it best 
+to simply negotiate. 
+He tapped the AR reply icon and began to type on the AR keypad. <I understand the nature of your message and don’t 
+wish to argue or insult, but I do not think I can exit…>
+At the sound of a pair of quick slapping pops, Toshi stopped typing. He felt a chill immediately start to fill the air 
+and looked up to see two holes near the top of the tent, which were flapping and growing larger with the gusting wind. 
+Toshi tapped the voice operation command for typing and began to speak the rest of the message as he grabbed the 
+repair kit and hurried to work on the holes.
+“… this tent and survive, period, I would like to make an alternate arrangement, period, is your intention to get this 
+tent for a corporate employer other than MCT, question mark, end message, send.” His voice was relatively calm and 
+monotone while his hands frantically sprayed the InstaSeal™ repair fluid over the holes. The tent was resealed only a 
+moment after the message was sent.
+The reply came quickly.
+Another slapping pop was followed almost instantly by something small and fast slamming into, and through, his 
+gut before proceeding out the other side of the tent. 
+Toshi didn’t bother to look down; he knew he’d been shot. It wasn’t as painful as he had always imagined it would 
+be. His knees gave out quickly and he fell back onto the pile of clothes he had discarded to enjoy the warmth of the 
+tent. He tried to sit up but found the muscles of his abdomen unresponsive. He craned his neck up and down and saw 
+the clean hole where the bullet had come in and then the blood spattered mess around the tent’s exit wound. 
+The cold air blowing in from the exit hole passed over his face and turned his breath to an icy mist. A freezing wind 
+iced his shredded abdomen. He finally looked down and saw the steam rising from his warm blood. The blood was 
+freezing fast, and instead of coagulating to seal the wound, the blood was forming an icy bandage. 
+The calm suddenly left him, replaced by a rush of panic and fear. “Help!” Toshi screamed, again and again. A small 
+part of his mind knew that the howling of the wind was much louder than his injury-hampered screams, and the 
+screams grew quieter and less frequent with each breath of freezing air he drew into his lungs. 
+It wasn’t long before the air in the tent was painful to breathe and Toshi began to waver on the edge of con-
+sciousness. 
+He remembered seeing the tent open and Shan-jun appear. He remembered the frigid chill as he was dragged out 
+onto the snowy mountainside. He remembered the feeling of not-feeling, the complete loss of physical sensation. He 
+remembered the thunderous explosion and the avalanche. He remembered the light, the voices, the warmth of the 
+nutrient tank. He remembered the face of Shan-jun and the icy death to which he was left.   
+RUN & GUN
+STAYING
+ALIVE
+144    STAYING ALIVE >>
+
+
+===== PAGE 201 =====
+realize death had dropped in on ’em from above before the frags 
+reduced them to shredded red meat. I slapped Megazard’s leg 
+as the echoes away. “Let’s roll.”
+Covering the stairwell with his assault cannon, dwarf slung 
+over his other shoulder, Megazard took the steps three at a 
+time. The rest of us scrambled to catch up.
+The first floor landing looked like it’d been sprayed with a 
+crimson water cannon. I left a little surprise for anyone enter-
+ing the stairwell from the main hall, and kept moving. Careful 
+not to slip in the muck coating the floor, we descended to the 
+basement, then even further, to the parking levels below that.
+In the small room just before the garage, SliceNDice sagged 
+again, then straightened up with a jerk. “No sign of KE or any 
+security. We’re out the door, get the truck, and get the hell out 
+of here.”
+Grenades in hand, I nodded at Megazard. “Go.” Not that I 
+didn’t trust the other adept’s recon, but … okay, I didn’t trust the 
+other adept’s recon.
+The troll cautiously opened the door, and I peeked out, 
+ready to frag anything that moved. The plascrete floor was qui-
+et, littered with parked cars and nothing else. Not even a peep 
+from my combat senses.
+“Clear.” I took point as we headed toward the nondescript, 
+battered panel truck that had gotten them inside, and which 
+I hoped was sturdy enough to get us all back out again—es-
+pecially with an additional five hundred kilograms of troll and 
+dwarf aboard.
+The rest of the runners followed, Megazard bringing up the 
+rear. We had just reached the truck when the hacker jerked and 
+raised his head with a snort.
+“Where the hell’re we?”
+“Evac’ing, that’s where,” SliceNDice told him. “We booked 
+when you went down from the IC.”
+“Sheeit, I may have been down, but I wasn’t out,” the hacker 
+protested. “Besides, I almost got what we came for. Just need 
+another one, two minutes, tops.” He glanced down at his troll 
+ride. “Mind putting me down, treetop?”
+“But Slycer, we gotta stay onsite for you to complete the 
+download,” the human adept said as the hacker was lowered 
+to the ground.
+“No shit,” the dwarf replied as he climbed into the back of 
+the truck. “Bet I can do it in ninety seconds, easy.”
+“No paydirt, no payday,” the guy elf said.
+“Yeah. Don’t know about you, but I’d rather not go back to 
+Mr. Johnson empty-handed,” his sister said with a frown.
+SliceNDice glanced at them, then at us. “All right then, you 
+four buy Slycer the time he needs. I’ll stay with him and the 
+truck, each of you take a position where you can cause a dis-
+traction. Once he’s got the stuff, I’ll pick you all up, and we’re 
+out of here. Move out.”
+Megazard and I split up to cover the right side of the 
+parking structure. I ducked behind behind a glossy, midnight 
+blue BMW X89 parked near the down ramp from the upper 
+level. The huge troll found his own hiding place, managing to 
+squeeze between two company panel trucks.
+I was about to needle him on his hiding spot when my com-
+bat senses pinged as I heard the squeak of rubber on plascrete. 
+<Vehicle coming.>
+<You got LOS?>
+<Yup.> I watched a classic GMC Bulldog in corp security col-
+ors, with a heavy-duty ram bar and run-flat tires, come down 
+the ramp. Here’s where it got a bit tricky—I had to disable the 
+van without blocking our exit. I texted Megazard. <Gonna take 
+them at your corner. Need an extra push when I do.>
+<Got it.>
+I popped two hi-ex ball grenades and calc’ed fuses, dis-
+tance to target, and travel time. A few meters before the vehicle 
+reached a safe distance, I stepped out from between the cars, 
+popped both pins, and bowled the pair of grens toward the left 
+rear corner of the armored van. Again, the little round bombs 
+went exactly where I wanted them to, and I clued Megazard in 
+as they went. <Boom in three, two, one—NOW.> 
+At the precise moment my grenades exploded under the 
+Bulldog’s left rear axle, Megazard also stepped out and fired his 
+Krime Cannon at the upper driver’s side of the GMC’s roof. He 
+wasn’t using armor-piercing rounds, however—that wouldn’t 
+have accomplished what we wanted.
+The twin sets of high explosions, set off at the right time and 
+impacting the right places, knocked the van over on its side, 
+making it skid to a stop in a shriek of overstressed metal and 
+plastic.
+As the smoke and noise died away, we got the call. <Pack-
+age acquired. Be ready for pick-up.> That was accompanied by the 
+shriek of complaining wheels on the garage floor. Seconds later, 
+the panel truck slewed around the corner, almost sideswiping 
+the overturned van. It corrected, and I broke into a run when 
+I saw the back door open, with both elves waving us forward.
+Megazard was right beside me, and grabbed me in one 
+huge hand as he lunged for the truck’s back door. The suspen-
+sion shrieked in protest, but held as we scrambled aboard. I 
+looked back to see two dazed sec men struggling out of the 
+bulldog, and popped a pair of smoke grenades to cover us.
+“Slycer, get that gate open!” 
+“Working on it … there!”
+The mesh metal security gate squealed up as we rounded the 
+last corner and sped toward the exit. Megazard pulled the back 
+doors shut and sat against the groaning wall to catch his breath.
+“Hey, slow down there, Andretti,” I called to the adept behind 
+the wheel. “Maintenance has no reason to speed outta here.”
+He shook his head but did as I said. We drove up the ramp, 
+out the maintenance exit, and into the late afternoon sunshine. 
+Two right turns later, we were leaving the rear of the building 
+grounds as a small army of Knight Errant security converged on 
+its still-smoking front. Two klicks later, we pulled onto an on-
+ramp and merged with the rest of the traffic on I5. Just another 
+maintenance van on its way back from a job.
+Blowing out a relaxed breath, I exchanged a satisfied glance 
+with Megazard as the rest of the team celebrated their success-
+ful run. That’s the other advantage of making a big boom going 
+in—no one ever expects you to be quiet coming back out.
+HOSTILE EXTRACTION    201
+
+
+===== PAGE 202 =====
+202    RUN & GUN TABLES >>
+RUN & GUN TABLES
+BLADES
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Combat axe
+4
+2
+(STR+5)P
+–4
+12R
+4,000¥
+422, SR5
+Combat knife
+6
+—
+(STR+2)P
+–3
+4
+300¥
+422, SR5
+Cougar Fineblade (Long)
+6
+—
+(STR+3)P
+–1
+7R
+600¥
+20
+Cougar Fineblade (Short)
+6
+—
+(STR+2)P
+–1
+5R
+350¥
+20
+Forearm snap-blades
+4
+—
+(STR+2)P
+–2
+7R
+200¥
+422, SR5
+Highland Forge Claymore (Blade)
+5
+2
+(STR+5)P
+–5
+14R
+4,500¥
+18
+Horizon-Flynn Rapier
+7
+1
+(STR+2)P
+–3
+9R
+500¥
+18
+Katana
+7
+1
+(STR+3)P
+–3
+9R
+1,000¥
+422, SR5
+Knife
+5
+—
+(STR+1)P
+–1
+—
+10¥
+422, SR5
+Monofilament Sword
+5
+1
+(STR+3)P
+–3
+8R
+900¥
+19
+Pole arm
+5
+3
+(STR+3)P
+–2
+6R
+1,000¥
+422, SR5
+Survival knife
+5
+—
+(STR+2)P
+–1
+—
+100¥
+422, SR5
+Sword
+6
+1
+(STR+3)P
+–2
+5R
+500¥
+422, SR5
+Victorinox Memory Blade (Sword)
+5
+1
+(STR+2)P
+–2
+14R
+1,500¥
+19
+Victorinox Memory Blade (Dagger)
+5
+—
+(STR+1)P
+–2
+14R
+1,250¥
+19
+CLUBS
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Club
+4
+1
+(STR+3)P
+—
+—
+30¥
+422, SR5
+Extendable baton
+5
+1
+(STR+2)P
+—
+4
+100¥
+422, SR5
+Sap
+5
+—
+(STR+2)P
+—
+2
+30¥
+422, SR5
+Staff
+6
+2
+(STR+3)P
+—
+3
+100¥
+422, SR5
+Stun baton
+4
+1
+9S(e)
+–5
+6R
+750¥
+422, SR5
+Stun Staff
+6
+2
+9S(e)
+–5
+8R
+1,000¥
+20
+Telescoping staff
+4
+2
+(STR+2)P
+—
+4
+350¥
+422, SR5
+OTHER
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Knucks
+Physical
+—
+(STR+1)P
+—
+2R
+100¥
+422, SR5
+Monofilament whip
+5(7)
+2
+12P
+–8
+12F
+10,000¥
+423, SR5
+Shock gloves
+Physical
+—
+8S(e)
+–5
+6R
+550¥
+423, SR5
+EXOTIC MELEE WEAPONS
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Garrote
+5
+—
+(STR+4)S
+–6
+—
+50¥
+20
+Monofilament garrote
+5
+—
+(STR+6)P
+–8
+18F
+2,000¥ 
+20
+Bullwhip
+6
+2
+(STR+1)P
++3
+6
+100¥ 
+20
+Ash Arms combat chainsaw
+5
+1
+8P
+–4
+6R
+2,000¥ 
+21
+Ash Arms monofilament 
+chainsaw
+5
+1
+12P
+–8
+8R
+7,500¥ 
+21
+
+
+===== PAGE 203 =====
+<< RUN & GUN TABLES    203
+RUN & GUN TABLES
+IMPROVISED WEAPONS
+ITEM
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+PAGE
+Bottle (unbroken)
+3
+—
+(STR+1)S
+—
+—
+—
+22
+Bottle (broken, after first hit)
+3
+—
+(STR)P
+—
+—
+— 
+22
+Chain
+4
+2
+(STR+1)P
+—
+—
+10¥ 
+22
+Chair
+3
+1
+(STR+2)S
+—
+—
+30¥ 
+22
+Fork
+4
+—
+(STR-1)P
++1
+—
+— 
+22
+Frying pan
+3
+—
+(STR+1)P
+—
+—
+20¥ 
+22
+Hammer
+4
+—
+(STR+1)P
+–1/–2
+—
+30 
+22
+Pistol
+4
+—
+(STR+1)P
+—
+As weapon
+As weapon 
+22
+Pool cue
+4
+—
+(STR)P
++1
+—
+45¥ 
+22
+Rifle butt
+3
+—
+(STR+3)S
+—
+As weapon
+As weapon 
+22
+Sledge hammer
+3
+1
+(STR+4)P
+—
+1
+40¥
+22
+PROJECTILE WEAPONS
+ITEM
+ACC
+DV
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+PAGE
+AquaDyne Shark-XS harpoon gun
+5
+9P
+–2
+SS
+—
+5(m)
+8R
+800¥ 
+22
+Bow
+6
+(Rating + 
+2)P
+–(Rating/4)
+n/a
+n/a
+n/a
+Rating
+Rating x 
+100¥
+423, SR5
+Pistol crossbow
+7
+4P
+—
+SS
+—
+—
+6R
+300¥ 
+23
+Slingshot
+7
+2P
+—
+SS
+—
+—
+—
+50¥ 
+23
+Standard harpoon gun
+5
+9P
+–2
+SS
+—
+1
+6R
+200¥ 
+22
+CROSSBOWS
+ITEM
+ACC
+DV
+AP
+AVAIL
+COST
+PAGE
+Light
+7
+5P
+–1
+2
+300¥
+423, SR5
+Medium
+6
+7P
+–2
+4R
+500¥
+423, SR5
+Heavy
+5
+10P
+–3
+8R
+1,000¥
+423, SR5
+ARROWHEADS
+ITEM
+ACC
+DV
+AP
+AVAIL
+COST
+PAGE
+Arrow
+—
+—
+—
+Rating
+Rating x 2¥
+423, SR5
+Barbed head
+—
++1
+—
+5R
+10¥ 
+23
+Bolt
+—
+—
+—
+2
+5¥
+423, SR5
+Explosive head
+–1
++2
+–1
+9F
+15¥ 
+23
+Hammerhead
+–1
++1S
++2
+5
+5¥ 
+24
+Injection bolt
+—
+—
+—
+8R
+50¥
+423, SR5
+Incendiary head
+–1
+special
+—
+12F
+100¥ 
+24
+Injection arrow
+—
+—
+—
+(Rating + 2)R
+Rating x 20¥
+423, SR5
+Screamer head
+–2
+–2S
++6
+2
+5¥ 
+24
+Stick ‘n’ Shock
+–1
+8S(e)
+–5
+6R
+25¥ 
+24
+Static shaft
+—
++4S(e)
+—
+6R
+Rating x 25¥ 
+24

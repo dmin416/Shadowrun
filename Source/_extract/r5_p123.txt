@@ -1,0 +1,110 @@
+>	
+And, again, they have a huge space focus via CosMos. 
+Honestly, Clockwork, the world doesn’t end with the 
+atmosphere.
+>	
+Orbital Bandit
+>	
+You don’t see them in North America often, but  Yamatetsu 
+makes slick drones for the Asian market.
+>	
+Sunshine
+SAEDER-KRUPP
+An odd duck, S-K should be scrapping hand-to-hand 
+(or, well, claw) with MCT in this field, but they’ve never 
+seemed too interested. They have the technology, the 
+computer expertise, and the industrial demand—hell, 
+they already have ludicrously large machines like the 
+Bagger 318, and when they decide to create a high-end 
+pilot program, it’s a thing of perfection. But Lofwyr just 
+never seems to care, so the drones are rare, if excellent.
+>	
+I asked a source about this. Their thought is that “Playing 
+with dolls is for children. Golden Snout was born too old 
+for that.” As always, take with a grain of salt.
+>	
+Frosty
+SHIAWASE
+With Mitsuhama, Renraku, Sony, and Evo (formerly Yama-
+tetsu) all operating out of Japan, you wouldn’t think that 
+Shiawase would find a niche, and yet here they are. They 
+have an investment in “drone homes,” living quarters that 
+network with a central administrator to keep lights, sounds, 
+and supplies at optimal levels, but their real money is sunk 
+into agricultural robots and in medical telepresence. The 
+quiet war between them and Sony in senior-care robotics 
+is vicious, and they recently leveled a shot across the bow 
+of Horizon, letting them know in no uncertain terms that 
+they shouldn’t consider the market of selling agricultural 
+support to the NAN to be an open field.
+>	
+That was an odd one, as Horizon only recently entered 
+the agricultural market via the Wind River Corporation. 
+They’re using Renraku models, with their own drone 
+production being cinematic in focus. Wonder if there’s 
+more to this?
+>	
+Sunshine
+>	
+There’s always more. You, of all people, should know that.
+>	
+Icarus
+DRONE 
+MODIFICATION
+While every rigger mods their cars, not many do many 
+mods with their drones other than strap guns onto 
+them. In part this is due to the compact design leaving 
+little space, but surprisingly few riggers even consider 
+that they can make mods in the first place. Vehicles are 
+investments while drones are “toys,” and thus, dispos-
+able. Time to think again.
+These rules provide detailed options for drones and 
+can be used as an optional rules system for adding mod-
+ifications to them. Players who do not want to use a sep-
+arate system can use the rules provided in the Building 
+the Perfect Beast chapter (p. 150).
+THE BASICS
+Drones have a much more limited space to work with 
+than ordinary vehicles. Every drone is given a number 
+of Mod Points equal to their Body. These Mod Points 
+work vaguely like Essence, a reserve of points that is 
+gone once they’re all used up, meaning no further mod-
+ifications are possible unless you first rip something out. 
+Some drones have some, or all, of their Mod Points al-
+ready spent in order to carry advanced equipment. Due 
+to this, a new indicator has been added to the drone 
+attributes that shows how many points are available 
+for a new drone of that make, shown thusly: Body X(Y), 
+where X is the actual Body rating of the drone while (Y) 
+is how many points are available. In many cases, this is 
+the same number, but not always. Drones from other 
+SR5 supplements have been added to the master chart 
+with this taken into account. Several older drones have 
+had their stats adjusted to fit the rules presented in this 
+book. This new statline replaces the original details for 
+games using Rigger 5.0, otherwise the older information 
+remains valid. 
+ADDING UPGRADES
+Adding an upgrade is easy enough: Check to see if 
+you have enough Mod Points available, find someone 
+to do the work (this can be yourself, of course), and 
+pay the fee. Once it’s installed, you’re good to go. 
+As an added bonus, all drones have a bit of wiggle 
+room for expansion, be it more memory and more 
+advanced software installs for the Pilot program, a 
+better grade of engine component for speed, and so 
+on. This means that any drone may have an attribute 
+increased from the base by 1 (or 3 for Armor) with-
+out expending any Mod Points. Increasing an attri-
+bute further than that requires at least a partial re-
+build, and the expenditure of Mod Points equal to the 
+increase minus 1. This means a +2 Speed increase 
+costs 1 Mod point, while +4 Speed would cost 3, and 
+so on. The only attribute that can never be increased 
+is Body; this is the inherent frame of the drone, and if 
+you want it bigger, you should just buy a larger mod-
+el. Adding one attribute point requires an appropri-
+ate toolkit, while more extensive upgrades require an 
+appropriate shop. 
+>> RIGGER 5.0 <<
+122    >> THE AUTOMATED ARMY <<

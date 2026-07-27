@@ -1,0 +1,479 @@
+
+
+===== runandgun.pdf p52 =====
+coil compensation—but only, of course when it is out 
+and braced against the user’s shoulder. It must be in-
+stalled in the stock slot and requires a Simple Action to 
+move in or out; there is a motorized version that makes 
+folding and unfolding it a Free Action.
+Foregrip (accessory): This is a handle you put on in 
+the front of the weapon to give you a sturdier grip. It can 
+be mounted on the Barrel or Underneath slots, and it can 
+not be used on Pistols and Hold-outs. It provides 1 point 
+of Recoil Compensation and adds 1 to the Concealabili-
+ty of the weapon to which it’s attached.
+Gecko grip (modification): Have trouble holding on 
+to your gun? Then maybe you shouldn’t have one. But if 
+that’s not an option, then try gecko grip, which makes 
+your piece stick in your hand like, well, a gecko hanging 
+on a wall. This gives your grip a bunch of tiny fibers that 
+are awfully clingy to just about anything. The fibers can 
+be turned on and off via wireless command if you have a 
+smartgun—if not, pressing two buttons at the same time 
+does the trick. The mod gives a +6 bonus on any tests to 
+see if a character keeps grip on the gun. This can go on 
+any weapon with a grip, whether they have a stock slot 
+or not; if they have a stock slot, this takes it up.
+Guncam (accessory): The device that launched a 
+thousand stupid-ass MeFeed videos. Whatever the gun 
+is pointing at, it records. Yeah, you don’t always want 
+a record of what you’re about to shoot, but sometimes 
+that footage is invaluable—whether you need to show 
+Mr. Johnson what you managed to pull off, review foot-
+age to help you plan your next move, or doctor what 
+you filmed to make you look good, the video you film 
+has plenty of possible uses. Its Device Rating fills in for 
+any necessary stats. Guncams can be installed in the 
+Top, Underneath, Barrel, Side, or Internal slots.
+Hip pad bracing system (accessory): Some weapons 
+are, quite simply, a huge load. This system allows you 
+to move some of the weight of the weapon to your hip, 
+distributing the weight more and letting you brace it bet-
+ter. The end result is that the user gets 1 point of recoil 
+compensation. It uses the stock slot.
+Improved range finder (accessory): Laser range 
+finders are standard equipment on smartlinks, but if 
+you have the scratch you can make its range calculation 
+functions even better. It combines three technologies—
+microwave, laser, and radar—to give you an extreme-
+ly accurate calculation of range. The effect of this is to 
+reduce range modifiers by 1. This only can be used in 
+weapons that have a smartlink; it can be positioned in 
+any slot besides the one that has the smartlink. This bo-
+nus cannot be combined with any bonuses from image 
+magnification on the weapon.
+Peak-discharge battery packs (accessory): For 
+weapons that need a power source, this is it. It does not 
+take up a slot; weapons that need it already have a spot 
+for it. It charges at a rate of 1 power unit per 30 minutes. 
+The number of power units used per shot is listed with 
+each weapon. 
+These packs come in three forms: power clips, which 
+hold 10 power units and fit into a weapon like a clip 
+would; satchel power packs that hold 20 power units, are 
+about the size of a canteen, and are usually attached to 
+belts, and power backpacks, which hold 30 power units 
+and are worn on the back, of all places. Satchels and 
+backpacks are attached to weapons with a self-recoiling 
+cord that requires a Simple Action to attach.
+Many hundreds of hours have gone into testing and 
+refining the makeup of these batteries to make it so they 
+are not susceptible to explosions. So no, you can’t use 
+one as an improvised explosive device.
+Safe target system (accessory): The goal of this sys-
+tem is to avoid those situations where your mates are 
+chewing you out for accidentally shooting them in the 
+hoop. Using information about your teammates’ ap-
+pearance and the electronics in their PAN, this system 
+attempts to recognize when you are aiming at any spot 
+within 1 meter of a friendly target. In these situations, the 
+system locks the trigger, preventing you from firing. Once 
+the friendly target isn’t at risk anymore, you can start fir-
+ing again. Note that the system interprets risk broadly—if 
+there is something between you and a friendly target, the 
+system will lock you out, unless that “something” is an 
+entire office building or Mt. Rushmore or something. 
+The basic system can mark up to 10 RFID profiles (or 
+GPS coordinates if you want to designate fixed locations 
+as “safe”); for a few extra nuyen you can add more pro-
+files. If you want a little more accuracy, allowing you to 
+easily shoot the drekhead who stole your buddy’s com-
+mlink without difficulty, then upgrade to the image rec-
+ognition system. You’ll need a guncam or smartlink to 
+use this function. The base image recognition allows you 
+to enter up to 10 different visual profiles, which can be 
+as broad as “anyone wearing the Ancients’ logo” or as 
+narrow as precise scans of members of your team. As 
+with the GPS/RFID system, you can spring for extra pro-
+files if you need them.
+The safe target system can be mounted on any loca-
+tion besides the stock.
+Slide mount (accessory): By installing this on the 
+top, underneath, or side slots, you can make it much 
+easier to install and remove items in these locations. 
+Items may be taken on or off using a Simple Action.
+Sling (accessory): For Special Forces troops, this is a 
+sturdy piece of mesh or canvas custom-fitted to the user 
+and positioned on the weapon in a way to ensure it can 
+be readied as quickly as possible. For guerilla warriors, 
+this might be a piece of rope, and old belt, or anything 
+else that can be rigged up to help them keep from drop-
+ping their weapon. No matter how complex or simple, 
+the function is basic—it makes sure your weapon doesn’t 
+fall to the ground when you’re running or diving from an 
+explosion or in the middle of being shot or whatever. It 
+may be shot out of your hands, but getting it ready again 
+is a Simple Action. The sling does not take up any slots 
+on a weapon.
+>> ARSENAL <<
+52    Weapon Accessories >>
+
+
+===== runandgun.pdf p53 =====
+Tracker (accessory): This is a customized RFID tag 
+that combines the functions of security and stealth 
+RFIDs, giving you the chance to track down your weap-
+on if for some reason you don’t know where it is. Use 
+the rules for RFID tags, p. 440, SR5; assume the tracker 
+has the function of a security tag and a stealth tag. The 
+tracker does not take up any slots in a weapon.
+Underbarrel bola launcher (modification): Would 
+your weapon be enhanced by the ability to throw out two 
+balls connected by a thin rope that can entangle and trip 
+up your opponent? If your answer is “no,” please go back 
+and read the questions again. As the name indicates, this 
+goes on the underneath slot, and it can only go on weap-
+ons rifle-sized or larger The launched bola works in the 
+same way as a regular bola (p. 27) as thrown by someone 
+with Strength 5. It uses Heavy Pistol ranges, and wielders 
+fire it with the Exotic Ranged Weapon (Bola) skill.
+Underbarrel chainsaw (modification): Very useful in 
+case you need to chop wood for a campfire while out on 
+a run, or cut some lumber to repair floorboards.
+Ha! Who are we kidding? This is there for those times 
+when you might want to use a bayonet but would prefer 
+something louder and messier. If you don’t know what 
+times might require that, you haven’t been in the shadows 
+long enough. Use the Exotic Melee Weapons (Chainsaw) 
+skill for this; when used against a barrier, double its Dam-
+age Value. It can only be mounted on the underneath slot 
+and must be used on rifle-sized weapons or larger. Sorry 
+for killing your dreams of a chainsaw pistol.
+Underbarrel flamethrower (modification): We’ve 
+known runners so fond of fire that they might mount one 
+of these on an actual flamethrower. This can go on the 
+underbarrel slot of a rifle-sized weapon. For rules cover-
+ing flamethrower use, see p. 49.
+Underbarrel grapple gun (modification): It’s a grap-
+ple gun mounted on the underneath slot of a rifle-sized 
+weapon or larger. No muss, no fuss. For grapple gun 
+rules, see p. 449, SR5.
+Underbarrel grenade launcher (modification): Give 
+yourself the ability to lob grenades out there with your 
+weapon. It can be mounted (say it with us now!) on the 
+underneath slot of a rifle-sized weapon or larger. See 
+p. 434, SR5, for more information on using grenade 
+launchers.
+Underbarrel weight (accessory): It may be a crude 
+way to reduce recoil, but it still works. By placing some 
+weight in the underneath slot of a weapon, you prevent 
+the kick from being as severe as it would be otherwise. 
+This provides 1 point of recoil compensation when us-
+ing the weapon in Full Auto mode.
+Weapon commlink (accessory): Once you get over 
+the idea that using your commlink means touching it all 
+the time, placing one in your weapon becomes a sen-
+sible move. Your weapon becomes the heart of your 
+PAN. Many users like to use this with the weapon per-
+sonality mod.
+Weapon personality (accessory): Does your gun 
+need its own software complete with an artificial per-
+RECOIL COMPENSATION COMPATIBILITY
+Recoil compensation is important to anyone who likes to fill the air with lead. There are a number of options to reduce your recoil, 
+but they are not all compatible with each other. Here’s a quick list of those options and which of the other options don’t stack with them. 
+Remember that as with other accessories and modifications, accessories are also not compatible with each other—you can’t put the 
+same item on twice and expect to double the benefit.
+THIS OPTION…
+DOES NOT STACK WITH…
+Bipod
+Foregrip, gyro mount, sling, tripod, underbarrel weight
+Folding stock
+Hip pad bracing system, shock pad, sling
+Foregrip
+Bipod, gyro mount, tripod, underbarrel weight
+Gyro mount
+Bipod, foregrip, tripod, sling, underbarrel weight
+Hip pad bracing system
+Folding stock, shock pad, sling
+Shock pad
+Folding stock, hip pad bracing system, shock pad, sling
+Sling
+Bipod, folding stock, gyro mount, hip pad bracing system tripod, underbarrel 
+weight
+Tripod
+Bipod, foregrip, gyro mount, sling, underbarrel weight
+Underbarrel weight
+Bipod, foregrip, gyro mount, sling, tripod
+>> ARSENAL <<
+<< Weapon Accessories    53
+
+
+===== runandgun.pdf p54 =====
+sonality to provide information in a 
+more chatty fashion instead of just pro-
+viding numbers, crosshairs, and other 
+similar data? Depends on how you func-
+tion. If meta-to-meta interaction is how 
+you prefer to get your information, you 
+might want a weapon personality, which 
+provides a metahuman-like interface 
+so you can chat away. The guttural Neil 
+the Ork Barbarian with its “scalped ‘em” 
+grunt to tell you when you got a hit is 
+especially popular.
+AMMO
+Not in the mood for a new gun, but 
+still want a different experience with 
+your firearm? Then load out some new 
+ammo! Check out these options to add 
+some extra pop or flare to your gun.
+EX-EXPLOSIVE
+What is better than something blow-
+ing up? Something blowing up bigger 
+of course. These little darlings pack a 
+punch and always seem to get the job 
+done. My hats off to the chummer who 
+decided he needed a better boom in his 
+life.
+FRANGIBLE
+Sometimes you want a bullet that can 
+shoot through walls, other times you 
+want something that will hurt the soft 
+targets in range but leave the hardware 
+alone. Frangible bullets can put some 
+hurt on a metahuman target, but they 
+break up when hitting something hard, 
+meaning they won’t damage nearby 
+metal-encased gear. Or armored-up 
+trolls, so select it with caution.
+FIREARM ACCESSORIES AND MODIFICATIONS
+ITEM
+AVAILABILITY
+COST
+Advanced safety system
+4
+600¥
+Immobilization
+6
+100¥
+Self destruct
+6
+200¥
+Explosive self destruct
+11F
+400¥
+Electro shocker
+6R
+350¥
+Bayonet
+4R
+50¥
+Concealed quick-draw holster
+6
+275¥
+Extreme environment modification
+8
+Level x 1,500¥
+Flashlight
+Standard
+2
+50¥
+Low light
+4
+200¥
+Infrared
+6
+400¥
+Folding stock
+2
+30¥
+Foregrip
+2
+100¥
+Gecko grip
+6
+100¥
+Guncam
+4
+350¥
+Hip pad bracing system
+4
+250¥
+Improved range finder
+6
+2,000¥
+Peak-discharge battery packs
+Power clip
+14F
+400¥
+Satchel power pack
+16F
+900¥
+Power backpack
+20F
+2,500¥
+Safe target system base
+6
+750¥
+Additional set of RFID or GPS data (10 data sets)
+6
+25¥
+Image recognition capabilities
+8
+300¥
+Extra image profiles (10 profiles)
+8
+25¥
+Slide mount
+4
+500¥
+Sling
+—
+15¥
+Tracker
+4
+150¥
+Underbarrel Bola Launcher
+8R
+350¥
+Underbarrel Chainsaw
+10R
+as chainsaw + 500¥
+Underbarrel Flamethrower
+as flamethrower 
++ 2
+as flamethrower 
++ 200¥
+Underbarrel Grapple Gun
+8R
+600¥
+Underbarrel Grenade Launcher
+10F
+3,500¥
+Underbarrel Weight
+Weapon Commlink
+as commlink
+as commlink + 
+200¥
+Weapon Personality
+8
+250¥
+>> ARSENAL <<
+54    Ammo >>
+
+
+===== runandgun.pdf p90 =====
+Coyote and his followers, but Mother Nature stepped in 
+and brushed aside the US forces like insects. 
+The United States and the rest of the world were now 
+on notice: magic was back. 
+In the following decades, the nations and corpo-
+rations of the newly anointed Sixth World conducted 
+an arms race to secure their own magical arsenals. For 
+combat tactics and doctrine, magic became the ulti-
+mate wild card.
+Every tactic and procedure at all levels, both military 
+and civilian, was re-written to incorporate the magical 
+threat. And because of the Ghost Dance War, military 
+leaders had clear evidence of magic’s devastating pow-
+er in combat. Small groups of magicians could easily 
+destroy most military targets with spirits or spells from 
+beyond visual range.
+Those able to field significant amounts of magi-
+cal assets found themselves with distinct advantages. 
+Emerging nations such as Amazonia, the NAN, Tír na 
+nÓg, and Tír Tairngire suddenly had military (and po-
+litical) power disproportionate to their size and matéri-
+el strength. Corporations such as Aztechnology, MCT, 
+and Saeder-Krupp also benefited considerably from 
+their magical assets. 
+Magic also became the ultimate equalizer on the 
+streets. A single, decently skilled magician or adept was 
+often more than a match for common police or securi-
+ty officers. Sometimes they could even make life tough 
+for an entire tactical response team. Spells could take 
+out multiple opponents, spirits shrugged off mundane 
+attacks, adept powers turned people into combat ma-
+chines, and astral projection offered advantages that 
+couldn’t be countered by traditional means. Ritual 
+magic was also thought so prevalent that thousands 
+of unexplained homicides per year were attributed to 
+it. Magicians not affiliated with “normal” society (read: 
+spellcasters who were not properly licensed or reg-
+istered) are still portrayed as something to be feared. 
+This fear applied to both actual and perceived threats. 
+This atmosphere of extreme fear and perceived danger 
+made the general populace scared of any kind of magic, 
+good or bad, which led to the strategy now known as 
+“geek the mage first.”
+To counter magical threats, most current doctrines/
+rules of engagement utilize swift and overwhelming 
+force against those even suspected of being magical. 
+Tactics vary, but in most combat situations, priority is 
+given to identifying and neutralizing magicians at the on-
+set of any engagement. When friendly magicians aren’t 
+available to counteract the threat, snipers and drones are 
+favored tools to use against enemy magicians. 
+Operational planners usually put magicians near 
+the top of the list of high-priority targets next to, or 
+even above, command and control elements. In the ci-
+vilian world, similar procedures are used to deal with 
+“rogue” magicians. Backed up by both national and 
+corporate laws (with a healthy dose of anti-magic bias), 
+law enforcement agents are often given a lot of discre-
+tion on how to handle illegal magicians; even to the 
+point of utilizing lethal force as an initial response to 
+an encounter. 
+WARFARE GONE DIGITAL
+Until the development of wireless technology, the Ma-
+trix’s impact on combat operations was minor com-
+pared to magic. Despite unprecedented improvements 
+in communications, the use of fiber-optic cables (key 
+components in early Matrix technology) made these 
+systems impractical or expensive for widespread field 
+use. In a military or paramilitary operation, these sys-
+tems were relegated to the rear echelons or in mobile 
+command posts that avoided direct combat. 
+With the development of first- and second-genera-
+tion wireless technology, the Matrix gained a more sig-
+nificant presence on the battlefield. Commlinks in par-
+ticular increased communication abilities and allowed 
+combat hackers to ditch bulky cyberdecks. 
+The introduction of tactical networks (tac-nets) was 
+one of the most significant contributions to the modern 
+battlefield the new Matrix had to offer. More efficient 
+than previous systems, tac-nets allowed members of a 
+team or unit linked to a ‘net to gain unprecedented lev-
+els of coordination so they could engage their enemies 
+like never before. Any military, paramilitary, mercenary, 
+or other groups (like shadowrunners) that could get their 
+hands on them did so.
+ But the new wireless Matrix was a double-edged 
+sword. Wireless systems were also more vulnerable 
+to attack. Communications, vehicles, weapons, and in 
+some cases personal cybernetic augmentations could 
+be compromised if not co-opted completely via remote. 
+Tacticians quickly realized the potential of using the 
+new Matrix as a first-strike option against enemy targets 
+in the field. This has made the hacker (usually deckers) a 
+key component of any modern combat operation. More 
+and more hackers have become common sights on the 
+front lines. This has led to interesting developments in 
+many combat units and teams. While not quite up to par 
+as dedicated combat members of the team, the hack-
+ers have been forced to beef up their combat skills. It’s 
+not unusual to see hackers provide direct support for 
+other team members in addition to their intended role 
+as cybercombatants. As a result, they’ve become prior-
+ity targets. Right after the magician, the hacker is often 
+second on enemy neutralization priorities. Especially if 
+they’re good.
+Technomancers are equally dangerous, but there 
+are still trust issues that keep your Average Joe Street 
+Rat from putting his life in the hands of one of these 
+guys. While technos and deckers perform similar func-
+tions, deckers are more accepted (and trusted) because 
+their abilities come from a known source: technology. 
+Scientists and researchers today still don’t know where 
+>> TACTICS & TOOLS <<
+90    Sixth World COMBAT TACTICS >>

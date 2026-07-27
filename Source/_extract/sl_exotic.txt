@@ -1,0 +1,1832 @@
+\n##### PAGE 23 #####\nmade it a popular pick for various underground com-
+bat leagues. Characters with a Strength of less than 
+5 suffer a cumulative –1 dice pool penalty to attack 
+rolls for each attack after the first. This penalty can 
+be reset to zero if the character spends a Standard 
+Action doing something other than using the mace. 
+FLUID-MOTION MACE (CLUBS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+4)P
+—
+9
+1,500¥
+Note: A character can spin this weapon to increase its momen-
+tum. Treat this as the Take Aim action (p. 166, SR5).
+>	
+Matt Wrath has seen this in the pits. Matt Wrath knows 
+a man who uses this as a finishing weapon. Matt Wrath 
+hasn’t eaten grapes since.
+>	
+Matt Wrath
+>	
+I’m just impressed you had enough nuyen to be eating 
+grapes in the first place.
+>	
+Thorn
+>	
+These come in all sorts of packages: maces, hammers, 
+giant baseball bats, you name it. A go-gang down in 
+Renton has taken to using them as drive-by weapons.
+>	
+Red
+>	
+Did no one else notice the mention of mercury? Carrying 
+around a container of mercury and then bashing people 
+over the head with said container is crazy. Caveat emptor.
+>	
+Butch
+GUNSTOCK WAR CLUB
+A valuable tool for Native Americans, this weap-
+on has become an important part of the Okich-
+itaw martial combat style. Its name is a clear 
+descriptor—it’s a war club that is shaped like a 
+gunstock, though there’s plenty of debate about 
+which design came first. With a sharp point often 
+set at the crook, this club delivers a lot of impact 
+at the point of contact, and in the right hands it 
+can puncture through a fair amount of protection.
+GUNSTOCK WAR CLUB
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+1
+(STR+3)P
+–1
+10
+200¥
+GUNSTOCK WAR CLUB (AS THROWING WEAPON)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Physical
+—
+(STR+2)P
+–1
+—
+—
+Note: Using a gunstock war club as a throwing weapon requires 
+the Exotic Ranged Weapon skill.
+>	
+You don’t really see how dangerous these are until you 
+see one in the hands of a skilled Okichitaw practitioner. 
+There is a lot of spinning and motion so that when the 
+club finally hits, it drives in deep, usually at a vulnerable 
+spot. Practitioners usually have a knife in their off hand, 
+the better to hurt you with if you get too caught up 
+watching the club.
+>	
+Mika
+>	
+They can also be pretty concealable. Make it so the spike 
+is removable, bury that deep in some piece of luggage, 
+and this will get past a lot of inattentive security.
+>	
+Cayman
+NUNCHAKU
+Thought to have its origin as an Okinawan farm-
+ing tool, the nunchaku is comprised of two short 
+sticks made of wood, metal, or plastic, fastened 
+together by a short length of chain or rope. When 
+properly used, nunchaku can deliver a flurry of 
+blows from a variety of angles. Nunchaku can 
+also be used to choke opponents.
+NUNCHAKU (CLUBS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+5
+1
+(STR+2)P
+—
+6R
+75¥
+Note: If this weapon is used to choke someone, use the standard 
+Garrote rules (p. 20, Run & Gun). The wielder may substitute his Clubs 
+skill in place of Exotic Weapon (Garrote) with a –2 dice pool penalty.
+>	
+Few things are more fun than watching people use these 
+for the first time.
+>	
+/dev/grrl
+>	
+These are remarkably simple to smuggle into places. 
+It’s easy to find models that won’t show up on a MAD 
+scanner and all you need is a tube to conceal it. Furniture 
+legs, loaves of bread, you name it.
+>	
+2XL
+>	
+Loaves of bread?
+>	
+Slamm-0!
+>	
+Don’t laugh. I worked a prison break in Indonesia based 
+on that idea. If you’re nice, I’ll show you the video feed of 
+the ensuing riot.
+>	
+2XL
+>	
+I’m in.
+>	
+Slamm-0!
+>> STREET LETHAL <<
+22    EXPANDED ARSENAL >>
+\n##### PAGE 24 #####\nTONFA
+Now popular with security forces throughout the 
+world, the tonfa’s roots go back to traditional Oki-
+nawan martial arts. A fifty-centimeter shaft with 
+a perpendicular handle that allows it to be held 
+parallel to the forearm, the tonfa is an excellent 
+defensive weapon. Often used in pairs, tonfa 
+can strike from a variety of angles and distances, 
+making them exceptionally versatile.
+TONFA (CLUBS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+(STR+3)P
+—
+4
+75¥
+Note: For each tonfa wielded, the user gains a +1 dice pool bo-
+nus to defensive tests while using the Parry and Riposte Interrupt 
+Actions.
+>	
+Security goons get handed these but are rarely trained in 
+their proper use. They’ll just club you over the head, which 
+I guess is effective in its own way, but doesn’t require any 
+Tai Sabaki.
+>	
+Mihoshi Oni
+>	
+That a new liquor?
+>	
+Cayman
+>	
+It’s an idea that encompasses body position. Creating 
+paths of ingress into your opponent’s guard without 
+relying on brute force, that sort of stuff. Tonfa are best as 
+counterattacking weapons—if you’re out of position when 
+you get attacked, you’re going to be out of position for 
+your response.
+>	
+Mihoshi Oni
+>	
+That’s nice and all, but I have a simple solution: Carry a 
+shotgun.
+>	
+Kane
+OTHER MELEE 
+WEAPONS
+KRIME GLOVES
+The only thing harder than finding a set of knuck-
+leduster or stun gloves in a decent size is figuring 
+out which would be better to wear that day. Krime 
+designers were looking at exactly that problem 
+and thought, “Bah! We’ll make gloves that have 
+both!” And so they did. Incorporating recycled 
+densiplast along with their “skullwhomper” stun-
+palm pad and some serious street style, these are 
+gloves to be worn with pride! When the punks 
+step up acting like hardhoops, you can knock 
+them down even harder. They also come with 
+a Stormcuff battery system, allowing a user to 
+swap out the battery like a clip in a gun, for those 
+extra-long riots.
+KRIME GLOVES: KNUCKS (UNARMED)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Physical 
+Limit
+—
+(STR)P
+—
+8R
+600¥
+KRIME GLOVES: STUN PAD (UNARMED)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+Physical 
+Limit
+—
+8S(e)
+–5
+—
+—
+>	
+Most decent hardliner gloves look just like gloves—a 
+little heavy for normal gloves, but they blend in fairly 
+well. These? They look like weapons just on their own 
+without the chrome studs added onto the knuckles and 
+the studded wristband.  Unlike a lot of stuff out of Krime, 
+however, they are available in sizes other than “engine 
+block.”
+>	
+Zhaganaash
+>	
+While they are available in other sizes, most importantly 
+they are available in size XL-Troll, which isn’t true of so 
+many other clothing options.  The stun palm of the glove 
+is also non-slick, which makes these useful driving gloves 
+for someone my size, too. And, after you snap the chrome 
+studs off, um, well, yeah, they still look like combat gloves.
+>	
+2XL
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    23
+\n##### PAGE 25 #####\n>	
+The battery replacement also means that they don’t 
+need to be thrown out after a year as the batteries lose 
+their ability to hold a charge, unlike other (eventually 
+disposable) stun gloves on the market.  Krime also only 
+builds the gloves and densiplast knuckles, while the 
+electrical work is farmed out all around Euskal Herria 
+whose quality ranges from “well, that’s Krime for you” all 
+the way to “wow, they almost put effort into this!”
+>	
+Clockwork
+KRIME STUN LANCE
+When Krime was approached by the newly re-
+formed Winged Hussars, asking that they provide 
+proper lances to ride into battle with, their crew 
+of negotiators, after many rounds of vodka and a 
+very long history lesson on who the Hussars are, 
+finally asked, “For what, on horseback?” “No,” the 
+response came. “Combat motorcycles.” Well, the 
+agreement was signed right fragging then and 
+there because that kind of stuff is right up Krime’s 
+alley. The Krime Lance is the result, after many 
+hours of research, development, and working 
+with a variety of Polish and Serbian experts in the 
+combat biker and urban brawl fields. This three-
+meter-long stun baton allows a charge that will 
+leave any rioter jerking in the streets. Available 
+in a variety of colors and with heraldic additions. 
+Ballistic streamers extra.
+Note: The Krime Stun Lance comes in troll sizes 
+only; see Using Unadapted Gear (p. 420, SR5).
+KRIME STUN LANCE (EXOTIC MELEE WEAPON)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+2
+10S(e)
+–5
+9R
+900¥
+>	
+Stun batons are just the right length, weight, and 
+balance to be easy to use. These, not so much. On the 
+other hand, facing a bunch of people on motorcycle-
+back doing an old-skool calvary charge would put the 
+fear of Ghost into anyone!
+>	
+DangerSensei
+>	
+It took all of fifteen seconds for go-gangers to find these 
+and rediscover jousting. Most “heraldic” additions are 
+just gang signs. Although, if you think of older armies as 
+the original street gangs, that makes sense. On the other 
+hand, my boyfriend wants one for when he’s riding slitch 
+on my Triumph and thinks the purple streamers he wants 
+with it are pretty, yet manly powerful.
+>	
+RRW
+PROJECTILE 
+WEAPONS
+KRIME TROLLBOW 
+On a trip to England to try to set up a trade deal, 
+a Krime sales team got to watch an archery com-
+petition, largely because the beer was on special. 
+They came back with lots of notes and one of 
+the archers, who was enticed with the promise 
+of even more beer and bows. They promptly in-
+sisted that the company start making composite 
+bows. There were questions about the company 
+making such an “elfy” weapon, but after watch-
+ing an arrow go through a radiator, the doubters 
+immediately changed their tune, only demanding 
+that engineers add blades onto the form so that it 
+could have some proper “troll horns.” Krime be-
+lieves they have perfected the modern archery 
+weapon for the Sixth World: the Trollbow! Accept 
+no substitutes, troll not included!
+KRIME TROLLBOW (BLADES)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+3
+1
+(STR + 1)P
+–1
+(Rating)R
+Rating X 
+150¥
+KRIME TROLLBOW (BOWS)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+(Rating + 2)P –(Rating / 4)
+—
+—
+—
+Note: This weapon is only available at Ratings between 6 and 12 
+and requires a Strength equal to its Rating to use properly.
+>	
+You occasionally get archers in the shadows here and 
+there, and they fall into two categories:  Really, really 
+good, or really, really idiotic. Krime’s heavily chromed 
+and bladed bow is just going to bring out more of the 
+second type.
+>	
+Bull
+>	
+The draw weight on these things limit them to beefy orks, 
+trolls, or otherwise augmented metahumans. And you’ll 
+>> STREET LETHAL <<
+24    EXPANDED ARSENAL >>
+\n##### PAGE 43 #####\nCANNONS/
+LAUNCHERS
+HK 82A1
+One of the smallest available grenade launchers, 
+the 82A1 is primarily used by security forces to 
+dispense gas grenades to quell riots, but it also 
+finds use as a support weapon with light infan-
+try units. Tipping the scales at 2.5 kilos, the 82A1 
+weighs less than half as much as a standard gre-
+nade launcher and has considerably less bulk. Its 
+compact design makes it less well-suited for lon-
+ger-range engagements.
+HK 82A1 (GRENADE LAUNCHER)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+3
+*
+*
+SS
+(1)
+1(b)
+6F
+1,500¥
+* As grenade
+Note: This weapon suffers a –1 dice pool penalty at Long range 
+and a –2 dice pool penalty at Extreme range. It has a Concealability 
+Modifier of +4 with its folding stock retracted.
+>	
+My life would be a lot easier if security forces would start 
+using gas grenades. Fewer parts to replace that way.
+>	
+Borderline
+>	
+Very few units out there can afford to equip everyone on 
+a fireteam with Alphas. This is a fairly lightweight, cost-
+effective pick for your grenadier.
+>	
+Picador
+>	
+These fit in larger model briefcases, making them much 
+easier to sneak into places than something like a MGL-12. 
+They work best when you know ahead of time when you’ll 
+need a grenade and what type you’ll need next, but isn’t 
+that why we plan, chummers?
+>	
+Thorn
+M79B1 LAW ROCKET
+A single-shot, disposable rocket launcher, the 
+M79B1 remains the most common light anti-tank 
+weapon in use worldwide. When collapsed, the 
+M79B1’s tube forms a watertight seal, protecting 
+the rocket from the elements. Once opened, the 
+housing cannot be resealed.
+M79B1 LAW ROCKET (LAUNCHER)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+4
+*
+*
+SS
+—
+1(ml)
+9F
+750¥
+* As missile/rocket
+Wireless Bonus: You can use the wireless link trigger for your 
+missiles, even if you don’t have DNI.
+Note: This weapon can only fire anti-vehicular missiles/rockets.
+>	
+These have become depressingly common with some of 
+the better-equipped gangs out there. It’s not like they all 
+have ‘em, but they can get their hands on one if they know 
+they’ll need it.
+>	
+Turbo Bunny
+>	
+I think you may be experiencing some recency bias.
+>	
+Butch
+>	
+You don’t see someone undercutting Aztechnology on 
+price all that often, but this is cheaper than the Striker.
+>	
+Hard Exit
+>	
+And not as flexible. If you have a platoon and you know 
+you’re heading up against some APCs, sure. But if 
+you want a weapon that can be adapted to a variety of 
+situations, this isn’t for you.
+>	
+Red Anya
+>	
+Also not for you if you can’t afford to drop 750 nuyen per 
+shot.
+>	
+Chainmaker
+>	
+Rockets are not the favored weapon of the cheap. Which 
+makes them unlikely to become too common in gang 
+warfare.
+>	
+Thorn
+>	
+If you’re still standing after I unload a belt of ammo, I 
+adapt by using this next.
+>	
+Cayman
+>	
+We need to hang out more.
+>	
+Kane
+PHALANX SYSTEMS 
+VOGELJAGER II  
+MISSILE LAUNCHER
+The Vogeljäger is a man-portable air-defense 
+system (MANPADS) that has become the bane of 
+>> STREET LETHAL <<
+42    EXPANDED ARSENAL >>
+\n##### PAGE 44 #####\nhelicopter and VTOL pilots everywhere. The in-
+cluded imaging scope comes standard with both 
+thermographic and low-light enhancements. 
+Missiles fired at airborne targets receive a +1 dice 
+pool modifier, while missiles fired at other types 
+of targets suffer a –3 dice pool penalty. Addition-
+ally, sensor-equipped missiles fired from a Vo-
+geljäger receive a +2 dice pool bonus for sensor 
+attacks against airborne targets.
+Standard Accessories: Imaging scope (top)
+PHALANX SYSTEMS VOGELJÄGER II MISSILE LAUNCHER  
+(MISSILE LAUNCHER)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+*
+*
+SS
+—
+1(ml)
+20F
+2,600¥
+* As missile
+Wireless Bonus: This weapon’s IFF (Identify Friend or Foe) al-
+lows its user to reroll the direction of scatter (p. 182, SR5) once per 
+missile. The user must use the second roll.
+>	
+I’m not sure if the smoke plume these create is distinctive 
+or if it’s simply something you never forget, but if you’ve 
+seen one, you know the feeling. These are the reason 
+you pay extra for the stick jockey who can go faster than 
+anyone else in tight terrain.
+>	
+Rigger X
+>	
+Another reason asymmetrical warriors like to set up camp 
+in rugged terrain. If you force the Banshee to bank a few 
+times before setting down on the one open field, you’ve 
+probably slowed it enough to take a shot.
+>	
+Hard Exit
+>	
+I had a job clearing out a tunnel network of belligerents 
+in advance of a conventional troop landing for this very 
+reason. Had an Ares Dragon a few klicks away make some 
+noise, which got them to fire up their MANPADS. A few 
+seconds of work from our ELINT crew, and they detonated 
+in the tunnels.
+>	
+Picador
+>	
+I think the moral of this story is that the decker is always 
+the hero.
+>	
+Slamm-0!
+>	
+The moral of the story is if you can afford to have pretty 
+toys, you can afford to have Matrix security.
+>	
+Pistons
+TERRACOTTA X-6 MGL
+Renraku’s entry into the portable grenade launch-
+er market, the X-6 has been quickly adopted by a 
+variety of corporate and paramilitary outfits in Af-
+rica, raising hopes that its market may be world-
+wide. Certified gold after enduring Terracotta’s 
+stringent quality control process including drop 
+tests, salt-fog mist, and practical application, the 
+X-6 offers fantastic value for the cost. The X-6 
+holds six 40mm minigrenades in a rotating cylin-
+der and sports a foregrip to help minimize recoil.
+Standard Accessories: Foregrip (under)
+TERRACOTTA X-6 MGL (GRENADE LAUNCHER)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+4
+*
+*
+SS
+1
+6(cy)
+8F
+2,000¥
+* As grenade
+>	
+A lot of the “stringent practical application” testing 
+occurred in various hotspots around the globe. Make sure 
+you’re getting a direct-to-market model and not one of the 
+early prototypes.
+>	
+Picador
+>	
+Amazing how often Renraku products pass Renraku 
+quality control.
+>	
+Clockwork
+>	
+The foregrip is nice for distributing weight, but the rate of 
+fire on this is noticeably lower than its competitors. Recoil 
+is rarely an issue.
+>	
+Hard Exit
+>	
+Foregrips look badass.
+>	
+Slamm-0!
+OTHER RANGED 
+WEAPONS
+NARCOJECT GAS GUN
+The Narcoject Gas Gun is a shotgun-sized weap-
+on designed to allow for easier distribution of 
+inhalation-vector toxins; provided the user has 
+adequate protection, the Gas Gun is much more 
+accurate than mines or thrown grenades. The Gas 
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    43
+\n##### PAGE 45 #####\nGun doesn’t shoot bullets or lob explosive devic-
+es, but rather it creates a stream of toxic gas using 
+compressed air cartridges that are loaded from 
+side- and top-mounted clips. Armor is useless 
+against this attack, but respiratory protection will 
+help guard the target (see the Toxin and Drug Pro-
+tection Table, p. 408, SR5).  The Gas Gun can be 
+used to attack a single target or, with a Complex 
+Action, attack up to three targets within a four-me-
+ter spread. Each target rolls their own Defense Test 
+against a single Attack Test. Using the Gas Gun to 
+attack multiple targets consumes two “rounds” 
+of toxin. The cloud generally lasts two Combat 
+Turns (less in a windy area, longer in an area that is 
+confined or with poor ventilation, per gamemas-
+ter discretion). Using the Gas Gun in an enclosed 
+space is likely a bad idea for everyone involved.
+The Gas Gun uses “clips” of compressed air 
+that mix with separate doses of toxin. Refilling 
+the compressed air tank using an electric pump 
+(included with the weapon’s cost) requires three 
+minutes. 
+NARCOJECT GAS GUN (EXOTIC RANGED WEAPON)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+As toxin
+—
+SS
+—
+5x2(c)
+8R
+1,500¥
+Note: This weapon uses Taser ranges.
+>	
+Hah. I gotta get one of these. My favorite superhero uses 
+a gas gun.
+>	
+Slamm-0!
+>	
+The last Green Wasp movie was terrible. I can’t believe 
+you liked it.
+>	
+Glitch
+>	
+I was talking about Blackwing Bird. Philistine.
+>	
+Slamm-0!
+NARCOJECT PEP
+The Narcoject PEP is an interesting device. The 
+PEP, or Pulsed Energy Projectile, could easily have 
+been turned into a killing machine, and a rather 
+brutal one at that. Instead, the PEP fires short, 
+intense laser pulses. These pulses vaporize the 
+surface of whatever they hit, creating plasma. 
+This plasma then absorbs all other energy the 
+PEP sends to it, detonating with a flash, bang, and 
+pulse. The PEP is designed to prevent outright 
+killing of targets, as the stun effects caused by the 
+pulse are quite effective.
+NARCOJECT PEP (EXOTIC RANGED WEAPON)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+6
+10S
+—/–5*
+SS
+—
+2x10(c)
+12R
+7,500¥
+* If the target is wearing armor that is capable of supporting a 
+Chemical Seal, the attack has no AP. If the target is wearing clothing 
+or armor with gaps, the attack’s AP is –5.
+Note: This weapon uses Heavy Pistol ranges. It can only accept 
+top- and underbarrel accessories. The PEP is powered by peak-dis-
+charge battery packs (p. 52, Run & Gun) and uses two power units 
+per shot. It typically takes 2 units with ten charges apiece.
+>	
+This hardly sounds non-lethal. Creating plasma on 
+someone’s body cannot be healthy.
+>	
+Netcat
+>	
+Oh, it won’t kill you, usually. But you’re right—it makes 
+your skin look like it’s been boiled in hot sauce. Plastic 
+surgery might be needed after this “humane” weapon is 
+done with you.
+>	
+Mihoshi Oni
+NARCOJECT 
+TRACKSTOPPER
+The Narcoject Trackstopper was adapted from the 
+discontinued Ares Fogger Glop Cannon. When 
+Ares began to divert all non-essential weapons 
+research, development, and production to the Ex-
+calibur rifle, the Glop Cannon (which hadn’t been 
+selling all that well) was discontinued. Seeing an 
+opportunity, Narcoject bought the name and the 
+research for a modest sum, which suited both par-
+ties at the time.
+>> STREET LETHAL <<
+44    EXPANDED ARSENAL >>
+\n##### PAGE 46 #####\nThe Trackstopper has the look of a firehose 
+crossed with a sub-machine gun. It connects to a 
+pack worn on the user’s back and fires a stream of 
+liquid foam at the target. Unlike the original formu-
+lation of Freeze Foam, Narcoject Foam won’t help 
+you build a bridge, but it will harden in 1 Combat 
+Round. For every net hit the user gets to hit the tar-
+get, the target suffers a –1 penalty to their Agility. 
+If the target’s Agility reaches 0, they are unable to 
+move or take any actions that require use of their 
+limbs. Once hardened, the foam has a Structure 
+Rating of 4 and an Armor Rating of 6. Narcoject 
+Foam is specially formulated at the microscopic 
+level to allow encased victims to breathe. Narcoject 
+Foam dissolves completely in one hour, or imme-
+diately with the application of Narcoject-brand sol-
+vent (free with purchase of Narcoject Foam refills).
+NARCOJECT TRACKSTOPPER (EXOTIC WEAPON)
+ACC
+DAM
+AP
+MODE
+RC
+AMMO
+AVAIL
+COST
+5
+—
+—
+SS
+—
+6
+15R
+8,500¥
+Note: This weapon uses Light Pistol ranges. Foam refills cost 
+500¥ per 6 charges and have an Availability of 15R.
+>	
+Read the instructions on this one. Some new runner who 
+called himself Rh0ghi just got wasted because he sprayed 
+this stuff, expecting to freeze his pursuers in their tracks. 
+Turns out these razorboys still had plenty of time to cut 
+him down before the foam hardened.
+>	
+Hannibelle
+>	
+A few high-security places have started using the same 
+foam that the Trackstopper uses as a flame suppressant. If 
+your decker can get control of the system, it can be a great 
+form of crowd control.
+>	
+Rigger X
+>	
+Look at you, advocating non-lethal solutions.
+>	
+Bull
+>	
+Immobile targets are easier to hit.
+>	
+Rigger X
+WEAPON 
+ACCESSORIES
+ADDITIONAL CLIP/
+MAGAZINE
+Requiring a nearly complete rebuilding of the 
+weapon, this modification allows the weapon to 
+add an additional clip or magazine, depending on 
+the weapon’s original. If installed on a pistol, each 
+clip or magazine holds seventy-five percent of the 
+weapon’s original capacity; they otherwise retain 
+their original capacity. This modification adds a +2 
+modifier to the weapon’s Concealability Modifier 
+and gives the weapon Custom Look (Level 1), but 
+with no bonus to Intimidation rolls. Switching be-
+tween clips/magazines is a Simple Action.
+Wireless bonus: Switching between clips/maga-
+zines is a Free Action.
+ADDITIONAL CLIP/MAGAZINE (WEAPON MODIFICATION)
+SLOT
+THRESH.
+DUR.
+TOOLS
+COST
+AVAIL
+SKILLS
+Side
+20
+1 day
+Facility
+Weapon 
+cost
+10R
+Armorer
+>	
+I like to switch between different colors of tracers. It’s 
+pretty.
+>	
+Slamm-0!
+>	
+Can we ban an admin from commenting on guns?
+>	
+Cayman
+KRIME PACK
+The innovative minds at Krime know exactly how 
+right-sized people feel when looking at most 
+weapons that suit them. “A mere 100-rounds 
+per belt before reloading? What scrawny person 
+did they design these for?” Deciding that the en-
+tire world does not consist of tiny people, Krime 
+make an ammunition holder for bigger folks—or, 
+as they like to say, “the right-sized person lurk-
+ing inside all of us.” The Krime Pack is a backpack 
+ammunition feeding system that uses an articu-
+lated feed belt, which means no struggling with 
+fiddly little bullets in smaller belts and undersized 
+charging handles every time users feel like let-
+ting loose. Capable of holding 2,500 rounds for 
+weapons like the Krime Happiness, or Gatling 
+guns like the newly-released Krime Triple series. 
+Sick of reloading? Get a Krime Pack!
+KRIME PACK (WEAPON ACCESSORY)
+AVAIL
+COST
+14R
+500¥
+Wireless Bonus:   Pushes out Krime-based spam to other AR 
+overlays, screaming “KRIME!” at the maximum volume allowed by the 
+audio system. Operates as an Area Jammer (Device Rating 2; p. 441, 
+SR5), but instead of inhibiting wireless functionality, reduce a DR to 
+zero, indicating that the system’s audio (if any) has been overridden.
+>> STREET LETHAL <<
+<< EXPANDED ARSENAL    45
+\n##### PAGE 47 #####\n>	
+Ares had a similar design that was in development for the 
+longest time, and its tendency to keep misfeeding was 
+a major, but not the only, problem. Then the project just 
+“died” and Krime came out with this six months later with 
+some rather dodgy looking evidence that they developed 
+it themselves in secret. Run gone well?
+>	
+Clockwork
+KRIME STUN-O-NET
+After one of Krime’s Thursday design discus-
+sions/bar fights, some of their people ran across 
+one of the local heroes of the area, John Zubiri 
+the Bouncer. He had a beat-up shotgun with a 
+bayonet lug on it, and he had placed a jury-rigged 
+stun baton on the damn thing. They knew a win-
+ner when they saw one—Zubiri now works for the 
+development team full time (though he still acts 
+as a bouncer in his uncle’s bar, since it’s a passion 
+of his). The Stun-O-Net reflects Zubiri’s mentality 
+of being ready to deal with the full range of meta-
+humanity and paracritters in the world, putting 
+more than a sharp chunk of metal on the end of 
+a rifle for the firearms owners of the world to use.
+KRIME STUN-O-NET (WEAPON ACCESSORY)
+ACC
+REACH
+DAM
+AP
+AVAIL
+COST
+4
+1
+9S(e)
+–5
+10R
+800¥
+KRIME STUN-O-NET (WEAPON ACCESSORY)
+SLOT
+THRESH.
+DUR.
+TOOLS
+SKILL
+Underbarrel
+10
+1 hour
+Kit
+Armorer
+Note: This weapon has 10 charges and recharges at a rate of 1 
+charge per minute when plugged in.
+>	
+It’s a stun baton that can be hooked onto a rifle like 
+a typical bayonet. And it is selling, big time. I’m on the 
+waiting list for my crew to get a bunch, as we’re looking 
+at some escort jobs through a city, er, somewhere, and 
+having an option that doesn’t get people sliced up would 
+be a nice change.
+>	
+Picador
+>	
+There are some street gangs and crowd-clearing crews 
+out there that have made “stun pikes” by welding stun 
+batons to metal or plastic pipes. Putting a bayonet 
+mount on those pipes and being able to choose using 
+them as pikes or batons will open up options for those 
+headbreakers.
+>	
+Zhaganaash
+NARCOJECT DAZZLER
+The Dazzler name is rather on-the-nose for this 
+non-lethal piece of equipment. When triggered, 
+the dazzler emits intense, focused radiation to 
+temporarily disable its target with flash blindness. 
+The Dazzler can be tuned to various parts of the 
+light spectrum to target either the normal range 
+of visible light or infrared, allowing the weapon 
+to be used against metahumans and sensors with 
+thermographic capabilities. The Dazzler cannot 
+affect both spectrums at the same time.
+Looking directly at someone using a Dazzler for 
+any appreciable length of time is extremely danger-
+ous. On their first Initiative Pass, the viewer suffers 
+from Moderate Glare penalties (p. 175, SR5). If the 
+viewer has some form of low-light vision enhance-
+ment, these penalties are increased to Blinding 
+Glare. Flare compensation reduces the penalties by 
+one category. For each subsequent Initiative Pass 
+that the viewer continues to look at the Dazzler’s 
+user, the penalty increases by one category. If the 
+viewer suffered Blinding Glare penalties on their 
+previous Initiative Pass and continues to look at 
+the Dazzler, they must make an immediate unaug-
+mented Body [Physical] (4) Test. Failure temporarily 
+blinds the viewer for a number of hours equal to 4 
+minus the number of hits rolled on the test.
+The Narcoject Dazzler is commonly purchased 
+as a Heavy Pistol-sized device on its own (at the 
+same cost), but is also available as a top-mount-
+ed weapon accessory that can fit on weapons that 
+have a Concealability Modifier of +4 or greater. Its 
+price and Availability remain the same. Narcoject 
+prides itself on its patented array of optic lasers, 
+offering a full guarantee if any targets are perma-
+nently blinded.
+>> STREET LETHAL <<
+46    EXPANDED ARSENAL >>
+\n##### PAGE 129 #####\n•	
+Attributes: +1 Charisma, +1 Intuition
+•	
+Qualities: Common Sense, SINner (Corpo-
+rate Limited), Perceptive
+•	
+Skills: Con +1, Etiquette (Corp) +1, Ne-
+gotiation +1, Perception +1, Sneaking +1, 
+Knowledge (Corp Politics) +1, Language +1
+CORP SILVER SPOONER
+Boy, did you hit the jackpot! Not only were you born 
+into a corp family, but you’re practically corp royalty! 
+One or both of your parents holds or held a position 
+of high esteem within the corporation. Maybe they 
+were a senior VP or a hotshot developer of some 
+kind. Growing up, you wanted for nothing and got 
+all the latest stuff, education, and attention. Because 
+of your lineage, you were groomed for big things.
+•	
+Attributes: Charisma +1, Logic +1
+•	
+Qualities: Born Rich, Privileged Family 
+Name, SINner (Corporate Limited)
+•	
+Skills: Etiquette +1, Intimidation +1, Lead-
+ership +1, Negotiation +1, Perception +1, 
+Knowledge (Academic) +1, Knowledge 
+(Corporate) +1, Language +1
+TEEN YEARS
+CORP TEEN
+Growing up as a corporate teen can be … inter-
+esting. On one hand, people are constantly try-
+ing to encourage you to “find your true poten-
+tial,” which is corp-speak for finding your future 
+corporate function. On the other hand, you’re still 
+a teen, prone to trying things that aren’t exactly 
+corporate approved. Will you find your own way, 
+or find your potential within the corporation? 
+•	
+Attributes: Intuition +1, Logic +1
+•	
+Qualities: Daredevil, Records On File (3), 
+SINner (Corporate Limited)
+•	
+Skills: Con +1, Intimidation +1, Perception 
++1, Performance +1, Running +1, Sneaking 
++1, Knowledge (Academic) +1  
+FURTHER EDUCATION
+CORP COLLEGE STUDENT 
+You may have been a corporate kid sent to gain 
+some kind of higher learning, or maybe you 
+were discovered by a corp and deemed worthy 
+of sponsorship. Either way, you’ve found your-
+self attending a corporate-sponsored school or 
+going to school on a corporate scholarship. This 
+may seem like a sweet deal, especially if you’ve 
+gotten off the streets or something similar, but 
+the corp sees you as an investment. And they will 
+want something for their investment. 
+•	
+Attributes: Logic +1, Intuition +1
+•	
+Qualities: College Education or Technical 
+School Education (choose one), Common 
+Sense, Day Job (5 Karma), Perceptive (5 
+Karma)
+•	
+Skills: Etiquette (Academic) +1, First Aid 
++1, Instruction +1, Performance +1, Per-
+ception +1, Academic Knowledge +1 or 
+Professional Knowledge +1, Language +1
+REAL LIFE
+CORPSEC OFFICER, BASIC
+Growing up within the corporation, you never 
+were much of a book worm. It’s not that you were 
+stupid by any stretch of the imagination; it’s just 
+that you were drawn more to the physical side of 
+things. That, and you were able to take and un-
+derstand orders when needed. This made you a 
+suitable candidate for your corporation’s basic 
+corpsec training program. Or maybe you’ve had 
+experience elsewhere and decided that a nice, 
+steady job is more your pace. Either way, you’re 
+now on the job and learning all you can about cor-
+porate security policies and procedures. Maybe if 
+you work hard enough, you’ll find a spot on one of 
+the elite corpsec teams. 
+•	
+Attributes: Body +1, Agility +1
+•	
+Qualities: Day Job (15 Karma), Location At-
+tunement (5 Karma), Observant, Perceptive 
+(5 Karma)
+•	
+Skills: First Aid +1, Leadership +1, Intimi-
+dation +1, Perception +1, Pistols +1, Run-
+ning +1, Tracking +1, Knowledge (Small 
+Unit Tactics) +1
+COMPANY TROUBLESHOOTER
+You are considered a loyal corporate employee. 
+You may have started out at the lowest rungs of 
+the company ladder, but you worked your way 
+into a position of importance through a mix of 
+determination, skill, and luck. Along the way, you 
+had the opportunity to cross-train in a wide va-
+riety of skills, which makes you even more valu-
+able. Now, you’re called on to help or lead the 
+way when your corporation has a special prob-
+lem that needs fixing.
+>> STREET LETHAL <<
+128    Opposition Report: CorpSec >>
+\n##### PAGE 130 #####\n•	
+Attributes: Logic +1, Charisma +1
+•	
+Qualities: Observant, Solid Rep, Records 
+On File (4), SINner (Corporate Limited)
+•	
+Skills: Automatics +1, Con +1, Etiquette 
++1, Instruction +1, Intimidation, +1, Lead-
+ership +1, Pistols +1, Sneaking +1, Tracking 
++1, Pilot Ground Craft +1, Unarmed Com-
+bat +1, Knowledge (Small Unit Tactics) +1
+RISING STAR
+Someone once said that you’ll go very far in the 
+company, and they were right. Through determi-
+nation, force of personality, luck, or a whole lot 
+of hoop-kicking, you’re now considered a golden 
+boy/girl within the company. You made the con-
+nections, did the work (or at least took credit for 
+it), and now … gosh darn it, people just seem to 
+want to keep promoting you. 
+•	
+Attributes: Charisma +1, Intuition +1
+•	
+Qualities: Driven, Natural Leader, Legend-
+ary Rep, Stay Out Of My Way
+•	
+Skills: Con +1, Etiquette +1, Intimidation +1, 
+Leadership +1, Palming +1, Perception +1, 
+Professional Knowledge +1, Language +1
+ 
+WARM BODY
+Sometimes, the only thing someone strives for 
+is a steady paycheck, some benefits, and may-
+be a small pension or retirement package to fall 
+back on. Or maybe you realized that you’re not 
+the best there is out there and the best thing you 
+can do right now (for whatever reason) is simply 
+stay below the supervisor’s radar. OR … maybe 
+the corp just needs someone, anyone, to occupy 
+some space. While it may not be the most glam-
+orous of positions, there is something to be said 
+for blending into the background. 
+•	
+Attributes: Intuition +1, Logic +1
+•	
+Qualities: Blandness, Corporate Pariah, Lo-
+cation Attunement (7 Karma), This Is Your 
+Last Chance
+•	
+Skills: Con +1, Etiquette +1, Palming +1, Per-
+ception +2, Running +1, Sneaking +2, Track-
+ing +1, Knowledge (Local Geography) +1
+CORPSEC ARSENAL
+ARES FIREWATCH “BUG 
+STOMPER” CUSTOM ARMOR
+Based on a mandate from Damien Knight him-
+self, the Bug Stomper armor was designed spe-
+cifically to provide members of Firewatch the best 
+possible means to survive a close-quarters en-
+counter with a bug spirit. Based on the standard 
+medium-level mil-spec armor, the Bug Stomper 
+is made of proprietary materials that provide an 
+increased amount of protection over a standard 
+suit of its level, but at only three-quarters the 
+weight. Its lighter weight, combined with a pat-
+ented Easy-Flow powered joint system, makes 
+it completely un-restrictive to the user. Special-
+ly designed compartments also increase the ar-
+mor’s capacity. Additional features include a mi-
+cro and small drone rack (standard) or the new 
+Gunfighter 
+Scabbard 
+modular, 
+quick-release 
+weapons holsters for an additional 2,000 nuyen. 
+This system can hold an additional weapon (up to 
+the size of an assault rifle, shotgun, or sniper rifle) 
+on the back.  
+>>	
+STREET LETHAL <<
+<< Opposition Report: CorpSec    129
+\n##### PAGE 131 #####\n>	
+The armor is definitely nice, but good luck trying to get 
+one. These are meant for Firewatch only, and Ares is very 
+strict when it comes to these units and will go after any 
+non-Firewatch personnel who obtain one. Although given 
+current events, who knows? 
+>	
+Red Anya
+ARES ARMS BUG STOMPER CUSTOM ARMOR
+RATING
+CAPACITY
+AVAIL
+COST
+20
+20
+30F
+35,000¥
+Features: Custom Fit, Holster (Pistol), Gear Access, Increase Social 
+Limit by 2 for Intimidation Checks. 
+Optional Features: Drone rack (micro or small, standard) or 
+gunfighter scabbard
+Special Rules: No other armor can be worn in combination with Bug 
+Stomper armor aside from a helmet.
+STONER-ARES M-22A1  
+VEHICLE MOUNTED  
+HEAVY MACHINE GUN
+Based on the Browning M-2 .50-cal heavy ma-
+chine gun, the M-22A1 is a modern upgrade of the 
+legendary weapon. In 2061, Ares bought out the 
+rights to the M-2 from Browning, who later sued, 
+claiming bad faith in the deal. But after a decade of 
+appeals, Ares through their partner Stoner Weap-
+ons began development of the new “Ma Duce.” 
+The result was a heavy machine gun that was so 
+big, so powerful, and had so much recoil, that the 
+only way it could be used effectively was mounted 
+to a vehicle or a heavy combat drone. Produced 
+in very limited numbers, the “Mad Mama,” as 
+it’s called, is used exclusively by Firewatch teams 
+when the heaviest firepower is needed. 
+STONER-ARES M-22A1 VEHICLE MOUNTED HEAVY MACHINE GUN
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+4
+18P
+–6
+FA
++6
+200 
+(belt)
+24F
+29,000¥
+Standard Equipment: Smartgun Targeting System
+AZTECHNOLOGY BLOOD 
+DRINKER COMBAT AXE 
+Rumored to have been used by Aztlan and Az-
+technology Special Forces as far back as 2061, 
+the Blood Drinker was only recently revealed to 
+the public following the Az-Am War. Slightly larg-
+er than a standard tomahawk, the Blood Drinker 
+looks like a cross between a hand axe and an an-
+cient macauitl. While the style and shape of the 
+blade varies by owner, each blade head is made 
+from molecularly hardened and sharpened obsid-
+ian with a titanium-tungsten shaft. These blades 
+can be simple or ornately crafted, depending on 
+the owner’s preferences. But no matter the look, 
+Blood Drinkers are meant for combat and are a 
+status symbol among the Aztlan/Aztechnology 
+security and soldiery.  
+>	
+These are also quite popular with blood mages, who like 
+to turn them into weapon foci. 
+>	
+Marcos
+AZTECHNOLOGY BLOOD DRINKER COMBAT AXE
+ACC
+DV
+AP
+AVAIL
+COST
+Physical
+(STR+3)P
+–3
+12F
+500¥
+EVO/YAMATETSU NAVAL 
+TECHNOLOGIES RAMPART 
+PORTABLE BALLISTIC 
+EMPLACEMENT
+In the chaos of a firefight, sometimes it’s hard to 
+find decent cover, let alone protect civilians. In 
+an effort to provide their security with a means 
+to protect both themselves and innocent civil-
+ians, Evo (through their subsidiary Yamatetsu) 
+developed a portable ballistic emplacement 
+that allowed responders to bring their cover 
+with them. Made of a Kevlar weave with ballis-
+tic-deflecting ceramic micro-plates on a titani-
+um frame, the Rampart is the size and weight 
+of a standard ballistic shield. But when activated 
+either manually or through a DNI, the Rampart 
+can horizontally expand up to four meters wide. 
+Extremely popular with Evo corporate security 
+responders, Yamatetsu currently has no plans 
+to sell the Rampart on the open market, instead 
+preferring to offer it to favored customers. 
+>	
+In a firefight, anything is better than nothing, I guess. 
+And while I can see how this would have its uses, I’ve 
+also seen hackers easily take these things over. The look 
+on the sec-guards face when their cover suddenly folded 
+up was priceless. 
+>	
+DangerSensei
+YAMATETSU NAVAL TECHNOLOGIES RAMPART  
+PORTABLE BALLISTIC EMPLACEMENT
+RATING
+AVAIL
+COST
++10 (hardened)
+12F
+3,000¥
+Special Rules: Takes Simple Action to deploy through DNI, Complex 
+Action manually. Hardened armor applies to all configurations.
+>> STREET LETHAL <<
+130    Opposition Report: CorpSec >>
+\n##### PAGE 132 #####\nHORIZON-FLYNN DEFENSE-COM 
+COMMLINK WEAPONS
+Sometimes the best weapon one has is the one no 
+one knows they have. Once again partnering with 
+renowned bladesmith Dante Flynn, Horizon has 
+recently released their Defense-Com brand of con-
+cealed weapons. Designed to look like standard 
+(but non-functional) commlinks, Defense-Com 
+weapons come in three varieties: the Def-Com 
+hold-out pistol, taser, and defensive knife. Each 
+one is perfect for the person who requires protec-
+tion but doesn’t want to draw attention. 
+>	
+These things can be handy. Undercover Horizon Protectors 
+are fond of these. Because of the low damage profile, 
+they usually load the pistol with capsule rounds filled 
+with appropriate night-night juice. The taser is decent, but 
+the knife is solid. I carry one. However, I suggest getting 
+to know them before you use them. Nothing worse than 
+grabbing the wrong ’link.
+>	
+Mika
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: HOLD OUT PISTOL
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+5
+5P
+—
+SS
+2(b)
+10
+400
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: TASER
+ACC
+DV
+AP
+MODE
+AMMO
+AVAIL
+COST
+5
+6S(e)
+–4
+SS
+4(b)
+10
+300¥
+HORIZON-FLYNN DEFENSE-COM  
+COMMLINK WEAPONS: KNIFE
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+4
+–
+(STR)P
+–2
+10
+250¥
+LONE STAR’S  
+REMINGTON 995 “BUZZSAW”
+A variant of their classic 990 shotgun, the 995 
+“Buzzsaw” has gained a reputation as being a 
+simple yet reliable and rugged entry gun. Cur-
+rently a favorite among Lone Star’s Shadow-
+riders, the 995 has a pistol grip in place of the 
+standard stock. But what makes the 995 an 
+effective door breacher is the barrel-mounted 
+titanium “teeth” that are jammed into a lock or 
+door hinge that prevent the weapon from skip-
+ping off when fired. It also features a grip han-
+dle that attaches to the pump-action but goes 
+over the weapon, allowing for rapid chamber-
+ing and maneuvering in close quarters. Both 
+these features allow for quick seating and em-
+ployment of the weapon. 
+>	
+Those teeth also hurt when you jam them into someone’s 
+hand, neck, or whatever. 
+>	
+Kane
+REMINGTON 995 “BUZZSAW” SHOTGUN
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+4
+11P
+–1
+SA
+—
+8(c)
+6R
+1,000¥
+Standard Upgrades: Breaching teeth, foregrip, modified pump 
+handle, side mount (top and bottom).
+Special Rules: Breaching teeth provide +2 to accuracy when 
+weapon barrel is seated against a target.
+LONE STAR’S BATES-BROWN 
+TACTICAL COMBAT BOOTS
+Also known as “drek-kicker” boots, these specially 
+designed combat boots not only protect one’s feet 
+and look stylish with tactical gear, but with their 
+reinforced soles and metal toes they also act as 
+knucks for kicking. That’s right, with these boots, 
+kick attacks are more damaging than ever. Perfect 
+for kicking in doors or a perp’s guts!
+>	
+One of the most cringe-worthy things I’ve seen is a Star 
+adept cop spin-kick a troll suspect in his … well you get 
+the idea. Frag, that looked like it hurt! 
+>	
+Bull
+BATES-BROWN TACTICAL COMBAT BOOTS
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+4
+—
+(STR+2)P
+–4
+10
+250¥
+Special Rules: +5 armor against attacks to the feet
+MAERSK SHIPYARDS 
+WAVECUTTER MPAC
+The Wavecutter MPAC, or Maritime Patrol and 
+Assault Craft, is loosely based on the PT-style 
+watercraft. But other than a few design features, 
+the Wavecutter and PTs have little in common. 
+Designed to fulfill a wide variety of maritime 
+warfare and security roles, the twenty-eight-me-
+ter-long Wavecutter weighs only approximately 
+twenty-five tons despite its heavily armored hull. 
+The Wavecutter also features a powerful Pack-
+ard-Voss V-31 Maritime engine that allows for an 
+impressive surface speed and maneuverability 
+profile. While the base model comes with several 
+features such as a small landing ramp that opens 
+>>	
+STREET LETHAL <<
+<< Opposition Report: CorpSec    131
+\n##### PAGE 133 #####\nto store a semi-rigid inflatable vehicle or other 
+small watercraft (up to two small craft, takes one 
+Complex Action to deploy). The Wavecutter also 
+has several other features that allow for extended 
+operations and is a favorite of Maresk’s Marines, 
+who use it extensively. 
+>	
+What you have here is a t-bird on water. Depending on the 
+modifications, this thing can be a floating gunship, drone 
+carrier, or a special-ops taxi. And Maersk uses them for all 
+of the above. It’s one of the few times I find myself envious 
+of a corp, because they’re hard, but not impossible, to get 
+if you’re not cozy with Maersk. 
+>	
+Kane
+MAERSK SHIPYARDS WAVECUTTER MPAC
+HAND
+SPEED
+ACCEL
+BODY
+ARM
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+5
+5
+3
+25
+25
+4
+5
+12
+22F
+360,000¥
+Standard Equipment: Amenities (low), commlink (DR 7), ECM 4, four 
+additional body modification slots, four additional weapon mount 
+slots, manual control override, rigger cocoon, rigger interface, 
+satellite link, sun cell, signature masking 4
+Special Equipment: Small craft bay (rear).
+ 
+MCT/WINCHESTER-HOWE 
+HORNET DIRECT-FIRE  
+MINI-GRENADE
+For a corporation that’s famous for its Zero-Zone 
+security, most weren’t surprised when MCT 
+subcontracted munitions manufacturer Win-
+chester-Howe to develop the Hornet mini-gre-
+nade. A cross between a grenade and a rocket, 
+the Hornet is launched from a grenade launcher, 
+but instead of arching, it is a direct-fire, single-tar-
+get weapon. Like a grenade, the Hornet can be 
+programmed to detonate based on a timer or 
+proximity to a target. Before impact, the Hornet 
+splits into six different projectiles, which gives it 
+a burst-fire-like effect. While the Hornet can be 
+used in any standard grenade launcher, the tar-
+geting sensors in the grenade’s head tend to mal-
+function, which often prevents projectile separa-
+tion and cancels the burst effect. 
+WINCHESTER-HOWE HORNET DIRECT-FIRE MINI-GRENADE
+DV
+AP
+BLAST
+AVAIL
+COST
+12P
+–2
+Special
+16F
+400¥
+Special Rules: During normal operations, the Hornet is considered 
+to be a six-round burst fire weapon; normal rules apply. On a glitch 
+when firing, the Hornet does not separate. It will still do base DV –2, 
+but will lose its AP. 
+RENRAKU RED  
+SAMURAI KATANA
+The ultimate badge of honor and service among 
+Renraku’s Elite Red Samurai, these blades works 
+of art as much as functional weapons, forged with 
+a blend of modern and ancient techniques. Leg-
+end says that if a Red Samurai draws their blade, 
+it must taste blood or it will turn on its owner. 
+Whether this is true or not remains to be seen, but 
+when a Red Samurai draws their blade, someone 
+usually dies. A Red Samurai would rather die than 
+give up their blade willingly. Blades of honorably 
+fallen or passed Samurai are considered sacred 
+items. 
+>	
+And the Reds take this very seriously. Don’t get any 
+ideas about stealing one, unless you want the entire Red 
+Samurai corps after you. I’m not kidding. 
+>	
+Thorn
+RENRAKU RED SAMURAI KATANA
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+1
+(STR+3)P
+–4
+NA
+NA
+RENRAKU/INGRAM  
+SUPERMACH 200
+A weapon design subcontracted through the In-
+gram weapons corporation, the Supermach 200 is 
+a favorite among Najima (Renraku’s security sub-
+sidiary) and the Blue Samurai. An update of the 
+popular Supermach 100, the 200 is designed to 
+be light, compact, and hold a substantial ammo 
+capacity. But in order to accomplish all this, In-
+gram was forced to create a special proprietary 
+ammo type that can only be used in this weapon. 
+The result was a round that lacked the raw damage 
+profile of most weapons of similar caliber, but to 
+compensate it had one of the best armor-penetra-
+tion profiles without having to use APDS ammo. 
+Despite the 200’s supposed flaws, Renraku is 
+more than satisfied with the weapon, siting the 
+low potential for blow-through, and has contract-
+ed for several thousand over the next few years. 
+INGRAM SUPERMACH 2000 SMG
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+6
+5P
+–6
+BF/FA
+–2
+40(c)
+18F
+5,000¥
+Standard Upgrades: Internal smartgun system, shock pad
+Special Rules: Because of its specialized design, this weapon can 
+only take custom ammo. For gameplay, treat price as standard ammo 
+but with Availability of 16F.
+>> STREET LETHAL <<
+132    Opposition Report: CorpSec >>
+\n##### PAGE 134 #####\nSAEDER-KRUPP/ONOTARI ARMS 
+SILENT CLAW STILETTO
+Not well-known to the public but well-known in 
+the shadows is Onotari Arm’s Silent Claw stilet-
+to. A favorite among assassins who can get their 
+hands on one, the weapon is preferred by Saed-
+er-Krupp’s covert operatives. Made of a light-
+weight but durable ceramic alloy, the Silent Claw 
+is immune to all MAD scanners. And with a na-
+no-forged diamond tip, it can, in the right hands, 
+bypass all but the most hardened of armors. 
+>	
+Rumors say that Lofwyr gives personalized versions of 
+these to his most loyal and successful operatives. His 
+right-hand drake, Scale, is said to have one made not of 
+ceramic materials, but from the fang of an enemy dragon 
+he personally killed at GeMiTo.
+>	
+Wyrm Watcher
+ONOTARI ARMS SILENT CLAW STILETTO
+ACC
+REACH
+DV
+AP
+AVAIL
+COST
+6
+—
+(STR)P
+–5
+12F
+400¥
+Special Rules: Because of the weapon’s nature, AP is only applied 
+during a thrusting attack. Otherwise, AP is —.
+SHIAWASE/NEMESIS  
+ARMS MAN-CATCHER 
+A prototype weapon system long considered a 
+failure, the Man-Catcher was one of many proj-
+ects recently re-discovered by Nemesis Arms 
+during the Megacorp Audit. A part of the low-pri-
+ority non-lethal division, the Man-Catcher is in 
+essence a rocket launcher that fires a warhead 
+filled with a fast-acting compound that, when ex-
+posed to air, expands slightly and turns into a rub-
+ber-like substance. Anything coming into contact 
+or coated with it will become stuck and eventual-
+ly immobile. The problem with the system wasn’t 
+the launcher or warhead, but rather the chemical 
+compound payload. On second review, a solu-
+tion was found, and the system became viable. 
+The launcher itself is a small tube approximate-
+ly fifty centimeters long, the warhead approxi-
+mately thirty centimeters. When used against a 
+target, the warhead can be pre-programmed to 
+detonate by timer, proximity, or impact, though 
+with with the latter the compound only has a fifty 
+percent chance of working (roll 1D6 with no re-
+rolls for Edge; it works on a 4 or better). Weapon 
+requires Exotic Ranged Weapon (Man-Catcher) 
+to operate. 
+NEMESIS ARMS MAN CATCHER
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+4
+Ammo
+—
+SS
+—
+10(m)
+18F
+6,000¥
+MAN-CATCHER AMMO COMPOUND
+DV
+AP
+BLAST
+AVAIL
+COST
+Rules
+—
+10m
+18
+200¥  
+(10 shots)
+Special Rules: Anyone/thing caught within the blast radius must 
+make an opposed grapple test against a dice pool of 12 or they will be 
+considered trapped and unable to move as the compound hardens 
+and expands an additional one meter.
+WUXING-ARMTECH PTL-02
+In 2071, Wuxing approached ArmTech about de-
+veloping a weapon specifically for use underwa-
+ter. Having already developed a highly successful 
+line of grenade launchers and projectile launch-
+ers for use in space, ArmTech gladly accepted 
+the offer. After three years of research and devel-
+opment, ArmTech presented Wuxing with their 
+Personal Torpedo Launcher 01 prototype. After 
+another year of field testing and refinement, the 
+PTL-02 officially entered service with the Marine 
+Security Division and has had a successful track 
+record since. Basically another grenade launch-
+er, the PTL-02 fires custom mini-grenade torpe-
+does. Currently, there are only two types of tor-
+pedo-grenades: high explosive/armor piercing 
+(HEAP), which are designed to impact a target, 
+and concussive/depth charge, which is an area 
+effect weapon. 
+ARMTECH PTL-02 TORPEDO-GRENADE LAUNCHER
+ACC
+DV
+AP
+MODE
+RC
+AMMO AVAIL
+COST
+5
+Torpedo
+—
+SS
+—
+6 (cy)
+18F
+5,000¥
+Standard Upgrades: Environment modification 2 (underwater)
+HEAP TORPEDO
+DV
+AP
+BLAST
+AVAIL
+COST
+14P
+–4
+–2/m
+14F
+300¥
+DEPTH CHARGE TORPEDO
+DV
+AP
+BLAST
+AVAIL
+COST
+12S
+–4
+10m
+12F
+175¥
+>>	
+STREET LETHAL <<
+<< Opposition Report: CorpSec    133
+\n##### PAGE 135 #####\nAT SEA
+“Surrender. You have nowhere to go.”
+The voice was not wrong. Its megaphone echo only em-
+phasized the surrounding emptiness. There was 120 meters 
+of boat. Then dozens of kilometers of water with no one in it, 
+as far as Fistik was aware. But she had a secret weapon.
+“We have your partner,” the megaphone voice announced. 
+“He is bleeding out. Surrender.”
+Drek.
+The sun had just barely peeked over the horizon. The cover 
+of darkness she and Devrim had used to get here was gone. 
+She had a maybe a thousand or two square meters in which 
+to hide. But only one central staircase, so if the security on 
+board had even a small amount of a clue, she’d have trouble 
+doing any significant moving around. 
+She also had a coin supposedly worth hundreds of thou-
+sands of nuyen in her pocket.
+She ran through her options. It didn’t take long. 
+She ran, shoulders hunched, gun curled close. The carpet 
+muffled her footsteps, but not enough. They would hear. That 
+was okay. The hallway branching off to the left was less than 
+two meters wide. That’s what she had to cross.
+She heard feet rushing down the stairs toward her. They 
+had heard.
+She leaped as she crossed the opening. It was the right 
+call. Whoever was coming down the stairs rounded a corner 
+and didn’t get the their gun raised in time. They shot low. Trag-
+ic holes appeared in the walnut paneling.
+Fistik ran through a door and slammed it behind her. She 
+kept to the left side of the hallway—the door was not thick 
+enough to stop a bullet, so she was still vulnerable. Then she 
+crashed through a second door into the boat’s master cabin.
+She closed the door but didn’t try to barricade it. She’d 
+been on boats before. Fraggin’ furniture was always fastened 
+in place. But she knew this book at least as well as its own-
+ers thanks to the studying she had done in advance, and she 
+knew what she had to do from here.
+She bounded onto the bed and jumped up, arms shield-
+ing her head. Her left hand was cyber, with a rounded point 
+set near the wrist. That point hit the skylight window first 
+and broke the tempered glass so that the rest of her could 
+go through. Her arms caught the edge of the outside of the 
+pane, and she pulled the rest of herself up and through. 
+Shots rang out behind her. She didn’t look at where they 
+were coming from. She was running between metal railings 
+that led to the foredeck, then down a few steps. She saw bul-
+lets hit the hull to her right, so she veered left, then climbed 
+up the hull and went over the edge. 
+Gecko tape kept her above the water line and out of sight. 
+134    >> AT SEA <<

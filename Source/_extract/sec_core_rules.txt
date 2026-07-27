@@ -1,0 +1,922 @@
+==== PDF 366 ====
+COUNTERING 
+MAGIC THREATS
+Magic in the Sixth World is both very powerful and very 
+rare. Even those with magical talent often do not have 
+enough to do any kind of magic that would be mean-
+ingful from a security standpoint. As such, acquiring 
+any sort of magical security is fairly expensive. How-
+ever, magic and magical threats have been a part of 
+the world for long enough that corporations and other 
+potential targets of magical threats have developed a 
+series of strategies for dealing with them.
+TACTICS FOR MUNDANES
+The first and most cost-effective tactic for dealing with 
+magical threats is to provide special training for mun-
+dane (non-magical) security forces to deal with mag-
+ical threats. Although the only direct counter to mag-
+ic is more magic, there are things that mundanes can 
+do that will eliminate and sometimes inhibit magical 
+threats. These tactics will be the first thing that security 
+forces employ when faced with a magical threat.
+Before anything can be done, a magical threat must 
+be identified. If a front-line security guard has received 
+any kind of professional training, they will have been 
+taught how to identify a variety of magical threats: 
+metahuman magicians, critters, and spirits, among oth-
+ers. If magical activity is identified in an opposing force 
+(see Perceiving Magic, p. 280), the security guards im-
+mediately act to counter it.
+Once identified, one way to deal with the threat is by 
+target priority. There are many elaborate and compli-
+cated ways to deal with an opposing magician, but the 
+simplest (and often most effective) is to fill the enemy 
+magician with bullets. This is where the common street 
+saying “geek the mage first” comes from. When an op-
+posing security force identifies a magician opponent, 
+they will likely target the magician first or with their most 
+effective weapons. Even wounding an enemy magician 
+without actually putting them down affects how well they 
+can cast spells. Of course, taking down an enemy magi-
+cian solves the magical threat problem completely. This 
+technique will be favored if the security team sees or feels 
+that they have an advantage in physical firepower over 
+the runner team. Target priority can and will be combined 
+with other physical combat techniques such as ambushes 
+(see Countering Physical Threats, above).
+When force is not adequate (or available), limiting 
+visibility can be just as effective. Magic is (almost) en-
+tirely dependent on what the magician can see. If a ma-
+gician can’t see something, they can’t cast a spell against 
+it. Anything a security force does to limit a magician’s 
+ability to see them will inhibit their ability to use mag-
+ic against them. Security forces can limit visibility in a 
+variety of ways: cover, flash bangs, smoke, or changing 
+lighting conditions. However, limiting visibility is purely 
+a defensive tactic and will be used in combination with 
+the security team withdrawing to give time for on-call 
+magical backup, or to change the location of the en-
+gagement to somewhere more favorable for the secu-
+rity team.
+CONTRACTED  
+MAGICAL SECURITY
+Contracting magical security does have its drawbacks. 
+Most organizations will not be able to afford to have 
+Awakened security personnel on site 24/7, so magical 
+security will often be in the form of a contracted “on 
+call” operative or force. When a magical threat is iden-
+tified, the magic backup is called into action. The first 
+response of a magical security contractor is usually to 
+scout and confirm the magical threat astrally. If a mag-
+ical threat is confirmed, the astrally scouting magician 
+may summon a spirit (or call a bound spirit) to assist im-
+mediately, if that level of service has been purchased. 
+Depending on the contract, the magician may stay and 
+observe the situation astrally, assisting however they 
+can, or return to their meat body to respond to the 
+threat physically. Often the magical backup will arrive 
+as part of a High Threat Response team, but sometimes 
+the magic backup will come just to aid the existing se-
+curity force. The details of the arrangement between 
+the front-line security forces and the magical contrac-
+tor are up to the gamemaster.
+MAGICAL BARRIERS
+An extremely cost-effective method of magical protec-
+tion is the use of magical barriers. Any company that of-
+fers magical contracting services will provide an option 
+to establish magical barriers as part of their services. 
+Barriers can be established in the astral plane to pro-
+tect sensitive areas from observation by astral entities 
+(such as an astrally projecting magician), or they can 
+be established on the physical plane at critical areas to 
+add protection to those on the other side of the barri-
+er. Magical barriers are a passive measure, and organi-
+zations will use them knowing that they will only slow 
+down magical intruders, at best, but they are inexpen-
+sive as magical protections go. Being one of the most 
+basic services that magical contractors provide, com-
+petition has driven the price of magical barriers down 
+to the point that nearly any corporation or organization 
+will be able to afford them. In addition to creating and 
+renewing them if necessary, the magician that created 
+the barrier will know when it has been breached, at-
+tacked, or destroyed and will inform whoever is to be 
+contacted in the protected organization.
+CRITTERS AND SPIRITS
+Metahumans are not the only, and often not even the 
+most effective, basis for magical security. While the 
+>> GAMEMASTER ADVICE <<
+<< Security in the Sixth World    361
+
+==== PDF 367 ====
+ability to manipulate or even perceive the astral realm 
+is extremely rare to metahumanity, awakened critters 
+and spirits exist there as a natural state. For this reason 
+they make ideal security forces, if they can be trained 
+to perform the job.
+Spirits (see p. 303) are fairly easy to employ for 
+security. They merely need to be summoned and set 
+the Task of protecting an area in some way. When em-
+ployed in a security role, due to the long time frames 
+involved, spirits are almost always bound. To set a spirit 
+in a security role, it must be given a task that uses one 
+of its services. Spirits are characteristically ornery and 
+narrow-minded, especially when bound to long-term 
+service, so the instructions given for the security ser-
+vice must be simple yet specific. A spirit could be used 
+to report astral activity in the area, attack anyone in 
+the restricted area during unauthorized hours, or other 
+tasks with specific parameters and goals. The exact na-
+ture of the service that a bound spirit is performing is 
+up to the gamemaster.
+Awakened Critters are employed in a security role 
+for most of the same reasons as spirits. Critters have 
+advantages and disadvantages over spirits in the same 
+role. Critters are more permanent than spirits, in that 
+once they are trained and deployed, they will remain 
+and do not have 
+a limited resource 
+such as Services. 
+However, 
+critters 
+take far longer to 
+get to the point 
+where they can be 
+used in a securi-
+ty role, requiring a 
+lengthy (and often 
+expensive) training 
+process. As such, 
+the cost to employ 
+Awakened 
+critters 
+or bound spirits in a 
+security role is generally equivalent, so it would be up 
+to the whims of the security forces (and the gamemas-
+ter) which creature is employed. Awakened critters are 
+used because they can perceive astral space as well as 
+physical space, making identifying astral entities trivi-
+al for them. Additionally, like spirits, they can engage 
+astral entities in combat, which makes them a signif-
+icant threat. Depending on the critter, they can bring 
+additional exotic powers that perform a lot of the same 
+roles within a security team as a magician, such as a 
+barghest’s paralyzing howl. Even though critters re-
+quire maintenance and specialized handling, and they 
+can sometimes be unpredictable, the advantages they 
+provide for mundane security forces against magical 
+threats makes them extremely valuable.
+DRONES
+Since magic first returned and ushered in the Sixth 
+World, it has been connected with living things. Magic 
+has always flowed more readily in the living and been 
+inhibited by the mechanical or highly processed. Only 
+the most powerful and talented magicians can affect 
+highly processed mechanical objects, and even then 
+at significant cost to themselves. For these reasons, 
+drones have become an effective counter to magical 
+threats. Since drones are highly processed, unnatu-
+ral, mechanical objects, they inherently resist magical 
+effects. They are immune to spells that target pure-
+ly organic or sentient beings and are well armed and 
+armored to deal with physical spells. They also pack 
+a significant threat in firepower. Drones are manufac-
+tured on a mass scale and are very cost effective to 
+employ in any security role. This makes them extreme-
+ly popular and a particularly good counter to magical 
+threats. It is drones’ weakness to other kinds of attacks 
+(such as hacking), however, that keep them from being 
+the overwhelmingly most popular choice.
+SECURITY DEVICES
+LANDSCAPING
+Landscaping, sometimes an overlooked component 
+of physical security, can help provide obstacles or 
+barriers. This includes everything from the placement 
+of trees and shrubs to working with the surrounding 
+land or creating hills, gullies, and lakes. The idea is to 
+make it difficult for unauthorized personnel to enter 
+the grounds without being spotted, trapped, inter-
+cepted, or maybe even killed. Landscaping may also 
+be designed to prevent an intruder (or protected per-
+sonnel) from escaping easily, so that security person-
+nel can easily catch and detain them if alerted to their 
+presence. Trees, dense brush, and hedges can provide 
+cover for sensors, wires, cameras, tiger pits, secret en-
+trances or exits, or automated gun systems. Along with 
+ponds and lakes, they can also provide natural barri-
+ers. These features are not usually planted adjacent to 
+buildings themselves, so as not to provide cover or en-
+try assistance for intruders (such as a tall tree allowing 
+for entry into a second- or third-story window). Dense 
+brush and ground cover are also difficult for an intruder 
+to bypass without creating noise (apply an appropriate 
+modifier to a character’s Infiltration Tests) and may be 
+coupled with acoustic sensors. Foliage also increases 
+Noise (p. 230) for anyone trying to access wireless de-
+vices on the other side of the landscaping. 
+BARRIERS
+Barriers include fences, walls, and other obstructions 
+that serve as a deterrent to keep people and animals 
+out, prevent intruders from escaping, or deter surveil-
+SECURITY CRITTER 
+REFERENCES
+CRITTER
+PAGE
+Barghest
+403
+Basilisk
+403
+Hellhound
+405
+>> GAMEMASTER ADVICE <<
+362    Security in the Sixth World >>
+
+==== PDF 368 ====
+lance or terrorist attacks (like car bombs). These can be 
+strewn about the perimeter, set along restricted road-
+ways, or integrated into a building’s internal or outer 
+security. They may be supplemented with various sen-
+sors, cameras, gun turrets, or scanners (see below). 
+Rules for climbing over barriers can be found on p. 134. 
+Wooden, stone, chain-link, and electrified fences 
+are most likely set around the perimeter and may fea-
+ture barbed wire, concertina wire, or even monowire 
+along the top. Climbing past fencetop wiring requires a 
+Climbing + Agility (3) Test; if the character fails, she takes 
+damage. See the Fencing Table for the thresholds need-
+ed to spot an electrified fence (as opposed to a regular 
+fence) or monowire with a Perception Test, as well as the 
+damages these defensive features can cause to some-
+one who fails to bypass them. Damage is resisted with 
+Body + Armor as per normal. Note that protective mats 
+may be thrown over barbed/concertina wire or electric 
+fencing to climb over them without damage.
+Walls come in all sorts of compositions—usually brick, 
+stone, plascrete, concrete, or drywall—and may be specif-
+ically intended to protect against explosions or penetra-
+tion. For details on attacking through or bypassing walls, 
+see Barriers, p. 197. Plumbing, heating, ventilation, and 
+air conditioning systems are often found within walls and 
+can increase the wall’s Armor rating (p. 197).
+DOORS, WINDOWS, & LOCKS
+Doors and windows are common entrance and egress 
+points not only for normal use but also for break-
+ing-and-entering. Doors follow the standard rules for 
+Barriers (p. 197) and are typically augmented with locks, 
+alarms, and/or sensors (see below). Windows tend to 
+be mirrored in 2075 (preventing an outside spellcaster 
+from targeting anything inside), though their tinting is 
+often voice- or wireless-controlled. Transparent con-
+crete is also used, providing all the lighting of glass 
+with the barrier value of a concrete wall.
+Key locks are the simplest kind, involving the use 
+of tumblers and metal keys or combination code dials 
+to open doors instead of cards or some other device. 
+They are also not in very common use due to reliance on 
+more sophisticated means of security, but some places 
+(like private safes or low-end businesses) may still use 
+them out of nostalgia, because they can’t afford better, 
+or because rarity equates to better security. Defeating a 
+key lock requires a Locksmith + Agility [Physical] (Lock 
+Rating, 1 Combat Turn) Extended Test. Autopickers (p. 
+447) add their Rating in dice to this test; their Rating may 
+also be used in place of Locksmith skill.
+Transponder-embedded keys contain a calibrated 
+resistor that completes a circuit in the lock. In order to 
+pick such a lock by hand, an electronics kit is needed to 
+generate the appropriate electrical characteristics. This 
+requires a successful Hardware + Logic [Mental] (Lock 
+Rating, 1 minute) Extended Test at the same time the lock 
+is picked. If the same character is picking the lock and cal-
+ibrating the electrical feed, apply a –2 dice pool modifier 
+to both tests.
+Powered magnetic locks, maglocks, are widespread 
+in 2075 and come in a wide range of sophistication. Ma-
+glock “keys” can be physical (keypad, swipe card, prox-
+imity card, memory string), biometric (see below), or any 
+combination thereof. Maglocks are often accessible via 
+the local network (wired or wireless) and may be moni-
+tored by a security hacker/rigger. Maglock systems of-
+ten log all usages, keeping track of the time, date, and 
+identity of each user. The first step to bypassing a ma-
+glock is to remove the case and access the maglock’s 
+electronic guts. This requires a successful Locksmith + 
+Agility [Physical] (Maglock Rating x 2, 1 Combat Turn) 
+Extended Test. If all else fails, the case can be smashed or 
+shot off; treat the case as if it has a Barrier rating equal to 
+the maglock rating. Overzealous attempts to break the 
+case may harm the electronics inside. Re-assembling the 
+case afterwards requires the same test. Some maglock 
+systems come equipped with anti-tamper systems, rat-
+ed between 1 and 4. In order to bypass the anti-tamper 
+circuits, an additional Locksmith + Agility [Physical] (an-
+ti-tamper system rating) Test must be made. If this fails, 
+an alarm is triggered.
+Keypads utilize an access code (often different 
+access codes for different users). Unless the code is 
+known, defeating a keypad requires rewiring the inter-
+nal electronics. This means cracking open the case (see 
+above) and then rewiring the circuits—another Lock-
+smith + Agility [Physical] (Maglock Rating x 2, 1 Com-
+bat Turn) Extended Test. A maglock sequencer (see p. 
+448) may also be used instead; make an Opposed Test 
+between the sequencer and maglock ratings. If the se-
+quencer wins, the maglock opens. (Note that the case 
+must still be opened for a sequencer to be applied.)
+Cardreaders verify the authenticity of swipe cards 
+or RFID proximity cards. They can be defeated using the 
+same method as for keypads—by removing the case and 
+tampering with the works. Maglock passkeys (p. 448) 
+may also be used to defeat cardreaders and don’t re-
+quire breaking the case open. If a valid keycard is ac-
+quired, it can be copied with a keycard copier (p. 447) 
+in order to create a forged keycard. Make an Opposed 
+FENCING TABLE
+DIFFICULTY
+THRESHOLD
+DAMAGE
+Barbed
+1
+4P
+Concertina
+1
+5P
+Monowire
+3
+8P
+Electrified
+2
+6S
+(See Electricity Damage, p. 170)
+>> GAMEMASTER ADVICE <<
+<< Security in the Sixth World    363
+
+==== PDF 369 ====
+Test between the passkey/forged keycard rating and the 
+maglock rating. If the passkey/forged keycard wins, the 
+maglock opens.
+Print scanners scan fingerprints, palm prints, retinal 
+prints, or even the pattern of blood vessels in the face 
+or palm. One method to defeat a print scanner is to co-
+erce an authorized user to apply their prints. Alternately, 
+a synthetic print glove-like membrane (a “sleeve”) can 
+be manufactured for fingerprints and thumbprints with 
+a cellular glove molder (an authorized print is necessary 
+to copy from, see p. 447). Retinal prints may also be du-
+plicated with the retinal duplication cybereye accessory 
+(p. 453). If a fake print is used, make an Opposed Test 
+between the duplicate and the maglock rating; if the 
+fake wins, the maglock accepts it.
+Voice recognition systems require a vocal response 
+from an approved user’s voice, usually within a certain 
+amount of time. If the response is not given within the 
+time limit, or someone not approved answers, the sys-
+tem sounds an alarm. Characters can only defeat voice 
+recognition systems by “speaking” with the voice of an 
+approved user—by using a recording, some other sim-
+ulation, or the real voice. Voice modulator cyberware 
+(see p. 452) can also be used. An Opposed Test must 
+be made between the voice recognition system and 
+the equipment used to bypass it; whichever generates 
+more hits, wins.
+Breath, cellular, and DNA scanners collect a sam-
+ple of the user’s cells, either off the finger/palm, via hair 
+suction, through exhaled particles, or something similar, 
+and analyze the genetic material. In order to fool such a 
+system, you need a sample of the correct genetic ma-
+terial, preserved in a specially formulated enzyme bath. 
+The enzyme bath can be synthesized in a chemistry 
+shop with a Chemistry + Logic (5, 1 hour) Extended Test. 
+Facial recognition scanners use imaging lasers, ther-
+mographic, and/or ultrasonic waves to map a person’s 
+face. These are one of the least intrusive, but also least 
+accurate, biometric recognition systems. Facial recog-
+nition systems are useful not just for letting authorized 
+people in, but also for identifying unwanted people and 
+keeping them out. Prosthetic makeup and biosculpt-
+ing can be used with varying degrees of effectiveness 
+against facial recognition; make an Opposed Test pitting 
+Disguise + Intuition [Mental] against the Device rating. 
+Apply a +2 dice pool modifier to the character if the sys-
+tem is picking the disguised character out of a crowd.
+SENSORS AND SCANNERS
+Good lighting, both indoor and outdoor, can be a 
+further deterrent to intrusion, as it raises the chances 
+for security to spot unauthorized personnel. Lights 
+are usually controlled via wireless to activate at pre-
+determined times (like outdoor lights, which are only 
+needed at night) or events (like when a sensor detects 
+movement in its area; see Sensors below). Indoor light-
+ing can either be manually controlled with a regular 
+on/off switch, or programmed to respond to motion 
+or daily activity (such as the start of the business day). 
+Most switches can be subverted with a Hardware + 
+Logic [Mental] (5, 1 Combat Turn) Extended Test. Most 
+lighting is incandescent, fluorescent, LED, or white hal-
+ogen quartz, though occasionally gas-discharge may 
+be used for high-wattage exterior lighting (taking 5 
+minutes to warm up).
+Alarms, a form of passive security, are one of the 
+most basic elements of a security system. Alarms serve 
+to alert guards, security hackers/riggers, or remote moni-
+toring services that something is amiss and must be dealt 
+with. Alarms may be silent, alerting only the security or 
+police in order to catch intruders unaware, or they may 
+go off as flashing lights and loud warning klaxons that 
+resound throughout the building. Individual components 
+of a security system may be alarmed, like a fire door that 
+triggers a warning bell when opened. Many alarms, par-
+ticularly on doors and windows, are based on electrical 
+circuits. While closed, the circuit is complete and no alarm 
+will sound. If the door or window is opened, however, the 
+circuit is broken, triggering the alarm. Windows may have 
+alarm circuits wired into the glass, so if the glass is bro-
+ken an alarm goes off. To bypass such alarms, the circuit’s 
+electrical contacts must be fooled while the door/win-
+dow is open. This requires a Hardware + Logic [Mental] 
+(5, 1 minute) Extended Test, though depending on the 
+design it may be more difficult.
+A wire is one of the most basic types of securi-
+ty scanners. Breaking the beam or wire is often tied to 
+some sort of alarm system to notify security personnel, 
+but can also trigger other kinds of automated security 
+systems (see below). In some rare cases, the wire may 
+have a more lethal purpose and is intended to harm the 
+target. Stringing monowire across a potential intrusion 
+point is a common choice for this purpose. If a character 
+fails a Perception Test (p. 135) they will run into the wire 
+and trigger its effect. This could be activating the alarm 
+system, or taking damage. For wires intended to harm, 
+use the damage listed in the Fencing Table (above).
+Trip beams are used as perimeter alarms or across 
+entrances. Trip beams consist of laser emitters (visible 
+or infrared), mirrors, and laser detectors. If the beam of 
+light is interrupted (by someone or something passing 
+through it), the alarm goes off. These systems can be 
+very complex and sometimes labyrinthine, requiring 
+anywhere from several to twenty or more mirrors and 
+reflectors in order to aim the light beam where desired. 
+Noticing a trip beam requires a Perception + Intuition 
+[Mental] (2) Test for visible beams, or a threshold of 3 
+for infrared beams. Laser beams are more noticeable in 
+smoke or if an aerosol spray is used, reducing the thresh-
+old to 1. Squeezing past a trip beam maze requires an 
+Escape Artist + Agility [Physical] Test against a game-
+master-determined threshold. Trip beams may also be 
+fooled by simultaneously lining up proxy laser emitters 
+>> GAMEMASTER ADVICE <<
+364    Security in the Sixth World >>
+
+==== PDF 370 ====
+of the proper wattage into each detector on the system, 
+requiring a similar Escape Artist + Agility [Physical] Test. 
+A calibrated system of mirrors may also be used to re-ar-
+range the trip beam pattern so that someone can pass 
+through.
+Pressure pads complement any indoor security in 
+areas that are restricted or off-limits to unauthorized 
+personnel (particularly at night, when no one should be 
+about). These are weight-triggered sensors that will re-
+act to any amount of weight, or when there is too much 
+weight beyond a pre-programmed amount (where the 
+maximum allowable weight is five or ten pounds heavi-
+er than the heaviest authorized individual). A pressure 
+mesh works similarly, but is largely for outdoor use and 
+installed in the ground, and is less sensitive than pads. 
+Noticing pressure mesh or pads is very difficult, requir-
+ing a Perception Test threshold of 3 for pads and 4 for 
+mesh. If a character steps on a pad, however, it is more 
+apparent (reduce the threshold by 2)—but by then it is 
+usually too late. After a character steps onto the mesh 
+or pad, however, a second Perception Test should be 
+rolled: Threshold 1 for pads and Threshold 3 for mesh. 
+If successful, the character can attempt to remove the 
+pressure before it exceeds the device’s weight allow-
+ance. This is very difficult, requiring a Reaction + Intu-
+ition (3) Test, with the character’s Body serving as a neg-
+ative dice pool modifier.
+Motion sensors pick up on movement. They trans-
+mit an ultrasonic field, and react to changes in that field 
+when anything enters it. Intruders may detect the ul-
+trasonic field by using an ultrasound sensor set to pas-
+sive mode within 5 meters. Defeating a motion sensor 
+requires that characters move very slowly through the 
+field, one half-meter per Combat Turn, and succeed-
+ing in an Sneaking + Agility [Physical] (3) Test. Twitchy, 
+wired-up characters will find this very uncomfortable; 
+apply a negative dice pool modifier equal to their extra 
+Initiative Dice (that is, any dice beyond the first one).
+Capacitance wire, or proximity wire, detects the 
+electrical charge of a metahuman body (or animal) with-
+in 2 meters. It is often used around a building’s perim-
+eter fencing, on secure entranceways, or on special ob-
+jects, and either triggers a regular alarm or switches on 
+security cameras and other measures. For redundancy, it 
+might be used in conjunction with motion sensors.
+Sound detectors and vibration detectors utilize sen-
+sitive microphones to pick up sounds/vibrations. They 
+can be programmed with pattern recognition algorithms 
+to ignore some sounds/vibrations, but will easily pick up 
+everything else not fitting within those parameters. Char-
+acters attempting to sneak by a known sound detector 
+must succeed at an Infiltration + Agility [Physical] (3) Test 
+(Silence or Stealth spells can also be used). Some sound 
+detectors may be programmed to trigger an alert only 
+when certain sounds are detected, such as gunshots (per-
+haps even triangulating the sound’s origin with multiple 
+detectors).
+Security cameras fill a broad spectrum, from the 
+standard visual type to low-light, infrared, and ultravi-
+olet cameras or sensors. Cameras help security per-
+sonnel maintain a secondary eye on every significant 
+area of traffic when guards are patrolling, and maintain 
+watch when personnel are not in physical or astral prox-
+imity. Infrared, also known as thermographic, picks up 
+on body heat signatures (but may be fooled with an 
+Improved Invisibility spell). One security trick is to use 
+surfaces that are reflective on the infrared spectrum on 
+corner areas, so that thermographic cameras can detect 
+intruders from around corners where the cameras them-
+selves cannot be easily seen. Low-light sensors amplify 
+the ambient light in order to produce an image in dark-
+ened spots (making the camera harder to spot), but may 
+be overpowered with bright light. Shadowrunners may 
+take advantage of this with flash-bang grenades (p. 
+435). How well any of these cameras or sensors may 
+be spotted will depend partially on how well they are 
+hidden. Typical cameras on fixed or pivoting mounts can 
+be easily seen if characters are looking for them. Smaller 
+micro-cameras have a threshold of 3 to be spotted with 
+a Perception Test. If the camera is hidden, modify the 
+Threshold to spot it per the Perception Thresholds Table 
+(p. 136), applying any appropriate modifiers.
+Olfactory scanners, also known as chemical detec-
+tion systems or chemsniffers, analyze molecules in the 
+air for nitrogen-rich particles like those given off by ex-
+plosives or firearm ammunition. To detect explosives or 
+ammunition, roll a dice pool equal to the chemsniffer’s 
+rating against a threshold 2 (3 if the explosives/ammo 
+are hermetically sealed). Apply modifiers as noted on the 
+Chemical Detection Modifiers table.
+Olfactory scanners can also be used as pheromone 
+scanners to detect the pheromones that metahuman 
+bodies release into the air. These are uncommon, but can 
+be useful for detecting individuals who have otherwise 
+effectively concealed themselves via technological or 
+magical means from regular security devices. Pheromone 
+scanners are sophisticated enough to tell the difference 
+CHEMICAL DETECTION 
+MODIFIERS TABLE
+SITUATION
+MODIFIER
+Every 10 rounds of ammunition
++1
+Every grenade
++1
+Every 30 grams of (non-plastique) 
+explosive
++1
+Every 100 grams of plastique
++1
+Item contained in plastic
+–1
+>> GAMEMASTER ADVICE <<
+<< Security in the Sixth World    365
+
+==== PDF 371 ====
+between a metahuman and an animal and can also pin-
+point gender, but are otherwise not advanced enough to 
+single out an individual. In order to pick up a scent, the 
+scanner rolls its Device Rating against a threshold of 3 (2 
+for characters with tailored pheromone bioware).
+Magnetic anomaly detectors (MADs) detect metallic 
+substances for the purpose of finding concealed weap-
+onry. Naturally, MADs do not work against non-metallic 
+substances like wood, stone, or plastic. To determine if 
+the detector finds a weapon, make a test using the de-
+vice’s rating as the dice pool; a single hit detects any fer-
+rous-metal weapons or objects (guns, knives, etc).
+Millimeter wave detection systems, also known as 
+cyberware scanners, process video taken in the milli-
+meter wave spectrum to identify the energy signature of 
+cyberware and concealed items (specifically weapons) 
+on a person. These devices can “see through” thick lay-
+ers of clothing and other concealment to identify items 
+from a distance of fifteen meters away. To determine if 
+the detector scans cyberware or a prohibited item, roll 
+the Device Rating and compare the hits scored to the 
+thresholds given on the Cyberware Scanner Table. Milli-
+meter wave scans can detect any non-biological item by 
+its shape and composition, assuming the item is listed 
+in the device’s database. If the threshold is reached, the 
+scanner detects the item/implant and notes its general 
+locations and type; additional hits provide more detail 
+(function, model, grade, etc.).
+AUTOMATED DEFENSES
+Automated gun systems are simply weapon-mounted 
+drones placed in fixed locations (usually with a 180-de-
+gree firing arc) or on slide-mounted track systems. 
+These systems are typically loaded with basic sensors 
+and Targeting autosofts and follow all the standard 
+rules for drones (see p. 269).
+Containment systems entail a kind of trap mecha-
+nism: when an alarm is triggered, shutters drop down 
+over windows, doors shut and lock, and sliding walls or 
+gates may be activated. They may also include laser or 
+monowire mazes and radio jamming. The objective is 
+to detain intruders within a confined area, after which 
+they may be either removed or “neutralized.”
+Gas delivery systems can be insidious, dispersing 
+gas in a potentially undetectable manner. Dispersal sys-
+tems can fill an area of 30 cubic meters in one Combat 
+Turn. The gamemaster determines how far and how 
+quickly a gas spreads. The gamemaster may secretly 
+conduct Perception Tests to see if any characters detect 
+the gas, basing the threshold on how noticeable the gas 
+is (many gases are colorless and odorless). Characters 
+equipped with an olfactory scanner (see p. 452) may be 
+alerted by their gear. See p. 408 for details on various 
+gases and how they will affect characters.
+Marking systems are designed to tag intruders with 
+a discreet mark so that they can be identified later if cap-
+tured. Marking methods include ultraviolet dye, RFID 
+tags, DNA-encoded material, or even nanite tags. The 
+markers are typically sprayed unobtrusively over exits 
+and other traffic areas.
+IDENTIFICATION
+Your average Joe Wageslave in the Sixth World doesn’t 
+give a second thought to their identity in the system. 
+They get up in the morning, go to work, buy the gro-
+ceries, pay the bills, and go to bed in their living space. 
+They don’t think about who knows who they are, how 
+much their employer controls them, who those bill pay-
+ments are going to, how their commlink knows what 
+groceries they need this week, and who knows where 
+they live. Yes, Joe Wageslave is pretty oblivious to the 
+system that surrounds everything they do. But anyone 
+who chooses to live off the grid (like shadowrunners) 
+are all too aware of how the system of identity works.
+SYSTEM IDENTIFICATION 
+NUMBER (SIN)
+The foundation of an identity in the Sixth World is the 
+System Identification Number (SIN). If someone wanted 
+to divide the world into two groups of people, it could 
+be done by saying there are those who have a SIN and 
+those who don’t. That is, if you even consider the SIN-
+less to be “people,” which some don’t. Modern society 
+in 2075 produces a staggering amount of information 
+every second of every day: where you are, what you 
+buy, and what you do. With the system producing all of 
+these pieces of information, there needs to be an easy 
+way to store, track, and correlate it. All of that informa-
+tion needs to be associated with a person somehow. 
+That’s where the SIN comes in. A SIN is issued to a per-
+son a birth, and stays with them (baring exceptional cir-
+cumstances) for the rest of their life. A SIN identifies a 
+CYBERWARE SCANNER TABLE
+ITEM
+THRESHOLD
+Standard cyberware, weapons
+1
+Alphaware, other items
+2
+Betaware
+3
+Deltaware
+5+
+SITUATION
+MODIFIER
+2 or more implants/items
++1
+4 or more implants/items
++2
+6+ implants/items
++3
+>> GAMEMASTER ADVICE <<
+366    Identification >>
+
+==== PDF 373 ====
+the SIN number itself. Related information such as bio-
+metric data will likely be missing or obviously false if 
+checked (“Hey, this is the DNA of a chicken ...”). Other 
+issues may be the consistency, or fit, of the identity to 
+the individual. If a runner just needs an identity—any 
+identity—right now, they may end up purchasing a SIN 
+for a ten-year-old Nigerian girl. Higher Rating, and thus 
+more expensive, fake SINs have been lovingly crafted 
+over time with a great deal of attention to detail. An 
+identity will be chosen that matches the age and na-
+tionality of the person purchasing it, and it will have 
+plausible supporting information such as travel and 
+purchasing history. Biometric data associated with 
+a high-Rating SIN will be from a real person with the 
+same sex and nationality as the purchaser with (if the 
+extra fee is paid) matching organic samples available 
+(blood, skin cells, hair—just don’t ask where they came 
+from). For availability and prices of purchasing Fake 
+SINs, see p. 367.
+CHECKING A FAKE SIN
+While having some sort of SIN is mandatory for a 
+person to interact in any way with the “civilized” (as 
+they would put it) world, the level to which the SIN is 
+checked and verified varies widely based on the situa-
+tion and who is doing the checking. In game terms the 
+sophistication of the system doing the checking and 
+how much information it is able to verify is represented 
+by its Rating. Less sophisticated units will perform only 
+the most basic checks, while more sophisticated ones 
+will perform a deeper analysis with cross-verification. 
+In game terms, the gamemaster should make a Simple 
+Device Rating x 2 Test with a threshold equal to the 
+rating of the fake SIN (use Device Ratings, p. 234, for 
+SIN verification system ratings). If the number of hits is 
+under the threshold, the system reports no problem. If 
+the threshold is reached but not exceeded, the system 
+reports that something seems “odd” with the SIN and 
+will recommend that the operator investigate further. 
+Whether the operator actually does anything is up to 
+them. If the threshold is exceeded, the system reports 
+the SIN as false and may immediately notify the author-
+ities. At this point, the fake SIN is considered burned.
+BURNED SINS
+When a fake SIN has been checked and found to be 
+false, the SIN Verification System notes this immediate-
+ly. If it is connected to the Matrix (and what isn’t these 
+days), it reports the fake SIN, via a special emergency 
+message, back to the SIN registry system of the coun-
+try in which the verification takes place. Any further 
+use of the fake SIN automatically fails. At this point, the 
+runner or person using the fake SIN should abandon it 
+for good. If that’s not an option, there is small chance 
+that it can still be used. A SIN is only marked as burned 
+instantly in the country where it was detected. Data 
+sharing between countries is not always perfect or in-
+stantaneous. At the gamemaster’s discretion, a SIN that 
+has been burned in one country may not be burned in 
+a different country.
+DROP-IN 
+LOCATIONS
+More often than a gamemaster wants, characters will 
+decide to go somewhere unexpected. This can leave 
+the gamemaster in a bind, as they may have to create a 
+detailed location on the fly. Even when they don’t have 
+to improvise, gamemasters sometimes have trouble 
+creating the amount of detail that may be required (or 
+desired) for a location. What follows in this section are 
+a series of generic drop-in locations that can be used in 
+your Shadowrun game. They can be used as-is, or taken 
+as a starting point and then modified to suit the specific 
+needs of the game.
+HELL-HOLE BAR
+When living your life from day to day is a mighty strug-
+gle, you can be sure that people are going to want a 
+drink. The hell-hole bar is one of the only forms of orga-
+nized business that a person is likely to find if they are 
+wandering the Redmond Barrens, El Infierno, Aurora 
+Warrens, or any other area of urban decay and aban-
+donment. Getting a drink here can literally kill a person, 
+felled either by the rough patrons of the bar or by the 
+foul excuse for what they call liquor (brewed in some 
+cobbled-together excuse for a still in the basement). 
+However, since these areas almost never draw the eye 
+of any law enforcement, or anyone with much self-re-
+spect for that matter, they make an ideal location to 
+make a deal or have a meeting, away from any notice. 
+Security in these kinds of places is generally very light. 
+SIN VERIFICATION DETAILS
+RATING WHAT’S CHECKED
+1
+Do you have a SIN?
+2
+Basic redundancy check on the number and 
+vital statistics
+3
+Redundancy check on number and statistics; 
+query for external data attached to SIN
+4
+Verify all vital statistics; external data 
+checked for obvious conflicts; biometric must 
+be present
+5
+Full verification and consistency check; 
+biometrics tested against sample
+6
+All possible verification; multiple biometric 
+samples must match; random supporting 
+data verified externally
+>> GAMEMASTER ADVICE <<
+368    Drop-In Locations >>
+
+==== PDF 374 ====
+The local gang might try to keep trouble away, or there 
+might be a shotgun under the bar. Technology? Matrix 
+access? Don’t hold your breath.
+SECRET RESEARCH 
+STATION
+If anything in the Sixth World can be certain, it is the fact 
+that large corporations are always up to something se-
+cret. There are many reasons why a corporation might 
+want to conduct research in a hidden or secret location, 
+including keeping knowledge away from competitors, 
+or keeping pesky governments with their “human rights 
+laws” away from their exciting research. Underground 
+or underwater secret research stations have been used 
+numerous times over the years to house such projects. 
+With the extremely limited access to these locations, se-
+curity is tighter than a troll in dwarf’s clothes. Corps don’t 
+put a project in a facility like this unless it has massive 
+earning potential, and they’re not going to ruin that po-
+tential by skimping on security, so expect the very latest 
+and best that the corp has to offer. Internal Matrix sys-
+tems and technology will also be top of the line. Access 
+to the Matrix will be extremely limited due to the inter-
+vening ground or water, and this is part of the security 
+system. A team of runners getting in and out of one of 
+these locations is the stuff street legends are made of.
+NOVA-HOT CLUB
+This is where the social scene comes alive at night. Any-
+body who wants to be seen as a somebody is in this club 
+tonight. There’s a lineup of losers and wannabes a mile 
+long at the door. Inside the club is filled with the Sixth 
+World’s beautiful people—people with nuyen to burn 
+and a desire to stay current. Deals are done, stars are 
+born, and sometimes die here. A club like this is filled 
+with the rich and powerful that are often of great interest 
+to runners or those that hire them. If you’re lucky, you’re 
+not even here on a job and just get to enjoy yourself for 
+the night. Either way, if you’re a smooth talker and know 
+the right people, almost any kind of good or service can 
+be acquired, for a price. Tech and wireless in the club is 
+top of the line, with the very best in virtual entertain-
+ment available. Security is subtle, but effective—trouble 
+in a place like this is bad for business.
+MOM-AND-POP SHOP
+Big multinational megacorporations may get all the 
+headlines, but most of the corps in the world are small 
+“mom and pop” corps that struggle to make ends 
+meet. People on the lower end of the economic scale 
+often find themselves dealing with these businesses. 
+They could be the local specialty grocer, talismonger, 
+travel agency, or variety shop. Normally, these places 
+aren’t much interest to runners or their employers, but 
+sometimes one of these local owners does something 
+SECRET RESEARCH STATION
+HELL-HOLE BAR
+NOVA-HOT CLUB
+>> GAMEMASTER ADVICE <<
+<< Drop-In Locations    369
+
+==== PDF 375 ====
+extraordinary, or maybe they’re just at the wrong place 
+at the wrong time. Security in these offices is usually 
+pretty light, with just the basics: maglocks, cameras, 
+alarms. Sometimes there’s a metahuman on site, but 
+most of the security will be contracted. Matrix and 
+technology is often pretty basic, unless the corp is run 
+by some genius working on cutting-edge stuff.
+NO-TELL MOTEL
+You haven’t lived a life in the shadows unless you’ve 
+spent a night at a no-tell motel. Being the cheapest 
+possible place to stay for a night, they appeal to those 
+looking for a quick place to crash. They’re not much to 
+look at but at least they’re functional. No-tell Motels 
+have often crossed paths with runners, not because the 
+motel itself is the target, but something—or more of-
+ten someone—there is of value to the runners. Security 
+at a no-tell motel is passive and fairly basic: maglocks 
+on the rooms, some cameras, and sometimes one live 
+staff member. In an effort to cut costs, many motels are 
+becoming entirely automated. If there is Matrix access 
+in the area, a motel usually has it, so runners need to be 
+wary of jumpy residents hitting a PanicButton.
+LARGE CORP OFFICE
+Money is the blood of power in the Sixth World, and no 
+one controls more of it than the big corporations. Cor-
+porate money feeds the shadows more than any other, 
+so it is no surprise that offices and sites of the large 
+corporations are the most common battlegrounds of 
+the corporate shadow wars. Runners may be hired to 
+break into an office to steal information or extract key 
+personnel, gather intelligence, destroy something, or 
+maybe even provide additional protection. Security 
+forces in these offices are most often crisp, profession-
+al, and well equipped. High Threat Response and magi-
+cal security forces will respond promptly to any alarms. 
+Technical security will be sophisticated, with multiple 
+redundant systems including maglocks (with any num-
+ber of verification methods—keys, cards, biometrics), 
+cameras, sensors, traps, and drones. Matrix security 
+will also be solid, with all devices tied into a host that 
+is loaded with IC and monitored by a spider. While not 
+necessarily top-of-the-line, security is solid all around 
+with no obvious weak point.
+HOSPITAL OR CLINIC
+The need for medical services in the Sixth World is 
+higher than it has ever been. That might have some-
+thing to do with the corporations running it and con-
+MOM & POP SHOP
+NO-TELL MOTEL
+LARGE CORP OFFICE
+>> GAMEMASTER ADVICE <<
+370    Drop-In Locations >>
+

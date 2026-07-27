@@ -1,0 +1,201 @@
+﻿blocks 98
+--- HORSEMAN
+  E: Enviroseal
+  N: Pods decrease Handling to 2/1, Speed to 2, Accel to 1; Passenger increase Seats to 2 (6,000Ñ), Cargo
+--- TERRIER
+  E: Gyro Stabilization
+--- REVOLUTION
+  E: Gyro Stabilization, Smart Tire
+--- FALCON-EX
+  E: Tracked Vehicle
+--- CYCLOPS
+  E: Assembly Time Improvement, Gyro Stabilization
+--- ZIP
+  E: Metahuman adjustment
+--- KABURAYA
+  E: -
+--- SPARTAN
+  E: Off-road suspension
+--- NIGHTMARE
+  E: -
+--- NODACHI
+  E: -
+--- MUSTANG
+  E: Smart Tires, Amphibious Operation CARS
+--- FUNONE
+  E: Metahuman adjustment
+--- XENON
+  E: -
+--- METAWAY
+  E: Metahuman adjustment
+--- CHAMELEON
+  E: -
+--- COMET
+  E: -
+--- GLADIUS
+  E: Rigger adaptation DYNAMIT (GROUNDCRAFT)
+--- DYNAMIT
+  E: -
+--- PHOENIX
+  E: -
+--- EQUUS
+  E: Amenities (low)
+--- LONGBOARD
+  E: -
+--- PHAETON
+  E: Amenities (luxury), anti-theft 2, concealed armor 3, rigger adaptation
+--- MORGAN
+  E: Off-Road Suspension, Weapon Mount (external, fixed, manual), Manual Operation
+--- HOTSPUR
+  E: Off-Road Suspension
+--- ARMADILLO
+  E: Armory, cargo pod, drone rack, food truck, rigger cocoon, off-road transportation, sleeper command cabin, transport, workshop
+--- PERCHERON
+  E: -
+--- TRAILBLAZER
+  E: Multifuel engine, off-road suspension
+--- TALON
+  E: -
+--- HAULER
+  E: -
+--- NORTHSTAR
+  E: Amenities (middle)
+--- ESCALADE
+  E: Amenities (high), anti-theft 2, rigger adaptation
+--- ECONOVAN
+  E: Amenities (low)
+--- CARAVANER
+  E: -
+--- UNIVERSE
+  E: -
+--- CHUCK WAGON
+  E: -
+--- CHINOOK
+  E: Amenities (squatter), extreme environment modification (cold), satellite uplink, suncell PRESERVE (GROUNDCRAFT)
+--- PRESERVE
+  E: Amenities (squatter), gridlink, satellite uplink, suncell OUTBACK (GROUNDCRAFT)
+--- OUTBACK
+  E: Amenities (squatter), Extreme environment mod (hot), off-road suspension, satellite uplink, suncell
+--- HELLHOUND
+  E: Amenities (low), landing drone rack (medium), landing drone rack (micro), landing drone rack (medium), landing drone rack (small), 2 x rigge
+--- OMNIBUS
+  E: Gridlink, gridlink override
+--- COMMERCIAL G-SERIES
+  E: Gridlink, gridlink override, maneuver autosoft (2), special equipment
+--- COMMERCIAL D-COMPACT
+  E: Special equipment COMMERCIAL D-SERIES (GROUNDCRAFT)
+--- COMMERCIAL D-SERIES
+  E: Special equipment COMMERCIAL DD (GROUNDCRAFT)
+--- COMMERCIAL DD
+  E: Special equipment
+--- KONSTRUCTORS
+  E: Off-road equipment, special equipment
+--- KVP-28
+  E: Secondary propulsion (hovercraft)
+--- MINSK
+  E: -
+--- MINNESOTA
+  E: -
+--- VODYANOY
+  E: Amenities (Squatter), Hovercraft (built), Weapon Mount (external, turret, manual)
+--- BLITZKRIEG
+  E: Two heavy weapon mounts (external, fixed, remote; weapons not included with the vehicle)
+--- CHARGER
+  E: Two standard weapon mounts (external, fixed, remote) front; two standard weapon mounts (External, fixed, remote) rear
+--- I8 INTERCEPTOR
+  E: Heavy weapon mount (external, flexible, remote) front, two standard weapon mounts (external, fixed, remote) rear, oil slick sprayer, smoke p
+--- GOLIATH
+  E: Special equipment (extended roof), six gun ports, extra entry/exit point (assault ramp to the rear), ram plate
+--- TEUFELKATZE
+  E: FlashTech, signature dampening, TeufelKatze flamer
+--- STALLION
+  E: Heavy weapon mount (external, turret, manual) top, two standard weapon mounts (external, fixed, remote) rear MINOTAUR (GROUNDCRAFT)
+--- MINOTAUR
+  E: Heavy weapon mount (external, turret, manual) top, standard weapon mount (external, fixed, remote) rear
+--- LUXUS
+  E: Amenities (middle), anti-theft system 3, heavy weapon mount (concealed, turret, remote) rear, life support system 2, missile defense system,
+--- COMMAND
+  E: Additional entry/exit port (roof hatch), amenities (middle), special equipment (bathroom), special equipment (holding cell x 2), special equ
+--- TRAILER
+  E: Drone workshop (aircraft repair), 4 medium drone racks, rigger adaptation, rigger cocoon, specia equipment (generator)
+--- ST▄RMWAGON
+  E: Light system allows those subscribed to use the
+--- ?
+  E: on the Rhino includes a pair of forward-firing anti-material rifles intended to soften walls, twelve smoke dispensers evenly spread around t
+--- RHINO
+  E: Additional entry/exit point (assault ramp, rear), anti-theft system, standard weapon mount (external, flexible, remote) front, 2 standard we
+--- WOLF II
+  E: Enviroseal, life support (60 hours), Runflat tires Options Troop Transport: Seats 6/16 (0Ñ); Air Defense: add weapon mount w/ missile launch
+--- WATERKING
+  E: Amenities (middle), satellite link, secondary manual controls, smuggling compartment
+--- COTTONMOUTH
+  E: Amenities (squatter), rigger interface, speed enhancement 1, 2 x weapon mount (standard, internal, fixed, remote) front, 2 x weapon mount (s
+--- STINGRAY
+  E: - MANTA RAY (WATERCRAFT)
+--- MANTA RAY
+  E: -
+--- NIGHTRUNNER
+  E: Amenities (squatter), life support 1, rigger interface, satellite link, signature masking 4
+--- ZODIAC SCORPIO
+  E: 2 x weapon mount (standard, external, flexible, manual) front, weapon mount (heavy, external, flexible, manual) rear
+--- WATERBUG
+  E: - WAVESKIPPER (WATERCRAFT)
+--- WAVESKIPPER
+  E: -
+--- WATER STRIDER
+  E: Life support 1, signature masking 1 SAILCRAFT à SORT OF
+--- ELYSIUM
+  E: Amenities (middle), improved economy, satellite link
+--- PANTHER
+  E: Amenities (middle), improved economy, satellite link, secondary manual controls, signature masking 2, SunCell
+--- TRIDENT
+  E: Amenities (middle), improved economy, satellite link, SunCell TRITON (WATERCRAFT)
+--- TRITON
+  E: Amenities (middle), improved economy, satellite link BLOHM & VOSS CLASSIC 111
+--- CLASSIC 111
+  E: Amenities (high), internal cameras, rigger interface, satellite link
+--- MOBIUS
+  E: Amenities (luxury), internal cameras, manual control override, rigger cocoon, satellite link, searchlight, SunCell
+--- LAKE KING
+  E: -
+--- AQUAVIDA 1
+  E: Amenities (middle), winch (basic) AQUAVIDA 2 (WATERCRAFT)
+--- AQUAVIDA 2
+  E: Amenities (middle), winch (basic)
+--- KINGFISHER
+  E: Amenities (squatter), satellite link, smuggling compartment, winch (basic)
+--- AIRRANGER
+  E: - AIRRANGER HEAVY (WATERCRAFT)
+--- AIRRANGER HEAVY
+  E: -
+--- RIVERINE SECURITY
+  E: Amenities (squatter), commlink (DR 7), rigger cocoon, rigger interface, satellite link, searchlight, weapon mount (heavy, internal, flexible
+--- RIVERINE POLICE
+  E: Amenities (squatter), commlink (DR 7), rigger cocoon, rigger interface, satellite link, 4 x searchlight (2 front, 2 rear), weapon mount (hea
+--- RIVERINE MILITARY
+  E: Amenities (squatter), commlink (DR 8), rigger cocoon, rigger interface, satellite link, searchlight, signature masking 4, weapon mount (heav
+--- HUGHES STALLION WK-4
+  E: -
+--- AGULAR GX-2
+  E: Rigger interface AGULAR GX-3AT (ROTORCRAFT)
+--- AGULAR GX-3AT
+  E: Rigger interface
+--- S-K AEROSPACE SKA-008
+  E: Rigger interface
+  N: When modifying/customizing this aircraft, raise the threshold by 2 on all Extended Tests. Any critic
+--- DASSAULT SEA SPRITE
+  E: Rescue winches (x2)
+--- FED-BOEING PBY-70 CATALINA II
+  E: Heavy weapon mounts (nose, right/left waist) AIRBUS ôLIFT-TICKETö
+--- AIRBUS ôLIFT-TICKETö ALS-669
+  E: Retractable magnetic grapple lines (x4), standard grapple lines (x4)
+--- GMC GRYPHON (V/STOL)
+  E: Heavy Weapon Mount (nose, left wing, right wing) Rigger Interface
+--- EVO-KRIME ôKRIME WINGö (V/STOL)
+  E: Metahuman customization (troll)
+  N: Smaller figure is for trolls, larger figure is for human- sized occupants. For mixed groups, trolls 
+--- LUFTSHIFFBAU LZP-2070 (LTA VEHICLE)
+  E: -
+--- ôMOTHERSHIPö LAVH
+  E: Metahuman customization (troll)
+  N: When two aircraft are connected, default to Mothership stats. Can only control Mothership directly f

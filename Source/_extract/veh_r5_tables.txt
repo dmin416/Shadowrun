@@ -1,0 +1,2969 @@
+﻿==== R5 PDF 181 ====
+DRIVING WITH STYLE
+Stunts are what separate the riggers from the Sunday 
+drivers. With advanced driving rules, stunts have add-
+ed benefits that a pilot can choose from. They can be 
+performed alone or added to other vehicle actions. The 
+rating of the stunt is chosen by the pilot. While there is 
+no upper limit, the gamemaster may dictate the rating 
+of a specific stunt. If done alone, itÆs a Complex Action 
+using Vehicle Skill + Reaction [Handling] (stunt rating + 
+terrain). If done as part of another action, the stunt rat-
+ing is added to the threshold. Any action that includes 
+a stunt (or a stunt alone) that fails must make an imme-
+diate vehicle test with a dice penalty equal to the stunt 
+rating or crash. 
+Note only riggers and drivers of vehicles may per-
+form stunts. Pilot programs are just too logical to try ac-
+tions this crazy.
+PEDAL TO THE METAL
+Terrain and Speed modifiers work when the vehicles 
+are of the same size and type. When the vehicles are 
+not equivalent in size or type, then the modifiers can 
+increase or decrease. With regard to speed, aircraft are 
+the fastest, otherwise they fall out of the sky. Consider 
+their speed at three times the value when calculating 
+speed modifiers for vehicle actions.
+>> RIGGER 5.0 <<
+STUNT BENEFITS*
+ò	 Add stunt rating as hits to determine range change (this 
+can go beyond the Acceleration limit of the vehicle).
+ò	 Add rating as dice to soak vehicle damage from an attack 
+or crash.
+ò	 Add rating to reduce another vehicleÆs Speed or Handling 
+for this Combat Turn.
+ò	 Add rating as hits to avoid being struck by an attack.
+ò	 Add rating to handling for any action in this Combat Turn.
+ò	 Add rating as dice to one Social skill test. Target audience 
+must be able to have seen the stunt or as far as they are 
+concerned, it didnÆt happen.
+ò	 Some crazy stunt for some other benefit.** (For example: 
+Drive a vehicle through the air, rolling it just enough to have 
+a hook from an overhanging crane knock a bomb off the 
+bottom of the vehicle before it explodes.
+*These stunts can be done multiple times, but cannot 
+add more than +4 dice to a test or increase a limit (Handling, 
+Acceleration, etc.) to more than twice its value in any given 
+Combat Turn.
+** The player must also spend a point of Edge to attempt 
+this stunt, receiving the customary bonus dice for using Edge. 
+Gamemaster should determine difficulty.
+180    >> MAXIMUM PURSUIT <<
+EXAMPLE
+EXAMPLE VEHICLE COMBAT, SCENE 2
+The team meets at a pub near the ba
+
+==== R5 PDF 182 ====
+Terrain should also scale with the size of the vehicle. 
+While a car driving through heavy traffic is difficult (+3), 
+a drone pursuing the car would be less inhibited by the 
+terrain. The gamemaster should figure out the base ter-
+rain modifier value for the most common vehicle type, 
+then reduce or increase the terrain modifiers by the size 
+difference to the common vehicle. In this example, if the 
+Lockheed optidrone (small drone) is pursuing a Honda 
+Spirit through heavy traffic, the drone would only be at a 
++2 terrain modifier.
+Size modifiers also affect other skill tests, such as 
+perception and actions that target vehicles. Target size 
+modifiers in this case add or subtract dice when engag-
+ing with target. Shooting and hitting a jumbo jet is quite 
+easy (unless itÆs moving high in the air).
+Speed is relative to hitting a target. It is hard to hit a 
+small drone, itÆs even harder to hit a small drone thatÆs 
+moving fast. For people, walking and running modifiers 
+already exist. Vehicles can move much faster compared 
+to a person and so need special consideration. When 
+calculating modifiers of a stationary object (turret, etc.) 
+or pedestrian, if a target vehicle or drone is moving (that 
+is, has Speed greater than 0), add the vehicleÆs Speed as 
+a negative dice pool modifier to hitting said vehicle. For 
+other vehicle actions (Ram, Chase, etc.), adjust the speed 
+by the mode of movement using a multiplier, as follows: 
+0.8 for Water, 1 for Ground, 3 for Rotor, and 4 for Jet.
+>> RIGGER 5.0 <<
+TARGET SIZE MODIFIERS
+SIZE
+MODIFIER EXAMPLE
+Minuscule
+û3
+Micro drones
+Tiny
+û2
+Mini drones
+Small
+û1
+Small drones
+Average
+ù
+Vehicles and drones (Body 8 or less)
+Bulky
++1
+Vehicles and drones (Body 9 to 14) 
+Large
++2
+Vehicles and drones (Body 15 to 20)*
+Huge
++3
+Vehicles and drones (Body greater 
+than 20)*
+*If the vehicle has 10 or more seats, add +2 to Body when 
+calculating size for every 10 seats. 
+>> MAXIMUM PURSUIT <<    181
+
+
+==== R5 PDF 183 ====
+>> RIGGER 5.0 <<
+182    >> MAXIMUM PURSUIT <<
+EXAMPLE
+EXAMPLE VEHICLE COMBAT SCENE 3
+ItÆs combat biker season. Unfortunately for the team, this means a little amateur hour in the arena. Rigger Daft takes 
+a bike out with the Crimson Crush, a minor-league team. While combat biking is dangerous, someone out there is getting 
+serious in taking out players for higher bets. The odds are 10 to 1 against the Redmond Tiger, so guess whoÆs getting tar-
+geted? Daft drove around the bumps and cinderblock walls. The Redmond Tigers are on the offensive. Daft is spotted by 
+two Tigers and chase begins.
+Tiger 1 gets up in his face and gets into an ugly punching match. Tiger 2 pulls into the lead. As Tiger 1 pulls away, Tiger 
+2 tries to cut off Daft. Daft is very skilled and avoids Tiger 2Æs antics. 
+Daft takes the lead to a small jump, where he flips into a handstand and swings a leg out, kicking Tiger 1. He uses this 
+stunt to intimidate Tiger 2. As Daft comes up aggressively on Tiger 2, the latter bugs out.
+Daft doesnÆt pursue and continues to drive around the zone, looking for someone out of the ordinary. Daft sees a small 
+structure where a man is perched on a wooden structure with what appears to be a sniper rifle. Daft makes a beeline 
+toward it. He then jumps off, letting his vehicle roll into the structure. The sniper has no chance to react as the motorcycle 
+rams into the structure, collapsing it.
+BEHIND VEHICLE SCENE 3 
+Terrain modifier for this situation is 2. DaftÆs Speed is currently 2. Daft has a control rig with Rating 2, Tiger 1 and Tiger 
+2 have no control rigùtheyÆre just really good.
+Tiger 1 and Tiger 2 dive past Daft and perform a Bootleg Turn to pursue. Each makes a vehicle test with a threshold of 
+4. Tiger 1 gets 6 hits, Tiger 2 gets 7 hits. This means 2 and 3 net hits. This puts Tiger 1 at Medium and Tiger 2 at Short range. 
+Daft tries to lose them through a Break Away action, increasing his Speed to 3.  Daft isnÆt jumped in, but he has the 
+highest Speed of the vehicles involved in the chase, so he has a threshold of 2. He gets 2 net hits; if nothing else changes 
+in this initiative pass, Tiger 1 will fall back to Extreme range, while Tiger 2 will drop to Long.
+They donÆt want to lose ground, though, so Tiger 1 and Tiger 2 attempt to Catch Up. They increase their Speed to 3, 
+making the threshold for the test the terrain modifier only, which is 2. They both get 4 net hits. Tiger 1 will finish the pass 
+at Close range, while Tiger 2 will move in 
+
+==== R5 PDF 184 ====
+>> RIGGER 5.0 <<
+>> MAXIMUM PURSUIT <<    183
+
+
+==== R5 PDF 185 ====
+>> RIGGER 5.0 <<
+MOTORCYCLES
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Cocotaxi HT
+4/2
+3
+2
+5
+4
+1
+1
+3
+ù
+4,000Ñ
+p. 139, Hard Targets
+Cyclops
+4/4
+4
+2
+4
+4
+1
+1
+1
+ù
+6,500Ñ 
+p. 43
+Falcon-EX
+3/5
+2/3
+1/2
+7
+9
+1
+1
+2
+ù
+10,000Ñ 
+p. 43
+Growler
+4/5
+3/4
+1
+5
+5
+1
+1
+1
+ù
+5,000Ñ 
+p. 462, SR5
+Horseman
+3/1
+3
+2
+4
+3
+2
+2
+1
+ù
+12,000Ñ 
+p. 41
+Kaburaya
+5/3
+6
+3
+5
+4
+1
+2
+1
+ù
+17,000Ñ 
+p. 44
+Mirage
+5/3
+6
+3
+5
+6
+1
+2
+1
+ù
+8,500Ñ 
+p. 462, SR5
+Mustang
+4/4
+3
+2
+8
+6
+1
+1
+2
+3
+11,000Ñ 
+p. 46
+Nightmare
+4/3
+5
+2
+8
+8
+2
+3
+2
+ù
+22,000Ñ 
+p. 45
+Nodachi
+4/3
+5
+2
+8
+9
+2
+2
+2
+12R
+28,000Ñ 
+p. 45
+Revolution
+5/3
+4
+3
+6
+9
+2
+2
+1
+4
+8,000Ñ 
+p. 42
+Scoot
+4/3
+3
+1
+4
+4
+1
+1
+1
+ù
+3,000Ñ 
+p. 462, SR5
+Scorpion
+4/3
+4
+2
+8
+9
+1
+2
+1
+ù
+12,000Ñ 
+p. 462, SR5
+Spartan
+3/4
+4
+2
+7
+6
+2
+2
+1
+ù
+11,500Ñ 
+p. 44
+Terrier
+5/2
+2
+1
+2
+2
+2
+2
+1
+ù
+4,500Ñ 
+p. 42
+Zip
+3/2
+3
+1
+6
+4
+1
+2
+1
+ù
+3,500Ñ 
+p. 44
+CARS
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS AVAIL
+COST
+REF
+Americar
+4/3
+3
+2
+11
+6
+1
+2
+4
+ù
+16,000Ñ 
+p. 463, SR5
+Comet
+4/4
+3
+2
+11
+6
+2
+2
+4
+ù
+20,000Ñ 
+p. 49
+Artemis
+4/2
+3
+3
+9
+6
+1
+1
+4
+ù
+17,000Ñ 
+p. 187, Stolen Souls
+Chameleon
+4/2
+4
+1
+10
+4
+1
+1
+4
+ù
+14,000Ñ 
+p. 47
+Concordat
+5/4
+5
+2
+12
+12
+2
+4
+4
+10
+65,000Ñ 
+p. 463, SR5
+Dynamit
+5/1
+9
+3
+10
+3
+2
+3
+2
+8
+98,000Ñ 
+p. 50
+Equus
+3/3
+4/3
+2
+12
+10
+2
+3
+4
+ù
+40,000Ñ 
+p. 51
+FunOne
+3/1
+3
+1
+6
+4
+2
+1
+2/1
+ù
+8,500Ñ 
+p. 47
+Gladius
+7/3
+9
+4
+10
+5
+3
+5
+2
+14
+154,000Ñ 
+p. 49
+Jackrabbit
+4/3
+3
+2
+8
+4
+1
+2
+2
+ù
+10,000Ñ
+p. 462, SR5
+Journey
+4/3
+3
+3
+9
+5
+1
+1
+4
+ù
+17,000Ñ 
+p. 187, Stolen Souls
+Longboard
+4/3
+3
+2
+12
+6
+1
+2
+6
+ù
+31,000Ñ 
+p. 52
+MetaWay
+4/2
+4
+1
+10
+4
+1
+2
+1
+ù
+24,000Ñ 
+p. 47
+Phoenix
+4/2
+6
+3
+10
+6
+2
+3
+4
+ù
+32,000Ñ 
+p. 50
+Shin-Hyung
+5/4
+6
+3
+10
+6
+1
+2
+4
+ù
+28,500 
+p. 463, SR5
+Spirit
+3/2
+4
+2
+8
+6
+1
+2
+2
+ù
+12,000Ñ 
+p. 463, SR5
+Westwind 3000
+6/4
+7
+3
+10
+8
+3
+5
+2
+13
+110,000Ñ 
+p. 463, SR5
+Xenon
+3/2
+4/3
+2
+8
+6
+2
+2
+4
+ù
+18,000Ñ 
+p. 47
+184    >> COMPILED TABLES <<
+
+
+==== R5 PDF 186 ====
+>> RIGGER 5.0 <<
+>> COMPILED TABLES <<    185
+TRUCKS
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Armadillo
+3/4
+4
+2
+13
+10
+1
+2
+2/4
+ù
+22,000Ñ 
+p. 54
+Escalade
+3/3
+4
+2
+16
+10
+3
+4
+6
+10
+125,000Ñ 
+p. 57
+Gopher
+5/5
+4
+2
+14
+10
+1
+2
+3
+ù
+25,000Ñ 
+p. 463, SR5
+Hauler
+3/3
+4/3
+1
+16
+8
+2
+2
+4/4
+ù
+30,000Ñ 
+p. 56
+Hotspur
+4/5
+6
+3
+16
+12
+2
+2
+2
+8
+60,000Ñ 
+p. 53
+Minotaur
+4/5
+5
+2
+14
+8
+4
+4
+4
+ù
+45,000Ñ 
+p. 53
+Morgan
+3/5
+4
+3
+14
+6
+ù
+ù
+2
+8
+7,500Ñ 
+p. 52
+Northstar
+5/3
+6
+2
+12
+8
+3
+5
+4
+12
+115,000Ñ 
+p. 56
+Percheron
+3/3
+3
+2
+15
+6
+4
+3
+6
+ù
+39,000Ñ 
+p. 54
+Sidewinder
+4/3
+3
+2
+10
+6
+2
+2
+6
+ù
+33,000Ñ 
+p. 187, Stolen Souls
+Talon
+4/3
+4
+2
+12
+6
+2
+2
+5
+ù
+30,000Ñ 
+p. 55
+Trailblazer
+3/4
+3
+2
+12
+6
+1
+2
+4
+ù
+32,000Ñ 
+p. 54
+Watcher
+3/3
+3
+3
+9
+8
+1
+3
+5
+4
+40,000 
+p. 187, Stolen Souls
+VANS
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Bulldog
+3/3
+3
+1
+16
+12
+1
+2
+6
+ù
+35,000Ñ 
+p. 463, SR5
+Caravaner
+3/2
+4
+1
+12
+8
+2
+2
+7
+ù
+28,000Ñ 
+p. 58
+Chuck Wagon
+2/2
+3
+1
+16
+5
+2
+2
+2
+ù
+40,000Ñ 
+p. 59
+Econovan
+3/2
+4
+1
+14
+8
+2
+2
+10
+ù
+30,000Ñ 
+p. 58
+Endurance
+3/3
+4
+3
+14
+6
+1
+2
+8
+ù
+35,000Ñ 
+p. 187, Stolen Souls
+Roadmaster
+3/3
+3
+1
+18
+18
+3
+3
+8
+8
+52,000Ñ 
+p. 464, SR5
+Rover Model 2072
+5/5
+4
+2
+15
+12
+2
+4
+6
+10
+68,000Ñ 
+p. 464, SR5
+S-K LT-21
+2/1
+2
+1
+15
+7
+2
+2
+2
+ù
+31,000Ñ 
+p. 187, Stolen Souls
+Universe
+3/3
+4/3
+1
+14
+8
+3
+2
+2/14
+ù
+30,000Ñ 
+p. 59
+RVS
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Chinook
+3/2
+4/3
+1
+14
+12
+2
+2
+10
+ù
+145,000Ñ 
+p. 59
+Outback
+3/4
+3/4
+1
+14
+12
+2
+4
+8
+ù
+158,000Ñ 
+p. 59
+Preserve
+3/3
+4/4
+1
+16
+12
+2
+3
+10
+ù
+134,000Ñ 
+p. 59
+LIMOS
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Nightsky
+4/3
+4
+2
+15
+15
+3
+5
+8
+16
+320,000 
+p. 463, SR5
+Phaeton
+5/3
+5/3
+2
+16
+12
+3
+4
+2/8
+18
+350,000Ñ 
+p. 52
+
+
+==== R5 PDF 187 ====
+>> RIGGER 5.0 <<
+186    >> COMPILED TABLES <<
+TRACTOR/TRAILERS
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Conestoga Trailblazer
+2/1
+2
+1
+14
+6
+2
+1
+2
+4
+75,000Ñ 
+p. 187, Stolen Souls
+Hellhound
+3/2
+4/3
+1
+20
+15
+3
+3
+2
+16R
+150,000Ñ 
+p. 60
+Trailer (Trailblazer)
+1/1
+1
+1
+20
+6
+2
+1
+ù
+ù
+20,000Ñ 
+p. 187, Stolen Souls
+COMMERCIAL
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Commercial D-Compact 
+2/2
+3
+1
+12
+8
+2
+2
+2
+12
+196,000Ñ 
+p. 63
+Commercial D-series
+2/2
+3
+1
+16
+10
+2
+2
+2
+12
+248,000Ñ 
+p. 63
+Commercial DD
+2/2
+3
+1
+20
+12
+2
+2
+2
+12
+312,000Ñ 
+p. 63
+Commercial Gùseries
+2/2
+3
+1
+18
+12
+2
+3
+2
+14
+287,000Ñ 
+p. 62
+Konstructors
+2/2
+3
+1
+24
+18
+4
+3
+2
+16
+365,000Ñ 
+p. 64
+Ram Industrail Narrow
+3/1
+1
+1
+16
+8
+2
+4
+2
+4
+49,000Ñ 
+p. 187, Stolen Souls
+Ram Industrial Large
+2/1
+1
+1
+16
+8
+2
+4
+2
+4
+51,000Ñ 
+p. 187, Stolen Souls
+HOVERCRAFT
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+KVPù28
+2/2
+3
+1
+18
+12
+4
+3
+2
+16
+87,000Ñ 
+p. 64
+Minnesota
+4/4
+4
+2
+14
+9
+3
+3
+2/12
+12R
+130,000Ñ 
+p. 65
+Minsk
+2/2
+3
+1
+16
+10
+4
+3
+2
+16
+77,000Ñ 
+p. 65
+Vodyanoy
+3/3
+4
+3
+16
+16
+1
+2
+3(10)
+12F
+84,000Ñ 
+p. 65
+BUSES
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Camellos HT
+3/2
+3
+1
+16
+5
+1
+2
+200
+ù
+150,000Ñ 
+p. 139, Hard Targets
+Omnibus
+2/2
+3
+1
+18
+10
+2
+2
+53
+12
+296,000Ñ 
+p. 62
+
+
+==== R5 PDF 188 ====
+>> RIGGER 5.0 <<
+>> COMPILED TABLES <<    187
+WATERCRAFT
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+AirRanger
+4
+4
+3
+10
+6
+1
+1
+6
+6
+25,500Ñ 
+p. 92
+AirRanger Heavy
+4
+4
+3
+12
+6
+1
+1
+5
+8
+35,500Ñ 
+p. 92
+Aquavida 1
+2
+1
+2
+20
+16
+1
+3
+2/8
+10
+115,000Ñ 
+p. 90
+Aquavida 2
+2
+1
+2
+20
+16
+1
+3
+4/8
+12
+135,000Ñ 
+p. 90
+Classic 111
+3
+4
+2
+24
+14
+4
+4
+14
+16
+14,870,000Ñ 
+p. 88
+Cottonmouth
+5
+7
+4
+8
+4
+3
+3
+4
+12
+120,000Ñ 
+p. 80
+Cutlass
+5
+4
+2
+16
+10
+3
+5
+6
+14R
+96,000Ñ 
+p. 464, SR5
+Electronaut
+3
+3
+1
+12
+10
+4
+4
+2
+10
+108,000Ñ 
+p. 464, SR5
+Elysium
+1/3
+1/4
+1/2
+14
+10
+2
+3
+6
+12
+78,000Ñ 
+p. 85
+Kingfisher
+3
+3
+2
+16
+12
+3
+4
+6
+12
+61,000Ñ 
+p. 92
+Lake King
+2
+3
+2
+14
+8
+1
+1
+8
+ù
+35,000Ñ 
+p. 90
+Lamprey
+3
+2
+1
+6
+6
+1
+3
+4
+ù
+14,000Ñ 
+p. 464, SR5
+Manta Ray
+4
+5
+3
+9
+6
+1
+1
+3
+ù
+16,000Ñ 
+p. 81
+Mobius
+3
+3
+2
+36
+14
+6
+5
+22
+36
+84,985,000Ñ 
+p. 89
+Nightrunner
+5
+6
+3
+12
+6
+3
+4
+6
+10
+56,000Ñ 
+p. 81
+Otter
+4
+3
+2
+12
+6
+2
+2
+8
+ù
+21,000Ñ 
+p. 464, SR5
+Panther
+1/3
+2/5
+1/3
+18
+10
+2
+3
+8
+12
+135,000Ñ 
+p. 85
+Riverine Military
+5
+5
+2
+20
+20
+6
+6
+8
+20F
+225,000Ñ 
+p. 92
+Riverine Police
+4
+5
+3
+16
+14
+4
+5
+8
+15R
+154,000Ñ 
+p. 92
+Riverine Security
+4
+5
+3
+16
+12
+4
+4
+8
+15R
+100,000Ñ 
+p. 92
+Stingray
+5
+5
+3
+8
+6
+1
+1
+2
+ù
+13,000Ñ 
+p. 81
+Trident
+1/3
+4/5
+2/3
+16
+10
+2
+3
+6
+12
+125,000Ñ 
+p. 87
+Trinity
+5
+6
+3
+10
+6
+1
+1
+3
+8
+37,000Ñ 
+p. 464, SR5
+Triton
+1
+6
+2
+16
+10
+2
+3
+6
+ù
+104,000Ñ 
+p. 88
+Water Strider
+3
+2
+1
+8
+5
+2
+2
+1
+16
+11,000Ñ 
+p. 84
+Waterbug
+6
+3
+2
+8
+4
+1
+ù
+2
+ù
+8,000Ñ 
+p. 83
+Waterking
+3
+3
+2
+14
+8
+3
+2
+12
+12
+74,000Ñ
+p. 79
+Waveskipper
+5
+3
+2
+10
+4
+1
+ù
+1
+ù
+10,000Ñ 
+p. 84
+Zodiac Scorpio
+4
+4
+2
+10
+6
+1
+1
+2/6
+8
+26,000Ñ 
+p. 82
+SECURITY/POLICE/MILITARY
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Blitzkrieg
+4/3
+4
+2
+10
+8
+3
+4
+2
+14R
+46,000Ñ 
+p. 66
+Charger
+4/3
+5
+2
+12
+12
+4
+4
+5
+16R
+65,000Ñ 
+p. 67
+Command (General)
+3/3
+4
+1
+20
+16
+5
+7
+10
+18R
+344,000Ñ 
+p. 74
+Goliath
+3/2
+4
+2
+16
+16
+3
+3
+8
+20R
+120,000Ñ 
+p. 70
+i8 Interceptor
+5/3
+8
+4
+12
+8
+4
+4
+3
+16R
+114,000Ñ 
+p. 68
+Luxus
+5/5
+5
+3
+18
+16
+5
+6
+8
+14R
+398,000Ñ 
+p. 73
+Rhino
+4/4
+4
+2
+17
+18
+4
+4
+9
+18R
+225,000Ñ 
+p. 77
+Stallion
+3/4
+5
+3
+16
+12
+3
+3
+4
+16R
+78,000Ñ 
+p. 71
+Stⁿrmwagon
+5/4
+4
+2
+17
+18
+4
+5
+10
+20R
+145,000Ñ 
+p. 75
+Teufelkatze
+5/4
+5
+3
+16
+16
+3
+3
+7
+16F
+76,000Ñ 
+p. 71
+Trailer (General)
+3/3
+3
+1
+20
+16
+3
+7
+1
+18R
+54,000Ñ 
+p. 74
+Wolf II
+3/3
+3
+2
+24
+12
+2
+2
+6
+20F
+330,000Ñ 
+p. 77
+
+
+==== R5 PDF 189 ====
+>> RIGGER 5.0 <<
+188    >> COMPILED TABLES <<
+AIRCRAFT
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Agular GX-2
+5
+7
+5
+20
+16
+4
+5
+2
+28F
+500,000Ñ 
+p. 97
+Agular GX-3AT
+4
+6
+4
+22
+20
+4
+4
+10
+28F
+550,000Ñ 
+p. 97
+Banshee
+6
+8
+4
+20
+18
+4
+6
+12
+24F
+2,500,000Ñ 
+p. 465, SR5
+Cessna C750
+3
+5
+3
+18
+4
+2
+2
+4
+8
+146,000Ñ 
+p. 464, SR5
+Commuter
+3
+3
+3
+16
+8
+3
+3
+30
+10
+350,000Ñ
+p. 465, SR5
+Dragon
+4
+4
+3
+22
+8
+3
+3
+18
+12
+355,000Ñ 
+p. 464, SR5
+Gryphon
+5
+8
+7
+24
+24
+4
+5
+2
+28F
+3,200,000Ñ 
+p. 103
+Hound
+5
+4
+3
+16
+16
+2
+4
+12
+13R
+425,000Ñ 
+p. 464, SR5
+ôKrime Wingö 
+4
+6
+5
+22
+18
+4
+5
+10 (20)
+24F
+2,275,000Ñ 
+p. 105
+ôLift-Ticketö ALS-669
+5
+3
+3
+16
+12
+3
+4
+5
+14
+325,000Ñ 
+p. 102
+LZP-2070
+4
+2
+3
+12
+6
+5
+4
+6
+12
+85,000Ñ 
+p. 106
+ôMothershipö LAVH
+3
+3
+3
+10
+5
+3
+4
+1
+24R
+50,000Ñ 
+p. 108
+Nightwing
+6
+3
+1
+4
+0
+1
+1
+1
+8
+20,000Ñ 
+p. 464, SR5
+PBY-70 Catalina II
+4
+3
+3
+22
+14
+3
+4
+16
+12
+250,000Ñ 
+p. 100
+Sea Sprite
+5
+4
+3
+18
+12
+3
+5
+14
+18R
+400,000Ñ 
+p. 99
+SKA-008
+6
+5
+8
+16
+18
+4
+4
+12
+24R 
+525,000Ñ 
+p. 98
+Stallion
+5
+5
+4
+16
+16
+4
+4
+8
+12
+440,000Ñ 
+p. 95
+Tundra-9
+3
+4
+3
+20
+10
+3
+3
+24
+12
+300,000Ñ 
+p. 464, SR5
+Venture
+5
+7
+4
+16
+14
+4
+4
+6
+12F
+400,000Ñ 
+p. 465, SR5
+Wasp
+5
+5
+3
+10
+8
+3
+3
+1
+12R
+86,000Ñ 
+p. 465, SR5
+DRONES
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Ares KN-Y0
+Deimos
+3
+2G
+1
+6(0)
+18
+5
+3
+ù
+20F
+220,000Ñ 
+p. 143
+Eris
+3
+2G
+1
+6(0)
+18
+5
+3
+ù
+24F
+270,000Ñ 
+p. 143
+Phobos
+3
+2G
+1
+6(0)
+18
+5
+3
+ù
+16F
+250,000Ñ 
+p. 143
+Avenging Angel
+3
+6J
+2
+6(0)
+12
+6
+6
+ù
+40F
+1,000,000Ñ 
+p. 145
+Bloodhound
+3
+1G
+1
+2(0)
+0
+2
+4
+ù
+8
+10,000Ñ 
+p. 136
+Castle Guard
+4/2
+1G
+1
+2(0)
+6
+3
+2
+ù
+8R
+10,000Ñ 
+p. 133
+Cheetah
+4
+6G
+2
+2(0)
+6
+3
+2
+ù
+12R
+14,000Ñ 
+p. 138
+Condor
+2
+0R
+0
+1(1)
+0
+2
+4
+ù
+6R
+4,000Ñ 
+p. 129
+Crawler
+4
+3
+1
+3
+3
+4
+3
+ù
+4
+4,000Ñ 
+p. 466, SR5
+Criado Juan
+2
+2G
+1
+2
+0
+2
+2
+ù
+2
+8,000Ñ 
+p. 145
+Dalmatian
+5
+5
+3
+5
+5
+3
+3
+ù
+6R
+10,000Ñ 
+p. 466, SR5
+python : Traceback (most recent call last):
+At C:\Users\admin\AppData\Local\Temp\ps-script-8d77bdcb-4bd2-4f11-9584-e229f22657f1.ps1:86 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "<string>", line 8, in <module>
+    t=r5.load_page(i).get_text('text')
+      ~~~~~~~~~~~~^^^
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python313\Lib\site-packages\pymupdf\__init__.py", line 5798, in 
+load_page
+    raise ValueError("page not in document")
+ValueError: page not in document
+
+
+==== R5 PDF 190 ====
+>> RIGGER 5.0 <<
+>> COMPILED TABLES <<    189
+DRONES, CONT.
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Direktionssekretar
+4
+4G
+2
+4
+3
+4
+4
+ù
+12R
+40,000Ñ 
+p. 148
+Doberman
+5
+3
+1
+4
+4
+3
+3
+ù
+4R
+5,000Ñ 
+p. 466, SR5
+Dragonfly
+4
+2P
+1
+1(0)
+3
+3
+2
+ù
+12R
+4,000Ñ 
+p. 129
+Duelist
+3
+3
+1
+4
+4
+3
+3
+ù
+5R
+4,500Ñ 
+p. 466, SR5
+Evo Krokodil
+3
+2G/3W
+1
+3(1)
+6
+2
+2
+ù
+8R
+12,000Ñ 
+p. 139
+F-B Kull
+3
+4P
+2
+3(3)
+0
+3
+2
+ù
+4
+10,000Ñ 
+p. 140
+Ferret RPD-5X
+4/2
+1G
+1
+2(1)
+3
+3
+3
+ù
+8R
+4,000Ñ 
+p. 132
+Fly-Spy
+4
+3
+2
+1
+0
+3
+3
+ù
+8
+2,000Ñ 
+p. 466, SR5
+Flying Eye
+4
+3
+2
+1
+0
+3
+3
+ù
+8
+2,000Ñ 
+p. 466, SR5
+Garuda
+6
+3J/6J
+2/4
+2
+2
+4
+3
+ù
+20F
+8,500Ñ 
+p. 149
+Gerbil
+4/2
+2G
+1
+1(1)
+0
+2
+2
+ù
+4
+2,000Ñ 
+p. 130
+Goldfish
+2/4
+1W
+1
+0
+0
+2
+2
+ù
+6
+500Ñ 
+p. 128
+Gun Turret
+ù
+ù
+ù
+2(0)
+6
+3
+2
+ù
+4R
+4,000Ñ 
+p. 133
+Hedgehog
+3
+1G
+1
+1(0)
+0
+4
+3
+ù
+8F
+8,000Ñ 
+p. 129
+Horizon CU^3
+4
+1P
+1
+1(1)
+0
+2
+3
+ù
+4
+3,000Ñ 
+p. 130
+Jardinero
+2/4
+1G
+1
+2(1)
+0
+2
+2
+ù
+4
+2,000Ñ 
+p. 136
+Job-a-Mat
+ù
+ù
+ù
+2(2)
+0
+2
+2
+ù
+4
+3,000Ñ 
+p. 137
+Juggernaught
+3
+4G
+1
+6
+12
+3
+3
+ù
+14R
+100,000Ñ 
+p. 147
+Kanmushi
+4
+2
+1
+0
+0
+3
+3
+ù
+8
+1,000Ñ 
+p. 465, SR5
+Kenchiku-Kikai
+2
+2G
+1
+5
+3
+2
+2
+ù
+8R
+20,000Ñ 
+p. 146
+Knight Errant P5
+4/2
+6G
+2
+2(1)
+0
+3
+2
+ù
+10R
+8,000Ñ 
+p. 133
+Kodiak
+2/4
+2G
+1
+6(2)
+12
+2
+2
+ù
+12R
+40,000Ñ 
+p. 145
+Krake
+5
+3W
+4
+2(0)
+2
+4
+3
+ù
+18F
+10,000Ñ 
+p. 134
+LEBD-2
+4
+2P
+1
+3(0)
+9
+4
+4
+ù
+12R
+20,000Ñ 
+p. 140
+Little Buddy
+2
+1G
+1
+1
+0
+2
+2
+ù
+4
+2,000Ñ 
+p. 146
+Lynx
+5
+4
+2
+6
+12
+3
+3
+ù
+10R
+25,000Ñ 
+p. 466, SR5
+Malakim
+3
+6P
+2
+4(0)
+9
+4
+4
+ù
+20F
+40,000Ñ 
+p. 143
+Matilda
+1
+2G
+1
+8
+8
+2
+1
+ù
+12R
+18,000Ñ 
+p. 141
+MediCart
+5
+5G
+1
+6(2)
+5
+4
+4
+ù
+6
+10,000Ñ 
+p. 142
+Microskimmer
+3
+3
+1
+0
+0
+3
+3
+ù
+6
+1,000Ñ 
+p. 465, SR5
+
+
+==== R5 PDF 191 ====
+>> RIGGER 5.0 <<
+190    >> COMPILED TABLES <<
+DRONES, CONT.
+NAME
+HANDL
+SPEED
+ACCEL
+BODY
+ARMOR
+PILOT
+SENS
+SEATS
+AVAIL
+COST
+REF
+Mini-Zep
+2
+0P
+0
+2(4)
+0
+2
+2
+4
+4
+2,000Ñ 
+p. 132
+Mule
+4
+1G
+1
+4(3)
+6
+2
+2
+ù
+4
+8,000Ñ 
+p. 141
+Neptune
+2
+3W
+1
+5(0)
+3
+4
+3
+ù
+10R
+17,500Ñ 
+p. 143
+NoizQuito
+4
+3R
+2
+1
+0
+3
+3
+ù
+10R
+2,000Ñ
+p. 128
+Optic-X2
+4
+4
+3
+2
+2
+3
+3
+ù
+10
+21,000Ñ 
+p. 466, SR5
+Paladin
+5
+4G
+1
+5(0)
+18
+3
+2
+ù
+8R
+5,000Ñ 
+p. 142
+Pelican
+4
+2P
+1
+2(1)
+0
+2
+2
+ù
+2
+4,000Ñ 
+p. 137
+Pigeon 2.0
+4
+2P
+1
+1(1)
+0
+2
+2
+ù
+8
+3,000Ñ 
+p. 129
+Prairie Dog
+2/4
+2G
+1
+2(0)
+3
+3
+4
+ù
+12F
+8,000Ñ 
+p. 134
+Proletarian
+4/2
+2G
+1
+2(1)
+0
+2
+2
+ù
+6
+4,000Ñ 
+p. 131
+Remote Cyberhand
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+ù
+ù
+8
+8,000Ñ 
+p. 130
+Renraku Dove
+4
+2P
+1
+2(1)
+0
+2
+2
+ù
+4
+5,000Ñ 
+p. 136
+Roto-Drone
+4
+4
+2
+4
+4
+3
+3
+ù
+6
+5,000Ñ 
+p. 466, SR5
+Sentry V
+4/ù
+1G
+1
+2(0)
+6
+3
+2
+ù
+4R
+4,000Ñ 
+p. 130
+Seven
+4
+1P
+1
+1(1)
+0
+2
+3
+ù
+4
+3,000Ñ 
+p. 133
+     Wheelie
+4/2
+2G
+1
+1(3)
+0
+1
+1
+ù
+ù
+2,000Ñ 
+p. 133
+     Treads
+3
+2G
+1
+1(3)
+0
+1
+1
+ù
+2
+2,000Ñ 
+p. 133
+     Dirty
+2/4
+2G
+1
+1(3)
+0
+1
+1
+ù
+2
+2,000Ñ 
+p. 133
+     Quad
+4
+1G
+1
+1(3)
+0
+1
+1
+ù
+4
+2,000Ñ 
+p. 133
+     Swims
+3
+2W
+1
+1(3)
+0
+1
+1
+ù
+4
+1,000Ñ 
+p. 133
+     Hovers
+4
+1P
+1
+1(3)
+0
+1
+1
+ù
+6
+4,000Ñ 
+p. 133
+     Soars
+3
+2J
+1
+1(3)
+0
+1
+1
+ù
+8
+4,000Ñ 
+p. 133
+Sewer Snake
+3
+1G/1W
+1/1
+2(1)
+0
+2
+2
+ù
+10
+6,000Ñ 
+p. 132
+Shamus
+3
+3G
+1
+4(0)
+4
+3
+8
+ù
+10
+30,000Ñ 
+p. 137
+Shiawase i-Doll
+3
+3G
+1
+3
+0
+3
+3
+ù
+4
+20,000Ñ 
+p. 148
+Smoke Generator
+3
+1G
+1
+2(0)
+0
+2
+2
+ù
+8
+4,000Ñ 
+p. 130
+Steed
+4/2
+1G
+1
+3(1)
+0
+2
+2
+ù
+2
+4,000Ñ 
+p. 140
+Sundowner
+3
+4P
+1
+2(0)
+0
+2
+2
+ù
+8
+10,000Ñ 
+p. 134
+Tower
+2
+1P
+1
+4(0)
+6
+2
+2
+ù
+8
+10,000Ñ 
+p. 143
+Tunneler
+3
+0P
+0
+3(2)
+6
+2
+2
+ù
+8R
+10,000Ñ 
+p. 140
+Wolfhound
+3
+2J
+1
+2(1)
+0
+2
+4
+ù
+12
+30,000Ñ 
+p. 131
+
+
+==== R5 PDF 192 ====
+>> RIGGER 5.0 <<
+>> COMPILED TABLES <<    191
+WWW.SHADOWRUNTABLETOP.COM
+
+
+==== R5 PDF 193 ====
+
+
+==== R5 PDF 194 ====
+⌐ 2015 The Topps Company, Inc. All rights reserved. Shadowrun and Matrix are registered 
+trademarks and/or trademarks of The Topps Company, Inc., in the United States and/or 
+other countries. Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of 
+InMediaRes Productions, LLC. Printed in the USA.
+Under License From
+«
+www.catalystgamelabs.com
+Spin your wheels over slick sprawl 
+streets while drifting away from hot pursuit. 
+Fly through narrow canyons ahead of 
+missiles twisting their way after you. Shrink 
+down to insect size to get an eye on places 
+outsiders arenÆt supposed to see. These are 
+just some of the ways riggers jack up their 
+seemingly unending adrenaline rush, as 
+they show that the hardest shadowrunners 
+to hit are the ones that stay in motion.
+Rigger 5.0 is the ultimate hot-rod, jet 
+plane, speedboat, and more companion for 
+Shadowrun. With dozens of new vehicles 
+and drones, more detailed rules for vehicle 
+chase and combat, and customization 
+rules, this is a book that every rigger needs 
+to get ahead of the competition and stay 
+there. Get the feel of laying down hot 
+rubber in the cold shadows of the Sixth 
+World and a taste for speed, danger, and a 
+good, clean getaway.
+Rigger 5.0 is for use with Shadowrun, 
+Fifth Edition
+F I F T H E D I T I O N
+
+

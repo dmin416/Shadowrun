@@ -1,0 +1,590 @@
+[
+  {
+    "name_hint": "HORSEMAN",
+    "equip": "Enviroseal",
+    "notes": "Pods decrease Handling to 2/1, Speed to 2, Accel to 1; Passenger increase Seats to 2 (6,000¥), Cargo (3,000¥), Advanced Cargo (5,000¥), Drone (4,000¥); Security adds a standard weapon mount (5,500¥)",
+    "pre_tail": "2 | 4 | 3 | 2 | 2 | 1 | - | 12,000¥"
+  },
+  {
+    "name_hint": "TERRIER",
+    "equip": "Gyro Stabilization",
+    "notes": "",
+    "pre_tail": "1 | 2 | 2 | 2 | 2 | 1 | - | 4,500¥"
+  },
+  {
+    "name_hint": "REVOLUTION",
+    "equip": "Gyro Stabilization, Smart Tire",
+    "notes": "",
+    "pre_tail": "3 | 6 | 6 | 2 | 2 | 1 | 4 | 8,000¥"
+  },
+  {
+    "name_hint": "FALCON-EX",
+    "equip": "Tracked Vehicle",
+    "notes": "",
+    "pre_tail": "1/2 | 7 | 9 | 1 | 1 | 2 | - | 10,000¥"
+  },
+  {
+    "name_hint": "CYCLOPS",
+    "equip": "Assembly Time Improvement, Gyro Stabilization",
+    "notes": "",
+    "pre_tail": "2 | 4 | 4 | 1 | 1 | 1 | - | 6,500¥"
+  },
+  {
+    "name_hint": "ZIP",
+    "equip": "Metahuman adjustment",
+    "notes": "",
+    "pre_tail": "1 | 6 | 4 | 1 | 2 | 1 | - | 3,500¥"
+  },
+  {
+    "name_hint": "KABURAYA",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "3 | 5 | 4 | 1 | 2 | 1 | - | 17,000¥"
+  },
+  {
+    "name_hint": "SPARTAN",
+    "equip": "Off-road suspension",
+    "notes": "",
+    "pre_tail": "2 | 7 | 6 | 2 | 2 | 1 | - | 11,500¥"
+  },
+  {
+    "name_hint": "NIGHTMARE",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 8 | 8 | 2 | 3 | 2 | - | 22,000¥"
+  },
+  {
+    "name_hint": "NODACHI",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 8 | 9 | 2 | 2 | 2 | 12R | 28,000¥"
+  },
+  {
+    "name_hint": "MUSTANG",
+    "equip": "Smart Tires, Amphibious Operation CARS",
+    "notes": "",
+    "pre_tail": "2 | 8 | 6 | 1 | 1 | 2 | 3 | 11,000¥"
+  },
+  {
+    "name_hint": "FUNONE",
+    "equip": "Metahuman adjustment",
+    "notes": "",
+    "pre_tail": "1 | 6 | 4 | 2 | 1 | 2/1 | - | 8,500¥"
+  },
+  {
+    "name_hint": "XENON",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 8 | 6 | 2 | 2 | 4 | - | 18,000¥"
+  },
+  {
+    "name_hint": "METAWAY",
+    "equip": "Metahuman adjustment",
+    "notes": "",
+    "pre_tail": "1 | 10 | 4 | 1 | 2 | 1 | - | 24,000¥"
+  },
+  {
+    "name_hint": "CHAMELEON",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "1 | 10 | 4 | 1 | 1 | 4 | - | 14,000¥"
+  },
+  {
+    "name_hint": "COMET",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 11 | 6 | 2 | 2 | 4 | - | 20,000¥"
+  },
+  {
+    "name_hint": "GLADIUS",
+    "equip": "Rigger adaptation DYNAMIT (GROUNDCRAFT)",
+    "notes": "",
+    "pre_tail": "4 | 10 | 5 | 3 | 5 | 2 | 14 | 154,000¥"
+  },
+  {
+    "name_hint": "DYNAMIT",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "3 | 10 | 3 | 2 | 3 | 2 | 8 | 98,000¥"
+  },
+  {
+    "name_hint": "PHOENIX",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "3 | 10 | 6 | 2 | 3 | 4 | - | 32,000¥"
+  },
+  {
+    "name_hint": "EQUUS",
+    "equip": "Amenities (low)",
+    "notes": "",
+    "pre_tail": "2 | 12 | 10 | 2 | 3 | 4 | - | 40,000¥"
+  },
+  {
+    "name_hint": "LONGBOARD",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 12 | 6 | 1 | 2 | 6 | - | 31,000¥"
+  },
+  {
+    "name_hint": "PHAETON",
+    "equip": "Amenities (luxury), anti-theft 2, concealed armor 3, rigger adaptation",
+    "notes": "",
+    "pre_tail": "2 | 16 | 12 | 3 | 4 | 2/8 | 18 | 350,000¥"
+  },
+  {
+    "name_hint": "MORGAN",
+    "equip": "Off-Road Suspension, Weapon Mount (external, fixed, manual), Manual Operation",
+    "notes": "",
+    "pre_tail": "3 | 14 | 6 | - | - | 2 | 8 | 7,500¥"
+  },
+  {
+    "name_hint": "HOTSPUR",
+    "equip": "Off-Road Suspension",
+    "notes": "",
+    "pre_tail": "3 | 16 | 12 | 2 | 2 | 2 | 8 | 60,000¥"
+  },
+  {
+    "name_hint": "ARMADILLO",
+    "equip": "Armory, cargo pod, drone rack, food truck, rigger cocoon, off-road transportation, sleeper command cabin, transport, workshop",
+    "notes": "",
+    "pre_tail": "2 | 13 | 10 | 1 | 2 | 2/4 | - | 22,000¥"
+  },
+  {
+    "name_hint": "PERCHERON",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 15 | 6 | 4 | 3 | 6 | - | 39,000¥"
+  },
+  {
+    "name_hint": "TRAILBLAZER",
+    "equip": "Multifuel engine, off-road suspension",
+    "notes": "",
+    "pre_tail": "2 | 12 | 6 | 1 | 2 | 4 | - | 32,000¥"
+  },
+  {
+    "name_hint": "TALON",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 12 | 6 | 2 | 2 | 5 | - | 30,000¥"
+  },
+  {
+    "name_hint": "HAULER",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "1 | 16 | 8 | 2 | 2 | 4/4 | - | 30,000¥"
+  },
+  {
+    "name_hint": "NORTHSTAR",
+    "equip": "Amenities (middle)",
+    "notes": "",
+    "pre_tail": "2 | 12 | 8 | 3 | 5 | 4 | 12 | 115,000¥"
+  },
+  {
+    "name_hint": "ESCALADE",
+    "equip": "Amenities (high), anti-theft 2, rigger adaptation",
+    "notes": "",
+    "pre_tail": "2 | 16 | 10 | 3 | 4 | 6 | 10 | 125,000¥"
+  },
+  {
+    "name_hint": "ECONOVAN",
+    "equip": "Amenities (low)",
+    "notes": "",
+    "pre_tail": "1 | 14 | 8 | 2 | 2 | 10 | - | 30,000¥"
+  },
+  {
+    "name_hint": "CARAVANER",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "1 | 12 | 8 | 2 | 2 | 7 | - | 28,000¥"
+  },
+  {
+    "name_hint": "UNIVERSE",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "1 | 14 | 8 | 3 | 2 | 2/14 | - | 30,000¥"
+  },
+  {
+    "name_hint": "CHUCK WAGON",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "1 | 16 | 5 | 2 | 2 | 2 | - | 40,000¥"
+  },
+  {
+    "name_hint": "CHINOOK",
+    "equip": "Amenities (squatter), extreme environment modification (cold), satellite uplink, suncell PRESERVE (GROUNDCRAFT)",
+    "notes": "",
+    "pre_tail": "1 | 14 | 12 | 2 | 2 | 10 | - | 145,000¥"
+  },
+  {
+    "name_hint": "PRESERVE",
+    "equip": "Amenities (squatter), gridlink, satellite uplink, suncell OUTBACK (GROUNDCRAFT)",
+    "notes": "",
+    "pre_tail": "1 | 16 | 12 | 2 | 3 | 10 | - | 134,000¥"
+  },
+  {
+    "name_hint": "OUTBACK",
+    "equip": "Amenities (squatter), Extreme environment mod (hot), off-road suspension, satellite uplink, suncell",
+    "notes": "",
+    "pre_tail": "1 | 14 | 12 | 2 | 4 | 8 | - | 158,000¥"
+  },
+  {
+    "name_hint": "HELLHOUND",
+    "equip": "Amenities (low), landing drone rack (medium), landing drone rack (micro), landing drone rack (medium), landing drone rack (small), 2 x rigger cocoon, rigger modification, special equipment (drone rail), standard drone rack (small)",
+    "notes": "",
+    "pre_tail": "1 | 20 | 15 | 3 | 3 | 2 | 16R | 150,000¥"
+  },
+  {
+    "name_hint": "OMNIBUS",
+    "equip": "Gridlink, gridlink override",
+    "notes": "",
+    "pre_tail": "1 | 18 | 10 | 2 | 2 | 53 | 12 | 296,000¥"
+  },
+  {
+    "name_hint": "COMMERCIAL G-SERIES",
+    "equip": "Gridlink, gridlink override, maneuver autosoft (2), special equipment",
+    "notes": "",
+    "pre_tail": "1 | 18 | 12 | 2 | 3 | 2 | 14 | 287,000¥"
+  },
+  {
+    "name_hint": "COMMERCIAL D-COMPACT",
+    "equip": "Special equipment COMMERCIAL D-SERIES (GROUNDCRAFT)",
+    "notes": "",
+    "pre_tail": "1 | 12 | 8 | 2 | 2 | 2 | 12 | 196,000¥"
+  },
+  {
+    "name_hint": "COMMERCIAL D-SERIES",
+    "equip": "Special equipment COMMERCIAL DD (GROUNDCRAFT)",
+    "notes": "",
+    "pre_tail": "1 | 16 | 10 | 2 | 2 | 2 | 12 | 248,000¥"
+  },
+  {
+    "name_hint": "COMMERCIAL DD",
+    "equip": "Special equipment",
+    "notes": "",
+    "pre_tail": "1 | 20 | 12 | 2 | 2 | 2 | 12 | 312,000¥"
+  },
+  {
+    "name_hint": "KONSTRUCTORS",
+    "equip": "Off-road equipment, special equipment",
+    "notes": "",
+    "pre_tail": "1 | 24 | 18 | 4 | 3 | 2 | 16 | 365,000¥"
+  },
+  {
+    "name_hint": "KVP-28",
+    "equip": "Secondary propulsion (hovercraft)",
+    "notes": "",
+    "pre_tail": "1 | 18 | 12 | 4 | 3 | 2 | 16 | 87,000¥"
+  },
+  {
+    "name_hint": "MINSK",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "1 | 16 | 10 | 4 | 3 | 2 | 16 | 77,000¥"
+  },
+  {
+    "name_hint": "MINNESOTA",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 14 | 9 | 3 | 3 | 2/12 | 12R | 130,000¥"
+  },
+  {
+    "name_hint": "VODYANOY",
+    "equip": "Amenities (Squatter), Hovercraft (built), Weapon Mount (external, turret, manual)",
+    "notes": "",
+    "pre_tail": "3 | 16 | 16 | 1 | 2 | 3(10) | 12F | 84,000¥"
+  },
+  {
+    "name_hint": "BLITZKRIEG",
+    "equip": "Two heavy weapon mounts (external, fixed, remote; weapons not included with the vehicle)",
+    "notes": "",
+    "pre_tail": "2 | 10 | 8 | 3 | 4 | 2 | 14R | 46,000¥"
+  },
+  {
+    "name_hint": "CHARGER",
+    "equip": "Two standard weapon mounts (external, fixed, remote) front; two standard weapon mounts (External, fixed, remote) rear",
+    "notes": "",
+    "pre_tail": "2 | 12 | 12 | 4 | 4 | 5 | 16R | 65,000¥"
+  },
+  {
+    "name_hint": "I8 INTERCEPTOR",
+    "equip": "Heavy weapon mount (external, flexible, remote) front, two standard weapon mounts (external, fixed, remote) rear, oil slick sprayer, smoke projector, road strip ejector, rigger adaptation",
+    "notes": "",
+    "pre_tail": "4 | 12 | 8 | 4 | 4 | 3 | 20F | 114,000¥"
+  },
+  {
+    "name_hint": "GOLIATH",
+    "equip": "Special equipment (extended roof), six gun ports, extra entry/exit point (assault ramp to the rear), ram plate",
+    "notes": "",
+    "pre_tail": "2 | 16 | 16 | 3 | 3 | 8 | 20R | 120,000¥"
+  },
+  {
+    "name_hint": "TEUFELKATZE",
+    "equip": "FlashTech, signature dampening, TeufelKatze flamer",
+    "notes": "",
+    "pre_tail": "3 | 16 | 16 | 3 | 3 | 7 | 16F | 76,000¥"
+  },
+  {
+    "name_hint": "STALLION",
+    "equip": "Heavy weapon mount (external, turret, manual) top, two standard weapon mounts (external, fixed, remote) rear MINOTAUR (GROUNDCRAFT)",
+    "notes": "",
+    "pre_tail": "3 | 16 | 12 | 3 | 3 | 4 | 16R | 78,000¥"
+  },
+  {
+    "name_hint": "MINOTAUR",
+    "equip": "Heavy weapon mount (external, turret, manual) top, standard weapon mount (external, fixed, remote) rear",
+    "notes": "",
+    "pre_tail": "2 | 14 | 8 | 4 | 4 | 4 | - | 45,000¥"
+  },
+  {
+    "name_hint": "LUXUS",
+    "equip": "Amenities (middle), anti-theft system 3, heavy weapon mount (concealed, turret, remote) rear, life support system 2, missile defense system, passenger protection system, Vindicator Minigun w/ 250 standard ammo",
+    "notes": "",
+    "pre_tail": "5 | 3 | 18 | 16 | 5 | 6 | 8 | 398,000¥"
+  },
+  {
+    "name_hint": "COMMAND",
+    "equip": "Additional entry/exit port (roof hatch), amenities (middle), special equipment (bathroom), special equipment (holding cell x 2), special equipment (sleeping quarters) TRAILER (GROUNDCRAFT)",
+    "notes": "",
+    "pre_tail": "1 | 20 | 16 | 5 | 7 | 10 | 18R | 344,000¥"
+  },
+  {
+    "name_hint": "TRAILER",
+    "equip": "Drone workshop (aircraft repair), 4 medium drone racks, rigger adaptation, rigger cocoon, specia equipment (generator)",
+    "notes": "",
+    "pre_tail": "1 | 20 | 16 | 3 | 7 | 1 | 18R | 54,000¥"
+  },
+  {
+    "name_hint": "STÜRMWAGON",
+    "equip": "Light system allows those subscribed to use the",
+    "notes": "",
+    "pre_tail": "2 | 17 | 18 | 4 | 5 | 10 | 20R | 145,000¥"
+  },
+  {
+    "name_hint": "",
+    "equip": "on the Rhino includes a pair of forward-firing anti-material rifles intended to soften walls, twelve smoke dispensers evenly spread around the truck for visual obscurement, eight genuine Ares FlashPak systems, and the new Ares Shockwave elec- tro-defense system. RHINO (GROUNDCRAFT)",
+    "notes": "",
+    "pre_tail": "is designed for a fully outfitted seven-man squad, but | little else. The horrifying wedge shearing through the | wall is also not the end of the nightmare. The rear of the | Rhino opens up at a seam in the center, with both doors | shaped like a wedge. They swing outward with a jump | seat on each side, usually containing a well-armored ri- | fleman. The rear compartment also has two side doors | that drop open but act as seating while closed."
+  },
+  {
+    "name_hint": "RHINO",
+    "equip": "Additional entry/exit point (assault ramp, rear), anti-theft system, standard weapon mount (external, flexible, remote) front, 2 standard weapon mounts (external, fixed remote) rear",
+    "notes": "",
+    "pre_tail": "2 | 24 | 14 | 6 | 7 | 9 | 18R | 225,000¥"
+  },
+  {
+    "name_hint": "WOLF II",
+    "equip": "Enviroseal, life support (60 hours), Runflat tires Options Troop Transport: Seats 6/16 (0¥); Air Defense: add weapon mount w/ missile launcher (¥); Medical transport: add 2 stabilization beds, medkit (Rating 6), Seats 6/6 (¥); Mobile Staff Command Post: add tacnet, Seats 6/8 (¥); Light Tank: add weapon mount w/ cannon, weapon mount w/ machine gun, Seats 6/6 (¥)",
+    "notes": "",
+    "pre_tail": "2 | 24 | 12 | 2 | 2 | 6 | 20F | 330,000¥"
+  },
+  {
+    "name_hint": "WATERKING",
+    "equip": "Amenities (middle), satellite link, secondary manual controls, smuggling compartment",
+    "notes": "",
+    "pre_tail": "2 | 14 | 8 | 3 | 2 | 12 | 12 | 74,000¥"
+  },
+  {
+    "name_hint": "COTTONMOUTH",
+    "equip": "Amenities (squatter), rigger interface, speed enhancement 1, 2 x weapon mount (standard, internal, fixed, remote) front, 2 x weapon mount (standard, internal, flexible, remote) rear",
+    "notes": "",
+    "pre_tail": "4 | 8 | 4 | 3 | 3 | 4 | 12 | 120,000¥"
+  },
+  {
+    "name_hint": "STINGRAY",
+    "equip": "- MANTA RAY (WATERCRAFT)",
+    "notes": "",
+    "pre_tail": "3 | 8 | 6 | 1 | 1 | 2 | - | 13,000¥"
+  },
+  {
+    "name_hint": "MANTA RAY",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "3 | 9 | 6 | 1 | 1 | 3 | - | 16,000¥"
+  },
+  {
+    "name_hint": "NIGHTRUNNER",
+    "equip": "Amenities (squatter), life support 1, rigger interface, satellite link, signature masking 4",
+    "notes": "",
+    "pre_tail": "3 | 12 | 6 | 3 | 4 | 6 | 10 | 56,000¥"
+  },
+  {
+    "name_hint": "ZODIAC SCORPIO",
+    "equip": "2 x weapon mount (standard, external, flexible, manual) front, weapon mount (heavy, external, flexible, manual) rear",
+    "notes": "",
+    "pre_tail": "2 | 10 | 6 | 1 | 1 | 2/6 | 8 | 26,000¥"
+  },
+  {
+    "name_hint": "WATERBUG",
+    "equip": "- WAVESKIPPER (WATERCRAFT)",
+    "notes": "",
+    "pre_tail": "2 | 8 | 4 | 1 | - | 1 | - | 8,000¥"
+  },
+  {
+    "name_hint": "WAVESKIPPER",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 10 | 4 | 1 | - | 2 | - | 10,000¥"
+  },
+  {
+    "name_hint": "WATER STRIDER",
+    "equip": "Life support 1, signature masking 1 SAILCRAFT … SORT OF",
+    "notes": "",
+    "pre_tail": "1 | 8 | 5 | 2 | 2 | 1 | 16 | 11,000¥"
+  },
+  {
+    "name_hint": "ELYSIUM",
+    "equip": "Amenities (middle), improved economy, satellite link",
+    "notes": "",
+    "pre_tail": "1/2 | 14 | 10 | 2 | 3 | 6 | 12 | 78,000¥"
+  },
+  {
+    "name_hint": "PANTHER",
+    "equip": "Amenities (middle), improved economy, satellite link, secondary manual controls, signature masking 2, SunCell",
+    "notes": "",
+    "pre_tail": "1/3 | 18 | 10 | 2 | 3 | 8 | 12 | 135,000¥"
+  },
+  {
+    "name_hint": "TRIDENT",
+    "equip": "Amenities (middle), improved economy, satellite link, SunCell TRITON (WATERCRAFT)",
+    "notes": "",
+    "pre_tail": "2/3 | 16 | 10 | 2 | 3 | 6 | 12 | 125,000¥"
+  },
+  {
+    "name_hint": "TRITON",
+    "equip": "Amenities (middle), improved economy, satellite link BLOHM & VOSS CLASSIC 111",
+    "notes": "",
+    "pre_tail": "2 | 16 | 10 | 2 | 3 | 6 | - | 104,000¥"
+  },
+  {
+    "name_hint": "CLASSIC 111",
+    "equip": "Amenities (high), internal cameras, rigger interface, satellite link",
+    "notes": "",
+    "pre_tail": "2 | 24 | 14 | 4 | 4 | 14 | 16 | 14,870,000¥"
+  },
+  {
+    "name_hint": "MOBIUS",
+    "equip": "Amenities (luxury), internal cameras, manual control override, rigger cocoon, satellite link, searchlight, SunCell",
+    "notes": "",
+    "pre_tail": "2 | 36 | 14 | 6 | 5 | 22 | 36 | 84,985,000¥"
+  },
+  {
+    "name_hint": "LAKE KING",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "2 | 14 | 8 | 1 | 1 | 8 | - | 35,000¥"
+  },
+  {
+    "name_hint": "AQUAVIDA 1",
+    "equip": "Amenities (middle), winch (basic) AQUAVIDA 2 (WATERCRAFT)",
+    "notes": "",
+    "pre_tail": "2 | 20 | 16 | 1 | 3 | 2/8 | 10 | 115,000¥"
+  },
+  {
+    "name_hint": "AQUAVIDA 2",
+    "equip": "Amenities (middle), winch (basic)",
+    "notes": "",
+    "pre_tail": "2 | 20 | 16 | 1 | 3 | 4/8 | 12 | 135,000¥"
+  },
+  {
+    "name_hint": "KINGFISHER",
+    "equip": "Amenities (squatter), satellite link, smuggling compartment, winch (basic)",
+    "notes": "",
+    "pre_tail": "2 | 16 | 12 | 3 | 4 | 6 | 12 | 61,000¥"
+  },
+  {
+    "name_hint": "AIRRANGER",
+    "equip": "- AIRRANGER HEAVY (WATERCRAFT)",
+    "notes": "",
+    "pre_tail": "3 | 10 | 6 | 1 | 1 | 6 | 6 | 25,500¥"
+  },
+  {
+    "name_hint": "AIRRANGER HEAVY",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "3 | 12 | 6 | 1 | 1 | 5 | 8 | 35,500¥"
+  },
+  {
+    "name_hint": "RIVERINE SECURITY",
+    "equip": "Amenities (squatter), commlink (DR 7), rigger cocoon, rigger interface, satellite link, searchlight, weapon mount (heavy, internal, flexible, remote) front, 2 x weapon mount (standard, internal, flexible, remote) sides, 2 x weapon mount (standard, external, flexible, remote) rear RIVERINE POLICE (WATERCRAFT)",
+    "notes": "",
+    "pre_tail": "3 | 16 | 12 | 4 | 4 | 8 | 15R | 100,000¥"
+  },
+  {
+    "name_hint": "RIVERINE POLICE",
+    "equip": "Amenities (squatter), commlink (DR 7), rigger cocoon, rigger interface, satellite link, 4 x searchlight (2 front, 2 rear), weapon mount (heavy, internal, flexible, remote) front, 2 x weapon mount (standard, internal, flexible, remote) sides, 2 x weapon mount (standard, external, flexible, remote) rear RIVERINE MILITARY (WATERCRAFT)",
+    "notes": "",
+    "pre_tail": "3 | 16 | 14 | 4 | 5 | 8 | 15R | 154,000¥"
+  },
+  {
+    "name_hint": "RIVERINE MILITARY",
+    "equip": "Amenities (squatter), commlink (DR 8), rigger cocoon, rigger interface, satellite link, searchlight, signature masking 4, weapon mount (heavy, internal, flexible, remote) front, 2 x weapon mount (standard, internal, flexible, remote) sides, 3 x weapon mount (standard, external, flexible, remote) rear",
+    "notes": "",
+    "pre_tail": "2 | 20 | 20 | 6 | 6 | 8 | 20F | 225,000¥"
+  },
+  {
+    "name_hint": "HUGHES STALLION WK-4",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "4 | 16 | 16 | 4 | 4 | 8 | 12 | 440,000¥"
+  },
+  {
+    "name_hint": "AGULAR GX-2",
+    "equip": "Rigger interface AGULAR GX-3AT (ROTORCRAFT)",
+    "notes": "",
+    "pre_tail": "5 | 20 | 16 | 4 | 5 | 2 | 28F | 500,000¥"
+  },
+  {
+    "name_hint": "AGULAR GX-3AT",
+    "equip": "Rigger interface",
+    "notes": "",
+    "pre_tail": "4 | 22 | 20 | 4 | 4 | 10 | 28F | 550,000¥"
+  },
+  {
+    "name_hint": "S-K AEROSPACE SKA-008",
+    "equip": "Rigger interface",
+    "notes": "When modifying/customizing this aircraft, raise the threshold by 2 on all Extended Tests. Any critical glitch during this test results in damage to the aircraft.",
+    "pre_tail": "8 | 16 | 18 | 4 | 4 | 12 | 24R | 525,000¥"
+  },
+  {
+    "name_hint": "DASSAULT SEA SPRITE",
+    "equip": "Rescue winches (x2)",
+    "notes": "",
+    "pre_tail": "3 | 18 | 12 | 3 | 5 | 14 | 18R | 400,000¥"
+  },
+  {
+    "name_hint": "FED-BOEING PBY-70 CATALINA II",
+    "equip": "Heavy weapon mounts (nose, right/left waist) AIRBUS “LIFT-TICKET”",
+    "notes": "",
+    "pre_tail": "3 | 22 | 14 | 3 | 4 | 16 | 12 | 250,000¥"
+  },
+  {
+    "name_hint": "AIRBUS “LIFT-TICKET” ALS-669",
+    "equip": "Retractable magnetic grapple lines (x4), standard grapple lines (x4)",
+    "notes": "",
+    "pre_tail": "3 | 16 | 12 | 3 | 4 | 5 | 14 | 325,000¥"
+  },
+  {
+    "name_hint": "GMC GRYPHON (V/STOL)",
+    "equip": "Heavy Weapon Mount (nose, left wing, right wing) Rigger Interface",
+    "notes": "",
+    "pre_tail": "7 | 24 | 24 | 4 | 5 | 2 | 28F | 3,200,000¥"
+  },
+  {
+    "name_hint": "EVO-KRIME “KRIME WING” (V/STOL)",
+    "equip": "Metahuman customization (troll)",
+    "notes": "Smaller figure is for trolls, larger figure is for human- sized occupants. For mixed groups, trolls take two human-sized seats",
+    "pre_tail": "5 | 22 | 18 | 4 | 5 | 10 (20) | 24F | 2,275,000¥"
+  },
+  {
+    "name_hint": "LUFTSHIFFBAU LZP-2070 (LTA VEHICLE)",
+    "equip": "-",
+    "notes": "",
+    "pre_tail": "3 | 12 | 6 | 5 | 4 | 6 | 12 | 85,000¥"
+  },
+  {
+    "name_hint": "“MOTHERSHIP” LAVH",
+    "equip": "Metahuman customization (troll)",
+    "notes": "When two aircraft are connected, default to Mothership stats. Can only control Mothership directly from command cabin, otherwise must use remote/direct interface. To obtain a Mothership, players will need or have access to (through another player for example) a contact with an appropriate contact-type (rigger, smuggler, black marketer, fence, etc.) with a Connection Rating of 4 or higher. *For command cabin only",
+    "pre_tail": "3 | 10 | 5 | 3 | 4 | 1* | 24R | 50,000¥"
+  }
+]

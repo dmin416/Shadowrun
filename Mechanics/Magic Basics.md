@@ -25,8 +25,8 @@ Awakened characters manipulate mana through **Sorcery**, **Conjuring**, and **En
 
 ## Astral
 
-- **Astral Perception** — dual-natured while perceiving; see auras.
-- **Astral Projection** — leave body; time limits; astral combat possible.
+- **Astral Perception** - dual-natured while perceiving; see auras.
+- **Astral Projection** - leave body; time limits; astral combat possible.
 - Wards, barriers, and backgrounds affect magic.
 
 ## Adepts

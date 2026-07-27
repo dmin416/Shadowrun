@@ -1,0 +1,488 @@
+{
+  "Daihatsu-Caterpillar Horseman": {
+    "page": 41,
+    "equip": "Enviroseal",
+    "notes": "Pods decrease Handling to 2/1, Speed to 2, Accel to 1; Passenger increase Seats to 2 (6,000¥), Cargo (3,000¥), Advanced Cargo (5,000¥), Drone (4,000¥); Security adds a standard weapon mount (5,500¥)",
+    "ok": true
+  },
+  "Ares-Segway Terrier": {
+    "page": 42,
+    "equip": "Gyro Stabilization HORIZON-DOBLE REVOLUTION One of the great things about Horizon getting into the vehicle-building field is the crazy drek they come up with because function just isn’t enough. They need form in spades, and that’s what the Revolution offers. The Revolution is an enclosed monocycle t",
+    "notes": "",
+    "ok": true
+  },
+  "Horizon-Doble Revolution": {
+    "page": 42,
+    "equip": "Gyro Stabilization, Smart Tire",
+    "notes": "",
+    "ok": true
+  },
+  "Evo Falcon-EX": {
+    "page": 43,
+    "equip": "Tracked Vehicle ENTERTAINMENT SYSTEMS CYCLOPS AR plus gyro stabilization equals no limits on how to design a motorcycle, and in this case we have another monocycle. This one has the wheel under the rider rath- er than around her, but it is still strange. The rider sits astride a single wheel with th",
+    "notes": "",
+    "ok": true
+  },
+  "Entertainment Systems Cyclops": {
+    "page": 43,
+    "equip": "Assembly Time Improvement, Gyro Stabilization",
+    "notes": "",
+    "ok": true
+  },
+  "Echo Motors Zip": {
+    "page": 44,
+    "equip": "Metahuman adjustment YAMAHA KABURAYA Yamaha’s latest racing bike, the Kaburaya is as sleek and loud as the arrow it’s named for. This demon of a bike has more weight in its ultra-lightweight motor than the entire rest of the bike. The low profile and single front fork make this one of the most easy ",
+    "notes": "",
+    "ok": true
+  },
+  "Yamaha Kaburaya": {
+    "page": 44,
+    "equip": "- BUELL SPARTAN This off-road bike offers the kind of power and speed you expect from Buell, delivered to a custom tire and suspension designed for a variety of off-road environ- ments. Even non-gearheads know the Spartan thanks to Vale Runs-as-Deer, the excessively handsome scout for Ares on Desert",
+    "notes": "",
+    "ok": true
+  },
+  "Buell Spartan": {
+    "page": 44,
+    "equip": "Off-road suspension HARLEY-DAVIDSON NIGHTMARE Harley isn’t likely to give up on their Scorpion line any time in the near future, but if it does, it will be because it was replaced with this beauty. This year’s Nightmare is aesthetically similar to last years inaugural design. Rider feedback has led ",
+    "notes": "",
+    "ok": true
+  },
+  "Harley-Davidson Nightmare": {
+    "page": 45,
+    "equip": "- YAMAHA NODACHI While the Rapier still finds occasional use in combat biker arenas, the Yamaha Nodachi is fast becoming the most common bike on the circuit. Corporate brand loy- alty is about the only thing that prevents it from being used by just about every player. The Nodachi is a beast of a bik",
+    "notes": "",
+    "ok": true
+  },
+  "Yamaha Nodachi": {
+    "page": 45,
+    "equip": "- THUNDERCLOUD MUSTANG Based on the designs of Thundercloud’s cross-country bike, the Pinto, the Mustang is the mixed terrain monster the Pinto should have been. While the Pinto was laud- ed as capable of traversing nearly any terrain, including water, whenever it hit pavement you realized that thos",
+    "notes": "",
+    "ok": true
+  },
+  "Thundercloud Mustang": {
+    "page": 46,
+    "equip": "Smart Tires, Amphibious Operation CARS The cars of 2077 are a strange lot. The days of “a car in every garage” are long over. Corporate enclaves don’t need them, big cities have been pushing them out for over a century, and suburban living is a thing of the past in most sprawls. But that does not ke",
+    "notes": "",
+    "ok": true
+  },
+  "Renault-Fiat FunOne": {
+    "page": 47,
+    "equip": "Metahuman adjustment DODGE XENON The Xenon is a head-turner. As a compact car, it hov- ers in the world between the ultra-cheap and environ- mentally friendly subcompact and the family-friendly sedan. This is the car of late teen and twenty-some- thing corporate brats who have decided to strike out ",
+    "notes": "",
+    "ok": true
+  },
+  "Dodge Xenon": {
+    "page": 47,
+    "equip": "- ECHO MOTORS METAWAY Built for the bigger man! This is another one of Evo’s new line that looks to be very meta-friendly and not at all bottom-line friendly. This troll-modified compact sports car was designed and built around the average frame of a troll. Great for those troll riggers out there, b",
+    "notes": "",
+    "ok": true
+  },
+  "Echo Motors MetaWay": {
+    "page": 47,
+    "equip": "Metahuman adjustment GMC 442 CHAMELEON The world of tuner cars is a subculture all its own, and creating a popular car isn’t about making something to fit the part, it’s making something that inspires en- hancement. When the GMC 442 hit the market, it was never advertised as something special. It wa",
+    "notes": "",
+    "ok": true
+  },
+  "GMC 442 Chameleon": {
+    "page": 48,
+    "equip": "-",
+    "notes": "",
+    "ok": true
+  },
+  "Mercury Comet": {
+    "page": 49,
+    "equip": "- SAAB GLADIUS 998 TI No one thought the Dynamit would ever be topped … until the Gladius concept hit the screamsheets, and Dy- namit owners started flooding into Saab dealer hosts looking to pre-order this sleek supercar. The secondary market has been flooded with used Dynamits, while the Gladius h",
+    "notes": "",
+    "ok": true
+  },
+  "Saab Gladius 998 ti": {
+    "page": 49,
+    "equip": "Rigger adaptation DYNAMIT (GROUNDCRAFT) HANDL SPEED ACCEL BODY ARM PILOT SENS SEATS AVAIL COST 5/1 9 3 10 3 2 3 2 8 98,000¥ Standard Equipment - GMC PHOENIX Someone in the GMC design family has been watching too many old flatvids. The 2077 model Phoenix harkens back to the Trans Am of ninety years a",
+    "notes": "",
+    "ok": true
+  },
+  "GMC Phoenix": {
+    "page": 50,
+    "equip": "- HYUNDAI EQUUS This flagship of the Hyundai brand, this luxury sedan is entering its seventy-ninth consecutive model year. While that longevity is amazing, it is the fact that the external design of the car hasn’t changed since the first decade of this century that makes it a rigger favorite. Mater",
+    "notes": "",
+    "ok": true
+  },
+  "Hyundai Equus": {
+    "page": 51,
+    "equip": "Amenities (low) CHEVROLET LONGBOARD A blast from the past, this wagon-style car has the look of the ’70s-the 1970s-down pat. Wood-paneled sides are standard for the classic wagon sedan. I liked the line from the ads, so I added it. This car really does look like something out of an old flatvid, but ",
+    "notes": "",
+    "ok": true
+  },
+  "Chevrolet Longboard": {
+    "page": 52,
+    "equip": "- ROLLS-ROYCE PHAETON The Rolls-Royce Phaeton was once the premier lim- ousine, but years of competitors copying their style and Rolls-Royce refusing to change made the Phaeton nothing more than another long car like all the rest. When the line ended in ’69, many thought they were done, collapsed fr",
+    "notes": "",
+    "ok": true
+  },
+  "Rolls-Royce Phaeton": {
+    "page": 52,
+    "equip": "Off-Road Suspension, Weapon Mount (external, fixed, manual), Manual Operation TATA HOTSPUR Knowing this was up next is why I said the Morgan can outrun “just about anything on the dirt.” Even on the worst terrain, the Hotspur will leave the Morgan in its dust. Hell, the Hotspur can run off-road fast",
+    "notes": "",
+    "ok": true
+  },
+  "Thundercloud Morgan": {
+    "page": 52,
+    "equip": "Off-Road Suspension, Weapon Mount (external, fixed, manual), Manual Operation TATA HOTSPUR Knowing this was up next is why I said the Morgan can outrun “just about anything on the dirt.” Even on the worst terrain, the Hotspur will leave the Morgan in its dust. Hell, the Hotspur can run off-road fast",
+    "notes": "",
+    "ok": true
+  },
+  "Tata Hotspur": {
+    "page": 53,
+    "equip": "Off-Road Suspension",
+    "notes": "",
+    "ok": true
+  },
+  "GMC Armadillo": {
+    "page": 54,
+    "equip": "Armory, cargo pod, drone rack, food truck, rigger cocoon, off-road transportation, sleeper command cabin, transport, workshop FORD PERCHERON Big trucks for big jobs. The Percheron is designed to haul just about anything with the right setup. It’s built for hard work, and that’s why riggers love it. ",
+    "notes": "",
+    "ok": true
+  },
+  "Ford Percheron": {
+    "page": 54,
+    "equip": "- JEEP TRAILBLAZER For decades, the word “Jeep” conjured a specific image in the minds of the masses. When that name was ut- tered, images of exposed roll bars, four wheeling, soft- top-down cruising in the sun, doors off and foot on the empty hinges, or even associations from the olden days of the ",
+    "notes": "",
+    "ok": true
+  },
+  "Jeep Trailblazer": {
+    "page": 54,
+    "equip": "Multifuel engine, off-road suspension TOYOTA TALON The Talon is an inexpensive and rather boring little SUV. The designers’ image of sharp styling was pretty much standard fare for SUVs, but this is what makes it ideal for riggers and wheelmen. It’s boring and blends in with a crowd of other vehicle",
+    "notes": "",
+    "ok": true
+  },
+  "Toyota Talon": {
+    "page": 55,
+    "equip": "- NISSAN HAULER While the SUV may have started as a way to haul a little extra cargo, it didn’t stay that way for long. Most peo- ple think of SUVs as family (albeit rich family) vehicles or protective transport for executives. The cargo SUV is rarer in this day and age, but it does a nice job of fi",
+    "notes": "",
+    "ok": true
+  },
+  "Nissan Hauler": {
+    "page": 56,
+    "equip": "- EUROCAR NORTHSTAR What the Westwind is to the car market, the Northstar is to the field of SUVs. Referred to as a luxury sport SUV, the Northstar does not skimp on either aspect. Knowing that the largest piece of cargo that was likely to ever go inside would be a set of golf clubs, the de- signers",
+    "notes": "",
+    "ok": true
+  },
+  "Eurocar Northstar": {
+    "page": 56,
+    "equip": "Amenities (middle)",
+    "notes": "",
+    "ok": true
+  },
+  "GMC Escalade": {
+    "page": 57,
+    "equip": "Amenities (high), anti-theft 2, rigger adaptation",
+    "notes": "",
+    "ok": true
+  },
+  "Ford Econovan": {
+    "page": 58,
+    "equip": "Amenities (low) DODGE CARAVANER Since I’m covering a bunch of other vans, I figured I might as well drop in my favorite minivan. The Carava- ner is meant to be a family van for suburbanites. The modern world doesn’t have a whole lot of the required suburbs to create suburbanites, but that doesn’t ke",
+    "notes": "",
+    "ok": true
+  },
+  "Dodge Caravaner": {
+    "page": 58,
+    "equip": "- GMC UNIVERSE While the Bulldog is considered GMC’s armored work- horse, the Universe is GMC’s real all-purpose work- horse. Runners dig the Bulldog because it comes stan- dard with some serious protection, but the Universe is far more common in the world’s sprawls. Again, I bring out the Universe ",
+    "notes": "",
+    "ok": true
+  },
+  "GMC Universe": {
+    "page": 59,
+    "equip": "- ARES CHUCK WAGON A rigger’s got to eat, right? One way to have food where you need it is to make it look like you’re there to serve food while you’re actually spying on local corpo- rate traffic. This mobile food-service truck, usually re- ferred to as a food truck or, much less politely, a roach ",
+    "notes": "",
+    "ok": true
+  },
+  "Ares Chuck Wagon": {
+    "page": 59,
+    "equip": "- HAULERS AIRSTREAM TRAVELER LINE MOTORHOMES (CHINOOK, PRESERVE, OUTBACK) Airstream is a legendary name in the world of travel trailers and RVs. That legendary brand name is now wholly owned by NeoNET. While not well known for their vehicle production, they invested heavily in Air- stream over the l",
+    "notes": "",
+    "ok": true
+  },
+  "Airstream Traveler Line Motorhomes": {
+    "page": 59,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Mack Hellhound": {
+    "page": 60,
+    "equip": "-",
+    "notes": "",
+    "ok": true
+  },
+  "Omni Motors Omnibus": {
+    "page": 62,
+    "equip": "Gridlink, gridlink override",
+    "notes": "",
+    "ok": true
+  },
+  "GMC Commercial G-series": {
+    "page": 62,
+    "equip": "Gridlink, gridlink override, maneuver autosoft (2), special equipment GMC COMMERCIAL D-SERIES Next is the dump truck. D-series, G-series, get it? That’s the whole line. Not very original, but they are selling a line of commercial vehicles, not trying to market to rich corporate brats. This one has t",
+    "notes": "",
+    "ok": true
+  },
+  "GMC Commercial D-series": {
+    "page": 63,
+    "equip": "Gridlink, gridlink override, maneuver autosoft (2), special equipment GMC COMMERCIAL D-SERIES Next is the dump truck. D-series, G-series, get it? That’s the whole line. Not very original, but they are selling a line of commercial vehicles, not trying to market to rich corporate brats. This one has t",
+    "notes": "",
+    "ok": true
+  },
+  "Saeder-Krupp Konstructors": {
+    "page": 64,
+    "equip": "Off-road equipment, special equipment MOSTRANS KVP-28 Mostrans introduced the KVP-27T back in the 2050s. Its unique offering of wheels when you can use them and hover when you can’t made it an overnight success (by hover vehicle standards). The design had its issues, most coming from the fact that i",
+    "notes": "",
+    "ok": true
+  },
+  "Mostrans KVP-28": {
+    "page": 64,
+    "equip": "Secondary propulsion (hovercraft)",
+    "notes": "",
+    "ok": true
+  },
+  "Universal Hovercraft Minnesota": {
+    "page": 65,
+    "equip": "-",
+    "notes": "",
+    "ok": true
+  },
+  "Vodyanoy Assault Hovercraft": {
+    "page": 65,
+    "equip": "-",
+    "notes": "",
+    "ok": true
+  },
+  "BMW Blitzkrieg": {
+    "page": 66,
+    "equip": "Two heavy weapon mounts (external, fixed, remote; weapons not included with the vehicle) DODGE CHARGER With the multi-market popularity",
+    "notes": "",
+    "ok": true
+  },
+  "Dodge Charger": {
+    "page": 67,
+    "equip": "Two standard weapon mou",
+    "notes": "",
+    "ok": true
+  },
+  "BMW i8 Interceptor": {
+    "page": 68,
+    "equip": "Heavy weapon mount (external, flexible, remote) front, two standard weapon mounts (external, fixed, remote) rear, oil slick sprayer, smoke projector, road strip ejector, rigger adaptation",
+    "notes": "",
+    "ok": true
+  },
+  "Dodge Goliath": {
+    "page": 70,
+    "equip": "Special equipment (extended roof), six gun ports, extra entry/exit point (assault ramp to the rear), ram plate",
+    "notes": "",
+    "ok": true
+  },
+  "BMW Teufelkatze": {
+    "page": 71,
+    "equip": "FlashTech, signature dampening, TeufelKatze flamer DODGE STALLION Every security and police force needs a workhorse. To fill that role, Dodge designed the Stallion. It came as no surprise to the security companies looking to buy the Stallion that this workhorse makes one hell of a war- horse too. Th",
+    "notes": "",
+    "ok": true
+  },
+  "Dodge Stallion": {
+    "page": 71,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "BMW Luxus": {
+    "page": 73,
+    "equip": "Amenities (middle), anti-theft system 3, heavy weapon mount (concealed, turret, remote) rear, life support system 2, missile defense system, passenger protection system, Vindicator Minigun w/ 250 standard ammo",
+    "notes": "",
+    "ok": true
+  },
+  "Dodge General": {
+    "page": 74,
+    "equip": "Additional entry/exit port (roof hatch), amenities (middle), special equipment (bathroom), special equipment (holding cell x 2), special equipment (sleeping quarters) TRAILER (GROUNDCRAFT) HANDL SPEED ACCEL BODY ARM PILOT SENS SEATS AVAIL COST 3/3 3 1 20 16 3 7 1 18R 54,000¥ Standard Equipment Drone",
+    "notes": "",
+    "ok": true
+  },
+  "BMW Stormwagon": {
+    "page": 75,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Dodge Rhino": {
+    "page": 77,
+    "equip": "on the Rhino includes a pair of forward-firing anti-material rifles intended to soften walls, twelve smoke dispensers evenly spread around the truck for visual obscurement, eight genuine Ares FlashPak systems, and the new Ares Shockwave elec- tro-defense system.",
+    "notes": "",
+    "ok": true
+  },
+  "Ruhrmetall Wolf II": {
+    "page": 77,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Evo Waterking": {
+    "page": 79,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Sea Ray Cottonmouth": {
+    "page": 80,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Kawasaki Stingray/Manta Ray": {
+    "page": 81,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Aztech Nightrunner": {
+    "page": 81,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Zodiac Scorpio": {
+    "page": 82,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Mitsubishi Waterbug": {
+    "page": 83,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Evo Water Strider": {
+    "page": 84,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Corsair Elysium": {
+    "page": 85,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Corsair Panther": {
+    "page": 85,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Corsair Trident": {
+    "page": 87,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Blohm & Voss Classic 111": {
+    "page": 88,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Lurssen Mobius": {
+    "page": 89,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Sun Tracker Lake King": {
+    "page": 90,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Evo Aquavida": {
+    "page": 90,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "UltraMarine Kingfisher": {
+    "page": 92,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "American Airboat AirRanger": {
+    "page": 92,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "GMC Riverine": {
+    "page": 92,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Hughes Stallion WK-4": {
+    "page": 95,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Aztechnology Agular GX-2 and GX-3AT": {
+    "page": 97,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "S-K Aerospace SKA-008": {
+    "page": 98,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Dassault Sea Sprite": {
+    "page": 99,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Federated-Boeing PBY-70 Catalina II": {
+    "page": 100,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Airbus Lift-Ticket ALS-699": {
+    "page": 102,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "GMC Gryphon": {
+    "page": 103,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Evo-Krime Krime Wing": {
+    "page": 105,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Luftschiffbau Personal Zeppelin LZP-2070": {
+    "page": 106,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  },
+  "Renegade Works Mothership LAvH": {
+    "page": 108,
+    "equip": "",
+    "notes": "",
+    "ok": false
+  }
+}

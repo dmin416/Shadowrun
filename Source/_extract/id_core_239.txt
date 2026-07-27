@@ -1,0 +1,88 @@
+times are slow and unreliable. As a result, all Matrix 
+actions are performed at a –2 dice pool penalty when 
+you’re using the public grid, even in a host.
+LOCAL GRIDS
+Local grids are available within a specifically defined 
+physical area, such as a sprawl or county. You can only 
+access a local grid if you’re accessing it from the ser-
+vice area, usually the geographic area with which it is 
+associated. For example, the Emerald City local grid is 
+only accessible as long as you’re in Seattle. Outside the 
+sprawl, the Salish-Shidhe ChinookNet becomes the local 
+grid. You can still access things on the Emerald City grid, 
+but you’re now working across grids. Each local grid is 
+usually provided by a AAA or AA megacorp, though the 
+advertising is a bit more muted than you’d find on the 
+more commercial global grids.
+GLOBAL GRIDS
+There are ten publicly known global grids, one for each 
+of the Big Ten megacorporations. As you’d guess by 
+the name, global grids are accessible all over the world, 
+even in orbit out to as far as two thousand kilometers 
+from the surface of the Earth. These grids are full of ad-
+vertising and marketing. Each has its own demiGOD, 
+and those groups share security information and Over-
+watch Score data freely. The megas don’t agree on 
+much, but they all hate hackers.
+DEVICES AND PERSONAS
+Devices and personas are the movers and shakers 
+in the Matrix. They’re the only icons that actually do 
+things (except hosts, which do things internally, but 
+let’s stay focused). The difference between the two is 
+that devices usually do things in the real world, while 
+personas do their thing in the Matrix.
+DEVICES
+A device in the Matrix is any wireless device in the real 
+world. Toasters, power tools, vehicles, firearms, fire 
+hydrants, street lights, ear phones, sales and invento-
+ry tags, doors and locks, commlinks, pet collars, office 
+equipment, snow blowers, thermostats, drones ... if it’s 
+big enough for a microchip, it’s big enough to house 
+enough computing power to be a device. And if it’s a 
+device, it’s in the Matrix.
+Devices have a smaller-than-person-sized icon in 
+the Matrix. They also have three ratings: a Device Rating 
+and two of the Matrix attributes, Data Processing and 
+Firewall. For most devices, the Matrix attributes are the 
+same as the Device Rating.
+When is a device not a device? When it’s a persona!
+DEVICE RATINGS
+DEVICE TYPE
+DEVICE
+RATING
+EXAMPLES
+Simple
+1
+General appliances, public terminals, entertainment systems
+Average
+2
+Standard personal electronics, basic cyberware, vehicles, drones, 
+weapons, residential security devices
+Smart
+3
+Security vehicles, alphaware, corporate security devices
+Advanced
+4
+High-end devices, betaware, military vehicles and security devices
+Cutting Edge
+5
+Deltaware, credsticks, black-ops vehicles and security devices
+Bleeding Edge
+6
+Billion-nuyen experimental devices, space craft
+MATRIX SPOTTING TABLE
+TARGET IS...
+AND IS...
+NOT RUNNING SILENT
+RUNNING SILENT
+Within 100 meters
+Automatic
+Opposed Computer + Intuition  
+[Data Processing] v. Logic + Sleaze Test
+Outside 100 meters
+Simple Computer + Intuition 
+[Data Processing]
+A host
+automatic
+>> THE MATRIX <<
+234    Cracking the MATRIX SPINE >>

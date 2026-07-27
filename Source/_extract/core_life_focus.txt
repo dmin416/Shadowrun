@@ -1,0 +1,3905 @@
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p98 =====
+>> CREATING A SHADOWRUNNER <<
+<< Step five: purchase skills    93
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p99 =====
+STEP SIX: 
+SPEND YOUR 
+RESOURCES
+Players should only have one Priority Level left to assign 
+to Resources. This Priority Level determines the amount 
+of money that characters will have to spend on the gear 
+they’ll use to kick some ass, as well as a place to crash 
+when the heat’s off. See Street Gear (p. 421) for avail-
+able equipment. In this step, you’ll improve your charac-
+ter through spending money; any improvements made 
+with the player’s Karma fund are handled in Step Seven: 
+Spending Your Left Over Karma.
+The character needs to spend the vast majority 
+of nuyen they have; by the end of this step, they may 
+choose to hold onto 5,000 nuyen or less and add it to 
+their starting nuyen (p. 95). Any nuyen remaining over 
+5,000 is lost and cannot be recovered. While nuyen 
+from this step cannot be converted to Karma, players 
+can convert some of their Karma to nuyen if they need a 
+little more to spend. They may convert up to 10 Karma 
+at a rate of 2,000 nuyen per Karma point for gear, which 
+means they can have up to 20,000 extra nuyen.
+If the player finds that he or she has more than 
+the 5,000 nuyen that can be saved (or even if he or 
+she hasn’t), there are a few essential pieces of gear to 
+consider when building a shadowrunner. You’ll want a 
+commlink (p. 438) to stay in touch and to keep your 
+gear relatively safe from hackers. A fake SIN (p. 442), 
+along with some fake licenses, will help smooth deal-
+ing with law enforcement or even simple purchases 
+like buying a bus ticket or covering a bar tab. For more 
+ideas, see the Gear Checklist sidebar.
+Keep in mind there are three restrictions when it 
+comes to purchasing gear. First, when purchasing aug-
+mentations such as cyberware and bioware, each attri-
+bute rating (Mental and Physical) can only receive an 
+augmentation bonus of up to +4. If the attribute being 
+raised has not reached its natural maximum limit, the 
+attribute can be raised naturally with Karma; but at no 
+point can augmentations exceed the +4 bonus cap. This 
+applies to all sources of attribute increases. Whatever 
+the source, or combination of sources, the maximum 
+bonus for any attribute is always +4, unless specifically 
+excepted. The second restriction is that at normal char-
+acter creation, characters are restricted to a maximum 
+Availability rating of 12 and a device rating of 6. After 
+character creation, characters may be able to acquire 
+gear that has a higher Availability (p. 416) and a higher 
+device rating. Finally, all gear is subject to gamemaster 
+approval, even if the gear falls within these restrictions.
+CYBERWARE  
+AND BIOWARE
+The most common augmentations players take to en-
+hance their characters’ attributes are cyberware and 
+bioware (p. 451). Cyberware is technology implanted 
+into a metahuman body, either to enhance the perfor-
+mance of existing organs, muscles, and systems, or to 
+replace a part of the metahuman body completely with 
+an artificial form that exceeds normal human limitations. 
+Bioware, by contrast, is living technology; cells grown 
+in laboratories and designed to work within a metahu-
+man’s body to improve on its natural design, and to add 
+options nature never intended. Cyberware generally 
+consumes more of a character’s Essence than bioware. 
+The drawback for bioware is its greater expense. 
+Note that if a character takes cyberware or bioware, 
+it may remove a particular racial bonus. For example, if 
+a player who has an elf character buys cybereyes, their 
+natural low-light vision is removed and replaced with 
+the cybereyes and whatever attributes it possesses. If 
+the player still wants low-light vision, she’ll have to se-
+lect the low-light modification for the cybereyes. Simi-
+larly, orthoskin replaces the natural dermal deposits of a 
+troll so he would no longer receive the +1 dermal armor 
+from his natural skin hardness.
+GEAR CHECKLIST
+WHAT ESSENTIAL GEAR SHOULD  
+A CHARACTER CONSIDER BUYING?
+•	 Weapons (Melee, Ranged, both), p. 421
+•	 Ammunition, p. 433
+•	 Clothing and Armor, p. 436
+•	 Cyberware/bioware, p. 451
+•	 Commlink, p. 438
+•	 Fake SINs, fake licenses, p. 442 
+•	 Cyberdeck, p. 439
+•	 Programs, p. 243
+•	 Tools, p. 443
+•	 Breaking and entering tools, p. 447
+•	 Surveillance equipment, p. 443
+•	 Lifestyle, p. 373
+•	 Vehicle(s), p. 461
+•	 Drones (usually owned by riggers), p. 461
+•	 Biotech, p. 450
+•	 Disguises, p. 443
+•	 Sensors and sensory enhancements, p. 443
+•	 Magical goods (foci, ritual materials, alchemical 
+preparations, etc.), p. 316
+•	 Certified credstick(s) (for extra cash), p. 442
+•	 DocWagon Contract, p. 450
+>> CREATING A SHADOWRUNNER <<
+94    Step six: spend your resources >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p100 =====
+There are five grades of available cyberware and 
+bioware: standard, alphaware, betaware, deltaware, 
+and used (p. 451). Only standard, alphaware, and used 
+grades are available at character creation.
+Cyberware and bioware augmentations are not for 
+everyone. The physiologies for magic users and tech-
+nomancers respond poorly to the loss of Essence that 
+accompanies these augmentations. In game terms, this 
+means that any fraction of Essence loss reduces a Magic 
+or Resonance attribute rating by 1. This means that if a 
+magician with Magic 5 decides to buy and install some 
+cybereyes (Rating 4), their Essence will go from 6 to 5.5 
+due to the Essence cost of the cybereyes, and the ma-
+gician will also lose a full point of Magic, leaving them 
+with a Magic attribute rating of 4. The character can then 
+lose another half a point of Essence, taking him down to 
+5.0, without a penalty to Magic, but if he drops below 
+5.0, his Magic rating is going to lose another point.
+This is why so few magic users or technomancers 
+make use of either cyberware or bioware. Those who do 
+can find their talents burned out if too many augmen-
+tations reduce their Magic or Resonance rating to 0. 
+For more information, see Magic Loss (p. 278) or Reso-
+nance Loss (p. 249). 
+Attributes boosted by cyberware or bioware do 
+not affect the calculation for things such as points for 
+Knowledge skills or Contacts. However, other in-game 
+mechanics such as Initiative and Inherent Limits are 
+modified by these augmentations, which means these 
+bonuses need to be factored in during Step Eight: Final 
+Numbers (p. 100). When calculating the Social limit us-
+ing Essence, round your remaining Essence up to the 
+nearest whole number before calculating the limit.
+Augmentations need to be noted on the character 
+sheet. The rating should be added to the natural attribute 
+rating and the total written in parentheses next to the nat-
+ural attribute rating to indicate the permanent augment-
+ed rating. For example, a character with a natural Strength 
+rating of 4 and muscle augmentation 2 bioware should 
+record their attribute as follows: Strength 4 (6).
+LIFESTYLE
+Lifestyle determines how the character lives and their 
+monthly expenses so that they can survive. Is the char-
+acter a squatter in an abandoned building? Does he 
+survive by dumpster diving? Does the character live 
+in a rundown apartment? Or has the character found a 
+way to own her own home? Depending on the answers 
+to these questions, the character may have a Street, 
+Squatter, Low, Middle, High, or Luxury lifestyle. More 
+information on lifestyles can be found on p. 373.
+STARTING NUYEN
+No more than 5,000 nuyen (or less) of any unspent 
+money from the funds available for character creation 
+carries over to game play. The rest of the character’s 
+starting nuyen is determined by the lifestyle the play-
+er has purchased for his character and the formula for 
+that lifestyle specified by the Starting Nuyen Table. The 
+player rolls the designated number of dice, then ap-
+plies the modifier appropriate to their character’s Life-
+style. The result is added to any funds the player has 
+left over after buying gear. 
+LIFESTYLE COSTS TABLE
+LIFESTYLE
+COST
+Street
+Free
+Squatter
+500¥
+Low
+2,000¥
+Middle
+5,000¥
+High
+10,000¥
+Luxury
+100,000¥
+STARTING NUYEN TABLE
+LIFESTYLE
+STARTING NUYEN
+Street
+1D6 x 20¥
+Squatter
+2D6 x 40¥
+Low
+3D6 x 60¥
+Middle
+4D6 x 100¥
+High
+5D6 x 500¥
+Luxury
+6D6 x 1,000¥
+>> CREATING A SHADOWRUNNER <<
+<< Step six: spend your resources    95
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p101 =====
+EXAMPLE
+BUYING GEAR
+JAMES
+James assigns his final Priority Level, level A, to Resources. This gives James 450,000 nuyen with which to buy gear. Here is 
+what he picks up:
+GEAR
+COST
+GEAR
+COST
+Defiance EX Shocker
+210¥
+Jammer, area (Rating 4)
+800¥
+Ceska Black Scorpion
+270¥
+Jammer, directional (Rating 6)
+1,200¥
+Ares Crusader II
+830¥
+10 fake SINs (Rating 4)
+100,000¥
+HK-227
+730¥
+10 fake Licenses (gun license, Rating 4)
+8,000¥
+Concealable holsters (2)
+300¥
+Goggles (Capacity 6)
+300¥
+Silencers (3)
+1,500¥
+     Low-light vision modification
+500¥
+Taser dart (100)
+5,000¥
+     Smartlink modification
+2,000¥
+Regular ammo (1,000 rounds)
+2,000¥
+     Flare compensation
+250¥
+Explosive ammo (500 rounds)
+40,000¥
+     Image link
+25¥
+Stick-n-shock (80 rounds)
+6,400¥
+Earbuds (Capacity 3)
+150¥
+APDS rounds (300 rounds)
+36,000¥
+     Audio enhancement 2
+1,000¥
+Flash-bang grenades (5)
+500¥
+     Select sound filter 1
+250¥
+Chameleon suit
+1,700¥
+Handheld scanner (Capacity 2, atmosphere 
+sensor 3, cyberware scanner 3)
+800¥
+Armor jacket w/ fire resistance 4
+2,000¥
+2 Medkits (Rating 6)
+3,000¥
+Armor clothing
+450¥
+5 Medkit supplies
+500¥
+Transys Avalon commlink w/ sim module
+5,100¥
+Dream chips (5)
+100¥
+Ares Roadmaster
+52,000¥
+Mood chips (5)
+250¥
+Trodes
+70¥
+6 spare clips
+30¥
+Super Platinum DocWagon Contract (1 year)
+100,000¥
+Middle Lifestyle (12 months)
+60,000¥
+Low Lifestyle (safe house, 3 months)
+6,000¥
+Carryover Starting Nuyen
+4,995¥
+Total
+425,005¥
+Starting Nuyen: Middle Lifestyle (4D6 x 100) + 4,995¥ = 7,195¥
+His carryover of 4,995 nuyen plus his starting nuyen gives him 7,195 at the start of play.
+>> CREATING A SHADOWRUNNER <<
+96    Step six: spend your resources >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p102 =====
+EXAMPLE, CONT.
+BUYING GEAR
+ROB
+Rob has Priority row D for his resources, which means he has 50,000 nuyen with which to purchase gear. Rob’s character 
+also has it harder than most other metatypes because he is a troll and has the racial disadvantage of having to pay one hundred 
+percent more for Lifestyle expenses.  Rob decides to get more nuyen for his gear by converting 10 Karma into 20,000 nuyen, 
+raising his purchasing fund to 70,000 nuyen. This leaves him with only 15 Kama for improving his character later. 
+Here’s the gear Rob gets for his street samurai:
+GEAR
+COST
+GEAR
+COST
+FN HAR
+1,500¥
+1 fake SIN (Rating 4)
+10,000¥
+Colt Cobra TZ-120
+660¥
+1 fake gun license (Rating 4)
+800¥
+Ares Predator V
+725¥
+Certified credstick, silver
+20¥
+Katana
+1,000¥
+Renraku Sensei commlink
+1,000¥
+Knucks (hardliner gloves)
+100¥
+High explosive grenades (3)
+300¥
+Armor jacket (w/ nonconductivity 4)
+2,000¥
+Explosive ammo (50 rounds)
+400¥
+Reaction enhancers 2
+26,000¥
+Hollow point ammo (20 rounds)
+140¥
+Regular ammo (300 rounds)
+600¥
+9 spare clips
+45¥
+Flash bang grenades
+500¥
+Low Lifestyle (3 months; price increased by 100%)
+12,000¥
+Contacts [Capacity 2, w/ vision enhancement 2]
+1,400¥
+Bone lacing (plastic)
+8,000¥
+Carryover Nuyen: 2,785¥
+Total: 70,000¥
+Starting Nuyen (3D6 x 60) + 2,785¥ = 3,505¥
+KYRA
+Kyra’s remaining Priority row is E. This means that she has only 6,000 nuyen to spend on gear. She decides to spend 10 Kar-
+ma now for an additional 20,000 nuyen, which brings her up to 26,000 nuyen. This leaves her with only 16 Karma to improve her 
+character later. Her purchases are as follows:
+GEAR
+COST
+GEAR
+COST
+Browning Ultra Power
+640¥
+Fake magic license (Rating 3)
+600¥
+Uzi IV
+450¥
+Steyr TMP
+350¥
+Armor jacket
+1,000¥
+Regular ammo (200 rounds)
+400¥
+Renraku Sensei commlink
+1,000¥
+Autopicker (Rating 3)
+1,500¥
+Yamaha Growler
+5,000¥
+Fake gun license (Rating 3)
+600¥
+Bliss (5 doses)
+75¥
+Miniwelder
+250¥
+Low Lifestyle (2 months)
+4,000¥
+Gel ammo (70 rounds)
+175¥
+Fake SIN (Rating 3)
+7,500¥
+Certified credstick, silver
+20¥
+Fake driver’s license (Rating 4)
+800¥
+Initial Total: 26,000¥
+Carryover Nuyen: 1,640¥
+Starting Nuyen (3D6 x 60) + 1,640¥ = 2,225¥
+>> CREATING A SHADOWRUNNER <<
+<< Step six: spend your resources    97
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p103 =====
+STEP SEVEN: 
+SPENDING YOUR 
+LEFTOVER KARMA
+This step is the player’s last opportunity to polish her 
+character before making the final calculations. By this 
+time the player should have a pretty good idea of her 
+character’s backstory and what she wants her char-
+acter to look like. Any re-
+maining Karma can now be 
+invested in smoothing out 
+any rough edges, picking up 
+or improving skills, buying 
+additional spells, acquiring 
+bound spirits, bonding foci 
+to be used at the start of the 
+game, purchasing contacts, 
+etc. Refer to the Additional 
+Purchases and Restrictions 
+table to note any special 
+restrictions on purchasing 
+items with Karma. If a player 
+wishes to keep some Karma 
+for use later in the game, 
+she may do so, though the 
+maximum carryover is 7 
+Karma. When raising skills 
+and attributes, keep in mind 
+the various restrictions of 
+character creation: Only one 
+attribute can be at the natu-
+ral attribute limit, and gear is restricted to items with 
+Device Ratings of 6 or less or an Availability of 12 or 
+less. These rules still apply when you are spending 
+Karma.
+When spending Karma for attributes or skills, refer to 
+the rules for improving the character in the Character 
+Advancement section (p. 103). 
+You cannot spend Karma to initiate (p. 324) or sub-
+merge (p. 257) at character creation.
+CONTACTS
+Contacts are a vital part of a shadowrunner’s life. Con-
+tacts sell illegal or hard-to-obtain items, alert runners 
+to potential employment, know someone who knows 
+someone who knows something the runner wants to 
+know, or are knowledgeable about the layout of a heav-
+ily guarded corporate compound. Some contacts can 
+supply substances runners are addicted too, fence sto-
+len goods, and maybe, if they’re loyal enough, bail the 
+shadowrunner out of the Lone Star holding cell. Having 
+a wide variety of Contacts can be a valuable invest-
+ment. Every character receives free Karma to spend on 
+their initial contacts. This Karma is equal to a Charac-
+ter’s Charisma rating x 3. 
+Each Contact has a Connection and a Loyalty rat-
+ing. Any Contacts a player buys must have a minimum 
+rating of 1 in Connection and a minimum rating of 1 
+in Loyalty. Connection represents how much reach and 
+influence a Contact has, both within the shadows and 
+in the world at large, to get things done or to make 
+things happen. Loyalty reflects how loyal the contact 
+is to the runner and how much they’ll endure without 
+EXAMPLE 
+CONTACTS
+•	
+Arms dealer
+•	
+Smuggler
+•	
+Mobster
+•	
+Corporate wageslave
+•	
+Fixer
+•	
+Talismonger (seller of 
+magical goods)
+•	
+Beat cop on the take
+•	
+Rigger
+•	
+Mechanic
+•	
+Street doc
+ADDITIONAL PURCHASES & RESTRICTIONS
+ITEM
+KARMA COST
+(AT CHARACTER CREATION)
+RESTRICTION
+Bound Spirits
+1 Karma per service (Force of spirit is 
+equal to Character’s Magic Attribute 
+rating)
+Can only have a number of bound spirits 
+equal to Charisma
+Complex Forms
+4 Karma per complex form
+Maximum number of complex forms at 
+character creation equal to Resonance 
+Rating x 2
+Spells
+5 Karma per spell
+Maximum number of spells/rituals/
+preparations  known at Character Creation 
+equals Magic Rating x 2
+Bond Foci
+Variable; see p. 318 for 
+bonding costs of foci
+Maximum total Force of all foci that can be 
+bonded at character creation is equal to 
+character’s Magic Rating x 2
+Contacts
+1 Karma for each point of Connections 
+Rating, 1 Karma for each Loyalty Rating 
+(minimum Karma requirement = 2)
+ A single contact may not have more than 7 
+Karma spent on them at character creation. 
+There are no limits on how many contacts 
+the character may purchase
+Registering Sprites 1 Karma per task (Level of Sprite equal to 
+Character’s Resonance Rating)
+Can only have a number of Registered 
+Sprites equal to the character’s Charisma
+>> CREATING A SHADOWRUNNER <<
+98    Step seven: spending your leftover Karma >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p104 =====
+EXAMPLE
+FINAL STEPS
+JAMES
+James is ready to spend his final 26 Karma on his character. He 
+notes he is missing a couple of key skills: Software and Cybercombat. 
+Looking over the Karma Advancement Table for Skills (p. 107), James 
+decides to add both Cybercombat and Software skills at rating 2. He 
+determines that it will cost him 6 Karma each to buy the skills at rating 
+2 (2 Karma for the first point + 4 Karma for the second point). James 
+makes those changes to his character sheet, subtracting 12 from his 
+Karma fund. With 14 Karma left, James decides to invest 4 Karma 
+in raising his Electronic Warfare to 2; he then uses 4 Karma to buy 
+a complex form (Resonance Spike). James spends his last 6 Karma 
+registering 2 sprites (crack sprite and fault sprite) with 3 tasks each; 
+the sprites have a level equal to his Resonance, which is 6. Here are 
+his final active skills, complex forms, and sprites:
+ACTIVE SKILLS
+Automatics
+2
+Compiling
+4
+Computer
+3
+Cybercombat
+2
+Electronic Warfare
+2
+Forgery
+2
+Hacking
+5
+Hardware
+1
+Perception
+2
+Pistols
+2
+Registering
+4
+Software
+2
+COMPLEX FORMS
+Cleaner
+Editor
+Resonance Spike
+REGISTERED SPRITES (3 TASKS EACH)
+Crack Sprite (Level 6)
+Fault Sprite (Level 6)
+James now needs to pick out contacts. Based on his Charisma 
+score, James has 9 Karma to spend on his contacts’ Connection and 
+Loyalty ratings. James has decided that his character is a neo-an-
+archist. His contacts will be a neo-anarchist lieutenant, a fixer, and 
+a fence. James assigns 4 Karma to his neo-anarchist lieutenant, 2 
+Karma to his fence, and 3 Karma to his fixer, as follows:
+CONTACT
+CONNECTION
+LOYALTY
+Neo-Anarchist Lieutenant
+2
+2
+Fence
+1
+1
+Fixer
+2
+1
+ROB
+Rob’s street samurai has 16 Karma left to spend, and Rob knows 
+he cannot afford to raise any of his attributes at this time, so he looks 
+at his active skills. Ron desperately needs to raise his Perception 
+skill. He spends 4 Karma raising his Perception skill to 2. Rob would 
+also like to raise his Heavy Weapons skill rating from 1 to 2. This also 
+costs 4 Karma, leaving him with 8. Rob then decides to raise his First 
+Aid skill from 2 to 3. This increase costs Rob 6 Karma. Rob only has 
+2 Karma left, so he decides to raise his Language skill from 1 to 2 in 
+Dakota. Rob’s character’s skills look like this: 
+ACTIVE SKILLS
+Athletics Skill Group
+2
+Automatics
+5
+Blades
+4
+First Aid
+3
+Computer
+1
+Heavy Weapons
+2
+Longarms
+3
+Perception
+2
+Pilot Ground Craft
+2
+Pistols
+2
+Throwing Weapons
+2
+Unarmed Combat
+5
+LANGUAGE SKILLS
+English
+N
+Dakota
+2
+With his character’s Charisma attribute of 3, Rob has 9 Karma to 
+spend on contacts. He keeps it simple:
+CONTACT
+CONNECTION
+LOYALTY
+Street Doc
+3
+2
+Fixer
+2
+2
+KYRA
+Kyra also has 16 Karma left for improving her character. She in-
+creases her Etiquette skill from 2 to 3, costing 6 Karma and leaving 
+her with 10. She decides to start the game with two bound spirits—a 
+Water spirit and a Beast spirit—each capable with 4 services. That 
+costs her 8 Karma. The spirits have Force ratings equal to Kyra’s 
+Magic rating of 6. Kyra decides to carry the 2 Karma she has left over 
+into the game. Her skills now look like this: 
+ 
+ACTIVE SKILLS
+Spellcasting
+5
+Counterspelling
+5
+Conjuring Skill Group
+2
+Automatics
+4
+Etiquette
+3
+Pistols
+3
+Perception
+3
+Computer
+1
+Con
+4
+Locksmith
+2
+Negotiation
+4
+Assensing
+3
+Pilot Ground Craft
+2
+BOUND SPIRITS (4 SERVICES)
+Water Spirit (Force 6)
+Beast Spirit (Force 6)
+Continued next page
+>> CREATING A SHADOWRUNNER <<
+<< Step seven: spending your leftover Karma    99
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p375 =====
+extraordinary, or maybe they’re just at the wrong place 
+at the wrong time. Security in these offices is usually 
+pretty light, with just the basics: maglocks, cameras, 
+alarms. Sometimes there’s a metahuman on site, but 
+most of the security will be contracted. Matrix and 
+technology is often pretty basic, unless the corp is run 
+by some genius working on cutting-edge stuff.
+NO-TELL MOTEL
+You haven’t lived a life in the shadows unless you’ve 
+spent a night at a no-tell motel. Being the cheapest 
+possible place to stay for a night, they appeal to those 
+looking for a quick place to crash. They’re not much to 
+look at but at least they’re functional. No-tell Motels 
+have often crossed paths with runners, not because the 
+motel itself is the target, but something—or more of-
+ten someone—there is of value to the runners. Security 
+at a no-tell motel is passive and fairly basic: maglocks 
+on the rooms, some cameras, and sometimes one live 
+staff member. In an effort to cut costs, many motels are 
+becoming entirely automated. If there is Matrix access 
+in the area, a motel usually has it, so runners need to be 
+wary of jumpy residents hitting a PanicButton.
+LARGE CORP OFFICE
+Money is the blood of power in the Sixth World, and no 
+one controls more of it than the big corporations. Cor-
+porate money feeds the shadows more than any other, 
+so it is no surprise that offices and sites of the large 
+corporations are the most common battlegrounds of 
+the corporate shadow wars. Runners may be hired to 
+break into an office to steal information or extract key 
+personnel, gather intelligence, destroy something, or 
+maybe even provide additional protection. Security 
+forces in these offices are most often crisp, profession-
+al, and well equipped. High Threat Response and magi-
+cal security forces will respond promptly to any alarms. 
+Technical security will be sophisticated, with multiple 
+redundant systems including maglocks (with any num-
+ber of verification methods—keys, cards, biometrics), 
+cameras, sensors, traps, and drones. Matrix security 
+will also be solid, with all devices tied into a host that 
+is loaded with IC and monitored by a spider. While not 
+necessarily top-of-the-line, security is solid all around 
+with no obvious weak point.
+HOSPITAL OR CLINIC
+The need for medical services in the Sixth World is 
+higher than it has ever been. That might have some-
+thing to do with the corporations running it and con-
+MOM & POP SHOP
+NO-TELL MOTEL
+LARGE CORP OFFICE
+>> GAMEMASTER ADVICE <<
+370    Drop-In Locations >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p376 =====
+vincing everyone to buy their insurance or get that 
+“must-have” body modification. Whatever the reason 
+for their widespread use, there are many reasons a run 
+will cross into a hospital or clinic. It may be as simple 
+as a team trying to save one of their own, or they may 
+be coming to finish some botched wetwork. Runners 
+could be hired to extract someone from a hospital, sur-
+reptitiously protect someone, or steal the latest medi-
+cal advance. Security at medical facilities is taken seri-
+ously, but must yield to the practicality of what needs 
+to be done. If the clinic is very private, serving only 
+a select list of clients, then security can be tighter. If 
+the site is a hospital that takes people off the street or 
+emergency cases, then security can only do so much. 
+Technology will often be top-of-the-line, often sparing 
+little expense in providing tools for the best medical 
+care. Due to the sensitive nature of the equipment 
+(and the people), security will generally use non-lethal 
+methods, and they check for weapons, suspicious im-
+plants, or unauthorized wireless signals. 
+HIGH-END RESIDENTIAL
+While so many in the Sixth World struggle to find a de-
+cent place to live, the wealthy and powerful enjoy the 
+high life of luxurious living. Most times this comes in 
+the form of a luxury condo, but it can also be a tradi-
+tional stand-alone home. This is the kind of home that 
+most people can only dream of—hot in the winter, cool 
+in the summer, with real food available on demand. 
+Safety is just as much a priority for the residents as 
+luxury, so security will not be lax. High-end residential 
+sites are the kind of security contracts that are hotly 
+contested, and a council of angry residents won’t hesi-
+tate to switch providers, so the company will take their 
+job very seriously. The population of high-end neigh-
+borhoods or condo buildings is generally small, so the 
+names and faces of the residents will be well known by 
+the security personnel on site. They will respond quick-
+ly to any alarms with a High Threat Response team, 
+though their priority will be protecting the residents 
+rather than directly engaging the intruders. Technical 
+security will be solid, but not necessarily cutting edge, 
+with most of it focused on increasing the comfort or 
+convenience of the residents, with enough security to 
+keep the riff-raff out.
+DERELICT BUILDING
+Urban decay on a large scale is a common thing in the 
+Shadowrun world. This leaves a landscape littered with the 
+bodies and bones of neighborhoods that once were, filled 
+with buildings abandoned from their original purpose. As 
+the squatters, gangs, and others moved in, these buildings 
+have found new uses. These buildings will serve the pur-
+pose of whatever the new residents desire: a new home, 
+a place for group gatherings, a social scene, a place of il-
+legal business, somewhere to perform deeds away from 
+prying eyes, or simply a place to hide and heal up. Most 
+runners may not want to enter such a location but, for any 
+number of reasons, they may find themselves having to 
+go into one. Residents of such a place can be any number 
+of people or things that exist on the periphery of society: 
+squatters, gangers, Awakened predators, ghouls, or some 
+HOSPITAL OR CLINIC
+HIGH-END RESIDENTIAL
+DERELICT BUILDING
+>> GAMEMASTER ADVICE <<
+<< Drop-In Locations    371
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p377 =====
+group that most people try to avoid like Tamanous. Secu-
+rity in these sites is non-existent, except for whatever the 
+residents bring with them—there may even be holes in the 
+walls allowing easy entrance. Technology or Matrix access 
+is usually absent, with a few unusual exceptions, such as 
+the building occupied by a group of technomancers. In 
+these dark and forgotten corners of the Sixth World, there 
+is no telling what a person may encounter.
+REPUTATION
+When you live on the street, with no identity in the sys-
+tem, your rep is all that you’ve got. To shadowrunners 
+and others who exist between the cracks of society, how 
+they are known (and who knows them) is the only piece 
+of information that stays with them, and carries any sig-
+nificance. A good reputation gives a person respect and 
+influence among their peers, allowing them to more 
+easily acquire equipment and favors. Conversely, a bad 
+rep can make dealing with anyone in the shadows more 
+difficult. In Shadowrun, a character’s reputation is broken 
+down into three separate scores, each tracking separate-
+ly: Street Cred, Notoriety, and Public Awareness.
+STREET CRED
+Street Cred represents a character’s lifetime accom-
+plishments. The more they’ve done and accomplished, 
+the more respected they’ll be by their peers. A charac-
+ter’s Street Cred score is based on the character’s total 
+Karma earned. For every full 10 Karma that a charac-
+ter earns, they gain a point of Street Cred. Thus, Street 
+Cred equals the character’s total Karma, divided by 10, 
+always rounded down (though other factors may ad-
+just it, such as sacrificing Street Cred to reduce Noto-
+riety. At the gamemaster’s discretion, additional Street 
+Cred points can be awarded for particularly noteworthy 
+accomplishments. Street Cred is applied as a positive 
+Limit Modifier to all Social Tests in situations where the 
+character’s reputation would be known.
+NOTORIETY
+Notoriety represents the negative side of the charac-
+ter’s reputation. If they are difficult to work with, stub-
+born, unskilled, fatally flawed, or prone to failure, word 
+is going to get around about them. Notoriety can also 
+reflect callousness, untrustworthiness, and any evil as-
+pects to a character’s personality that might spur oth-
+ers to steer clear of her. Each character starts off with a 
+Notoriety of 0. Modify this according to the following 
+qualities possessed by the character (plus one point 
+per negative quality, minus one point per positive qual-
+ity, to a minimum of 0)
+Positive Qualities: Blandness, First Impression, 
+Lucky
+Negative Qualities: Addiction, Bad Luck, Combat 
+Paralysis, Elf Poser, Gremlins, Incompetent (any skill), 
+Ork Poser, Scorched, SINner (criminal SIN only), Spirit 
+Bane, Uncouth, Uneducated, Weak Immune System
+During play, a gamemaster may award a point of No-
+toriety for actions that would be a stain on the charac-
+ter’s reputation in the shadow community. Some exam-
+ples include:
+•	
+Refusing to finish a run
+•	
+Insulting or otherwise pissing off a Mr. Johnson
+•	
+Incredibly obnoxious or callous behavior
+•	
+Betraying team members
+•	
+Killing innocents
+•	
+Earning a powerful enemy
+•	
+Knowingly working for a dragon
+•	
+Exceptional bad luck that leads to disaster
+Characters cannot earn a Notoriety point for some-
+thing for which they have already received a point. 
+Notoriety points exist as a consequence for unrealistic 
+amoral behavior, including frivolous killing streaks by 
+player characters. High Notoriety characters are likely 
+to find working in the shadows increasingly difficult as 
+contacts and others become less willing to help them.
+A character can reduce their Notoriety by perma-
+nently sacrificing 2 points of Street Cred for every 1 
+point of Notoriety.
+PUBLIC AWARENESS
+Public Awareness represents how well the character 
+is known among the media, authorities, and public 
+at large. With only a few exceptions, shadowrunners 
+are always working to ensure that the public doesn’t 
+know anything about who they are or what they have 
+done. Corporations and other power groups hire run-
+ners when they want something taken care of quietly 
+without a great deal of public attention drawn to it. So 
+if a runner is doing their job, the public should never 
+know about them. The best shadowrunner is one that 
+Joe Wageslave has never heard of. Only when some-
+thing goes wrong, or the situation is unavoidable, do 
+the actions of a runner become public.
+In much the same way as Notoriety, the gamemaster 
+determines when the actions of a runner should be award-
+ed a point of Public Awareness. Some examples include:
+•	
+Fighting with law enforcement or some other 
+High Threat Response team
+•	
+Extracting a well-known person
+•	
+Blowing something up in a populated area
+•	
+Leaving significant physical evidence
+•	
+Being seen by many eyewitnesses
+•	
+Broadcasting or posting videos of your crimes 
+on your Matrix fansite
+How well the public actually knows a runner is de-
+termined by the level of their Public Awareness. Wheth-
+>> GAMEMASTER ADVICE <<
+372    Reputation >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p378 =====
+er an individual person knows a runner can be deter-
+mined using the Public Awareness Level Table below.
+LIFESTYLES
+At the end of the night, every runner has to have a 
+place to come home to. That place where they hang 
+up their SMG, spells, deck, or drone. A character must 
+select one of the lifestyles below to be their primary 
+Lifestyle—this represents the general affluence of their 
+day-to-day life. They may elect to pay other lifestyle 
+costs as well to represent maintaining separate resi-
+dences for alternate identity or “safehouse” purposes 
+but must pay full cost on all lifestyles they maintain.
+LUXURY
+This lifestyle offers the best of everything: ritzy digs, 
+lots of high-tech toys, the best food and drink, you 
+name it. The character has a household staff, maid ser-
+vice, or sophisticated drones to do the chores. She gets 
+by in her massive mansion, snazzy condo, or the pent-
+house suite in a top hotel. Home security is top-of-the-
+line, with well-trained guards, astral security, and quick 
+response times. Her home entertainment system is 
+better than that in public theaters and accessible from 
+anywhere in the home. She’s on the VIP list at several 
+exclusive restaurants and clubs, both real and virtual. 
+This is the life for the high-stakes winners in the world 
+of Shadowrun: high-level executives, government big 
+shots, Yakuza bigwigs, and the few shadowrunners 
+who pull off the big scores (and live to spend their pay).
+Cost: 100,000 nuyen a month and up!
+HIGH
+A High lifestyle offers a roomy house or condo, good 
+food, and the technology that makes life easy. The 
+character may not have the same perks as the really big 
+boys, but neither does she have as many people gun-
+ning for her. Her home is in a secure zone or protected 
+by good, solid bribes to the local police contractor and 
+gang boss. She has a housekeeping service or enough 
+tech to take care of most chores. This is the life for the 
+well-to-do on either side of the law: mid-level manag-
+ers, senior Mob bosses, and the like.
+Cost: 10,000 nuyen a month
+MIDDLE
+The Middle lifestyle offers a nice house or condo with 
+lots of comforts. Characters with this lifestyle some-
+times eat nutrisoy as well as higher-priced natural food, 
+but at least the autocook has a full suite of flavor fau-
+cets. This is the lifestyle of ordinary wage-earners or 
+reasonably successful criminals.
+Cost: 5,000 nuyen a month
+LOW
+With this lifestyle, the character has an apartment, 
+and nobody is likely to bother her much as long as 
+she keeps the door bolted. She can count on regular 
+meals; the nutrisoy may not taste great, but at least it’s 
+hot. Power and water are available during assigned ra-
+tioning periods. Security depends on how regular the 
+payments to the local street gang are. Factory workers, 
+petty crooks, and other folks stuck in a rut, just starting 
+out, or down on their luck tend to have Low lifestyles.
+Cost: 2,000 nuyen a month
+SQUATTER
+Life stinks for the squatter, and most of the time so does 
+the character. She eats low-grade nutrisoy and yeast, 
+adding flavors with an eyedropper. Her home is a squat-
+ted building, perhaps fixed up a bit, possibly even con-
+verted into barracks or divided into closet-sized rooms 
+and shared with other squatters. Or maybe she just rents 
+a coffin-sized sleep tank by the night. The only thing 
+worse than the Squatter lifestyle is living on the streets.
+Cost: 500 nuyen a month
+STREETS
+The character lives on the streets—or in the sewers, 
+steam tunnels, condemned buildings, or whatever tem-
+porary flop she can get. Food is wherever the character 
+finds it, bathing is a thing of the past, and the charac-
+ter’s only security is what she creates for herself. This 
+lifestyle is the bottom of the ladder, inhabited by down-
+and-outers of all stripes.
+Cost: Hey pal, life ain’t all bad. It’s free.
+HOSPITALIZED
+This special lifestyle applies only when a character is sick 
+or injured. The character is confined to a hospital: a real 
+PUBLIC AWARENESS TABLE
+RATING AWARENESS
+0–3
+Unheard of outside the shadow community
+4–6
+Known to those who watch the shadows—
+conspiracy theorists, specialty law 
+enforcement
+7–9
+Known by those in the know, investigative 
+journalists, law enforcement, some 
+government officials
+10+
+Household name, sim and trid stars portray 
+the character in movies
+>> GAMEMASTER ADVICE <<
+<< Lifestyles    373
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p379 =====
+one, a clinic equipped as a hospital, or a private location 
+with the necessary equipment. Characters cannot own 
+this lifestyle. They only pay for it until they get well or go 
+broke, whichever comes first.
+Cost: 500 nuyen a day for basic care, 1,000 nuyen a 
+day for intensive care.
+LIFESTYLE OPTIONS
+Not every location is exactly the same. One may have 
+a distinct advantage or disadvantage over another; it’s 
+all about the location. The following options can be se-
+lected for any of the lifestyles except Streets or Hos-
+pitalized. The gamemaster may disallow any of these 
+options if they wouldn’t be plausible for the character’s 
+described residence, or if there is no chance of the bo-
+nus or penalty listed ever coming into play.
+SPECIAL WORK AREA
+The place has a workshop, garage, office, studio, or 
+other kind of large area that can hold a specialized 
+work space of some kind. Specialized equipment can 
+be set up “just the way you like it” so tasks can be ac-
+complished quickly and easily. Skill checks relevant to 
+the setting have their Limit increased by 2 when per-
+formed in this space.
+Cost: +1,000 nuyen a month
+EXTRA SECURE
+Security where you live is particularly tight. The neigh-
+borhood may be surrounded by a wall, guarded by vigi-
+lant security contractors, patrolled by an altruistic gang, 
+or near some particularly powerful individual that no 
+one wants to mess with. Whatever the case, the securi-
+ty of the living space is above average for the area. All 
+High Threat Response (see p. 356) and other securi-
+ty response rolls are made at one level better than the 
+area would normally be.
+Cost: +20 percent of the lifestyle
+OBSCURE/DIFFICULT TO FIND
+You live where? The corner of what and what? Your place 
+is particularly difficult to find or in an obscure, not-well-
+known area of the city. Everyone needs directions, or a 
+good map, to find your place and even then they often 
+get lost. You’ve given up on the pizza delivery guy, you 
+just meet him at the nearest intersection. Any Sneaking 
+Skill checks (owner of the property excluded) made in the 
+vicinity of the residence are made with a –2 penalty.
+Cost: +10 percent of the lifestyle
+CRAMPED
+It’s not small, it’s just cozy—or at least that’s what the 
+landlord said. There is just enough space in your place 
+to live, and not do a whole lot else. Forget doing any 
+hobbies or work, or even stretching your legs when you 
+sit down—there just isn’t the room. Any Skill checks tied 
+to Logic have their Limit reduced by 2 (to a minimum of 
+1) when performed in this space.
+Cost: –10 percent of the lifestyle
+DANGEROUS AREA
+Isn’t that where a guy got shot yesterday? The area you 
+live in is particularly dangerous and prone to crime, 
+including violence. Security and law enforcement are 
+overwhelmed in the area, so will only respond to the 
+most desperate need and will often be slower to re-
+spond. People in the area generally look out for them-
+selves. Hey, at least your rent is cheaper, just don’t 
+keep any fancy stuff in your place. Any High Threat Re-
+sponse (see p. 356) or other similar security response 
+rolls are made as if this area were one level lower than 
+it actually is.
+Cost: –20 percent of lifestyle
+PAYING THE BILLS
+Obviously, a character has to pay the cost of their life-
+style(s) each month. Prepayments can be made for any 
+number of months, but landlords are highly unlikely to 
+refund the money later.
+If a payment is missed there is a chance that the char-
+acter will end up losing the lifestyle. Each time a payment 
+is missed, roll 1 die. If the result is greater than the num-
+ber of consecutive months of payments missed, then the 
+landlord has let them slide, for now. Payments must still 
+be made up later, however. If the die result is less than or 
+equal to the number of months missed, the character is 
+out the door. If this is not the primary lifestyle, then the 
+unit is lost. If the character missed payments on their 
+primary lifestyle, downgrade the lifestyle one level. This 
+represents the character having some items repossessed, 
+seized, and/or sold in order to forcibly pay debts, and 
+they are evicted from wherever they are living. At the 
+gamemaster’s discretion, the character may also still owe 
+some of the back rent to some kind of creditor. This may 
+be a legit bank or loan company, or someone more un-
+scrupulous such as a loan shark or criminal syndicate.
+Overall, dealing with the character’s lifestyle is more 
+of a roleplaying opportunity than anything else. Game-
+masters and players are encouraged to make an interest-
+ing and dramatic story out of the situation.
+BUYING A LIFESTYLE
+A character can permanently buy a given lifestyle by 
+making a payment equal to 100 months’ upkeep. For 
+example, ten million nuyen buys a permanent life of 
+luxury. This sum represents investments, trust funds, 
+and so on that take care of payments. 
+Nothing in life is certain, however. A character can 
+lose a permanent lifestyle through an enemy’s action or 
+>> GAMEMASTER ADVICE <<
+374    Lifestyles >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p380 =====
+through sheer bad luck. A hacker can rip investments to 
+shreds, or enemies can blow real estate holdings into 
+scrap. These things depend on how the character’s sto-
+ry unfolds, not on how much is her bank account at the 
+time. If a player wishes, her character can sell a perma-
+nent lifestyle of Middle or better. If the character has a 
+couple of months to broker a legitimate deal, roll 2D6. 
+Multiply the result by 10 percent to determine what per-
+cent of the purchase price the character gets paid for 
+her various holdings. If the character doesn’t have the 
+SINner quality (see p. 84), roll only 1D6. Also roll 1D6 if 
+the character must dump her home and possessions fast 
+or through an agent because she is on the run.
+TEAM LIFESTYLES
+If a team is particularly tight-knit and lives together (or 
+if a few members of a team want to shack up), they can 
+buy a joint team lifestyle. The cost is an extra ten percent 
+per additional person. If the team is purchasing a Low 
+Lifestyle or higher, one member of the team has to be 
+the tenant of record. This is the one stuck with the debt 
+if the team doesn’t keep up payments.
+RUN REWARDS
+After a run is completed it’s time to calculate and hand 
+out the rewards to the players in the form of Karma 
+and cash (or any kind of material reward). Karma and 
+cash rewards are given to each player that participated. 
+Generally the cash reward portion is negotiated at the 
+beginning of the adventure—often in a classic “meet 
+Mr. Johnson” scene—while Karma rewards are given 
+after the adventure.
+Gamemasters have the freedom to set up pay as they 
+see fit, but these optional guidelines can help  make that 
+task easier while also building consistency from game to 
+game. Note also that rewards may be supplemented by 
+bonus equipment allowances as the gamemaster sees fit. 
+CASH
+It’s all about the nuyen isn’t it? All your problems will 
+go away if you could just get a little bit more. What you 
+score on a run isn’t enough, but maybe it will help. The 
+Run Payment table below outlines a recommended 
+amount to be awarded to each player to perform a run.
+To calculate the payment for a run, start with the 
+base cost of 3,000 nuyen. The base cost represents the 
+starting point for employing a runner. This rate may be 
+increased by 100 nuyen per net hit on a Negotiation Test 
+at the start of the run.
+Once you know the base cost, calculate the mul-
+tiplier. The first part of the multiplier is the highest 
+opposing dice pool of the opposition, divided by 4 
+(rounded down). This is the total Skill + Attribute of 
+any NPC that will be directly opposing the players in a 
+meaningful way. The dice pool has to be for an Active 
+Skill, not a Knowledge Skill, and it needs to be a skill 
+that was used against the players. For example, if the 
+highest opposing dice pool is 12 (Hacking 6 + Logic 6) 
+from an ace decker looking for the same paydata as the 
+players, they should only count that pool if they hack 
+against the decker. If instead they only encounter the 
+decker in a gunfight and he (for some reason) doesn’t 
+break out his hacking skills during the fight, they cannot 
+count his Hacking dice pool as the highest opposing 
+dice pool they faced. The value should be calculated 
+using any permanent enhancements that the NPC has 
+to the skill or attribute (such as cyberware or magic) 
+but should not include any equipment bonuses, or con-
+ditional or situational modifiers. Divide the total dice 
+pool by 4 and you have the first part of the multiplier.
+After that, add other values to the multiplier based 
+on the danger of the mission including both modifiers 
+in the table on p. 376 and modifiers developed by the 
+gamemaster. Once all appropriate values are added, 
+multiply it by the base cost.
+Once you have applied the multiplier, one of three 
+cost modifiers should be applied. These modify the 
+amount of nuyen given for a run based on the nature 
+of the work. Standard run is what most of the shad-
+owruns in 2075 will be—they’re the kind of extraction, 
+espionage, or expropriation that happens all the time. 
+There are, however, certain kinds of jobs that many run-
+ners tend to shy away from; runs that have an even more 
+questionable moral dilemma than normal. These can 
+include assassination (of a relatively innocent person), 
+helping corporations exploit people for profit, illegal 
+drug running, slavery, or any number of things that even 
+runners find deplorable. Payment for these kinds of runs 
+tend to be higher since many runners won’t take the job 
+(and if you do it, don’t expect anyone to like you after-
+ward). On the other hand, there are runs that leave you 
+with warm fuzzies on the inside when you’re done. The 
+kind of runs that even your mom would be proud of you 
+for doing. These include hooding (or doing something 
+for no payment at all), helping out the downtrodden, 
+and generally sticking it to the man and helping out the 
+little guy. These runs generally pay less, but hey, happi-
+ness is its own reward right?
+SAMPLE RUN COST 
+CALCULATIONS
+If runners are sent to steal a sword belonging to a Hal-
+loweeners gang member, the base cost is 3,000 nuy-
+en. This is then multiplied by the highest opposing dice 
+pool, which would be either the Pistols pool 6 or, if the 
+gang attempted to use their Street specialization in Et-
+iquette as part of the mission, 7. Either way, the multi-
+plier rounds down to 1. With no other factors coming 
+into play, this makes the pay 3,000 nuyen per runner. If 
+the runners fought the gangers and were outnumbered 
+>> GAMEMASTER ADVICE <<
+<< Run Rewards    375
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p381 =====
+three to one, the multiplier becomes 2, giving the run-
+ners 6,000 nuyen apiece.
+Now let’s say the sword belongs to a Halloween-
+er lieutenant instead, and he gets a chance to use his 
+Browning Ultra-Power in combat. This has a dice pool 
+of 8, making for a multiplier of 2. The base cost for this 
+mission is 6,000 nuyen; the multiplier jumps to 3 if the 
+runners are outnumbered three-to-one, making base 
+pay 9,000 nuyen apiece.
+The runners may instead be stealing the sword from 
+the Mafia. The highest dice pool is 10 for a regular grunt, 
+but 13 for a lieutenant, meaning that absent any other 
+factors base pay will start at 6,000 per person, 9,000 if 
+they go up against a lieutenant. That lower number will 
+jump to 9,000 if they are outnumbered two-to-one by 
+the Mafiosi at any point, due to the fact that they have 
+a Professional Rating of 4. If the job involves killing one 
+of the Mafia goons, then 10 percent could be added to 
+cost, making it 9,900 nuyen, which could be rounded to 
+an even 10,000. If it involves taking from the Mafia to 
+give some resources to some poor neighborhood resi-
+dents the criminals have been exploiting, the cost would 
+drop by 10 percent, down to 8,100.
+What about a really big payday? What if the runners 
+are foolish enough to accept a job that sends them into 
+the teeth of a Sioux Wildcats lieutenant? The highest 
+opposing dice pool is 18, making the multiplier start 
+at 4. This is definitely a notably dangerous element of 
+the Sixth World, so the multiplier jumps by 1 to 5. The 
+lieutenant is not likely to be alone, so the multiplier will 
+probably climb to 6 thanks to the runners being out-
+numbered two-to-one by enemy soldiers. The Wildcats 
+stand a good chance of having some critters at their 
+beck and call, adding one more to the multiplier, which 
+now stands at 7. This means the base price for this very 
+dangerous job is 21,000 nuyen per runner. They’ll have 
+plenty of cash to spend—if they survive.
+KARMA
+Cash may get you fancy gear, but it’s experience that really 
+wins the day on the street. The other half of a run’s reward 
+comes in the form of Karma. Karma is a representation 
+of all the intangibles gained in life on the streets: expe-
+rience, intuition, and sometimes luck. Karma is awarded 
+to each player after a run has been completed (for better 
+or worse) by consulting the following table. Some Karma 
+comes from contributing to group objectives.
+Add up the values for all the appropriate situations in 
+the Karma Rewards table, then apply one of the Karma 
+Modifiers from the bottom of the table. These are the 
+same modifiers used to adjust the cash payment for the 
+run from the Cash Rewards table. If one modifier was 
+used for the Cash Rewards, the same modifier should be 
+used for the Karma rewards.
+>> GAMEMASTER ADVICE <<
+CASH REWARDS
+BASE COST
+3,000¥
+SITUATION
+MODIFIERS
+Highest opposing Dice Pool
++ (Dice Pool / 4)
+Runners were outnumbered three to one in 
+a combat situation
++1
+Runners were outnumbered two to one in a 
+combat situation by NPCs with Professional 
+Rating 4 or higher (not cumulative with 
+modifier listed above)
++1
+Runners faced a pack of at least six critters
++1
+Runners encountered at least three different 
+spirits (besides watchers) in a single 
+encounter
++1
+Runners accomplished the task with 
+impressive speed and/or subtlety
++1
+Runners risked public exposure or a raised 
+profile as a natural part of the run*
++1
+Job brings runners into direct contact with 
+a notably dangerous part or element of Sixth 
+World lore (the Red Samurai, a Mitsuhama 
+Zero Zone, etc.)
++1
+COST MODIFIERS
+Standard run
+0%
+(nothing special, normal work for a runner)
+Run will make you a cold-hearted bastard
++10-20%
+(wetwork, helping corps oppress people, 
+drug running, human trafficking)
+Run has good feelings as part of its reward
+–10-20%
+(hooding, helping the little guy, taking 
+some “dys” out of “dystopia”)
+376    Run Rewards >>
+KARMA REWARDS
+SITUATION
+KARMA
+Character survived
+2
+Group complete all objectives
+2
+Group completed some objectives
+1
+Overall adventure challege
+(Highest 
+opposed Dice 
+Pool / 6 (round 
+down)
+KARMA MODIFIERS
+Standard run
+0
+Cold-hearted bastard run
+–2
+Good feelings run
++2
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p382 =====
+>> GAMEMASTER ADVICE <<
+<< Run Rewards    377
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p383 =====
+Let’s face it, chummers: It’s a big, mean Sixth World out 
+there, and your characters aren’t in it by themselves. 
+There are all sorts of other people and things out there 
+that, sooner or later, they’re going to have to deal with. 
+Some of them will be friendly and try to help your char-
+acter out when he’s in a tight spot; others will try to 
+shoot your character in the face, or eat him, or other-
+wise get in the way of his success.
+This chapter will show you a few things on each 
+side. It’s divided into three sections. The first deals with 
+non-player characters (NPCs), the people your player 
+characters (PCs) will interact with through the course of 
+the game. The second deals with critters, both normal 
+and paranormal, that might be encountered along the 
+way, for better or for worse. Usually worse. The third sec-
+tion deals with drugs and other toxins which can be used 
+both professionally and recreationally.
+NON-PLAYER 
+CHARACTERS
+If the player characters are the stars of their own dra-
+ma, non-player characters (NPCs) are their supporting 
+cast. From the megacorporate CEO to the dwarf squat-
+ter living in a box in an alley, from the dragon in the 
+boardroom to the clerk at the Stuffer Shack, NPCs are 
+the people filling the PCs’ world, the people they talk to, 
+fight with, and otherwise encounter. They walk the same 
+streets, stab the same backs, and sell the same secrets as 
+the PCs. They’re how the gamemaster interacts with the 
+players to tell the story.
+Shadowrun is a role-playing game, and by its nature 
+is interactive. Dealings between PCs and NPCs will, for 
+the most part, rely upon the role-playing of the players 
+and the gamemaster. There will be times, though, when 
+role-playing isn’t going to be enough. Sometimes, talking 
+doesn’t get the job done, and things get messy. At times 
+like that, just knowing the character’s motivation and atti-
+tude aren’t enough; you need to know what they can do.
+Typically, the gamemaster will customize NPCs for 
+the adventure or campaign they’re running. They fill a 
+lot of different roles, after all, and each campaign has a 
+different tone and feel. The NPCs should provide some 
+challenge to the PCs, or be of enough assistance to 
+them, and the gamemaster should keep this in mind as 
+he puts them together. Even if their life circumstances 
+aren’t comfortable, they should fit comfortably into the 
+story that’s being told.
+While he should customize the NPCs, it’s often help-
+ful for the gamemaster to have something to start with. 
+Players are unpredictable, and the gamemaster might 
+not have anticipated the tangent they’ve taken. This sec-
+tion provides some basic NPCs that the gamemaster can 
+use. It also has advice and guidelines on how to run NPCs 
+in different ways. They can be grunts or prime runners, 
+faceless opposition or major characters who will have a 
+significant impact on the lives of the PCs. Or they could 
+be something in between, or neither. They might be peo-
+ple the PCs know, contacts who help and guide them—
+for a price. While most NPCs will fit into these categories, 
+not all of them will, and the gamemaster shouldn’t feel 
+obligated to force the issue. Some NPCs are vital to the 
+story; others are merely set decoration.
+GRUNTS
+Sooner or later in every story in the Sixth World, the 
+protagonists will meet up with a group of antagonists. 
+These can range from a go-gang to an elite corporate 
+security squad. The power level doesn’t really matter; 
+they’re nameless and faceless, and they all have basi-
+cally the same abilities. They might be next to useless 
+or they might be extraordinarily dangerous, but they’re 
+still interchangeable henchmen and minions.
+They’re grunts.
+Grunts are NPCs that can be grouped together be-
+cause they have virtually identical game statistics. 
+They’re most easily handled by the gamemaster in 
+groups, with one set of attributes and skills for every-
+body. Different groups of similar grunts might have dif-
+ferent specializations added to some of their basic skills.
+They likewise all have similar equipment and weap-
+ons, though there might occasionally be a surprise in 
+the group. One of the gangers might be a street witch, 
+or one of the security guards might be toting an assault 
+rifle when the rest are armed with pistols. The gamemas-
+ter should make a note of these special cases, and make 
+sure that they give the specialist the appropriate skill to 
+SECTION.10
+HELPS AND
+HINDRANCES
+378    Non-Player Characters >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p384 =====
+make the proper use of his exceptional 
+gear or ability. Specialist grunts are good 
+for keeping the players and their charac-
+ters honest and off their guard; it’s easy 
+to fall into the trap of thinking all grunts 
+are identical. Don’t go too far, though; 
+you should limit such specialists to one 
+or two per group of grunts. This helps 
+make bookkeeping easier.
+Another way to make bookkeeping 
+easier for the gamemaster is to stream-
+line Initiative in combat by making a sin-
+gle Initiative Test for the entire group of 
+grunts, although augmented specialists can make one 
+of their own if the gamemaster so chooses. The result 
+of this test applies to all the grunts, though some mod-
+ifiers, specifically injury modifiers, might cause some of 
+the grunts to act on a different Initiative Score than the 
+rest of their team.
+CONDITION MONITORS
+Grunts are easier for the gamemaster to manage than 
+other NPCs (and they’re easier for the PCs to mow 
+down). Grunts have only one Condition Monitor, which 
+is used to track both Physical and Stun damage. This 
+Condition Monitor has boxes equal to 8 plus half of ei-
+ther Body or Willpower (whichever is higher), rounded 
+up. All damage taken by a grunt, whether it’s Physical 
+or Stun, is tracked on this one Condition Monitor; when 
+it’s full, the grunt is out of action for the rest of the fight. 
+Grunts don’t get overflow damage like PCs do.
+It might become necessary to know whether a grunt 
+is alive or dead at the end of the combat. For instance, 
+you might want to interrogate one of them to find out 
+who sent them after you. In such cases, make a note of 
+the type of damage that knocked the grunt out. If it was 
+Stun damage, or Physical damage less than the grunt’s 
+Body, he’s alive, at least momentarily. If the final attack 
+was Physical, and the damage was greater than the 
+grunt’s Body, then he’s dead.
+PROFESSIONAL RATING
+Some teams are just better trained than others. Play-
+ers may find themselves facing craven, white-hooded 
+thugs one day, and the next they’re up against a bat-
+tle-hardened, high-threat security squad. The former 
+will break and run at the first sign of trouble; the latter 
+will probably have the upper hand on the PCs. The dif-
+ference is the Professional Rating, a rating that mea-
+sures the group’s determination and how well they can 
+handle facing a team of shadowrunners.
+The Professional Rating measures relative overall 
+experience and discipline of a team. It’s used as a dice 
+pool modifier for resisting Social Skill Tests, and it deter-
+NPC AND CRITTER STATS
+	ABBREVIATION. . . . ATTRIBUTE	
+ABBREVIATION. . . . . . ATTRIBUTE
+	
+B. . . . . . . . . . . . . . . . . . Body	
+A. . . . . . . . . . . . . . . . . Agility
+	
+R. . . . . . . . . . . . . . . . Reaction	
+S. . . . . . . . . . . . . . . . Strength
+	
+W. . . . . . . . . . . . . . Willpower	
+L. . . . . . . . . . . . . . . . . Logic
+	
+I. . . . . . . . . . . . . . . . Intuition	
+C. . . . . . . . . . . . . . . Charisma
+	
+E. . . . . . . . . . . . . . . . . . Edge	
+Ess. . . . . . . . . . . . . . . Essence
+	
+M. . . . . . . . . . . . . . . . Magic	
+Res. . . . . . . . . . . . . . Resonance
+	
+Init. . . . . . . . . . . . . . . Initiative
+MOWING THEM DOWN
+Sometimes, even the reduced paperwork of using 
+grunts is too much to keep track of. For situations 
+like that, here are some optional rules to help speed 
+things up even more:
+•	 A single wound takes a grunt down.
+•	 Normal resistance rules don’t apply to grunts; all 
+rolls made against them are unopposed. Most 
+spells go off unhindered, and grunts do not roll to 
+dodge ranged attacks.
+•	 If a PC makes any hits on a Sneaking Test, grunts 
+are automatically surprised.
+•	 If they see the shadowrunners coming, grunts 
+may attempt to ambush them, but the ambush 
+automatically fails.
+<< Non-Player Characters    379
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p443 =====
+Nonconductivity: Electrical insulation and non-con-
+ductive materials protect the wearer against Electricity 
+damage (p. 170). Add the full rating of this modification 
+to the Armor value when resisting Electricity attacks.
+Shock frills: These strips of “fur” are electrically 
+charged when activated, standing on end and inflicting 
+Electricity damage to anyone that touches you. Use Un-
+armed Combat to attack with the frills. The frills hold 10 
+charges; when attached to a power point, they recharge 
+one charge per 10 seconds.
+Wireless: The shock frills can be activated or deacti-
+vated as a Free Action. They can also recharge by induc-
+tion, recharging one charge per hour.
+Thermal damping: Designed to reduce your thermal 
+signature, these inner layers capture or bleed heat, so the 
+outer layers maintain a surface temperature equal to the 
+surrounding air. Add the rating to your limit on any Sneak-
+ing test against thermographic vision or thermal sensors.
+Wireless: The suit uses the extra information about your 
+surroundings and also gives you its rating as a dice pool 
+bonus to Sneaking tests against heat-based detection.
+HELMETS AND SHIELDS
+Instead of counting as separate pieces of armor, hel-
+mets and shield modify the rating of worn armor by 
+their Rating (Armor and Encumbrance, p. 169).
+Due to the awkwardness of holding a shield, if you’re 
+using one you take a –1 modifier to your Physical limit 
+when you do something where the shield might get in 
+the way (though not attacks made using the shield as a 
+weapon). Shields may be upgraded with the chemical 
+protection, fire resistance, and nonconductivity armor 
+modifications and have a Capacity equal to their Armor 
+Rating for this purpose. 
+Helmet: Helmets come in a wide variety of shapes 
+and sizes and protect your noggin from trauma. Helmets 
+have Capacity 6 for being tricked out with accessories 
+like trode nets and vision enhancements.
+Ballistic shield: This large opaque shield is used by 
+SWAT teams and in urban combat. It features a clear 
+plastic window and a built-in ladder frame along the in-
+side so that it can be used to climb over small obstacles.
+Riot shield: As an added crowd control measure, a 
+riot shield can be used to shock anyone who comes into 
+contact with it, inflicting Electricity damage (p. 170). The 
+taser shield holds 10 charges; when attached to a power 
+point, it regains one charge per 10 seconds.
+Wireless: The riot shield recharges by induction, re-
+charging one charge per hour.
+ELECTRONICS
+For complete coverage of the Matrix attributes used by 
+electronic equipment, see Devices, p. 219.
+COMMLINKS
+Commlinks are universal communication devices; they’re 
+used by everyone all the time. Commlinks are essentially 
+the digital Swiss army knives of the modern world. Even 
+the most basic of them includes AR Matrix browsing ca-
+pability, multiple telephone and radio modes of real-time 
+talk and text, music players, micro trid-projectors, touch-
+screen displays, built in high-resolution digital video and 
+still image cameras, image/text and RFID tag scanners, 
+built-in GPS guidance systems, chip players, credstick 
+readers, retractable earbuds, voice-access dialing, text-
+to-speech and speech-to-text technologies, and a shock 
+and water resistant case. And all of this at an inexpensive 
+price that a few decades ago would have seemed absurd.
+Sim Module: This commlink upgrade gives you 
+the simsense experience, translating computer data 
+into neural signals that allow you to directly experi-
+ence simsense programs and augmented reality. A sim 
+module must be accessed via a direct neural interface 
+(trodes, datajack, or implanted commlink). Sim mod-
+ules are a must-have for virtual reality of sorts, includ-
+ing VR clubs, VR games, simsense, and darker virtual 
+pleasures. Sim modules can be modified for hot-sim, 
+which opens up the full (and dangerous) range of VR 
+experiences.
+>> STREET GEAR <<
+ARMOR
+MODIFICATION
+CAPACITY
+AVAIL
+COST
+Chemical Protection
+[Rating]
+6
+Rating x 250¥
+Chemical Seal
+6
+12R
+3,000¥
+Fire Resistance
+[Rating]
+6
+Rating x 250¥
+Insulation
+[Rating]
+6
+Rating x 250¥
+Nonconductivity
+[Rating]
+6
+Rating x 250¥
+Shock Frills
+2
+6R
+250¥
+Thermal Damping
+[Rating]
+10R
+Rating x 500¥
+ARMOR
+HELMETS/SHIELDS
+ARMOR 
+RATING
+AVAIL
+COST
+Helmet
++2
+2
+100¥
+Ballistic shield
++6
+12R
+1,200¥
+Riot shield
++6
+10R
+1,500¥
+EXOTIC MELEE 
+WEAPON
+ACCURACY
+REACH
+DAMAGE
+AP
+Ballistic shield
+4
+—
+(STR + 2)S
+—
+Riot shield
+4
+—
+9S(e)
+–5
+438    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p444 =====
+CYBERDECKS
+If you were a decker and someone swung a monofil-
+ament claymore at you, you’d protect your cyberdeck 
+with your body, and not the other way around. This isn’t 
+just because the things are fraggin’ expensive—cyber-
+decks (or decks) are a decker’s life’s blood, an all-in-
+one ticket to hacking the planet. The most common 
+form of a deck is a smooth, flat, elongated rectangle, 
+slim with plenty of display space for touch controls, al-
+though they can take many forms. For more informa-
+tion about them, see Cyberdecks, p. 227.
+All cyberdecks include illegal hot-sim modules right 
+out of the box.
+ELECTRONICS ACCESSORIES
+Unless otherwise noted, these accessories are compat-
+ible with commlinks, cyberdecks, and (with the game-
+master’s permission) other electronic devices. 
+AR gloves: Available in numerous styles, AR gloves 
+allow you to manually interact with the Matrix in Aug-
+mented Reality mode, letting you “touch” and “hold” 
+virtual AROs and receiving tactile force-feedback. AR 
+Gloves can provide the exact weight, temperature, and 
+hardness of touched or held objects, and more at the 
+gamemaster’s discretion.
+Biometric reader: Sometimes someone online likes 
+to know it’s really you. This handheld device can be used 
+for fingerprints, retina scans, voice patterns, tongue 
+prints—pretty much anything but a DNA scan. You can 
+use it to lock your electronics so only you (or one of your 
+body parts) can unlock it. 
+Electronic paper: This electronic sheet is anywhere 
+from post-it note to poster sized, and it can be folded 
+or rolled up. It digitally displays images, text, data, or 
+video and can act as a touchscreen. Electronic paper 
+is wireless and can be written on or erased wirelessly. 
+Sometimes hacker gangs cover the surfaces of buildings 
+in electronic paper so they are constantly changing and 
+overwritten with graffiti that can be seen even by people 
+with their AR image-links turned off.
+Printer: In case you need something in hardcopy 
+(perhaps if Mr. Johnson hired you through a time portal), 
+this full-color printer comes attached to a paper supply.
+Satellite link: This allows the user to uplink to com-
+munication satellites in low-Earth orbit, connecting to 
+the Matrix from places where no local wireless networks 
+exist (which is rare but unfortunately extant). This link 
+limits Noise due to distance to –5. Includes a portable 
+satellite dish.
+Simrig: This simsense recorder can record experience 
+data (sensory and emotive) from you or whoever is wear-
+ing it. Simrig rigs are used to make most of the simsense 
+chips sold on the market. You’ll need to have a working 
+sim module (with the DNI interface) to make a recording.
+Subvocal microphone: The next best thing to te-
+lepathy is the ability to stage-whisper at any range. At-
+tached with adhesive to your throat, this hard-to-spot 
+microphone lets you communicate via subvocalized 
+speech. A –4 dice pool modifier is applied to Perception 
+Tests to overhear you when you’re subvocalizing.
+Trid projector: This device projects a trideo hologram 
+into a five-meter cube right next to or above the device. 
+The hologram can be quite realistic, but unless you’re re-
+ally artistic about it, it’s pretty obvious that it’s just trid.
+Trodes: Available as a headband, net, or full-on cap, 
+this electrode-and-ultrasound net gives you a direct 
+neural interface. Useful if you’re too squeamish to get 
+a hole drilled in your head for a datajack. Adding this to 
+headgear takes two slots of Capacity.
+HERMES CYBERDECK
+>> STREET GEAR <<
+COMMLINKS
+MODEL
+DEVICE 
+RATING
+AVAIL
+COST
+Meta Link
+1
+2
+100¥
+Sony Emperor
+2
+4
+700¥
+Renraku Sensei
+3
+6
+1,000¥
+Erika Elite
+4
+8
+2,500¥
+Hermes Ikon
+5
+10
+3,000¥
+Transys Avalon
+6
+12
+5,000¥
+Fairlight Caliban
+7
+14
+8,000¥
+Sim module
+—
+—
++100¥
+     w/ hot-sim
+—
++4F
++250¥
+CYBERDECKS
+DECK
+DEVICE 
+RATING
+ATTRIBUTE 
+ARRAY
+PROGRAMS
+AVAIL
+COST
+Erika MCD-1
+1
+4 3 2 1
+1
+3R
+49,500¥
+Microdeck Summit
+1
+4 3 3 1
+1
+3R
+58,000¥
+Microtrónica Azteca 200
+2
+5 4 3 2
+2
+6R
+110,250¥
+Hermes Chariot
+2
+5 4 4 2
+2
+6R
+123,000¥
+Novatech Navigator
+3
+6 5 4 3
+3
+9R
+205,750¥
+Renraku Tsurugi
+3
+6 5 5 3
+3
+9R
+214,125¥
+Sony CIY-720
+4
+7 6 5 4
+4
+12R
+345,000¥
+Shiawase Cyber-5
+5
+8 7 6 5
+5
+15R
+549,375¥
+Fairlight Excalibur
+6
+9 8 7 6
+6
+18R
+823,250¥
+<< Electronics    439
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p445 =====
+RFID TAGS
+These tiny computers (named after old-fashioned ra-
+dio frequency identification tags) form an integral part 
+of every product commercially available in the Sixth 
+World. Ranging in size from microscopic to slightly 
+larger than a price tag, RFID tags have a stick-to-any-
+thing adhesive backing and can be tricky to spot. Tags 
+are used for geo-tagging locations and objects, leav-
+ing a virtual AR message for anyone who comes by, 
+employee tracking, access control, owner-contact in-
+formation for everything from vehicles to pets, vehicle 
+and weapon registration, and so on. They can also be 
+used as tracking devices, periodically transmitting GPS 
+data to the Matrix.
+RFID tags are devices (p. 234) that can hold one or 
+more files, but not much else. The physical location of 
+a tag can be found via the Matrix (Trace Icon, p. 243). 
+Tag data can be erased with a tag eraser (p. 441) or 
+programmed with an Edit File action (p. 239). RFID tags 
+have owners like all other devices, but unlike other de-
+vices a tag’s owner can be changed to “nobody.”
+Datachip: For occasions when you want to transfer 
+data by physical means—like bringing the project specs 
+on the competition’s new cyberdeck to Mr. Johnson 
+in person at the meet—a datachip can hold enormous 
+quantitites of data in a small finger-sized chip, accessible 
+by any electronic device. Datachips have no wireless ca-
+pability, so you need to plug them into a universal data 
+connector (found on any device) if you want to read or 
+write to them.
+Security tags: Security-conscious megacorps often 
+implant these security tags in their sararimen and valued 
+citizens, either to monitor employee workplace produc-
+tivity, grant and deny clearance and security access, or 
+track employees in the case of abduction or extraction 
+(or escape). These same tags are used on incarcerated 
+and paroled criminals, and parents and schools also use 
+them to track students. Security tags cannot be erased 
+with a tag eraser due to EMP hardening. If a tag is im-
+planted under the skin, an Extended Medicine + Logic 
+[Mental] (10, 1 minute) Test is needed to remove it. 
+Sensor tags: A sensor RFID tag can be equipped 
+with a single sensor (sold separately) of up to Rating 2 
+(Sensors, p. 445). It then records everything it can, to a 
+maximum of 24 hours of time, at which point you can 
+program it to either shut off or overwrite data older than 
+24 hours. Sensor tags are often used for diagnostic pur-
+poses in various devices, including cyberware.
+Wireless: You can monitor the data in real time, if 
+you’re the tag’s owner. The tag still records the last 24 
+hours for you.
+Stealth tags: A stealth tag always runs silent (p. 235) 
+and has a Sleaze rating equal to its Device Rating. It’s 
+disguised to not look like RFID tags, which gives it an 
+additional –2 Concealability modifier. Stealth tags are 
+often used as a backup for security tags by megacorps 
+that are security conscious (and sneaky). They can be 
+implanted the same way security tags can.
+COMMUNICATIONS AND 
+COUNTERMEASURES
+Bug scanner: Also called a radio signal scanner, this 
+device locates and locks in wireless devices within 20 
+meters. The scanner can also measure a signal’s strength 
+and pinpoint its location. To operate a bug scanner, roll 
+Electronic Warfare + Logic [Rating]. A device that is run-
+ning silent (like a Stealth tag) can use its Logic + Sleaze 
+to defend against the scan. If you get any net hits at all, 
+you find the device.
+Wireless: You may substitute the scanner’s Rating for 
+your Electronic Warfare skill when you use it.
+Data Tap: You use this hacking tool by attaching it to 
+a data cable. Once it’s clamped onto the cable, you can 
+use it via universal data connector. Any device directly 
+connected to the data tap also has a direct connection 
+with the devices on either end of the cable (see Direct 
+Connections, p. 232) and vice versa. The tap can be re-
+moved without damaging the cable.
+Wireless: The data-tap can be wirelessly command-
+ed to self-destruct as a Free Action, immediately and 
+>> STREET GEAR <<
+ACCESSORIES
+ACCESSORY
+DEVICE 
+RATING
+AVAIL
+COST
+AR Gloves
+3
+—
+150¥
+Biometric reader
+3
+4
+200¥
+Electronic paper
+1
+—
+5¥
+Printer
+3
+—
+25¥
+Satellite link
+4
+6
+500¥
+Simrig
+3
+12
+1,000¥
+Subvocal mic
+3
+4
+50¥
+Trid projector
+3
+—
+200¥
+Trodes
+3
+—
+70¥
+RFID TAGS
+TAGS (PER 10)
+DEVICE 
+RATING
+AVAIL
+COST
+Standard Tags
+1
+—
+1¥
+Datachip
+1
+—
+5¥
+Security Tags
+3
+3
+5¥
+Sensor Tags
+2
+5
+40¥
+Stealth Tags
+3
+7R
+10¥
+440    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p446 =====
+instantly severing the direct connection. This does not 
+harm the cable.
+Headjammer: The headjammer is used by security 
+personnel to neutralize implanted commlinks. When 
+it’s attached to your head (or other body part) and ac-
+tivated, it works in the same way as any other jammer, 
+with its effects limited to you and your augmentations. 
+Removing a headjammer from someone without the 
+proper key requires a Hardware + Logic [Mental] or a 
+Locksmith + Agility [Physical] (8, 1 Complex Action) 
+Extended Test. Removing a Headjammer from your-
+self without the proper key is an Escape Artist + Agility 
+[Physical] (4) Test, requiring a Complex Action.
+Jammer: This device floods the airwaves with electro-
+magnetic jamming signals to block out wireless and ra-
+dio communication. The jammer generates noise equal 
+to its Device Rating. The area jammer affects a spherical 
+area—its rating is reduced by 1 for every 5 meters from 
+the center (similar to the blast rules for grenades). The 
+directional jammer affects a conical area with a 30-de-
+gree spread—its rating is reduced by 1 for every 20 me-
+ters from the center. The jammer only affects devices 
+(and personas on those devices) that are within the jam-
+ming area, but it affects all of them. Walls and other ob-
+stacles may prevent the jamming signal from spreading 
+or reduce its effect (gamemaster’s discretion).
+Wireless: You can set your jammer to not interfere 
+with devices and personas you designate.
+Micro-transceiver: This classic short-range com-
+municator has been favored by professional operatives 
+since the 2050s. It doesn’t do anything special, it just 
+lets you communicate by voice with other micro-trans-
+ceivers and commlinks that you (and the other person) 
+choose, within a kilometer. The micro-transceiver con-
+sists of an ear bud and an adhesive subvocal micro-
+phone (p. 439), both of which are commonly available 
+in hard-to-spot designs.
+Wireless: The micro-transceiver’s range becomes 
+worldwide.
+Tag eraser: This handheld device creates a strong 
+electromagnetic field perfect for burning out RFID tags 
+and other unshielded electronics. It is probably strong 
+enough to destroy a commlink, and you might want to 
+keep it away from your cyberdeck just in case. When you 
+bring the eraser within 5 millimeters of an electronic de-
+vice and push the button, the device takes 10 boxes of 
+Matrix damage (resisted normally). The extremely short 
+range makes it hard to use on targets like vehicles, most 
+drones, maglocks, and cyberware (and by the time you 
+open them up to get at the electronics, you’ve already 
+done plenty of damage). The tag eraser has one charge 
+but can be fully recharged at a power point in 10 seconds.
+Wireless: The tag eraser recharges fully in an hour by 
+induction.
+White noise generator: This device creates a field 
+of random noise, masking the sounds within its area 
+and preventing direct audio surveillance. All Perception 
+Tests to overhear a conversation within (Rating) meters 
+of a white noise generator receive a negative dice pool 
+modifier equal to the generator’s Rating. If more than 
+one generator is in use, only count the highest rating. A 
+white noise generator is redundant in a noisy environ-
+ment (such as a nightclub or a firefight) and does not 
+help to curtail video surveillance or jam wireless signals.
+Wireless: The white noise generator’s effective radius 
+is tripled.
+SOFTWARE
+Software can be purchased as an online download or less 
+commonly on chip from physical stores. Datasofts, map-
+softs, shopsofts, and tutorsofts can be easily stored and 
+accessed on a commlink, dataterminal, or cyberdeck.
+Agents and cyberprograms: These are used in cy-
+berdecks and are explained in Programs, p. 243.
+Autosofts: For information on these programs for 
+drones, see p. 269.
+Datasofts: Datasofts encompass a wide variety of in-
+formation files, databases containing information on ev-
+erything from hydraulic fracturing to 18th century roman-
+tic poetry. An appropriate datasoft gives you a +1 bonus 
+to your Mental limit on related Knowledge Skill Tests.
+Mapsoft: Mapsoft programs feature detailed infor-
+mation about a particular area, from streets to business/
+residential listings to topographical, census, GPS and 
+environmental data. An interactive interface allows you 
+to quickly determine the best routes and directions, lo-
+cate the nearest spot of your choice, or create your own 
+customized maps. If a wireless link is maintained, the 
+map automatically self-updates with the latest data from 
+GridGuide. Of course, this feature also means that the 
+mapsoft can be used to track your location. At the gam-
+emaster’s discretion, mapsofts provide a +1 limit bonus 
+to Navigation Tests made to navigate the area they cover.
+Shopsofts: Shopping apps like Clothes Horse, Cave-
+at Emptour, and Guns Near Me provide pricing break-
+downs and user reviews for comparison shopping 
+purposes, both for standard goods and black market 
+purchases. Shopsofts self-update regularly to stay cur-
+>> STREET GEAR <<
+COMMUNICATIONS
+DEVICE
+AVAIL
+COST
+Bug scanner (Rating 1-6)
+(Rating)R
+Rating x 100¥
+Data tap
+6R
+300¥
+Headjammer (Rating 1-6)
+(Rating)R
+Rating x 150¥
+Jammer, area (Rating 1-6)
+(Rating x 3)F
+Rating x 200¥
+Jammer, directional 
+(Rating 1-6)
+(Rating x 2)F
+Rating x 200¥
+Micro-transceiver
+2
+100¥
+Tag eraser
+6R
+450¥
+White noise generator 
+(Rating 1-6)
+Rating
+Rating x 50¥
+<< Electronics    441
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p447 =====
+rent. An appropriate shopsoft—one exists for each type 
+of product like electronics, firearms, melee weapons, ar-
+mor, et cetera—provides a +1 bonus to your Social limit 
+for all Availability and Negotiation tests you make to buy 
+and sell those items.
+Tutorsofts: These virtual private tutors aid you in 
+learning a specific skill. The tutorsoft makes Instruction 
+Tests with a dice pool equal to its Rating x 2. Tutorsofts 
+cannot teach skills based on Magic or Resonance.
+SKILLSOFTS
+A skillsoft program is a recorded skill—digital knowl-
+edge and muscle memory. When used in conjunction 
+with the proper augmentations (a skilljack for know-
+softs and linguasofts, and a skillwire system for active-
+softs) skillsofts let you know and do things you’ve nev-
+er otherwise learned. Even kung fu.
+Skillsofts aren’t educational tools; you can’t actually 
+learn from them. They’re highly favored by corporations 
+interested in a cheaper labor force (when the difference 
+between a skilled and unskilled worker can be as simple 
+as slotting a chip, the difference in salary is smaller).
+When a skill test is called for, the character may use 
+the skillsoft rating in place of the skill. Downside: tests 
+made with a skillsoft may not be boosted with Edge in 
+any way.
+Activesofts: Activesofts replace physical active 
+skills, basically every Active skill that isn’t based on Mag-
+ic or Resonance. A skillwire system (p. 455) is needed to 
+translate the ‘softs into usable muscle memory. There’s 
+a limit to the number of skills you can use at once, based 
+on your skillwire’s rating.
+Knowsofts: Knowsofts replicate Knowledge skills, 
+actively overwriting the user’s knowledge with their own 
+data. Knowsofts must be accessed with a skilljack, and 
+the number you can use at once is limited by the skilljack.
+Linguasofts: Linguasofts replicate language skills, 
+allowing a user to speak a foreign language by auto-
+matically translating signals from the speech cortex, 
+although chipped speech can be awkward and stilted—
+then again, so can anyone speaking a language that’s 
+not their native tongue. Linguasofts must be accessed 
+with a skilljack, which limits how many skillsofts you can 
+use at a time.
+ID AND CREDIT
+IDs and credsticks are discussed in more detail under 
+Identification, p. 366.
+Certified credstick: Cash for the late 21st century. A 
+certified credstick is not registered to any specific person—
+the electronic funds encoded on it belong to the holder, re-
+quiring no special ID or authorization to use. The bad news 
+is that you can be physically mugged, any money you have 
+on your credstick jacked and rolled. The good news is that 
+certified credsticks are completely untraceable. They’re not 
+even wireless—you have to slot them into a universal data 
+connector to transfer cash onto or off of them. This makes 
+them enduringly popular with shadowrunners and the Mr. 
+Johnsons who love to hire them.
+Each type of credstick can only hold up to a certain 
+amount of money, listed on the table. This is the maxi-
+mum amount it can carry, not the amount it always has 
+on it—so don’t get excited when you see a gold cred-
+stick until you’ve slotted it and checked its balance.
+Credit account: A credit account is an online bank-
+ing account that can be accessed at any time via your 
+commlink. Transactions require passcode or biometric 
+verification to be authorized. The good news is no one 
+can (physically) steal your bank account, and hacking 
+credit accounts often requires a run to Zurich Orbital or 
+something equally suicidal. The bad news is that digi-
+tal transactions leave a “paper trail” that, while it can be 
+hidden or concealed, is entirely too traceable for seri-
+ous criminal activities. Each account must be registered 
+to a particular (usually fake) SIN, unless the account is 
+handled by an anonymous underworld banking service 
+(with its own risks and complications). The cost of bank-
+ing services is included in your lifestyle costs if you’ve 
+got a Low Lifestyle or better—otherwise you’ll need to 
+keep all your money on credsticks.
+Fake system identification number (SIN): In 2075, 
+you’re just a number. A SIN (or its international equiv-
+alents) is what makes a mere metahuman into a real 
+person. Solid citizens receive their SINs at birth and car-
+ry them until they die. Not having a SIN means living 
+outside the system, living with restricted or non-existent 
+civil rights. Shadowrunners by default are SINless—they 
+>> STREET GEAR <<
+SOFTWARE
+PROGRAM/SOFTWARE
+AVAIL
+COST
+Agent (Rating 1–3)
+Rating x 3
+Rating x 1,000¥
+Agent (Rating 4–6)
+Rating x 3
+Rating x 2,000¥
+Autosoft
+Rating x 2
+Rating x 500¥
+Cyberprogram, common use
+—
+80¥
+Cyberprogram, hacking
+6R
+250¥
+Datasoft
+4
+120¥
+Mapsoft
+4
+100¥
+Shopsoft
+4
+150¥
+Tutorsoft (Rating 1–6)
+Rating
+Rating x 400¥
+SKILLSOFTS
+SKILLSOFT
+AVAIL
+COST
+Activesofts (Rating 1–6)
+8
+Rating x 5,000¥
+Knowsofts (Rating 1–6)
+4
+Rating x 2,000¥
+Linguasofts (Rating 1–6)
+2
+Rating x 1,000¥
+442    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p448 =====
+have a SIN only if they have the SINner quality (p. 84). 
+Most runners don’t have one, either because they were 
+unfortunate enough to be born poor, or because they 
+lost it or ditched it somewhere along the way. SINs are 
+digital, not physical objects. They exist on your com-
+mlink, or in your PAN. 
+Getting by without a SIN can be a pain, so most run-
+ners settle for the next best thing: a fake. High quality 
+fakes are difficult for The Man to spot; low quality fakes 
+are … less good. The rating of the fake SIN is used in tests 
+against verification systems (Fake SINs, p. 367) .
+Just like a real SIN, anytime you use a fake SIN for le-
+gitimate activity, you leave a datatrail in your wake. The 
+fact that criminal activities can be tracked to fake SINs 
+makes fake SINs inherently disposable. Most runners 
+operate two or more fake SINs at a time, one for legal 
+activity like paying rent and going shopping, another 
+for shadier activity, and possibly a third to be used only 
+when it’s time to get the hell outta Dodge.
+Fake license: For those who can’t or won’t go through 
+the standard legal channels, fake licenses are available for 
+all kinds of restricted items and activities. Items with no 
+letter next to their availability don’t require licenses. Items 
+that are Forbidden have no license available. Licenses, 
+therefore, are for Restricted items. Each type of item/ac-
+tivity permission requires a separate license. Things that 
+require licenses include hunting (bow and rifle), posses-
+sion of a firearm, concealed carry of a firearm (separate 
+license), spellcasting, and any Restricted gear or augmen-
+tations, etc. Just as SINs essentially exist on your com-
+mlink, fake licenses exist on your SIN and are linked to it. 
+When you buy a fake concealed-carry license, you don’t 
+buy it for Murderman the professional shadowrunner, 
+you buy it for John Doe, one of Murderman’s fake SINs. 
+Each license must be assigned to a particular (fake) SIN of 
+the player’s choosing. Use the fake license’s rating against 
+verification systems (Fake SIN, p. 367). 
+TOOLS
+Building and repairing items requires the right tools for 
+the job. Tools must be bought separately for a specific 
+skill (for example, an Ar-
+morer shop, a Disguise kit, 
+a Nautical Mechanic facil-
+ity, etc.). A kit is portable 
+and contains the basic gear 
+to make standard repairs. 
+A shop is transportable in 
+the back of a van and con-
+tains more advanced tools 
+for building and repairing. 
+A facility needs a building 
+and is immobile because of the bulky and heavy ma-
+chines involved, but it can be used for very advanced 
+constructions and modifications. Shops and facilities are 
+both stocked with standard spare parts.
+There are some guidelines to help you figure out 
+when a kit, shop, or facility is necessary for a particular 
+job (Building & Repairing, p. 145). The gamemaster gets 
+final say, though, and might even tell you that you need 
+specific or unusual parts you have to get separately.
+OPTICAL AND 
+IMAGING DEVICES
+From wiz shades to bulky goggles, basic vision enhancers 
+are available in several forms. All such devices have—and 
+by default use—wireless capability, although you can use 
+a universal data cable for most of them. Each device has 
+a Capacity that allows you to add vision enhancements. 
+Some of these devices are worn, while others are external 
+sensor devices or even attached to weapons.
+Binoculars: Typically handheld, binoculars come 
+with built-in vision magnification. Binoculars are avail-
+able in optical (which can’t take additional vision en-
+hancements) and electronic versions (which can take 
+vision enhancements).
+Camera: A common visual device, cameras can 
+capture still photos, video, and trideo, including sound. 
+Cameras may also be upgraded with vision enhance-
+ments and audio enhancements. A micro version is 
+available with a Capacity 1.
+Contacts: The most recent display devices are worn 
+directly on the eyes. They are nearly undetectable, but 
+they offer a bit of space for enhancements. Contacts 
+have to be wireless; they don’t have room for a universal 
+data connector.
+Glasses: Glasses are lenses contained in light-
+weight frames worn on the bridge of the nose; numer-
+ous cosmetic styles are available, and vision-enhance-
+ment-equipped glasses are hard to distinguish from 
+prescription glasses or sunglasses at a glance.
+Goggles: Relatively large and bulky, goggles are 
+strapped to the head, making them difficult to dislodge. 
+>> STREET GEAR <<
+CREDSTICKS
+TYPE
+MAX VALUE
+AVAIL
+COST
+Standard
+5,000¥
+—
+5¥
+Silver
+20,000¥
+—
+20¥
+Gold
+100,000¥
+5
+100¥
+Platinum
+500,000¥
+10
+500¥
+Ebony
+1,000,000¥
+20
+1,000¥
+IDENTIFICATION
+TYPE
+AVAIL
+COST
+Fake SIN (Rating 1-6)
+(Rating x 3)F
+Rating x 2,500¥
+Fake license (Rating 1-6)
+(Rating x 3)F
+Rating x 200¥
+TOOLS
+TYPE
+AVAIL
+COST
+Kit
+—
+500¥
+Shop
+8
+5,000¥
+Facility
+12
+50,000¥
+<< Electronics    443
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p449 =====
+Goggles have the potential to install a wide array of vi-
+sion enhancements.
+Imaging Scopes: These are vision enhancers and dis-
+play devices that are usually top-mounted on weapons 
+(Firearm Accessories, p. 431).
+Monocle: A monocle is worn on a headband or hel-
+met with a flip-down arm, or (for the old-fashioned look) 
+on a chain.
+OPTICAL DEVICES
+These devices use optical technology (glass bending or 
+reflecting light), not electronics, to function. They have 
+many uses, one of the most dramatic of which is that 
+they enable a magician to obtain line of sight for spell-
+casting from cover, something that can’t be accom-
+plished with electronic devices. Spellcasting targeted 
+through optics this way suffers a –3 dice pool modifier. 
+Optical devices can’t take vision enhancements.
+Endoscope: This fiber-optic cable is at least 1 meter 
+long, with the first 20 centimeters on either side made 
+up of myomeric rope (p. 449) and an optical lens. It al-
+lows the user to look around corners, under door slits, 
+or into narrow spaces. It is available in any number of 
+lengths, although longer segments can be unwieldy.
+Mage Sight Goggles: These heavy goggles are con-
+nected to a myomeric rope (p. 449) wrapped around a 
+fiber-optic cable that ends in an optical lens. The rope is 
+available in lengths of 10, 20, or 30 meters.
+Periscope: An L-shaped tube with two mirrors, the 
+periscope allows the user to look, shoot, or cast spells 
+around corners.
+VISION ENHANCEMENTS
+A number of options are available for installation in visu-
+al sensors and imaging devices from contacts to camer-
+as. Each enhancement has an associated Capacity cost.
+Low-light vision: This accessory allows you to see 
+normally in light levels as low as starlight. It doesn’t help 
+in total darkness, though.
+Flare compensation: This protects you from blinding 
+flashes of light as well as simple glare. It mitigates the 
+vision modifiers for glare and reduces the penalty from 
+flashing lights, like from a flash-pak.
+Image link: A standard upgrade, this lets you display 
+visual information (text, pictures, movies, the current 
+time, etc.) in your field of vision. This is usually AROs, 
+but you can display pretty much whatever you want on 
+it. You and your team can use it to share tactical and sit-
+uational info in real time. An image link is what you need 
+to truly “see” AR and participate in the modern world.
+Smartlink: This accessory works with a smartgun sys-
+tem to give you the full benefit of the system. The smart-
+gun will tell you the range to various targets, as well as 
+ammunition level (and type), heat buildup, mechanical 
+stress and so on. Without a smartlink, a smartgun system 
+just sends out data that isn’t received by anyone and has 
+no effect. A smartlink installed in a natural eye or in a pair 
+of cybereyes is more effective than a smartlink installed in 
+an external device; see Smartgun System, p. 433.
+Thermographic vision: This enhancement enables 
+vision in the infrared spectrum, enabling you to see heat 
+patterns. It’s a very practical way to spot living beings in 
+areas of total darkness, to check if a motor or machine 
+has been running lately, and so on. 
+Vision enhancement: This sharpens a character’s vi-
+sion at all ranges, providing visual acuity closer to that of 
+the average hawk than that of the average metahuman. 
+It adds its Rating as a positive modifier to your limit on 
+visual Perception Tests.
+Wireless: Add the vision enhancement’s rating as a 
+dice pool modifier to your visual Perception Tests.
+Vision magnification: This zoom function digitally 
+magnifies vision by up to fifty times, allowing distant 
+targets to be seen clearly. For rules on using vision mag-
+nification in ranged combat, see p. 177.
+>> STREET GEAR <<
+OPTICAL & IMAGING DEVICES
+DEVICE
+AVAIL
+COST
+Binoculars (Capacity 1–3)
+—
+Capacity x 50¥
+Binoculars, Optical
+—
+50¥
+Camera (Capacity 1–6)
+—
+Capacity x 100¥
+Micro–Camera (Capacity 1)
+—
+100¥
+Contacts (Capacity 1–3)
+6
+Capacity x 200¥
+Glasses (Capacity 1–4)
+—
+Capacity x 100¥
+Goggles (Capacity 1–6)
+—
+Capacity x 50¥
+Endoscope
+8
+250¥
+Imaging Scopes (Capacity 3)
+2
+300¥
+Periscope
+3
+50¥
+Mage Sight Goggles
+12R
+3,000¥
+Monocle (Capacity 1–4)
+—
+Rating x 120¥
+VISION ENHANCEMENTS
+ENHANCEMENT
+CAPACITY
+AVAIL
+COST
+Low-light vision
+[1]
++4
++500¥
+Flare compensation
+[1]
++1
++250¥
+Image link
+[1]
+—
++25¥
+Smartlink
+[1]
++4R
++2,000¥
+Thermographic vision
+[1]
++6
++500¥
+Vision enhancement
+[Rating]
++Rating x 2
++(Rating 
+x 500)¥
+Vision magnification
+[1]
++2
++250¥
+444    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p462 =====
+light pistol inside your cyberarm, concealing it from nor-
+mal vision. As a Free Action, you can ready the weapon 
+in the slide.
+Cyber holster: You can hold a taser or any pistol- or 
+smaller-sized weapon within the holster, completely en-
+closed until you activate it. Inserting or retrieving a weap-
+on takes one Simple Action. A cyber holster can also be 
+used as a smuggling compartment to store items no larg-
+er than a pistol (the gamemaster has final discretion).
+Wireless: Readying a weapon from the holster is a 
+Free Action.
+Hydraulic jacks: This implant requires you to have 
+two cyberlegs with a hydraulic jack of identical Ratings 
+in each leg. Each Rating point adds a +1 to your Physical 
+limit for jumping and sprinting, adds twenty percent to 
+your maximum jump distance, and reduces your falling 
+distance by two meters for the purpose of calculating 
+falling damage.
+Wireless: The jacks add a +1 dice pool bonus to tests 
+involving jumping, sprinting, or lifting with your legs.
+Large smuggling compartment: This is a larger ver-
+sion of the smuggling compartment (p. 455). It can hold 
+something the size of a heavy pistol or a small SMG 
+(gamemaster’s discretion—think breadbox size as a 
+guide). Getting something out of or putting something 
+into it takes a Complex Action.
+Wireless: Getting something out of or putting some-
+thing into it takes a Simple Action.
+>> STREET GEAR <<
+CYBERLIMBS
+LIMBS
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Obvious limbs
+Full arm
+1
+15
+4
+15,000¥
+Full leg
+1
+20
+4
+15,000¥
+Hand/foot
+0.25
+4
+2
+5,000¥
+Lower arm
+0.45
+10
+4
+10,000¥
+Lower leg
+0.45
+12
+4
+10,000¥
+Torso
+1.5
+10
+12
+20,000¥
+Skull
+0.75
+4
+16
+10,000¥
+Synthetic limbs
+Full arm
+1
+8
+4
+20,000¥
+Full leg
+1
+10
+4
+20,000¥
+Hand/foot
+0.25
+2
+2
+6,000¥
+Lower arm
+0.45
+5
+4
+12,000¥
+Lower leg
+0.45
+6
+4
+12,000¥
+Torso
+1.5
+5
+12
+25,000¥
+Skull
+0.75
+2
+16
+15,000¥
+CUSTOMIZATION
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Each STR or AGI point above 3
+—
+—
+Cyberlimb + 1
++5,000¥
+CYBERLIMB ENHANCEMENTS
+ENHANCEMENT
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Agility (Rating 1-3)
+—
+Rating
+(Rating x 3)R
+Rating x 6,500¥
+Armor (Rating 1-3)
+—
+Rating
+Rating x 5
+Rating x 3,000¥
+Strength (Rating 1-3)
+—
+Rating
+(Rating x 3)R
+Rating x 6,500¥
+CYBERLIMB ACCESSORIES
+ACCESSORY
+ESSENCE
+CAPACITY
+AVAILABILITY
+COST
+Cyberarm gyromount
+—
+[8]
+12F
+6,000¥
+Cyberarm slide
+—
+[3]
+12R
+3,000¥
+Cyber holster
+—
+[5]
+8R
+2,000¥
+Hydraulic jacks (Rating 1-6)
+—
+[Rating]
+9
+Rating x 2,500¥
+Large smuggling compartment
+—
+[5]
+6
+8,000¥
+<< Electronics    457
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p463 =====
+CYBER IMPLANT 
+WEAPONS
+Cyber-implant weapons can be installed into cyberlimbs 
+or directly into the meat. They’re popular with the deni-
+zens of urban wastelands like the Barrens, and with street 
+samurai who never want to go anywhere unarmed.
+Cyberguns: Generally speaking, these are mount-
+ed in a cyberarm or directly into a natural arm, but you 
+could install one in a leg or even your torso. Cyberguns 
+are distinct from cyber holsters in that the gun itself can 
+be controlled and fired directly, as an extension of your 
+body. Depending on the size of the gun, cyberguns take 
+up part of your forearm or replace your arm altogether, 
+with the functional parts of the arm built around the gun. 
+Smaller cyberguns fire through a hidden port in the palm 
+or knuckles, while larger cyberguns fold back the user’s 
+hand at the wrist.
+For extra concealment, cyberguns are built from 
+mostly non-metallic compounds, and any metallic 
+parts are incorporated into the (cyber) arm’s structure. 
+All cyberguns have internal magazines (m) and can be 
+equipped with a hidden external ammo port. Howev-
+er, once you attach a clip to the side of your forearm or 
+the back of your elbow, the cybergun becomes kind of 
+obvious. Laser sights and silencers/sound suppressors 
+are also available; other weapon accessories can’t be 
+installed in cyberguns. All cyberguns are pre-equipped 
+with smartgun systems (p. 433).
+Cyber melee weapons: For a quarter of a centu-
+ry now, cyber-implant melee weapons have been the 
+classic, favored toys of razor guys, from street muscle 
+to professional urban samurai. They are available as cy-
+berarm upgrades, but can also be installed directly into 
+the flesh. Cyber weapons can be readied via muscle 
+flexture, neural impulse, or wireless signal. Attacks with 
+cyber melee weapons use Unarmed Combat skill and 
+the Physical limit.
+Hand razors are blades two to three centimeters long, 
+made of chromed steel or carbon fiber. They either slide 
+out from beneath your fingernails or replace them en-
+tirely. Hand blades slip out the side of the hand opposite 
+the thumb, parallel to the hand, and while they are uni-
+versally thin and sharp, they come in a variety of shapes 
+and styles. Spurs are one to three blades or spikes pro-
+truding from the back of your wrist or your knuckles, 
+sticking out from your fist as much as thirty centime-
+ters. The shock hand is like a shock glove built into the 
+palm of your hand, perfect for inflicting a nasty shock to 
+anything it comes into contact with. Shock hands deal 
+Electricity damage (p. 170) and have ten charges in each 
+hand; when plugged in they recharge at a rate of one 
+charge per ten seconds.
+IMPLANT WEAPONS
+IMPLANT WEAPONS
+CYBERGUNS
+ESS
+CAP
+AVAIL
+COST
+Hold-out pistol
+0.1
+[2]
+8R
+2,000¥
+Light pistol
+0.25
+[4]
+10R
+3,900¥
+Machine pistol
+0.5
+[6]
+12R
+3,500¥
+Heavy pistol
+0.5
+[6]
+12R
+4,300¥
+Submachine gun
+1
+[8]
+12R
+4,800¥
+Shotgun
+1.25
+[10]
+12R
+8,500¥
+Grenade launcher
+1.5
+[15]
+20F
+30,000¥
+External clip port
+0.1
+[1]
+—
++1,000¥
+Laser sight
+—
+[1]
+—
++1,000¥
+Silencer/suppressor
+—
+[2]
+—
++1,000¥
+CYBER MELEE
+ESS
+CAP
+AVAIL
+COST
+Hand blade (retractable)
+0.25
+[2]
+10F
+2,500¥
+Hand razors (retractable)
+0.2
+[2]
+8F
+1,250¥
+Spurs (retractable)
+0.3
+[3]
+12F
+5,000¥
+Shock hand
+0.25
+[4]
+8R
+5,000¥
+WEAPONS
+REACH
+DAMAGE
+AP
+Hand blade
+—
+(STR + 2)P
+–2
+Hand razors
+—
+(STR + 1)P
+–3
+Spurs
+—
+(STR + 3)P
+–2
+Shock hand
+—
+9S(e)
+–5
+>> STREET GEAR <<
+IMPLANT WEAPONS
+CYBERGUNS
+ACCURACY
+DAMAGE
+AP
+MODE
+RC
+AMMO
+Cyber hold-out
+4 (6)
+6P
+—
+SA
+—
+2 (m) / 6 (c)
+Light cyber pistol
+6 (8)
+7P
+—
+SA
+—
+10 (m) / 15 (c)
+Cyber machine pistol
+4 (6)
+6P
+—
+SA / BF
+1
+18 (m) / 32 (c)
+Heavy cyber pistol
+4 (6)
+7P
+–1
+SA
+—
+8 (m) / 12 (c)
+Cyber submachine gun
+4 (6)
+7P
+—
+SA / BF
+2
+18 (m) / 32 (c)
+Cyber shotgun
+4 (6)
+10P
+–1
+SS
+—
+4 (m) / 10 (c)
+Cyber microgrenade launcher
+4 (6)
+as Grenade
+as Grenade
+SS
+—
+2 (m) / 6 (c)
+458    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p464 =====
+BIOWARE
+Bioware is subtler, more holistic, and less invasive than 
+cyberware, at the cost of being substantially pricier. In-
+stead of replacing body parts with machines, bioware 
+augments the body’s own functions and integrates trans-
+planted organs that function as natural features. The 
+application of biotechnology is a tricky business, as the 
+fine balance of homeostasis between the body’s organic 
+systems must be maintained. In the last decade, bionics 
+and bio-engineering techniques have taken bioware from 
+cutting edge to commonplace. Bioware is more expen-
+sive monetarily, costs less Essence, and is much harder to 
+spot. Also—and we’d like to think this goes without say-
+ing—bioware has no wireless capability at all.
+Adrenaline pump: This enhanced gland is implanted 
+in the lower abdomen, connected to both supradrenal 
+glands. When dormant, the pump is merely a reservoir 
+for adrenaline. When activated, a small muscular sac con-
+tracts, sending a surge of concentrated adrenaline into 
+the blood stream. Physical and emotional stress can force 
+your pump to activate if you fail a Composure Test (p. 
+152); otherwise you can trigger it as a Free Action.
+While the pump is active, you ignore injury modifiers 
+and don’t fall unconscious, even if your Stun Condition 
+Monitor is filled. You can’t rest, but the adrenaline pump’s 
+Rating is added to your Strength, Agility, Reaction, and 
+Willpower attributes. The pump works for Rating x 1D6 
+Combat Turns (the pump can’t be switched off early). 
+When time’s up, you crash and take Stun damage equal 
+to the number of Combat Turns the pump was active (use 
+your natural Body + Willpower to resist the damage).
+After the effects end, your attribute values return to 
+normal and you stop ignoring injury modifiers or uncon-
+sciousness from Stun damage. After use, the pump re-
+quires 1 hour to regenerate its supply. During that time, it 
+cannot be activated.
+Bone density augmentation: The molecular struc-
+ture of your bones is altered to increase density and 
+tensile strength. Ligaments are strengthened, and the 
+increased bone density increases your weight a bit. Your 
+Body attribute is increased by the bone density Rating 
+for the purpose of damage resistance tests. You also 
+deal Physical damage in unarmed combat, based on the 
+Rating of the augmentation (see the Bone Density Aug-
+mentation table). Bone density augmentation is incom-
+patible with other augmentations to the bones, includ-
+ing bone lacing cyberware.
+Cat’s eyes: These transgenic vat-grown implants are 
+very literally cats’ eyes with a modified DNA profile and 
+occipital connecting structures. The structure of cat’s eyes 
+amplifies light and enhances night vision, providing low-
+light vision. Cat’s eyes are slit and reflective, just like, well, 
+a cat’s. This bioware is obviously not compatible with cy-
+berware eye enhancements or replacements.
+Enhanced articulation: A number of procedures like 
+joint-surface coating, re-lubrication, and tendon and 
+ligament augmentation lead to more fluid muscle and 
+joint action. Enhanced articulation provides you with a 
++1 dice pool modifier to your Escape Artist skill and a 
++1 increase to your Physical limit (cumulative with other 
+limit modifiers).
+Muscle augmentation: This biological weaving treat-
+ment enhances existing muscle tissue, rather than replac-
+ing it with vat-grown muscles. Specially grown muscle 
+cables are woven into existing muscle fibers, enhancing 
+muscle mass and brute strength while providing a bulk-
+ier look. Muscle augmentation adds its rating to your 
+Strength. This bioware is incompatible with augmenta-
+tions that increase Strength, including the muscle re-
+placements cyberware.
+Muscle toner: This treatment increases muscle fi-
+ber elasticity in existing muscle tension, resulting in in-
+creased muscle tension and flexibility while providing a 
+smooth and ropy physique. Muscle toner adds its rating 
+to your Agility. This bioware is incompatible with aug-
+mentations that increase Agility, including the muscle 
+replacements cyberware.
+Orthoskin: A web of biofibers in the skin provides the 
+equivalent of personal armor while being virtually indis-
+tinguishable from natural skin. Orthoskin adds its Rating 
+to your Armor Rating, and is cumulative with other Ar-
+mor. Orthoskin cannot be combined with skin augmenta-
+tions that give you Armor, including dermal plating.
+Pathogenic defense: This enhanced spleen can pro-
+duce more effective and aggressive white blood cells for 
+combating pathogens. Pathogenic defense adds its Rating 
+to Disease Resistance Tests.
+Platelet factories: Platelet factories increase your 
+body’s ability to handle Physical damage by accelerat-
+ing the production of platelets within bone marrow and 
+their concentration in the blood, which helps stop bleed-
+ing faster. Any time you would take 2 or more boxes of 
+damage to your Physical Condition Monitor, reduce the 
+damage by one box.
+Skin pocket: This skin flap can be located anywhere 
+on your body. A nerveless “sheath” of flesh concealed 
+by the flap is perfect for hiding a small object—it’s the 
+bioware version of a smuggling compartment (p. 455). 
+The skin pocket has a Concealability of –10. It takes a 
+Complex Action to add or remove an item from a skin 
+pocket.
+Suprathyroid gland: Placed on top of your existing 
+thyroid gland, the suprathyroid gland supersedes the met-
+abolic functions of your thyroid. The enhanced metabolism 
+produces more energy, supercharging you. While you’re 
+supercharged, you might want to supersize—to fuel your 
+optimized metabolism, you’ll need to eat twice as much as 
+normal. You get a +1 to your Agility, Body, Reaction, and 
+Strength, along with a 25 percent boost in lifestyle costs. 
+And you might get a bit hyperactive.
+Symbiotes: Tailored micro-organisms in your blood-
+stream greatly enhance your healing. Add the Rating of 
+the symbiotes as a dice pool modifier on healing tests 
+>> STREET GEAR <<
+<< Electronics    459
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p465 =====
+(Physical and Stun). However, the symbi-
+otes have unusual dietary requirements 
+that must be met to keep them alive. 
+You need to pay (Rating x 200) nuyen 
+per month for special symbiote food, 
+although if you have a High Lifestyle or 
+better it’s covered.
+Synthacardium: 
+Artificially 
+en-
+hanced myocardium allows cardiovas-
+cular functions to be performed more 
+efficiently, enabling the heart to keep 
+the blood better oxygenated. The syn-
+thacardium adds its Rating as a dice 
+pool bonus to your tests using skills in 
+the Athletics skill group.
+Tailored pheromones: These pher-
+omones are specially tailored to subtly 
+influence others and can be released 
+at will. Tailored pheromones add their 
+Rating as a dice pool modifier to your 
+skill tests for skills in the Acting and In-
+fluence skill groups, but only when the 
+person you’re using them on is within a 
+comfortable conversation range—if they 
+can’t smell you, the pheromones don’t 
+work. Tailored pheromones also work 
+on you to make you feel better about 
+yourself; increase your Social limit by the 
+Rating. Tailored pheromones have no effect on magical 
+abilities and tests.
+Toxin extractor: A specially cultivated cluster of cells 
+in your liver improves its filtering capabilities. The toxin 
+extractor adds its Rating as a dice pool modifier to all your 
+Toxin Resistance Tests (Toxins, Drugs, and BTLs, p. 408).
+Tracheal Filter: Implanted at the top of your trachea, 
+this organ can absorb airborne impurities and keep them 
+from reaching your lungs. The filter adds its Rating as a 
+dice pool modifier to Toxin Resistance Tests versus inha-
+lation vector toxins (Toxins, Drugs, and BTLs, p. 408).
+CULTURED BIOWARE
+Cultured bioware must be tailor-made for the body in 
+which it will eventually find a home. This means it is 
+more expensive and takes longer to acquire than the 
+off-the-shelf kind.
+Cerebral booster: The convolutions and gyri of your 
+cerebrum are augmented and amplified with additional 
+nervous tissue, improving overall brain function. Your ce-
+rebral booster increases your Logic attribute by its Rating. 
+Damage compensator: Damage compensators are 
+essentially cut-offs stored in the nervous pathways that 
+report pain from the body back to your brain. You ig-
+nore a number of damage boxes (your choice of Phys-
+ical, Stun, or a combination of the two) equal to the 
+compensator’s Rating before determining your injury 
+modifiers.
+Mnemonic enhancer: This highly concentrated 
+growth of grey matter gets attached to the brain’s mem-
+ory centers, improving both short- and long-term mem-
+ory. Add the enhancer’s Rating as a dice pool bonus to 
+your Knowledge, Language, and memory-related tests 
+as well as to your Mental limit.
+Pain editor: This cluster of specialized nervous tis-
+sue is designed to filter sensory stimuli. If the pain editor 
+is active, this allows you to ignore all injury modifiers, 
+and you even stay conscious when your Stun Condi-
+tion Monitor is completely full. You feel no pain—you’re 
+blissfully, dangerously, recklessly unaware of the extent 
+of damage you’ve taken without either performing a 
+self-examination (Observe In Detail action) or being in-
+formed by a biomonitor (p. 450). While active, the pain 
+editor increases your Willpower by 1 and decreases your 
+Intuition by 1. Additionally, all tactile Perception Tests 
+you make receive a dice pool modifier of –4.
+Reflex recorder: The first step in this particular reci-
+pe is growing some extra neural material in a small clus-
+ter. When that’s fully cooked, you drop it in the skull and 
+attach it to the nerves for motor reflexes. Then boom, 
+you’ve got a metahuman with better muscle memory. 
+The reflex recorder adds 1 to the Rating of a specific skill 
+linked to a Physical attribute. Multiple recorders may be 
+taken for multiple skills, but you can’t implant two reflex 
+recorders for the same skill. Reflex recorder bioware is in-
+compatible with skillwires cyberware.
+Sleep regulator: The sleep regulator is a modifica-
+tion to the hypothalamus, allowing for longer periods of 
+>> STREET GEAR <<
+BIOWARE
+BASIC BIOWARE
+ESSENCE
+AVAIL
+COST
+Adrenaline pump (Rating 1–3)
+Rating x 0.75
+(Rating x 6)F
+Rating x 55,000¥
+Bone density augmentation (Rating 1–4)
+Rating x 0.3
+(Rating x 4)
+Raxing x 5,000¥
+Cat’s eye
+0.1
+4
+4,000¥
+Enhanced articulation
+0.3
+12
+24,000¥
+Muscle augmentation (Rating 1–4)
+Rating x 0.2
+(Rating x 5)R
+Rating x 31,000¥
+Muscle toner (Rating 1–4)
+Rating x 0.2
+(Rating x 5)R
+Rating x 32,000¥
+Orthoskin (Rating 1–4)
+Rating x 0.25
+(Rating x 4)R
+Rating x 6,000¥
+Pathogenic Defense (Rating 1–6)
+Rating x 0.1
+(Rating x 2)
+Rating x 4,500¥
+Platelet factories
+0.2
+12
+17,000¥
+Skin pocket
+0.1
+4
+12,000¥
+Suprathyroid gland
+0.7
+20R
+140,000¥
+Symbiotes (Rating 1–4)
+Rating x 0.2
+(Rating x 5)
+Rating x 3,500¥
+Synthacardium (Rating 1–3)
+Rating x 0.1
+(Rating x 4)
+Rating x 30,000¥
+Tailored pheromones (Rating 1–3)
+Rating x 0.2
+(Rating x 4)R
+Rating x 31,000¥
+Toxin extractor (Rating 1–6)
+Rating x 0.2
+(Rating x 3)
+Rating x 4,800¥
+Tracheal filter (Rating 1–6)
+Rating x 0.1
+(Rating x 3)
+Rating x 4,500¥
+UNARMED COMBAT ATTACKS
+REACH
+DAMAGE
+AP
+Bone density Rating 1
+—
+(STR)P
+—
+Bone density Rating 2
+—
+(STR + 1)P
+—
+Bone density Rating 3
+—
+(STR + 2)P
+—
+Bone density Rating 4
+—
+(STR + 3)P
+—
+460    Electronics >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p466 =====
+wakefulness, an incredibly useful advantage for anyone 
+with any profession, not just shadowrunners. You need 
+less sleep per day and the sleep you get is deep and 
+restful (and harder to wake you up from). The sleep regu-
+lator lets you get by with three hours of sleep each night 
+and stay awake for twice as long as normal before hav-
+ing to resist sleep deprivation fatigue (p. 172). Resting 
+hours for healing purposes are not affected.
+Synaptic booster: The nerve cells making up the spi-
+nal cord are both broadened and replicated with this bio-
+ware, allowing for more neural bandwidth. The result is a 
+much faster reaction time. The booster confers a bonus 
+of +1 Reaction (and accompanying adjustment to Initia-
+tive and Physical limit) and +1D6 Initiative Die per point 
+of Rating. The synaptic booster cannot be combined with 
+any other form of Reaction or Initiative enhancement.
+MAGICAL 
+EQUIPMENT
+Magical Supplies and Spell Formulae are described in 
+Magic, p. 316.
+VEHICLES  
+AND DRONES
+Vehicle attributes used in combat are defined in Vehicles, 
+p. 198. Vehicles also have a non-combat attribute, Seat-
+ing, which determines both how many people can fit in 
+the vehicle (including the operator) and also, in a pinch, 
+additional cargo space—one ‘seat’ can also be used to 
+hold up to 250 kilograms of cargo. Seating (for people) 
+can be exceeded by up to 150 percent by stuffing people 
+inside, but doing so decreases the vehicle’s Speed and 
+Handling attributes by one. So you can have that extra 
+person ride on the back of a dirtbike, or stuff a more-than-
+safe amount of people into the back of a sedan, but your 
+vehicle’s not going to provide quite its usual kick.
+Rigger interface: When added to a vehicle, this lets 
+you use a control rig to jump in and control it directly 
+through immersive virtual reality. The standard rigger 
+interface allows the vehicle to be controlled with either 
+a direct fiber-optic cable or wireless link. See Being the 
+Machine, p. 265.
+Weapon mounts: Vehicles may be equipped with a 
+number of weapon mounts equal to their unaugmented 
+Body ÷ 3 (round down). Standard weapon mounts may 
+hold any assault rifle or smaller-sized weapon and 250 
+rounds of ammo. Heavy weapon mounts count as two 
+weapon mounts and can hold any weapon and up to 
+>> STREET GEAR <<
+CULTURED BIOWARE
+BIOWARE
+ESS
+AVAIL
+COST
+Cerebral booster
+(Rating 1-3)
+Rating x 0.2
+(Rating x 6)
+Rating x 31,500¥
+Damage compensators 
+(Rating 1-12)
+Rating x 0.1
+(Rating x 3)F
+Rating x 2,000¥
+Mnemonic enhancer
+(Rating 1-3)
+Rating x 0.1
+(Rating x 5)
+Rating x 9,000¥
+Pain editor
+0.3
+18F
+48,000¥
+Reflex recorder (Skill)
+0.1
+10
+14,000¥
+Sleep regulator
+0.1
+6
+12,000¥
+Synaptic booster
+(Rating 1-3)
+Rating x 0.5
+(Rating x 6)R
+Rating x 95,000¥
+MAGICAL EQUIPMENT
+FOCI
+AVAIL
+COST
+Enchanting Focus
+(Force x 3)R
+Force x 5,000¥
+Metamagic Focus
+(Force x 3)R
+Force x 9,000¥
+Power Focus
+(Force x 4)R
+Force x 18,000¥
+Qi Focus
+(Force x 3)R
+Force x 3,000¥
+Spell Focus
+(Force x 3)R
+Force x 4,000¥
+Spirit Focus
+(Force x 3)R
+Force x 4,000¥
+Weapon Focus
+(Force x 4)R
+Force x 7,000¥
+FORMULAE
+AVAIL
+COST
+Focus Formula
+as Focus
+Focus Cost x 0.25
+Spell Formula
+     Combat
+8R
+2,000¥
+     Detection
+4R
+500¥
+     Health
+4R
+500¥
+     Illusion
+8R
+1,000¥
+     Manipulation
+8R
+1,500¥
+MAGICAL SUPPLIES
+AVAIL
+COST
+Magical Lodge 
+Materials
+Force x 2
+Force x 500¥
+Reagents, per dram
+—
+20¥
+VEHICLE MODIFICATIONS
+MODIFICATION
+AVAIL
+COST
+Rigger interface
+4
+1,000¥
+Standard weapon mount
+8F
+2,500¥
+Heavy weapon mount
+14F
+5,000¥
+Manual operation
++1
++500¥
+<< MAGICAL EQUIPMENT    461
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p467 =====
+500 rounds of belted ammo or up to Body rockets/mis-
+siles. All weapon mounts are operated remotely and can 
+target a ninety-degree arc of fire (horizontal and verti-
+cal). Manual operation can be added, but only for vehi-
+cles, not drones, and at extra cost.
+BIKES
+Bikes are operated with the Pilot Ground Craft skill. 
+Most come available with either electric or hybrid bio-
+fuel engines.
+Dodge Scoot: This is an electric-powered scooter 
+with a top speed of don’t make me laugh. It’s compact, 
+fuel-efficient, and super-affordable, but no self-respect-
+ing shadowrunners would be caught dead on one.
+Harley-Davidson Scorpion: This bike is a classic, 
+heavy-bodied, heavily chromed road hog, armored and 
+styled for intimidation. Very popular with a certain type 
+of go-ganger, and with big, tough orks and trolls who 
+don’t worry about little things like “embodying a cliche.” 
+This bike is even tough enough to be used in the combat 
+biking circuit.
+Yamaha Growler: This is a durable off-road bike used 
+in motocross and other extreme sports events, usually 
+seen in photos and footage with both the bike and its 
+rider covered in dust. It’s popular with thrill seekers, wil-
+derness buffs, and light-freight drug smugglers.
+Suzuki Mirage: This Japanese racing bike is a fast, 
+sleek speed machine, popular with the other type of 
+go-ganger—it’s worth mentioning that both the Scorpi-
+on and the Mirage are popular with the Cutters, but the 
+Ancients show a notable preference for the Mirage and 
+its cousins and competitors. Like the Scorpion, the Mi-
+rage also sees some use in the combat bike circuit.
+CARS
+Cars are operated with the Pilot Ground Craft skill. 
+Most come available with either electric or hybrid bio-
+fuel engines.
+Chrysler-Nissan Jackrabbit: This cheap, ubiquitous 
+electric subcompact was made in North America for de-
+cades. Even after North American production ceased, 
+dozens of generic rip-offs were contract produced 
+SUZUKI MIRAGE
+>> STREET GEAR <<
+SIMILAR MODELS
+No two vehicles are created equal, but many are created 
+damn close. Every commercially available vehicle listed here has 
+numerous cousins, copycats, clones, and competitors that have 
+the same name but different branding, make, and model year. 
+These add an opportunity for you to define your character further 
+through his personal preference and brand awareness, without 
+cluttering up the game system with dozens of near-identical 
+cars. There are no differences between “similar models” except 
+branding and, at the gamemaster’s discretion, brand-related price 
+tweaks and maybe a point or so difference in an attribute or two.
+VEHICLE	
+SIMILAR MODELS
+Dodge Scoot	�����������������������������������Hyundai Hopper, Entertainment 
+Systems Papoose
+Harley-Davidson Scorpion	���������BMW Blitzen, Gaz-Niki Titan
+Yamaha Growler	���������������������������Evo Falcon, Gaz-Niki Wolverine
+Suzuki Mirage	�������������������������������Yamaha Rapier, Thundercloud Contrail
+Chrysler-Nissan Jackrabbit 	�������Peugeot 112, Opel Luna
+Honda Spirit	�����������������������������������Wuxing Breezer, Toyota Gazelle
+Hyundai Shin-Hyung	���������������������BMW 400GT, GMC Commodore
+Eurocar Westwind 3000	���������������Porsche Aguilar, Ferrari Diabolus
+Ford Americar	�������������������������������Mercury Comet, Honda Citizen
+S-K Bentley Concordat	�����������������GMC Cadillac Nocturne, BMW X89
+Mitsubishi Nightsky	���������������������Rolls Royce Phaeton
+Toyota Gopher	�������������������������������Gaz P–179, Wuxing Peng You 4x4
+GMC Bulldog Step-Van	���������������Renault-Fiat Eurovan, Aztechnology 
+Governor
+Rover Model 2072	�������������������������Ares Humvee, Toyota Coaster
+Ares Roadmaster	��������������������������Esprit Industries Sororita, Renraku 
+Kamekichi
+Samuvani-Criscraft Otter	�������������GMC Outrider, Celebrian Nymph
+Yongkang-Gala Trinity	�������������������Zemlya-Poltava Crest, Celebrian Dart.
+Morgan Cutlass	�����������������������������Surfstar Marine Seacop, 
+Messerschmidt-Kawasaki Harbor 
+Sentry
+Proteus Lamprey	���������������������������Kalmaar Seefuchs, Toyota TLM–2
+Vulkan Electronaut	�����������������������Proteus Explorer, Aztechnology Jade 
+Diver
+Artemis Industries Nightwing	�����IFMU Spatz, Suzuki Wingman
+Cessna C750	�����������������������������������Lear-Cessna Rover
+Renault Fiat-Fokker Tundra 9	�����Airbus JPFB-03, Toyota TX13
+Ares Dragon	�����������������������������������Hughes Stallion
+Northrup Wasp	�����������������������������Lockheed Kestrel, Renraku Dragonfly
+Ares Venture 	���������������������������������Cascade Skraacha, Zhejiang 
+Shenying Industries Raptor
+GMC Banshee	�������������������������������Aztechnology Lobo
+Federated Boeing Commuter	�����Hughes-Aerospace Daytrader
+462    VEHICLES and DRONES  >>
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p468 =====
+throughout the third world. The sheer amount of Chrys-
+ler-Nissan’ Jackrabbits on the road means the older model 
+must continue to be supported.
+Honda Spirit: This sleek three-wheeled two-seater 
+features an electric engine and is popular with commut-
+ing sprawl dwellers. The spirit has a bubble hood for bad 
+weather, with a chemical coating “guaranteed to neutral-
+ize 89 percent of acid rain.”
+Hyundai Shin-Hyung: This cheap four-door sports 
+sedan is a fast, powerful car for corp youth to show off 
+their moxie to their friends in a socially acceptable and 
+constructive way. Available for low prices out of the box, 
+the Shin-Hyung is often heavily customized by tuners and 
+street racing enthusiasts to the point of being far more 
+functional and barely recognizable.The Shin-Hyung can 
+be bought cheap, goes fast, and handles well. What else 
+could you want? These facts have made it popular with 
+Triad and Yakuza elements as well as more affluent street 
+gangs and slumming rich-kids.
+Eurocar Westwind 3000: This sleek, classic, low-slung 
+speed machine mixes business and pleasure into perfec-
+tion. Situated perfectly at the intersection of luxury and 
+performance, this is a turbo-charged sportscar that is only 
+a pipe dream for most slags working their way up through 
+the shadows. Its sexy lines and powerful engine make it 
+consistently powerful among muscle car enthusiasts.
+Ford Americar: This four-door sedan has an afford-
+able price point, capacious luggage storage, and safety 
+features that, combined, made it the bestselling family 
+car in North America for decades before losing out to the 
+Mercury Comet. The Americar is reliable and economical, 
+but not fast or sexy. If you need to ferry four metahumans 
+from point A to point B, a Ford Americar is probably the 
+most straightforward and anonymous way to do so. It’s 
+not flashy, and it’s not stylish, but sometimes flashy gets 
+you killed.
+Saeder-Krupp-Bentley Concordat: This luxury sedan 
+is stylish, stately, and impressive. It is fast and powerful, 
+comfortable and safe, opulently appointed, and most 
+importantly, a status symbol. The SK-Bentley Concordat 
+is the kind of car that simstars and orxploitation rappers 
+drive; a runner behind the wheel of one has made the big 
+time indeed. Either that, or they stole it.
+Mitsubishi Nightsky: Decadent, secure, and high-
+tech, this armored limousine isn’t for you. It’s for corp 
+executives, media stars, and Mr. Johnson; only in their 
+company will you enjoy its spacious interior and luxuri-
+ous amenities.
+TRUCKS AND VANS
+Trucks and vans are operated with the Pilot Ground 
+Craft skill. Most come available with either electric or 
+hybrid biofuel engines.
+Toyota Gopher: This is a classic pickup with great 
+off-road suspension, superior handling, and a loyal cus-
+tomer base. This low-maintenance design is a bit dated 
+but sees widespread use in third world nations and rural 
+areas, especially the NAN. It’s not the most wiz thing 
+you could drive, although its powerful engine and stor-
+age space could certainly come in handy if you have 
+some heavy duty hauling to do.
+GMC Bulldog Step-Van: This long-running top seller 
+from GM is a capacious (and armored!) delivery van fa-
+vored by everybody from legitimate shipping and logis-
+tics companies to security agencies to heavy mob crews 
+>> STREET GEAR <<
+VEHICLES
+GROUNDCRAFT
+HANDL* SPEED*
+ACCEL
+BOD
+ARMOR
+PILOT
+SENSOR
+SEATS
+AVAIL
+COST
+Dodge Scoot
+4 / 3
+3
+1
+4
+4
+1
+1
+1
+—
+3,000¥
+Harley-Davidson Scorpion
+4 / 3
+4
+2
+8
+9
+1
+2
+1
+—
+12,000¥
+Yamaha Growler
+4 / 5
+3 / 4
+1
+5
+5
+1
+1
+1
+—
+5,000¥
+Suzuki Mirage
+5 / 3
+6
+3
+5
+6
+1
+2
+1
+—
+8,500¥
+C-N Jackrabbit
+4 / 3
+3
+2
+8
+4
+1
+2
+2
+—
+10,000¥
+Honda Spirit
+3 / 2
+4
+2
+8
+6
+1
+2
+2
+—
+12,000¥
+Hyundai Shin-Hyung
+5 / 4
+6
+3
+10
+6
+1
+2
+4
+—
+28,500¥
+Eurocar Westwind 3000
+6 / 4
+7
+3
+10
+8
+3
+5
+2
+13
+110,000¥
+Ford Americar
+4 / 3
+3
+2
+11
+6
+1
+2
+4
+—
+16,000¥
+SK-Bentley Concordat
+5 / 4
+5
+2
+12
+12
+2
+4
+4
+10
+65,000¥
+Mitsubishi Nightsky
+4 / 3
+4
+2
+15
+15
+3
+5
+8
+16
+320,000¥
+Toyota Gopher
+5 / 5
+4
+2
+14
+10
+1
+2
+3
+—
+25,000¥
+GMC Bulldog
+3 / 3
+3
+1
+16
+12
+1
+2
+6
+—
+35,000¥
+Rover Model 2072
+5 / 5
+4
+2
+15
+12
+2
+4
+6
+10
+68,000¥
+Ares Roadmaster
+3 / 3
+3
+1
+18
+18
+3
+3
+8
+8
+52,000¥
+* Handling and Speed are listed as On Road/Off Road when slashes are used.
+<< VEHICLES and DRONES     463
+
+
+===== shadowrunfiftheditioncorerulebook_V2.pdf p469 =====
+to shadowrunners. It has lots of room for people, gear, or 
+whatever you need to move, plus an engine and chassis 
+that can take a ton of punishment and keep on running.
+Rover Model 2072: Bigger and more powerful than 
+it needs to be, this luxury van is the top-of-the-line in its 
+class, and just as much of a status symbol as the Bentley. 
+On top of that, it packs intimidating size and all the acces-
+sories for cruising through the wilderness. Or, more com-
+monly, through elite urban neighborhoods. This expensive 
+vehicle is gaining more and more popularity with discreet 
+security details for its combination of status and security.
+Ares Roadmaster: This is a fragging armored car, chum-
+mer, and you should be grateful you can buy it legally. Le-
+gitimately used to move goods over land that need secure 
+transportation, the Roadmaster may have the speed and 
+handling of the tank that it is, and it may be anything but 
+subtle, but it can reliably shrug off small arms fire and even 
+grenades. For many teams, that’s a worthwhile tradeoff.
+BOATS
+Boats are operated with the Pilot Watercraft skill.
+Samuvani Criscraft Otter: This mid-size craft is main-
+ly used for pleasure boating, fishing, light hauling, and 
+utility work. A five-meter-long vessel with a fiberglass 
+open hull, the Otter is a well-rounded, general-purpose 
+boat that doesn’t stand out in any one area.
+Yongkang Gala Trinity: This small, fast-moving 
+speedboat is known as a smuggler’s craft. It’s generally 
+built on the spot using prepared components and a hull 
+kit, assembled with its payload built right into the hull; 
+then on arrival, the Trinity is taken apart around its cargo, 
+with the profit of the haul compensating for the fact the 
+boat was used only once.
+Morgan Cutlass: This commonly seen patrol boat 
+comes equipped with a pair of heavy, manually operat-
+ed weapon mounts (usually outfitted with LMGs) and a 
+high-quality sensor suite.
+SUBMARINES
+Submarines are operated with the Pilot Watercraft skill.
+Proteus Lamprey: This underwater sea-sled is used 
+for underwater inspection and transportation. with rid-
+ing positions for up to four scuba-equipped passengers 
+(while closest to a submarine, the Lamprey does not ac-
+tually protect its passengers from the rigors of the deep). 
+Military models of the lamprey are used for aquatic in-
+sertions by specially equipped naval spec ops forces, 
+like the UCAS Navy SEAL teams. The lamprey also in-
+cludes a drone rack for a single seaworthy drone of me-
+dium or smaller size for exploring at deeper depths than 
+the passengers can safely go.
+Vulkan Electronaut: This two-person mini-sub is the 
+cheapest available in its class and is available in a wide 
+selection of utility models. It is often used on patrol and 
+short-range reconnaissance duties and resupply runs, but 
+it can also be leveraged by shadowrunner teams looking 
+for unexpected ways to approach nautical targets.
+FIXED-WING AIRCRAFT
+Fixed wing aircraft are operated with the Pilot Aircraft 
+skill.
+Artemis Industries Nightwing: The Nightwing is an 
+older model ultra-light, closely resembling those that 
+originated in the late twentieth century. The Nightwing 
+has a shrouded electric motor to minimize aircraft sound 
+and reduce heat emissions—while this has a stated pur-
+pose of preventing noise pollution and environmental 
+impact, it has the side effect of making the small, glid-
+er-like craft quite stealthy. The Nightwing is popular with 
+rural aviation enthusiasts, smugglers, and anyone who 
+favors a classic stealth insertion.
+Cessna C750: This dual-prop civilian plane can carry 
+passengers, haul light cargo, or serve as a surveillance 
+plane. Its light frame and economy, as well as its afford-
+able price point and commonality, have ensured that 
+some see use in smuggling operations.
+Renault-Fiat Fokker Tundra-9: This amphibious jet is 
+great for heavy cargo and personnel hauling and doesn’t 
+need an airfield to land. It is used by corporate logis-
+tics teams for resupply of out-of-the-way facilities and 
+by Awakened game hunters and poachers to reach their 
+dangerous game. This craft is amphibious and comes 
+standard with buoyancy and flotation upgrades, mean-
+ing it can take off from land and water.
+ROTORCRAFT
+Helicopters are operated with the Pilot Aircraft skill.
+Ares Dragon: This versatile, solidly built, double-prop 
+cargo helicopter is used in a wide variety of roles in ur-
+ban and remote areas all over the Sixth World. It is often 
+used for heavy cargo hauling ops up occasionally in a 
+military capacity as a hybrid gunship/troop transport by 
+Knight Errant and their elite Firewatch special forces.
+Nissan Hound: This is a bleeding-edge transport he-
+licopter used by the Imperial Japanese Marines, along 
+with Special Forces units around the globe. To no one’s 
+surprise, it is also quite popular with corporate security 
+ROVER MODEL 2072
+>> STREET GEAR <<
+464    VEHICLES and DRONES  >>

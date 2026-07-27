@@ -1,0 +1,110 @@
+the SIN number itself. Related information such as bio-
+metric data will likely be missing or obviously false if 
+checked (“Hey, this is the DNA of a chicken ...”). Other 
+issues may be the consistency, or fit, of the identity to 
+the individual. If a runner just needs an identity—any 
+identity—right now, they may end up purchasing a SIN 
+for a ten-year-old Nigerian girl. Higher Rating, and thus 
+more expensive, fake SINs have been lovingly crafted 
+over time with a great deal of attention to detail. An 
+identity will be chosen that matches the age and na-
+tionality of the person purchasing it, and it will have 
+plausible supporting information such as travel and 
+purchasing history. Biometric data associated with 
+a high-Rating SIN will be from a real person with the 
+same sex and nationality as the purchaser with (if the 
+extra fee is paid) matching organic samples available 
+(blood, skin cells, hair—just don’t ask where they came 
+from). For availability and prices of purchasing Fake 
+SINs, see p. 367.
+CHECKING A FAKE SIN
+While having some sort of SIN is mandatory for a 
+person to interact in any way with the “civilized” (as 
+they would put it) world, the level to which the SIN is 
+checked and verified varies widely based on the situa-
+tion and who is doing the checking. In game terms the 
+sophistication of the system doing the checking and 
+how much information it is able to verify is represented 
+by its Rating. Less sophisticated units will perform only 
+the most basic checks, while more sophisticated ones 
+will perform a deeper analysis with cross-verification. 
+In game terms, the gamemaster should make a Simple 
+Device Rating x 2 Test with a threshold equal to the 
+rating of the fake SIN (use Device Ratings, p. 234, for 
+SIN verification system ratings). If the number of hits is 
+under the threshold, the system reports no problem. If 
+the threshold is reached but not exceeded, the system 
+reports that something seems “odd” with the SIN and 
+will recommend that the operator investigate further. 
+Whether the operator actually does anything is up to 
+them. If the threshold is exceeded, the system reports 
+the SIN as false and may immediately notify the author-
+ities. At this point, the fake SIN is considered burned.
+BURNED SINS
+When a fake SIN has been checked and found to be 
+false, the SIN Verification System notes this immediate-
+ly. If it is connected to the Matrix (and what isn’t these 
+days), it reports the fake SIN, via a special emergency 
+message, back to the SIN registry system of the coun-
+try in which the verification takes place. Any further 
+use of the fake SIN automatically fails. At this point, the 
+runner or person using the fake SIN should abandon it 
+for good. If that’s not an option, there is small chance 
+that it can still be used. A SIN is only marked as burned 
+instantly in the country where it was detected. Data 
+sharing between countries is not always perfect or in-
+stantaneous. At the gamemaster’s discretion, a SIN that 
+has been burned in one country may not be burned in 
+a different country.
+DROP-IN 
+LOCATIONS
+More often than a gamemaster wants, characters will 
+decide to go somewhere unexpected. This can leave 
+the gamemaster in a bind, as they may have to create a 
+detailed location on the fly. Even when they don’t have 
+to improvise, gamemasters sometimes have trouble 
+creating the amount of detail that may be required (or 
+desired) for a location. What follows in this section are 
+a series of generic drop-in locations that can be used in 
+your Shadowrun game. They can be used as-is, or taken 
+as a starting point and then modified to suit the specific 
+needs of the game.
+HELL-HOLE BAR
+When living your life from day to day is a mighty strug-
+gle, you can be sure that people are going to want a 
+drink. The hell-hole bar is one of the only forms of orga-
+nized business that a person is likely to find if they are 
+wandering the Redmond Barrens, El Infierno, Aurora 
+Warrens, or any other area of urban decay and aban-
+donment. Getting a drink here can literally kill a person, 
+felled either by the rough patrons of the bar or by the 
+foul excuse for what they call liquor (brewed in some 
+cobbled-together excuse for a still in the basement). 
+However, since these areas almost never draw the eye 
+of any law enforcement, or anyone with much self-re-
+spect for that matter, they make an ideal location to 
+make a deal or have a meeting, away from any notice. 
+Security in these kinds of places is generally very light. 
+SIN VERIFICATION DETAILS
+RATING WHAT’S CHECKED
+1
+Do you have a SIN?
+2
+Basic redundancy check on the number and 
+vital statistics
+3
+Redundancy check on number and statistics; 
+query for external data attached to SIN
+4
+Verify all vital statistics; external data 
+checked for obvious conflicts; biometric must 
+be present
+5
+Full verification and consistency check; 
+biometrics tested against sample
+6
+All possible verification; multiple biometric 
+samples must match; random supporting 
+data verified externally
+>> GAMEMASTER ADVICE <<
+368    Drop-In Locations >>

@@ -1,0 +1,101 @@
+priate for all drones, of course; the gamemaster is the 
+final arbitrator in what is and isn’t allowed. 
+WEAPON MOUNTS
+Probably the most common drone mod is finding a 
+way to strap weapons onto one. Due to the small size 
+of drones, standard vehicle mounts aren’t always ap-
+propriate, so drones use weapon mounts from the fol-
+lowing chart. Each weapon mount added uses up the 
+listed number of Mod Points (listed as MP), allowing 
+a drone to sometimes mount several smaller weapons 
+rather than a single large one. All weapon mounts are 
+at least Restricted, while some are Forbidden outside of 
+military use as shown. In addition, authorities are quite 
+interested in what weapons are mounted in them! In 
+most nations, it’s illegal for a drone to mount anything 
+other than non-lethal weaponry. The CAS is a notable 
+exception to this rule.
+OPTION: POP-OUT MOUNTS
+Ordinarily a weapon mount is quite obvious, as is the 
+weapon mounted therein. Since shadowrunners tend 
+to have quite illegal things mounted on their drones, 
+this can be problematic, as you might imagine. There 
+are two disguises for weapon mounts that can be used 
+on drones. The first are blow-away panels. These are 
+simple coverings that are designed to be ejected just 
+before the weapon is triggered. Once blown away, the 
+weapon is left exposed and obvious, but this method 
+is both cheap and easy. Blow-away panels may be in-
+stalled with a simple Kit, and cost 25 nuyen x the MP of 
+the weapon mount. A Perception + Intuition [Mental] 
+(2) Test will reveal that there’s something covered, but 
+not what it is. Once the panel is blown away, it cannot 
+be recovered.
+The other option is “pop-up” weapons (or pop-out, 
+or pop-under as the case may be). These are weapons 
+stored inside the body of the drone, deployed on com-
+mand (requiring a Free Action), then retracted again with 
+another command (also a Free Action). Much harder to 
+detect (requiring a Perception (4) Test) and re-usable, 
+the mechanisms are a bit cumbersome and complex, 
+adding 1 to the number of MP consumed by a weapon 
+thus concealed. (For example, a standard mount with 
+pop-up options would cost 4 MP.)  Pop-up mounts may 
+be installed with a Shop, and they cost 100 nuyen x the 
+increased MP of the weapon.
+OPTION: EXPANDED 
+AMMUNITION BAY
+Unlike normal vehicular weapons, the tight constraints 
+of a drone’s body offer limited ammunition reserves. 
+JUST HOW FAST IS THAT, ANYWAY?
+While the speed of many vehicles was listed in SR5 (p. 
+200), there are advanced rules. Speed for drones is listed with 
+an appropriate letter code indicating its type of travel: G for 
+ground, R for rotor, J for jet, or W for water. When comparing 
+speed across modes, note that in order of relative speed, they 
+line up like this (from slowest to fastest): Water, Ground, Rotor, 
+and Jet. Drones will have trouble catching up to a drone or 
+vehicle traveling in a faster mode. For more information, see 
+chapter nine, Maximum Pursuit. 
+WEAPON MOUNTS
+MOUNT
+MP
+AVAIL
+WEAPON
+Micro
+0
+8R
+Single-shot bullet or dart. 
+Mini
+1
+4R
+Hold-out pistol, light pistol, 
+reach 0 melee weapons, 
+single-shot grenade
+Small
+2
+8R
+Heavy pistol, machine pistol
+Standard
+3
+10F
+Sub-machine gun, under-
+barrel grenade launcher
+Large
+4
+12F
+Shotgun, hunting rifle, 
+assault rifle, grenade 
+launcher
+Huge
+5
+16F
+Sniper rifle, light or medium 
+machine gun
+Heavy
+6
+20F
+Heavy machine gun, rocket 
+launcher, assault cannon
+>> RIGGER 5.0 <<
+124    >> THE AUTOMATED ARMY <<

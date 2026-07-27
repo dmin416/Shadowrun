@@ -1,0 +1,1346 @@
+
+
+===== datatrails.pdf PDF 55 =====
+Deckmaster prepared his cyberdeck carefully. He had 
+been a past master of the Matrix, a virtuoso of working 
+programs. He had wielded IC picks of white-hot titani-
+um and progs of hellfire. IC melted away from him like 
+a tropical heatwave. Demand for his services had been 
+huge.
+Then came the changes in the Matrix. The new se-
+curity waves. The different grids. GOD ascendant. Sud-
+denly, having a hot ’link and a fistful of sweet apps didn’t 
+cut it any longer. The posers with their talk of IC Pick Art 
+and strict study of the source and changes came back to 
+power. Those things just ate away at Deckmaster’s par-
+tying time.
+Then the cash ran out. It always did, but this time 
+there were no more gigs. No more shadowrunners 
+searching for him. No more paydata falling out of the 
+databases like manna from heaven. He’d had to scrimp, 
+save, wheel, deal, steal, and otherwise fight for his sur-
+vival in the shadows.
+Then luck came, an extraction gone wrong, a dead 
+decker. A loose cyberdeck filled with wonderful warez. 
+Deckmaster, loving his new street name, would finally 
+be back on top, demanding top nuyen. A few paydata 
+scores, some new datamonger contacts, a new rep. He 
+stroked the Microdeck Summit and smiled. All would be 
+his again. Getting the deck to work with him had been 
+hard, requiring specialized tools, research, and more 
+than one bribe to hardware experts to find out why it 
+was temperamental. The hardware restrictions had only 
+recognized the old owner. But a bit of brute force had 
+fixed that. Hopefully he’d be able to afford a new cyber-
+deck soon—the case on this one was cracked, and the 
+design was boring anyway. Even in mint condition, this 
+thing wouldn’t look good at the clubs.
+Deckmaster dove once again full bore into the Ma-
+trix, full-on hot-simsense style, the only way to fly. His 
+new persona was chromed to a high finish, changing 
+away like a pinball machine and glistening with gold 
+lights. He chose a random place and slammed the picks 
+into place, chipping the IC away. It took more effort and 
+adjustments of the progs to work right, but he was more 
+than willing to do what it took. It sure beat life eating 
+unflavored, unheated nutrisoy. Knowledge would grant 
+him power once again, and this place, Damballa Investi-
+gations and Investments (whatever they might be), was 
+just the start.
+He idled around, downloading everything that 
+looked even remotely interesting. Let the datamon-
+ger sort through it—that’s what he’s for, after all. Soon, 
+however, he felt like he was being watched. He shifted 
+his perception around, spotting the icon of a strikingly 
+handsome man in a black chrome suit who started to 
+talk when Deckmaster spotted him. 
+“Chummer, you came to the wrong neighborhood,” 
+the persona said, his violet eyes sparkling coldly. Deck-
+master had only moments before he saw the mouth 
+open impossibly wide and flames shot out, sending 
+shockwaves of brain-destroying code down the connec-
+tion.
+CYBER SOLUTIONS 
+BY CYBERPROGRAMS
+POSTED BY: GLITCH
+I had originally tapped Slamm-0! to write here, but first 
+I got something about artistic coding in the modern 
+Matrix, then I got something that compared the cyber-
+programs of today to the sport of cricket. I decided it 
+would be best to write this on my own.
+>	
+Hey now, cricket is a wonderful sport.
+>	
+Goat Foot
+Hardware and software have to go hand-in-hand to 
+allow people like us to make our mark on the Matrix, 
+and that is as true today as ever. Making hosts bend to 
+our very will is not easy, thanks to all that has been done 
+to hedge in the liberty that was the old Matrix with new 
+security and restrictions. The Matrix is now designed to 
+make everyone good little victims for the megas’ bene-
+fits. While the new protocols have changed a lot, infor-
+mation is still power, and it still demonstrates a tangible 
+urge to be free, as the cost of passing data around gets 
+cheaper every day.
+So with Slamm-0! falling down on the job, it falls to 
+me to give everyone a quick overview of all the pro-
+DATA TRAILS
+KILLER APPS  
+& RAZOR FORMS
+54    KILLER APPS AND RAZOR FORMS >>
+
+
+===== datatrails.pdf PDF 56 =====
+grams that affect shadowrunners. I’ll start with the low-
+est common denominator: commlinks and their apps.
+Actually, there isn’t anything “low” about commlinks, 
+especially from an information-gathering or profit point 
+of view. A large number of people practically live with 
+their commlinks (and those with implanted models actu-
+ally do so), and they typically run the entire PAN of their 
+owners. Add to that shopping patterns, bank records, 
+personal pleasure habits, social networking, and so on, 
+and you’ve got a poorly secured smorgasbord of data 
+for someone doing legwork. And the apps people use 
+just make it easier, as most of them are designed to prop 
+up the consumerist sentiments and activities of which 
+the corps are so fond. There are so many apps, some 
+with a culture of their very own growing around them, 
+that no one can track them all. Some apps are even sta-
+tus symbols in their own right, as important to users as 
+the brand of ’link they’re running, while others can be 
+troubling for us. The major one that everyone is wor-
+ried about is the classic PANICBUTTON!™, an enhanced 
+emergency calling system that makes priority calls that 
+are monitored by 911, 999, and 112 operators (and all 
+the other numbers there are in the world), as well as pri-
+ority service from various emergency companies. For a 
+monthly fee, you only have to push a button for nearly 
+immediate response, with only a virtual molly-guard to 
+prevent accidental calls. 
+>	
+Part of the contract is that the user shares GPS locations, 
+access to audio and video recording from all devices in 
+the customer’s PAN, and a direct dump of relevant data 
+to the BUTTONPUSHER!™ covering a period from a day 
+before the button is pushed all the way until two weeks 
+after the company informs the person that they will stop 
+monitoring them. All at a modest monthly fee. Oh, and 
+that’s just the large print.
+>	
+Hannibelle
+There are, of course, billions of absorbing little games 
+out there, played by regular corp drones and shadowrun-
+ners alike. They can have a useful function—AR games 
+that allow a person to keep an eye on what they’re do-
+ing, sort of, while preventing boredom from eating away 
+at them can maintain focus on those long stakeouts. I 
+don’t use them while on the job, but in my downtime I’m 
+fond of Spirit Popper. I’m not looking for new people to 
+play with, though, so no invites please.
+Legal cyberprograms come next. They’re common 
+and ubiquitous, but still potentially useful. They serve 
+more as a reminder that cyberdecks are designed and 
+used for utility and maintenance of grids and hosts rath-
+er than outright hacking. The majority of people using 
+cyberdecks are computer techs slaving away far and 
+below security spiders and combat deckers that fill the 
+shadows and bad ’trid shows. While smaller in variety, 
+there are a lot of huge brand-name programs doing sim-
+ilar jobs. They, like cyberdecks, are specialist tools that 
+require extensive skills that border on artistry.
+Illegal cyberprograms—the things most of us here 
+are interested in—are the things that make datatheft and 
+combat hacking possible. Sure, most of them are com-
+bat programs (spirits, far too many attack programs!), 
+but a good number are utilities that expand the variety 
+of options available to deckers attempting to get by with 
+their wits and onboard software. A small number, de-
+signed by the shadow market, even incorporate ideas 
+from commlink apps.
+In the end, though, it isn’t about what tools deckers 
+have as much as how they use them. Skill, more than 
+ever, matters on the battlefields of the Matrix. 
+>	
+And thank Ghost for that! We actually got some of the 
+damn kids off my lawn!
+>	
+Bull
+GAME INFORMATION
+COMMLINK APPS
+Simple little programs, apps are useless for hacking 
+against other devices or hosts. They usually only en-
+hance a user’s augmented reality or virtual reality ex-
+perience, with a few minor options for support pro-
+grams. A commlink can run as many apps as half its 
+Device Rating, rounded up.
+AR Games: Typically casual games that are displayed 
+in augmented reality, allowing a user to enjoy them as 
+a pastime while also still somewhat paying attention to 
+reality. The number on the market is huge, with some 
+<< KILLER APPS AND RAZOR FORMS    55
+
+
+===== datatrails.pdf PDF 57 =====
+older flatscreen and trid games being modified to run 
+on commlinks.
+Diagnostics: An ongoing self-evaluation system 
+that monitors all the devices in a user’s PAN, giving 
+constant vital statistics on their behavior. Popular with 
+computer-literate and interested users who enjoy trying 
+to squeeze every last bit of usefulness out of devices, 
+they are also popular in keeping people aware of attacks 
+against their PAN in a manner similar to a biomonitor.
+P2.1: A dramatic update to the old P2.0 system put 
+into place by Horizon, this social networking app mon-
+itors and supports all other social networks that a per-
+son might use, incorporating it all into a dramatic web 
+of information. It also generates a P-Score that is a major 
+piece of status in a lot of virtual places and within Hori-
+zon as a whole.
+Theme Music: An algorithm that constantly moni-
+tors the owner of the PAN in all their interactions with 
+devices. Taking this data, it attempts to determine the 
+emotional state of the person and generates a playlist of 
+songs to better support said user, either enhancing the 
+feelings or dampening them. Essentially the mood ring 
+of the Sixth World.
+Ticker: A series of commlink apps that provide an 
+information feed from a specified source, the vast ma-
+jority being legitimate, such as stock markets and news 
+organizations. Some shadow services also use these 
+apps to give details on other shadowrunners, fixers, Mr. 
+Johnsons, police response times, and current payment 
+rates for a variety of services and bribes. Ticker reduc-
+es the time for subject-related Matrix Searches in half. 
+Obviously, there are a great many topics out there that 
+don’t generate enough traffic to merit an information 
+feed—for example, you can’t subscribe to a feed with 
+up-to-the-minute news about Medieval Europe when 
+Mr. Johnson sends you after a weird-looking cup and 
+expect results to come flooding in.
+COMMON 
+CYBERPROGRAMS
+Originally developed to legally work with networks, 
+hosts, and grids, some of these programs are quite 
+useful for deckers if they have a little bit of imagination.
+Bootstrap: An IT expert’s tool of choice when work-
+ing with boot code of a device. Corrupted by many hack-
+ers, Bootstrap allows for hidden commands to be input 
+into the device after the next reboot. Popular options 
+include announcing the location of the device when 
+it connects to the Matrix, adjusting the processing of 
+the device so that the default device attributes are the 
+choice of the user, annoying the user with constant de-
+mands for ownership permissions, and making a record 
+of every action on the device. This cyberprogram allows 
+for a variety of tasks to be set up in the boot record by 
+way of a Format Device action rather than just setting the 
+device up to no longer function.
+Search: When loaded, this cyberprogram tailors the cy-
+berdeck’s search algorithms to match the specific iconogra-
+phy of the host, making the decker’s Matrix Search results 
+more likely to contain the paydata he’s looking for. This is 
+quite popular with Mr. Johnsons, who often provide copies 
+with pre-loaded search requirements that are programmed 
+to self-destruct after use, so that they can only be run once. 
+The program provides 2 extra dice on a Matrix Search ac-
+tion when looking for specific data on a host that contains 
+that data. There is no bonus is if the decker is searching for 
+something that originates from outside the host.
+Shredder: Designed to assist in erasing files and all 
+their redundant back-up options that might be around 
+inside a host and grid that the host inhabits, Shredder 
+adds 2 to a cyberdeck’s Data Processing attribute for 
+the purpose of deleting a file with the Edit File action. 
+It functions by entering a large amount of random junk 
+data into designated files, overwriting them repeatedly 
+to help deter attempts at recovering them. A nice secu-
+rity option that is legal for users to use. Recovering a file 
+that has been Shredded (or destroyed by a Data Bomb, 
+for that matter) requires constant access to the host or 
+grid the file was originally on, and a Computer (File Re-
+covery) + Logic [Mental] (18, 1 week) Extended Test, 
+which explains why offline back-ups are quite popular.
+HACKING 
+CYBERPROGRAMS
+Illegal, horrible pieces of code designed to work in an-
+tisocial methods against the legal and proper users of 
+the Matrix, its various grids and hosts, and the whole-
+some and honest protectors in GOD. But enough about 
+the positive things about these programs ...
+Cat’s Paw: A low-offensive attack program that dis-
+tracts the user instead of damaging the device he is us-
+ing, Cat’s Paw is useful to prevent a user from performing 
+Matrix actions while not bricking the device they may be 
+using. This program fills the AR display or VR experience 
+with annoying errors, spam pop-ups and pop-unders, 
+or other distracting garbage. On a successful Data Spike 
+action (p. 239, SR5), instead of doing damage, the pro-
+gram generates a negative dice pool modifier equal to 
+two plus the number of marks the user has on his target. 
+Marks added or removed after using Cat’s Paw will also 
+modify the penalty accordingly.
+Cloudless: Not comfortable with your data stored 
+only in the Matrix’s cloud? This program uses legacy 
+code from previous incarnations of the Matrix to place 
+data in physical media and physical media only. In ad-
+dition to saving a file, it allows the user to use a suc-
+cessful Edit File action to move a file off the Matrix into 
+the memory of a single designated device. This test is 
+an Opposed Test, using the normal rules for Edit File (p. 
+239, SR5).  The Public grid has a dice pool of 6, local 
+grids a dice pool of 8, and global grids a dice pool of 10 
+for the purposes of this test.
+>> DATA TRAILS <<
+56    KILLER APPS AND RAZOR FORMS >>
+
+
+===== datatrails.pdf PDF 58 =====
+Crash: One thing deckers have learned about the 
+new Matrix protocols is that the ability to force devices 
+to reboot can be very beneficial. Crash is there to help 
+deckers who want to do this. When running, it attempts 
+to fill a targeted device with an exceptional amount of 
+reboot-worthy errors, adding 2 to the Data Processing 
+attribute of a deck running this program when it at-
+tempts a Reboot Device action (p. 242, SR5).
+Detonator: With delicate monitoring, this cyberpro-
+gram is able to determine how often a file is accessed, 
+and it sets a data bomb to go off after it has been affect-
+ed a set number of times. To use this program, a deck-
+er attempts a Set Data Bomb action; if successful, they 
+can then select how many actions can be executed with 
+the file before the bomb goes off. They can also choose 
+whether the Data Bomb does Matrix damage or just de-
+letes the file. Similar to a Data Bomb, a Detonator can be 
+detected with a Matrix Perception Test and defused with 
+a Disarm Data Bomb action. Notoriously difficult to spot, 
+Detonator-enabled data bombs are considered to have 
+a Device Rating of 3 and a Sleaze attribute equal to [Re-
+maining actions before detonation – 1] for the purposes 
+of opposing Matrix Perception tests. This program costs 
+twice as much as normal hacking cyberprograms, mean-
+ing it costs 500 nuyen.
+Evaluate: With constant updates from a series of Black 
+BBS that specialize in monitoring paydata auctions, this 
+program calculates how much a certain amount of pay-
+data might be worth, in order to allow the decker to only 
+take an amount that would limit the amount of heat they 
+would generate in stealing a little extra while on the job.
+Fly on a Wall: Haven’t you always wanted to be the 
+fly on a wall, in order to see the look on the faces of 
+people when the final tally of their lives comes up? Well, 
+GOD tends to prevent long-term surveillance by unau-
+thorized personnel, but this program helps rebalance 
+the scales. While this program is running, and the decker 
+is performing no actions other than Matrix Perception 
+tests, the Overwatch Score only increases by 1D6 per 
+half-hour (rolled in secret by the gamemaster as normal). 
+The program requires a Hide action in order to activate 
+properly, and it does not assist in any way in preventing 
+any other icon from noticing the decker.
+Hitchhiker: There are some special parts of the Ma-
+trix where you can take others with you--and where 
+you definitely don’t want to be alone. Grab this pro-
+gram to take your non-hacker friends to foundations 
+and UV hosts.
+Nuke-from-Orbit: A hugely powerful file destruc-
+tion program that requires frequent updates as adjust-
+ments in file recovery technology continue to progress. 
+This upgraded and outright illegal program is designed 
+to ensure that no one will ever be able to recover a file 
+that it destroys. If used to delete a file (the Edit File action 
+should be used), this program ensures that no one will 
+ever be able to recover the file from the Matrix A brutal 
+and decidedly unsubtle cyberprogram, any Overwatch 
+Score generated from the Opposed Test is doubled. Of-
+fline back-ups and the Resonance realms are the only 
+options for getting the file back. Nuke-From-Orbit has an 
+Availability Rating of 12F
+Paintjob: Resprays and textures a persona’s icon, as-
+sisting in erasing or knocking off marks as it does so, 
+ensuring the decker is able to trust in the fact that his cy-
+berdeck is not being affected by outsiders. This program 
+adds 2 to the Attack attribute for the purpose of making 
+Erase Mark tests.
+Smoke-and-Mirrors: Adds significant amounts of 
+misleading location information in order to keep the 
+decker from being located IRL. This program increases 
+the cyberdeck’s Sleaze attribute between 1 and 5 (us-
+er’s choice) with an equivalent amount of noise added 
+to any tests performed with the deck. The noise also af-
+fects Trace Icon tests performed against the deck using 
+the program. This program has no effect against conver-
+gence (p. 231, SR5), as GOD and all the demiGODs can-
+not be distracted by so simple a trick.
+Swerve: Just as deckers have seen the benefits of 
+forcing other devices to reboot, they have seen a need 
+to keep their devices safe from those efforts. Swerve 
+adds redundant code to the OS of the cyberdeck and 
+any connected devices in the decker’s PAN, making it 
+easier for the devices to resist crash attacks. This pro-
+gram adds 1 to the Firewall attribute of a device for the 
+purpose of resisting Reboot Device attempts.
+Tantrum: This program overlays cold simsense sen-
+sations on top of a Data Spike action, hitting the target 
+with a quick and disgusting sensation if even a single 
+box of Matrix Damage is scored. The program is effec-
+tive against all technomancers, as well as cold sim or 
+hot sim deckers, but it does nothing to users working 
+in the Matrix in AR, any form of IC, and agents. The pro-
+gram does no damage from the Data Spike; instead, 
+the targeted user experiences Nausea (p. 409, SR5) for 
+three Combat Turns due to the sensory input. Popular 
+options this program uses to make targets feel queasy 
+include the smell of a dirty diaper or the feeling of being 
+punched in the junk.
+Tarball: A powerful but inaccurate combat program 
+based on the old tar-based IC used for decades, Tarball 
+adds 2 to the Attack attribute and 1 to the dice pool of 
+Crash Program attempts (both of these bonuses only ap-
+ply to Crash Program attempts), but its broader-based 
+attack affects a random program rather than a chosen 
+one.
+ 
+COMPLEX FORMS
+Always being researched, developed, manipulated, 
+and perfected by technomancers, Complex forms 
+continue to twist and crack the very concepts of what 
+is “reality” in the Matrix, warping it even further than 
+the already-twisted electronic world where the only 
+boundaries are virtual reality and imagination.
+>> DATA TRAILS <<
+<< KILLER APPS AND RAZOR FORMS    57
+
+
+===== datatrails.pdf PDF 59 =====
+DEREZZ
+Target: Persona • Duration: I • FV: L + 2
+A stiletto or ice pick as opposed to the typical su-
+perheated sledgehammers, the Resonance energy from 
+this form slides into the cracks and holes in the target’s 
+armor and strips it away slightly. Make a Software + Res-
+onance [Level] v. Willpower + Firewall test, doing 1 box 
+of Matrix damage per net hit, and dropping the target’s 
+Firewall attribute by 1 until the device has rebooted. 
+Additional successful Derezz attacks do not stack the 
+Firewall adjustment, even if they are from two separate 
+technomancers.
+FAQ
+Target: Device • Duration: P • FV: L
+Scanning the very darkest depths of the Matrix to 
+find out exactly what has been going on with the device 
+they physically have or the host they are current inside 
+of, the technomancer is able to delve into the very deep-
+est questions to find out the true purpose of it. Make an 
+immediate Computer + Intuition [Level] Test with Level 
+/ 2  (rounded up) dice added to the pool from the com-
+plex form. Gamemasters should provide information to the 
+player based on the number of hits this test generates, with 
+truly obscure or long-forgotten bytes of information requir-
+ing 6 hits.
+IC TRAY
+Target: Host • Duration: I • FV: L – 2
+This form scans the host the technomancer is cur-
+rently residing in and displays a list of the IC it is current-
+ly equipped to deploy, up to the number of hits scored 
+on an Opposed Software + Resonance [Level] vs. Host 
+Rating + Sleaze Test.
+REDUNDANCY
+Target: Device • Duration: S • FV: L + 0
+This form works with Resonance threads to better 
+allow for secondary and tertiary connections, making 
+the device slightly tougher for a limited amount of time. 
+Redundancy grants additional, temporary boxes to the 
+Matrix Damage Track to one device, giving a number of 
+boxes equal to the hits acquired on a Simple Software + 
+Resonance [Level] Test.
+MISREAD MARKS
+Target: IC • Duration: P • FV: L + 2
+A nasty little thing that will manipulate how IC per-
+ceives the Matrix, and who exactly is friend or foe. Tem-
+porarily tricks a targeted IC into thinking your marks are 
+its intended targets, similar to the way someone might 
+mistakenly attack a magic-user’s illusion. This lasts for 
+for a number of actions (including Simple or Complex, 
+but not Free) equal to the hits scored on a Simple Soft-
+ware + Resonance [Level] Test. If you have multiple 
+marks in the same host, the mark that is attacked is se-
+lected randomly.
+ECHOES
+Submersion, while an intensive process, can provide a 
+number of rewards. Echoes are the most widely known 
+of these quasi-mystical powers, potentially manipulat-
+ing the mind and body of the technomancer.
+FFF: The Fight-or-Flight Filter echo adjusts the tech-
+nomancer’s basic instincts for combat situations, mak-
+ing them far more efficient than that of a normal meta-
+human, while also muting the nagging portions of the 
+brain that insist on feeling injuries. The technomancer 
+receives all the benefits, but also all the difficulties, of 
+a pain editor (p. 460, SR5) without needing to have the 
+cultured bioware made for them and the surgery to get 
+it implanted. A technomancer must have already sub-
+merged at least once prior to taking this echo.
+Mathemagics: Adjusting the logic centers of the 
+brain, this echo allows a dramatically large increase in 
+>> DATA TRAILS <<
+SPECULATIVE DATA GATHERING
+Vacuuming up paydata that isn’t related specifically to a 
+job is, mostly, an outright act of greed. There might be other 
+mitigating factors to take into consideration, but doing it just for 
+the extra few nuyen to go on the credstick is just how it goes. 
+Doing so, however, means that the runner team is heading 
+deeper down the “cold-hearted bastard” end of things (p. 376, 
+SR5). This should affect the monetary end of things when all 
+is said and done, as the runners pawn the paydata through a 
+regular fixer or a specialized fence known as a datamonger. 
+Note that this will likely also adjust the Karma payout at the 
+end of the gig, which may or may not annoy the rest of the 
+team.
+Of course, the opposite is also true. The decker can adjust 
+or outright erase files that will give them no monetary reward 
+but will make them feel better about themselves, as well as 
+trying to strike a blow against the corporations that rule the 
+Sixth World. Corrupting information such as onerous loan 
+records, forged blackmail, or even minor things like traffic 
+tickets can edge the decker towards the “good feelings” 
+portion of shadowrunning.
+Those actions—stealing extra data or erasing it—raise the 
+risk of increasing a decker’s Notoriety (p. 372, SR5) as those 
+actions will increase the amount of heat put onto deckers in 
+general, and the run performed in particular, as well as running 
+the risk of pissing off the Mr. Johnson.
+In the end, everything has a price. What is yours, and what 
+will it be paid in?
+58    KILLER APPS AND RAZOR FORMS >>
+
+
+===== datatrails.pdf PDF 60 =====
+the math processing potential of the technomancer. This 
+allows the technomancer to have the ability to perform 
+simple math operations with perfectly accurate results, 
+increasing the Mental Limit for math-intensive actions, 
+such as encryption and decryption, by 2.
+MMRI: Known as the Man-Machine Resonance In-
+terface, this echo subtly manipulates the Resonance 
+coming off the technomancer, allowing them to bet-
+ter jump into drones and rigger-modified devices. This 
+provides the same effects as a control rig (p. 452, SR5), 
+without the free datajack and datacable. This can be tak-
+en up to three times, each increasing the effective rating 
+of the control rig by one.
+Quiet: Where this runner goes, tendrils of Matrix 
+connectivity continue to follow along, allowing every-
+one to benefit from the majesty of the Matrix. Techno-
+mancers with the Quiet echo reduce the Noise of their 
+area by 2 (p. 230, SR5) for a radius around the hacker of 
+10 meters per point of Resonance attribute. This echo 
+can be activated or deactivated at will with a Free Action.
+Resonance Riding: A strange twist of the Matrix fol-
+lows the technomancer even through secondary means 
+of connection, giving them the ability to perform some 
+Resonance actions while jacked into the Matrix through 
+a commlink or cyberdeck. While going through this 
+secondary system, the technomancer cannot use their 
+Living Persona or benefit from any of the Living Perso-
+na’s attributes, or perform the Compile Sprite, Register 
+Sprite, or Thread Complex Form actions. All other Reso-
+nance actions are available.
+Resonance Scream: Through sheer force of will, the 
+technomancer is able to flood their area with spam mes-
+sages, annoying the hell out of everyone and increasing 
+the noise of the area by 2 for a radius around the hacker 
+of 10 meters per Resonance attribute, affecting every-
+one (including the technomancer) therein as if they were 
+inside of a spam zone. This can be turned on and off 
+with a Free Action, which is handy because spam rage 
+is a major issue.
+Skinlink: You gain the ability to forge a direct con-
+nection with any device you can physically touch.  Two 
+technomancers with this echo can mentally communi-
+cate simply by touching.
+Sleepwaker: The technomancer gains the ability 
+to subconsciously perceive minor events happening 
+around their body while working with the Matrix in VR. 
+This allows them to choose to perform Perception-relat-
+ed Free Actions in the Matrix or the real world.
+>> DATA TRAILS <<
+STYLES OF NOISE
+While having the identical effect in the rules, the sources and 
+methods of noise in the world are vastly different things. Static 
+zones have little to no wireless connections, making them areas that 
+limit the amount of connections, and bandwidth, available for the 
+Matrix. Spam zones are the exact opposite, having multiple levels 
+of access, but overburdened by so much traffic that bandwidth is 
+overwhelmed and unable to flow properly. Dead zones, of course, 
+are where nothing is happening, Matrix-wise.
+These zones affect the shadowrunners in different ways. 
+Dead zones annoy them with the inability to get even a single 
+bar of connection, while spam zones annoy them by constantly 
+flooding every bit of their perception with advertisements for 
+consumeristic garbage. Creating or enhancing those zones is 
+fairly subtle—after all, if you’re not expecting the best wireless 
+service in an area, do you complain about how it really isn’t 
+working one day? Or perhaps people just shrug because the spam 
+is particularly thick today—maybe some great new cat video got 
+posted that everyone needs to watch.
+If someone uses the wrong type of Noise in an area, however, 
+things get quite less subtle very, very quickly. After all, if there are 
+no people in the area who can see into augmented reality, why 
+would a spam zone suddenly pop up that can be seen by anyone 
+with even the most basic commlink? In the other direction, a 
+spam zone being flooded with static and a lack of ability to get out 
+those  advertisements is going to slot off a corporation or two—
+they don’t like people messing with revenue-generators. It’s a 
+basic rule of shadowrunning—don’t do things that call too much 
+attention to yourself.
+<< KILLER APPS AND RAZOR FORMS    59
+
+
+===== datatrails.pdf PDF 61 =====
+You already know that the Matrix is a consensual hal-
+lucination created to make it quick and easy to use the 
+colossal ocean of data and information and computing 
+power that has been created by metahumanity. You’re 
+aware that you can plug in and get 3D graphical rep-
+resentations of everything from the history of the Qin 
+Dynasty to conspiracy theories about President Dun-
+kelzahn’s assassination to the latest street drug prices 
+to simsense escort services to the complete works of 
+Shakespeare spontaneously generated by a near-in-
+finite number of virtual monkeys.
+But what is the Matrix, exactly? Where is it? Can 
+someone accidentally unplug it? You’ve got questions, 
+we’ve got answers, and they are, in reverse order: no, 
+everywhere, and it goes like this.
+THE MATRIX IS  
+IN YOUR POCKET
+In fact, the Matrix is your pocket, or it could be. But let’s 
+not get ahead of ourselves.
+Way back in the history of the Matrix, all the way back 
+to Echo Mirage, the Matrix was run on mainframes—gi-
+ant computers. The Matrix ran pretty much entirely in-
+side these mainframes, and your cyberdeck interpreted 
+the connections between mainframes for you.
+Nowadays, we’ve made computers so compact and 
+efficient that we literally have them in our lingerie (which 
+is useful for things like washing instructions, storing 
+mood music, and earning Tres Chic Intimates Collection™ 
+reward points). When all those computers work togeth-
+er, you get the biggest, baddest, most mother-fragginest 
+Matrix the world has ever seen.
+WHAT THAT MEANS
+When everything is the Matrix, you can use anything to 
+get into the Matrix. The commlink is what every shad-
+owrunner will want for their own personal Matrix use, 
+but there’s so much more. Need to access the Matrix in 
+the morning and your commlink’s at the cleaners? No 
+problem, with a few mods and a Hardware test, you can 
+be surfing the Matrix on your toaster. 
+For the discerning hacker, there’s the cyberdeck. 
+Some hackers say you’re only as good as your deck; 
+most of those hackers are dead, but there’s some truth 
+to it. Whether you’re looking for a new deck or to spice 
+up your old one, you’ve opened the book to the right 
+chapter, chummer.
+When you’re bored with commlinks and cyberdecks, 
+start hacking in Insanity Mode. The last section of this 
+chapter is all about how to take common household 
+items and make Matrix magic, for fun or because you’re 
+stranded in an electronically locked shipping container 
+with nothing but a troll and a pet robot, and you need to 
+open the doors before you sink too deep into the strait 
+you’ve just been dropped into. When life gives you lem-
+ons, make jury-rigged electronics!
+COMMLINKS
+Commlinks are still the dominant telecommunications 
+and entertainment devices of the Sixth World, so let’s 
+take a quick look at the vital things that make this utility 
+knife of a device what it is.
+FORM FACTOR
+The form factor of a commlink is the physical shape of 
+the device. The standard form factor for a commlink is a 
+small, flat, rectangular object about fifteen centimeters 
+or so long. Commlinks are also available in non-stan-
+dard form factors at a slight premium. The most popu-
+lar non-standard form factors include articles of cloth-
+ing, pens, glasses, pocket and wrist watches, purses, 
+hats (fedoras are in fashion for both genders), canes, 
+knives, and small pistols.
+If you want a commlink in a non-standard form fac-
+tor, add 2 to the commlink’s Availability and 20 percent 
+to its cost. If you want to integrate a commlink into a 
+weapon, add 4 to the commlink’s Availability and 50 
+percent to its cost—it’s a bit trickier to install a commlink 
+into a weapon in such a way that it won’t be damaged 
+by normal use. In either case, you still have to cover the 
+cost of the form factor separately, if applicable.
+For examples of some non-standard form factors, 
+check out the following!
+DATA TRAILS
+THE GUTS OF
+THE MATRIX
+60    THE GUTS OF THE MATRIX >>
+
+
+===== datatrails.pdf PDF 62 =====
+EVOTECH HIMITSU
+This lunchbox-sized commlink appears to be a generic, 
+uninteresting, low-level consumer commlink. In fact, it 
+contains a secret compartment that can hold items no 
+larger than a pistol or a cigar box. The compartment 
+is shielded with its own built-in Faraday cage, and the 
+commlink has a stealth module integrated into the 
+board, giving it Sleaze 5.
+MCT BLUE DEFENDER
+This commlink comes standard as a wristband that is, 
+as you’d expect, blue. Designed for legitimate sale to 
+security forces and off-the-books distribution to shad-
+owrunners and criminals worldwide, this stylish brace-
+let protects your devices from evil hackers with a stron-
+ger-than-average Firewall.
+NIXDORF SEKRETÄR
+Are you constantly confused and lost? Does your file 
+directory look like your commlink was the sole victim 
+of the Crash 3.0? Worry no more, because the Nix-
+dorf Sekretar has your back. It has a built-in Rating 
+3 agent that will organize your calendar, your files, 
+your work, and (with the Liebesekretär upgrade) your 
+love life.*
+* Liebesekretär package includes automatic match mak-
+ing, date scheduling, concierge service, and rating system. No 
+guarantee is implied in this service. Some terms and condi-
+tions apply. Always use protection.
+COMMLINK DONGLES
+A dongle is a small device that attaches to a commlink’s 
+universal data port and gives it extra functionality. Un-
+less you’ve got a teeny little commlink, a dongle barely 
+increases the size of the whole thing. A commlink can 
+only use one dongle at a time.
+ATTACK DONGLE
+This dongle doesn’t actually attack people, though that 
+would be cool. It gives the commlink an Attack rating 
+equal to its rating, providing some on-the-fly, quick at-
+tack resources. DemiGODs love corporate employees to 
+use these, as they can provide more time for them to track 
+down and punish intruders.
+CABLE TAP
+This shady dongle has a small split ring that can be 
+wrapped around a data cable, giving your commlink a 
+direct connection to the devices on either side of the 
+cable it’s clipped to.
+COMMLINK FORM FACTOR
+FORM
+AVAIL
+COST
+Non-standard Form Factor
++2
++20%
+Weapon Form Factor
++4R
++50%
+COMMLINKS
+COMMLINK
+DEVICE RATING
+DATA PROC.
+FIREWALL
+AVAIL
+COST
+EvoTech Himitsu
+2
+1
+2
+8R
+11,000¥
+MCT Blue Defender
+3
+1
+5
+7
+2,000¥
+Nixdorf Sekretär
+4
+6
+2
+5
+4,000¥
+    w/ Liebesekretär
++1
++2,000¥
+<< THE GUTS OF THE MATRIX    61
+
+
+===== datatrails.pdf PDF 63 =====
+STEALTH DONGLE
+A stealth dongle gives the commlink a Sleaze rating 
+based on the rating of the dongle, for those who want 
+their quick actions to be more subtle, less brutal.
+STUN DONGLE
+This dongle turns your commlink into a stun gun, 
+though one that requires contact with the target to op-
+erate. It is a popular choice of civilians who want incon-
+spicuous protection and a convenient carrying case. It 
+packs three charges in its slim form factor.
+RECEIVER
+Just plug this dongle into your commlink and you get 
+Noise Reduction 2 for your commlink and all slaved de-
+vices! Great for spam zones!
+CYBERDECKS
+The cyberdeck is the decker’s bread and butter. And 
+knife. And plate. And toaster. Really, it’s the entire 
+kitchen. There are lots of cyberdecks on page 439 of 
+SR5, but we know you’re hungry for more.
+FORM FACTOR
+The standard cyberdeck form factor is a smooth, flat, 
+elongated rectangle about twenty-five centimeters 
+long, with plenty of display space for touch controls. 
+Like commlinks, cyberdecks can also fit into non-stan-
+dard form factors, following the same rules and costs 
+for commlink form factors (p. 60).
+STANDARD DECKS
+For more information about cyberdecks, see Cyber-
+decks, p. 227, SR5.
+RADIO SHACK PCD-500
+This little wonder is the perfect model for the aspiring 
+young cybersecurity specialist. Bulk discount for edu-
+cational institutions—contact a sales representative for 
+details. Are you going to squeeze a lot of power out of 
+it? No. But it’s like the Radio Shack motto says: “Radio 
+Shack: Better than nothing, most of the time!”
+LITTLE HORNET
+This compact cyberdeck is made in Chicago under the 
+UCAS ghoul employment program, and we pass the 
+savings right on to you! It’s high end goes to pretty 
+good heights, but watch out where you put those low-
+end attributes. Lots of Little Hornet owners also invest 
+in a Configurator program (p. 245, SR5).
+MICROTRÓNICA AZTECA 300
+Sold as an upgrade to the 200 model, the Microtrónica 
+Azteca 300 is little more than the 200 with a smaller 
+cooling system and an extra quaternion quantum buf-
+fer. Even so, you can’t dismiss the extra power the new 
+configuration gives the 300, with some benchmarks 
+outperforming similarly rated decks. 
+XIAO MPG-1
+The MPG-1 is designed by our friends at the Midwest 
+Pirate’s Guild with one deadly purpose: smash every-
+thing in your way before it can hit back. Lots of IC was 
+harmed in the making of this deck.
+SHIAWASE CYBER-4
+The first product of Shiawase’s reboot of the Fuchi Cy-
+ber line, the Cyber-5, was a deck that had high praise 
+but low sales figures, criticized for being out of reach 
+COMMLINK DONGLES
+DONGLE
+AVAIL
+COST
+Attack dongle (Rating 1-6)
+[Rating x 
+2]R
+(Rating)2  
+x 3,000¥
+Cable tap
+8R
+500¥
+Stealth dongle (Rating 1-6)
+[Rating x 
+2]R
+(Rating)2  
+x 3,000¥
+Stun dongle
+6R
+600¥
+Receiver
+3
+400¥
+CLUBS
+CLUB
+ACCURACY
+REACH
+DAMAGE
+AP
+AVAIL
+COST
+Stun dongle
+4
+—
+8S(e)
+–5
+6R
+600¥
+CYBERDECK FORM FACTOR
+FORM
+AVAIL
+COST
+Non-standard Form Factor
++3
++20%
+Weapon Form Factor
++6R
++50%
+>> DATA TRAILS <<
+62    THE GUTS OF THE MATRIX >>
+
+
+===== datatrails.pdf PDF 64 =====
+of the larger cybersecurity market. The Cyber-4 was in-
+troduced as a low-price, high-performance cyberdeck, 
+undercutting the price point of the CIY-720 while out-
+performing the more popular cyberdeck in some areas. 
+This model will save you a lot of money, but leave you 
+with one glaring vulnerability. Tread carefully.
+FAIRLIGHT PALADIN
+An incredible feat of human ingenuity, the Fairlight Pal-
+adin is a masterpiece of cyberdeck design and engi-
+neering. The Paladin is considered a “pinnacle achieve-
+ment” by execs and engineers at NeoNET’s Fairlight 
+division. Fairlight has sold only five of the decks in the 
+world and report that they are filling orders for another 
+twelve. Some say that the deck costs more to manu-
+facture than the million-plus asking price, making the 
+top-end cyberdeck more of a territorial marker in the 
+industry than a product intended for sale.
+SPECIALTY DECKS
+Specialty cyberdecks are built with a specific purpose 
+in mind. You can’t swap a specialty deck’s attributes 
+when you reconfigure, only its programs. On the plus 
+side, they’re a bit cheaper than standard decks.
+MCT TRAINEE
+A spider’s got to start somewhere, and Mitsuhama 
+starts theirs with cybercombat training decks. These 
+decks have built-in Biofeedback Filter programs to keep 
+the trainees (relatively) safe. Though if you take one 
+into the wilds of the Matrix, you’d better be ready for 
+the demiGODs to get creative in the ways they cause 
+you pain.
+C-K ANALYST
+The Cantor-Kurosawa Analyst is what every investiga-
+tive journalist needs to poke around without being no-
+ticed, find the plain truth, package it up, and broadcast 
+it in microseconds. The built-in high-def camera and 
+recording suite, complemented by the hardwired Edit 
+>> DATA TRAILS <<
+<< THE GUTS OF THE MATRIX    63
+
+
+===== datatrails.pdf PDF 65 =====
+program, will make you look like a million nuyen as you 
+tell it like it is to the world.
+AZTECHNOLOGY EMISSARY
+For the courier on the go, this deck is designed to car-
+ry and protect files. It’s also handy for protecting slaved 
+devices and your own wetware. Just don’t make the mis-
+take of many a medieval noble who wandered out from 
+behind their walls to engage the enemy. Being strong on 
+defense is not the same as being skilled in attack.
+YAK KILLER
+This powerful but somewhat fragile deck isn’t exactly an 
+official product of the Reality Hackers gang of Seattle. 
+Their unusual configuration isn’t exactly licensed, the 
+proceeds don’t exactly go to the gang, and having one 
+won’t exactly make you the gang’s best friend, but it’s 
+a popular model among up-and-coming deck-trippers.
+RING OF LIGHT SPECIAL
+If you haven’t heard of the trid show, Ring of Light, 
+welcome back to civilization from your cave-dwelling 
+sabbatical. The decks used by the virtual fighters in this 
+digital cage match are now for sale to the public, and 
+are required for RoL-sanctioned local events and feed-
+er leagues. They’re about as stealthy as a troll riding a 
+rhino through a library, but stealth makes for bad trid.
+ARES ECHO UNLIMITED
+This deck puts the “special” in special forces. It is rugge-
+dized for hard combat missions with security contrac-
+tors like Hard Corps and Wolverine, along with a number 
+of government and civilian security organizations.
+CYBERDECK MODULES
+A cyberdeck module is a prefabricated component that 
+extends the capabilities of your deck. Each cyberdeck has 
+one module slot inside its case. Inserting, removing, or 
+swapping modules requires a Hardware + Logic [Mental] 
+(1) Test and about half a minute of time (10 Combat Turns).
+Modules aren’t as robust as your average deck and 
+are vulnerable to Matrix damage. If your deck is ever 
+bricked, any module in it becomes a useless hunk of 
+slag, even if you repair the deck.
+HARDENING
+The hardening module acts as a shield between your 
+deck and incoming damage. It has a Matrix Condition 
+Monitor with five boxes, and it takes damage before 
+your deck does. These boxes cannot be repaired.
+INDUCTION RECEIVER
+When you have this module installed, your deck can tap 
+into data cables and hardlines on contact. By placing your 
+CYBERDECKS
+DECK
+DEVICE RATING
+ATT. ARRAY
+PROGRAMS
+AVAIL
+COST
+Radio Shack PCD-500
+1
+2 2 1 1
+1
+2
+21,000¥
+Little Hornet
+2
+5 4 1 1
+2
+5R
+89,700¥
+Microtrónica Azteca 300
+3
+7 5 3 1
+3
+9R
+200,000¥
+Xiao MPG-1
+4
+8 5 4 3
+3
+13R
+302,000¥
+Shiawase Cyber-4
+4
+8 6 4 2
+3
+12R
+331,000¥
+Fairlight Paladin
+6
+9 9 8 8
+6
+20R
+1,050,000¥
+SPECIALTY CYBERDECKS
+DECK
+DEVICE RATING
+A S D F
+PROGRAMS
+AVAIL
+COST
+MCT Trainee
+1
+2 1 1 2
+1
+3R
+17,250¥
+C-K Analyst
+2
+1 5 4 3
+1
+5R
+83,800¥
+Aztechnology Emissary
+3
+2 3 3 8
+1
+8R
+168,000¥
+Yak Killer
+3
+7 6 2 3
+2
+13R
+194,000¥
+Ring of Light Special
+4
+8 1 2 6
+3
+10R
+242,000¥
+Ares Echo Unlimited
+5
+9 6 4 5
+3
+15R
+395,900¥
+>> DATA TRAILS <<
+64    THE GUTS OF THE MATRIX >>
+
+
+===== datatrails.pdf PDF 66 =====
+cyberdeck directly onto the cable, it becomes directly 
+connected to the devices on either side of the cable.
+MULTIDIMENSIONAL 
+COPROCESSOR
+This tongue-twister of a module speeds up Matrix sig-
+nals and commands, granting the deck’s operator an 
+additional +1D6 to Matrix Initiative (remember that you 
+can never roll more than 5D6 worth of initiative dice).
+OVERWATCH MASK
+This handy module confuses GOD’s watchful eye by 
+pretending it’s part of the Matrix enforcement system. 
+The Matrix doesn’t converge on a deck with this mod 
+until its Overwatch Score reaches 4 more than normal 
+(making it 44 in normal conditions).
+PROGRAM CARRIER
+This module holds a program that your deck can run 
+permanently. You pick the program and we lock it in at 
+manufacture, which means you can’t change it, but hey, 
+it’s an extra program. Price includes the program cost.
+SELF-DESTRUCT
+This module is 98 percent explosive material by weight. 
+When your deck detects a specific pre-determined 
+condition (chosen by you), the module explodes, turn-
+ing your cyberdeck into a fragmentation grenade—see 
+p. 435, SR5 for all the mayhem that causes. The deck, 
+of course, is completely unrecoverable, meaning may-
+be don’t put one of these into a Fairlight Paladin.
+VECTORED SIGNAL FILTER
+By adding a dedicated signal filter to your deck, this 
+module gives you Noise Reduction 2.
+ODD MODS
+If you want to modify a device to increase its built-in 
+ratings, or give it a new function, you’ve come to the 
+right place. All you need is the Hardware skill, some 
+Hardware tools (a kit will suffice), and some electronic 
+parts. You’ll also need some time.
+To start the process, pick a device and a modification 
+you want (there’s a list of modifications below). Then 
+make sure you have the electronic parts you need. Then 
+you just need to roll some dice and bam! You’ll have a 
+modified device. Or a mess.
+ELECTRONIC PARTS
+We say “parts,” but what we really mean is all of the 
+doo-dads and what-nots you’re going to need to 
+make your modification. This sort of thing includes in-
+tegrated circuits, disposable solder packets, ceramic 
+nano-sheets, quantum transducers, optical switches, 
+yadda, yadda, yadda—it’s easier to just say “parts” and 
+be done with it. 
+As you can see, there are a lot of expensive little 
+fiddly-bits needed to make Sixth-World electronics 
+work. To make things simpler for Shadowrun, we call the 
+amount of parts required to make one modification a 
+pack of parts.
+There are a couple of ways to get parts packs, the 
+two most common being to just go out and buy them or 
+to scrounge them by cannibalizing otherwise perfectly 
+good devices.
+ELECTRONIC  
+COMPONENT PACKS
+Electronic packs are sold over the counter at your 
+friendly local electronics store—buy in bulk for your 
+best deals. You can also get packs when buying tools. 
+Your standard Hardware shop (p. 443, SR5) comes with 
+two packs when you acquire it, and will need restock-
+ing when you use it up. A Hardware facility (also p. 443, 
+CYBERDECK MODULES
+MODULES
+AVAILABILITY
+COST
+Hardening
+3R
+1,500¥
+Induction Receiver
+10R
+1,200¥
+Multidimensional Coprocessor
+7R
+1,400¥
+Overwatch Mask
+9F
+4,200¥
+Program Carrier
+2
+900¥
+Self-Destruct
+12F
+200¥
+Vectored Signal Filter
+3
+800¥
+>> DATA TRAILS <<
+<< THE GUTS OF THE MATRIX    65
+
+
+===== datatrails.pdf PDF 67 =====
+SR5) has enough spare parts to make up ten electronic 
+component packs when you buy it.
+SCROUNGING FOR  
+ELECTRONIC COMPONENTS
+It’s a lot cheaper to cannibalize other devices for parts. 
+Stripping down an otherwise useful device for parts re-
+quires a Hardware toolkit and about ten minutes. Make 
+a Hardware + Logic [target’s Device Rating] Test, with 
+modifiers from the Device Stripping Modifiers table. 
+Every hit from this test gets you one quarter of a pack 
+of parts. You can keep the change, as it were, keeping 
+a fraction of a pack and saving it to add to future scav-
+enging results.
+MAKING THE 
+MODIFICATION
+If you don’t have enough packs of parts to make your 
+modification, the whole process is a no-go. You can’t 
+make something out of nothing. If you don’t have 
+enough parts, start looking for devices you can canni-
+balize, and you should be set. Or just go to the store.
+Making the modification to a device is a Hardware 
++ Logic [Mental] (15, 15 minutes) Extended Test. You 
+take a –4 dice pool modifier if you don’t have any Hard-
+ware tools, and the modifiers for working conditions and 
+working from memory (p. 146, SR5) apply.
+DEVICE MODIFICATIONS
+Here’s a list of mods you can perform on a device. This 
+isn’t an exhaustive list—if you want to try something 
+that isn’t written here, check with your gamemaster to 
+see if you can do it. There are no additional costs for 
+the mods beyond the cost for the parts and for any kits 
+or facilities used. Unless otherwise noted, a device can 
+only have one modification.
+Add a Matrix Attribute: You can add a rating that a 
+device doesn’t have, specifically Attack or Sleaze. When 
+you perform this mod, the rating starts at 1. You can’t 
+add a Matrix attribute to a device that already has that 
+attribute. Remember that all devices have Data Process-
+ing and Firewall, even if that information is not listed in 
+their gear entry. The Increase a Matrix Attribute modifi-
+cation can later be added to this modification. The num-
+ber of parts packs needed for this modification equals 
+the (Device Rating x 2) of the object being modified.
+Add a Module: You can hardwire a cyberdeck mod-
+ule into a device. You need the module you want to add 
+to the device. Most devices can only have one module, 
+although cyberdecks can have two—one in the normal 
+module slot, and the one you hardwire in. Hardwired 
+modules follow the same rules as normal modules (p. 
+64). This requires two packs of parts.
+Increase a Matrix Attribute: You can increase a sin-
+gle Matrix attribute by one point, but the cost in packs of 
+parts is equal to the new attribute rating x 2. This modifi-
+cation takes a lot out of the device’s other components, 
+causing two permanent and irreparable boxes of Matrix 
+damage to the device.
+Modify a Matrix Attribute: You can use this to in-
+crease one Matrix attribute and decrease a different 
+Matrix attribute, each by one point. This also works on 
+the attribute array of a cyberdeck. This requires four sets 
+of parts.
+Persona Firmware: With two packs of parts, you can 
+add the ability to run a persona to a device. If the device 
+already has this capability, you can’t add it again. 
+ELECTRONIC PARTS
+PACK
+AVAIL
+COST
+Single Pack
+—
+250¥
+Five-Pack
+—
+1,000¥
+DEVICE STRIPPING MODIFIERS
+CONDITION
+DICE POOL MOD
+Device is...
+   … a commlink or cyberdeck
++4
+   … cyberware
++0
+   … another type of device
+–4
+Each box of Matrix damage
+–1
+>> DATA TRAILS <<
+66    THE GUTS OF THE MATRIX >>
+
+
+===== datatrails.pdf PDF 68 =====
+>> DATA TRAILS <<
+<< THE GUTS OF THE MATRIX    67
+
+
+===== datatrails.pdf PDF 69 =====
+Time moved weird in the Matrix under the best of cir-
+cumstances, but it was even weirder when Groovetooth 
+was sneaking. Each step felt like it took a full minute, but 
+when she’d check the time, only seconds had passed. 
+She checked repeatedly and got the same result each 
+time, which helped convince her that maybe she could 
+stop. She had more time than she anticipated.
+She was slowly making her way through a lovely in-
+door greenhouse. It was full of ferns, tremendous ferns, 
+ferns of a greater variety and size than she had ever 
+seen in her life. They were thick and lush, easy to hide 
+under and in. Maybe too easy. If she ducked into the 
+thick of it, off the brick path winding through the plants, 
+she would be harder to see, but who knew what was 
+waiting on the ground?
+She’d know, dammit. She sent out a clutch of agents 
+in the form of snakes to investigate the ground just to 
+her left. Any hidden sensors would be, you know, hid-
+den, but she needed to at least look for them and hope 
+she got a good scan, in case something came along.
+Groovetooth’s persona was even smaller than her 
+real life body. It was barely more than a meter tall, in the 
+form of her namesake mouse, with black stripes running 
+down the brown fur on her back. She had programmed 
+the persona very carefully to look dignified and thought-
+ful—none of that typical mouse whisker-twitching for 
+her. She walked on her hind legs, continuing to step 
+carefully. Her destination, a fountain at the end of the 
+greenhouse, was maybe 75 meters away, but at her pace 
+it felt like 75 kilometers.
+Then a report came back from one of the snakes. Ac-
+tivity in the fountain. She had it transmit a feed to her, and 
+she didn’t like what she was seeing. Water was flowing 
+toward the center of the pool at the base of the fountain, 
+moving up into a column, taking a vaguely humanoid 
+shape. There was no way this could be good. Chances 
+were that some of her activity had been noticed. 
+Time to hide. She checked the scan of the ground to 
+her left. It seemed clean. Meanwhile, the watery form 
+was slushing forward through the water toward the edge 
+of the pool. 
+She plunged into the ferns, disturbing as few leaves 
+as possible. She went behind one plant, ducked, and 
+looked around.
+The plant was tall enough but too thin. Her fur could 
+be seen in gaps between the leaves. No good. And she 
+could hear sloshing water approaching.
+She plunged deeper, still didn’t feel concealed, and 
+went deeper still. Only to realize that she was in farther 
+than she had checked. In too far, as it turned out.
+A loud splintering sound caused her to look up. The 
+glass ceiling of the greenhouse was splintering, a spi-
+derweb of cracks moving quickly through it. Then large 
+chunks of glass fell, letting in beams of bright yellow 
+light through to the ground. They were accompanied by 
+a strange choir of voices, high and harmonious but with 
+an edge of hysteria and chaos.
+She looked around, desperately seeing if there was 
+a clear path through the multiplying beams of light. She 
+didn’t see a great path, but there was absolutely no way 
+she could stay here.
+Because GOD was coming.
+FEAR AND 
+TREMBLING
+POSTED BY: PISTONS
+Look, the new Matrix is rough. Should you be worried? 
+Yeah. Cautious? Of course. Scared?
+Never.
+If you’re scared, sell your cyberdeck to someone 
+who can really use it. Because if you run the Matrix with 
+fear, you run it with a time bomb strapped to your chest. 
+The GODs and demiGODs are tough, merciless, and 
+really good at what they do. But so are the Ancients, the 
+Red Samurai, and plenty of other people we encounter 
+on the street. We don’t back down. We get good.
+Now that you’ve had your pep talk, let’s look at how 
+our opponents work in the Matrix so you can know 
+what’s waiting for you.
+AVOIDING THE 
+WATCHFUL EYE OF GOD
+I chose the title of this section really carefully, because 
+as much as we can worry about the ways the GODs 
+and demiGODs can hurt us, the thing we really need 
+DATA TRAILS
+THE ALL-SEEING 
+EYE OF GOD
+68    THE ALL-SEEING EYE OF GOD >>
