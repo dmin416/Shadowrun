@@ -810,7 +810,9 @@ Sober time only negates penalties already in effect. Any penalties incurred afte
 
 If any attribute is reduced below 1 when the negative penalties return, the character will be rendered immobile and fall into a trance until the effect wears off.
 
-**Sober Time Example:** Wrecker is drunk and under the influence of a couple other drugs, just like any other ganger during their downtime. He is currently under the following penalties: Charisma -2, Intuition -2, Logic -1, and Willpower -2. Vindicator comes into the bar and says some Halloweeners are nosing around in search of their stolen deepweed. Wrecker, knowing this is trouble, injects sober time to reduce his impairments so he'll be ready when the bullets start flying. One point of penalties comes off each of the affected attributes, making the penalties Charisma -1, Intuition -1, Logic -0 (cleared; PDF prints a bare minus), and Willpower -1. He has used four of the six points of reduction that sober time provides; he has two left, and three attributes still penalized. Deciding there won't be much talking at this point, he leaves the -1 penalty in place on his Charisma and takes away the penalties remaining on his Willpower and Intuition. If Wrecker decides to use his custom combat drug when the Halloweeners bust the door open, he will suffer the custom drug's negative penalties just like normal, since it was administered after he took sober time (and he'll also have to test for drug interaction).
+**Sober Time Example:** Wrecker is drunk and under the influence of a couple other drugs, just like any other ganger during their downtime. He is currently under the following penalties: Charisma -2, Intuition -2, Logic -1, and Willpower -2. Vindicator comes into the bar and says some Halloweeners are nosing around in search of their stolen deepweed. Wrecker, knowing this is trouble, injects sober time to reduce his impairments so he'll be ready when the bullets start flying. One point of penalties comes off each of the affected attributes, making the penalties Charisma -1, Intuition -1, Logic -0 (cleared; PDF prints a bare minus), and Willpower -1. He has used four of the six points of reduction that sober time provides; he has two left, and three attributes still penalized.
+
+Deciding there won't be much talking at this point, he leaves the -1 penalty in place on his Charisma and takes away the penalties remaining on his Willpower and Intuition. If Wrecker decides to use his custom combat drug when the Halloweeners bust the door open, he will suffer the custom drug's negative penalties just like normal, since it was administered after he took sober time (and he'll also have to test for drug interaction).
 
 When the sober time wears off in forty minutes, assuming he lives that long, all the penalties will be doubled, meaning they will be Charisma -4, Intuition -4, Logic -2, and Willpower -4 (note that if Wrecker had chosen to not remove the penalty on one of those attributes, such as Logic, the other penalties would have been doubled, but the unaffected attribute would remain unchanged). Sadly for Wrecker, his base Willpower is 3, as is his Intuition, meaning they will both be reduced below 1. That means he'll be zoned out in the corner for the next hour until the drugs start wearing off naturally.
 
@@ -1177,56 +1179,56 @@ Blocks have two or three levels. A block that has a negative modification is inc
 When using custom drugs, remember that an Attribute can't be modified below 1. If someone takes a drug that will modify the Attribute to 0 or below, the person is paralyzed as their body is unable to function until the drug wears off.
 
 - **Block 1 (Crush):**
-  - Level 1: Strength +1, Intuition -1
-  - Level 2: Strength +2, Intuition -1, crash effect: 2S damage, unresisted
-  - Level 3: Strength +3, Intuition -1, Low Pain Tolerance quality (p. 82, SR5), crash effect: 2S damage, unresisted
+- Level 1: Strength +1, Intuition -1
+- Level 2: Strength +2, Intuition -1, crash effect: 2S damage, unresisted
+- Level 3: Strength +3, Intuition -1, Low Pain Tolerance quality (p. 82, SR5), crash effect: 2S damage, unresisted
 - **Block 2 (Brute):**
-  - Level 1: Body +1, Logic -1
-  - Level 2: Body +2, Logic -1, crash effect: 2S damage, unresisted
-  - Level 3: Body +3, Logic -1, Intuition -1, crash effect: 2S damage, unresisted
+- Level 1: Body +1, Logic -1
+- Level 2: Body +2, Logic -1, crash effect: 2S damage, unresisted
+- Level 3: Body +3, Logic -1, Intuition -1, crash effect: 2S damage, unresisted
 - **Block 3 (Strike):**
-  - Level 1: Agility +1, Strength -1
-  - Level 2: Agility +2, Strength -1, crash effect: 2S damage, unresisted
-  - Level 3: Agility +3, Strength -1, Unsteady Hands quality (p. 87, SR5), crash effect: 2S damage, unresisted
+- Level 1: Agility +1, Strength -1
+- Level 2: Agility +2, Strength -1, crash effect: 2S damage, unresisted
+- Level 3: Agility +3, Strength -1, Unsteady Hands quality (p. 87, SR5), crash effect: 2S damage, unresisted
 - **Block 4 (Lightning):**
-  - Level 1: Reaction +1, Logic -1
-  - Level 2: Reaction +2, Logic -1, Willpower -1
-  - Level 3: Reaction +3, Logic -1, Willpower -1, crash effect: 2S damage, unresisted
+- Level 1: Reaction +1, Logic -1
+- Level 2: Reaction +2, Logic -1, Willpower -1
+- Level 3: Reaction +3, Logic -1, Willpower -1, crash effect: 2S damage, unresisted
 - **Block 5 (Einstein):**
-  - Level 1: Logic +1, Willpower -1
-  - Level 2: Logic +2, Willpower -1, Intuition -1
-  - Level 3: Logic +3, Willpower -1, Intuition -1, crash effect: -1D6 Initiative Dice
+- Level 1: Logic +1, Willpower -1
+- Level 2: Logic +2, Willpower -1, Intuition -1
+- Level 3: Logic +3, Willpower -1, Intuition -1, crash effect: -1D6 Initiative Dice
 - **Block 6 (Gut Check):**
-  - Level 1: Intuition +1, Strength -1
-  - Level 2: Intuition +2, Strength -1, Reaction -1
-  - Level 3: Intuition +3, Strength -1, Reaction -1, crash effect: 2S damage, unresisted
+- Level 1: Intuition +1, Strength -1
+- Level 2: Intuition +2, Strength -1, Reaction -1
+- Level 3: Intuition +3, Strength -1, Reaction -1, crash effect: 2S damage, unresisted
 - **Block 7 (Stonewall):**
-  - Level 1: Willpower +1, Body -1
-  - Level 2: Willpower +2, Body -1, Agility -1
-  - Level 3: Willpower +3, Body -1, Agility -1, Strength -1
+- Level 1: Willpower +1, Body -1
+- Level 2: Willpower +2, Body -1, Agility -1
+- Level 3: Willpower +3, Body -1, Agility -1, Strength -1
 - **Block 8 (Smoothtalk):**
-  - Level 1: Charisma +1, Strength -1
-  - Level 2: Charisma +2, Strength -1, crash effect: 2S damage, unresisted
-  - Level 3: Charisma +3, Strength -1, Uncouth quality (p. 85, SR5), crash effect: 2S damage, unresisted
+- Level 1: Charisma +1, Strength -1
+- Level 2: Charisma +2, Strength -1, crash effect: 2S damage, unresisted
+- Level 3: Charisma +3, Strength -1, Uncouth quality (p. 85, SR5), crash effect: 2S damage, unresisted
 - **Block 9 (Shock & Awe):**
-  - Level 1: +1D6 Initiative, crash effect: 4S damage, unresisted
-  - Level 2: +2D6 Initiative, -1 to all limits, crash effect: 4S damage, unresisted
-  - Level 3: +3D6 Initiative, -2 to all limits, crash effect: 8S damage, unresisted
+- Level 1: +1D6 Initiative, crash effect: 4S damage, unresisted
+- Level 2: +2D6 Initiative, -1 to all limits, crash effect: 4S damage, unresisted
+- Level 3: +3D6 Initiative, -2 to all limits, crash effect: 8S damage, unresisted
 
 The following are advanced blocks and only have 2 levels due to their added complexity.
 
 - **Block 10 (Razor Mind):**
-  - Level 1: Intuition +1, Logic +1, Charisma -1, crash effect: 1S damage, unresisted
-  - Level 2: Intuition +2, Logic +2, Charisma -2, crash effect: 2S damage, unresisted
+- Level 1: Intuition +1, Logic +1, Charisma -1, crash effect: 1S damage, unresisted
+- Level 2: Intuition +2, Logic +2, Charisma -2, crash effect: 2S damage, unresisted
 - **Block 11 (The General):**
-  - Level 1: Charisma +1, Willpower +1, Strength -1, crash effect: 2S damage, unresisted
-  - Level 2: Charisma +2, Willpower +2, Strength -1, Agility -1, crash effect: 2S damage, unresisted
+- Level 1: Charisma +1, Willpower +1, Strength -1, crash effect: 2S damage, unresisted
+- Level 2: Charisma +2, Willpower +2, Strength -1, Agility -1, crash effect: 2S damage, unresisted
 - **Block 12 (Resist):**
-  - Level 1: Body +1, Willpower +1, Logic -1, crash effect: 1S damage, unresisted
-  - Level 2: Body +2, Willpower +2, Logic -1, Reaction -1, crash effect: 2S damage, unresisted
+- Level 1: Body +1, Willpower +1, Logic -1, crash effect: 1S damage, unresisted
+- Level 2: Body +2, Willpower +2, Logic -1, Reaction -1, crash effect: 2S damage, unresisted
 - **Block 13 (Speed Demon):**
-  - Level 1: Agility +1, Reaction +1, Strength -1, crash effect: 1S damage, unresisted
-  - Level 2: Agility +2, Reaction +2, Strength -1, Intuition -1, crash effect: 2S damage, unresisted
+- Level 1: Agility +1, Reaction +1, Strength -1, crash effect: 1S damage, unresisted
+- Level 2: Agility +2, Reaction +2, Strength -1, Intuition -1, crash effect: 2S damage, unresisted
 
 To design your own drug, first choose the foundation you want to start with, and then choose the level of the block you want to add. You can add additional blocks as long as the final drug adheres to all of the following restrictions:
 
@@ -1238,7 +1240,9 @@ To design your own drug, first choose the foundation you want to start with, and
 
 The base duration for customized drugs is 10 x 1D6 minutes. The base vector is Ingested, and the base Speed is 3 Combat Turns. These can be changed with Enhancers, as listed in the Available Enhancers table below. The costs and Addiction effects of Enhancers are in the Customized Drugs Cost table.
 
-Depending on what you want it to do, the Availability for a drug can be high, along with the cost. The benefit of being able to get exactly what you need makes customized drugs a popular choice with many professionals who prefer drugs for their boost. However, due to the nature of these drugs, they can't be found on street corners like run-of-the-mill drugs. Acquiring customized drugs requires a chemist or dealer contact with a Connection Rating of at least 5; the same level of contact is needed to acquire the raw ingredients necessary for these drugs. The raw ingredients cost half of the normal drug price. Mixing customized drugs requires a Chemistry + Logic Extended Test with a threshold equal to the drug's Availability x 2 and an interval of eight hours. A glitch on any part of the Extended Test requires the player to start the entire test over with no successes; a critical glitch means the ingredients are destroyed and cannot be used.
+Depending on what you want it to do, the Availability for a drug can be high, along with the cost. The benefit of being able to get exactly what you need makes customized drugs a popular choice with many professionals who prefer drugs for their boost. However, due to the nature of these drugs, they can't be found on street corners like run-of-the-mill drugs. Acquiring customized drugs requires a chemist or dealer contact with a Connection Rating of at least 5; the same level of contact is needed to acquire the raw ingredients necessary for these drugs. The raw ingredients cost half of the normal drug price. Mixing customized drugs requires a Chemistry + Logic Extended Test with a threshold equal to the drug's Availability x 2 and an interval of eight hours.
+
+A glitch on any part of the Extended Test requires the player to start the entire test over with no successes; a critical glitch means the ingredients are destroyed and cannot be used.
 
 ### Available Enhancers
 
@@ -1341,7 +1345,9 @@ If the user's Charisma is reduced below 1, the character gains the Uncouth quali
 
 This chip is intended to make extraction targets easier to control without knocking them out. The program emulates the emotions and thoughts of a codependent individual, which make the user passive and compliant. The victim will have drunken, slurred speech and a glassy-eyed appearance.
 
-**Wrecker, Again:** Wrecker draws the short straw on stakeout duty and takes a dose of long haul to make sure he won't fall asleep and miss the rival gangers coming to make a drug deal at the warehouse. At 2 a.m. the rival gang shows up. Wrecker wakes up his buddies, and the five of them move in. Wrecker, knowing things are going down, injects a dose of his customized drug. Since he's under the influence of two drugs simultaneously, he has to check for interaction. He rolls 1D6 and gets a 2, so nothing happens. The combat goes quickly, and they are victorious. In celebration of their big score, Wrecker's partner Vindicator lights up some of the deepweed they seized. After taking a couple of hits, Vindicator hands it to Wrecker, who takes a drag without thinking about it. Since he is now under the influence of three different drugs, he has to check for interaction again. He now rolls 2D6, and the deepweed was street cooked so it adds +1. He gets a 3 and a 5, so with the +1 modifier, he has a total of 9, which means he immediately suffers the crash effects from all three drugs.
+**Wrecker, Again:** Wrecker draws the short straw on stakeout duty and takes a dose of long haul to make sure he won't fall asleep and miss the rival gangers coming to make a drug deal at the warehouse. At 2 a.m. the rival gang shows up. Wrecker wakes up his buddies, and the five of them move in. Wrecker, knowing things are going down, injects a dose of his customized drug. Since he's under the influence of two drugs simultaneously, he has to check for interaction. He rolls 1D6 and gets a 2, so nothing happens. The combat goes quickly, and they are victorious. In celebration of their big score, Wrecker's partner Vindicator lights up some of the deepweed they seized. After taking a couple of hits, Vindicator hands it to Wrecker, who takes a drag without thinking about it. Since he is now under the influence of three different drugs, he has to check for interaction again.
+
+He now rolls 2D6, and the deepweed was street cooked so it adds +1. He gets a 3 and a 5, so with the +1 modifier, he has a total of 9, which means he immediately suffers the crash effects from all three drugs.
 
 *[Note: "long haul" is referenced in this example but is not statted anywhere in this chapter; it is presumably a drug defined elsewhere in the line.]*
 

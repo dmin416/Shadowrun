@@ -396,7 +396,7 @@ PDF: `Source/PDF/seattlesprawl.pdf` (90 pages). Extractor: `Source/_extract/extr
 
 ### Other supplements
 
-- [x] Chrome Flesh: all 13 chapters + INDEX (`Source Texts/Chrome Flesh/`)
+- [x] Chrome Flesh: all 13 chapters + INDEX; format/polish + loss/done QA PASS (`Source/_extract/chrome_flesh_qa_report.md`)
 - [x] Kill Code: all 16 chapters + INDEX; landmark/JP sweep PASS (`Source/_extract/killcode_sweep_report.md`; ch13 JP order fixed)
 - [ ] Other INDEX-only books: same extract → format → loss-check → done-check pipeline when cited
 
@@ -404,7 +404,6 @@ PDF: `Source/PDF/seattlesprawl.pdf` (90 pages). Extractor: `Source/_extract/extr
 
 ## Suggested work order
 
-1. Chrome Flesh Source Texts format/loss/done QA (next unfinished book for Mechanics depth).
-2. Cross-link Mechanics ↔ Encyclopedia; mark entries `[x]` here as they complete.
-3. Optional: Data Trails extract when Matrix Basics needs Foundation / advanced host depth beyond Core.
-4. Optional: Street Grimoire / Rigger 5 deepen Magic Basics / Rigging Basics when cited.
+1. Cross-link Mechanics ↔ Encyclopedia; mark entries `[x]` here as they complete.
+2. Optional: Data Trails extract when Matrix Basics needs Foundation / advanced host depth beyond Core.
+3. Optional: Street Grimoire / Rigger 5 deepen Magic Basics / Rigging Basics when cited.

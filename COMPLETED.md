@@ -59,7 +59,7 @@ Extract + format + loss-check + done-check. Re-validated where a report/script e
 | [Street Lethal](Source%20Texts/Street%20Lethal/) | `qa_six_books.py` PASS | |
 | [Howling Shadows](Source%20Texts/Howling%20Shadows/) | `qa_six_books.py` PASS | |
 | [Forbidden Arcana](Source%20Texts/Forbidden%20Arcana/) | Re-extracted + reformatted; `qa_six_books.py` PASS; Magic Mastery qualities are `###` headings | Tradition subsection labels are dense `##`; residual running-header glue may remain in a few prose blocks |
-| [Chrome Flesh](Source%20Texts/Chrome%20Flesh/) | All 13 chapters + INDEX present | Per-chapter convert/loss/QA/format done in session; optional deeper table re-audit |
+| [Chrome Flesh](Source%20Texts/Chrome%20Flesh/) | All 13 chapters + INDEX; `qa_chrome_flesh.py` / `chrome_flesh_qa_report.md` PASS; polish via `polish_six_books.py` | Residual long prose paras (~800-900 chars) acceptable; optional table re-audit |
 | [Kill Code](Source%20Texts/Kill%20Code/) | All 16 chapters + INDEX; `killcode_sweep_report.md` landmark/JP PASS | Ch13 JP handle order fixed in sweep; Denial of Service / Power Munger print quirks noted in-file |
 
 ---
@@ -97,11 +97,12 @@ Treat Encyclopedia as **catalog complete for available PDFs**, not as fully veri
 
 - Encyclopedia polish (cross-links, source tags, layout)
 - Seattle Sprawl done-check
-- Chrome Flesh format/loss/done QA (next unfinished book for Mechanics depth)
 - Core back-matter thins (Random Run Generator, Character Sheet, cityscapes, cover scenes) if you care about those pages
 
 Living the Shadows Mechanics filled 2026-07-26: Actions Outside Combat, Healing and Injuries, Gig Rewards, Housing and Lifestyle, Vehicles.
 
 Specialized Basics filled 2026-07-26: Matrix Basics, Magic Basics, Rigging Basics (Core; DT/SG/R5 as pointers).
 
-Audit / fix scripts: `Source/_extract/audit_completed*.py`, `qa_six_books.py`, `fix_audit_errors.py`, `extract_forbiddenarcana.py`, `format_forbiddenarcana.py`, `killcode_sweep.py`, `killcode_landmark_sweep.py`, `killcode_sweep_report.md`.
+Chrome Flesh Source Texts QA PASS 2026-07-26: format/polish + loss/done (`chrome_flesh_qa_report.md`).
+
+Audit / fix scripts: `Source/_extract/audit_completed*.py`, `qa_six_books.py`, `qa_chrome_flesh.py`, `fix_audit_errors.py`, `extract_forbiddenarcana.py`, `format_forbiddenarcana.py`, `killcode_sweep.py`, `killcode_landmark_sweep.py`, `killcode_sweep_report.md`, `chrome_flesh_qa_report.md`.

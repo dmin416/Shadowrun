@@ -21,6 +21,7 @@ BOOKS = [
     "Run Faster",
     "Street Lethal",
     "Howling Shadows",
+    "Chrome Flesh",
 ]
 
 SOFT_PAIRS = {
@@ -50,6 +51,12 @@ SOFT_PAIRS = {
     "com mlinks": "commlinks",
     "cyber ware": "cyberware",
     "bio ware": "bioware",
+    "nano ware": "nanoware",
+    "nano tech": "nanotech",
+    "gene tech": "genetech",
+    "gene ware": "geneware",
+    "cyber tech": "cybertech",
+    "cyber psychosis": "cyberpsychosis",
     "shadow runners": "shadowrunners",
     "metro plex": "metroplex",
     "neces sary": "necessary",
@@ -160,6 +167,17 @@ KEEP_H2 = {
     "armor",
     "advantages",
     "disadvantages",
+    "fiction opener",
+    "headware",
+    "eyeware",
+    "earware",
+    "bodyware",
+    "cyberlimbs",
+    "bioware",
+    "cultured bioware",
+    "nanoware",
+    "genetech",
+    "drugs",
 }
 
 
