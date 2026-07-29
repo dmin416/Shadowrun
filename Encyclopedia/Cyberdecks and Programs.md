@@ -89,7 +89,7 @@ Agent reference (SR5). Compact layout; full mechanical detail for cyberdecks, de
 - Street Gear Software table preferred over Matrix chapter Programs Table (which prints hacking Avail **4R**). Flagged conflict: use **6R**.
 - DT new programs do not reprint prices; Detonator text states normal hacking programs cost **250¥**. Use Core defaults unless a row overrides.
 - **Detonator** costs **500¥** (twice normal hacking).
-- **Nuke-from-Orbit:** Avail **12F** only; cost not printed.
+- **Nuke-from-Orbit:** Avail **12F**, Cost **250¥** (DT body omits Cost; community gear compilations list 250¥ matching other DT hacking programs at that price).
 - **Cry Wolf:** no Avail/Cost printed.
 
 ### Form factors (DT; decks ≠ links)
@@ -310,7 +310,7 @@ Default 6R / 250¥ unless overridden.
 | Evaluate | DT | Hacking | 6R* | 250¥* | Black-BBS paydata auction feeds estimate how much paydata is worth / how much heat taking extra generates. **No dice formula printed** |
 | Fly on a Wall | DT | Hacking | 6R* | 250¥* | Requires Hide to activate. While running and performing **no** actions other than Matrix Perception: OS increases by only **1D6 per half-hour** (GM rolls secret as normal). Does not help vs other icons noticing you |
 | Hitchhiker | DT | Hacking | 6R* | 250¥* | Lets you take non-hacker friends to foundations and UV hosts. **No further mechanics printed** |
-| Nuke-from-Orbit | DT | Hacking | **12F** | (unprinted) | Edit File delete: file unrecoverable from the Matrix (offline backups / Resonance realms only). Any OS generated from the Opposed Test is **doubled**. Cost not printed |
+| Nuke-from-Orbit | DT | Hacking | **12F** | 250¥ | Edit File delete: file unrecoverable from the Matrix (offline backups / Resonance realms only). Any OS generated from the Opposed Test is **doubled**. Cost filled from community DT gear tables (body text prints Avail only) |
 | Paintjob | DT | Hacking | 6R* | 250¥* | +2 Attack for Erase Mark tests |
 | Smoke-and-Mirrors | DT | Hacking | 6R* | 250¥* | Raise Sleaze by 1 to 5 (choice); add equal Noise to tests performed with the deck; that Noise also affects Trace Icon tests against you. **No effect vs Convergence** |
 | Swerve | DT | Hacking | 6R* | 250¥* | +1 Firewall on the deck and PAN-connected devices when resisting Reboot Device |

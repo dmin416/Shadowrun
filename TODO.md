@@ -231,8 +231,8 @@ LLM agent refs. Done files use Inventory + Schema + full tables. Each open item 
 - [x] **2026-07-29 residual gap fill (Mechanics):** Metamagics toxic/blood/insect/shedim; Magic Supplemental (SS full tables, Stolen Souls, BoL mentors, DT threats); Magic.md mentors Raven Alt/Lion; Gig Rewards BTB Cred/Karma; Melee Weapons SL katana/axe; INDEX comprehensive; Matrix/CFD verified (already substantive)
 - [x] **2026-07-29 Mechanics RF/RnG/HS gap fill:** Metatype metavariants; Contacts RF expanded rules; Falling+Fatigue RnG environments; Repair and Breaching (new); Qualities Supplemental RF full Ch.11 catalogs; Critters HS Ch.08 + Ch.17 index
 - [x] **2026-07-29 FINAL PASS (Mechanics/Encyclopedia gaps):** SG toxic/insect/shedim stat blocks + DT shedim variants in Magic Supplemental; DT Infected.md; Monad Matrix + Lockdown evolution in CFD.md; FA mastery + CF qualities/cyberpsychosis in Qualities Supplemental; RF full shapeshifter table; RnG Material/Vehicle DV (PDF p. 179); HS Ch.09/10 critters complete in Critters.md; Aetherology full phenomena in Magic.md; Mechanics/INDEX complete file list; Encyclopedia Critters INDEX updated
-  - **Blocked (no local source):** see [Mechanics/GAPS.md](Mechanics/GAPS.md) — Seattle Gambit ammo (no PDF); Painade Avail/Cost (print-corrupted); Stinger Pen Gun RC / Nuke-from-Orbit Cost print blanks
-- [x] **2026-07-29 final pass:** SG toxic/insect/shedim stats; DT Infected + Monad Matrix; FA mastery + CF cyberpsychosis qualities; HS Critters full Ch.09/10; RF shapeshifters; RnG Material/Vehicle DV; Aetherology spirits + phenomena dice; Mechanics INDEX + GAPS.md
+  - **Blocked / secondary:** see [Mechanics/GAPS.md](Mechanics/GAPS.md) — Painade Avail/Cost (CA Lapel Dagger bleed, unrecoverable); Seattle Gambit (no PDF; community-verified rows in Ammunition); Nuke-from-Orbit Cost filled 250¥ from community DT tables; Stinger RC treated as —
+- [x] **2026-07-29 online fix pass:** Nuke-from-Orbit 250¥; Stinger RC clarified; Seattle Gambit community-verified; Painade confirmed unrecoverable from PDF bleed
 
 ---
 

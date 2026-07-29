@@ -280,5 +280,5 @@ Skill: Demolitions. The RnG "Demolitions Supplies and Equipment" accessories tab
 | Douser | (Rating × 2)F | Rating × 50¥ | Rating 1–10; 5 m; nanites reduce Firewall. |
 | DumDum | (Rating × 2)R | Rating × 50¥ | Rating 1–10; 5 m; reduces Data Processing. |
 
-**Painade (CA):** microwave-field toxin grenade Power 8 Immediate; print Avail/Cost row corrupted — rules only until a clean print is found.
+**Painade (CA):** Fichetti Pain Induction Area Denial Grenade. Toxin field Power **8**, Speed **Immediate**; resist Body + Willpower; if modified Power > Mental limit, next Action Phase must flee; if stuck in field, incapacitated (DP mod = modified Power). Field **5 Combat Turns**; single-use (electronics fry). **Avail/Cost/Blast:** print row is Lapel Dagger bleed (`4 / — / (STR+1)P / −1 / 5` copied from the dagger table on the same page) — not usable. JackPoint calls it an "expensive gadget"; leave buy stats blank until errata.
 

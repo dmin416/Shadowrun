@@ -1,29 +1,38 @@
 # GAPS
 
-Agent reference. **Only** items still blocked by missing source or print corruption. Do not invent values; inline stubs in Encyclopedia/Mechanics already flag these.
+Agent reference. **Only** items still blocked by missing source or confirmed print corruption. Do not invent values.
+
+Last verified: 2026-07-29 (online + local PDF re-check).
 
 ---
 
-## No local PDF
+## No local PDF (community-verified workarounds)
 
-| Item | Where flagged | Block |
+| Item | Status | Notes |
 | --- | --- | --- |
-| **The Seattle Gambit** (entire book) | [Ammunition](../Encyclopedia/Ammunition.md) §Seattle Gambit; [Grenades and Explosives](../Encyclopedia/Grenades%20and%20Explosives.md) out-of-scope note | No PDF in `Source/PDF`. Pending entries: Stick-n-Shock Flechette Rounds (ammo); Incendiary Rocket; Halloweener Molotov Cocktail |
+| **The Seattle Gambit** gear | Stats in [Ammunition](../Encyclopedia/Ammunition.md) marked **community-verified** | No PDF in `Source/PDF`. Stick-n-Shock Flechette / Incendiary Rocket / Halloweener Molotov cross-checked vs Carpe Omnis *Shadowrun Armory* (2016) descriptions + Core baselines. Prefer replacing with official PDF extract when available. |
 
 ---
 
-## Print-corrupted / blank rows
+## Print-corrupted (local PDF confirmed)
 
-| Item | Source | Block | Usable now |
+| Item | Source | Finding | Usable now |
 | --- | --- | --- | --- |
-| **Painade** Avail / Cost / Blast | *Cutting Aces* Ch. 10; CA Condensed | Table row garbled (Lapel Dagger bleed) | Toxin field rules only (Power 8, Immediate; 5 CT field) in [Grenades and Explosives](../Encyclopedia/Grenades%20and%20Explosives.md) |
-| **Stinger Pen Gun** RC column | *Cutting Aces* | RC column garbled in print | Other columns present in source Condensed |
-| **Nuke-from-Orbit** program Cost | *Data Trails* | Cost cell unprinted | Avail 12F and effect text present in [Cyberdecks and Programs](../Encyclopedia/Cyberdecks%20and%20Programs.md) |
+| **Painade** Avail / Cost / Blast | *Cutting Aces* p.135-136 | Table row is **Lapel Dagger bleed** (same numbers as Lapel Dagger ACC/DAM/AP/AVAIL/COST fragment). Not a real grenade buy line. | Toxin field rules only in [Grenades and Explosives](../Encyclopedia/Grenades%20and%20Explosives.md) |
+| **Stinger Pen Gun** RC cell | *Cutting Aces* p.134 | RC cell prints the header word `RC` instead of a value | Treat as **—** (no RC). Full row otherwise OK in [Firearms](../Encyclopedia/Firearms.md) |
+
+---
+
+## Fixed from secondary sources
+
+| Item | Fix | Citation |
+| --- | --- | --- |
+| **Nuke-from-Orbit** Cost | **250¥** (Avail 12F unchanged) | DT body prints Avail only; community DT gear compilations list 250¥ (same as other DT hacking programs). [Cyberdecks and Programs](../Encyclopedia/Cyberdecks%20and%20Programs.md) |
 
 ---
 
 ## Done elsewhere (not gaps)
 
-- RnG building/structure and material DV thresholds: [Repair and Breaching](Repair%20and%20Breaching.md) (Ch. 12 / PDF p. 179)
-- Aetherology SR5 spirit blocks (Gum Toad, Crawler, Ghasts, Vrygoths, Gremlin, Anansi, Tsuchigumo): [Magic Supplemental](Magic%20Supplemental.md)
-- Wavecutter MPAC, Battle Buddy, Blood Drinker, Red Samurai katana: Encyclopedia [Vehicles](../Encyclopedia/Vehicles.md), [Drones](../Encyclopedia/Drones.md), [Melee Weapons](../Encyclopedia/Melee%20Weapons.md)
+- RnG building/structure and material DV thresholds: [Repair and Breaching](Repair%20and%20Breaching.md)
+- Aetherology SR5 spirit blocks: [Magic Supplemental](Magic%20Supplemental.md)
+- Wavecutter MPAC, Battle Buddy, Blood Drinker, Red Samurai katana: Encyclopedia Vehicles / Drones / Melee Weapons

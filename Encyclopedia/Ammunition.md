@@ -2,7 +2,7 @@
 
 **Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · [SL](../Source%20Texts/Street%20Lethal/INDEX.md) · [HT](../Source%20Texts/Hard%20Targets/INDEX.md) · [KC](../Source%20Texts/Kill%20Code/INDEX.md) · The Seattle Gambit\*
 
-\*No Seattle Gambit PDF in `Source/PDF` - that section remains unverified.
+\*No Seattle Gambit PDF in `Source/PDF`. Stats below cross-checked against Carpe Omnis *Shadowrun Armory* review (2016) descriptions; treat as community-verified until a local PDF lands.
 
 **Verified from:** Core, RnG, SL, `Shadowrun_5E_Hard_Targets.pdf`, `killcode.pdf`.
 
@@ -78,13 +78,13 @@ Netgun reloads are sold with the netguns (RnG), not on the ammo table: standard 
 
 ---
 
-## Firearm ammunition (The Seattle Gambit) - UNVERIFIED
+## Firearm ammunition (The Seattle Gambit)
 
-No Seattle Gambit PDF in `Source/PDF`. Left as previously recorded pending a book file:
+No local PDF. Community-verified via Carpe Omnis Armory review (mechanics + ~+30¥ vs Stick-n-Shock per pack).
 
 | Name | DV mod | AP mod | Avail | Cost / 10 | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Stick-n-Shock Flechette Rounds | +0S(e) | - (keep weapon AP) | 6R | 110¥ | Electrical Stun = weapon DV (no −2). Does **not** use Stick-n-Shock’s flat AP −5 replace. Counts as **flechette** for shotgun choke / spread. |
+| Stick-n-Shock Flechette Rounds | +0S(e) | - (keep weapon AP) | 6R | 110¥ | Electrical Stun = weapon DV (no −2). Does **not** use Stick-n-Shock flat AP −5 replace. Counts as **flechette** for shotgun choke / spread. |
 
 ---
 
@@ -202,12 +202,14 @@ Peak-discharge packs for lasers (also listed under firearm accessories).
 | High-Explosive Rocket | 21P | −2 | −2/m | 18F | 2,100¥ |
 | Missile | as rocket | as rocket | as rocket | rocket +4 | rocket + (Sensor × 500¥) |
 
-### The Seattle Gambit - UNVERIFIED
+### The Seattle Gambit (community-verified)
+
+Carpe Omnis Armory review: Molotov = half frag cost/damage, 3× HE grenade AP; Incendiary rockets = cheaper, ~half rocket DV. Numbers below match that reading of Core frag/HE baselines.
 
 | Name | DV | AP | Blast | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Incendiary Rocket | 10P | −6 | −1/m | 12F | 1,900¥ | Pending local PDF. |
-| Halloweener Molotov Cocktail | 9P | −6 | −3/m | 4F | 50¥ | Pending local PDF. |
+| Incendiary Rocket | 10P | −6 | −1/m | 12F | 1,900¥ | No local PDF; community cross-check vs HE rocket half-DV / cheaper cost. |
+| Halloweener Molotov Cocktail | 9P | −6 | −3/m | 4F | 50¥ | No local PDF; half frag DV/cost, 3× HE grenade AP (−2 × 3 = −6). |
 
 ### Street Lethal (see also Grenades)
 

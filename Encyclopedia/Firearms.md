@@ -476,7 +476,7 @@ Skill: Longarms. Default sporting ranges: S 0–50 / M 51–250 / L 251–500 / 
 | Hammerli 620S | CA | Pistols | 5(7) | 6P | - | SA | 1 | 6(c) | 8R | 325¥ | Light pistol. Gas-Vent 1, Smartlink; **Heavy Pistol ranges**. |
 | Yamaha Sakura Fubuki SX | CA | Pistols | 6 | 6P | - | SA/BF | 1 | 8(ml)×4 | 10R | 750¥ | Light pistol. 2×2 magazine-barrel; Electronic Firing in RC. |
 | Nemesis Arms Praetorian | CA | Pistols | 4(6) | 8P | -1 | SA | - | 12(c) | 9R | 700¥ | Heavy pistol. Integral bayonet, Custom Look, laser sight. (Also appears in SL with slightly different notes.) |
-| Stinger Pen Gun | CA | Pistols | 4 | 6P | - | SS | - | 1(b) | 6R | 325¥ | Hold-out. Conceal −4; no silencer. |
+| Stinger Pen Gun | CA | Pistols | 4 | 6P | - | SS | - | 1(b) | 6R | 325¥ | Hold-out. Conceal −4; no silencer. Print RC cell shows header text `RC` (bleed); treat as **—** (no built-in RC). |
 
 ## Assassin's Primer firearms
 
