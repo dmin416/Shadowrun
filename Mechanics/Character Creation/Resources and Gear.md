@@ -8,7 +8,7 @@ Agent reference (SR5). LLM layout; Priority nuyen spend, chargen gear caps, life
 **See also:** [Overview](Overview.md) · [Priority System](Priority%20System.md) · [Metatype](Metatype.md) · [Attributes](Attributes.md) · [Magic and Resonance](Magic%20and%20Resonance.md) · `../Housing and Lifestyle.md` · Encyclopedia gear files
 
 **Scope:** Resources Priority yen; Street/Prime overrides; Avail/Device Rating caps; Karma-to-yen; carryover; lifestyle buy-in + starting nuyen; ware grades at chargen; Essence/+4; racial lifestyle cost; gear checklist
-**Out of scope:** Full gear catalogs (Encyclopedia); play Availability Test / fencing (Street Gear); full lifestyle options (Housing)
+**Out of scope:** Full gear catalogs (Encyclopedia); play Availability Test / fencing → [Buying and Fencing Gear](../Buying%20and%20Fencing%20Gear.md); full lifestyle options (Housing)
 
 ## Inventory (completeness checklist)
 

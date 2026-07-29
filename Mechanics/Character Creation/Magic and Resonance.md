@@ -5,10 +5,10 @@ Agent reference (SR5). LLM layout; Awakened / Emerged chargen path selection and
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
 **Printed:** Chargen Step Three ~p.69; Magic User Types; Traditions Drain ~p.279; Living Persona ~p.250; Essence/Magic notes
 **Source Text:** `08 - Creating A Shadowrunner.md` · `17 - Magic.md`
-**See also:** [Priority System](Priority%20System.md) · [Attributes](Attributes.md) · [Overview](Overview.md) · `../Magic Basics.md` · `../Matrix Basics.md`
+**See also:** [Priority System](Priority%20System.md) · [Attributes](Attributes.md) · [Overview](Overview.md) · `../Magic.md` · `../Matrix.md`
 
 **Scope:** Path types; Priority Mag/Res grants; tradition Drain (Core hermetic/shamanic); PP rules; Essence→Mag/Res; spell/form caps; techno Living Persona chargen notes; mundane E
-**Out of scope:** Full spell/complex form lists; full adept power list; Street Grimoire traditions; play spellcasting procedure (Magic Basics)
+**Out of scope:** Street Grimoire traditions; play spellcasting procedure (see Magic)
 
 ## Inventory (completeness checklist)
 
@@ -77,7 +77,7 @@ All magicians (full / aspected / mystic adept) pick a tradition. Core presents t
 | **Hermetic** (mage) | **Logic + Willpower** | Combat: Fire; Detection: Air; Health: Water; Illusion: Man; Manipulation: Earth |
 | **Shamanic** (shaman) | **Charisma + Willpower** | Combat: Beasts; Detection: Water; Health: Earth; Illusion: Air; Manipulation: Man |
 
-More traditions: Street Grimoire / other books when sourced. Drain play: Magic Basics.
+More traditions: Street Grimoire / other books when sourced. Drain play: [Magic](../Magic.md).
 
 ---
 
@@ -149,4 +149,4 @@ Full Matrix play: Matrix Basics.
 
 - Priority grant numbers live in Priority System (single source of truth).
 - Core traditions only (hermetic / shamanic); expand when SG sourced.
-- Spellcasting Drain steps summarized for chargen awareness; full procedure → Magic Basics.
+- Spellcasting Drain steps summarized for chargen awareness; full procedure → [Magic](../Magic.md).

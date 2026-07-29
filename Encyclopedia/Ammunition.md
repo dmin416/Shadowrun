@@ -8,6 +8,8 @@
 
 Related: [Firearms](Firearms.md) · [Projectile Weapons](Projectile%20Weapons.md) · [Grenades and Explosives](Grenades%20and%20Explosives.md) · [Weapon Accessories](Weapon%20Accessories.md) · [Drugs Toxins and Chemicals](Drugs%20Toxins%20and%20Chemicals.md)
 
+**Play rules:** [Mechanics/Combat/Ranged Combat](../Mechanics/Combat/Ranged%20Combat.md) (DV/AP stack, flechette/choke, scatter for launched munitions) · [Mechanics/Toxins and Drugs Play](../Mechanics/Toxins%20and%20Drugs%20Play.md) (toxin rounds)
+
 What you load. Grenades, most rockets beyond the launcher feed table, Maker munitions, and torpedo grenades live in [Grenades and Explosives](Grenades%20and%20Explosives.md) - rockets that are bought as ammo for launchers are summarized here.
 
 ---
@@ -127,10 +129,11 @@ Verified from `streetlethal.pdf`.
 | Renraku / Ingram Supermach | as Regular | - | - | **16F** | treat as Regular (20¥ / 10) | Proprietary for **Ingram Supermach 200**. Book: treat price as standard ammo, Avail 16F. |
 | Grey Goo Armor Eater | Special\*\* | - | 3* | 24F | Rating × 50¥ | Hold-out ranges. \*Poor Acc. \*\*Roll Rating; decrease target Armor by hits. |
 | Grey Goo Penetrator | 9P | −8 | 3* | 24F | 1,000¥ | Hold-out ranges. \*Poor Acc. |
+| Spinrad-Global Spinstorm Ferrous Slugs | as weapon | - | - | 12R | 10¥ / 10 | Proprietary feed for the **Spinrad-Global Spinstorm** centrifugal disc launcher (small/medium/large; SL Military and Future Weapons). Not compatible with other systems. |
 
 **Narcoject Gas Gun:** no separate ammo SKU. Uses compressed-air clips + separate toxin doses; refill air with included pump (**3 minutes**).
 
-**Not verified in SL extract yet as priced ammo lines:** Spinstorm ferrous slugs, Man-Catcher compound (weapon-locked narrative; confirm if a cost line exists on a later page).
+**Man-Catcher ammo compound:** verified weapon-locked payload for the Nemesis Arms Man-Catcher launcher, not a general ammo-table SKU. Full DV/Blast/Avail/Cost row lives in [Exotic Weapons](Exotic%20Weapons.md) (Man-Catcher ammo compound) and is cross-referenced from [Firearms](Firearms.md) and [Grenades and Explosives](Grenades%20and%20Explosives.md).
 
 ---
 

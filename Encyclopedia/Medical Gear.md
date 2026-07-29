@@ -2,8 +2,8 @@
 
 Agent reference (SR5). Compact; full mechanical detail; no flavor.
 
-**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `chromeflesh.pdf` · `rigger5.pdf` · `stolensouls.pdf` · `runandgun.pdf` (spacesuit refill only)
-**Books:** Core · CF · R5 · SS · RnG (one refill line)
+**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `chromeflesh.pdf` · `rigger5.pdf` · `stolensouls.pdf` · `runandgun.pdf` (spacesuit refill only) · Dark Terrors (CFD treatments, local chapter text)
+**Books:** Core · CF · R5 · SS · RnG (one refill line) · DTer (CFD treatments)
 **Printed:** Core Biotech 450-451; healing/medkit 205-209; CF DocWagon 26-33; nanoware TCS/implant medic 147-148; Savior 154; R5 MediCart 142-143; Valkyrie 166-167; SS Extractor's Toolkit 172-186
 **See also:** `Encyclopedia/Drugs Toxins and Chemicals.md` · `Encyclopedia/Cyberware.md` · `Encyclopedia/Nanotech and Geneware.md` · `Encyclopedia/Armor Modifications.md` · `Encyclopedia/Drones.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Tools Kits and Survival.md` · `Mechanics/Healing and Injuries.md`
 
@@ -193,6 +193,15 @@ Agent reference (SR5). Compact; full mechanical detail; no flavor.
 | Trauma control system | CF | 1-6 | 12F | Rating x 4,000¥ | Shared procedures → TCS. Hard nanoware. |
 | Implant medic | CF | 1-6 | 12F | 10% of linked implant cost | Shared procedures → Implant medic. Hard nanoware. Linked to one cyber implant. |
 
+### CFD treatments (Dark Terrors)
+
+Black-market anti-nanite doses vs CFD (Monad) infection; individual dose = Rating 1, stack doses for higher effective Rating. Full mechanics in [Nanotech and Geneware](Nanotech%20and%20Geneware.md) (CFD anti-nanite treatments).
+
+| Name | Src | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- |
+| Overwriter Nanites | DTer | 14F | 5,000¥ | Wireless-disabled hunter-killer nanites; IV or aerosol (aerosol halves Rating). See Nanotech file for full combat-round mechanics. |
+| NanoScrub | DTer | 16F | 7,500¥ | Shiawase Biotech; IV injection only; slower but works on heavier infestation. See Nanotech file for hourly reduction and side-effect rules. |
+
 ### Medical cyberware (CF; also in Cyberware.md)
 
 | Name | Src | Ess | Cap | Avail | Cost | Rules |
@@ -280,6 +289,8 @@ Medical Patches PACK (RF): 2,000¥ / 1 Karma, Avail 10 = 5x antidote (4) + 4x tr
 16. Savior medkit supplies
 17. Trauma control system
 18. Implant medic
+18a. Overwriter Nanites (CFD treatment)
+18b. NanoScrub (CFD treatment)
 19. Biomonitor (cyber implant)
 20. Built-in medkit (cyberlimb)
 21. Auto-injector reusable (cyber)

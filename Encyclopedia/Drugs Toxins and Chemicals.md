@@ -4,7 +4,7 @@ Agent reference (SR5). LLM layout; full mechanical detail from local PDFs.
 
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `chromeflesh.pdf` · `stolensouls.pdf`
 **Printed:** Core Toxins/Drugs/BTLs/Addiction ~p.408-415; Industrial Chemicals ~p.448; CF Quick & Dirty drugs ~p.169-193 + tables p.188-189 / 234-235; SS Extractor’s Toolkit drugs ~p.188-191
-**See also:** `Encyclopedia/Medical Gear.md` · `Encyclopedia/Nanotech and Geneware.md` (Narco / Anti-tox / carcerands) · `Encyclopedia/Ammunition.md` (capsule/toxin rounds) · `Encyclopedia/Grenades and Explosives.md` (gas grenades) · `Encyclopedia/Security and Surveillance.md` · `Encyclopedia/Magical Goods.md` (primary CF magical compounds + SG/FA alchemy; this file also reprints CF compound dose rows)
+**See also:** `Encyclopedia/Medical Gear.md` · `Encyclopedia/Nanotech and Geneware.md` (Narco / Anti-tox / carcerands) · `Encyclopedia/Ammunition.md` (capsule/toxin rounds) · `Encyclopedia/Grenades and Explosives.md` (gas grenades) · `Encyclopedia/Security and Surveillance.md` · `Encyclopedia/Magical Goods.md` (primary CF magical compounds + SG/FA alchemy; this file also reprints CF compound dose rows) · **Play:** [Mechanics/Toxins and Drugs Play](../Mechanics/Toxins%20and%20Drugs%20Play.md)
 
 **Scope:** toxins, street/combat/social drugs, BTLs/PsychChips, Awakened drugs, magical compounds, DMSO/carriers, extraction sedatives, industrial chemicals with buy stats, CF grades/custom/interactions/PCI/everyday pharma.
 **Out of scope:** critter Venom power templates (use toxin framework); Howling Shadows critter-only venoms without buy SKUs. HT commercial venoms and B&B/Lockdown/BTB drugs are cataloged below.

@@ -5,10 +5,10 @@ Agent reference (SR5). LLM layout; Core Positive/Negative qualities at chargen.
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
 **Printed:** Step Four ~p.71-87; Advancement buy-on/buy-off p.103; Notoriety p.372; Addiction play p.414
 **Source Text:** `08 - Creating A Shadowrunner.md`
-**See also:** [Overview](Overview.md) · [Attributes](Attributes.md) · [Magic and Resonance](Magic%20and%20Resonance.md) · [Skills](Skills.md) · `../Edge.md` · Expanded lists: *Run Faster*, *Chrome Flesh*, etc.
+**See also:** [Overview](Overview.md) · [Attributes](Attributes.md) · [Magic and Resonance](Magic%20and%20Resonance.md) · [Skills](Skills.md) · `../Edge.md` · [Qualities Supplemental](Qualities%20Supplemental.md) (RF, RnG, SL, HT, CA, B&B, BTB, CT, AP)
 
 **Scope:** ±25 Karma caps; every Core Positive (cost + effect); every Core Negative (bonus + effect); chargen-only flags; post-chargen buy rules summary
-**Out of scope:** Expansion-book qualities; full Addiction/Withdrawal procedure beyond quality levels; full mentor spirit list (Magic chapter)
+**Out of scope:** Expansion-book qualities; full Addiction/Withdrawal procedure beyond quality levels; full mentor spirit list (see [Magic.md Mentor Spirits](../Magic.md#mentor-spirits))
 
 ## Inventory (completeness checklist)
 
@@ -75,7 +75,7 @@ Agent reference (SR5). LLM layout; Core Positive/Negative qualities at chargen.
 | Juryrigger | 10 | +2 Technical Tests when juryrigging; Build/Repair threshold -1; results temporary | Examples: 1 more use 1D6 min; +1 device rating 1D6 CT; +1 Sensor/Handling 1D6 min; one-shot improvise; bypass |
 | Lucky | 12 | Edge natural max +1 (does **not** raise current Edge; still pay for raise) | Once; GM approval; **cannot** also take Exceptional Attribute; Notoriety -1 |
 | Magical Resistance | 6 / rating (max 4) | +1 die Spell Resistance per rating; always on (blocks beneficial voluntary spells) | **No Magic rating** |
-| Mentor Spirit | 5 | Follow one mentor/totem (bonuses/penalties per spirit) | Magic only; change = buy off then rebuy |
+| Mentor Spirit | 5 | Follow one mentor/totem (bonuses/penalties per spirit) | Magic only; change = buy off then rebuy; full table: [Magic.md Mentor Spirits](../Magic.md#mentor-spirits) |
 | Natural Athlete | 7 | +2 Running and Gymnastics | |
 | Natural Hardening | 10 | +1 natural biofeedback filter (stacks with Filter program / TM firewall) | |
 | Natural Immunity | 4 or 10 | Immune to one disease/toxin: 4 = natural; 10 = synthetic; not magical (e.g. HMHVV) | 1 dose/exposure / 6 hrs free; extras: half recovery; can be carrier |

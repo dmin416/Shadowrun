@@ -5,7 +5,7 @@ Agent reference (SR5). LLM layout; Initiative Attribute, Score, Passes, Edge, fo
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
 **Printed:** Initiative ~p.159-161; Edge Seize/Blitz ~p.160; Delaying ~p.161
 **Source Text:** `11 - Combat.md`
-**See also:** [Overview](Overview.md) · [Surprise](Surprise.md) · [Action Economy](Action%20Economy.md) · `../Edge.md` · `../Dice and Tests.md` · Rigging / Matrix Basics
+**See also:** [Overview](Overview.md) · [Surprise](Surprise.md) · [Action Economy](Action%20Economy.md) · `../Edge.md` · `../Dice and Tests.md` · [Rigging](../Rigging.md) / [Matrix Basics](../Matrix%20Basics.md)
 
 **Scope:** Score = Attr + face sum; -10 per Pass; ERIC; Seize/Blitz; delayed actions; surprise Init; astral/Matrix/rigger forms; wound mods to Init immediate
 **Out of scope:** Full Interrupt list costs beyond Init (Action Economy); vehicle chase Init details (Vehicles / Rigging)
@@ -42,7 +42,7 @@ Agent reference (SR5). LLM layout; Initiative Attribute, Score, Passes, Edge, fo
 | Matrix: hot-sim VR | Data Processing + Intuition | 4D6 |
 | Rigging AR | Reaction + Intuition | 1D6 |
 
-**Jump In:** Switching into a vehicle/drone (Complex Action) changes which Init form you use; apply Attr/Dice change rules below. Full jumped-in vehicle Init: Rigging Basics / Vehicles.
+**Jump In:** Switching into a vehicle/drone (Complex Action) changes which Init form you use; apply Attr/Dice change rules below. Full jumped-in vehicle Init: [Rigging](../Rigging.md) / Vehicles.
 
 Extra Init Dice (ware, Increase Reflexes, drugs, etc.) stack onto the form's base per those rules (respect caps where printed).
 
@@ -148,5 +148,5 @@ Full: [Surprise](Surprise.md).
 ## Coverage notes
 
 - Init Dice sum = face total (same as Concepts / Dice and Tests).
-- Rigging Jump In form details beyond AR chart: Rigging Basics when filled.
+- Rigging Jump In form details beyond AR chart: [Rigging](../Rigging.md).
 - Interrupt Init costs (-5 / -10): [Action Economy](Action%20Economy.md).

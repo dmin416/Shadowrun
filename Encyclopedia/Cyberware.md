@@ -8,6 +8,8 @@
 
 Related: [Bioware](Bioware.md) · [Nanotech and Geneware](Nanotech%20and%20Geneware.md) · [Cyberdecks and Programs](Cyberdecks%20and%20Programs.md) · [Rigger Gear](Rigger%20Gear.md) · [Sensors and Optics](Sensors%20and%20Optics.md)
 
+**Play rules:** [Mechanics/Character Creation/Resources and Gear](../Mechanics/Character%20Creation/Resources%20and%20Gear.md) (Essence / +4 Attr) · [Mechanics/Healing and Injuries](../Mechanics/Healing%20and%20Injuries.md) · [Mechanics/Matrix](../Mechanics/Matrix.md) (implanted deck/DNI) · [Mechanics/Rigging](../Mechanics/Rigging.md) (Control Rig)
+
 Machine in the meat. Wireless-capable, gradeable, and hungry for Essence. Soft/hard nanoware and nanocybernetics live in [Nanotech and Geneware](Nanotech%20and%20Geneware.md).
 
 ---

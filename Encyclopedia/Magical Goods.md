@@ -2,9 +2,9 @@
 
 Agent reference (SR5). Structured field blocks for LLM parsing. Mechanical detail only; no flavor.
 
-**Src PDFs:** `shadowrunfiftheditioncorerulebook_V2.pdf` · `streetgrimoire.pdf` · `forbiddenarcana.pdf` · `chromeflesh.pdf` · `runfaster.pdf`
-**Books:** Core · SG · FA · CF · RF · Shadow Spells (INDEX). Court of Shadows: no local PDF (FA cites CoS reagents).
-**See also:** `Mechanics/Magic Basics.md` · `Encyclopedia/Sensors and Optics.md` (optics catalog) · `Encyclopedia/Drugs Toxins and Chemicals.md` (Awakened drugs / BADs; also reprints CF magical compounds) · `Encyclopedia/Melee Weapons.md` (base Acc/Reach/DV/AP for Weapon Focus forms)
+**Src PDFs:** `shadowrunfiftheditioncorerulebook_V2.pdf` · `streetgrimoire.pdf` · `forbiddenarcana.pdf` · `chromeflesh.pdf` · `runfaster.pdf` · `shadow-spells-pdf.pdf` (Reagent Cost Table)
+**Books:** Core · SG · FA · CF · RF · Shadow Spells (Reagent Cost Table filled). Court of Shadows: no local PDF (FA cites CoS reagents).
+**See also:** `Mechanics/Magic.md` · `Encyclopedia/Sensors and Optics.md` (optics catalog) · `Encyclopedia/Drugs Toxins and Chemicals.md` (Awakened drugs / BADs; also reprints CF magical compounds) · `Encyclopedia/Melee Weapons.md` (base Acc/Reach/DV/AP for Weapon Focus forms)
 
 **Out of scope as primary SKUs:** spell/ritual/adept-power lists · mentor spirits · ally/free-spirit formulae (Karma/quest, no shop Avail/Cost) · blood/toxic plot foci · Philosopher's Stone (legend only; FA sidebar) · CF Awakened drugs / BADs (full rows in Drugs Toxins and Chemicals.md)
 
@@ -287,6 +287,13 @@ Blinded / Stunned (-10 Initiative) / Deafened / Unable to Speak / Bleed Out / On
 - Avail: Type Avail +8 | Cost: Type cost x 25
 - Bond: -
 - Rules: Same distill method: 10 refined -> 1 radical. Same fail/critical-glitch rules. FA leverage: -2 Drain Conjuring; -4 Drain Sorcery; -1 Object Resistance per dram; no Force limit on Magic tests (Drain normal); reduce Spirit Index; make orichalcum/fetish/inanimate vessel.
+### Reagent buy table (Shadow Spells)
+- Cat: Reagent
+- Src: Shadow Spells, Adept Powers ~p.23-24 (compiled Reagent Cost Table)
+- Force: per dram
+- Avail: see Rules | Cost: see Rules
+- Bond: -
+- Rules: Standalone printed buy table, distinct from the FA graded-market formulas above. Raw (per dram): Avail -, 20¥ (matches Core). Refined: Avail 6, 350¥. Radical: Avail 8, 4,500¥. Orichalum: Avail 12, 140,000¥. Spelling "Orichalum" as printed in Shadow Spells (elsewhere in this file: Orichalcum). Use this table for a flat retail price on Refined/Radical/Orichalcum; use the FA Refined/Radical grade rules above for the distill-from-raw crafting process and its Drain/limit benefits.
 ### Orichalcum (craft)
 - Cat: Reagent
 - Src: SG p.209-210 sidebar Creating Orichalcum; FA p.192
@@ -969,7 +976,7 @@ Blinded / Stunned (-10 Initiative) / Deafened / Unable to Speak / Bleed Out / On
 - Bond: included
 - Rules: Contents: Weapon focus Force 2 (spear form narrative; any melee weapon focus at that Force).
 ## Inventory checklist
-Total entries: 128
+Total entries: 129
 
 Foci subtypes (16): Enchanting Alchemical/Disenchanting; Metamagic Centering/Flexible Signature/Masking/Spell Shaping; Power; Qi; Spell Counterspelling/Ritual/Spellcasting/Sustaining; Spirit Summoning/Banishing/Binding; Weapon.
 
@@ -977,7 +984,7 @@ Formulae (6): Focus formula; Spell Combat/Detection/Health/Illusion/Manipulation
 
 Lodge (1): Magical Lodge Materials.
 
-Reagents (12): Core raw; FA Tainted/Inferior/Subpar/Baseline/Superior/Prime; Refined; Radical; Orichalcum craft; Tool cleanser.
+Reagents (13): Core raw; FA Tainted/Inferior/Subpar/Baseline/Superior/Prime; Refined; Radical; Orichalcum craft; Shadow Spells Reagent buy table (Refined/Radical/Orichalum flat prices); Tool cleanser.
 
 SG shop (23): Aqua fictus/fortis/regia/vitae; Astral powder; FAB I/II/III; Fetish; Govi; Hand of Glory; Mana-sensitive film; Mortis optigram; Quicksilver camera; Shofar; Symbolic link (Force table); Paper lotus + Fake Magic Items table; Magecuff; Magemask; Mystic cuff/mask/jacket; Inanimate Vessel Preparation (craft).
 

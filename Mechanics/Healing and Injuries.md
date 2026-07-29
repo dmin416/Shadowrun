@@ -5,16 +5,16 @@ Agent reference (SR5). LLM layout; First Aid, Medicine, natural recovery, magica
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
 **Printed:** Healing ~p.205-209; Condition overflow ~p.170; First Aid skill ~p.145
 **Source Text:** `11 - Combat.md` · First Aid / Medicine in `09 - Skills.md`
-**See also:** [Combat/Damage Armor and Wounds](Combat/Damage%20Armor%20and%20Wounds.md) · [Dice and Tests](Dice%20and%20Tests.md) · [Actions Outside Combat](Actions%20Outside%20Combat.md) · Encyclopedia Medical Gear · Magic Basics (Heal / Stabilize spells)
+**See also:** [Combat/Damage Armor and Wounds](Combat/Damage%20Armor%20and%20Wounds.md) · [Dice and Tests](Dice%20and%20Tests.md) · [Actions Outside Combat](Actions%20Outside%20Combat.md) · [Toxins and Drugs Play](Toxins%20and%20Drugs%20Play.md) · Encyclopedia Medical Gear · [Magic](Magic.md) (Heal / Stabilize)
 
-**Scope:** First Aid; Medicine; medkit/autodoc; natural Stun/Physical recovery; Heal spell interaction; Healing Modifiers; overflow death; Stabilization
-**Out of scope:** Full toxin/disease tables (Encyclopedia / Toxins play page); full Heal spell Force/Drain text (Magic); implant surgery Essence rules
+**Scope:** First Aid; Medicine; natural recovery; Heal; overflow; Stabilization; **Care Under Fire** (*Bullets & Bandages*)
+**Out of scope:** Full toxin/disease catalogs (Encyclopedia); toxin Resistance procedure ([Toxins and Drugs Play](Toxins%20and%20Drugs%20Play.md)); full Heal spell Force/Drain text (Magic); implant surgery Essence rules
 
 ## Inventory (completeness checklist)
 
 - [x] First Aid / Medicine / medkit; Heal spell
 - [x] Natural recovery Stun/Physical tables; glitches
-- [x] Stabilization; overflow death
+- [x] Care Under Fire (B&B): progression, stabilization, diagnosis, treatment
 
 ---
 
@@ -131,7 +131,7 @@ Exceed Physical monitor → overflow boxes. Automatic death when overflow exceed
 
 ---
 
-## Stabilization
+## Stabilization (Core)
 
 | Rule | Detail |
 | --- | --- |
@@ -140,6 +140,61 @@ Exceed Physical monitor → overflow boxes. Automatic death when overflow exceed
 | Fail | Keep ticking; retry at **cumulative -2** per prior attempt |
 | Magic | Stabilize spell OK; Heal spell **not** |
 | After | First Aid / Medicine / Heal apply normally once stable |
+
+---
+
+## Care Under Fire (*Bullets & Bandages*, optional)
+
+**Verified from:** `Bullets and Bandages Condensed.md`
+
+Ideal order: **Stabilize → Diagnose → Treat**. Under fire, often stabilize only until safe.
+
+### Damage progression
+
+If a single attack deals **5+ Physical boxes**, damage progresses **+1 box every (Body) Combat Turns** until Stabilized (like Overflow timing). Wound mods accrue; death if Overflow > Body before Stabilization.
+
+### Stabilization (Care Under Fire)
+
+| Rule | Detail |
+| --- | --- |
+| Test | First Aid + Logic **Extended** (Complex); threshold = total Physical boxes (incl. progression + Overflow) |
+| Success | Stops progression/overflow; does **not** remove damage. Each net hit reduces wound modifiers by 1 for (First Aid skill) hours |
+| Non-progressive | Threshold = total boxes on both monitors; can negate wound mods |
+| Stabilize spell | Force >= Progressive + Overflow boxes; DV = (Progressive + Overflow)/2 round up; sustain turns = those boxes |
+| Trauma patch / **Crash** | Patient rolls Stabilization with **Body** at end of each CT. Medic dosing first adds patient Body to medic pool |
+
+### Diagnosis (Care Under Fire)
+
+Complex Action; Medicine + Logic or First Aid + Logic vs threshold. Biomonitor: +1 (not stackable with medkit). Success: **+2** to subsequent Stabilization/Treatment. Magic: Assensing + Intuition or **Diagnose** spell (same +2).
+
+| Threshold | Injuries | Illness / intoxication |
+| --- | --- | --- |
+| 1 | Light (1-2 boxes) | Obvious etiology or toxin |
+| 2 | Moderate (3-5 boxes) | Common etiology or toxin |
+| 3 | Severe (6-9 boxes) | Rare etiology or toxin |
+| 5+ | Critical (10+ boxes) | Exotic etiology or toxin |
+
+### Treatment (Care Under Fire)
+
+First Aid + Logic (2) per Core, with exceptions:
+
+- If Physical CM not exceeded: success also **Stabilizes** (stops progression).
+- If in Overflow: still need separate Stabilization.
+- If previously Stabilized: each net hit removes **2** boxes (max net hits = First Aid or Medkit rating, higher).
+- **Heal spell:** success also Stabilizes unless already in Overflow.
+
+### Combat medical actions (summary)
+
+| Action | Type | Notes |
+| --- | --- | --- |
+| Apply slap patch / dressing | Simple | Trauma patch, HemostatiX, etc. |
+| Attach biomonitor | Simple | |
+| Rapid assessment | Simple | First Aid + Intuition (2); not full Diagnosis |
+| Attach medkit / Start IV | Complex | IV inject then Simple |
+| Diagnose / Treat / Stabilize | Complex | Care Under Fire tests |
+| Inject drug/toxin | Complex | Simple if IV running |
+
+Medkit dice pools, autodoc Pilot rules, supply expenditure: *Bullets & Bandages* Ch. 07.
 
 ---
 

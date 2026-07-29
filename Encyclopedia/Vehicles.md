@@ -6,7 +6,7 @@ Agent reference (SR5). Compact; full mechanical detail; no flavor.
 **Books:** Core · R5 · SS · HT · CT
 **Verified HT vehicles:** Cocotaxi, Camellos from Hard Targets PDF (also reprinted in R5 compiled tables).
 **Printed:** Core Vehicles and Drones 461-466 (vehicle half); R5 World of Wheels / Ruling the Waves / Air Superiority 41-109; R5 compiled tables 184-188; SS extractor vehicle lines ~187. Factory Std Equip/Notes pulled from R5 chapter blocks (`Standard` / `Std. Equipment`).
-**See also:** `Encyclopedia/Drones.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Vehicles.md` · `Mechanics/Rigging Basics.md`
+**See also:** `Encyclopedia/Drones.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Vehicles.md` · `Mechanics/Rigging.md`
 
 **In scope:** metahuman-crewed ground / water / air vehicles with buy stats (bikes, cars, trucks/vans/RVs/limos, buses, tractor-trailers, hovercraft, boats/subs, security/military vehicles, aircraft).
 **Out of scope:** drones (→ Drones.md); vehicle mods / weapon mounts as upgrade SKUs (→ Vehicle and Drone Modifications); RCC / autosofts (→ Rigger Gear); chase action list detail (→ Mechanics/Vehicles.md).
@@ -242,6 +242,7 @@ Same stats as listed SKU; branding / year only unless GM adjusts one attribute o
 | Evo Waterking | - | R5 | 3 | 3 | 2 | 14 | 8 | 3 | 2 | 12 | 12 | 74,000¥ | p. 79 | Std Equip: Amenities (middle), satellite link, secondary manual controls, smuggling compartment |
 | Yamaha Waveskipper | - | Core | 5 | 3 | 2 | 10 | 4 | 1 | - | 1 | - | 10,000¥ | p. 464, SR5 | - |
 | Zodiac Scorpio | - | R5 | 4 | 4 | 2 | 10 | 6 | 1 | 1 | 2/6 | 8 | 26,000¥ | p. 82 | Std Equip: 2 x weapon mount (standard, external, flexible, manual) front, weapon mount (heavy, external, flexible, manual) rear |
+| Wavecutter MPAC | - | SL | 5 | 5 | 3 | 25 | 25 | 4 | 5 | 12 | 22F | 360,000¥ | SL CorpSec | Std Equip: Amenities (low), commlink DR7, ECM 4, +4 Body/+4 mount slots, manual override, rigger cocoon, rigger interface, satellite link, SunCell, signature masking 4, small craft bay (2 craft; 1 Complex deploy). **Verified from** `Street Lethal Condensed.md`. |
 
 ### Security / Police / Military
 
@@ -315,13 +316,13 @@ SS lists factory chassis commonly counterfeited as emergency/gov vehicles. Stats
 
 **Buses (2):** Camellos (Hard Targets); Omni Motors Omnibus
 
-**Watercraft (29):** American Airboat AirRanger; American Airboat AirRanger Heavy; Evo Aquavida 1; Evo Aquavida 2; Blohm & Voss Classic 111; Sea Ray Cottonmouth; Morgan Cutlass; Vulkan Electronaut; Corsair Elysium; UltraMarine Kingfisher; Sun Tracker Lake King; Proteus Lamprey; Kawasaki Manta Ray; Lurssen Mobius; Aztech Nightrunner; Samuvani-Criscraft Otter; Corsair Panther; GMC Riverine (Military); GMC Riverine (Police); GMC Riverine (Security); Kawasaki Stingray; Corsair Trident; Yongkang-Gala Trinity; GMC Triton; Evo Water Strider; Mitsubishi Waterbug; Evo Waterking; Yamaha Waveskipper; Zodiac Scorpio
+**Watercraft (30):** American Airboat AirRanger; American Airboat AirRanger Heavy; Evo Aquavida 1; Evo Aquavida 2; Blohm & Voss Classic 111; Sea Ray Cottonmouth; Morgan Cutlass; Vulkan Electronaut; Corsair Elysium; UltraMarine Kingfisher; Sun Tracker Lake King; Proteus Lamprey; Kawasaki Manta Ray; Lurssen Mobius; Aztech Nightrunner; Samuvani-Criscraft Otter; Corsair Panther; GMC Riverine (Military); GMC Riverine (Police); GMC Riverine (Security); Kawasaki Stingray; Corsair Trident; Yongkang-Gala Trinity; GMC Triton; Evo Water Strider; Mitsubishi Waterbug; Evo Waterking; Yamaha Waveskipper; Zodiac Scorpio; Wavecutter MPAC (SL)
 
 **Security/Police/Military (12):** BMW Blitzkrieg; Dodge Charger; Dodge General (Command); Dodge Goliath; BMW i8 Interceptor; BMW Luxus; Dodge Rhino; Dodge Stallion; BMW Stormwagon; BMW Teufelkatze; Dodge General Trailer; Ruhrmetall Wolf II
 
 **Aircraft (20):** Aztechnology Agular GX-2; Aztechnology Agular GX-3AT; GMC Banshee; Cessna C750; Federated-Boeing Commuter; Ares Dragon; GMC Gryphon; Nissan Hound; Evo-Krime "Krime Wing"; Airbus "Lift-Ticket" ALS-699; Luftschiffbau LZP-2070; Renegade Works "Mothership" LAVH; Artemis Nightwing; Federated-Boeing PBY-70 "Catalina II"; Dassault Sea Sprite; S-K Aerospace SKA-008; Hughes Stallion WK-4; Federated-Boeing Tundra-9; Ares Venture; Northrup Wasp
 
-**Total vehicle SKUs:** 138
+**Total vehicle SKUs:** 139
 
 ## Complete Trog vehicles
 

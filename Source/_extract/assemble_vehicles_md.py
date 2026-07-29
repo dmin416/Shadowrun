@@ -178,7 +178,7 @@ Agent reference (SR5). Compact; full mechanical detail; no flavor.
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `rigger5.pdf` · `stolensouls.pdf`
 **Books:** Core · R5 · SS · HT* (compiled stats only; no local Hard Targets PDF)
 **Printed:** Core Vehicles and Drones 461-466 (vehicle half); R5 World of Wheels / Ruling the Waves / Air Superiority 41-109; R5 compiled tables 184-188; SS extractor vehicle lines ~187
-**See also:** `Encyclopedia/Drones.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Vehicles.md` · `Mechanics/Rigging Basics.md`
+**See also:** `Encyclopedia/Drones.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Vehicles.md` · `Mechanics/Rigging.md`
 
 **In scope:** metahuman-crewed ground / water / air vehicles with buy stats (bikes, cars, trucks/vans/RVs/limos, buses, tractor-trailers, hovercraft, boats/subs, security/military vehicles, aircraft).
 **Out of scope:** drones (→ Drones.md); vehicle mods / weapon mounts as upgrade SKUs (→ Vehicle and Drone Modifications); RCC / autosofts (→ Rigger Gear); chase action list detail (→ Mechanics/Vehicles.md).

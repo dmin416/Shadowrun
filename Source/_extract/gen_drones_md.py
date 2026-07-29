@@ -578,7 +578,7 @@ Agent reference (SR5). Structured field blocks for LLM parsing. Mechanical detai
 
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `Source/PDF/rigger5.pdf`
 **Books:** Core (Street Gear Vehicles and Drones) · Rigger 5.0 (The Automated Army / Drone Catalog + compiled tables).
-**See also:** `Encyclopedia/Vehicles.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Rigging Basics.md` · `Mechanics/Vehicles.md`
+**See also:** `Encyclopedia/Vehicles.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Rigging.md` · `Mechanics/Vehicles.md`
 **Out of scope here:** RCC models (Rigger Gear); full vehicle-mod slot system for cars (Vehicle and Drone Modifications / R5 Building the Perfect Beast); Bullets & Bandages Dustoff full writeup (no local PDF).
 
 ## Schema

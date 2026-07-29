@@ -4,7 +4,7 @@ Agent reference (SR5). Structured field blocks for LLM parsing. Mechanical detai
 
 **Src PDFs:** Core · `rigger5.pdf` · `Shadowrun_5E_Bullets_&_Bandages.pdf` · `Shadowrun_5E_Hard_Targets.pdf` · `Shadowrun_5E_Cutting_Aces.pdf` · `howlingshadows.pdf`
 **Books:** Core · Rigger 5.0 · B&B · HT · CA · HS (biodrones)
-**See also:** `Encyclopedia/Vehicles.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Rigging Basics.md` · `Mechanics/Vehicles.md`
+**See also:** `Encyclopedia/Vehicles.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Rigging.md` · `Mechanics/Vehicles.md`
 **Out of scope here:** RCC models (Rigger Gear); full vehicle-mod slot system for cars (Vehicle and Drone Modifications / R5 Building the Perfect Beast); smart firing platform (Weapon Accessories; drone-like Pilot but not a drone SKU).
 
 ## Schema
@@ -802,8 +802,18 @@ Agent reference (SR5). Structured field blocks for LLM parsing. Mechanical detai
 
 Full biodrone attribute/skill blocks: `Source Texts/Howling Shadows/`. Critter Body Armor 50¥/Armor point Avail 6; Critter Earphones/Goggles R1–6 Avail 3 / R×50¥; Sensor Collar Avail 2 / 200¥; Training Kit Avail 1 / 250¥ → Tools Kits and Survival / this file notes.
 
+### Street Lethal — Battle Buddy (*BASES* power armor)
+
+Companion drone for Prometheus **BASES** power armor (not sold separately in condensed extract).
+
+| Drone | Hand | Speed | Accel | Body | Armor | Pilot | Sens | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Battle Buddy | 1 | 1 | 1 | 5 | 5 | 2 | 1 | Recharge BASES 1 hour per charge; drone rack on BASES |
+
+**Verified from:** `Street Lethal Condensed.md` (Military and Future Weapons / CorpSec).
+
 ## Inventory checklist
-Total SKUs in this file: Core 11 + R5 catalog + B&B Dustoff/CAD-7 + HT ×4 + CA ×3 + HS biodrones ×4.
+Total SKUs in this file: Core 11 + R5 catalog + B&B Dustoff/CAD-7 + HT ×4 + CA ×3 + HS biodrones ×4 + **SL Battle Buddy**.
 
 Core Street Gear drones (11): Kanmushi, Microskimmer, Flying Eye, Fly-Spy, Crawler, Optic-X2, Duelist, Doberman, Roto-Drone, Dalmatian, Steel Lynx.
 

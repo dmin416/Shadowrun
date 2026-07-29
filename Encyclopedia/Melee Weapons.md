@@ -3,7 +3,7 @@
 Agent reference (SR5). Compact layout; full mechanical detail.
 
 **Src PDFs:** Core · RnG · SL · `Shadowrun_5E_Hard_Targets.pdf` · `Shadowrun_5E_Cutting_Aces.pdf` · `completetrog.pdf`
-**Books:** Core · RnG · SL · HT · CA · CT (Osmium Mace + trog gear elsewhere).
+**Books:** Core · RnG · SL (incl. Red Samurai katana, Blood Drinker axe) · HT · CA · CT (Osmium Mace + trog gear elsewhere).
 **See also:** `Encyclopedia/Exotic Weapons.md` · `Encyclopedia/Projectile Weapons.md` · `Encyclopedia/Weapon Accessories.md` · `Encyclopedia/Cyberware.md` · `Encyclopedia/Bioware.md` · `Mechanics/Combat/Melee Combat.md`
 
 **Out of scope:** cyber implant weapons as primary catalog (see Cyberware); bows / thrown as primary (Projectile).
@@ -126,6 +126,15 @@ Troll sizes only. Firearm SKU: shotgun Acc 3, DV 12P, AP −1, mode SS, RC 1, am
 | Krime Gloves (Knucks) | SL | Unarmed | Phys | 0 | (STR)P | - | 8R | 600¥ | See Shared procedures → Krime Gloves. Knucks / densiplast mode |
 | Krime Gloves (Stun Pad) | SL | Unarmed | Phys | 0 | 8S(e) | −5 | - | - | Same gloves; skullwhomper stun-palm pad mode. Stormcuff swappable battery |
 | Krime Stun Lance | SL | Exotic(Stun Lance) | 4 | 2 | 10S(e) | −5 | 9R | 900¥ | ~3 m stun baton / lance. Troll sizes only (Using Unadapted Gear, Core). Charge rules as stun baton unless battery specifics differ by table |
+
+## Street Lethal CorpSec melee
+
+**Verified from:** `Street Lethal Condensed.md` (Military and Future Weapons / CorpSec).
+
+| Name | Src | Skill | Acc | Reach | DV | AP | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Red Samurai Katana | SL | Blades | 6 | 1 | (STR+3)P | −4 | NA | NA | Renraku elite issue; not commercial. Hand-made; master smiths ≤50 katana/year. |
+| Blood Drinker Combat Axe | SL | Blades | Physical* | 1 | (STR+3)P | −3 | 12F | 500¥ | Aztechnology combat axe; larger than standard tomahawk. *Acc printed as "Physical" in SL. |
 
 ## Hard Targets / Cutting Aces / Complete Trog melee
 

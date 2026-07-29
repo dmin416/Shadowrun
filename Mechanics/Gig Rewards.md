@@ -5,15 +5,16 @@ Agent reference (SR5). LLM layout; run pay, Karma awards, Street Cred / Notoriet
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
 **Printed:** Reputation ~p.372-373; Run Rewards ~p.375-376; Character Advancement ~p.103-107
 **Source Text:** `19 - Gamemaster Advice.md` · Advancement costs in `08 - Creating A Shadowrunner.md` / [Finishing Touches](Character%20Creation/Finishing%20Touches.md)
-**See also:** [Actions Outside Combat](Actions%20Outside%20Combat.md) (Street Cred on Social) · [Housing and Lifestyle](Housing%20and%20Lifestyle.md) · Character Creation Qualities
+**See also:** [Actions Outside Combat](Actions%20Outside%20Combat.md) (Street Cred on Social) · [Advancement](Advancement.md) (Karma spend costs) · [Housing and Lifestyle](Housing%20and%20Lifestyle.md) · Character Creation Qualities
 
-**Scope:** Optional Cash Rewards formula; Karma Rewards table; Street Cred / Notoriety / Public Awareness; Notoriety quality list; Public Awareness bands; Karma advancement costs (play)
-**Out of scope:** Full Positive/Negative quality writeups; Negotiation scene scripting; campaign-specific bonus gear
+**Scope:** Optional Cash Rewards formula; Karma Rewards table; Street Cred / Notoriety / Public Awareness; BTB alternate Cred/Karma spends; Notoriety quality list; Public Awareness bands; Karma spend pointer (to Advancement)
+**Out of scope:** Full Positive/Negative quality writeups; Karma spend costs (see [Advancement](Advancement.md), not duplicated here); Negotiation scene scripting; campaign-specific bonus gear
 
 ## Inventory (completeness checklist)
 
 - [x] Run pay guidelines; Karma awards
 - [x] Street Cred / Notoriety / Public Awareness formulas
+- [x] Better Than Bad alternate Karma / Street Cred spends
 
 ---
 
@@ -99,6 +100,21 @@ Three separate scores.
 | Use | Positive **Limit** modifier on Social Tests when reputation is known |
 | Trade | Sacrifice **2** Street Cred to remove **1** Notoriety |
 
+### Better Than Bad: alternate Karma / Street Cred spends
+
+**Verified from:** `Better Than Bad Condensed.md`. Karma and Street Cred are interchangeable for these (GM discretion where noted).
+
+| Spend | Cost |
+| --- | --- |
+| Raise contact **Loyalty** by 1 | Karma/Cred equal to new Loyalty (max Loyalty 4); that many months; one such change at a time |
+| Raise contact **Connection** by 1 | 10 Karma/Cred total; need Loyalty ≥ 3; once per contact |
+| Influence skill group test bonus | 1 Karma or Cred per +1 die, max 3/test |
+| Faction Reputation +1 | Equal to new score (max 3 this way); months = new score; one change at a time |
+| Lifestyle payment -1 level | 1 Karma or Cred per 1,000¥ saved; ends if lifestyle changes |
+| Call favor (GM OK) | 2 x Favor Rating; capped by contact Loyalty; owe equal/lesser favor back or lose Street Cred equal to spend |
+
+Also: **Consummate Professional** quality halves Street Cred gain (total Karma / 20 instead of / 10). See [Qualities Supplemental](Character%20Creation/Qualities%20Supplemental.md).
+
 ### Notoriety
 
 Starts at 0. Adjust for qualities (min 0): **+1** per listed Negative, **-1** per listed Positive.
@@ -126,18 +142,6 @@ How well media / public / authorities know you. Award for loud fails (fight HTR,
 
 ## Spending Karma (advancement)
 
-Same costs at chargen leftover spend and in play (see Finishing Touches). Core quick reference:
+Full Karma costs (attributes, skills, specializations, qualities, initiate/submersion grades), training rates, and downtime limits live in [Advancement](Advancement.md) - not duplicated here to avoid drift. Key point since it's easy to get wrong: buying a **Positive quality** or buying off a **Negative quality** in play costs the listed Karma value **x2**, not the flat listed value (see Advancement's Qualities in play table).
 
-| Advance | Karma cost |
-| --- | --- |
-| Attribute | New rating × **5** |
-| Active skill | New rating × **2** (cumulative from 0) |
-| Active skill group | New rating × **5** |
-| Knowledge / Language | New rating × **1** |
-| Specialization | Flat (Core Advancement table; typically 7 in play) |
-| New Positive quality / buy off Negative | Quality's Karma value |
-| Initiate / Submerse | Grade-based (Magic / Resonance chapters) |
-
-Post-chargen skill max normally **12** (13 with Aptitude). Downtime training time: Character Advancement; Instruction can cut days ([Actions Outside Combat](Actions%20Outside%20Combat.md)).
-
-Exact specialty/initiation rows: Core Character Advancement (~p.103-107) / Finishing Touches.
+Post-chargen Active skill max normally **12** (13 with Aptitude). Instruction can cut training time ([Actions Outside Combat](Actions%20Outside%20Combat.md)).

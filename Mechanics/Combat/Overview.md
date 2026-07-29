@@ -152,4 +152,4 @@ Standard Defense: Reaction + Intuition ± mods, **no Limit** (unless a skill is 
 | [Surprise](Surprise.md) | Surprise Test, Ambush |
 | [Called Shots and Special](Called%20Shots%20and%20Special.md) | Called shots, suppression, Full Defense / Block / Parry / Dodge |
 
-Also: `../Healing and Injuries.md` · Matrix/Magic/Rigging Basics for non-meat attacks.
+Also: `../Healing and Injuries.md` · Matrix/Magic/[Rigging](../Rigging.md) for non-meat attacks.

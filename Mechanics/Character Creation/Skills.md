@@ -5,10 +5,10 @@ Agent reference (SR5). LLM layout; Priority skill spend + Knowledge/Language + g
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
 **Printed:** Chargen Step Five ~p.88-90; Skills chapter groups/links ~p.128-151
 **Source Text:** `08 - Creating A Shadowrunner.md` · `09 - Skills.md`
-**See also:** [Priority System](Priority%20System.md) · [Overview](Overview.md) · [Attributes](Attributes.md) · `../Dice and Tests.md`
+**See also:** [Priority System](Priority%20System.md) · [Overview](Overview.md) · [Attributes](Attributes.md) · [Active Skills Play](../Active%20Skills%20Play.md) · `../Dice and Tests.md`
 
 **Scope:** Priority individual/group points; max ratings; specializations; Knowledge free formula; categories; skill groups; Active skills by linked Attr; Mag/Res free skills note
-**Out of scope:** Full per-skill Default/specialization lists (Skills chapter / future Skills Reference); use-in-play social/stealth procedures
+**Out of scope:** Full per-skill specialization lists (Skills chapter); use-in-play procedures → [Active Skills Play](../Active%20Skills%20Play.md)
 
 ## Inventory (completeness checklist)
 

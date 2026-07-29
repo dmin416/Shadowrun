@@ -2,11 +2,11 @@
 
 Agent reference (SR5). LLM layout; full mechanical detail from local PDFs.
 
-**Src PDFs:** `Source/PDF/chromeflesh.pdf` (primary). Core index points to CF only for Adapsin/nano. No Hard Targets PDF. R5 nanomaintenance → Vehicle and Drone Modifications.
-**Printed:** CF Nanotechnology Rules ~p.145-155; Genetech Rules ~p.155-167; Compiled tables ~p.233-239
-**See also:** `Encyclopedia/Cyberware.md` · `Encyclopedia/Bioware.md` · `Encyclopedia/Medical Gear.md` (Savior / TCS / implant medic cross-ref) · `Encyclopedia/Drugs Toxins and Chemicals.md` · `Encyclopedia/Melee Weapons.md` (monowire garrote)
+**Src PDFs:** `Source/PDF/chromeflesh.pdf` (primary); Dark Terrors (CFD anti-nanite treatments, local chapter text). Core index points to CF only for Adapsin/nano. No Hard Targets PDF. R5 nanomaintenance → Vehicle and Drone Modifications.
+**Printed:** CF Nanotechnology Rules ~p.145-155; Genetech Rules ~p.155-167; Compiled tables ~p.233-239; Dark Terrors Monads and CFD ~p.200-201 (NanoScrub / Overwriter Nanites)
+**See also:** `Encyclopedia/Cyberware.md` · `Encyclopedia/Bioware.md` · `Encyclopedia/Medical Gear.md` (Savior / TCS / implant medic / CFD treatments cross-ref) · `Encyclopedia/Drugs Toxins and Chemicals.md` · `Encyclopedia/Melee Weapons.md` (monowire garrote)
 
-**Out of scope:** symbionts (Bioware); CFD fiction without buy stats; Black Box nanoforge (flavor, no Avail/Cost in rules); nanomagic / Trojan nanites / self-assembling cyber (research fiction only).
+**Out of scope:** symbionts (Bioware); CFD fiction beyond NanoScrub / Overwriter Nanites (which now have printed buy stats, see below); Black Box nanoforge (flavor, no Avail/Cost in rules); nanomagic / Trojan nanites / self-assembling cyber (research fiction only).
 
 ## Inventory (completeness checklist)
 
@@ -85,6 +85,21 @@ Agent reference (SR5). LLM layout; full mechanical detail from local PDFs.
 ### Replicators (CFD only; not for sale)
 
 CFD victims only. Build soft/hard nanites from host materials. Camouflaged; Detection 5. Flavor warning only.
+
+---
+
+## CFD anti-nanite treatments (Dark Terrors p.200-201)
+
+Black-market doses to counter CFD (Monad) infection. An individual dose is Rating 1; stack multiple doses before the treatment takes effect for a higher effective Rating.
+
+| Name | Src | Type | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- |
+| Overwriter Nanites | DTer | Hard | 14F | 5,000¥ | Wireless-disabled hunter-killer nanites; immune to CFD reprogramming. IV injection or aerosol (aerosol halves Rating, round down). End of each Combat Turn while active: Overwriter Rating × 2 [Rating] vs. CFD Nanite Volume × 2; net hits reduce the loser's Rating/Volume by 1 each, until either hits 0. Host Nanite Volume 0 = infection removed. No sedation of its own - restrain the Monad. Leftover Overwriters after a cure lose 1 Rating/day. |
+| NanoScrub | DTer | Hard | 16F | 7,500¥ | Shiawase Biotech treatment; IV injection only (no aerosol). 1 hour after injection, then every full hour: host Nanite Volume and any other nanoware Rating in the host both drop by 1; NanoScrub's own Rating also drops by 1 each hour after the first. Nanite Volume 0 = cured. Side effects: roll Rating dice at start of treatment. Glitch: destroys any headware/eyeware/earware with base Essence cost lower than (NanoScrub Rating / 10). Critical glitch: treatment fails, Monad goes psychotic, full overwrite in (10 - Nanite Volume) days (minimum 1). |
+
+- Can be combined: any Overwriters left in the host when NanoScrub takes effect have their Rating reduced the same way as other nanoware.
+- Neither treatment can destroy a CFD-infected nanohive on its own; see Nanohive rules (Lockdown p.200) once the infection itself is cleared.
+- Also cross-referenced in [Medical Gear](Medical%20Gear.md) (CFD treatments).
 
 ---
 
@@ -352,6 +367,7 @@ Trends: Petites™ (tiny chimeras), Biowear™ living clothing, collector arbore
 ## Coverage notes
 
 - **Complete** vs CF Nanotechnology Rules (p.145-155), Genetech Rules (p.155-167), and compiled tables Hard/Soft Nanoware, Nanocybernetics, Nanogear, Genetic Restoration, Phenotype, Exotic Metagenics, Transgenics, Environmental Microadaptations, Complimentary Genetics.
+- **Dark Terrors CFD treatments filled:** NanoScrub and Overwriter Nanites now carry full Avail/Cost/Rating rules (see CFD anti-nanite treatments above).
 - Also cataloged from prose tables (not always on final compiled page): Weaponized Cutters/Intruders; Immunization; Transgenic alteration; Genetic infusions + side-effect table; DNArt / Chimera pets.
 - Soft nanotattoos priced in soft table (R×500¥) with hard description (R×1,000¥).
 - Therapeutic genetics Essence prose vs table conflict flagged.

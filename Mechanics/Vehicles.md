@@ -5,10 +5,10 @@ Agent reference (SR5). LLM layout; vehicle stats, Vehicle Tests, tactical drivin
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
 **Printed:** Vehicle Combat ~p.198-205; passenger fire ~p.183; sensors ~p.184
 **Source Text:** `11 - Combat.md` · control modes pointer `15 - Riggers.md` · Rigger 5 for advanced chase (after Core)
-**See also:** [Combat/Ranged Combat](Combat/Ranged%20Combat.md) · [Combat/Called Shots and Special](Combat/Called%20Shots%20and%20Special.md) · [Rigging Basics](Rigging%20Basics.md) · Encyclopedia Vehicles / Drones
+**See also:** [Combat/Ranged Combat](Combat/Ranged%20Combat.md) · [Combat/Called Shots and Special](Combat/Called%20Shots%20and%20Special.md) · [Rigging](Rigging.md) · Encyclopedia Vehicles / Drones
 
 **Scope:** Vehicle attributes; Vehicle Tests + terrain/modifiers; Movement Rates; driver actions; Ramming; Chase Combat (ranges, environments, Chase Actions); Crashes; attacks vs vehicle/passengers; Evasive Driving; suppression vs vehicles; passenger -2 from moving vehicle
-**Out of scope:** Full GridGuide travel tables reprint; Rigger 5 Maximum Pursuit depth; full drone Pilot/autosoft catalog (Rigging Basics)
+**Out of scope:** Full GridGuide travel tables reprint; Rigger 5 Maximum Pursuit depth; full drone Pilot/autosoft catalog ([Rigging](Rigging.md))
 
 ## Inventory (completeness checklist)
 
@@ -193,7 +193,7 @@ Also Composure (4); penalty = hits missed for that many Combat Turns.
 | --- | --- |
 | Driven vehicle | Driver Reaction + Intuition |
 | Drone | Pilot + Autosoft [Handling] |
-| Jumped in | See Rigging Basics |
+| Jumped in | See [Rigging](Rigging.md) |
 
 Resist Body + Armor; no damage if modified DV < Armor. Evasive Driving: Free Action; -10 Init; +Intuition dice to defense (not vs rams).
 
@@ -219,4 +219,4 @@ Passive/active Sensor Tests: characters Perception + Intuition [Sensor]; vehicle
 
 ## Rigging pointer
 
-Control Rig / Jump In / RCC: [Rigging Basics](Rigging%20Basics.md). Advanced pursuit: Rigger 5 Maximum Pursuit after Core chase is mastered.
+Control Rig / Jump In / RCC: [Rigging](Rigging.md). Advanced pursuit: Rigger 5 Maximum Pursuit after Core chase is mastered.

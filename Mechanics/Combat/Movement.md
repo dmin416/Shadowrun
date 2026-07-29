@@ -7,13 +7,15 @@ Agent reference (SR5). LLM layout; Walk / Run / Sprint per Combat Turn.
 **Source Text:** `11 - Combat.md`
 **See also:** [Overview](Overview.md) · [Action Economy](Action%20Economy.md) · [Melee Combat](Melee%20Combat.md) · [Ranged Combat](Ranged%20Combat.md) · [Called Shots and Special](Called%20Shots%20and%20Special.md) · `../Vehicles.md`
 
-**Scope:** Walk/Run rates; Sprint test; metatype sprint increase; running attack mods; charging; fatigue from sprint
-**Out of scope:** Climb/swim/jump full Athletics procedures; vehicle Speed (Vehicles); detailed terrain catalog
+**Scope:** Walk/Run rates; Sprint test; metatype sprint increase; running attack mods; charging; fatigue from sprint; Climbing (Gymnastics) procedure + table; Jumping (Gymnastics) procedure
+**Out of scope:** Swim full Athletics procedure ([Actions Outside Combat](../Actions%20Outside%20Combat.md)); vehicle Speed (Vehicles); detailed terrain catalog
 
 ## Inventory (completeness checklist)
 
 - [x] Walk / Run rates; Sprint test; metatype modifiers
 - [x] Running attack mods; charging; terrain
+- [x] Climbing procedure + Climbing Table + failures/glitches
+- [x] Jumping procedure (horizontal/vertical)
 
 ---
 
@@ -92,9 +94,67 @@ Fatigue = Stun resisted with **Body + Willpower** (no Armor). Cannot heal while 
 
 ---
 
+## Climbing (Gymnastics)
+
+Complex Action; **Gymnastics + Strength [Physical]** Test. Hits set how far you move that Action per the Climbing Table; assisted climbing (rope, harness, climbing gear) is easier but needs prep, unassisted can be done on the fly.
+
+### Climbing Table
+
+| Situation | Movement per test (round up) |
+| --- | --- |
+| Assisted climbing down (rappelling) | 20 m + 1 m per hit |
+| Assisted climbing upward | 1 m per hit |
+| Assisted climbing horizontally | 1 m per 2 hits |
+| Assisted climbing upside down (ceiling/overhang) | 1 m per 3 hits |
+| Unassisted climbing upward | 1 m per 2 hits |
+| Unassisted climbing down | 1 m per hit |
+
+| Modifier | Dice Pool |
+| --- | --- |
+| Assisted climbing (gear) | +2 |
+| Surface: Easily climbable (chain-link fence) | +1 |
+| Surface: Broken (tree, loose stone wall) | +0 |
+| Surface: Flat (brick wall, side of building) | -3 |
+| Surface: Sheer (metal wall, seamless stone) | -5 |
+| Surface: Slippery or wet | -2 |
+| Surface: Greased or gel-treated | -4 |
+
+### Climbing failures and glitches
+
+| Step | Rule |
+| --- | --- |
+| Failed climbing/rappelling test | Progress halts; make **Reaction + Strength** Test to hold on |
+| Fail that hold-on test | You start to fall (~20 m per Combat Turn) |
+| Next Action Phase | May attempt to arrest the fall: **Reaction + Strength -2** |
+| Other climbers | GM may allow a **Reaction + Strength** Test to grab the falling character |
+| With climbing gear | Belayer rolls **Free-Fall + Logic [Mental]** vs threshold = half the faller's Body (round down); faller may spend Edge on this test. Success = gear catches, character dangles. Failure = falls |
+| Hits ground | [Falling and Fatigue](../Falling%20and%20Fatigue.md) (falling damage) |
+
+### Rappelling
+
+**Free-Fall + Body [Physical] (2)** Success Test, Simple Action. Descend 20 m per Combat Turn, +1 m per net hit beyond the threshold. Stopping requires another Free-Fall Test at the same threshold; fail = keep falling at that rate (Falling damage if you hit bottom). Taking another Simple Action the same Phase (e.g. firing a weapon) gives **-2** to both that action and the Free-Fall Test.
+
+Climbing past fence-top wiring (barbed/concertina/electrified/monowire): [Barriers](../Barriers.md).
+
+---
+
+## Jumping (Gymnastics)
+
+**Gymnastics + Agility** Test (not separately costed in Core; GMs typically fold it into the character's movement for the Action Phase, or call for a Simple Action for an isolated leap outside normal movement). Running leaps go farther than standing jumps if there's room to build up speed first.
+
+| Jump type | Distance per hit | Maximum |
+| --- | --- | --- |
+| Standing horizontal | 1 m per hit | Agility x 1.5 m |
+| Running horizontal (leap) | 2 m per hit | Agility x 1.5 m |
+| Vertical (standing or running) | 0.5 m per hit | Height x 1.5 |
+
+Net hits beyond the maximum don't add distance/height, just style points (GM discretion). A failed or short jump that leaves you short of the target ends the movement there (fall/gap rules per GM; [Falling and Fatigue](../Falling%20and%20Fatigue.md) if it's a drop).
+
+---
+
 ## Terrain / special (GM)
 
-Difficult terrain may cut move rates (half/quarter) at GM discretion. Climb, swim, jump: Athletics / Strength tests (Skills chapter). Vehicles: `../Vehicles.md`.
+Difficult terrain may cut move rates (half/quarter) at GM discretion. Swim: [Actions Outside Combat](../Actions%20Outside%20Combat.md) (Swimming). Vehicles: `../Vehicles.md`.
 
 ### Prone (pointer)
 
@@ -105,4 +165,5 @@ Drop Prone: Free (not if surprised). Stand: Simple (wounded: Body+Wil (2)). Pron
 ## Coverage notes
 
 - Core Movement Table + Sprint + running mods + sprint fatigue: complete.
+- Climbing Table + failures/glitches + Rappelling, and Jumping horizontal/vertical: complete above (from Skills - Using Gymnastics).
 - Intercept when moving past foes: [Called Shots and Special](Called%20Shots%20and%20Special.md).

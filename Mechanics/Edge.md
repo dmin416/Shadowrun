@@ -2,18 +2,19 @@
 
 Agent reference (SR5). LLM layout; full mechanical detail. Prefer this file for all Edge spends, burns, Edge-as-dice, and Edge bans.
 
-**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
-**Printed:** Concepts Edge ~p.56-57; Combat Init Edge ~p.160-161; Suppression Reaction+Edge ~p.179; Magic spirits ~p.304; Gear skillsoft/skilljack; Helps Group Edge; chargen Edge / Lucky / Bad Luck
-**Source Text:** `06 - Shadowrun Concepts.md` · `11 - Combat.md` · `17 - Magic.md` · `20 - Helps and Hindrances.md` · `21 - Street Gear.md` · `08 - Creating A Shadowrunner.md`
-**See also:** `Mechanics/Dice and Tests.md`
+**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `Source/PDF/runandgun.pdf`
+**Printed:** Concepts Edge ~p.56-57; Combat Init Edge ~p.160-161; Suppression Reaction+Edge ~p.179; RnG Combat Edge ~p.125-126
+**Source Text:** `06 - Shadowrun Concepts.md` · `11 - Combat.md` · `08 - Killshots and More.md` · `17 - Magic.md` · `20 - Helps and Hindrances.md` · `21 - Street Gear.md` · `08 - Creating A Shadowrunner.md`
+**See also:** `Mechanics/Dice and Tests.md` · [Called Shots and Special](Combat/Called%20Shots%20and%20Special.md) · [Martial Arts](Combat/Martial%20Arts.md)
 
-**Scope:** Attr vs points; spend caps; 6 spends; Rule of Six; regain; burn; Init Edge; Reaction+Edge; spirits; Group Edge; Edge bans; chargen/raise pointers
-**Out of scope:** Full Initiative Pass math; full suppression zone geometry (Combat); quality full text (Lucky/Bad Luck/Insomnia/Loss of Confidence)
+**Scope:** Core spends/burns + RnG Combat Edge; Init Edge; Reaction+Edge; spirits; Group Edge; bans; chargen pointers
+**Out of scope:** Full suppression zone geometry (Combat); quality full text (Lucky/Bad Luck/Insomnia/Loss of Confidence)
 
 ## Inventory (completeness checklist)
 
 **Spends (6):** Push the Limit; Second Chance; Seize the Initiative; Blitz; Close Call; Dead Man’s Trigger  
 **Burn (2):** Smackdown; Not Dead Yet  
+**RnG Combat (5):** Lucky Move; Miracle Shot; Lucky Duck; Sixth Sense; Lucky Cover  
 **Meta:** ≤1 point/test; own actions only; Extended per-roll; rest +1; GM +1; cap = Attr  
 **Edge-as-dice (not a spend):** Reaction + Edge (suppression; vehicle escape); ERIC uses Edge Attr  
 **Other actors:** spirits (summoner spends); grunts (Group Edge = Prof Rating); lieutenants share Group Edge  
@@ -113,6 +114,22 @@ Agent reference (SR5). LLM layout; full mechanical detail. Prefer this file for 
 | Test | **Body + Willpower (3)** |
 | Success | Use any **remaining actions** for **one** single action, then black out |
 | Fail | No last gasp |
+
+---
+
+## Combat Edge (Run & Gun)
+
+Additional spends from Killshots chapter. Same hard cap: **≤ 1 Edge point per test/action** unless noted. Own actions only except **Lucky Duck**.
+
+| Option | Cost | Timing | Effect |
+| --- | --- | --- | --- |
+| **Lucky Move** | 1 point | During combat | Use **one** Martial Arts technique untrained (clumsy but effective). Trained artists may use a technique they lack. **Once per Combat Turn** |
+| **Miracle Shot** | 1 point | Called Shot attack | Remove **4** points of Called Shot penalties (Core -4 becomes 0; location shots easier) |
+| **Lucky Duck** | **2** points | After attack declared on teammate | Teammate in sight/commlink range: attack **misses**. Spend **your** Edge for **their** defense |
+| **Sixth Sense** | 1 point | When unaware | Get a Defense Test despite being caught unaware (mirror glimpse, lucky trip, etc.) |
+| **Lucky Cover** | 1 point | Suppressive fire | Find fortunate cover (even during Enhanced or Flechette suppression); may skip Reaction+Edge or gain cover Defense bonus |
+
+**Protecting the Principle** (Interrupt -5 Init, **1 Edge**): move up to 2 m to intercept attack on ally; no Defense Test, only Body + Armor Resistance. Once per Combat Turn. See [Action Economy](Combat/Action%20Economy.md).
 
 ---
 
@@ -269,6 +286,11 @@ Professional Rating bands: 0 untrained; 1-2 semi; 3-4 trained; 5-6 elite (break/
 | Avoid bullets in suppress zone | Reaction + Edge (Attr as dice; not a spend) |
 | Spirit needs luck | Spend **your** Edge on spirit’s test |
 | Grunt needs luck | Spend Group Edge |
+| Untrained MA technique once/turn | Lucky Move |
+| Remove 4 Called Shot penalty | Miracle Shot |
+| Teammate avoids declared hit | Lucky Duck (2 Edge) |
+| Defense when unaware | Sixth Sense |
+| Cover under suppression | Lucky Cover |
 
 ---
 
@@ -276,5 +298,6 @@ Professional Rating bands: 0 untrained; 1-2 semi; 3-4 trained; 5-6 elite (break/
 
 - Concepts spends/regain/burn: complete.
 - Combat Init Edge + ERIC + Reaction+Edge suppression: complete for agent use; zone geometry stays in Combat.
+- RnG Combat Edge (Lucky Move, Miracle Shot, Lucky Duck, Sixth Sense, Lucky Cover): complete.
 - Spirits, alchemy prep, skillsoft/jack, Group Edge, quality bans: complete summaries.
 - Chargen starting Edge / special Attr points: Character Creation files.

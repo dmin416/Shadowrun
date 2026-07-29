@@ -16,7 +16,7 @@ Folder: `Encyclopedia/` - one file per major item type; filled catalogs use PDF-
 
 ### Fill item catalogs (Core first, then supplements)
 
-- [x] [Melee Weapons](Encyclopedia/Melee%20Weapons.md) - Core + RnG + SL + HT + CA + CT Osmium
+- [x] [Melee Weapons](Encyclopedia/Melee%20Weapons.md) - Core + RnG + SL (Red Samurai katana, Blood Drinker axe) + HT + CA + CT Osmium
 - [x] [Projectile Weapons](Encyclopedia/Projectile%20Weapons.md) - Core + RnG + SL + HT (Dynamic Tension Bow, Mono Tip, Seeker, Syringe)
 - [x] [Firearms](Encyclopedia/Firearms.md) - Core + RnG + SL + SL-CorpSec + **GH3** (33) + HT + CA + AP SVD + Lockdown prototypes
 - [x] [Exotic Weapons](Encyclopedia/Exotic%20Weapons.md) - Core + RnG + SL + HT + CA + Lockdown pointers
@@ -35,14 +35,16 @@ Folder: `Encyclopedia/` - one file per major item type; filled catalogs use PDF-
 - [x] [Medical Gear](Encyclopedia/Medical%20Gear.md) - Core + CF + R5 + SS + **B&B biotech**
 - [x] [Drugs Toxins and Chemicals](Encyclopedia/Drugs%20Toxins%20and%20Chemicals.md) - Core + CF + SS + **HT toxins** + **B&B** + **Lockdown** + **BTB Blight** + **CA perfumes**
 - [x] [Magical Goods](Encyclopedia/Magical%20Goods.md) - Core+SG+FA+CF+RF + CA Mana Compass / Shaman Tuxedo + HT Enchanting Gloves
-- [x] [Vehicles](Encyclopedia/Vehicles.md) - Core+R5+SS + HT Cocotaxi/Camellos + **CT Trollhammer/Titan**
-- [x] [Drones](Encyclopedia/Drones.md) - Core + R5 + **B&B Dustoff/CAD-7 verified** + HT ×4 + CA ×3 + HS biodrones
+- [x] [Vehicles](Encyclopedia/Vehicles.md) - Core+R5+SS + HT Cocotaxi/Camellos + **CT Trollhammer/Titan** + **SL Wavecutter MPAC**
+- [x] [Drones](Encyclopedia/Drones.md) - Core + R5 + **B&B Dustoff/CAD-7 verified** + HT ×4 + CA ×3 + HS biodrones + **SL Battle Buddy**
+- [x] [Critters](Encyclopedia/Critters.md) - HS Ch.08 paranormal animals + Ch.09 mutants/toxic + Ch.10 extraplanar (full) + Ch.17 habitat/index + HT Caribbean
 - [x] [Vehicle and Drone Modifications](Encyclopedia/Vehicle%20and%20Drone%20Modifications.md) - Core+R5 full slot/drone MP catalog + SS extractor mods; audited (R5 vs SS chameleon/smuggling conflicts noted; print gaps: Workshop blank, Ejection/Ram Plate/Micro rack rules-only)
 - [x] [Identity and Documentation](Encyclopedia/Identity%20and%20Documentation.md) - Core Fake SIN/license/credsticks + verify/burn/Forgery; RF Runner/Bug-Out PACKs + Day Job/Doppelganger/Erased gates; SS forger + Fake DocWagon; audited (no extra shop tables in CT/DT/KC/CF)
 - [x] [Lifestyles and Safehouses](Encyclopedia/Lifestyles%20and%20Safehouses.md) - Core lifestyles/options/permanent/team + RF expanded tiers/Entertainment/options/samples/bolt hole & safehouse
 - [x] [Tools Kits and Survival](Encyclopedia/Tools%20Kits%20and%20Survival.md) - Core + RnG + RF + **HT misc** + **CT chairs/ropes/Yerz**
 - [x] [Security and Surveillance](Encyclopedia/Security%20and%20Surveillance.md) - Core locks/maglocks/restraints/B&E+chem; facility sensor procedures; RnG rams/blast/PED/Hold-Fast/Ultra-Glide; RF B&E PACK note
 - [x] **2026-07-29 gap fill:** GH3, HT (verified), CA, B&B, Lockdown, BTB, AP, KC Matrix ammo, CT leftovers, HS biodrones/critter 'ware ingested from local PDFs / Source Texts
+- [x] **2026-07-29 residual gap fill:** SL Spinrad-Global Spinstorm ferrous slugs ammo (Ammunition.md); Man-Catcher ammo cross-ref cleanup; Dark Terrors NanoScrub / Overwriter Nanites CFD treatments (Nanotech and Geneware.md + Medical Gear.md cross-ref); Dark Terrors Adrenaline Filter bioware (Bioware.md); Shadow Spells Reagent Cost Table (Magical Goods.md). Still blocked: Seattle Gambit ammo (no local PDF), Painade Avail/Cost (print-corrupted).
 
 ### Encyclopedia polish
 
@@ -76,6 +78,8 @@ LLM agent refs. Done files use Inventory + Schema + full tables. Each open item 
   - [x] Racial abilities (vision, Reach, dermal armor, toxin +2, lifestyle cost %)
   - [x] Starting Edge by metatype; special Attr spend rules
   - [x] Movement / size notes if Core states them here
+  - [x] Run Faster metavariant min/max tables (all RF metavariants + metasapients)
+  - [x] Run Faster shapeshifter attribute lines (all 10 breeds, RF pp. 104-105)
 - [x] [Attributes](Mechanics/Character%20Creation/Attributes.md)
   - [x] Spend all Attr points; 1 point = +1 from metatype min
   - [x] One Mental/Physical at natural max; special attrs exempt
@@ -113,6 +117,7 @@ LLM agent refs. Done files use Inventory + Schema + full tables. Each open item 
   - [x] Free Karma Cha×3 (×6 Prime); Connection + Loyalty min 1 each
   - [x] Cost 1 Karma per rating; ≤7 Karma per contact at chargen
   - [x] Loyalty bands; Connection use pointer to social chapter
+  - [x] Run Faster expanded: chips/favors, org contacts, barter qualities, I Know a Guy, Social Networking, Loyalty Tests, Street Cred/Notoriety, Do I Know You
 - [x] [Finishing Touches](Mechanics/Character%20Creation/Finishing%20Touches.md)
   - [x] Additional Purchases & Restrictions table (spirits, sprites, spells, forms, foci, contacts)
   - [x] Karma Advancement costs used at chargen (Attr ×5, Active ×2, Know/Lang ×1)
@@ -182,30 +187,52 @@ LLM agent refs. Done files use Inventory + Schema + full tables. Each open item 
 
 ### Specialized systems (basics → full refs)
 
-- [x] [Matrix Basics](Mechanics/Matrix%20Basics.md)
+- [x] [Matrix](Mechanics/Matrix.md)
   - [x] Persona / device attrs; Noise; Overwatch Score
   - [x] Marks; Hosts; Foundation pointer
   - [x] Cybercombat; Convergence; dumpshock
   - [x] Technomancer Living Persona / sprites / complex forms overview
-- [x] [Magic Basics](Mechanics/Magic%20Basics.md)
-  - [x] Spellcasting + Drain; traditions
-  - [x] Spirits summon/bind/banish; Edge (summoner)
-  - [x] Astral perception/projection; wards
-  - [x] Adepts PP; background count / mana issues
-- [x] [Rigging Basics](Mechanics/Rigging%20Basics.md)
-  - [x] Control modes; Jump In; RCC sharing
+- [x] [Magic](Mechanics/Magic.md)
+  - [x] Spellcasting + Drain; traditions; full Core spell catalog
+  - [x] Counterspelling (spell defense/dispelling); full Ritual Spellcasting + rituals
+  - [x] Spirits summon/bind/banish; Edge (summoner); full Core spirit stat blocks
+  - [x] Enchanting (Alchemy/Artificing/Disenchanting); full adept powers list; Mentor Spirit table
+  - [x] Astral perception/projection/combat/tracking; full Assensing Table; wards
+  - [x] Adepts PP; background count / mana issues; foci types
+- [x] [Rigging](Mechanics/Rigging.md) (canonical; `Mechanics/Rigging Basics.md` now a stub redirect)
+  - [x] Control modes; Jump In; RCC sharing + worked example
+  - [x] Electronic Warfare Noise actions; Sensor Targeting + Sensor Defense + Signature tables
   - [x] Drone Init / Pilot / autosofts; Noise
   - [x] Rigger Interface / Control Rig grades pointer
 
 ### Mechanics structure / optional new pages
 
-- [ ] **Active Skills** reference (use-in-play; or finish under Character Creation/Skills)
-- [x] **Qualities Reference** (play effects) if not fully in Qualities.md
-- [ ] **Advancement / Karma Costs** (post-chargen tables, downtime +3 skill cap)
-- [ ] **Reputation** (if split from Gig Rewards)
-- [ ] **Toxins & Drugs** play rules → link Encyclopedia/Drugs
-- [ ] Cross-link Mechanics ↔ Encyclopedia
-- [ ] Refresh [Mechanics/INDEX.md](Mechanics/INDEX.md) when pages land
+- [x] **Active Skills** play reference → [Active Skills Play](Mechanics/Active%20Skills%20Play.md)
+- [x] **Qualities Reference** (play effects) → [Qualities](Mechanics/Character%20Creation/Qualities.md) + [Qualities Supplemental](Mechanics/Character%20Creation/Qualities%20Supplemental.md)
+- [x] **Advancement / Karma Costs** → [Advancement](Mechanics/Advancement.md)
+- [x] **Toxins & Drugs** play rules → [Toxins and Drugs Play](Mechanics/Toxins%20and%20Drugs%20Play.md)
+- [x] **Barriers** → [Barriers](Mechanics/Barriers.md)
+- [x] **Buying & Fencing** → [Buying and Fencing Gear](Mechanics/Buying%20and%20Fencing%20Gear.md)
+- [x] **Falling & Fatigue** → [Falling and Fatigue](Mechanics/Falling%20and%20Fatigue.md) (Core + RnG Staying Alive severity, underwater, space)
+- [x] **Repair & Breaching** → [Repair and Breaching](Mechanics/Repair%20and%20Breaching.md) (RnG Ch.10 + Ch.12)
+- [x] **Critter / spirit powers** → [Critter and Spirit Powers](Mechanics/Critter%20and%20Spirit%20Powers.md)
+- [x] **Background Count** → [Background Count](Mechanics/Background%20Count.md)
+- [x] **Metamagics and Arts** → [Metamagics and Arts](Mechanics/Metamagics%20and%20Arts.md) (toxic/blood/insect/shedim overviews)
+- [x] **CFD** → [CFD](Mechanics/CFD.md)
+- [x] **Magic Supplemental** → [Magic Supplemental](Mechanics/Magic%20Supplemental.md) (SS, Stolen Souls, BoL, DT)
+- [x] **Encyclopedia Critters** → [Critters](Encyclopedia/Critters.md)
+- [x] Combat deepen: shotgun choke, grenade scatter/blast, climb/jump, Survival table
+- [x] Refresh [Mechanics/INDEX.md](Mechanics/INDEX.md) (all Mechanics files + supplement map)
+- [x] Deepen Matrix / Magic / Rigging to **full Core** catalogs (Basics stubs remain as redirects)
+- [ ] **Reputation** (optional split from Gig Rewards — currently covered there)
+- [x] Cross-link Mechanics ↔ Encyclopedia (core play links on major catalogs; polish optional)
+- [ ] Optional **supplement** depth: Rigger 5 swarm/pursuit; RnG expanded called shots (partial elsewhere)
+- [x] **2026-07-29 Mechanics gap fill:** Background Count, Metamagics and Arts, CFD, Qualities Supplemental; Magic/Matrix/Healing/Actions/Toxins expansions; Encyclopedia Critters; SL Wavecutter + Battle Buddy
+- [x] **2026-07-29 residual gap fill (Mechanics):** Metamagics toxic/blood/insect/shedim; Magic Supplemental (SS full tables, Stolen Souls, BoL mentors, DT threats); Magic.md mentors Raven Alt/Lion; Gig Rewards BTB Cred/Karma; Melee Weapons SL katana/axe; INDEX comprehensive; Matrix/CFD verified (already substantive)
+- [x] **2026-07-29 Mechanics RF/RnG/HS gap fill:** Metatype metavariants; Contacts RF expanded rules; Falling+Fatigue RnG environments; Repair and Breaching (new); Qualities Supplemental RF full Ch.11 catalogs; Critters HS Ch.08 + Ch.17 index
+- [x] **2026-07-29 FINAL PASS (Mechanics/Encyclopedia gaps):** SG toxic/insect/shedim stat blocks + DT shedim variants in Magic Supplemental; DT Infected.md; Monad Matrix + Lockdown evolution in CFD.md; FA mastery + CF qualities/cyberpsychosis in Qualities Supplemental; RF full shapeshifter table; RnG Material/Vehicle DV (PDF p. 179); HS Ch.09/10 critters complete in Critters.md; Aetherology full phenomena in Magic.md; Mechanics/INDEX complete file list; Encyclopedia Critters INDEX updated
+  - **Blocked (no local source):** see [Mechanics/GAPS.md](Mechanics/GAPS.md) — Seattle Gambit ammo (no PDF); Painade Avail/Cost (print-corrupted); Stinger Pen Gun RC / Nuke-from-Orbit Cost print blanks
+- [x] **2026-07-29 final pass:** SG toxic/insect/shedim stats; DT Infected + Monad Matrix; FA mastery + CF cyberpsychosis qualities; HS Critters full Ch.09/10; RF shapeshifters; RnG Material/Vehicle DV; Aetherology spirits + phenomena dice; Mechanics INDEX + GAPS.md
 
 ---
 
@@ -433,4 +460,4 @@ PDF: `Source/PDF/seattlesprawl.pdf` (90 pages). Extractor: `Source/_extract/extr
 
 1. Cross-link Mechanics ↔ Encyclopedia; mark entries `[x]` here as they complete.
 2. Optional: Data Trails extract when Matrix Basics needs Foundation / advanced host depth beyond Core.
-3. Optional: Street Grimoire / Rigger 5 deepen Magic Basics / Rigging Basics when cited.
+3. Optional: Street Grimoire / Rigger 5 deepen Magic Basics / Rigging when cited.

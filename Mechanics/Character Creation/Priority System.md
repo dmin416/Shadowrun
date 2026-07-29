@@ -2,13 +2,13 @@
 
 Agent reference (SR5). LLM layout; full Priority Table + column rules. Prefer this for assigning A-E.
 
-**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
-**Printed:** Priority Table p.65; Mag/Res Step Three ~p.69; Skills numbers ~p.88
-**Source Text:** `08 - Creating A Shadowrunner.md`
+**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `Source/PDF/runfaster.pdf`
+**Printed:** Priority Table p.65; Run Faster Construction Kits ~p.63-64
+**Source Text:** `08 - Creating A Shadowrunner.md` · `08 - Construction Kits.md`
 **See also:** [Overview](Overview.md) · [Metatype](Metatype.md) · [Attributes](Attributes.md) · [Magic and Resonance](Magic%20and%20Resonance.md) · [Skills](Skills.md) · [Resources and Gear](Resources%20and%20Gear.md)
 
-**Scope:** Priority assignment rules; full A-E table (all Mag/Res options); Metatype special Attr points; Attributes / Skills / Resources column meanings; Mag/Res freebie packing; Street/Prime ¥ overrides
-**Out of scope:** Metatype min/max table (Metatype.md); quality costs; full skill lists; Run Faster Sum-to-Ten / Life Modules
+**Scope:** Priority assignment; full A-E table; column rules; **Sum to Ten**; **Point Buy**; Street/Prime overrides
+**Out of scope:** Metatype min/max table (Metatype.md); Life Modules detail ([Life Modules](Life%20Modules.md))
 
 ## Inventory (completeness checklist)
 
@@ -17,7 +17,8 @@ Agent reference (SR5). LLM layout; full Priority Table + column rules. Prefer th
 - [x] Mag/Res rows: mage/mystic adept; techno; adept; aspected (where present)
 - [x] Metatype special Attr points by cell; human Edge max 7
 - [x] Skills = individual / group split; specialization 1 point; group rules
-- [x] Street / Prime Resources overrides (Overview)
+- [x] Sum to Ten (10-point pool)
+- [x] Point Buy (800 Karma)
 - [x] Mag/Res freebies already paid; stack with special Attr points; aspected lock
 
 ---
@@ -197,6 +198,60 @@ Gear Avail / Device Rating / Karma→¥ caps: [Overview](Overview.md). Full buy 
 
 ---
 
+## Sum to Ten (Run Faster)
+
+Flexible Priority without full Point Buy complexity.
+
+| Rule | Detail |
+| --- | --- |
+| Pool | **10 points** to spend on priority letters |
+| Letter costs | **A = 4**, **B = 3**, **C = 2**, **D = 1**, **E = 0** |
+| Table | Use Core Priority Table (above) or Run Faster Sum to Ten table |
+| Columns | Each column selected **once** only |
+| Duplicates | Same letter on multiple columns allowed (e.g. A, A, C, E, E) |
+| Standard array | A+B+C+D+E = 10 (classic priority) |
+
+After priority spend: same column rules as Core, then Karma polish (Overview Step 7).
+
+### Sum to Ten Priority Table (Run Faster p.64)
+
+| Pri | Metatype | Attributes | Magic/Resonance (RF) | Skills | Resources |
+| --- | --- | --- | --- | --- | --- |
+| **A (4)** | Human (9); Elf (8); Dwarf (7); Ork (7); Troll (5) | 24 | Magician/Mystic Adept: Magic 6, two Rating **5** Magical skills, **10** spells/rituals/preps. Technomancer: Resonance 6, two Rating **5** Resonance skills, **5** complex forms | 46/10 | 450,000¥ |
+| **B (3)** | Human (7); Elf (6); Dwarf (4); Ork (4); Troll (0) | 20 | Magician/Mystic Adept: Magic 4, two Rating **4** Magical skills, **7** spells. Technomancer: Resonance 4, two Rating **4** Resonance skills, **2** complex forms. Adept: Magic 6, one Rating **4** Active. Aspected: Magic 5, one Rating **4** Magical group | 36/5 | 275,000¥ |
+| **C (2)** | Human (5); Elf (3); Dwarf (1); Ork (0) | 16 | Magician/Mystic Adept: Magic 3, **5** spells. Technomancer: Resonance 3, **1** complex form. Adept: Magic 4, one Rating **2** Active. Aspected: Magic 3, one Rating **2** group | 28/2 | 140,000¥ |
+| **D (1)** | Human (3); Elf (0) | 14 | Adept: Magic 2. Aspected: Magic 2 | 22/0 | 50,000¥ |
+| **E (0)** | Human (1) | 12 | - | 18/0 | 6,000¥ |
+
+---
+
+## Point Buy (Run Faster)
+
+| Rule | Detail |
+| --- | --- |
+| Starting Karma | **800** |
+| Metatype | Metatype Cost Table ([Life Modules](Life%20Modules.md)) |
+| Attributes | Racial minimums then Karma raises (p.107 SR5) |
+| Natural max | One Mental or Physical at natural max (specials exempt) |
+| Magic types | Adept 20; Aspected 15; Technomancer 15; Magician 30; Mystic Adept 35 |
+| Mystic Adept PP | 5 Karma/PP, max = Magic |
+| Adept PP | Free PP = Magic |
+| Gear | 1 Karma = 2,000¥; max 235 Karma on gear |
+| Leftover Karma | Use or lose; max 5,000¥ carryover |
+| Contacts | p.98 SR5 |
+
+---
+
+## Alternate creation (pointers)
+
+| Method | File |
+| --- | --- |
+| Life Modules | [Life Modules](Life%20Modules.md) |
+| Sum to Ten | This file |
+| Point Buy | This file |
+
+---
+
 ## Role guidance (soft)
 
 | Role | Often high | Often E |
@@ -211,15 +266,8 @@ Gear Avail / Device Rating / Karma→¥ caps: [Overview](Overview.md). Full buy 
 
 ---
 
-## Alternate creation (out of scope here)
-
-*Run Faster* (and others): Sum to Ten, Karma build, Life Modules, expanded metatypes. Use Core Priority unless the table agrees on an alternate system.
-
----
-
 ## Coverage notes
 
-- Priority Table text matched to Core PDF p.65 (not the incorrect stub that had “2 spells rating 5”).
-- Magician C has spells only (no free Magical skills). Full mage/techno not available at D.
-- Special Attr + Priority Mag/Res stack confirmed by Core examples.
-- Skill specialization / group break timing: Core Step Five vs Step Seven.
+- Priority Table: Core PDF p.65.
+- Sum to Ten and Point Buy: Run Faster Construction Kits.
+- Life Modules: [Life Modules](Life%20Modules.md).

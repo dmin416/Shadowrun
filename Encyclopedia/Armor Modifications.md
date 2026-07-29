@@ -8,6 +8,8 @@
 
 Related: [Armor and Clothing](Armor%20and%20Clothing.md) · [Sensors and Optics](Sensors%20and%20Optics.md) · [Commlinks and Electronics](Commlinks%20and%20Electronics.md) · [Medical Gear](Medical%20Gear.md) · [Drugs Toxins and Chemicals](Drugs%20Toxins%20and%20Chemicals.md)
 
+**Play rules:** [Mechanics/Combat/Damage Armor and Wounds](../Mechanics/Combat/Damage%20Armor%20and%20Wounds.md) · [Mechanics/Toxins and Drugs Play](../Mechanics/Toxins%20and%20Drugs%20Play.md) (chemical seal / protection)
+
 The weave, linings, pockets, and toys bolted into what you wear. Base armor pieces live in [Armor and Clothing](Armor%20and%20Clothing.md). Capacity for most worn armor equals its **Armor rating**.
 
 ---

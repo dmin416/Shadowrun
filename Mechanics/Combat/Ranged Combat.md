@@ -7,8 +7,8 @@ Agent reference (SR5). LLM layout; firearms, projectiles, mods, recoil, ranges.
 **Source Text:** `11 - Combat.md`
 **See also:** [Overview](Overview.md) · [Action Economy](Action%20Economy.md) · [Damage Armor and Wounds](Damage%20Armor%20and%20Wounds.md) · [Melee Combat](Melee%20Combat.md) · [Called Shots and Special](Called%20Shots%20and%20Special.md) · Encyclopedia firearms
 
-**Scope:** Attack/defense pools; fire modes + defense mods; progressive recoil; environmental / situational / defense tables; Take Aim; cover; blind fire; Range Table; shotgun choke; grenade/scatter pointer
-**Out of scope:** Full blast/scatter geometry depth (summary only); full suppression play (Called Shots); ammo types (Encyclopedia)
+**Scope:** Attack/defense pools; fire modes + defense mods; progressive recoil; environmental / situational / defense tables; Take Aim; cover; blind fire; Range Table; full shotgun choke DV/Accuracy/Defense/spread table; grenade & launcher Scatter Table + blast resolution procedure
+**Out of scope:** Per-model grenade/rocket/missile DV/AP/Blast numbers (Encyclopedia); full suppression play (Called Shots); ammo types (Encyclopedia)
 
 ## Inventory (completeness checklist)
 
@@ -16,6 +16,8 @@ Agent reference (SR5). LLM layout; firearms, projectiles, mods, recoil, ranges.
 - [x] Fire modes (SS/SA/BF/FA/LB/SB) + recoil progression
 - [x] Range / environmental / attacker / defender mods tables
 - [x] Take Aim; called shots pointer; cover; blind fire
+- [x] Shotgun choke DV/Accuracy/Defense/spread by range band
+- [x] Grenade/launcher Scatter Table + blast resolution procedure (falloff, confined space, multiple blasts)
 
 ---
 
@@ -232,34 +234,97 @@ Ready Agility÷2 knives or shuriken per Ready Weapon.
 
 ---
 
-## Shotguns (flechette choke)
+## Shotguns (choke settings)
 
-Slug = listed DV. Shot = flechette ammo rules on weapon DV. Change choke: Simple (Free if smartlink).
+Slug rounds use the weapon's listed DV. Shot (flechette) rounds apply the flechette ammunition rules to that DV. Changing choke: **Simple Action** (**Free Action** if smartlinked, or via Change Linked Device Mode Free Action with DNI).
 
-| Choke | Summary |
-| --- | --- |
-| Narrow | Target -1 Defense all ranges |
-| Medium | DV and multi-target by range; Defense -3; **no** Called Shots |
-| Wide | Heavier DV penalties; Defense -5; wider spreads; **no** Called Shots |
+DV/Accuracy mods apply to the **shooter's** roll; Defense mod applies to **each** target's Defense. "Max targets / spread" = that many targets within a spread of that width can be attacked with the **same** roll (compare the attacker's hits vs each target's modified Defense separately). Only Narrow Spread may be used with Called Shots.
 
-(Exact DV/-Accuracy by range: Core shotgun choke section.)
+### Narrow Spread
+
+Single target only, all ranges.
+
+| Range | DV mod | Accuracy mod | Target Defense mod |
+| --- | --- | --- | --- |
+| Any | 0 | 0 | -1 |
+
+### Medium Spread (no Called Shots)
+
+| Range | DV mod | Accuracy mod | Target Defense mod | Max targets | Spread width |
+| --- | --- | --- | --- | --- | --- |
+| Short | -1 | 0 | -3 | 2 | 2 m |
+| Medium | -3 | 0 | -3 | 3 | 4 m |
+| Long | -5 | -1 | -3 | 4 | 6 m |
+| Extreme | -7 | -1 | -3 | 6 | 8 m |
+
+### Wide Spread (no Called Shots)
+
+| Range | DV mod | Accuracy mod | Target Defense mod | Max targets | Spread width |
+| --- | --- | --- | --- | --- | --- |
+| Short | -3 | 0 | -5 | 2 | 3 m |
+| Medium | -5 | 0 | -5 | 3 | 6 m |
+| Long | -7 | -1 | -5 | 4 | 9 m |
+| Extreme | -9 | -1 | -5 | 6 | 12 m |
 
 ---
 
-## Grenades / launchers (pointer)
+## Grenades and launched explosives
 
-| Type | Hit test | Scatter |
-| --- | --- | --- |
-| Thrown grenade | Throwing + Agility [Physical] (3) | Miss → Scatter Table; net hits reduce scatter |
-| Launched grenade/rocket/missile | Heavy Weapons + Agility [Accuracy] (3) | Same; then blast |
+### Throwing / launching
 
-Detonation: timer (next Turn, Score -10), motion (dangerous), wireless (DNI Free / else Simple). Blast effects: Damage / Street Gear.
+| Type | Action | Hit test | Result |
+| --- | --- | --- | --- |
+| Thrown grenade | Throw Weapon (Simple) | Throwing + Agility [Physical] (3), modified for range/conditions | Meet/beat threshold (3 net hits) → lands exactly where aimed. Short of threshold → scatters (below); a low scatter roll can still land it close |
+| Launched grenade / rocket / missile | Fire Weapon (Simple) | Heavy Weapons + Agility [Accuracy] (3), modified for range/conditions | Same success/scatter logic, then resolve Blast Effects |
+
+**Launcher minimum range:** 5 m (grenades) / 10 m (rockets, missiles) - the projectile does not arm until it has traveled that far (safety feature). Disable with Armorer + Logic [Mental] (4, 5-10 minutes) Extended Test.
+
+### Determine Scatter
+
+If the throw/launch misses its landing spot, roll **2D6** for direction (7 = continues straight past the target away from the thrower; 2 or 12 = bounces straight back toward the thrower; other results scatter to that clock-position side). Then roll the dice below for **distance**, reducing the roll by the attacker's hits on the attack roll. Distance ≤ 0 = direct hit on the intended spot.
+
+#### Scatter Table
+
+| Type | Scatter distance |
+| --- | --- |
+| Standard grenade | (1D6 - hits) m |
+| Aerodynamic grenade | (2D6 - hits) m |
+| Grenade Launcher | (3D6 - hits) m |
+| Missile Launcher | (4D6 - hits) m |
+| Rocket Launcher | (5D6 - hits) m |
+
+### Detonation triggers
+
+| Trigger | Rule |
+| --- | --- |
+| Built-in Timer | Detonates on the thrower's/firer's own Initiative Score in the **next** Combat Turn, at (Score when thrown/fired) **- 10**, regardless of later Score changes |
+| Motion Sensor | Arms ~1 second after activation (thrown) or after traveling 5 m (launched). Explodes on any sudden stop/impact. If the attack roll **missed** (no net hits): roll full Scatter distance, then it explodes immediately at that spot. **Glitch** on the attack roll → does not detonate on impact; scatter distance is **doubled**, then it explodes. **Critical Glitch** → detonates immediately at the thrower/firer |
+| Wireless Link | Thrower/firer (or anyone with a mark on it) can detonate remotely. With DNI: Change Wireless Device Mode Free Action, and this **reduces scatter**. Without DNI: Change Linked Device Mode Simple Action on this or a later Action Phase; scatter is **not** reduced |
+
+### Blast Effects
+
+1. Determine the blast point (direct hit or scattered landing spot, above).
+2. The item's base **DV** and **Blast** rating (DV lost per meter from the blast point) come from its stat line - see [Encyclopedia/Grenades and Explosives](../../Encyclopedia/Grenades%20and%20Explosives.md) for per-model numbers (frag, HE, AV, flash-bang, gas/smoke, etc.). Some items instead print a flat **"X m Radius"**: full listed effect anywhere inside that radius, none beyond it.
+3. For a per-meter Blast rating: **DV at range r = base DV - (Blast x r)**, minimum 0.
+4. Everyone caught in the blast resists the DV at their distance with **Body + Armor** ([Damage Armor and Wounds](Damage%20Armor%20and%20Wounds.md)) as a normal Damage Resistance Test. Blast is **not** an Opposed Test - there is no Defense roll and no cover Defense bonus against it, though physical barriers between the target and the blast point still apply their own rules (below).
+
+#### Blasts in a confined space
+
+If the surrounding walls/barriers **hold** against the blast (Barriers), the shockwave reflects back rather than escaping. A character caught by both the outbound and the rebounding wave takes the **combined** DV of both hits; repeated bounces off multiple surfaces in a small room can stack further ("chunky salsa effect").
+
+#### Multiple simultaneous blasts
+
+If two or more blasts hit the same character on the **same Initiative Score**, add **half** the value of the lower DV(s) to the highest DV and resist that as one modified DV. For AP, use the **best** AP among them, improved by **1** per additional explosion.
+
+#### Explosive vs. barriers
+
+Placed/bulk explosive Blast falloff: circular blast **-2/m**, directional (up to 60 degree arc) **-1/m** (default AP -2, halved target Armor if charge is in contact). See [Barriers](../Barriers.md) for Structure/Armor resolution and [Encyclopedia/Grenades and Explosives](../../Encyclopedia/Grenades%20and%20Explosives.md) for the full explosives formula and per-item stats.
 
 ---
 
 ## Coverage notes
 
 - Core ranged attack engine + Range Table + mode/recoil tables: complete for this page.
-- Shotgun choke: Defense mods on this page; per-range DV/Accuracy/spread widths remain in Core choke section.
-- Suppression zone / Reaction+Edge: Called Shots and Special.
-- Full scatter diagram / blast: Damage or Vehicles when expanded.
+- Shotgun choke: full per-range DV/Accuracy/Defense/spread table above (Core-complete).
+- Grenade/launcher Scatter Table + detonation triggers + blast falloff/resistance/confined-space/multi-blast procedure: complete above. Per-model DV/AP/Blast numbers live in Encyclopedia (not duplicated here to avoid drift).
+- Suppression zone / Reaction+Edge: [Called Shots and Special](Called%20Shots%20and%20Special.md).

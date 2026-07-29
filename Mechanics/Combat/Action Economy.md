@@ -2,17 +2,18 @@
 
 Agent reference (SR5). LLM layout; Free / Simple / Complex / Interrupt actions in combat.
 
-**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
-**Printed:** Actions ~p.163-168; Combat Actions Table; Matrix action types pointer ~p.164
-**Source Text:** `11 - Combat.md`
-**See also:** [Overview](Overview.md) · [Initiative](Initiative.md) · [Ranged Combat](Ranged%20Combat.md) · [Melee Combat](Melee%20Combat.md) · [Called Shots and Special](Called%20Shots%20and%20Special.md) · [Movement](Movement.md) · Matrix / Magic Basics
+**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `Source/PDF/runandgun.pdf`
+**Printed:** Core Actions ~p.163-168; RnG Killshots/Tactics new actions ~p.119-125
+**Source Text:** `11 - Combat.md` · `08 - Killshots and More.md` · `Run and Gun Condensed.md`
+**See also:** [Overview](Overview.md) · [Initiative](Initiative.md) · [Ranged Combat](Ranged%20Combat.md) · [Melee Combat](Melee%20Combat.md) · [Martial Arts](Martial%20Arts.md) · [Called Shots and Special](Called%20Shots%20and%20Special.md) · [Small Unit Tactics](Small%20Unit%20Tactics.md) · [Movement](Movement.md)
 
-**Scope:** Combine rules for one Action Phase; Core Free/Simple/Complex lists; Interrupt Init costs; reload action types
-**Out of scope:** Full Matrix action procedures; full spellcasting; per-weapon FA bullet counts beyond note (Ranged); Barriers
+**Scope:** Core Free/Simple/Complex/Interrupt + RnG combat actions (Killshots/Tactics)
+**Out of scope:** Full Matrix procedures; full spellcasting; Barriers
 
 ## Inventory (completeness checklist)
 
 - [x] Full Free / Simple / Complex / Interrupt lists (Core tables)
+- [x] RnG Simple/Complex/Interrupt additions (Killshots/Tactics)
 - [x] What you can combine in one Action Phase
 - [x] Interrupt costs (Init Score)
 
@@ -129,6 +130,71 @@ Full Defense / defense detail: [Called Shots and Special](Called%20Shots%20and%2
 
 ---
 
+## Run & Gun actions (Killshots / Tactics)
+
+Many require **Martial Art training** unless using Edge **Lucky Move** (`../Edge.md`). MA technique cross-refs: [Martial Arts](Martial%20Arts.md).
+
+### Simple Actions (RnG additions)
+
+| Action | Notes |
+| --- | --- |
+| **Clinch** | Opposed Gymnastics + Agility [Physical] vs Reaction + Intuition. Negates Reach; initiator gets Superior Position; both may move up to 2 m together; firearm penalty = clinch net hits. Inferior may Escape; superior may release (Free); inferior may Interrupt -5 to re-clinch (+1 dice, no superior bonus to defender). Leads to Subduing, Knock Down, Throw |
+| **Iaijutsu** | Quick Draw (properly sheathed/holstered) then attack as **Simple** this Phase |
+| **Kip-up** | From prone: Agility + Gymnastics (3); success = close combat attack as Simple (must be in Reach) |
+| **Playing Possum** | Complex Con + Charisma vs Con+Charisma or Performance vs Charisma+Willpower. Net hits = Perception threshold for attackers; +1 die per 3 damage boxes (ignore wound mod). Unaware targets get no Defense |
+| **Push** | Unarmed vs opponent in Reach; no damage; push min 1 m outside Reach; pusher may Walk. May Intercept -5 if foe enters Reach |
+| **Shove** | While running: unarmed attack, no damage. Str + net hits > Physical Limit: push net hits m in movement direction; else stop at obstacle. Fail: fall Prone |
+| **Throw Person** | After successful Clinch/Subduing: opposed throw; damage = net hits; max distance = thrower Str - target Body (min 0). May Interrupt -10 after successful Block |
+
+### Complex Actions (RnG additions)
+
+| Action | Notes |
+| --- | --- |
+| **Aimed Burst** | BF-capable (not SA Burst): +1 DV, 3 rounds, **no** -2 to defender; track recoil |
+| **Double-Tap** | SA-capable: +1 DV, 2 rounds, no defense penalty |
+| **Brain Blaster** | FA: +2 DV, 6 rounds |
+| **Ballestra** | Clubs/blades: +1 Reach; -1 Defense; no active defense until after next Action Phase |
+| **Enhanced Suppression** | Suppressive fire: 5 m end width; Drop Prone cannot avoid test |
+| **Flechette Suppressive Fire** | See [Called Shots and Special](Called%20Shots%20and%20Special.md) choke tables |
+| **Finishing Move** | -10 Init, 1 Edge: if first melee hit damages, extra strike +2 dice; optional taunt Free; once/turn |
+| **Flying Kick** | 1+ m approach: +1 Reach and +1 attack; fail = -1 Defense until next Phase |
+| **Full Offense** | +2 close combat attack; no defense Interrupts; -5 Init |
+| **Half-Sword** | Blade Reach ≥1: +2 AP on hit; fail -2 next non-Defense action, no Parry/Block; must Ready to attack again; both hands |
+| **Haymaker** | Opponent +2 Defense; success +1 DV |
+| **Herding** | No damage; move foe 1 m/net hit (Walk cap); may split pool |
+| **Pouncing Dragon** | Superior position: +2 DV; lose Superior Position after |
+| **Reading the Defense** | Melee + Intuition (3) while engaged: +3 next melee vs that foe or -1 on fail; glitch worse; crit glitch -3+ Defense vs any next attack |
+| **Sacrifice Move** | Like Shove but Str + **Body** + net hits; both Prone on success |
+| **Evade** | With movement: Agility + Gymnastics (1); each hit over threshold bypasses one Interceptor (Shadow Block counters) |
+
+Core reprints in chapter (reference only): Charge Attack, Escape, Subduing, Touch-Only Attack.
+
+### Free Actions (RnG additions)
+
+| Action | Init cost | Effect |
+| --- | --- | --- |
+| **Pre-emptive Block** | -5 | Block defense option all Combat Turn (only during your Action Phase) |
+| **Pre-emptive Dodge** | -5 | Dodge defense option all Combat Turn |
+| **Pre-emptive Parry** | -5 | Parry defense option all Combat Turn |
+
+### Interrupt Actions (RnG additions)
+
+| Interrupt | Init | Effect |
+| --- | --- | --- |
+| **Counterstrike** | -7 | Unarmed + Reaction vs attack; more hits = counter DV + net hits |
+| **Riposte** | -7 | Armed: weapon + Reaction vs attack; fail take +2 DV |
+| **Reversal** | -7 | Unarmed in clinch: reverse roles; threshold = opponent clinch/subdue hits |
+| **Sacrifice Throw** | -10 | Str + Body + net hits vs Physical Limit; both Prone; throw 1 + net hits m |
+| **Shadow Block** | -5 | vs Dodge or Evade: Gymnastics + Agility vs target net hits; reduce their hits |
+| **Dive for Cover** | -5 | Drop Prone behind cover within 4 m (vs suppression) |
+| **Run For Your Life / Dive on Grenade** | -5 | Flee blast with remaining Move; or move toward grenade, Drop Prone, take full blast (gas: half radius) |
+| **Right Back At Ya!** | -10 | Agility (2) then Throwing Weapons -2 to return grenade (trigger dependent) |
+| **Protecting the Principle** | -5 + 1 Edge | Move 2 m; intercept for ally; no Defense, Body + Armor only; once/turn |
+
+Core Interrupts (Block -5, Dodge -5, Parry -5, Full Defense -10, Hit the Dirt -5, Intercept -5): listed above in Core section.
+
+---
+
 ## Reload methods (action type)
 
 | Method | Result | Action |
@@ -162,5 +228,6 @@ Variable: Control Device, Matrix Search, Enter/Exit Host, Erase Mark (GM/action 
 ## Coverage notes
 
 - Core Combat Actions Table + Interrupt Init costs: complete for Action Economy.
-- Fire mode bullet counts / recoil progression: [Ranged Combat](Ranged%20Combat.md).
+- RnG Killshots/Tactics actions: complete summary.
+- Fire mode bullet counts / recoil: [Ranged Combat](Ranged%20Combat.md).
 - Called shot effects: [Called Shots and Special](Called%20Shots%20and%20Special.md).

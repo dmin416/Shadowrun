@@ -142,7 +142,7 @@ Gel rounds: treat Physical Limit as -2 for the knockdown comparison. Intentional
 
 ### Other
 
-Falling, fatigue, hunger/thirst/sleep: Core Fatigue/Falling sections; Healing for recovery.
+Falling, fatigue, hunger/thirst/sleep: [Falling and Fatigue](../Falling%20and%20Fatigue.md). Barriers / shooting through: [Barriers](../Barriers.md). Healing: [Healing and Injuries](../Healing%20and%20Injuries.md).
 
 ---
 

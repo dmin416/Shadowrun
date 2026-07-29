@@ -2,19 +2,21 @@
 
 Agent reference (SR5). LLM layout; free contact Karma, Connection/Loyalty, play use hooks.
 
-**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`
-**Printed:** Chargen contacts ~p.98; Additional Purchases table ~p.98; play Contacts ~p.386-390; gear Availability/fence via contacts ~p.418
-**Source Text:** `08 - Creating A Shadowrunner.md` · `20 - Helps and Hindrances.md` · `21 - Street Gear.md`
-**See also:** [Overview](Overview.md) · [Attributes](Attributes.md) · [Finishing Touches](Finishing%20Touches.md) · [Resources and Gear](Resources%20and%20Gear.md) · Reputation / Street Cred (Helps and Hindrances ~p.372)
+**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `Source/PDF/runfaster.pdf`
+**Printed:** Core chargen contacts ~p.98; play Contacts ~p.386-390; RF Who You Know pp. 172-196
+**Source Text:** Core `08 - Creating A Shadowrunner.md` · `20 - Helps and Hindrances.md` · RF `12 - Who You Know.md`
+**See also:** [Overview](Overview.md) · [Attributes](Attributes.md) · [Finishing Touches](Finishing%20Touches.md) · [Resources and Gear](Resources%20and%20Gear.md) · [Gig Rewards](Gig%20Rewards.md)
 
-**Scope:** Free Cha×3 (×6 Prime); buy cost; chargen caps; Connection/Loyalty bands; availability roll; legwork/networking/swag/favors summaries; price of help
-**Out of scope:** Full contact NPC build; full Availability/Fencing procedures (Street Gear); full Social Modifiers table
+**Scope:** Core chargen + play; RF chips/favors; organizational contacts; barter qualities; I Know a Guy; Social Networking; Loyalty Tests; recognition; Do I Know You
+**Out of scope:** Full Availability/Fencing procedures (Street Gear); full Social Modifiers table
 
 ## Inventory (completeness checklist)
 
 - [x] Free Karma Cha×3 (×6 Prime); Connection + Loyalty min 1 each
 - [x] Cost 1 Karma per rating; ≤7 Karma per contact at chargen
 - [x] Loyalty bands; Connection use pointer to social chapter
+- [x] RF: chips / I Owe You One; organizational contacts; barter Provenance/Vintage/Master Crafted
+- [x] RF: I Know a Guy; Social Networking; Loyalty Tests; Street Cred/Notoriety; Do I Know You
 
 ---
 
@@ -158,3 +160,135 @@ Name them; give day job, hooks, and why they know the runner.
 - High Loy + low Conn: tries hard, limited reach.
 - Spread free Karma across several contacts unless concept needs one strong bond (still ≤7 Karma each).
 - Burning, outing, or getting a contact hurt is story fuel; Loyalty can drop.
+
+---
+
+## Run Faster expanded rules (*Who You Know*)
+
+### Six contact service types
+
+| Type | Role |
+| --- | --- |
+| Legwork | Answer questions / chase data trails (Core p. 387) |
+| Networking | Introduce strangers for mutual benefit (Core p. 388) |
+| Swag | Buy/sell gear through contact (Core p. 388) |
+| Shadow services | Contact uses professional skills on your behalf for non-cash pay |
+| Personal favors | Authority/influence: bend rules, blind eyes, whisper suggestions |
+| Support | Friends/minor contacts: crash space, loan gear, backup without big reach |
+
+Using a contact outside their specialty = **favor** (Core p. 389).
+
+### What contacts want (payment types)
+
+| Type | Notes |
+| --- | --- |
+| Cash | Credstick, hard currency, foreign electronic (UCAS $ 2:1, Tir ryal 0.9:1, ringgit 50:1, peso 60:1), corp scrip (Saeder-Krupp 0.8:1 through Aztechnology 20:1) |
+| Services | Shadow work, contact-related skilled labor, or drek jobs |
+| Barter | Off-book trades; gear tied to contact profession or rare items |
+| Other | Vices, hobbies, family leverage (may reduce contact effectiveness) |
+
+Unpaid price → contact gains **chips** on you (below).
+
+### Barter optional qualities (GM)
+
+| Quality | Effect on trade value |
+| --- | --- |
+| Provenance | Famous person/event link: x2 recent/living; x3 historical/deceased |
+| Vintage | +1% value per decade of age (max +10% at 100 years) |
+| Master Crafted | +20% (hand-finished, premium materials) |
+
+### I Owe You One (chips)
+
+Successful **personal favor** request: contact gains chips = **Favor Rating**.
+
+**Repay:** ~**2x** favor value (two Rating-2 favors for one Rating-2 debt, or one Rating-4, or ~2x market cash, or goods contact accepts).
+
+Contact may **cash chips** for favors from the runner (side jobs). Refusing high-Rating (3+) debt degrades Loyalty.
+
+**Runner earns chips** by doing unpaid work for contacts; chips from any contact pool together.
+
+| Chip spend | Effect |
+| --- | --- |
+| Improve relationship | Cost = target Loyalty rating in chips + weeks of downtime interaction (e.g., 1→2 = 2 chips, 2 weeks) |
+| Future service | GM sets chip cost for needed help |
+| Buy favor | +1 Negotiation die per chip (max +4); contact gains chips = Favor Rating minus remaining runner chips |
+
+**Repayment time frames (cash debt):**
+
+| Amount owed | Weeks to repay |
+| --- | --- |
+| Up to 100¥ | 4 |
+| 101-1,000¥ | 3 |
+| 1,001-10,000¥ | 2 |
+| 10,001-100,000¥ | 1 |
+
+Missed payment: weekly Loyalty Test (threshold = weeks overdue); success = one week grace; fail Loyalty -1.
+
+### Organizational / group contacts
+
+Faceless org (gang, corp, Lone Star, etc.): **Loyalty max 1**; no favors or chips with the org itself; contractual obligation (see Street Grimoire strictures examples); may require SIN.
+
+**Services:** legwork or networking only (bonus dice via internal channels). **Data trail** risk when used.
+
+Counts as **positive quality Karma** at chargen (within quality cap).
+
+| Organization | Connection bonus | Karma cost | SIN required? |
+| --- | --- | --- | --- |
+| Street Gang | 1 | 5 | No |
+| City Government | 1 | 3 | Yes |
+| Humanis Policlub | 2 | 10 | No |
+| Order of St. Sylvester | 2 | 8 | Yes |
+| Lone Star/GOD | 3 | 12 | Yes |
+
+**Made Man** quality (RF): free syndicate Group Contact, Loyalty 3.
+
+### I Know a Guy
+
+With GM OK: spend **Edge = 2 x desired Connection** to pull a past acquaintance (Loyalty starts 1; GM may adjust). Edge spent does not refresh until next Karma award.
+
+After adventure: pay normal Karma to keep contact permanently; else they fade until recalled with Edge again.
+
+### Social Networking
+
+Leadership + Charisma [Social]: hits = max contacts coordinated. Contacts use **Teamwork** (Core p. 49).
+
+**Cost:** pay **each** contact full price (multiply total by number of contacts involved).
+
+### Loyalty Tests
+
+Under duress: **Intuition + contact Loyalty** as bonus dice on resistance.
+
+Failed debt repayment favor: Loyalty Test threshold = chips owed; fail **-2 Loyalty** (+ Notoriety if Con/Seduction maintenance used).
+
+**Maintaining relations:** no interaction for (Loyalty) months → Loyalty (2) Test or Loyalty -1; at 0 contact lost.
+
+**Intimidation:** Teamwork with Intimidation for free service; each use **-1 Loyalty**, cannot improve relationship (except blackmailed contacts).
+
+**Con/Seduction (downtime):** opposed Con vs contact; success holds Loyalty through same-week tests; net hits > Loyalty may raise Loyalty +1; fail -1.
+
+**Blackmail contact quality (+2 Karma):** Loyalty = leverage; favors free; failed Leverage Test = contact gone + runner Notoriety + hunters (Connection = Professional Rating guide).
+
+**Family contact quality (+1 Karma):** +1 Loyalty on Loyalty Tests; earn/spend chips at -1; job performance -1 Loyalty equivalent.
+
+### Street Cred / Notoriety interaction
+
+When **recognized:** Street Cred adds to **Social limit**.
+
+If **Notoriety > Street Cred:** each **2 Notoriety over Street Cred** adds **+1 Karma or +2 chips** to improve Loyalty with **new** contacts.
+
+### Burning bridges
+
+Loyalty 0: contact lost next job start; all chips erased. Blackmailed contacts cannot be repaired.
+
+### Do I Know You? (Memory Test)
+
+Threshold reduced by subject's **Notoriety or Street Cred** (higher value); also sets positive/negative recognition context.
+
+| Subject | Base threshold |
+| --- | --- |
+| Runners same city region | 4 |
+| Runners same country; local crime/cops same city | 6 |
+| Runners same continent; crime/cops same country | 8 |
+| General public | 10 (Public Awareness only reduces threshold) |
+
+Public Awareness also applies per Core reputation rules ([Gig Rewards](Gig%20Rewards.md)).

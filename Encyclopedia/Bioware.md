@@ -1,12 +1,14 @@
 ﻿# Bioware
 
-**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · **[CF](../Source%20Texts/Chrome%20Flesh/INDEX.md)** · Hard Targets\*
+**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · **[CF](../Source%20Texts/Chrome%20Flesh/INDEX.md)** · Hard Targets\* · Dark Terrors (Adrenaline Filter)
 
 \*Hard Targets gear verified from `Shadowrun_5E_Hard_Targets.pdf`.
 
-**Verified from:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`, `chromeflesh.pdf` (not web / Chummer).
+**Verified from:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`, `chromeflesh.pdf` (not web / Chummer), Dark Terrors (local chapter text).
 
 Related: [Cyberware](Cyberware.md) · [Nanotech and Geneware](Nanotech%20and%20Geneware.md) · [Medical Gear](Medical%20Gear.md) · [Drugs Toxins and Chemicals](Drugs%20Toxins%20and%20Chemicals.md)
+
+**Play rules:** [Mechanics/Character Creation/Resources and Gear](../Mechanics/Character%20Creation/Resources%20and%20Gear.md) (Essence / +4 Attr) · [Mechanics/Toxins and Drugs Play](../Mechanics/Toxins%20and%20Drugs%20Play.md) (toxin extractor / filters) · [Mechanics/Healing and Injuries](../Mechanics/Healing%20and%20Injuries.md)
 
 Living upgrades - vat-grown organs, woven muscle, cultured neural tissue. Subtler and usually cheaper on Essence than chrome, pricier in nuyen, and **no wireless**. Genetech / transgenic treatments live in [Nanotech and Geneware](Nanotech%20and%20Geneware.md).
 
@@ -229,8 +231,19 @@ Living passengers - distinct from Core bloodstream **Symbiotes**.
 
 ---
 
+## Dark Terrors bioware
+
+**Verified from:** Dark Terrors, The Ghoul Queen and Her People (local chapter text).
+
+| Name | Rating | Essence | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Adrenaline Filter | 1-3 | Rating × 0.5 | (Rating × 3)R | Rating × 35,000¥ | Loup-garou (Strain 2 Infected) only technological adaptation of adrenaline pump tech; **only available in Asamando**. During the 4-day peak of a loup-garou's monthly cycle: Charisma + Willpower + (Filter Rating − 1) Test (wound mods apply) whenever taking Physical damage or exposed to extreme stress (GM discretion), to avoid going berserk. Berserk lasts 3 Combat Turns minus 1 per hit (3+ hits averts it entirely; already-berserk extends duration instead). While berserk, fights as if using a Rating 3 adrenaline pump. Gland can be toggled Free Action when not currently berserking. |
+
+---
+
 ## Scope notes
 
 - **Genetech** (transgenics, phenotype scrub, genetic restoration, exotic metagenics, environmental microadaptation, complimentary genetics) → [Nanotech and Geneware](Nanotech%20and%20Geneware.md).
 - Installation time, clinic quality, and essence hole / leftover rules follow Core augmentation surgery and CF clinic chapters.
 - Bioware has **no Device Rating and no wireless bonus** - scanners still exist; subtle ≠ invisible.
+- **Dark Terrors Adrenaline Filter filled:** loup-garou-only berserk-suppression bioware, Asamando-exclusive availability per source text.

@@ -1,6 +1,6 @@
 # Encyclopedia - Item Types
 
-Catalog of major **Shadowrun 5e** gear and purchasable item categories. Filled files have PDF-verified tables; others remain stubs until sourced.
+Catalog of major **Shadowrun 5e** gear and purchasable item categories. All **26** files are filled with PDF-verified tables (see the project [TODO](../TODO.md) for the per-file source list); no file is a bare stub any more. A handful of individual entries inside otherwise-filled files remain flagged **unverified / blocked** where the local PDF text is missing, print-corrupted, or the source book itself has no local PDF (e.g. Seattle Gambit ammo, the Painade Avail/Cost row) - those are called out inline rather than invented.
 
 Track fill progress in the project [TODO](../TODO.md).
 
@@ -75,7 +75,8 @@ Track fill progress in the project [TODO](../TODO.md).
 | Type | File | Books |
 | --- | --- | --- |
 | Ground / air / water craft | [Vehicles](Vehicles.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)**; [SS](../Source%20Texts/Stolen%20Souls/INDEX.md); [HT](../Source%20Texts/Hard%20Targets/INDEX.md); [CT](../Source%20Texts/Complete%20Trog/INDEX.md) |
-| Drones | [Drones](Drones.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)**; [B&B](../Source%20Texts/Bullets%20and%20Bandages/INDEX.md); [HT](../Source%20Texts/Hard%20Targets/INDEX.md); [CA](../Source%20Texts/Cutting%20Aces/INDEX.md); [HS](../Source%20Texts/Howling%20Shadows/INDEX.md) |
+| Drones | [Drones](Drones.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)**; [B&B](../Source%20Texts/Bullets%20and%20Bandages/INDEX.md); [HT](../Source%20Texts/Hard%20Targets/INDEX.md); [CA](../Source%20Texts/Cutting%20Aces/INDEX.md); [HS](../Source%20Texts/Howling%20Shadows/INDEX.md); [SL](../Source%20Texts/Street%20Lethal/INDEX.md) Battle Buddy |
+| Paracritters (stat blocks) | [Critters](Critters.md) | **[HS](../Source%20Texts/Howling%20Shadows/INDEX.md)** Ch. 08-10 full (mutants, extraplanar, Wild Hunt); [HT](../Source%20Texts/Hard%20Targets/INDEX.md) Caribbean |
 | Vehicle & drone mods | [Vehicle and Drone Modifications](Vehicle%20and%20Drone%20Modifications.md) | [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md); **[R5](../Source%20Texts/Rigger%205/INDEX.md)**; [SS](../Source%20Texts/Stolen%20Souls/INDEX.md) (extractor light bars/siren/people-smuggling) |
 
 ## Medical, chem, identity, living
@@ -96,7 +97,7 @@ These rarely define whole *categories*, but may add one-off items or variants - 
 | Book | Typical gear relevance |
 | --- | --- |
 | [SS](../Source%20Texts/Stolen%20Souls/INDEX.md), [DTer](../Source%20Texts/Dark%20Terrors/INDEX.md), [MP](../Source%20Texts/Market%20Panic/INDEX.md) | Metaplot-specific devices, threats-as-tools, corp toys |
-| [HS](../Source%20Texts/Howling%20Shadows/INDEX.md) | Critter gear, biodrones, critter cyberware (cataloged in Drones / Cyberware / Tools) |
+| [HS](../Source%20Texts/Howling%20Shadows/INDEX.md) | Critter gear, biodrones, critter cyberware (cataloged in Drones / Cyberware / Tools); **paracritter stat blocks:** [Critters](Critters.md) |
 | [Serrated Edge](../Source%20Texts/Serrated%20Edge/INDEX.md) / [Seattle Sprawl](../Source%20Texts/Seattle%20Sprawl/INDEX.md) | Adventure or locale kit, not core catalogs |
 | [Lockdown](../Source%20Texts/Lockdown/INDEX.md) | Cyber suites, street drugs, prototype weapons (no street cost) |
 
