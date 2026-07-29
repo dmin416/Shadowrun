@@ -4,6 +4,8 @@ Core magic expansion beyond the rulebook. PDF: `Source/PDF/streetgrimoire.pdf` (
 
 Extractor: `Source/_extract/extract_streetgrimoire.py`. Formatter: `Source/_extract/format_streetgrimoire.py`.
 
+**Condensed (mechanics + items + story pointers):** [Street Grimoire Condensed](Street%20Grimoire%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |

@@ -7,6 +7,8 @@ Adventure: Seattle politics, Project Daybreak, and competing interests around Se
 Source Texts extracted via `Source/_extract/extract_splintered_state.py` (pymupdf).
 Formatting: `Source/_extract/format_splintered_state.py`.
 
+**Condensed (mechanics + items + story pointers):** [Splintered State Condensed](Splintered%20State%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |

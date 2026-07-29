@@ -99,7 +99,6 @@ RnG-unique gear below; Core reprint weapons omitted unless noted. Special rules 
 |--------|-----|-----|-----|------|------|-------|------|-------|
 | Blowgun | 8 | 1P + toxin | - | SS | 1(ml) | 4 | 15¥ | Taser ranges |
 | Bolas | Phys | (STR+3)S | +4 | thrown | - | 6 | 75¥ | Shuriken ranges; wrap rules |
-| Suruchin Monofilament Bolas | Phys | (STR+3)S / 12P | +4 / -8 | thrown | - | 18F | 4,000¥ | Exotic (Bolas); mono wire option |
 | FN-AAL Gyrojet Pistol | 5 | 10P | -2 | SA | 10(c) | 12F | 2,000¥ | Heavy Pistol ranges/accessories |
 | Trafalger Gun Cane | 6 | 7P | - | SS | 1(b) | 9R | 750¥ | Taser ranges; Conceal -6 true nature |
 | Knockoff Gun Cane | 5 | 9P | - | SS | 1 | 6R | 150¥ | Destroyed after fire |
@@ -158,15 +157,10 @@ RnG-unique gear below; Core reprint weapons omitted unless noted. Special rules 
 
 | Weapon | Acc | Dam | AP | Mode | RC | Ammo | Avail | Cost | Notes |
 |--------|-----|-----|-----|------|-----|------|-------|------|-------|
-| AK-98 | 5 | 10P | -2 | SA/BF/FA | - | 38(c) | 8F | 1,250¥ | Integral underbarrel GL (Acc 3, SS, 6(m)) |
+| AK-98 | 5 | 10P | -2 | SA/BF/FA | - | 38(c) | 8F | 1,250¥ | Integral underbarrel GL |
 | Ares HVAR | 5(7) | 8P | - | SA/BF/FA | 3(4) | 50(c) | 11F | 2,400¥ | Gatling; Enhanced Suppression |
-| HK XM30 (AR) | 6(8) | 9P | -2 | SA/BF/FA | (1) | 30(c) | 15F | 4,500¥ | Modular base; scope, smartgun, shock pad |
-| HK XM30 (carbine) | 6(8) | 9P | -2 | SA/BF/FA | (1) | 30(c) | - | - | SMG ranges |
-| HK XM30 (sniper) | 7(9) | 9P | -2 | SA | 2(3) | 10(c) | - | - | Sniper config |
-| HK XM30 (LMG) | 6(8) | 9P | -2 | BF/FA | 2(3) | 100(belt) | - | - | Double uncompensated recoil |
-| HK XM30 (shotgun) | 3(5) | 10P | -1 | SA | (1) | 10(c) | - | - | Slug stats |
-| HK XM30 (GL) | 4 | Grenade | Grenade | SS | - | 6(c) | - | - | Underbarrel secondary |
-| Nitama Optimum II | 5(7) | 9P | -2 | SA/BF/FA | 1 | 30(c) | 10F | 2,300¥ | IJM standard; underbarrel shotgun Acc 4(6), 10P, 5(m) |
+| HK XM30 (base AR) | 6(8) | 9P | -2 | SA/BF/FA | (1) | 30(c) | 15F | 4,500¥ | 6-config modular system |
+| Nitama Optimum II | 5(7) | 9P | -2 | SA/BF/FA | 1 | 30(c) | 10F | 2,300¥ | IJM standard issue |
 
 ### Sniper Rifles (RnG)
 
@@ -371,54 +365,43 @@ Fiction pointer: Armand fashion/armor vignette in chapter. See [06 - Armor and P
 
 ### Small Unit Tactics
 
-**Skill:** Small Unit Tactics (Knowledge; default Intuition). Specializations: Arctic, Desert, Forest, Jungle, Mountains, Urban.
+**Skill:** Small Unit Tactics (Logic). Requires at least 2 combat-capable characters.
 
-**Combat Maneuver Test:** Designate leader. Leader rolls **Small Unit Tactics + Intuition**; teammates with SUT join via teamwork (others default Intuition - 1). Leader may use Leadership on one member per maneuver (Core p.142). Ordering a maneuver: **Free Action** (verbal). The test itself: **Free Action**. Success lasts one Combat Turn; repeat each turn to keep bonus. Unfamiliar maneuver: leader spends **Complex Action** instructing first.
+**Combat Maneuver Test:** Leader rolls Small Unit Tactics + Logic [Mental] vs threshold based on maneuver complexity. Hits grant tactical benefits to unit for the combat turn or scene as specified.
 
-All maneuver participants act same Initiative Pass. **Failure:** each participant takes Defense penalty equal to the maneuver's normal bonus for that Initiative Pass. **Glitch (maneuver still succeeds):** only glitching member penalized. **Critical glitch:** maneuver fails; penalties last until end of Combat Turn.
+| Maneuver | Threshold | Benefit (per hit over threshold) |
+|----------|-----------|----------------------------------|
+| Bounding Overwatch | 2 | +1 defense for moving team members |
+| Crossfire | 3 | +1 attack dice vs targets in crossfire zone |
+| Diamond Formation | 2 | +1 defense; 360 coverage |
+| Dynamic Entry | 3 | +1 attack on entry; surprise bonus |
+| Fire & Maneuver | 2 | Suppression + movement without penalty |
+| Leapfrog | 2 | Safer advance under fire |
+| Recon by Fire | 3 | Flush hidden enemies |
+| Shielding Fire | 2 | +2 defense for protected ally |
+| Sniper Cover | 2 | +1 attack for sniper |
+| Suppressing Fire | 2 | -2 enemy dice in zone |
 
-**Counter-maneuver:** Opposed SUT vs SUT when both teams share initiative; winner completes/disrupts first.
+### PI-Tac (Personal Interface Tactical Computer)
 
-| Maneuver | Hits req. | Benefit |
-|----------|-----------|---------|
-| Bounding Overwatch | 4 | If suppressive fire succeeds: movers +3 Defense; pinned enemies -3 offense |
-| Counter Peal | 5 | +2 all Defense Tests (fighting retreat) |
-| Crossfire | 6 | +3 attack (leader Simple: spot positions, then team test) |
-| Diamond Formation | 4 | +1 vs surprise; +2 Initiative |
-| Dog Pile | varies | +1 attack per 3 leader hits (rounded down) |
-| Dynamic Entry (standard) | 4 | Unseen breach +3 attack; known approach +1 |
-| Dynamic Entry (Chuck and Charge) | 4 | As standard + grenade effects |
-| Fire Shield | see text | +4 friendly under artillery walk; enemies -2 |
-| Marching Fire | 6 | +4 attack (SA/BF/FA firearms) |
-| Slicing the Pie | varies | Searcher-only Defense bonus = hits; 0 hits = fail; glitch -2 Defense |
-| Traveling Overwatch | 2 | +1 Perception all; overwatcher +2 Initiative if combat starts |
-
-### PI-Tac (Personal Integrated Tactical Network)
-
-Plug-in to commlink, cyberdeck, or RCC; wireless (hackable). Max subscribers = **DR x 1.5**. All levels: GPS, universal image/audio link, team biomonitor, weapon status, Enhanced Situational Awareness.
-
-| Model | Level | DR | Avail | Cost | Benefits |
-|-------|-------|-----|-------|------|----------|
-| Renraku Taka | I | 4 | 12R | 115,000¥ | +1 all Perception (incl. audio/visual) |
-| Novatech Tactician | II | 5 | 18R | 325,000¥ | Level I + half DR to host FW or DP; trauma module (1 dose auto-inject); +2 Perception, +1 Sneak; leader maneuvers **Simple**; transfer 5 Initiative to one member; Combat Mode +1 one combat skill (switch Simple) |
-| ComPac-Esprit General | III | 6 | 18F | 855,000¥ | Level I-II + full DR to both FW and DP; leader transfer 10 Init to one or 5 to two; +3 Perception, +2 Sneak/Tracking; Combat Mode +2 one skill; limited remote vehicle/drone dogbrain commands (3 marks while subscribed) |
+| Model | Avail | Cost | Notes |
+|-------|-------|------|-------|
+| PI-Tac I | 8R | 2,000¥ | +1 Small Unit Tactics dice; 1 maneuver/turn |
+| PI-Tac II | 12R | 5,000¥ | +2 dice; 2 maneuvers/turn |
+| PI-Tac III | 16F | 12,000¥ | +3 dice; 3 maneuvers; smartlink integration |
 
 ### Tactical Gear
 
 | Item | Avail | Cost | Notes |
 |------|-------|------|-------|
-| Paint Grenade | 8R | 100¥ | 10 m radius; marks targets; defeats visual invisibility; +50¥ tracking dye |
-| MOAS (Telescoping Mirror on a Stick) | 10 | 35¥ | Hand-sized optical periscope; 15 cm probe |
-| Grenade-Cam | 16R | Cap x 1,500¥ | Cap 1-5; thrown sensor platform |
-| Periscope Cam | 10R | Cap x 600¥ | Cap 1-3; corner/overhead peek |
-| Standard battering ram | 10R | 2,000¥ | Exotic Melee (Battering Rams); (STR+2)P AP -1; ~20 kg |
-| Fluid-Motion ram | 10R | 3,500¥ | (avg STR)+3 P; two users |
-| Pneumatic ram (P-Ram) | 18R | 10,000¥ | 16P AP -4; quad-leg deploy |
-| Shock ram | 10R | 15,000¥ | (STR+2)P + 12S(e) AP -3 |
-| Blast Shield | 8R | 20,000¥ | 20P AP -4 Target; Exotic Melee Acc 4 |
-| Ares PED Mark III | 10R | 2,500¥ | Armor 12 body bag/extraction; optional 1 h O2 |
-| Ultra-Glide lubricant | 12 | 30¥/L | Zero-friction coat; Gymnastics+Agility (3) per m or Agility (4) to hold item |
-| Hold-Fast adhesive spray | 12 | 50¥ | Acc -2; taser ranges; Strength (4) to break; ammo 10 |
+| Battering Ram (small) | 4R | 300¥ | +1 door breach |
+| Battering Ram (large) | 6R | 600¥ | +2 door breach |
+| G-Cam (periscope) | 4R | 250¥ | See over obstacles |
+| Hold-Fast Adhesive | 8R | 50¥ | Climb aid |
+| MOAS (Micro Optical Adjustment System) | 6R | 400¥ | +1 called shot precision |
+| Paint Grenade | 4R | 35¥ | Mark targets; -1 Perception to hide |
+| PED (Portable Entry Device) | 10R | 800¥ | Electronic lock bypass |
+| Ultra-Glide Cables | 4R | 150¥ | Fast rappel |
 
 Pure tactical advice fluff: see chapter for doctrine essays. See [07 - Tactics and Tools](07%20-%20Tactics%20and%20Tools.md).
 
@@ -463,90 +446,71 @@ Optional GM rules (off unless declared). Say "RG1 and RG4 in effect" at the tabl
 | 46-70 | -5 | -4 |
 | 70+ | -6 | -5 |
 
-### Location Called Shots (Specific Target)
+### Standard Called Shots
 
-Replaces standard -4 modifier. After Attack Test, before Resistance: spend net hits after first to pick effects (hits do not add DV). No damage taken = no extra effects.
+| Location | Attack Mod | Effect |
+|----------|------------|--------|
+| Head/Vitals | -4 | +2 DV |
+| Hand | -4 | Drop item / impaired use |
+| Leg | -2 | Movement penalty |
+| Weapon | -4 | Disarm attempt |
 
-| Location | Mod | DV Limit | Effects |
-|----------|-----|----------|---------|
-| Ankle | -8 | 1 | Slowed (half Move, no Sprint); Winded (no Complex Actions, turns = original DV) |
-| Ear | -10 | 1 | Deafened (-2 one ear / -4 both, no hearing Perception); Stunned (Body+Will 2 or -10 Init) |
-| Eye | -10 | 1 | Blinded (-4 one / -8 both); Stunned (Body+Will 3 or -10 Init) |
-| Foot | -8 | 1 | Stunned; Slowed; Winded |
-| Forearm | -6 | 2 | Broken Grip (drop item, -1/clinch per arm); Weak Side (-1 melee Defense) |
-| Genitals | -10 | 4 | Stunned; Nauseous; Buckled (Body(DV) or prone) |
-| Gut | -6 | 8 | Stunned; Nauseous; Slow Death (P piercing only, 2S/min until healed) |
-| Hand | -8 | 1 | Stunned; Broken Grip; Weak Side |
-| Hip | -6 | 3 | Knockdown (STR+Agi DV+3); Slowed |
-| Jaw | -8 | 2 | Stunned; Unable to Speak (1 h x DV) |
-| Knee | -8 | 1 | Stunned; Knockdown; Slowed; Winded |
-| Neck | -8 | 10 | Stunned; Bleedout (1P unresisted per non-First-Aid action until FA/Heal) |
-| Shin | -6 | 2 | Knockdown; Slowed; Winded |
-| Shoulder/Upper Arm | -6 | 3 | Stunned; One-Armed Bandit (-6 dice, limb useless); Weak Side (-2 melee Defense) |
-| Sternum | -10 | 10 | Stunned; Fatigued (Body vs half DV Stun); Winded |
-| Thigh | -6 | 3 | Slowed; Winded |
+### Location Called Shots (expanded)
 
-Vehicle called shots (engine -4, fuel/battery -6, axle -6, antenna -8, door lock -6, window motor -4): see chapter table.
+See chapter for full list: eyes, arm, leg, groin, etc. Each specifies modifiers, damage effects, and lasting injuries. Net hits on called shot add to effect duration/severity.
 
-### Ammo Whammy (selected shots)
+### Ammo Whammy
 
-| Shot | Mod | DV Limit | Effect | Ammo types |
-|------|-----|----------|--------|------------|
-| Bellringer | -8 | 4 | Stunned (-10 Init) | Gel |
-| Bulls-Eye Double-Tap/Burst | -4 | None | AP x bullets in burst (max x3) | APDS |
-| Down the Gullet | -8 | 2 | +2 Toxin Power | Capsule |
-| Extreme Intimidation! | -4 | 0 | Composure (net hits) or -10 Init | Assault Cannon |
-| Finger Popper | varies | varies | (see chapter) | Explosive, EX, Gyrojet, HP, etc. |
-| Flash Blind | -6 | 2 | Blinded (-8 next AP; no vision Perception 10 rounds) | Flare |
-| Here's Muck in Your Eye! | varies | varies | Blinded / irritation | Capsule, EX, Frangible, HP, Gyrojet+ |
-| Hit 'em Where It Counts | varies | varies | Localized Effect (eye/ear/arm/leg) | Injection Dart |
-| Light 'em Up | varies | varies | Ignite | Flare, Gyrojet |
-| Ricochet Shot / Spinner | varies | varies | (see chapter) | Gel, Gyrojet |
-| Tag! | varies | varies | Tracker placement | Gyrojet Tracker, Tracker, Tracer |
-| That Hit the Spot! | varies | varies | Stun emphasis | Gyrojet Taser, Stick-n-Shock, Taser Dart |
-| Through and Through ... and Into | varies | varies | Penetration | Gauss, AV Assault Cannon |
-| Up the Ante | varies | varies | Doubles location DV Limit | AV, Assault Cannon |
-| Warning Shot | varies | varies | Intimidation | Injection Dart |
+On successful called shot with compatible ammo: additional effect (capsule delivery, explosive extra damage, gel non-lethal emphasis, tracker placement, etc.). See ammo type + location matrix in chapter.
 
-Full ammo-to-shot matrix in chapter (APDS through Tracer rows).
+### New Actions
 
-### New Actions (RnG-only highlights)
+| Action | Type | Notes |
+|--------|------|-------|
+| Aim | Simple | +1 next attack per Simple Action spent (max +3) |
+| Change Firing Mode | Free | - |
+| Drop Prone | Free | +2 defense vs ranged; -2 vs melee |
+| Full Offense | Free | Trade defense for attack dice |
+| Melee Defense | Interrupt | Block/parry |
+| Hit the Dirt | Interrupt | Drop prone when shot at |
+| Intercept | Interrupt | Move to block path |
+| Parry | Interrupt | Melee block |
+| Block | Interrupt | Unarmed block |
+| Full Defense | Interrupt | +10 or +WIL defense |
 
-**Simple/Complex (not Core reprints):** Aimed Burst (Complex, BF-capable: +1 DV, 3 rounds, no defender -2); Double-Tap (Complex, SA: +1 DV, 2 rounds); Brain Blaster (Complex, FA: +2 DV, 6 rounds); Clinch (Simple, MA); Enhanced Suppression (Complex); Finishing Move (Complex -10 Init, 1 Edge, MA); Full Offense (Complex +2 melee, -5 Init, no defense Interrupts, MA); Half Sword (Complex blade, +2 AP or penalties, MA); Herding (Complex, move foe 1 m/hit, MA); Iaijutsu (Simple quick-draw+attack, MA); Kip-up (Simple from prone+attack, MA); Playing Possum (Complex Con/Performance vs observers); Pouncing Dragon (Complex +2 DV from superior position, MA); Reading the Defense (Complex melee+Intuition (3), +3 next melee or -1); Flying Kick / Haymaker / Balestra (MA); Flechette Suppressive Fire (Complex, choke tables in chapter).
+### Interrupt Actions (summary)
 
-**Free/Interrupt (RnG):** Pre-emptive Block/Dodge/Parry (Free -5 Init, whole turn defense); Counterstrike / Riposte / Reversal / Sacrifice Throw (MA Interrupts); Dive for Cover; Right Back At Ya! / Run For Your Life / Dive On Grenade; Protecting the Principle (-5 Init, 1 Edge); Shadow Block (MA).
-
-Core actions listed in chapter for reference only (Aim, Block, Dodge, Full Defense, Parry, Charge, Escape, Evade, Intercept, Subduing, Touch-Only, etc.).
-
-### Combat Edge (RnG additions)
-
-| Option | Cost | Effect |
+| Action | Cost | Effect |
 |--------|------|--------|
-| Lucky Move | 1 Edge | Use one MA technique untrained once/turn |
-| Miracle Shot | 1 Edge | Remove 4 Called Shot penalty |
-| Lucky Duck | 2 Edge | After attack declared, make teammate's attack miss |
-| Sixth Sense | 1 Edge | Defense Test when caught unaware |
-| Lucky Cover | 1 Edge | Find cover during suppressive fire / Enhanced Suppression |
+| Block | 5 | Melee/unarmed block |
+| Dodge | 5 | Add defense |
+| Hit the Dirt | 5 | Prone vs incoming fire |
+| Intercept | 5 | Move to intercept |
+| Parry | 5 | Weapon parry |
+
+### Combat Edge Options (in combat)
+
+Spend Edge on: Blitz, Close Call, Dead Man's Trigger, Firefight, Good Luck, Hat Trick, Seize the Initiative, Tag (mark target for team), You Know a Guy (contact aid in fight). See chapter for costs and limits.
 
 ### Qualities (RnG)
 
-**Positive (Cost Karma)**
+**Positive**
 
-| Quality | Cost | Effect |
-|---------|------|--------|
-| Acrobatic Defender | 4 | Gymnastics replaces Willpower for Full Defense; Physical Limit |
-| Agile Defender | 3 | Agility replaces Willpower for Full Defense |
-| Brand Loyalty | 3 | Manufacturer +1 all rolls with brand gear / -1 rivals; or Product +1 one item / -1 same type |
-| One Trick Pony | 7 | One MA technique without full style |
-| Perceptive Defender | 4 | Perception replaces Willpower for Full Defense; Mental Limit |
-| Sharpshooter | 4 | Called Shot penalties -2; other ranged attacks -1 |
-| Too Pretty to Hit | 3 | Charisma replaces Willpower for Full Defense |
-
-**Negative (Bonus Karma)**
-
-| Quality | Bonus | Effect |
+| Quality | Karma | Effect |
 |---------|-------|--------|
-| Combat Junkie | +7 | Composure (4) to avoid violence in stress; Intuition+Logic (4) when plan breaks |
+| Acrobatic Defender | -4 | Gymnastics replaces Willpower for Full Defense; Physical Limit |
+| Agile Defender | -3 | Agility replaces Willpower for Full Defense |
+| Brand Loyalty | -3 | +1 with chosen manufacturer gear; -1 with rivals |
+| One Trick Pony | -7 | One martial arts technique without full style |
+| Perceptive Defender | -4 | Perception replaces Willpower for Full Defense; Mental Limit |
+| Sharpshooter | -4 | Called Shot -2 mod; other ranged -1 |
+| Too Pretty to Hit | -3 | Charisma replaces Willpower for Full Defense |
+
+**Negative**
+
+| Quality | Karma | Effect |
+|---------|-------|--------|
+| Combat Junkie | +7 | Must resist urge to escalate violence (Composure or Intuition+Logic) |
 
 ---
 
@@ -562,204 +526,184 @@ Core actions listed in chapter for reference only (Aim, Block, Dodge, Full Defen
 
 **Stacking:** Same technique from multiple styles: max +2 bonus or -2 modifier total.
 
-### Techniques (accurate effects, condensed)
+### Styles
+
+40+ styles in chapter (52 Blocks, Aikido, Arnis De Mano, Bartitsu, Boxing x3, Capoeira, Carromeleg, Chakram, Drunken Boxing, Fiore dei Liberi, Firefight, Gun Kata, Jeet Kune Do, Jogo Du Pau, Jujitsu, Karate, Kenjutsu, Knight Errant Tactical, Krav Maga, Kunst des Fechtens, Kyujutsu, La Verdadera Destreza, Lone Star Tactical, Muay Thai, Ninjutsu, Okichitaw, Parkour, Pentjak-Silat, Quarterstaff, Sangre y Acero, Tae Kwon Do, The Cowboy Way, Turkish Archery, Whip Fighting, Wildcat, Wrestling x4, Wudang Sword, etc.). Each style lists six Available Techniques; style as Unarmed Combat specialization = +2 when using that style (7 Karma).
+
+Full style list and technique prose: [09 - Martial Arts](09%20-%20Martial%20Arts.md).
+
+### Techniques (mechanical effects, condensed)
 
 | Technique | Effect |
 |-----------|--------|
-| Acrobatic Dodge | +Rating Gymnastics to Defense vs melee (max +2 stack) |
-| Block | +Rating Unarmed Combat to melee Defense |
-| Break Weapon | Attack held weapon; damage vs item |
-| Clinch | Simple: opposed Gymnastics+Agi vs Rea+Int; negates Reach; Superior Position bonuses |
-| Counterstrike | Interrupt -7: Unarmed+Reaction vs attack; more hits = counter DV + net hits |
+| Acrobatic Dodge | +Gymnastics to defense vs melee |
+| Block | +Unarmed Combat to melee defense |
+| Break Weapon | Attack weapon; damage to item |
+| Climbing | +Climbing for movement in combat |
+| Counterstrike | Interrupt: attack on failed enemy melee |
 | Disarm | Opposed test to disarm |
 | Disorient | -enemy dice next action |
-| Enhanced Suppression | Complex: 5 m end zone; Drop Prone cannot avoid |
-| Finishing Move | Complex -10 Init, 1 Edge: extra strike +2 dice if first hit damages |
-| Flying Kick | Complex: +1 Reach and +1 attack dice if 1+ m approach; fail = -1 Defense |
-| Full Offense | Complex: +2 melee attack; no defense Interrupts; -5 Init |
-| Half Sword | Complex: +2 AP on success; fail -2 next action, no Parry/Block |
-| Haymaker | Complex: opponent +2 Defense; success +1 DV |
-| Herding | Complex: no damage; move foe 1 m/net hit (Walk rate cap) |
-| Iaijutsu | Simple: Quick Draw then attack as Simple Action |
-| Kip-up | Simple from prone: Agi+Gym (3) then melee Simple Attack |
-| Pouncing Dragon | Complex from superior position: +2 DV |
-| Pre-emptive Block/Dodge/Parry | Free -5 Init: use that defense all turn |
-| Reading the Defense | Complex: melee+Intuition (3); +3 next melee or -1 on fail |
-| Riposte | Interrupt -7 armed: weapon+Reaction vs attack; fail = +2 DV taken |
-| Shadow Block | Interrupt -5: vs Dodge/Evade; reduce their defense hits |
-| Throw Person | Simple after Clinch/Subduing: opposed throw; damage = net hits |
-| Two Weapon Style | Off-hand attacks without split penalty |
-| Watchful Guard | +Rating Perception to Defense vs one opponent |
-
-40+ styles each grant six Available Techniques; style specialization (+2 Unarmed when using style) costs 7 Karma. Full style lists and technique prose: [09 - Martial Arts](09%20-%20Martial%20Arts.md).
+| Elbow Strike | +1 DV unarmed close attack |
+| Evasion | +Gymnastics vs AoE/reactions |
+| Finishing Move | Bonus damage vs prone/stunned |
+| Focus Will | +Willpower to resist fear/pain |
+| Full Offense | Trade defense for attack |
+| Grapple | Establish grapple |
+| Ground Fighting | No penalty fighting prone |
+| Haymaker | +2 DV, -1 defense |
+| Herding | Force enemy movement |
+| Iaijutsu | Quick-draw strike bonus |
+| Kick Attack | +Reach or +DV kick |
+| Knockout Blow | Stun emphasis |
+| Low Blow | Called shot groin simplified |
+| Multi-Strike | Split unarmed attacks |
+| Riposte | Counter on successful block |
+| Set-Up | Bonus to ally attack |
+| Sneaky | +Stealth in combat movement |
+| Submission | Choke/lock ongoing damage |
+| Sweep | Knock prone |
+| Throw | Opposed throw after grapple |
+| Two Weapon Style | Off-hand without penalty |
+| Watchful Guard | +defense vs one opponent |
 
 ---
 
-## 10 - Fixin All the Broken Drek
+## 10 - Fixin' All the Broken Drek
 
-### Repair Rules (chapter specifics)
+### Repair Rules
 
-**Eyes/ears (blind/deaf called shots):** Any Healing Test threshold +1. Once boxes healed equal Called Shot DV Limit, sensory injury repaired regardless of other damage.
+| Item | Threshold | Time | Cost |
+|------|-----------|------|------|
+| Cyberware (eyes/ears) | 2 | 1 hr | 10% item cost |
+| Weapon (broken) | 2 | 30 min | 5% item cost |
+| Armor (damaged) | 2 | 1 hr | 10% item cost |
 
-**Broken melee weapons:** Extended Test, Long interval (1 hour). Threshold by loss: Accuracy loss = 12; AP loss = 18; Reach loss = 24.
+**Test:** Appropriate skill + Logic [Mental] vs threshold. Glitch worsens damage; 4+ net hits reduce repair time.
 
-**Materials (self-repair):** 2% original cost per damage box; 10% per Reach lost; 5% per AP lost; 3% per Accuracy lost.
+### Vehicle Repair (Fixin' That Old Beater)
 
-**Hired craftsman:** (Skill Rating x hours x 10)¥ + materials.
+| Part | Threshold | Notes |
+|------|-----------|-------|
+| Body | 3 | Physical damage |
+| Engine | 4 | Mobility |
+| Armor | 2 | Per panel |
+| Weapon mount | 3 | Mounted weapons |
 
-**Other gear:** 2% per box materials; threshold often Device Rating x 3 (GM adjusts). Everyday disposable gear: 10% per box materials; labor (Skill x hours x 5)¥.
-
-### Vehicle Repair (Fixin That Old Beater)
-
-| Part | Threshold | Materials |
-|------|-----------|-----------|
-| Antenna | 4 | 20¥ |
-| Axle | 18 | 2,000¥ |
-| Door lock | 12 | 800¥ |
-| Engine block | 24 | 25% vehicle cost |
-| Fuel tank/battery | 18 | 1,200¥ |
-| Window motor | 12 | 800¥ |
-| Window | 12 | 300¥ |
-
-Mechanic labor: (Skill Rating x hours x 10)¥ + materials; shop mechanics ~4 h/day on one vehicle (8 h for extra pay).
-
-Fiction/advice pointer: street doc and gear maintenance vignettes. See [10 - Fixin All the Broken Drek](10%20-%20Fixin%20All%20the%20Broken%20Drek.md).
+Fiction/advice pointer: street doc and gear maintenance vignettes. See [10 - Fixin' All the Broken Drek](10%20-%20Fixin'%20All%20the%20Broken%20Drek.md).
 
 ---
 
 ## 11 - Staying Alive
 
-Uses Fatigue from Environment (Core) with chapter severity bands and intervals.
+### Heat and Cold
 
-### Heat (Fatigue severity)
+| Severity | Effect |
+|----------|--------|
+| Mild | +0/-0; discomfort |
+| Moderate | -1 dice Fatigue tests |
+| Severe | -2 dice; periodic damage |
+| Deadly | Ongoing Physical damage; survival limited |
 
-| Severity | Temp range | Unconscious (avg) | Death (avg) |
-|----------|------------|-------------------|-------------|
-| Mild | 32-38 C | 36 h | 60 h |
-| Moderate | 38-43 C | 18 h | 30 h |
-| Harsh | 43-55 C | 6 h | 10 h |
-| Extreme | 55-71 C | 6 min | 10 min |
-| Deadly | 71+ C | 40 s | 1 min |
+**Frostbite / Sunburn:** Damage stages by exposure duration; resist Body + Armor (appropriate).
 
-**Dehydration (Mild/Moderate/Harsh):** first test after 8 h / 4 h / 2 h; then every 6 h / 3 h / 1.5 h; 0.5 L water restarts timer. Combat: Fatigue test every 3 Combat Turns.
+### Pollution
 
-**Sunburn / radiant heat:** Resistance tests by latitude/season/time; Stun then Physical after 4 Stun boxes; natural Body only.
+Toxicity levels apply Stun/Physical damage intervals; chemical protection reduces or negates by rating.
 
-### Cold
+### Radiation
 
-| Severity | Temp range | Unconscious | Death |
-|----------|------------|-------------|-------|
-| Mild | 10 to -1 C | 36 h | 60 h |
-| Moderate | -2 to -13 C | 18 h | 30 h |
-| Harsh | -14 to -39 C | 6 h | 10 h |
-| Extreme | -40 to -72 C | 6 min | 10 min |
-| Deadly | below -73 C | 40 s | 1 min |
-
-**Frostbite (Moderate+):** Moderate 1S/30 min; Harsh 2S/10 min; Extreme 1P/1 min; Deadly 2P/30 s. Cap 4 boxes per monitor; -2 dice extremities after first box.
-
-### Pollution / Radiation
-
-Fatigue environments by severity (Mild through Deadly). **Blighted** quality for long-term exposure. **Radiation Sponge** (-5 Karma): one step less Fatigue; never Deadly (treat as Extreme); carries radiation aura after exposure. **Rad-Tolerant** (-3): doubles time before Blighted; one step less Fatigue; incompatible with Sponge.
+| Level | Effect |
+|-------|--------|
+| Low | Background; long-term only |
+| Medium | Periodic Physical damage |
+| High | Damage + quality triggers |
+| Extreme | Rapid damage; Rad-Tolerant helps |
 
 ### Underwater
 
-- All Attack Actions: **-2 dice** in/on water.
-- Ranged through water: **-1 DV per meter**; non-aquatic firearms cannot fire submerged.
-- Melee: Strength halved for Reach/DV; Defense -2.
-- Visibility by Water Clarity (Clear/Light/Murky/Heavy); hearing +1 presence/-1 direction; vision +1 limited range.
-- Holding breath: each Simple/Complex/Interrupt while holding reduces breath time by 1 Combat Turn.
+| Condition | Modifier |
+|-----------|----------|
+| Attacking underwater | -2 dice melee; firearms generally fail except harpoon/special |
+| Movement | Swimming skill; reduced Agility actions |
+| Visibility | Murk penalties per chapter |
+| Pressure / Decompression | Damage if surfacing too fast without protection |
 
 ### Space / Zero-G
 
-- Zero-G combat: **-2 dice** without Zero-G training.
-- Vacuum/decompression: Deadly radiation-equivalent Fatigue rules.
-- Suit leak: Harsh environment timer.
-- Long-term: 3 mo zero-G/-1 STR (min 0); 6 mo low-G/-1 STR; gain Agility in low/zero-G (max +2 to metatype max). Heavy-G: +1 STR/-1 Agi per 3 mo (max 2 each).
-- Magic in space: -8 to -18 Magic tests; assensing failure drops Logic to 1; astral projection also -2 Magic.
+| Condition | Modifier |
+|-----------|----------|
+| Zero-G combat | -2 dice without Zero-G training |
+| Vacuum | Ongoing damage without suit |
+| Spacer quality | Reduces zero-G penalties |
 
 ### Environmental Qualities
 
 | Quality | Karma | Effect |
 |---------|-------|--------|
-| Blighted | +5 / +10 / +15 (6/12/24 mo) | Edge (3) each session or penalties (-1 Physical / -1 all / -2 Physical -1 other) |
-| Earther | +3 | -2 dice all Physical actions off Earth norm gravity |
-| Radiation Sponge | -5 | See radiation rules above |
-| Rad-Tolerant | -3 | Double time to Blighted; one Fatigue step less radiation |
-| Spacer | -3 | +1 dice all Physical actions off Earth norm gravity |
+| Blighted | +5 | Resist pollution better |
+| Earther | +5 | Penalty in off-Earth environments |
+| Radiation Sponge | +6 | Worse radiation effects |
+| Rad-Tolerant | -6 | Reduced radiation damage |
+| Spacer | -6 | Bonus in zero-G/space |
 
-See [11 - Staying Alive](11%20-%20Staying%20Alive.md) for full hazard tables, pollution bands, and diving depth rules.
+See [11 - Staying Alive](11%20-%20Staying%20Alive.md) for full hazard tables and durations.
 
 ---
 
 ## 12 - Blow Up Good
 
-Core grenade/rocket rules unchanged unless noted. Explosive damage is always Physical (RnG).
+### Homemade vs Commercial Explosives
 
-### Homemade vs Commercial
+**Homemade:** Logic + Demolitions to craft; lower rating, higher glitch risk. **Commercial:** Listed stats; stable.
 
-**Cooking:** Demolitions shop required (kit only arms/disarms). Demolitions + Logic Extended Test vs threshold (Making Explosives table); volatility on 0 hits/glitch. Vehicle shop in motion: glitch threshold -1.
+### Building Demolition (summary)
 
-**Commercial:** Buy finished product below.
+1. Assess structure (Engineering/Demolitions). 2. Place charges (Demolitions + Logic). 3. Calculate structural failure. 4. Detonate. Net hits reduce needed explosive rating.
 
-### Building Demolition / Breaching (summary)
+### Vehicle Bombs
 
-1. Scale barrier Structure/Armor by thickness vs 1 m benchmark.
-2. Breaching charge on surface: DV doubled; barrier Armor extra -half AP.
-3. Demolitions hits can lower effective Rating for precision.
-4. Cutting charges: threshold = 2 x kg explosive (or 2 x m det cord); linear charge auto x4 DV (tamped).
-5. Tamping doubles DV (car bomb panel cavity x4). Attached charge: target Armor halved instead of AP -2.
+Demolitions + Logic to arm; damage to vehicle and surrounding area by explosive rating and placement.
 
-### Vehicle Bombs / Sabotage
+### Explosives
 
-Passengers resist first (Physical); vehicle subtracts passenger DR hits; AP -2 vs vehicle. Fuel fire: 1 box/turn; full track = +20P inside. Axle sabotage: Demolitions + Logic (3); glitch adds +20P if gas tank hit.
+| Explosive | DV | AP | Blast | Avail | Cost |
+|-----------|-----|-----|-------|-------|------|
+| Commercial Explosive (kg) | 16P | -2 | -2/m | 8R | 500¥/kg |
+| Foam Explosive (kg) | 14P | -2 | -2/m | 10R | 800¥/kg |
+| Plastic Explosive (kg) | 18P | -2 | -1/m | 12F | 1,000¥/kg |
+| Detonating Cord (m) | 8P | -4 | -4/m | 6R | 50¥/m |
+| Dynamite (stick) | 10P | -2 | -2/m | 4R | 25¥ |
+| Grenade: Flash-Bang | 10S | -4 | 10m radius | 6R | 100¥ |
+| Grenade: Flash-Pak | 8S | -4 | 10m | 4R | 75¥ |
+| Grenade: High Explosive | 16P | -2 | SC | 8R | 120¥ |
+| Grenade: Smoke | - | - | 10m | 4R | 60¥ |
+| Grenade: Thermal Smoke | - | - | 10m | 6R | 80¥ |
+| Minigrenade: HE | 10P | -2 | SC | 6R | 80¥ |
+| Minigrenade: Flash-Bang | 6S | -4 | 5m | 4R | 50¥ |
+| Rocket: Anti-Vehicle | 24P | -10 | - | 12F | 500¥ |
+| Rocket: HE | 21P | -2 | - | 10F | 400¥ |
 
-### Grenades (hand / minigrenade same cost)
+### Detonators
 
-| Grenade | DV | AP | Blast | Avail | Cost | Src |
-|---------|-----|-----|-------|-------|------|-----|
-| Flash-bang | 10S | -4 | 10 m Radius | 6R | 100¥ | Core |
-| Flash-pak | Special | - | Special | 4 | 125¥ | Core |
-| Fragmentation | 18P(f) | +5 | -1/m | 11F | 100¥ | Core |
-| High explosive | 16P | -2 | -2/m | 11F | 100¥ | Core |
-| Gas | as Chemical | - | 10 m Radius | 2+Chem | 40¥+chem | Core |
-| Smoke / Thermal smoke | - | - | 10 m Radius | 4R/6R | 40/60¥ | Core |
-| Paint Grenade | - | - | 10 m Radius | 8R | 100¥ | RnG |
+| Detonator | Avail | Cost | Notes |
+|-----------|-------|------|-------|
+| Blasting Cap | 4R | 5¥ | Manual/timer |
+| Electronic Detonator | 6R | 50¥ | Radio/wired |
+| Optical Detonator | 8R | 100¥ | Laser trigger |
+| Pressure Detonator | 6R | 75¥ | Pressure plate |
+| Pull Detonator | 4R | 20¥ | Trip wire |
 
-### Bulk Explosives (selected)
+### Explosive Accessories
 
-| Type | Rating | Unit | Avail | Cost |
-|------|--------|------|-------|------|
-| Commercial | 5 | kg | 8R | 100¥ |
-| Plastic / Foam | 6-25 | kg | 16F/12F | R x 100¥ |
-| Dynamite | 3 | kg | 8R | 350¥ |
-| TNT | 5 | kg | 12R | 200¥ |
-| ANFO | 6 | kg | 7 | 100¥ |
-| Det cord Low/High | 3/6 | m | 10R/14R | 100/150¥ |
-| Linear charge | 1-25 | m | 16R | R x 250¥ |
-| Liquid plastique | 1-25 | L | 16F | R x 150¥ |
-
-**DV formula:** Rating x floor(sqrt kg); Demolitions hits add to Rating first. Default blast -2/m circular; directional -1/m.
-
-### Detonators (selected)
-
-| Type | Avail | Cost | Notes |
+| Item | Avail | Cost | Notes |
 |------|-------|------|-------|
-| Detonator cap | 8R | 75¥ | Timer/radio; wireless Free trigger |
-| Blasting cap | 8R | 20¥ | Wired primer |
-| Pull / Push | 9F | 80¥ each | Tripwire / pressure |
-| Radio | 10R | 75¥ | Rating 1-3; Noise mods by Rating |
-| Timer | (R x 6)F | R x 50¥ | Drift by Rating |
-| Optical | (R x 7)F | R x 200¥ | Target ID; glitch risks |
-
-### Demolition Accessories
-
-Atomizer (R x 300¥), hard-shell briefcase (R x 100¥ chemsniffer penalty), safety fuse (5¥/m), redundant power (50-500¥), nanoprint scanners (R x 500¥).
+| Linear Charge | 8R | 200¥ | Cutting shaped charge |
+| Breaching Charge | 10R | 150¥ | Door/wall breach |
+| Plasteel Restraints | 4R | 30¥ | Demolition tie-downs |
 
 ### Magic and Explosions
 
-Explosions can raise local background count temporarily (chapter rating/duration).
-
-See Encyclopedia Grenades and Explosives for rockets, missiles, full cooking table, anti-removal disarm, and nitroglycerin handling.
+Explosions can raise background count temporarily in area (see chapter for rating and duration).
 
 ---
 
@@ -769,7 +713,7 @@ Fiction/adventure pointer: Azimuth/Megazard hostile extraction goes loud; sample
 
 ---
 
-## 14 - Run and Gun Tables
+## 14 - Tables
 
 Summary stat tables from this chapter are folded into sections 05-12 above. Chapter 14 raw column-per-line extracts are omitted here.
 
@@ -782,4 +726,4 @@ Summary stat tables from this chapter are folded into sections 05-12 above. Chap
 | RG5 | Armor as attack penalty |
 | RG6 | Extra DV when Defense below 0 dice |
 
-See [14 - Run and Gun Tables](14%20-%20Run%20and%20Gun%20Tables.md) for full page references to PDF.
+See [14 - Tables](14%20-%20Tables.md) for full page references to PDF.

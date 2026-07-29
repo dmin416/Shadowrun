@@ -338,29 +338,25 @@ Mod Points equal Body. `Body X(Y)` is Body X with Y MP free after factory gear. 
 | --- | ---: | --- |
 | Micro / Mini / Small / Standard / Large / Huge / Heavy | 0 / 1 / 2 / 3 / 4 / 5 / 6 | 8R / 4R / 8R / 10F / 12F / 16F / 20F |
 
-Drone ammo uses weapon normal limits. Second bin: 1 MP, 50¥, Kit. Belt-feed: 2 MP, 500¥, Shop, 100 rounds plus extra bays. Blow-away panel: 25¥ x MP, Kit, Perception (2). Pop-up: +1 MP, 100¥ x increased MP, Shop, Perception (4), Free Action deploy/retract.
+Drone ammo uses weapon normal limits. Second bin: 1 MP, 50¥, Kit. Belt-feed: 2 MP, 500¥, Shop, 100 rounds plus extra bays. Blow-away panel: 25- x MP, Kit, Perception (2). Pop-up: +1 MP, 100¥ x increased MP, Shop, Perception (4), Free Action deploy/retract.
 
 | Other mods | MP | Rule |
 | --- | ---: | --- |
-| Realistic Features R1-4 | Rating | Perception threshold = Rating; Avail 2/4/8/12R; cost (Body x Body) x 100/500/1,000/5,000¥; Shop, Facility for R3+. |
-| Amphibious R1/R2 | 1/2 | (Body x Body) x 100¥ Shop / x 1,000¥ Facility; R1 float, R2 submersible. |
-| Assembly Time Improvement | 1 | Shop, Body x 100¥; Body minutes to assemble/disassemble, Mechanic + Logic (2). |
-| Customized | 0 | Kit, 10-10,000¥, cosmetic only. |
-| Drone Arm / Primitive | 1 | Shop, half cyberarm cost; primitive 10% normal and -2 limit on fine manipulation/weapon use. |
-| Drone Leg | 1 | Shop; half cyberleg cost as for arms; no extra CM boxes. |
-| Gecko Grips | 1 | Shop, (Body x 3) x 50¥; climb/hang if Barrier >= Body x 3. |
-| Immobile | +2 | Shop, free; permanent Speed/Accel 0. |
-| SkyGuide | 0 | Kit, 5¥ + 10¥/year; Nav/Maneuver 6 while logged; Guide can override owner. |
+| Realistic Features R1-4 | unlisted | Perception threshold = Rating; Avail 2/4/8/12R; Body- x100/500/1,000/5,000-; Shop, Facility R3+. |
+| Amphibious R1/R2 | 1/2 | Body- x100¥ Shop / x1,000¥ Facility; R1 float, R2 submersible. |
+| Assembly Time Improvement | 1 | Shop, Body x100¥; Body minutes to assemble/disassemble, Mechanic + Logic (2). |
+| Customized | 0 | Kit, 10¥10,000-, cosmetic only. |
+| Drone Arm / Primitive | 1 | Shop, half cyberarm cost; primitive 10% normal and -2 limit fine manipulation/weapon use. |
+| Drone Leg | half cyberleg MP/cost | Shop. |
+| Gecko Grips | 1 | Shop, Body x3 x50¥; climb/hang Barrier >= Body x3. |
+| Immobile | +2 | Shop, 0-; permanent Speed/Accel 0. |
+| SkyGuide | 0 | Kit, 5- +10¥/year; Nav/Maneuver 6 while logged; Guide can override owner. |
 | Spotlight | 0 | Kit, 50¥, flashlight. |
-| Suspension / Tire Mod | 0 | Shop (Body x 3) x 100¥ changes Handling base (Std 4/2, Tracked 3, Off-road 2/4); Kit (Body x 3) x 25¥ flips Handling +1/-2 until restored. |
+| Suspension / Tire Mod | 0 | Shop Body x3 x100¥ changes Handling base; Kit Body x3 x25- changes Handling +1/-2 until restored. |
 
 ### Software and anthropomorphics
 
-| Pilot Rating | Avail | Cost |
-| --- | --- | ---: |
-| 1 / 2 / 3 / 4 / 5 / 6 | 4 / - / 8R / 12R / 16F / 24F | 100¥ / 400¥ / 1,800¥ / 3,200¥ / 10,000¥ / 20,000¥ |
-
-Autosoft Rating 1-6: Avail Rating x2, Cost Rating x500¥. Smartsoft (Restricted) counts as Rating 3. Group is Rating 2. Skillsets: Academic Knowledge, Chemistry (R), Demolitions (R), Electronic Warfare (R), First Aid, Hardware, Instruction, Language, Lockpicking (R), Mechanic, Medicine (R), Melee (as Targeting for a melee weapon), Navigation, Performance, Professional Knowledge. Personality: Avail 4, 100¥. Linguistics: Avail 4, 50¥ (limited verbal commands, not translation). Anthropomorphic drones include two arms and two legs; Physical CM = 8 + Body/2.
+Pilots R1-6: Avail 4/-/8R/12R/16F/24F, Cost 100/400/1,800/3,200/10,000/20,000-. Autosoft: Rating x2 Avail, Rating x500¥. Smartsoft is Restricted R3; Group is R2. Skillsets: Academic Knowledge, Chemistry R, Demolitions R, Electronic Warfare R, First Aid, Hardware, Instruction, Language, Lockpicking R, Mechanic, Medicine R, Melee, Navigation, Performance, Professional Knowledge. Personality: Avail 4, 100¥. Linguistics: Avail 4, 50¥, limited commands not translation. Anthropomorphic drones include two arms and legs, Physical CM = 8 + Body/2.
 
 ### Drone catalog
 
@@ -396,7 +392,7 @@ Remote Cyberhand: Essence 0.25, Capacity (5), Availability 8, 8,000¥.
 | Aztechnology Crawler | 4 | 3 | 1 | 3 | 3 | 4 | 3 | 4 | 4,000¥ | Handles stairs/obstacles. Remote snooper for rough rural/urban terrain. Pilot a step above most of its class. |
 | Lockheed Optic-X2 | 4 | 4 | 3 | 2 | 2 | 3 | 3 | 10 | 21,000¥ | Signature-limiting stealth. VSTOL stealth. Wings folded: cyberdeck-sized; deployed: large hawk / bird of prey. Radar systems and visual/audio Perception Tests: -3 dice pool to spot. |
 | Ares Arms Sentry V | 4/- | 1G | 1 | 2(0) | 6 | 3 | 2 | 4R | 4,000¥ | Standard weapon mount; Colt Cobra TZ-120; 30 standard ammo; Targeting (3); SmartSoft. Rail-drone: hangs from facility rails; traverses facility via high wall doggie doors. Draws power and accepts commands via rail (impervious to wireless hijack; secondary dedicated power keeps it up in facility blackouts). See Mercury for unarmed rail courier sibling. |
-| Ares Arms Mercury | 4/- | 1G | 1 | 2(0) | 6 | 3 | 2 | 4R | 4,000¥ (same chassis price as Sentry unless GM prices courier lower) | None of the Sentry combat load (no weapon mount / Cobra / Targeting / SmartSoft). Same rail interface and power feed. Unarmed rail courier / mobile mailbox on the Sentry rail system. Mid-60s Ares add-on; in 90%+ of Ares facilities per R5. On active hostiles: Mercuries store themselves clear of rails so Sentries can deploy. Same Handl/Speed/Accel/Body/Armor/Pilot/Sensor as Sentry V chassis; combat gear stripped. |
+| Ares Arms Mercury | 4/- | 1G | 1 | 2(0) | 6 | 3 | 2 | 4R | 4,000¥ (same chassis price as Sentry unless GM prices courier lower) | None of the Sentry combat load (no weapon mount / Cobra / Targeting / SmartSoft). Same rail interface and power feed.. Unarmed rail courier / mobile mailbox on the Sentry rail system. Mid-60s Ares add-on; in 90%+ of Ares facilities per R5. On active hostiles: Mercuries store themselves clear of rails so Sentries can deploy. Same Handl/Speed/Accel/Body/Armor/Pilot/Sensor as Sentry V chassis; combat gear stripped. |
 | Citron-Brouillard Smoke Generator | 3 | 1G | 1 | 2(0) | 0 | 2 | 2 | 8 | 4,000¥ | Smoke generator: 12 one-minute doses normal smoke + 3 one-minute doses thermal (IR-blocking) smoke. Tracked. Stationary: billowing screen ~150 m diameter. Rolling: trail ~100 m wide × 250 m long. Cloud ~10 m high. Begins dissipating 1 minute after shutoff (becomes light cloud); fully gone 1 minute later. Other gases fit tank but not at proprietary smoke volume. |
 | Cyberspace Designs Wolfhound | 3 | 2J | 1 | 2(1) | 0 | 2 | 4 | 12 | 30,000¥ | Recon: high sensors + speed over durability/arms. Only drone of its size to break sound barrier; usually stays subsonic to conceal location. |
 | Evo Proletarian | 4/2 | 2G | 1 | 2(1) | 0 | 2 | 2 | 6 | 4,000¥ | Drone arm (STR 4, AGI 2); Automotive Mechanic Toolkit; Automotive Mechanic (2) autosoft. Three-wheeled mechanic assistant (dents, tires, oil, tools, schematics display, undercarriage watch, speakers). Many repair/construction/butler autosofts available. |
@@ -406,13 +402,7 @@ Remote Cyberhand: Essence 0.25, Capacity (5), Availability 8, 8,000¥.
 | Knight Errant P5 Pursuit Drone | 4/2 | 6G | 2 | 2(1) | 0 | 3 | 2 | 10R | 8,000¥ | Limpet pursuit drone from KE cruisers. Top speed: batteries last 10 minutes. Magnetically attaches to pursued vehicle undercarriage; KE tracks wireless signal. Broadcast uses second battery (~24 hour life). |
 | Lone Star Castle Guard | 4/2 | 1G | 1 | 2(0) | 6 | 3 | 2 | 8R | 10,000¥ | Light weapon mount; Targeting (3); Smartsoft; four SmartSafety bracelets. Home-security pistol-armed drone (CAS common). Extra SmartSafety bracelets/pet collars: 50¥ each. CAS tooling differs from metric (repair kit note). |
 | Mitsuhama Gun Turret | - | - | - | 2(0) | 6 | 3 | 2 | 4R | 4,000¥ | Standard weapon mount. Standard Downgrade: Immobile. Rotates only; cheap Zero-Zone staple. Common variants: Retractable or Up-Armored; some take larger mount. |
-| MCT Seven Wheelie | 4/2 | 2G | 1 | 1(3) | 0 | 1 | 1 | - | 2,000¥ | Fragile (1). Wheeled chassis pack. |
-| MCT Seven Treads | 3 | 2G | 1 | 1(3) | 0 | 1 | 1 | 2 | 2,000¥ | Fragile (1). Tracked chassis. |
-| MCT Seven Dirty | 2/4 | 2G | 1 | 1(3) | 0 | 1 | 1 | 2 | 2,000¥ | Fragile (1). Off-road suspension chassis. |
-| MCT Seven Quad | 4 | 1G | 1 | 1(3) | 0 | 1 | 1 | 4 | 2,000¥ | Fragile (1). Four-legged walker chassis. |
-| MCT Seven Swims | 3 | 2W | 1 | 1(3) | 0 | 1 | 1 | 4 | 1,000¥ | Fragile (1). Surface-aquatic chassis. |
-| MCT Seven Hovers | 4 | 1P | 1 | 1(3) | 0 | 1 | 1 | 6 | 4,000¥ | Fragile (1). Quad-copter chassis. |
-| MCT Seven Soars | 3 | 2J | 1 | 1(3) | 0 | 1 | 1 | 8 | 4,000¥ | Fragile (1). Traditional flyer chassis. |
+| Mitsuhama Seven (compiled base row) | 4 | 1P | 1 | 1(1) | 0 | 2 | 3 | 4 | 3,000¥ | Fragile (1) per chapter. Master-chart "Seven" line. Chapter sells locomotion packs (Wheelie/Treads/Dirty/Quad/Swims/Hovers/Soars) with different stats. Prefer the chassis row for the purchased pack; keep this row when citing compiled tables literally. |
 | NeoNET Prairie Dog | 2/4 | 2G | 1 | 2(0) | 3 | 3 | 4 | 12F | 8,000¥ | Electronic Warfare (3) autosoft; directional jammer (4); area jammer (6). Decommissioned PCC military ECM/jamming infantry drone. Large off-road wheels; keeps pace with dismounted infantry. Demilitarized civilian version still antenna-heavy. |
 | Pratt & Whitney Sundowner | 3 | 4P | 1 | 2(0) | 0 | 2 | 2 | 8 | 10,000¥ | Aerial chemical sprayer: 10 doses; each covers line 125 m long × 25 m wide × 10 m high; large spray doses cost 10× normal dose cost. Low-speed agricultural spray / skywriting aircraft. |
 | Proteus A.G. "Krake" | 5 | 3W | 4 | 2(0) | 2 | 4 | 3 | 18F | 10,000¥ | Plasma torch; specialized weapon (ink pouch); Nautical Mechanic toolkit; weapon mount. Squid-form; six tentacles for propulsion/agility. One tentacle: plasma torch + multitool (touch range only; useless in combat). Optional security retrofit: micro-torpedo cluster + ink pouch. INK: cloud of ink + metal-flake chafe; obscures vision (even electronic) in 5 m radius; Heavy Smoke penalty for attacks through cloud. Micro-torpedo warheads bought separately (see next entry); not in Krake base cost. |
@@ -451,7 +441,6 @@ Remote Cyberhand: Essence 0.25, Capacity (5), Availability 8, 8,000¥.
 | GTS Tower | 2 | 1P | 1 | 4(0) | 6 | 2 | 2 | 8 | 10,000¥ | Drone rack (4). LtA retrans + airbase for up to 4 minidrones or 8 microdrones. |
 | Saeder-Krupp Mk-17D Neptune | 2 | 3W | 1 | 5(0) | 3 | 4 | 3 | 10R | 17,500¥ | Submersible; Searchlight. Fits standard torpedo tube. Fully submersible to 1 km. Advanced Pilot for autonomous deep ops (radio hard underwater); surfaces at designated times/places for data transfer. |
 | Mitsuhama Malakim | 3 | 6P | 2 | 4(0) | 9 | 4 | 4 | 20F | 40,000¥ | Standard weapon mount; area jammer (6); directional jammer (6); Targeting (4). GOD response quad-copter; non-lethal focus + jamming; works with Dove spotters. |
-| Aeroquip Dustoff | 3 | 4 | 4 | 4 | 5 | 4 | 3 | 10R | 12,000¥ | Unverified B&B reprint (no local PDF). Valkyrie patient bay; Improved Takeoff and Landing 2; rigger adaptation. R5 points to *Bullets & Bandages*; used as medical VTOL / cramped personal helo hack. |
 
 ### Huge drones
 
