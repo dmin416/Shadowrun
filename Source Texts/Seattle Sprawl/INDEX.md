@@ -3,6 +3,8 @@
 District / locale guide. PDF: `Source/PDF/seattlesprawl.pdf` (90 pages).
 Cover/title pages PDF idx 0-1 are image-only.
 
+**Campaign cheat sheet:** [Seattle Sprawl Condensed](Seattle%20Sprawl%20Condensed.md) (metroplex overview + all districts + crime leadership).
+
 Source Texts extracted via `Source/_extract/extract_seattle_sprawl.py` (pymupdf).
 Formatting: `format_seattle_sprawl_headings.py` + `format_seattle_sprawl_full.py` (paragraph reflow, JackPoint comments, At a Glance tables, subheads).
 

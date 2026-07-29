@@ -4,6 +4,8 @@ Extra weapons catalog (dual-statted SR5 / SR4A).
 
 **PDF:** `Source/PDF/Shadowrun_5E_Gun_H(e)aven_3.pdf` (38 pages; print page ≈ PDF index + 1)
 
+**Condensed (mechanics + items + story pointers):** [Gun Heaven Condensed](Gun%20Heaven%20Condensed.md)
+
 Source Texts extracted via `Source/_extract/extract_gun_heaven_3.py` (pymupdf).
 Formatting: `Source/_extract/format_gun_heaven_3.py`.
 

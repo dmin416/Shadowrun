@@ -13,6 +13,8 @@ Advanced Matrix rules after Data Trails.
 
 **Status:** all 16 chapters converted; landmark + JackPoint sweep PASS (`Source/_extract/killcode_sweep_report.md`). Ch13 JP handle order fixed in that pass.
 
+**Condensed (mechanics + gear + pointers):** [Kill Code Condensed](Kill%20Code%20Condensed.md)
+
 ## Sections
 
 | # | Chapter | Print pages (approx) |

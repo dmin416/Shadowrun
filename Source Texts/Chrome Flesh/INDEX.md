@@ -4,6 +4,8 @@ Augmentation catalog and rules (cyber, bio, gene, nano).
 
 **PDF:** `Source/PDF/chromeflesh.pdf` (242 pages; print page ≈ PDF index for body)
 
+**Condensed (mechanics + items + story pointers):** [Chrome Flesh Condensed](Chrome%20Flesh%20Condensed.md)
+
 **Pipeline:** extract → format → loss-check → done-check
 **QA:** `Source/_extract/qa_chrome_flesh.py` → `chrome_flesh_qa_report.md` (PASS)
 **Polish:** `Source/_extract/polish_six_books.py` (Chrome Flesh included)

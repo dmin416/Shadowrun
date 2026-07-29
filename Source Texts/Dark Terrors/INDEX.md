@@ -7,6 +7,8 @@ CFD-era horror / threats plot book.
 Source Texts extracted via `Source/_extract/extract_dark_terrors.py` (pymupdf).
 Formatting: `Source/_extract/format_dark_terrors.py`.
 
+**Condensed (mechanics + items + one-line hooks):** [Dark Terrors Condensed](Dark%20Terrors%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |

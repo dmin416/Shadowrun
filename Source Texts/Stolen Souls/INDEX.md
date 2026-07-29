@@ -7,6 +7,8 @@ CFD metaplot opener: extractions and Manhattan.
 **Formatter:** `Source/_extract/format_stolen_souls.py`
 **QA:** `Source/_extract/qa_stolen_souls.py`
 
+**Condensed (mechanics + items + story pointers):** [Stolen Souls Condensed](Stolen%20Souls%20Condensed.md)
+
 ## Sections
 
 1. [Shadowrun: Stolen Souls](01%20-%20Shadowrun%20Stolen%20Souls.md) (PDF pp. 1-3)

@@ -5,6 +5,8 @@ Medical / combat support gear and rules. PDF: `Source/PDF/Shadowrun_5E_Bullets_&
 Source Texts extracted via `Source/_extract/extract_bullets_bandages.py` (pymupdf).
 Formatting: `Source/_extract/format_bullets_bandages.py`.
 
+**Condensed (mechanics + items + one-line hooks):** [Bullets and Bandages Condensed](Bullets%20and%20Bandages%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |

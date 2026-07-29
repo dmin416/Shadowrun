@@ -4,6 +4,8 @@ Core Matrix expansion for deckers and technomancers.
 
 **PDF:** `Source/PDF/datatrails.pdf` (186 pages)
 
+**Condensed (mechanics + items + story pointers):** [Data Trails Condensed](Data%20Trails%20Condensed.md)
+
 ## Workflow (per chapter)
 
 1. **Convert:** dense LLM-reference markdown from PDF

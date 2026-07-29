@@ -4,6 +4,8 @@ Vehicles, drones, and rigger rules expansion. PDF: `Source/PDF/rigger5.pdf` (194
 
 Extractor: `Source/_extract/extract_rigger5.py`. Formatter: `Source/_extract/format_rigger5.py`.
 
+[Condensed reference](Rigger%205%20Condensed.md): Mechanics, equipment tables, modification procedures, and advanced driving rules.
+
 ## Sections
 
 | # | File | PDF idx |

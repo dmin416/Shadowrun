@@ -8,6 +8,8 @@ Source Texts extracted via `Source/_extract/extract_run_and_gun.py` (pymupdf).
 
 **Pipeline (every chapter):** extract → format → loss-check → done-check
 
+**Condensed (mechanics + items + story pointers):** [Run and Gun Condensed](Run%20and%20Gun%20Condensed.md)
+
 ## Chapters
 
 | # | File | PDF idx |

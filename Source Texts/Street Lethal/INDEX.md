@@ -4,6 +4,8 @@ Advanced combat expansion after Run & Gun. PDF: `Source/PDF/streetlethal.pdf` (2
 
 Extractor: `Source/_extract/extract_streetlethal.py`. Formatter: `Source/_extract/format_streetlethal.py`.
 
+**Condensed (mechanics + items + story pointers):** [Street Lethal Condensed](Street%20Lethal%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |

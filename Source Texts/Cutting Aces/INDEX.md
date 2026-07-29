@@ -21,6 +21,8 @@ Cons and social runs; Constantinople.
 10. [Gats and Glad Rags](10%20-%20Gats%20and%20Glad%20Rags.md) (PDF pp. 133-156)
 11. [The Grifting Bible](11%20-%20The%20Grifting%20Bible.md) (PDF pp. 157-170)
 
+**Condensed (mechanics + items + story pointers):** [Cutting Aces Condensed](Cutting%20Aces%20Condensed.md)
+
 ## Pipeline status
 
 - [x] Extract (all 11 chapters + INDEX)

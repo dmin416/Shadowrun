@@ -26,6 +26,8 @@ Sixth World Tarot campaign book: plot hooks and adventure seeds.
 15. [Power of the Cards](15%20-%20Power%20of%20the%20Cards.md) (PDF pp. 109-120)
 16. [Character Trove](16%20-%20Character%20Trove.md) (PDF pp. 121-138)
 
+**Condensed (mechanics + boons + pointers):** [Book of the Lost Condensed](Book%20of%20the%20Lost%20Condensed.md)
+
 ## Pipeline status
 
 - [x] Extract (all 16 chapters + INDEX)

@@ -13,6 +13,8 @@ Wetwork primer: who becomes an assassin, codes of honor, skills, gear, advice, a
 
 **Status:** all 7 chapters converted; landmark sweep PASS (`Source/_extract/assassins_primer_sweep_report.md`).
 
+**Condensed (mechanics + gear + pointers):** [Assassin's Primer Condensed](Assassin's%20Primer%20Condensed.md)
+
 ## Sections
 
 | # | Chapter | Print pages (approx) |

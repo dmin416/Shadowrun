@@ -4,6 +4,8 @@ Extra spells, adept powers, rituals, traditions, magic societies, and astral thr
 
 **PDF:** `Source/PDF/shadow-spells-pdf.pdf` (24 pages, fitz 0-23)
 
+**Condensed (mechanics + items + story pointers):** [Shadow Spells Condensed](Shadow%20Spells%20Condensed.md)
+
 ## Workflow (per chapter)
 
 1. **Convert:** dense LLM-reference markdown from PDF

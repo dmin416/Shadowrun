@@ -4,6 +4,8 @@ Advanced / weird magic options. PDF: `Source/PDF/forbiddenarcana.pdf` (218 pages
 
 Extractor: `Source/_extract/extract_forbiddenarcana.py`. Formatter: `Source/_extract/format_forbiddenarcana.py`.
 
+**Condensed (mechanics + story pointers):** [Forbidden Arcana Condensed](Forbidden%20Arcana%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |

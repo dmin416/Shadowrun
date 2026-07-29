@@ -4,6 +4,8 @@ Denver Adventure 1 (start of the Denver trilogy). PDF: `Source/PDF/serratededge.
 
 Source Texts extracted via `Source/_extract/extract_serrated_edge.py` (pypdf). Formatting pass: `Source/_extract/format_serrated_edge.py`. Image-only pages may have little or no text.
 
+**Condensed (mechanics + items + pointers):** [Serrated Edge Condensed](Serrated%20Edge%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |

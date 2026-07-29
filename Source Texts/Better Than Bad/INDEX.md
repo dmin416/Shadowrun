@@ -28,6 +28,8 @@ JackPoint is print/PDF idx 4 (outline TOC listed it as 5).
 | 11 | [Building a Hooder](11%20-%20Building%20a%20Hooder.md) | 156-164 |
 | 12 | [Hooder Runs](12%20-%20Hooder%20Runs.md) | 165-168 |
 
+**Condensed (mechanics + items + one-line hooks):** [Better Than Bad Condensed](Better%20Than%20Bad%20Condensed.md)
+
 ## Pipeline status
 
 - [x] Extract

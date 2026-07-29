@@ -24,6 +24,8 @@ Formatting: `Source/_extract/format_complete_trog.py`.
 | 12 | [United We Stomp](12%20-%20United%20We%20Stomp.md) | 164-183 |
 | 13 | [Everything Trog](13%20-%20Everything%20Trog.md) | 184-193 |
 
+**Condensed (mechanics + items + one-line hooks):** [Complete Trog Condensed](Complete%20Trog%20Condensed.md)
+
 ## Pipeline status
 
 - [x] Extract

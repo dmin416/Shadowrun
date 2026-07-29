@@ -4,6 +4,8 @@ Core rules for SR5. Start here.
 
 **PDF:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` (505 pages).
 
+**Condensed (mechanics + items + story pointers):** [Core Rulebook Condensed](Core%20Rulebook%20Condensed.md)
+
 ## Sections
 
 1. [Credits](01%20-%20Credits.md)

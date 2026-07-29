@@ -8,6 +8,8 @@ Big Ten megacorp campaign book during CFD-era fallout.
 **Formatter:** `Source/_extract/format_market_panic.py`
 **QA:** `Source/_extract/qa_market_panic.py`
 
+**Condensed (mechanics + story pointers):** [Market Panic Condensed](Market%20Panic%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |

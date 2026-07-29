@@ -18,6 +18,8 @@ Formatting: `Source/_extract/format_aetherology.py`.
 | 05 | [Greater Beings in Astral Space](05%20-%20Greater%20Beings%20in%20Astral%20Space.md) | 28-31 |
 | 06 | [Rules](06%20-%20Rules.md) | 31-38 |
 
+**Condensed (mechanics + items + one-line hooks):** [Aetherology Condensed](Aetherology%20Condensed.md)
+
 Note: print pages 29 and 32 (PDF idx 28 and 31) are mid-page splits for **Greater Beings in Astral Space** and **Rules**.
 
 ## Pipeline status

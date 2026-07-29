@@ -25,6 +25,8 @@ Boston quarantine / CFD plot sourcebook.
 14. [Familiar Faces](14%20-%20Familiar%20Faces.md) (PDF pp. 229-236)
 15. [Special Thanks](15%20-%20Special%20Thanks.md) (PDF pp. 237-242)
 
+**Condensed (mechanics + items + one-line hooks):** [Lockdown Condensed](Lockdown%20Condensed.md)
+
 ## Pipeline status
 
 - [x] Extract (all 15 chapters + INDEX)

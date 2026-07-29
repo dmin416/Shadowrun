@@ -4,6 +4,8 @@ Critters, paracritters, and animal threats. PDF: `Source/PDF/howlingshadows.pdf`
 
 Extractor: `Source/_extract/extract_howlingshadows.py`. Formatter: `Source/_extract/format_howlingshadows.py`.
 
+**Condensed (Ch. 09-17 mechanics + critters + story pointers):** [Howling Shadows Condensed](Howling%20Shadows%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |

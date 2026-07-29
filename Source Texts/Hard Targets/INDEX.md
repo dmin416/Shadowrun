@@ -6,6 +6,8 @@ PDF: `Source/PDF/Shadowrun_5E_Hard_Targets.pdf` (208 pages). Cover/blank PDF idx
 Source Texts extracted via `Source/_extract/extract_hard_targets.py` (pymupdf).
 Formatting: `Source/_extract/format_hard_targets.py`.
 
+**Condensed (mechanics + items + story pointers):** [Hard Targets Condensed](Hard%20Targets%20Condensed.md)
+
 ## Sections
 
 | # | File | PDF idx |
