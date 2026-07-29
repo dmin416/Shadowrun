@@ -97,7 +97,7 @@ This is the Sixth World: dark, magical, mercenary. People burn hot, bond fast un
 **Why it moves fast:** shared danger, post-run adrenaline, found-family intensity, Elma already spent a year emotionally close to him, and none of these women are shy about wanting what they want once they trust him.
 
 ### Phase 0 -- Before sex
-**~1 year with Elma (amnesia care)** already done. Emotional intimacy banked. Kiss / memory at ~18.
+**~1.5 years with Elma (amnesia care)** already done -- early Year 17 arrival (Alpha 16) through kiss at ~18. Emotional intimacy banked.
 
 ### Phase 1 -- First sex (Elma)
 **Days to ~2 weeks** of being lovers (Act 1 road / first safe beds)
@@ -194,7 +194,7 @@ Do not write this as early-game default. It arrives **later**, after bond and sh
 - **Aftercare:** loves it openly -- soft hold, praise, closeness, gentle piercing care; often half the point
 
 ### Cassiandra (Cass)
-- **Who she is:** young female western dragon; team medic/doctor; rebel who walked away from what dragons are supposed to be (see `Alpha team development age18 v1.md`)
+- **Who she is:** female western dragon, age ~250 (young by dragon standards); team medic/doctor; rebel who walked away from what dragons are supposed to be (see `Alpha team development age18 v1.md`)
 - **How she joins:** assassination target. Finds a match in Alpha during the hit. Forces herself onto the group afterward because she is interested in him
 - **Public face:** rebel (with Elma) -- healer hands, careful touch, human form that reads as impossibly strong metahuman when she holds back
 - **With Alpha:** lover; attracted to his character and otherworldly pull; as he enhances his physique he can give her the pressure she needs. Interest starts at the assassination collision, not as a soft slow burn from hired medic to crush

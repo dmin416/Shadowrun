@@ -8,11 +8,11 @@ Now I have what I need. The adult dragon stat block is the ceiling we scale down
 
 Adult dragon baseline for reference: Body 17-18, Agility 7-9, Magic 10, Sorcery 14, Unarmed 12, Hardened Armor equal to Body. A young dragon starts well below this and grows toward it over three years of active running alongside the team.
 
-Elma is adjusted to early-to-mid twenties, experienced runner but not a career veteran.
+Elma is the same age as Alpha (18) -- young runner with real skill, not a career veteran. Bee is a few years older (~21), the senior of the early trio.
 
 ---
 
-## ELMA — Decker / Combat Specialist, Age ~21
+## ELMA — Decker / Combat Specialist, Age 18
 
 **Starting**
 Hacking 6, Logic 5 → **11 dice**
@@ -77,7 +77,7 @@ Street Cred ~**85**
 
 ---
 
-## BEE — Rigger, Age ~24
+## BEE — Rigger, Age ~21
 
 Drone command, RCC, and the machine network. Face skills stay useful secondary tools; she is the team's rigger first.
 
@@ -111,15 +111,15 @@ Street Cred ~**80**
 
 ---
 
-## CASSIANDRA (CASS) — Young Female Western Dragon, Rebel Medic, Maturing Rapidly
+## CASSIANDRA (CASS) — Female Western Dragon, Age ~250, Rebel Medic, Maturing Rapidly
 
-**Cassiandra**, **Cass** for short. A dragon rebel — walked away from what dragons are supposed to be, the same way Elma walked away from court and Alpha walked away from the circle. Team medic / doctor by calling and practice; the hands that set a bone are the same hands that could crush a car door. Her strength is unparalleled next to any non-dragon on the team. In human form it reads as “impossibly strong metahuman” if she holds back. When she doesn’t, the comparison stops being useful.
+**Cassiandra**, **Cass** for short. About **250 years old** -- young by dragon standards (late hatchling / early adolescent; adulthood is still centuries out under normal pacing). A dragon rebel — walked away from what dragons are supposed to be, the same way Elma walked away from court and Alpha walked away from the circle. Team medic / doctor by calling and practice; the hands that set a bone are the same hands that could crush a car door. Her strength is unparalleled next to any non-dragon on the team. In human form it reads as “impossibly strong metahuman” if she holds back. When she doesn’t, the comparison stops being useful.
 
 **How she joins:** **Really far out.** Long after Dom is already crew. The team is on (or entangled in) an **assassination mission** with Cass as the target. She survives the hit. In the middle of that violence she finds a match in Alpha -- something that finally feels peer-scale -- and becomes interested in him. She then **forces herself onto the group**: medic seat claimed; she stays because she chose them / him. Not a soft recruit. Not Alpha saving her into gratitude. Not on Dom's introduction job.
 
-The adult western dragon stat block sits at Body 18, Agility 7, Reaction 8, Strength 40, Magic 10, Sorcery 14, Unarmed 12, Hardened Armor 18. Cass is scaled down from this, growing toward it across three years of active engagement with the world — which for a dragon is an extraordinarily compressed timeline. Dragons do not normally mature this fast. Running alongside this team and absorbing real conflict is accelerating something that should take decades.
+The adult western dragon stat block sits at Body 18, Agility 7, Reaction 8, Strength 40, Magic 10, Sorcery 14, Unarmed 12, Hardened Armor 18. Cass is scaled down from this, growing toward it across three years of active engagement with the world — which for a dragon is an extraordinarily compressed timeline. Dragons do not normally mature this fast. Running alongside this team and absorbing real conflict is accelerating something that should take centuries.
 
-**Starting (juvenile, rough equivalent ~300 Karma)**
+**Starting (~250, young/juvenile scale, rough equivalent ~300 Karma)**
 Body 10, Agility 5, Reaction 6, Strength ~20, Magic 6
 Sorcery 7 + Magic 6 → **13 dice**
 Unarmed 7 + Agility 5 → **12 dice** plus natural weapon damage
