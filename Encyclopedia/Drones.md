@@ -2,9 +2,8 @@
 
 Agent reference (SR5). Structured field blocks for LLM parsing. Mechanical detail only.
 
-**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `Source/PDF/rigger5.pdf`
-**Books:** Core (Street Gear Vehicles and Drones) · Rigger 5.0 (The Automated Army / Drone Catalog + compiled tables) · Bullets & Bandages\* (Dustoff only)
-\*No local Bullets & Bandages PDF. Dustoff stats marked unverified (secondary reprint).
+**Src PDFs:** Core · `rigger5.pdf` · `Shadowrun_5E_Bullets_&_Bandages.pdf` · `Shadowrun_5E_Hard_Targets.pdf` · `Shadowrun_5E_Cutting_Aces.pdf` · `howlingshadows.pdf`
+**Books:** Core · Rigger 5.0 · B&B · HT · CA · HS (biodrones)
 **See also:** `Encyclopedia/Vehicles.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Rigging Basics.md` · `Mechanics/Vehicles.md`
 **Out of scope here:** RCC models (Rigger Gear); full vehicle-mod slot system for cars (Vehicle and Drone Modifications / R5 Building the Perfect Beast); smart firing platform (Weapon Accessories; drone-like Pilot but not a drone SKU).
 
@@ -759,21 +758,55 @@ Agent reference (SR5). Structured field blocks for LLM parsing. Mechanical detai
 - Avail: 8 | Cost: 4,000¥
 - Std upgrades/downgrades: Fragile (1)
 - Rules: Traditional flyer Seven chassis.
-## CROSS-BOOK POINTERS (no local PDF stats)
+## Bullets & Bandages / Hard Targets / Cutting Aces / Howling Shadows drones
+
 ### Aeroquip M.E.D.-1 "Dustoff"
 - Size: Large
-- Src: R5 p.141 (points to Bullets & Bandages). Stats below from secondary B&B reprint (World Anvil / community). **No local `Source/PDF` for Bullets & Bandages - treat as unverified until PDF-checked.** Not on R5 compiled drone table (no Body X(Y) conversion printed).
+- Src: B&B (also pointed from R5 p.141). **Verified from** `Shadowrun_5E_Bullets_&_Bandages.pdf`.
 - Skill: Pilot Aircraft (VTOL)
 - Handl: 3 | Speed: 4 | Accel: 4
-- Body: 4 | Armor: 5 | Pilot: 4 | Sensor: 3 | Seats: patient bay (Valkyrie; exact seat count not in reprint used)
+- Body: 4 | Armor: 5 | Pilot: 4 | Sensor: 3 | Seats: patient bay (Valkyrie)
 - Avail: 10R | Cost: 12,000¥
-- Std upgrades/downgrades: Armoured patient compartment (treat as enhanced rigger cocoon without control interfaces); Improved Takeoff and Landing 2; Rigger Adaptation; Valkyrie module in patient compartment
-- Rules: VTOL medical evacuation drone (military + civilian armed responders). DocWagon uses when SRT finds unexpected critical client. Large profile = easy target especially on takeoff/landing. R5 sidebar: runners mod as cramped personal helicopter (~motorcycle cost historically); prices rose after that hack spread. Confirm all numbers against Bullets & Bandages PDF when available.
+- Std: Armoured patient compartment; Improved Takeoff and Landing 2; Rigger Adaptation; Valkyrie module
+- Rules: VTOL medevac; large profile = easy target on takeoff/landing.
+
+### Shiawase Caduceus "CAD" 7
+- Size: Medium anthroform autodoc
+- Src: B&B
+- Handl: 4 | Speed: 2 | Accel: 1 | Body: 5 | Armor: 3 | Pilot: 2 | Sensor: 1
+- Avail: 12R | Cost: 16,500¥
+- Rules: R4 autodoc; 2× Snake Finger arms; Medkit 4 built-in; walker.
+
+### Hard Targets drones
+| Name | Size | Hand | Accel | Speed | Pilot | Bod | Arm | Sens | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ammo Drone | Small | 2 | 2 | 2 | 3 | 2 | 4 | 2 | 5 | 3,000¥ | Holds 6 pistol / 4 SMG+ / 1 drum clips. Autosoft Handling 2. |
+| Reloading Drone | Medium | 4 | 2 | 3 | 3 | 3 | 4 | 2 | 6R | 4,500¥ | Armorer autosoft; forbidden soft 250¥. |
+| Sparring Drone | Large | 3 | 2 | 2 | 3 | 4 | 2 | Special | 3 | 5,000¥ | Immune unarmed P; Tutor Blades/Clubs/Unarmed 1. |
+| MCT Akiyama | Medium anthro | 5 | 2 | 3 | 3 | 4 | 6 | 3 | 24F | 200,000¥ | Ruthenium −6 Perception; gecko +4 climb; STR=Body melee; Cap 8/arm cyberweapons; ≤SMG firearms. |
+
+### Cutting Aces drones
+| Name | Size | Hand | Speed | Accel | Bod | Arm | Pil | Sens | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Holo-Conference | Small | 3 | 2 | 1 | 2 | 3 | 3 | 3 | 11 | 18,000¥ | Fake holo conference participant; Perception (2) spots fake. |
+| Medusa Extensions | Mini | 1 | 0 | 0 | 1 | 0 | 1 | 1 | 7 | 600¥ | Trode tendril wearable. |
+| Microweave Spider | Mini | 4 | 1 | 1 | 1 | 0 | 4 | 2 | 11 | 18,000¥ | R4 Armorer autosoft; repairs clothing/armor. |
+
+### Howling Shadows biodrones (packages)
+| Name | Avail | Cost | Notes |
+| --- | --- | --- | --- |
+| SkySpy (crow-based) | 16R | 30,000¥ | Aerial recon; CAST/orientation goad package. |
+| Roachdrone | 14R | 25,000¥ | Tiny stealth crawler with CAST. |
+| Junkyard Dog | 20F | 225,000¥ | Guard biodrone; Armor 2 (12 w/ armor). |
+| Cybertooth Tiger | 25F | 600,000¥ | Stirrup-controlled combat predator; Armor 0 (10 w/ armor). |
+
+Full biodrone attribute/skill blocks: `Source Texts/Howling Shadows/`. Critter Body Armor 50¥/Armor point Avail 6; Critter Earphones/Goggles R1–6 Avail 3 / R×50¥; Sensor Collar Avail 2 / 200¥; Training Kit Avail 1 / 250¥ → Tools Kits and Survival / this file notes.
+
 ## Inventory checklist
-Total SKUs in this file: 74 (Core 11 + R5 catalog + Seven chassis packs + KN-Y0 x3 + Mercury + Dustoff).
+Total SKUs in this file: Core 11 + R5 catalog + B&B Dustoff/CAD-7 + HT ×4 + CA ×3 + HS biodrones ×4.
 
 Core Street Gear drones (11): Kanmushi, Microskimmer, Flying Eye, Fly-Spy, Crawler, Optic-X2, Duelist, Doberman, Roto-Drone, Dalmatian, Steel Lynx.
 
-R5 catalog: NoizQuito, Goldfish, Condor, Hedgehog, Dragonfly, Pigeon 2.0, CU^3, Gerbil, Scuttler, Sentry V, Mercury, Smoke Generator, Wolfhound, Proletarian, Ferret RPD-5X, Sewer Snake, Mini-Zep, KE P5, Castle Guard, Gun Turret, Seven (+7 chassis), Prairie Dog, Sundowner, Krake (+micro-torpedo ammo table), Bloodhound, Dove, Jardinero, Job-a-Mat, Pelican, Shamus, Cheetah, Krokodil, Kull, Tunneler, LEBD-2, Steed, Dustoff (B&B, unverified), Matilda, Mule, Paladin, MediCart, Tower, Neptune, Malakim, KN-Y0 Phobos/Deimos/Eris, Kodiak, Avenging Angel, Criado Juan, Little Buddy, Kenchiku-Kikai, Juggernaught, Direktionssekretar, i-Doll, Garuda.
+R5 catalog: NoizQuito, Goldfish, Condor, Hedgehog, Dragonfly, Pigeon 2.0, CU^3, Gerbil, Scuttler, Sentry V, Mercury, Smoke Generator, Wolfhound, Proletarian, Ferret RPD-5X, Sewer Snake, Mini-Zep, KE P5, Castle Guard, Gun Turret, Seven (+7 chassis), Prairie Dog, Sundowner, Krake (+micro-torpedo ammo table), Bloodhound, Dove, Jardinero, Job-a-Mat, Pelican, Shamus, Cheetah, Krokodil, Kull, Tunneler, LEBD-2, Steed, Dustoff (B&B, verified), CAD-7 (B&B), Matilda, Mule, Paladin, MediCart, Tower, Neptune, Malakim, KN-Y0 Phobos/Deimos/Eris, Kodiak, Avenging Angel, Criado Juan, Little Buddy, Kenchiku-Kikai, Juggernaught, Direktionssekretar, i-Doll, Garuda.
 
 R5 compiled-table coverage: every named drone row on pp.189-191 is present (Dustoff absent from that table by design; Mercury has no separate row).

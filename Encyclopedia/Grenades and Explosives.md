@@ -268,3 +268,17 @@ Skill: Demolitions. The RnG "Demolitions Supplies and Equipment" accessories tab
 | Nanoprint Scanners | RnG | 1-6 | 16F | Rating x 500¥ | Spray-on fingerprint/DNA sensors that feed an optical detonator for smart-bomb target confirmation (steering wheel, seat belt, glove compartment, etc.); biometric setups need a sample of the target's DNA |
 | Electrical (accessory) | RnG | 1-6 | 8R | Rating x 150¥ | Distinct line item from the Electrical detonator above (Detonators table); same name, different Rating band and price in the RnG accessories table - see table intro note |
 | Optical (accessory) | RnG | 1-6 | 14R | Rating x 250¥ | Distinct line item from the Optical detonator above (Detonators table); same name, different price in the RnG accessories table - see table intro note |
+
+## Kill Code Matrix grenades
+
+**Verified from:** `killcode.pdf`. Also listed under Commlinks and Electronics.
+
+| Name | Avail | Cost | Effect |
+| --- | --- | --- | --- |
+| Fuzzy Boom Boom Bunnies | 10R | 20¥ × Power (max 20) | Noise = Power (−1 per 2 m); lasts 2 CT. |
+| CoS (Cancellation of Service) | 10R | 500¥ | 5 m pulse; dumps VR; drones keep last orders; devices reboot; TMs resist 10S. |
+| Douser | (Rating × 2)F | Rating × 50¥ | Rating 1–10; 5 m; nanites reduce Firewall. |
+| DumDum | (Rating × 2)R | Rating × 50¥ | Rating 1–10; 5 m; reduces Data Processing. |
+
+**Painade (CA):** microwave-field toxin grenade Power 8 Immediate; print Avail/Cost row corrupted — rules only until a clean print is found.
+

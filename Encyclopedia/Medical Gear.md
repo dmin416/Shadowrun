@@ -8,7 +8,7 @@ Agent reference (SR5). Compact; full mechanical detail; no flavor.
 **See also:** `Encyclopedia/Drugs Toxins and Chemicals.md` · `Encyclopedia/Cyberware.md` · `Encyclopedia/Nanotech and Geneware.md` · `Encyclopedia/Armor Modifications.md` · `Encyclopedia/Drones.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Tools Kits and Survival.md` · `Mechanics/Healing and Injuries.md`
 
 **Scope:** purchasable medical devices, supplies, contracts, clinical/extraction medical tools, medical drones/mods, medical nanoware, and medical cyber installs that are first-aid / monitoring / clinic systems.
-**Not here:** street drugs/toxins as combat consumables (except saline + liquid nutrients as Houdini medical feeds); street-doc setting essays (CF 33-40, no shop SKUs); Bullets & Bandages (no local PDF; Aeroquip Dustoff referenced only).
+**Not here:** street drugs/toxins as combat consumables (except saline + liquid nutrients as Houdini medical feeds); street-doc setting essays (CF 33-40, no shop SKUs). B&B biotech gear and Dustoff/CAD-7 drones are cataloged (see below / Drones.md).
 
 ## Schema
 
@@ -298,3 +298,17 @@ Medical Patches PACK (RF): 2,000¥ / 1 Karma, Avail 10 = 5x antidote (4) + 4x tr
 34. CrashCart MediCart
 35. Valkyrie module
 36. Kit / Shop / Facility (Medicine or Cybertechnology)
+
+## Bullets & Bandages biotech gear
+
+**Verified from:** `Shadowrun_5E_Bullets_&_Bandages.pdf`.
+
+| Name | Avail | Cost | Notes |
+| --- | --- | --- | --- |
+| MD-9 Autoinjection Gun | 4 | 1,000¥ | Inject as Simple; 9-dose single reservoir. |
+| MD-3X Autoinjection Gun | 6 | 1,500¥ | Inject as Simple; 3×3-dose reservoirs. |
+| Rapid Infuser | 4 | 1,000¥ | Required for HemoSynth/Cryo; any drug/toxin Speed = Instant. |
+| HemostatiX Dressing | 6 | 500¥ | First Aid+Logic (2); Progression/Overflow interval → (Body+2) CT. |
+| GE STATscan | 8 | 2,500¥ | +2 Diagnosis; cyberhand install Cap 2. |
+| PAG Suit | 6 | 500¥ | Armor 3, Cap 4; pneumatic anti-shock (see Armor Modifications). |
+

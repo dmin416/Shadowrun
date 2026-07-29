@@ -2,11 +2,11 @@
 
 Agent reference (SR5). Compact layout; full mechanical detail.
 
-**Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `runandgun.pdf` · `streetlethal.pdf`
-**Books:** Core · RnG · SL. CT has no melee SKU list; trog-sized street weapons appear on SL Krime rows.
-**See also:** `Encyclopedia/Exotic Weapons.md` (exotic ranged) · `Encyclopedia/Projectile Weapons.md` · `Encyclopedia/Weapon Accessories.md` · `Encyclopedia/Cyberware.md` (implant melee) · `Encyclopedia/Bioware.md` (natural weapons) · `Mechanics/Combat/Melee Combat.md`
+**Src PDFs:** Core · RnG · SL · `Shadowrun_5E_Hard_Targets.pdf` · `Shadowrun_5E_Cutting_Aces.pdf` · `completetrog.pdf`
+**Books:** Core · RnG · SL · HT · CA · CT (Osmium Mace + trog gear elsewhere).
+**See also:** `Encyclopedia/Exotic Weapons.md` · `Encyclopedia/Projectile Weapons.md` · `Encyclopedia/Weapon Accessories.md` · `Encyclopedia/Cyberware.md` · `Encyclopedia/Bioware.md` · `Mechanics/Combat/Melee Combat.md`
 
-**Out of scope:** cyber implant weapons; bows / thrown as primary; Hard Targets / standalone Krime Katalog (no local PDF).
+**Out of scope:** cyber implant weapons as primary catalog (see Cyberware); bows / thrown as primary (Projectile).
 
 ## Schema
 
@@ -126,3 +126,22 @@ Troll sizes only. Firearm SKU: shotgun Acc 3, DV 12P, AP −1, mode SS, RC 1, am
 | Krime Gloves (Knucks) | SL | Unarmed | Phys | 0 | (STR)P | - | 8R | 600¥ | See Shared procedures → Krime Gloves. Knucks / densiplast mode |
 | Krime Gloves (Stun Pad) | SL | Unarmed | Phys | 0 | 8S(e) | −5 | - | - | Same gloves; skullwhomper stun-palm pad mode. Stormcuff swappable battery |
 | Krime Stun Lance | SL | Exotic(Stun Lance) | 4 | 2 | 10S(e) | −5 | 9R | 900¥ | ~3 m stun baton / lance. Troll sizes only (Using Unadapted Gear, Core). Charge rules as stun baton unless battery specifics differ by table |
+
+## Hard Targets / Cutting Aces / Complete Trog melee
+
+**Verified from:** HT Wetwork Toolkit; CA Gats and Glad Rags; CT Everything Trog.
+
+| Name | Src | Skill | Acc | Reach | DV | AP | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Plasteel Toe Boots | HT | Unarmed | Phys | 0 | (STR+1)P | - | 2 | 200¥ | Kick weapon; +1 auditory Perception vs wearer. |
+| Sapphire Knife | HT | Blades | 5 | 0 | (STR+2)P | −3 | 6R | 900¥ | Crit glitch shatters blade; MAD-invisible. |
+| Ceramic/Plasteel Knife | HT | Blades | 5 | 0 | (STR+1)P | −1 | 4 | 75¥ | MAD-invisible. |
+| Victorinox Collapsible Hatchet | HT | Blades | 5 | 1 | (STR+2)P | −1 | 4 | 250¥ | Fold Simple (wireless Free). |
+| Cougar Collapsed Spear | HT | Blades | 5 | 0 | (STR+1)P | −1 | 14R | 1,250¥ | Collapsed form = fixed-blade knife. |
+| Cougar Extended Spear | HT | Blades | 5 | 3 | (STR+3)P | −2 | - | - | Same SKU extended; Standard to extend (wireless Free); throwable. |
+| Collapsible Scythe | HT | Blades | 5 | 2 | (STR+2)P | −2 | 16R | 2,350¥ | Collapse/extend Complex (wireless Simple); collapsed Conceal 0. |
+| Belgrave Sword Cane | CA | Blades | 5 | 1 | (STR+3)P | −2 | 8 | 450¥ | Whole cane Conceal +0; true nature −6. |
+| Lapel Dagger | CA | Blades | 4 | 0 | (STR+1)P | −1 | 5 | 100¥ | Non-metallic; Conceal −4; MAD-invisible. |
+| Sap Cap | CA | Clubs | 4 | 0 | (STR+2)P | - | 4 | 120¥ | Looks like ball cap; Perception (3) to ID. |
+| Osmium Mace | CT | Clubs | 4* | 2 | (STR+4)P* | −1 | 14R | 5,500¥ | *Acc 3 / DV (STR+2)P if STR ≤ 4; Acc 5 / DV (STR+6)P if STR ≥ 7. Dense osmium core. |
+

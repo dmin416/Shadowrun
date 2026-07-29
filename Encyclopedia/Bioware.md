@@ -2,7 +2,7 @@
 
 **Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · **[CF](../Source%20Texts/Chrome%20Flesh/INDEX.md)** · Hard Targets\*
 
-\*No Hard Targets PDF in `Source/PDF` - HT section unverified.
+\*Hard Targets gear verified from `Shadowrun_5E_Hard_Targets.pdf`.
 
 **Verified from:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`, `chromeflesh.pdf` (not web / Chummer).
 
@@ -194,7 +194,7 @@ Default skill: **Unarmed Combat** (Natural Weapons) unless noted. Prices are typ
 | Stinger (tiny / med / large) | 0.05 / 0.1 / 0.2 | 8 / 8R / 12F | 250 / 2,000 / 8,000¥ | Injector stinger sizes. |
 | Striking Callus | 0.05 | 2 | 250¥ | Unarmed becomes **(STR)P**. |
 | Tusk (S / M / L) | - / 0.1 / 0.2 | 2 / 4 / 8R | 100 / 500 / 1,000¥ | Cosmetic / gore options. |
-| Bone Spike (HT)\* | 0.2 | 14F | 20,000¥ | \*Unverified - no HT PDF. Variants by Bone Density Rating. |
+| Bone Spur / Biospike (HT) | 0.2 | 14F | 20,000¥ | See Hard Targets bioware section. |
 
 ---
 
@@ -217,13 +217,15 @@ Living passengers - distinct from Core bloodstream **Symbiotes**.
 
 ---
 
-## Hard Targets - UNVERIFIED (no local PDF)
+## Hard Targets bioware
+
+**Verified from:** `Shadowrun_5E_Hard_Targets.pdf`.
 
 | Name | Essence | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- |
-| Bilateral Coordination Co-processor | 0.2 | 6 | 4,500¥ | Pending HT PDF. |
-| Spur Pocket | 0.1 | 6 | 8,000¥ | Pending HT PDF. |
-| Bone Spike | 0.2 | 14F | 20,000¥ | Pending HT PDF; Density-dependent variants. |
+| Bilateral Coordination Co-Processor | 0.2 | 6 | 4,500¥ | Negates 2 off-hand penalty. |
+| Spur Pocket | 0.1 | 6 | 8,000¥ | Without pocket: 2P unresisted on extrude. |
+| Bone Spur (Biospike) | 0.2 | 14F | 20,000¥ | Cultured. (STR+2)P; Conceal −10; organic/MAD-safe; +1 DV per 2 Bone Density Rating. |
 
 ---
 

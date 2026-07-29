@@ -3,7 +3,7 @@
 Agent reference (SR5). Compact layout; full mechanical detail for slug-throwing firearms (tasers through cannons, launchers, lasers, and flamethrowers).
 
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` (chapter extract: `Source Texts/Shadowrun Fifth Edition Core Rulebook/21 - Street Gear.md`) - `runandgun.pdf` (extracts: `Source/_extract/rng_firearms.txt`, `Source/_extract/rng_tables.txt`) - `streetlethal.pdf` (extracts: `Source/_extract/sl_firearms.txt`, `Source/_extract/sl_tables.txt`, `Source/_extract/sl_corpsec_arsenal.txt`)
-**Books:** Core - RnG (+ official RnG errata E-CAT27002E) - SL (Expanded Arsenal) - SL-CorpSec (Opposition Report firearm SKUs only). CT has no firearm SKU list.
+**Books:** Core - RnG (+ official RnG errata E-CAT27002E) - SL (Expanded Arsenal) - SL-CorpSec - **GH3** (Gun Heaven 3) - **HT** (Hard Targets) - **CA** (Cutting Aces) - **AP** (Assassin's Primer) - Lockdown prototypes (no street cost).
 **See also:** `Encyclopedia/Ammunition.md` (ammo types, flechette/shot, APDS, etc.) - `Encyclopedia/Weapon Accessories.md` (sights, silencers, gyros, gas-vent, underbarrel mounts, smartgun) - `Encyclopedia/Exotic Weapons.md` (net guns, shooting bracers, gyrojet pistol, gun canes, sonic rifle, blowgun) - `Encyclopedia/Projectile Weapons.md` (bows, crossbows, Winchester Airbow) - `Encyclopedia/Grenades and Explosives.md` (minigrenades, rockets, missiles, plastic explosive) - `Encyclopedia/Melee Weapons.md` (Krime Whammy club mode, bayonet accessory stats, Krime Reaver/Gloves packages) - `Mechanics/Combat/Ranged Combat.md` (range tables, recoil, fire modes, suppression).
 
 **Out of scope:** RnG exotic ranged weapons that precede Tasers in the RnG chapter (Retiarus net gun, Tiffani Elegance shooting bracer, FN-AAL gyrojet pistol, Trafalger/knockoff gun canes, Ares Screech sonic rifle, blowgun, bolas) - projectile/throwing weapons (bows, crossbows, harpoon guns, Winchester Airbow; see Projectile Weapons) - firearm accessories and modifications as standalone items (Additional Clip, Krime Pack, Stun-O-Net, Narcoject Dazzler, Red Dot Sight, etc.; see Weapon Accessories) - melee weapons, including bayonets and Krime Whammy's club mode (see Melee Weapons) - SL's speculative "Military and Future Weapons" chapter (Ares DPC-002A "Slam Dancer" vehicle particle cannon, Aztechnology-Dassault Blood Hawk aircraft weapons) - armor, vehicles, and non-firearm CorpSec gear (Bug Stomper armor, Rampart emplacement, Wavecutter MPAC, Renraku Red Samurai katana, Aztechnology Blood Drinker axe) - Complete Trog gear (no firearm SKUs; Troll Roarer is an implant).
@@ -12,7 +12,7 @@ Agent reference (SR5). Compact layout; full mechanical detail for slug-throwing 
 
 | Col | Meaning |
 | --- | --- |
-| Src | Core / RnG / SL / SL-CorpSec |
+| Src | Core / RnG / SL / SL-CorpSec / GH3 / HT / CA / AP / Lockdown |
 | Skill | Active skill used to fire the weapon (Pistols, Automatics, Longarms, Heavy Weapons, Exotic Ranged Weapon (subtype)) |
 | Acc | Attack limit. `N(M)` = base N, wireless-on (or accessory) M |
 | DV | Damage Value. `P`/`S` = Physical/Stun; `(e)` = Electricity; `(f)` = flechette-factored; non-numeric entries (`Grenade`, `Missile`, `Torpedo`, `Chemical`, `as Drug/Toxin`, `as toxin`) mean damage is determined by the loaded munition |
@@ -377,3 +377,122 @@ RnG-introduced class. Skill: Exotic Ranged Weapon (Flamethrowers). See Shared pr
 | Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Shiawase Blazer | RnG | Exotic Ranged Weapon | 6 | 10P | -6 | SA/BF/FA | - | 4(c) | 16F | 2,200¥ | Handheld, portable flamethrower; used widely in the Az-Am War. Replacing the fuel tank requires a full Combat Turn |
+
+## Gun Heaven 3 firearms
+
+**Verified from:** `Source/PDF/Shadowrun_5E_Gun_H(e)aven_3.pdf` (`Source Texts/Gun Heaven 3/`). Summary table ~p.37; traits Vintage / Cap & Ball in front matter.
+
+**Traits:** **Vintage** — no modern electronics; physical upgrades cost **2×**. **Cap & Ball** — hand-load each round (**3 Complex Actions**); ammo marked `(cb)`; restart if interrupted.
+
+Factory-installed accessories are listed in Rules (detail in Weapon Accessories / RnG).
+
+### Hold-outs / Light / Heavy (GH3)
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Colt New Model Revolver | GH3 | Pistols | 6 | 5P | - | SA | - | 5(cy) | 4R | 180¥ | Hold-out. No stock upgrades. |
+| Colt Agent Special | GH3 | Pistols | 5 | 8P | - | SA | - | 8(c) | 5R | 250¥ | Light pistol. Uses **taser ranges**; fires **heavy pistol** ammo. |
+| Colt Future Frontier | GH3 | Pistols | 5 | 8P | -1 | SS | - | 7(cy) | 6R | 500¥ | Heavy pistol. Stock: Melee Hardening. |
+
+### Machine Pistols (GH3)
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fianchetti Military 100 | GH3 | Automatics | 5(7) | 6P | - | SA/BF/FA | - | 20(c) | 8R | 850¥ | Stock: Smartlink. |
+| Cavalier Evanator | GH3 | Automatics | 5(6) | 6P | - | BF/FA | 1(2) | 20(c) | 8R | 775¥ | Stock: Electronic Firing, Laser Sight, Folding Stock. |
+| Remington Suppressor | GH3 | Automatics | 6 | 7P | -1 | SA/BF | - | 15(c) | 6R | 700¥ | Stock: Sound Suppressor. |
+
+### Submachine Guns (GH3)
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Krime Spree | GH3 | Automatics | 4 | 7P | - | FA | 1 | 30(c) | 6R | 425¥ | Stock: Metahuman Adaptation. |
+| Ares Sigma-3 | GH3 | Automatics | 4(6) | 8P | - | SA/BF/FA | (2) | 50(d) | 7R | 1,000¥ | Stock: Collapsible Stock, Foregrip, Powered Slide Mount (2), Smartlink. |
+| Cavalier Arms Gladius | GH3 | Automatics | 3(4) | 7P | - | BF/FA | 1(2) | 32(c) | 6R | 400¥ | Stock: Collapsible Stock, Laser Sight. |
+
+### Assault Rifles (GH3)
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shiawase Arms Monsoon | GH3 | Automatics | 5 | 10P | -1 | SA/FA | 1 | 20(ml)×6 | 10F | 1,900¥ | Magazine-barrel; reload = swap barrels. Stock: smartlink, electronic firing, melee hardening. |
+| Colt Inception | GH3 | Automatics | 7(8) | 10P | -1 | SA/BF | 1(3) | 35(c) | 11R | 2,250¥ | Stock: Bipod, Electronic Firing, Laser Sight, Melee Hardening. |
+| Krupp Arms Kriegfaust | GH3 | Automatics | 8 | 9P | -1 | SA/BF | 1 | 25(d) | 10R | 1,300¥ | Metahuman-sized. Stock: metahuman customization, melee hardening, imaging scope. |
+| SBd-44 | GH3 | Automatics | 3 | 10P | -1 | SA/BF/FA | - | 32(c) | 4R | 500¥ | Stock: **Vintage**. |
+| Ultimax Rain Forest Carbine | GH3 | Automatics | 7 | 14P | -4 | SA | 1 | 18(c) | 5R | 2,800¥ | Stock: imaging scope (flare comp, image link, low-light), retractable stock. |
+
+### Shotguns (GH3)
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Krime Boss | GH3 | Longarms | 3 | 13P | -1 | SA | 1 | 15(d) | 11R | 600¥ | Stock: Metahuman Customization. Slug stats. |
+| Winchester Model 201 | GH3 | Longarms | 8 | 11P | -1 | SA | - | 2(b) | 8R | 1,300¥ | Over/under competition. |
+| Winchester Model 2066 | GH3 | Longarms | 4 | 11P | -1 | SS | - | 5(m) | 4R | 1,000¥ | Pump-action. |
+| Winchester Model 2054 | GH3 | Longarms | 4(5) | 11P | -1 | SA | (1) | 7(m) | 6R | 900¥ | Stock: Laser Sight, Retractable Stock. |
+| Shiawase Arms Rain | GH3 | Longarms | 4 | 10P | -1 | SA | (1) | 5(ml) | 4R | 450¥ | Magazine-barrel; stock retractable stock. |
+| Cavalier Falchion | GH3 | Longarms | 5(7) | 12P | -1 | SS | - | 8(m) | 9R | 1,200¥ | Stock: Advanced Safety, Melee Hardening, Smartlink, Trigger Removal. |
+
+### Sporting Rifles (GH3)
+
+Skill: Longarms. Default sporting ranges: S 0–50 / M 51–250 / L 251–500 / E 501–750 m unless noted.
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Springfield 2003 | GH3 | Longarms | 9 | 12P | -2 | SS | - | 5(m) | 4R | 3,600¥ | Stock: Vintage. |
+| Winchester Model 2024 | GH3 | Longarms | 6 | 12P | - | SA | - | 7(m) | 4R | 1,800¥ | Stock: Imaging Scope (vision mag). |
+| Marlin 3468SS | GH3 | Longarms | 4 | 13P | -1 | SS | - | 4(m) | 6R | 1,000¥ | .45-70 big-game. |
+| Springfield M1A | GH3 | Longarms | 6 | 12P | -1 | SA | - | 20(c) | 6R | 1,700¥ | Stock: Imaging Sight (image link, vision mag, VE 1). |
+| M1 Garand | GH3 | Longarms | 5 | 12P | -1 | SA | - | 8(c) | 3R | 1,100¥ | Stock: Vintage. |
+| Springfield Model 1855 Reproduction | GH3 | Longarms | 2 | 10P | - | SS | - | 1(cb) | 4R | 850¥ | Stock: Vintage, **Cap & Ball**. |
+| Marlin 3041 BL | GH3 | Longarms | 5 | 10P | -3 | SA | - | 6(m) | 5R | 1,100¥ | Stock: Imaging Sight (vision mag). |
+| Marlin X71 | GH3 | Longarms | 5 | 12P | -4 | SS | - | 5(m) | 6R | 1,500¥ | Stock: Extreme Environment Mod 1 (Arctic); imaging sight (low-light, VE 2, vision mag). |
+| Marlin 79S | GH3 | Longarms | 4 | 6P | - | SA | - | 10(c) | 3R | 300¥ | Small-bore trainer. |
+| Winchester Model 2067 | GH3 | Longarms | 5 | 8P | -1 | SA | - | 15(m) | 4R | 650¥ | Uses **SMG ranges**; fires **heavy pistol** ammo; Vintage. |
+
+### Machine Guns / Cannons / Flamethrowers (GH3)
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Krime Wave | GH3 | Heavy Weapons | 5 | 10P | -2 | FA | (2) | 50(d) or 100(belt) | 11F | 2,000¥ | LMG. Stock: Bipod, Metahuman Customization. |
+| Krime Bomb | GH3 | Heavy Weapons | 6(7) | 16P | -6 | SS | - | 4(m) | 20F | 23,000¥ | Assault cannon, pump-action. Stock: laser sight, powered slide mount (2). |
+| Shiawase Arms Incinerator | GH3 | Exotic Ranged Weapon (Flamethrowers) | 4 | 12P | -6 | SS | - | 6(c) | 12F | 10,000¥ | **Light pistol ranges**; Complex Action to ready. Stock: Powered Slide Mount, Reduced Weight. See Flamethrower basics. |
+
+## Hard Targets firearms
+
+**Verified from:** `Source/PDF/Shadowrun_5E_Hard_Targets.pdf` (`14 - The Wetwork Toolkit.md`).
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cavalier Adder Slivergun | HT | Pistols | 5 | 8P(f) | +5 | SA | - | 20(c) | 7F | 320¥ | Light pistol; flechette only. |
+| Colt Manhunter | HT | Pistols | 5(6) | 8P | -1 | SA | - | 16(c) | 5R | 700¥ | Heavy pistol. Mechanical (anti-hack); holographic sight. |
+| Lemat 2072 (revolver) | HT | Pistols | 5 | 8P | -1 | SS | - | 9(cy) | 8R | 1,080¥ | Built-in Ammo Skip; switch to shotgun barrel = Simple (wireless Free). |
+| Lemat 2072 (shotgun barrel) | HT | Longarms | 5 | 10P(f) | +4 | SS | - | 1(b) | - | - | Same weapon second barrel; Avail/Cost not printed separately. |
+
+## Cutting Aces firearms
+
+**Verified from:** `Source/PDF/Shadowrun_5E_Cutting_Aces.pdf` (`10 - Gats and Glad Rags.md`).
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hammerli 620S | CA | Pistols | 5(7) | 6P | - | SA | 1 | 6(c) | 8R | 325¥ | Light pistol. Gas-Vent 1, Smartlink; **Heavy Pistol ranges**. |
+| Yamaha Sakura Fubuki SX | CA | Pistols | 6 | 6P | - | SA/BF | 1 | 8(ml)×4 | 10R | 750¥ | Light pistol. 2×2 magazine-barrel; Electronic Firing in RC. |
+| Nemesis Arms Praetorian | CA | Pistols | 4(6) | 8P | -1 | SA | - | 12(c) | 9R | 700¥ | Heavy pistol. Integral bayonet, Custom Look, laser sight. (Also appears in SL with slightly different notes.) |
+| Stinger Pen Gun | CA | Pistols | 4 | 6P | - | SS | - | 1(b) | 6R | 325¥ | Hold-out. Conceal −4; no silencer. |
+
+## Assassin's Primer firearms
+
+**Verified from:** `Source/PDF/Shadowrun_5E_Assassins_Primer.pdf`.
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SVD | AP | Longarms | 5(6) | 10P | -2 | SA | - | 10(c) | 6R | 800¥ | Sniper rifle. Standard laser sight (+1 Acc → 6). Nanoforge-revived Soviet squad marksman rifle. |
+
+## Lockdown prototype firearms
+
+**Verified from:** `Source/PDF/shadowrun-lockdown-pdf.pdf` (`13 - Game Information.md`). Street **Cost N/A** (prototypes).
+
+| Name | Src | Skill | Acc | DV | AP | Mode | RC | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Microwave Gun (high frequency) | Lockdown | Exotic Ranged Weapon | 6 | 7P | -6 | SS | - | peak-discharge | 20R | N/A | Light Pistol ranges; cooks flesh. 2 power units/shot (*R&G* packs). |
+| Microwave Gun (low frequency) | Lockdown | Exotic Ranged Weapon | 4 | 10P* | - | SS | - | peak-discharge | 20R | N/A | *Matrix damage to electronics. Called Shot ≤0.25 m² gear −2; else GM picks hit gear. 1 power unit/shot. |
+| Repeating Laser | Lockdown | Exotic Ranged Weapon (Laser Weapons) | 7 | 7P | -8 | SA/BF/FA | - | 10(c) or external | 16F | N/A | SMG ranges. −1 DV per range band beyond Short; −1 DV per Visibility level. Underbarrel/top mods only. |
+

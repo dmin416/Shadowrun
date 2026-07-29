@@ -2,7 +2,7 @@
 
 **Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · [SL](../Source%20Texts/Street%20Lethal/INDEX.md) · Hard Targets\* · [CT](../Source%20Texts/Complete%20Trog/INDEX.md) · [RF](../Source%20Texts/Run%20Faster/INDEX.md)
 
-\*No Hard Targets PDF in `Source/PDF` - HT section unverified.
+\*Hard Targets gear verified from `Shadowrun_5E_Hard_Targets.pdf`.
 
 **Verified from:** `Source/PDF` Core, Run & Gun, Street Lethal, Complete Trog, Run Faster (not web dumps).
 
@@ -253,14 +253,15 @@ Looks like money. Armor ratings compete with street jackets while Social Limit /
 
 ---
 
-## Hard Targets - UNVERIFIED (no local PDF)
+## Hard Targets armor
+
+**Verified from:** `Shadowrun_5E_Hard_Targets.pdf`.
 
 | Name | Armor | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Cloak | 0 | Rating | 1 | Rating × 100¥ | Pending HT PDF. |
-| Designer Cloak | 0 | Rating | 1 | (Rating × 100¥) + 300¥ | Pending HT PDF. |
-| Ruthenium Polymer Cloak | 0 | - | 14F | Rating × 4,000¥ | Pending HT PDF. |
-| Shiawase Arms Simoom | +1 | - | 14R | 1,500¥ | Pending HT PDF. |
+| Cloak | 0 | mods via 100¥/Rating (max Cap 6) | 1 | base + mods | −1 Social Limit unless designer (+300¥). Conceal −2 under cloak. |
+| Ruthenium Polymer Cloak (R1–4) | 0 | 0 | 14F | Rating × 4,000¥ | Perception −(R+2) stationary / −(R−1) moving (R1 moving = no bonus). |
+| Shiawase Simoom (worn) | +1 | - | 14R | 1,500¥ | Forearm weapon/armor hybrid; weapon stats in Exotic Weapons. |
 
 ---
 
@@ -268,5 +269,18 @@ Looks like money. Armor ratings compete with street jackets while Social Limit /
 
 | Name | Armor | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Rockblood Old School Line | 8 | 10 | 8 | 1,900¥ | Ork/troll-friendly armored street wear. High Capacity for the Armor. |
-| Rockblood Signature Armored Shirt | 6 | 4 | 14 | 800¥ | Branded armored shirt; harder to find than the Old School line. |
+| Rockblood Old School Line | 8 | 10 | 8 | 1,900¥ | Ork fashion; Social limit +1. High Capacity for the Armor. |
+| Rockblood Signature Armored Shirt (trolls) | 6 | 4 | 14 | 800¥ | Troll-only; +1 Etiquette & +1 Intimidation. |
+
+## Cutting Aces armor
+
+**Verified from:** `Shadowrun_5E_Cutting_Aces.pdf`.
+
+| Name | Armor | Capacity | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Unlicensed Team Jersey | 6 | 6 | 2 | 500¥ | +1 Social limit vs hometown fans; −1 vs rival fans. |
+| Licensed Team Jersey | 8 | 8 | 4 | 750¥ | Same Social effects as unlicensed. |
+| Catsuit | 9 | 10 | 6 | 900¥ | Full-body skin-tight; high mobility. |
+| Scout's Tux | 8 | 6 | 10 | 2,000¥ | Also evening gown; always pressed; +1 Social limit. |
+| Briefcase Shield | +4 | - | 14R | 1,800¥ | Ballistic briefcase; Conceal −4 to ID as shield. |
+

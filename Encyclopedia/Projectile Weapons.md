@@ -3,7 +3,7 @@
 Agent reference (SR5). Structured field blocks for LLM parsing. Mechanical detail only.
 
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `runandgun.pdf` · `streetlethal.pdf`
-**Books:** Core · RnG · SL. Hard Targets archery extras included only as **UNVERIFIED** (no HT PDF in repo; stats from Ammunition.md secondary record).
+**Books:** Core · RnG · SL · HT (archery extras verified from Hard Targets PDF).
 **See also:** `Encyclopedia/Ammunition.md` · `Encyclopedia/Melee Weapons.md` (Trollbow blade; harpoon/javelin/tomahawk melee) · `Encyclopedia/Exotic Weapons.md` (Net full rules; bolas) · `Encyclopedia/Firearms.md` · `Encyclopedia/Weapon Accessories.md` · `Encyclopedia/Tools Kits and Survival.md` (grapple gun standalone)
 **Out of scope as primary SKUs here:** bolas / gunstock thrown mode (Exotic) · grenades/rockets · firearms · micro flare launcher · grapple gun (Exotic Ranged / survival; underbarrel in Weapon Accessories).
 
@@ -320,33 +320,44 @@ Dice pool by category: Short +0 / Medium -1 / Long -3 / Extreme -6.
 - Mode: - | RC: - | Ammo: shaft (Ares)
 - Avail: 6R | Cost: Rating x 25¥
 - Rules: Shaft with powder that builds charge during flight. Used with Stick-n-Shock heads for full potential. Rating-priced. Replaces normal shaft (not a tip).
-## HARD TARGETS (UNVERIFIED - no local PDF)
-### Ares Mono Tip [UNVERIFIED HT]
-- Cat: Unverified
-- Src: Hard Targets (no local PDF); recorded in Ammunition.md
+## HARD TARGETS (verified)
+
+**Verified from:** `Shadowrun_5E_Hard_Targets.pdf`.
+
+### Ares Mono Tip
+- Cat: Head
+- Src: HT
 - Skill: n/a
-- Acc: - | Reach: - | DV: - | AP: -2
+- Acc: - | Reach: - | DV: - | AP: −2
 - Mode: - | RC: - | Ammo: head
-- Avail: 8R | Cost: Rating x 30¥
-- Rules: UNVERIFIED without Hard Targets PDF. Molecular-edge broadhead. Stats as previously recorded in Ammunition.md only.
-### Seeker Shafts [UNVERIFIED HT]
-- Cat: Unverified
-- Src: Hard Targets (no local PDF); recorded in Ammunition.md
+- Avail: 8R | Cost: Rating × 30¥
+- Rules: Molecular-edge broadhead / Monotip arrows.
+### Seeker Shafts
+- Cat: Ammo
+- Src: HT
 - Skill: n/a
 - Acc: - | Reach: - | DV: - | AP: -
 - Mode: - | RC: - | Ammo: shaft
 - Avail: 12F | Cost: 45¥
-- Rules: UNVERIFIED without Hard Targets PDF. Needs smartlinked bow. Lock-on Simple Action (+1 attack, ignore up to 2 situational penalties). Wireless: lock-on Free. Works with head-only arrow types. From Ammunition.md secondary record.
-### Throwing Syringe [UNVERIFIED HT]
-- Cat: Unverified
-- Src: Hard Targets (no local PDF); recorded in Ammunition.md
-- Skill: Throwing Weapons or Exotic (confirm in HT when PDF available)
-- Acc: - | Reach: - | DV: as injection | AP: -
+- Rules: Needs smartlinked bow. Lock-on Simple Action (+1 attack, ignore up to 2 situational penalties). Wireless: lock-on Free. Works with head-only arrow types.
+### Throwing Syringe
+- Cat: Thrown
+- Src: HT
+- Skill: Exotic Ranged / Thrown (see Exotic Weapons)
+- Acc: Phys | Reach: - | DV: (STR−2)P | AP: −2
 - Mode: thrown | RC: - | Ammo: 1 dose
 - Avail: 6F | Cost: 40¥ each
-- Rules: UNVERIFIED without Hard Targets PDF. Thrown exotic ammo/weapon; injection delivery. From Ammunition.md secondary record.
+- Rules: Injection on penetrate. Also listed under Exotic Weapons.
+### Dynamic Tension Bow
+- Cat: Bow
+- Src: HT
+- Skill: Archery
+- Acc: 5 | Reach: - | DV: (Rating+2)P | AP: −(Rating/4)
+- Mode: - | RC: - | Ammo: -
+- Avail: 12 | Cost: 1,200¥
+- Rules: Rating 1–10; change Rating Simple (wireless Free).
 ## Inventory checklist
-Total entries: 31
+Total entries: 32+
 
 Core weapons (5): Bow, Light/Medium/Heavy Crossbow, Throwing knife/shuriken.
 
@@ -362,6 +373,7 @@ Slingshot ammo (1): Capsule Rounds (soft mode).
 
 SL (2): Krime Trollbow (bow mode), Winchester Airbow.
 
-HT unverified (3): Mono Tip, Seeker Shafts, Throwing Syringe.
+HT verified (4): Mono Tip, Seeker Shafts, Throwing Syringe, Dynamic Tension Bow.
 
 Cross-refs: Trollbow blade -> Melee Weapons; Net full rules -> Exotic Weapons.
+

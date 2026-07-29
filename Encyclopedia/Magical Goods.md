@@ -998,3 +998,12 @@ Related optics (1): Mage Sight Goggles (also Sensors and Optics.md).
 RF packs (9): Basic/Advanced Magician; Magic Wand/Staff; Basic/Advanced Medicine Bag; Basic/Advanced Spirit Stick; Magic Spear.
 
 Still out of scope (not Magical Goods SKUs): spell/ritual/adept lists; mentor spirits; ally/free-spirit formulae; Philosopher's Stone (legend); CF Awakened drugs/BADs -> Drugs Toxins and Chemicals.md (file is filled).
+
+## Cutting Aces / Hard Targets magical supplies
+
+| Name | Src | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- |
+| Mana Compass | CA | 22R | 32,000¥ | Points to largest active magic within Force meters; ignores Masking; not astral-only sources. |
+| Shaman Tuxedo | CA | 9 | 1,000¥ | Ritual garb for one tradition/spirit type; +1 free Summoning hit (favors owed only). |
+| Enchanting Gloves | HT | 8 | 2,000¥ | Blocks alchemist aura reading of wearer; attuned to creator. Also listed under Tools. |
+

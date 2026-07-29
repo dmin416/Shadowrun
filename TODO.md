@@ -16,32 +16,33 @@ Folder: `Encyclopedia/` - one file per major item type; filled catalogs use PDF-
 
 ### Fill item catalogs (Core first, then supplements)
 
-- [x] [Melee Weapons](Encyclopedia/Melee%20Weapons.md) - Core + RnG + SL blades/clubs/unarmed/exotic melee + improvised; CT has no separate SKU list
-- [x] [Projectile Weapons](Encyclopedia/Projectile%20Weapons.md) - Core bow/crossbows/knives/shafts + RnG harpoon/pistol CB/slingshot/throwing/arrowheads + SL Trollbow/Airbow + ranges; HT archery UNVERIFIED section; Net cross-ref
-- [x] [Firearms](Encyclopedia/Firearms.md) - Core + RnG (Tasers through Flamethrowers, + RnG errata) + SL Expanded Arsenal + SL-CorpSec firearm SKUs; ~159 catalog rows across 15 classes; chapter text preferred over summary-table conflicts; shared procedures for XM30/HL-13, Puzzler/Infiltrator, lasers, flamethrowers, Ballista, Yakusoku, Gatling suppression, Man-Catcher, PTL-02
-- [x] [Exotic Weapons](Encyclopedia/Exotic%20Weapons.md) - Core special + whip + dart ammo; RnG exotic melee (incl. civilian chainsaws) / ranged / lasers / Blazer / power packs / underbarrel / net ammo; SL Stun Lance + Narcoject trio + Man-Catcher + foam; CT no SKU list
-- [x] [Weapon Accessories](Encyclopedia/Weapon%20Accessories.md) - Core + RnG + SL mounts/accessories/mods (sights, RC, smartgun, underbarrels, SL Krime/Narcoject)
-- [x] [Ammunition](Encyclopedia/Ammunition.md) - Core + RnG + HT + TSG + SL filled (notes + weapon-locked SL feeds); niche books (Krime, etc.) optional
-- [x] [Grenades and Explosives](Encyclopedia/Grenades%20and%20Explosives.md) - Core grenades/rockets/missiles/bulk explosives + RnG demolitions (Paint Grenade, Blast Shield, cooking/breaching/car bombs/detonators/accessories) + SL-CorpSec (Hornet, PTL-02 torpedoes, Man-Catcher ammo) + SL-Future (GravJack, Maker Missile/Grenade); 49 catalog rows; Seattle Gambit Incendiary/Molotov left unverified in Ammunition (no local PDF)
-- [x] [Armor and Clothing](Encyclopedia/Armor%20and%20Clothing.md) - Core + RnG + SL + HT + CT filled; mods stay in Armor Modifications
-- [x] [Armor Modifications](Encyclopedia/Armor%20Modifications.md) - Core + RnG + HT (+ holsters / installed-gear Capacity cheat sheet)
-- [x] [Cyberware](Encyclopedia/Cyberware.md) - Core + CF (head/eye/ear/body/limbs/weapons/suites) + HT; nanoware deferred to Nanotech and Geneware
-- [x] [Bioware](Encyclopedia/Bioware.md) - Core + CF (basic/cultured/cosmetic/bio-weapons/symbionts/orthoskin) + HT; genetech deferred to Nanotech and Geneware
+- [x] [Melee Weapons](Encyclopedia/Melee%20Weapons.md) - Core + RnG + SL + HT + CA + CT Osmium
+- [x] [Projectile Weapons](Encyclopedia/Projectile%20Weapons.md) - Core + RnG + SL + HT (Dynamic Tension Bow, Mono Tip, Seeker, Syringe)
+- [x] [Firearms](Encyclopedia/Firearms.md) - Core + RnG + SL + SL-CorpSec + **GH3** (33) + HT + CA + AP SVD + Lockdown prototypes
+- [x] [Exotic Weapons](Encyclopedia/Exotic%20Weapons.md) - Core + RnG + SL + HT + CA + Lockdown pointers
+- [x] [Weapon Accessories](Encyclopedia/Weapon%20Accessories.md) - Core + RnG + SL + **HT install mods**
+- [x] [Ammunition](Encyclopedia/Ammunition.md) - Core + RnG + SL + **HT verified** + **KC Matrix ammo** (Fuzzy/E0-E0/ArrowLink); Seattle Gambit still unverified
+- [x] [Grenades and Explosives](Encyclopedia/Grenades%20and%20Explosives.md) - Core + RnG + SL + **KC Matrix grenades**; Painade Avail/Cost print-corrupted
+- [x] [Armor and Clothing](Encyclopedia/Armor%20and%20Clothing.md) - Core + RnG + SL + **HT verified** + CT + **CA**
+- [x] [Armor Modifications](Encyclopedia/Armor%20Modifications.md) - Core + RnG + HT verified + CA + B&B PAG/Drag + **BTB Grey Mana**
+- [x] [Cyberware](Encyclopedia/Cyberware.md) - Core + CF + HT verified + **Lockdown suites** + BTB GreyWare/GreyMans + CT + HS critter 'ware
+- [x] [Bioware](Encyclopedia/Bioware.md) - Core + CF + **HT verified**
 - [x] [Nanotech and Geneware](Encyclopedia/Nanotech%20and%20Geneware.md) - CF hard/soft nanoware + nanocybernetics + nanogear + weaponized + full genetech (restoration/phenotype/exotic/transgenic/microadaptation/complimentary/infusions/DNArt)
-- [x] [Commlinks and Electronics](Encyclopedia/Commlinks%20and%20Electronics.md) - Core/DT/KC links+RFID+comms+software; KC Flow/Frequency/Last Chance+RCC+PI-Tac accessories/tac-apps/headware; RnG PI-Tac+weapon link/personality; RF PACK notes; decks deferred
+- [x] [Commlinks and Electronics](Encyclopedia/Commlinks%20and%20Electronics.md) - Core/DT/KC + RnG PI-Tac + **CA social/fashion electronics**
 - [x] [Cyberdecks and Programs](Encyclopedia/Cyberdecks%20and%20Programs.md) - Core/DT/KC decks, modules, common+hacking programs, agents, Cry Wolf; RF Decker PACKs; form-factor + implant pointers
 - [x] [Rigger Gear](Encyclopedia/Rigger%20Gear.md) - Core Control Rig + Interface + 11 RCCs + pilots/autosofts; R5 Pilot prices + Smartsoft/Group/Skillset/Personality/Linguistics + Swarm + EW actions; individual RCC cyberprograms; jumped-in mods (cocoon, MCO, touch sensors, retrans, sat link, etc.); KC Cyber-6/Skirmisher + Personal Drone Rack (56 entries)
 - [x] [Sensors and Optics](Encyclopedia/Sensors%20and%20Optics.md) - Core optical/imaging housings + optical devices + vision/audio enh + audio devices + sensor packages/functions/housings + RnG (MOAS, G-Cam, Periscope Cam) + R5 vehicle/drone Sensor Enhancement, Touch Sensors (Avail 8), drone sensor upgrades; DT/KC no extra SKUs; detail audit pass (sensor I/O, flare/smartlink/ultrasound wording, array Cap fit, BoomerEye/flashlight cross-refs)
-- [x] [Medical Gear](Encyclopedia/Medical%20Gear.md) - Core biotech/patches/DocWagon; CF Savior + TCS + implant medic + medical cyber; R5 MediCart/Valkyrie; SS Houdini/gurney/body bag/fake DW band + saline/nutrients; RnG spacesuit patch refill
-- [x] [Drugs Toxins and Chemicals](Encyclopedia/Drugs%20Toxins%20and%20Chemicals.md) - Core toxins/drugs/BTLs/addiction + industrial chems; CF street/Awakened/magical/BTL + grades/custom; SS extraction chems (DMSO/Caldwell/Slab/Laés/etc.)
-- [x] [Magical Goods](Encyclopedia/Magical%20Goods.md) - Core+SG+FA+CF+RF; paper lotus; FA rare reagents; Mage Sight; pointer audit (Drugs BADs / Magic Basics paths fixed) (~128 entries)
-- [x] [Vehicles](Encyclopedia/Vehicles.md) - Core+R5+SS 138 SKUs; audited Std Equip/Notes from R5 chapters; HT* Cocotaxi/Camellos table-only; drones deferred
-- [x] [Drones](Encyclopedia/Drones.md) - Core + R5 catalog complete (incl. Mercury, Seven chassis, KN-Y0 x3, Garuda); Dustoff from B&B secondary reprint (unverified, no local PDF)
+- [x] [Medical Gear](Encyclopedia/Medical%20Gear.md) - Core + CF + R5 + SS + **B&B biotech**
+- [x] [Drugs Toxins and Chemicals](Encyclopedia/Drugs%20Toxins%20and%20Chemicals.md) - Core + CF + SS + **HT toxins** + **B&B** + **Lockdown** + **BTB Blight** + **CA perfumes**
+- [x] [Magical Goods](Encyclopedia/Magical%20Goods.md) - Core+SG+FA+CF+RF + CA Mana Compass / Shaman Tuxedo + HT Enchanting Gloves
+- [x] [Vehicles](Encyclopedia/Vehicles.md) - Core+R5+SS + HT Cocotaxi/Camellos + **CT Trollhammer/Titan**
+- [x] [Drones](Encyclopedia/Drones.md) - Core + R5 + **B&B Dustoff/CAD-7 verified** + HT ×4 + CA ×3 + HS biodrones
 - [x] [Vehicle and Drone Modifications](Encyclopedia/Vehicle%20and%20Drone%20Modifications.md) - Core+R5 full slot/drone MP catalog + SS extractor mods; audited (R5 vs SS chameleon/smuggling conflicts noted; print gaps: Workshop blank, Ejection/Ram Plate/Micro rack rules-only)
 - [x] [Identity and Documentation](Encyclopedia/Identity%20and%20Documentation.md) - Core Fake SIN/license/credsticks + verify/burn/Forgery; RF Runner/Bug-Out PACKs + Day Job/Doppelganger/Erased gates; SS forger + Fake DocWagon; audited (no extra shop tables in CT/DT/KC/CF)
 - [x] [Lifestyles and Safehouses](Encyclopedia/Lifestyles%20and%20Safehouses.md) - Core lifestyles/options/permanent/team + RF expanded tiers/Entertainment/options/samples/bolt hole & safehouse
-- [x] [Tools Kits and Survival](Encyclopedia/Tools%20Kits%20and%20Survival.md) - Core Kit/Shop/Facility + survival + grapple/rope + climbing/rappel procedure + RF tool PACKs + Intro/Basic/Advanced Runner PACKs + Workshop/Facility/Cramped lifestyle; Cap-only GPS/Wire Clippers/air tank noted; B&E deferred to Security
+- [x] [Tools Kits and Survival](Encyclopedia/Tools%20Kits%20and%20Survival.md) - Core + RnG + RF + **HT misc** + **CT chairs/ropes/Yerz**
 - [x] [Security and Surveillance](Encyclopedia/Security%20and%20Surveillance.md) - Core locks/maglocks/restraints/B&E+chem; facility sensor procedures; RnG rams/blast/PED/Hold-Fast/Ultra-Glide; RF B&E PACK note
+- [x] **2026-07-29 gap fill:** GH3, HT (verified), CA, B&B, Lockdown, BTB, AP, KC Matrix ammo, CT leftovers, HS biodrones/critter 'ware ingested from local PDFs / Source Texts
 
 ### Encyclopedia polish
 

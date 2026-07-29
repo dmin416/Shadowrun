@@ -2,7 +2,7 @@
 
 **Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · **[CF](../Source%20Texts/Chrome%20Flesh/INDEX.md)** · Hard Targets\*
 
-\*No Hard Targets PDF in `Source/PDF` - HT section unverified.
+\*Hard Targets gear verified from `Shadowrun_5E_Hard_Targets.pdf`.
 
 **Verified from:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`, `chromeflesh.pdf` (not web / Chummer).
 
@@ -319,12 +319,21 @@ Exact component lists are in CF - treat the suite as one shopping line if using 
 
 ---
 
-## Hard Targets - UNVERIFIED (no local PDF)
+## Hard Targets cyberware
+
+**Verified from:** `Shadowrun_5E_Hard_Targets.pdf`.
 
 | Name | Essence | Cap | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Cybergland | Rating × 0.2 | [Rating] | (Rating × 4)R | Rating × 12,000¥ | Pending HT PDF. |
-| Infrasonic Generator | 0.2 | [2] | (Rating × 3)F | Rating × 4,000¥ | Pending HT PDF. |
+| Cybergland (R1–4) | Rating × 0.2 | [Rating] | (Rating × 4)R | Rating × 12,000¥ | Doses = Rating; melee expends dose on first hit; 1 min refill. |
+| Infrasonic Generator (R1–4) | 0.2 | [2] | (Rating × 3)F | Rating × 4,000¥ | +Rating Intimidation. |
+| Foot Blade | 0.2 | - | 20F | 28,000¥ | (STR+2)P kick attacks. |
+| Cyberfinger Credstick | 0.05 | [1] | 4 | 500¥+[¥] | Not pre-loaded. |
+| Cyberfinger Glass Cutter | 0.05 | [1] | 4 | 550¥ | Not for Armorglass. |
+| Cyberfinger Injector | 0.05 | [1] | 8F | 650¥ | 1 dose toxin/drug. |
+| Cyberfinger Lockpick | 0.05 | [1] | 6R | 750¥ | As lockpick set. |
+| Reloading Rail (cybertorso) | - | [5] | 7R | 3,500¥ | Free 1-hand reload; holds 4 clips. |
+| Reloading Slide (cyberarm) | - | [3] | 10R | 2,750¥ | Pistol/MP (no Extended Clip); wireless Free reload. |
 
 ---
 
@@ -334,3 +343,61 @@ Exact component lists are in CF - treat the suite as one shopping line if using 
 - Nanoware / nanocybernetics → [Nanotech and Geneware](Nanotech%20and%20Geneware.md).
 - Programs, decks, and RCCs as gear (not implants) → their own encyclopedia pages; implanted deck/link still buy the base device.
 - CF chapter tables vs compiled appendix occasionally disagree (Attention Coprocessor, Cyberfins, Translat-ear Cap, Skilljack/wires reprint). Prefer **chapter** for CF-original items; Core Street Gear for Core reprints.
+
+## Lockdown cyber suites
+
+**Verified from:** `shadowrun-lockdown-pdf.pdf`. Bundled packages: lower Essence vs piecemeal; **no other cyber/bio functions** while installed; resale ~5%; expand only via modular eyes/ears.
+
+| Suite | Essence | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- |
+| Spinrad Just a Little Edge | 3.5 | 10R | 125,000¥ | Cybereyes 2, Muscle Repl 1, Plastic bone lacing, RE 1, WR 1. |
+| Spinrad Peak Performance | 5.0 | 14R | 195,000¥ | Alum bone lacing, Cyberears 2, Cybereyes 3, MR 2, RE 2, WR 1. |
+| Spinrad Super Athlete | 4.5 | 14R | 325,000¥ | Alum bone lacing, Ears 2, Eyes 3, MR 3, RE 2, WR 2. |
+| Evo Freak | 4.5 | 18R | 150,000¥ | Ears 1, Eyes 1, 4 obvious lower limbs, cyberskull, dermal plating 2, WR 1. |
+| Evo BTH (Better Than Human) | 4.5 | 16R | 275,000¥ | Both cyberarms/legs (obvious), Ears 2, Eyes 2, Orthoskin 2, RE 3, Synaptic booster 1. |
+| Evo InHuman | 5.0 | 18R | 175,000¥ | Freak + cybertorso (obvious), WR 1. |
+| Transys-Erika Mind Boost | 1.0 | 10 | 185,000¥ | CB 1, Avalon, Ears 1, Eyes 1, datajack, Mnemonic 1, simrig, Skilljack 2, Skillwires 2. |
+| Transys-Erika Mental Gymnast | 2.0 | 20 | 375,000¥ | CB 3, Avalon, Ears 2, Eyes 2, datajack, Mnemonic 3, simrig, SJ 4, SW 4. |
+| Transys-Erika Front Line Mind | 4.5 | 14 | 575,000¥ | CB 2, Avalon, Ears 1, Eyes 1, datajack, Mnemonic 2, Muscle toner 2, RE 2, simrig, SJ 6, SW 6, WR 1. |
+| Sony Infiltrator | 3.0 | 14R | 210,000¥ | Ronin DR4, synth forearms (both), Enhanced articulation, SJ 4, SW 4, WR 1. |
+| Sony Field Operative | 2.5 | 10R | 120,000¥ | Ronin DR4, Ears 3, Eyes 3, Reflex recorder (Locksmith, Pistols), WR 1. |
+| Sony Ultimate Warrior | 5.0 | 22R | 725,000¥ | Ronin DR4, Ears 4, Eyes 4, Enhanced articulation, MA 3, MT 3, Reflex rec (Auto, Unarmed), Suprathyroid, WR 2. |
+| MCT Kaisatsu (Police) | 2.0 | 10R | 120,000¥ | MCT-5000 DR5, Ears 1, Eyes 1, datajack, Skilljack 2, WR 1. |
+| MCT Abunai (Dangerous) | 3.5 | 14R | 345,000¥ | MA 2, MT 2, RE 3, WR 2. |
+| MCT Kuro (Black) | 5.25 | 22R | 725,000¥ | Bone density 4, MCT-5000, Enhanced articulation, MA 4, MT 4, Orthoskin 4, Reflex rec (Pistols, Unarmed), Suprathyroid, Synaptic booster 3. |
+
+## Better Than Bad — GreyWare grade & Grey Mana tattoos
+
+**Verified from:** `better-than-bad-pdf.pdf`.
+
+| Grade / Item | Essence | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- |
+| GreyWare (grade) | ×0.75 vs Standard | (as base) | ×1.3 | Always obvious; **no wireless bonuses**; Awakened −1 Magic and −1 Magic max **per GreyWare item**; excludes bio/gene/nano/critter 'ware, suites, decks, links. Chargen OK. |
+| Grey Mana Tattoo / GreyMans (R1–3) | Rating × 0.1 | 7F | Rating × 500¥ | +1 die/Rating resist targeted magic/AoE; beneficial magic OK; Awakened −Rating Magic tests, −1 Force/hits sustained; does **not** stack with Grey Mana armor (use higher). |
+
+## Complete Trog cyberware / implants
+
+**Verified from:** `completetrog.pdf`.
+
+| Name | Essence | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- |
+| Antenna Grill | 0.1 | 4 | 1,000¥ | Tusk-only; wire to implanted link/deck; **double** Noise distance categories. |
+| Horn Compartment | - | 8 | 1,000¥ | Like tooth compartment but larger; cannot self-poison. |
+| Troll Roarer (R1–12) | 0.1 | (Rating)R | Rating × 50¥ | Infrasound troll-to-troll signaling +1 km/Rating. |
+
+## Howling Shadows critter cyberware
+
+**Verified from:** `howlingshadows.pdf`.
+
+| Name | Essence | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- |
+| Chameleon Pelt (R1–4) | Rating × 0.3 | 20F | Rating × 6,000¥ | −(Rating+2) visual Perception to spot. |
+| CAST | 0.5 | 25 | 25,000¥ | Jump-in rigger interface for animal senses. |
+| CAST + Friend-or-Foe | - | +1 | +5,000¥ | IFF overlay. |
+| Orientation Goad | 0.1 | 4 | 500¥ | Crude direction control within 100 m. |
+| Stirrup Interface (R1) | 3.2 | 15R | 45,000¥ | Move-by-wire + rigger adaptation + skillwires. |
+| Stirrup Interface (R2) | 4.2 | 21R | 135,000¥ | Higher rating. |
+| Stirrup Interface (R3) | 5.2 | 28R | 220,000¥ | Highest rating. |
+| TRACES | 0.7 | 25F | 25,000¥ | +2 Melee Combat and defense; facility navigation. |
+| SEIS | 0.7 | 25F | 20,000¥ | +2 Surprise; with TRACES enables maze ambushes. |
+

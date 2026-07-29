@@ -458,3 +458,26 @@ Satellite Link (vehicle mod): Slots 1, Threshold 6, Kit, Hardware 6, 500¥. Retr
 **Weapon electronics:** Weapon Commlink, Weapon Personality
 **Headware:** Datajack Plus, EARRS, Cranial Shield, MCT Biolink
 **RF PACKs (notes):** Eavesdropper, Jammer
+
+## Cutting Aces social / fashion electronics
+
+**Verified from:** `Shadowrun_5E_Cutting_Aces.pdf`.
+
+| Name | Avail | Cost | Notes |
+| --- | --- | --- | --- |
+| AR Nails | 2 | 200¥ | Function as AR gloves. |
+| Bug Promotional Pen | 3 | 100¥ | Cap 2 sensors; optional RFID. |
+| Chem Detect Nail Polish (R1–4) | Rating | Rating × 50¥ | 10 applications; liquid test. |
+| Chemsniffer Ring (R1–6) | 3×Rating | Rating × 250¥ | Inhaled toxins within 1 m. |
+| Concealable Surveillance Gear | 6 | 50¥ | Sensor tags in jewelry; Conceal −6. |
+| Fashion Gas Mask | 3 | 300¥ | Negates −2 wrong-attire Etiquette. |
+| Fashion Respirator (R1–6) | 3 | Rating × 75¥ | Same Etiquette negation. |
+| Ghost Box | 6R | 600¥ | Infrasound unease; 10 m. |
+| Holo Bracelet | 2 | 250¥ | Rating 3 palm hologram. |
+| LRAD | 7 | 400¥ | Cap [3]; focused audio to 100 m. |
+| Subliminal Subacoustics | 14F | 1,250¥ | Broadcast mood via speaker; −2 opposed actions; resist Logic+Will (2). |
+
+**Social software subscriptions** (~250¥/month, wireless): CarnivoreGold 10F; MonaLisa 12F; Pheromone Detection 8F; Speech Template Comparison 10F; Target Tracking 5F; Thermal Mood Reading 6F; Vocal Tension Lie Detection 6F.
+
+**Lockdown devices (no street Cost):** MADAR (ranged defense in 0.5 m; Noise −6); Crazy-Repeller (EM field vs ferals; 10 power units; settings 1–6). Prototype / MIT&T only.
+

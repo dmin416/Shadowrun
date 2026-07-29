@@ -459,3 +459,22 @@ SL exotic melee (1): Krime Stun Lance.
 SL exotic ranged (5): Gas Gun, PEP, Trackstopper, Gunstock thrown mode, Man-Catcher.
 
 SL ammo (2): Foam Refills, Man-Catcher ammo.
+
+## Hard Targets / Cutting Aces / Lockdown exotic
+
+**Verified from:** HT Wetwork Toolkit; CA Gats and Glad Rags; Lockdown Game Information.
+
+| Name | Src | Skill | Acc | DV | AP | Mode | Ammo | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flame Bracer | HT | Exotic Ranged (Flame Bracer) | 4 | 6P(fire) | −6 | SS | 2(c) | 8F | 775¥ | Crit glitch hits wielder. |
+| Ares Armatus | HT | Exotic Ranged (Laser Weapons) | 6 | 6P | −5 | SA | 10(c)/ext | 20F | 19,000¥ | Laser shotgun; RnG laser rules + shotgun spreads. |
+| Shiawase Simoom | HT | Exotic Ranged (Simoom) | 5 | 6P | - | SA/FA | 6(ml) | 14R | 1,500¥ | Forearm guards +1 Armor; FA −2 recoil; Conceal −4; Complex fire (wireless Simple). |
+| Throwing Syringe | HT | Exotic Ranged / Thrown | Phys | (STR−2)P | −2 | - | - | 6F | 40¥ | Injection on penetrate. |
+| Tactical Grapple Gun | HT | Exotic Ranged (Grapple Gun) | 4(6) | 9S | −2 | SS | 1(b) | 15F | 10,000¥ | Heavy crossbow ranges; smartlink; RC 1; arachnofibre 600 kg rope. Heads: Harpoon 300¥ (9P AP −4); Articulated grapnel 1,000¥; Sticky grapnel 150¥; Grenade reel 750¥+grenade. |
+| Injector Pen | CA | Exotic Melee | 4 | as drug/toxin | −2 | - | 1 | 9F | 220¥ | One-dose hypodermic in pen/stylus. |
+| Pepper Punch Pen | CA | Exotic Ranged | 3 | as pepper punch | - | SS | 1(c) | 3 | 45¥ | Range 2 m; any inhalation toxin OK. |
+| Modified Spray Pen | CA | Exotic Ranged | 3 | as drug/toxin | - | SS | 1(c) | 4F | 60¥+payload | Payload sold separately. |
+| Briefcase Shield (melee) | CA | Exotic Melee | 3 | (STR+2)P | - | - | - | - | - | Melee use when deployed as shield (armor row separate). |
+| Microwave Gun (high/low) | Lockdown | Exotic Ranged | see Firearms | see Firearms | see Firearms | SS | packs | 20R | N/A | Prototype; full rows in Firearms.md. |
+| Repeating Laser | Lockdown | Exotic Ranged (Laser) | see Firearms | see Firearms | see Firearms | SA/BF/FA | packs | 16F | N/A | Prototype; full row in Firearms.md. |
+

@@ -1,10 +1,10 @@
 ﻿# Ammunition
 
-**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · [SL](../Source%20Texts/Street%20Lethal/INDEX.md) · Hard Targets\* · The Seattle Gambit\*
+**Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · [SL](../Source%20Texts/Street%20Lethal/INDEX.md) · [HT](../Source%20Texts/Hard%20Targets/INDEX.md) · [KC](../Source%20Texts/Kill%20Code/INDEX.md) · The Seattle Gambit\*
 
-\*No local PDF in `Source/PDF` - those sections are **unverified** against a book file.
+\*No Seattle Gambit PDF in `Source/PDF` - that section remains unverified.
 
-**Verified from:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf`, `runandgun.pdf`, `streetlethal.pdf` (not web dumps).
+**Verified from:** Core, RnG, SL, `Shadowrun_5E_Hard_Targets.pdf`, `killcode.pdf`.
 
 Related: [Firearms](Firearms.md) · [Projectile Weapons](Projectile%20Weapons.md) · [Grenades and Explosives](Grenades%20and%20Explosives.md) · [Weapon Accessories](Weapon%20Accessories.md) · [Drugs Toxins and Chemicals](Drugs%20Toxins%20and%20Chemicals.md)
 
@@ -86,16 +86,16 @@ No Seattle Gambit PDF in `Source/PDF`. Left as previously recorded pending a boo
 
 ---
 
-## Firearm ammunition (Hard Targets) - UNVERIFIED
+## Firearm ammunition (Hard Targets)
 
-No Hard Targets PDF in `Source/PDF`. Stats below are **not** rechecked from a local book:
+**Verified from:** `Shadowrun_5E_Hard_Targets.pdf` (Wetwork Toolkit ammo table).
 
 | Name | DV mod | AP mod | Avail | Cost / 10 | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Depleted Uranium | +1* | −5 | 28F | 1,000¥ | Self-sharpening + pyrophoric: targets can catch fire (Core fire rules). Leftover fragments → cancer in weeks if not removed. Treaty / Corporate Court banned. |
 | Hi-De Rounds | - | - | 10F | 150¥ | Densiplast; invisible to MAD scanners. Uncompensated recoil **doubled** (stacks with heavy-weapon recoil multiplier). −1 DV at long & extreme range. |
 | Hand Loads | +1 **or** −1 AP | (not both) | 4R | ammo +25%\*\* | Crafted specialty; see hand-load rules below. |
-| Silver Bullets | - | +2 | 12R | 250¥ | Triggers **Allergy (silver)** on susceptible beings. Analog allergy loads exist (GM sets stats). |
+| Silver Bullets | - | +2 | 12R | 250¥ | Print AP cell is `2` (treated as **+2**). Triggers **Allergy (silver)** on susceptible beings. Analog allergy loads: GM sets stats. |
 | Subsonic | −1 | - | 8F | 40¥ | −1 Perception to notice/locate the shot (−2 with silencer/suppressor). All range penalties **+1**. |
 | Wood Pulp Rounds | −4 | +4 | 6R | 10¥ | Capsule-style load for wood allergies (vampires / paracritters). |
 
@@ -161,13 +161,15 @@ Head Avail/Cost from RnG arrowhead table. Complete arrows ≈ `(bow Rating × 2)
 
 \*Incendiary: head table lists AP “-” / DV “special”; narrative supplies the fire profile.
 
-### Hard Targets - UNVERIFIED (no local PDF)
+### Hard Targets arrows / shafts
+
+**Verified from:** HT Wetwork Toolkit.
 
 | Name | Acc | DV / effect | AP | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ares Mono Tip | - | - | −2 | 8R | Rating × 30¥ | Molecular-edge broadhead. |
+| Ares Mono Tip | - | - | −2 | 8R | Rating × 30¥ | Molecular-edge broadhead / Monotip arrows. |
 | Seeker Shafts | - | - | - | 12F | 45¥ | Needs smartlinked bow. Lock-on Simple Action (+1 attack, ignore up to 2 situational penalties). Wireless: lock-on Free. Works with head-only arrow types. |
-| Throwing Syringe | - | as injection | - | 6F | 40¥ ea. | Thrown exotic “ammo” / weapon. |
+| Throwing Syringe | - | as injection | - | 6F | 40¥ ea. | Thrown exotic weapon; see Projectile / Exotic. |
 
 ---
 
@@ -220,3 +222,28 @@ Peak-discharge packs for lasers (also listed under firearm accessories).
 - **Spare clips / speed loaders** are accessories, not ammo types.
 - Hand-load rules are a process applied to another ammo type, not a separate SKU on the street.
 - Flamethrower fuel and CF Flametosser **Extra fuel (5 shots)** are weapon/implant feeds, not RnG ammo-table rows.
+
+## Matrix ammunition (Kill Code)
+
+**Verified from:** `killcode.pdf` (`05 - Dips & Chips.md`). Costs per **10** rounds unless noted. Fuzzy / E0-E0 use **Light Pistol ranges** regardless of gun class.
+
+| Name | DV mod | AP mod | Avail | Cost / 10 | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Fuzzy rounds (LP / MP / AR class guns) | - | - | 10R | 30¥ | +1 Noise/round cumulative, **2 CT**. AoE radius **1 m/net hit** (max **2 m**). Pocket moves with hit target. Suppression: +20 Noise along line (−1/round per target hit). |
+| Fuzzy rounds (HP / SMG / Shotgun class guns) | - | - | 12R | 50¥ | Same Noise rules; max AoE **5 m**. |
+| E0-E0 (standard) | - | - | 5R | 50¥* | Matrix damage vs AIs, technocritters, technomancers. Attack resisted Matrix (Int+Firewall) or Physical (Rea+Int); then DR+Firewall (+2 per grid step from purchased grid). Device-inhabiting target −2 Damage Resist. |
+| E0-E0 Rifle | −4 Dam | −4 AP | 5R | 100¥* | Rifle-class load of E0-E0. |
+
+\*Public-grid base. Local grid **60¥/10**; megacorp grid **100¥/10** (choose at purchase).
+
+### ArrowLink (Kill Code)
+
+| Length | Avail | Cost | Notes |
+| --- | --- | --- | --- |
+| 50 m | 6R | 25¥ | Ignore all Noise between shooter and stuck arrow. **2 net hits** to stick (no damage). Remove: Extended STR (4+net hits, 1 Complex). Sever cord: STR (2) or 1P. Single-use. |
+| 100 m | 8R | 75¥ | Same. |
+| 200 m | 10R | 200¥ | Same. |
+| 500 m | 12R | 400¥ | Same. |
+
+Matrix grenades (Fuzzy Boom Boom Bunnies, CoS, Douser, DumDum) → [Commlinks and Electronics](Commlinks%20and%20Electronics.md) / [Grenades and Explosives](Grenades%20and%20Explosives.md).
+

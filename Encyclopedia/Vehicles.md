@@ -3,9 +3,9 @@
 Agent reference (SR5). Compact; full mechanical detail; no flavor.
 
 **Src PDFs:** `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` · `rigger5.pdf` · `stolensouls.pdf`
-**Books:** Core · R5 · SS · HT* (compiled stats only; no local Hard Targets PDF)
+**Books:** Core · R5 · SS · HT · CT
+**Verified HT vehicles:** Cocotaxi, Camellos from Hard Targets PDF (also reprinted in R5 compiled tables).
 **Printed:** Core Vehicles and Drones 461-466 (vehicle half); R5 World of Wheels / Ruling the Waves / Air Superiority 41-109; R5 compiled tables 184-188; SS extractor vehicle lines ~187. Factory Std Equip/Notes pulled from R5 chapter blocks (`Standard` / `Std. Equipment`).
-**HT*:** Cocotaxi, Camellos appear only in R5 compiled tables citing Hard Targets (no local HT PDF).
 **See also:** `Encyclopedia/Drones.md` · `Encyclopedia/Vehicle and Drone Modifications.md` · `Encyclopedia/Rigger Gear.md` · `Mechanics/Vehicles.md` · `Mechanics/Rigging Basics.md`
 
 **In scope:** metahuman-crewed ground / water / air vehicles with buy stats (bikes, cars, trucks/vans/RVs/limos, buses, tractor-trailers, hovercraft, boats/subs, security/military vehicles, aircraft).
@@ -15,7 +15,7 @@ Agent reference (SR5). Compact; full mechanical detail; no flavor.
 
 | Col | Meaning |
 | --- | --- |
-| Src | Core / R5 / SS / HT* |
+| Src | Core / R5 / SS / HT / CT |
 | Sub | Compiled subsection under parent table (VANS, RVS, LIMOS, COMMERCIAL) or `-` |
 | Handl | Handling; `A/B` = on-road / off-road (or mode pair as printed) |
 | Speed | Speed; letter suffixes in other books (G/J/R) are movement modes for chase mixing; `A/B` = dual-mode |
@@ -106,7 +106,7 @@ Same stats as listed SKU; branding / year only unless GM adjusts one attribute o
 
 | Name | Sub | Src | Handl | Speed | Accel | Body | Armor | Pilot | Sens | Seats | Avail | Cost | Ref | Rules |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cocotaxi (Hard Targets) | - | HT* | 4/2 | 3 | 2 | 5 | 4 | 1 | 1 | 3 | - | 4,000¥ | p. 139, Hard Targets | Hard Targets SKU (no local PDF); stats from R5 compiled table only. |
+| Cocotaxi (Hard Targets) | - | HT | 4/2 | 3 | 2 | 5 | 4 | 1 | 1 | 3 | - | 4,000¥ | HT p.143 | Three-wheeled taxi. |
 | Entertainment Systems Cyclops | - | R5 | 4/4 | 4 | 2 | 4 | 4 | 1 | 1 | 1 | - | 6,500¥ | p. 43 | Std Equip: Assembly Time Improvement, Gyro Stabilization |
 | Evo Falcon-EX | - | R5 | 3/5 | 2/3 | 1/2 | 7 | 9 | 1 | 1 | 2 | - | 10,000¥ | p. 43 | Std Equip: Tracked Vehicle |
 | Yamaha Growler | - | Core | 4/5 | 3/4 | 1 | 5 | 5 | 1 | 1 | 1 | - | 5,000¥ | p. 462, SR5 | - |
@@ -206,7 +206,7 @@ Same stats as listed SKU; branding / year only unless GM adjusts one attribute o
 
 | Name | Sub | Src | Handl | Speed | Accel | Body | Armor | Pilot | Sens | Seats | Avail | Cost | Ref | Rules |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Camellos (Hard Targets) | - | HT* | 3/2 | 3 | 1 | 16 | 5 | 1 | 2 | 200 | - | 150,000¥ | p. 139, Hard Targets | Hard Targets SKU (no local PDF); stats from R5 compiled table only. |
+| Camellos (Hard Targets) | - | HT | 3/2 | 3 | 1 | 16 | 5 | 1 | 2 | 200 | - | 150,000¥ | HT p.143 | Cargo hauler. |
 | Omni Motors Omnibus | - | R5 | 2/2 | 3 | 1 | 18 | 10 | 2 | 2 | 53 | 12 | 296,000¥ | p. 62 | Std Equip: Gridlink, gridlink override |
 
 ### Watercraft
@@ -322,3 +322,15 @@ SS lists factory chassis commonly counterfeited as emergency/gov vehicles. Stats
 **Aircraft (20):** Aztechnology Agular GX-2; Aztechnology Agular GX-3AT; GMC Banshee; Cessna C750; Federated-Boeing Commuter; Ares Dragon; GMC Gryphon; Nissan Hound; Evo-Krime "Krime Wing"; Airbus "Lift-Ticket" ALS-699; Luftschiffbau LZP-2070; Renegade Works "Mothership" LAVH; Artemis Nightwing; Federated-Boeing PBY-70 "Catalina II"; Dassault Sea Sprite; S-K Aerospace SKA-008; Hughes Stallion WK-4; Federated-Boeing Tundra-9; Ares Venture; Northrup Wasp
 
 **Total vehicle SKUs:** 138
+
+## Complete Trog vehicles
+
+**Verified from:** `completetrog.pdf`.
+
+| Name | Handl | Speed | Accel | Body | Armor | Pilot | Sens | Seats | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BMW Trollhammer | 4/3 | 4 | 2 | 10 | 8 | 1 | 2 | 1 | - | 12,500¥ | Meta-friendly bike. |
+| Ford Titan | 3/2 | 4 | 1 | 16 | 8 | 2 | 2 | 8 | - | 32,500¥ | Econovan with trog headroom/seats. |
+
+HT Cocotaxi / Camellos already listed (now PDF-verified via HT).
+

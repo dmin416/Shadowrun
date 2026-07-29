@@ -2,7 +2,7 @@
 
 **Books:** [Core](../Source%20Texts/Shadowrun%20Fifth%20Edition%20Core%20Rulebook/INDEX.md) · [RnG](../Source%20Texts/Run%20and%20Gun/INDEX.md) · Hard Targets\* · [SL](../Source%20Texts/Street%20Lethal/INDEX.md)
 
-\*No Hard Targets PDF in `Source/PDF` - HT section unverified.
+\*Hard Targets gear verified from `Shadowrun_5E_Hard_Targets.pdf`.
 
 **Verified from:** `Source/PDF` Core, Run & Gun, Street Lethal.
 
@@ -84,14 +84,16 @@ Printed features on fashion / specialty armor - not Capacity mods you bolt on la
 
 ---
 
-## Hard Targets - UNVERIFIED (no local PDF)
+## Hard Targets armor modifications
+
+**Verified from:** `Shadowrun_5E_Hard_Targets.pdf`.
 
 | Modification | Capacity | Avail | Cost | Notes |
 | --- | --- | --- | --- | --- |
-| Concealed Pocket | [1] | 4 | 40¥ | Pending HT PDF. |
-| Faraday Pocket | [1] | 7R | 50¥ | Pending HT PDF. |
-| Biofiber Pocket | [2] | 10F | 700¥ | Pending HT PDF. |
-| Attachable Gear Access | [4] | 4 | 150¥ | Pending HT PDF. |
+| Concealed Pockets | [1] | 4 | 40¥ | −2 Conceal on holdout-sized item. |
+| Faraday Pocket | [1] | 7R | 50¥ | Blocks all wireless in pocket. |
+| Biofiber Pocket | [2] | 10F | 700¥ | Blocks astral of contents; active foci unusable; 20¥/mo nutrient. (Print may show `700F` — treat as 700¥.) |
+| Gear Access | [4] | 4 | 150¥ | Draw −1 action step; negates Social/positive armor dice except soak, Intimidation, tactical groups. |
 
 ---
 
@@ -150,12 +152,13 @@ Exact Capacity for a given gadget follows its own write-up when it disagrees wit
 | Modification | Capacity | Avail | Cost | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Parachute (Urban Explorer Daedalus) | - | - | **750¥** | Street Lethal | Packed one-shot BASE chute for the Daedalus wingsuit (SL: “Parachutes for this item cost 750¥.”). |
-| Drag Handle | [1] | - | 50¥ | Better Than Bad\* | Haul handle for dragging a downed wearer. |
-| Pneumatic Anti-Shock Garment | [6] | 6 | 500¥ | Better Than Bad\* | Anti-shock / impact garment layer. |
-| Voidblack Coating | [6] | 14F | 3,000¥ | Cutting Aces\* | Light-eating / ultra-black coating for stealth fashion. |
-| AR Fashion | [0] | - | 50¥ | Cutting Aces\* | AR overlay fashion layer. |
-
-\*No PDF in `Source/PDF` - unverified.
+| Drag Handle | [1] | - | 50¥ | B&B | +2 Lifting/Carrying to move wearer. |
+| PAG Modification (Pneumatic Anti-Shock) | [6] | 6 | 500¥ | B&B | Needs biomonitor; activated −2 Agility; slows bleeding. Also PAG Suit: Armor 3, Cap 4, Avail 6, 500¥. |
+| Voidblack Coating | [6] | 14F | 3,000¥ | CA | Visual Perception −4 in dark/shadow; vs lasers AP −3 (min 0), DV +1; incompatible with ruthenium/electrochromic/pulse weave. |
+| AR Enhanced | [0] | - | 50¥ | CA | Enables AR overlays. Subscriptions: Casual 25¥/mo; Business Avail 2 / 100¥; Formal Avail 6 / 500¥; Designer Avail 10 / 1,500¥. |
+| Distributed Deck | [6] | +2 | +10% deck cost | CA | Pat-down/MAD ignore deck (−6 Conceal); Edge test on armor breach or deck disabled until repaired. |
+| Grey Mana Integration (R1–3) | [Rating] | 6F | Rating × 1,000¥ | BTB | +1 die/Rating resist targeted magic/AoE; Awakened −Rating Magic tests and −1 Force/hits sustained; astrally visible; rating fixed once installed. |
+| Grey Mana Integration (R4–6) | [Rating] | 9F | Rating × 2,000¥ | BTB | As above; Rating 4+ requires chemical seal. Does **not** stack with Grey Mana Tattoos — use higher Rating. |
 
 ---
 
@@ -163,4 +166,4 @@ Exact Capacity for a given gadget follows its own write-up when it disagrees wit
 
 - Helmet / shield Capacity for vision, audio, and the three elemental chem mods follows the same pool rules as worn armor.
 - Custom ballistic masks, Nightshade IR contacts, and Rapid Transit detailing packages are armor **options** tied to specific lines - see [Armor and Clothing](Armor%20and%20Clothing.md).
-- Pantheon / Kill Code hardpoints and Grey Mana Integration are setting-specific; not cataloged in full here.
+- Grey Mana body ink (GreyMans) lives under [Cyberware](Cyberware.md) / body mods (Essence cost).

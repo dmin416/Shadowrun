@@ -181,3 +181,31 @@ Not Street Gear Facility buys; lifestyle Assets from Run Faster. Still relevant 
 | Demolitions cooking with kit/shop/facility | Grenades and Explosives | Explosives procedures |
 | Spacesuit emergency slap-patch refill (50¥) | Medical Gear / Armor (spacesuits) | RnG spacesuit consumable, not a Tools shop SKU |
 | Duct tape (5¥); Backpack (20¥) | PACK-priced only (this file Common rules) | No Core Street Gear buy rows |
+
+## Complete Trog / Hard Targets survival & misc gear
+
+**Verified from:** CT Everything Trog; HT Wetwork Toolkit.
+
+| Name | Src | Avail | Cost | Notes |
+| --- | --- | --- | --- | --- |
+| Folding MetaChair (basic / self-assembly) | CT | - | 50¥ / 200¥ | Ork-scale portable chair. |
+| Folding MaxiMetaChair (basic / self-assembly) | CT | - | 85¥ / 235¥ | Troll-scale. |
+| Reinforced standard rope (100 m) | CT | 2 | 100¥ | Holds 600 kg. |
+| Reinforced stealth rope (100 m) | CT | 12F | 170¥ | Holds 600 kg. |
+| Reinforced microwire (100 m) | CT | 8 | 100¥ | Holds 200 kg. |
+| Yerz Kit | CT | - | 500¥ | Vehicle cosmetic customization. |
+| C-Squared (R1–6) | HT | 2 | Rating × 15¥ | +Rating DNA-find threshold. |
+| Enchanting Gloves | HT | 8 | 2,000¥ | Block alchemist aura reading; attuned to creator. |
+| Quickdraw Quiver | HT | 4 | 500¥ | Holds 20 shafts; wireless cycle types. |
+| Reactive Myomer Pack | HT | 6 | 450¥ | Store Free; retrieve Complex (wireless Simple). |
+| Reloading Rail | HT | 4R | 675¥ | Free 1-hand reload; +2 Conceal; 4 clips. |
+| Reloading Slide | HT | 3R | 300¥ | Pistol/MP; wireless Free reload. |
+| Smokebomb | HT | 6 | 25¥ | −2 attack 3 m flash; moderate smoke −3, 1 CT. |
+| Ultrasonic Noise Generator (R1–4) | HT | Rating × 2 | Rating × 60¥ | +R dice vs ultrasound Sneaking. Cap [2]. |
+| Voice Warper (R1+) | HT | 8R | Rating × 250¥ | Resist voice ID by Rating; +1 Intimidation Limit. Cap [1]. |
+| FAB Sensor | HT | +8R | 4,000¥ | Cap [1]; 5 m active mana; 50¥/mo feedstock. |
+| Polychromic contact lens | HT | - | 100¥ | Cap [1]; change retina color/pattern. |
+| Smart Wig | HT | 8 | 1,200¥ | 4 presets; +100¥ trode. |
+| Synthskin Face Mask (R1–6) | HT | 8 | Rating × 100¥ | Biometric or Software+Logic sets face. |
+| Theatrical Cosmetics Kit | HT | 4 | 300¥ | 10 disguises; 10 min flat. |
+

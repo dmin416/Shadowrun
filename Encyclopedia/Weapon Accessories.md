@@ -6,7 +6,7 @@ Agent reference (SR5). LLM layout; full mechanical detail from local PDFs.
 **Printed:** Core Firearm Accessories ~p.431-433 (mount glossary ~p.417); RnG Weapon Accessories ~p.50-53 + All About Flamethrowers p.49 + tables ~p.54/209; SL Expanded Arsenal accessories ~p.45-47
 **See also:** `Encyclopedia/Firearms.md` · `Encyclopedia/Ammunition.md` · `Encyclopedia/Melee Weapons.md` (bayonet / Stun-O-Net / chainsaws) · `Encyclopedia/Exotic Weapons.md` (bolas / boom-bolas / chainsaws) · `Encyclopedia/Sensors and Optics.md` (vision enhancements for scopes) · `Encyclopedia/Commlinks and Electronics.md` (weapon commlink) · `Encyclopedia/Tools Kits and Survival.md` (standalone grapple gun / flashlights / rope)
 
-**Out of scope:** integral (factory) accessories that do not use mounts (listed on the weapon); cyber implant weapons; ammo types; Hard Targets / Krime Katalog (no local PDF). Permanent bayonet on Nemesis Praetorian → firearm SKU + melee bayonet row in Melee Weapons. **Custom Look** Level 1 is referenced by SL Additional Clip / Gemini but is **not defined** in Core/RnG/SL local PDFs (only: Level 1 with no Intimidation bonus when from Additional Clip).
+**Out of scope:** integral (factory) accessories that do not use mounts (listed on the weapon); cyber implant weapons; ammo types. Hard Targets install mods are cataloged below. Permanent bayonet on Nemesis Praetorian → firearm SKU + melee bayonet row in Melee Weapons. **Custom Look** also appears as an HT install mod (full definition there / below).
 
 ## Inventory (completeness checklist)
 
@@ -196,3 +196,32 @@ Bonuses only while wireless on (and as each entry requires).
 - Standalone survival flashlight / grapple gun full kit → Tools Kits and Survival when filled; mountable/underbarrel cross-linked above.
 - No holographic sight SKU found in Core/RnG/SL local PDFs (only listed as Red Dot incompatibility).
 - Custom Look Level 1 rules body not in Core/RnG/SL local PDFs.
+
+## Hard Targets weapon modifications
+
+**Verified from:** `Shadowrun_5E_Hard_Targets.pdf` Wetwork Toolkit install table. Install uses Armorer (or noted skill) Extended Tests; Threshold/Duration/Tools as printed.
+
+| Name | Slot | Avail | Cost | Rules |
+| --- | --- | --- | --- | --- |
+| Ammo Skip System | Underbarrel | 8R | 250¥ | Simple switch ammo (wireless Free); cylinder/drum only. |
+| Ceramic/Plasteel Components (R1+) | - | 12+R F | base × Rating¥ | −1 MAD pool/Rating (max 6); no smartlink/chameleon. Facility / Armorer. |
+| Chameleon Coating | Side | 10R | 1,000¥ | Conceal −2 one-hand / −1 two-hand. |
+| Custom Look | - | 2 | 300¥ | +1 Intimidation; +1 Memory vs wielder. |
+| Easy Breakdown (manual) | Side | 8R | 750¥ | Break down/assemble 3 Complex Actions. |
+| Easy Breakdown (powered) | Side | 10R | 1,250¥ | Break down/assemble 2 Complex Actions. |
+| Electronic Firing | Barrel | 10R | 1,000¥ | +1 RC; −1 sound Perception; caseless ammo. |
+| Explosive Clip | - | grenade+2F | grenade+20¥ | Mini-grenade thrown; half dmg; Cap −2. |
+| Extended Clip R1/R2 | - | 6R | 35¥ | +50% / +100% capacity; +1 Conceal/R. |
+| Holographic Sight | Top | 2 | 125¥ | Like laser without beam; Quick Draw +1 success. |
+| Longbarrel | Barrel | 8R | weapon cost | +1 Acc, +1 Conceal. |
+| Melee Hardening | - | 6 | 500¥ | Protects gun-as-club impacts. |
+| Mounted Crossbow | Barrel+Under | 8R | 1,000¥ | Acc 5 / 7P / AP −2 / SS / Ammo 1; Archery. |
+| Overclocked | - | 6F | 200¥ | Electric melee: Stun→Physical, DV −2; crit = self full base. |
+| Personalized Grip | - | 2 | 100¥ | +1 Acc. |
+| Retractable Bayonet | Under | 6R | 200¥ | (STR+1)P AP −1 Reach 2; extend Simple (wireless Free). |
+| Sawed-Off/Shortbarrel | Barrel | 4R | 20¥ | −1 DV, +1 Conceal; no barrel mods; shotguns lose narrow spread. |
+| Stock Removal | Stock | 2 | 20¥ | −1 RC, −1 Conceal; with sawed-off also −1 Acc. |
+| Trigger Removal | - | 2 | 50¥ | Requires smartgun; +1 Acc (no stack except smartlink). |
+| Underbarrel Laser | Under+Side | 16F | 22,000¥ | Acc 8 / 5P / AP −10 / SA / 5(c)/ext (Redline-based). |
+| Underbarrel Shotgun | Under | 5R | 600¥ | Acc 3 / 9P / AP −1 / SS / RC −1 / 4(m) pump. |
+

@@ -7,7 +7,7 @@ Agent reference (SR5). LLM layout; full mechanical detail from local PDFs.
 **See also:** `Encyclopedia/Medical Gear.md` · `Encyclopedia/Nanotech and Geneware.md` (Narco / Anti-tox / carcerands) · `Encyclopedia/Ammunition.md` (capsule/toxin rounds) · `Encyclopedia/Grenades and Explosives.md` (gas grenades) · `Encyclopedia/Security and Surveillance.md` · `Encyclopedia/Magical Goods.md` (primary CF magical compounds + SG/FA alchemy; this file also reprints CF compound dose rows)
 
 **Scope:** toxins, street/combat/social drugs, BTLs/PsychChips, Awakened drugs, magical compounds, DMSO/carriers, extraction sedatives, industrial chemicals with buy stats, CF grades/custom/interactions/PCI/everyday pharma.
-**Out of scope:** critter Venom power templates (use toxin framework); Howling Shadows critter-only venoms without buy SKUs; Bullets & Bandages (no local PDF).
+**Out of scope:** critter Venom power templates (use toxin framework); Howling Shadows critter-only venoms without buy SKUs. HT commercial venoms and B&B/Lockdown/BTB drugs are cataloged below.
 
 ## Inventory (completeness checklist)
 
@@ -1075,3 +1075,70 @@ Every compiled-table name. CF-prose entries: effects above. Core/SS: Avail/Cost 
 - Memory Fog: CF PDF truncates after “previous”; entry completes same-altered-state recall without the −2.
 - Laés: SS vs CF wipe wording differs (any damage vs “or fall unconscious”); both recorded; SS preferred for combat toxin use.
 - Critter Venom power defaults (Core p.401) point to toxin framework; species-specific buyable venoms not cataloged without SKUs.
+
+## Hard Targets toxins
+
+**Verified from:** `Shadowrun_5E_Hard_Targets.pdf`.
+
+| Name | Vector | Speed | Power | Avail | Cost/Dose | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aconite | Inj/Ing | 1 CT | 5 | 11F | 200¥ | P dmg, Nausea; forces shapeshifters to natural form (Will+Magic vs Power). |
+| Atropine | Inj | Immediate | 5 | 10F | 150¥ | P dmg, Disorientation. |
+| Dog Asp Venom | Inj | 1 min | 10 | 12F | 350¥ | P dmg (necrosis). |
+| Ekyelebenie Venom | Contact | 1 CT | 8 | 16F | 575¥ | P dmg + vision −Power; −6+ = blind 24 hr. |
+| Naga Venom | Inj | Immediate | =Naga Magic | Power×3 F | Power×100¥ | Power scales with source naga Magic. |
+| Nova Scorpion Venom | Inj | 1 hr | 12 | 14F | 600¥ | Pen −2; slow-acting. |
+| Tetrodotoxin | Inj/Ing | 1 CT / 10 min | 7 | 18F | 1,000¥ | Paralysis; Power>Rea = paralyzed 1 hr. |
+
+## Bullets & Bandages drugs / toxins / pathogens
+
+**Verified from:** `Shadowrun_5E_Bullets_&_Bandages.pdf`.
+
+| Name | Type | Avail | Cost/Dose | Notes |
+| --- | --- | --- | --- | --- |
+| Crash | Drug | 3 | 800¥ | Injectable trauma-patch Stabilization (Care Under Fire compatible). |
+| Cryo | Drug | 8R | 1,000¥ | Rapid-infuser only; suspended animation (30−Body) min. |
+| HemoSynth | Drug | 4 | 2,000¥ | Rapid-infuser; removes Progressive/Overflow over Body×2 CT after Body CT infusion. |
+| NanoScan | Drug | 5 | 500¥ | Soft-nanite biomonitor 24 hr (or hive Rating days). |
+| Neostigmine | Drug | 2 | 100¥ | vs Paralysis: double Reaction; Paralysis duration halved. |
+| Ondansetron | Drug | 2 | 50¥ | vs Nausea: double Willpower; Nausea duration halved. |
+| Sugammadex | Drug | 6 | 100¥ | vs Rocuronium: −2 remaining Power per CT. |
+| Dread | Toxin | 12R | 1,000¥ | Inj; Speed 1 CT; Pen 1; Power 8; Disorientation, Panic. |
+| Picrotoxin | Toxin | 8R | 250¥ | Ing; Speed 1 CT; Power 8; Agony, Physical. |
+| Retro | Toxin | 10F | 500¥ | Inh; Speed 1 CT; Power 6; Agony, Paralysis, Physical. |
+| Rocuronium | Toxin | 6R | 50¥ | Inj; Speed 1 CT; Power 10; Paralysis ("Rock"). |
+| Cypher | Pathogen | 16R | 5,000¥ | Inh/Inj; Speed 12 hr (10); Power 4; genome data encoding + memory loss. |
+| Cryptococcus Metaformans | Pathogen | - | - | Astral-contact fungal; temp Essence loss = Power. No street Avail/Cost. |
+| Red Masque | Pathogen | - | - | Inhaled viral; drains STR/LOG/WIL. No street Avail/Cost. |
+
+## Lockdown drugs
+
+**Verified from:** `shadowrun-lockdown-pdf.pdf`.
+
+| Name | Avail | Cost/Dose | Notes |
+| --- | --- | --- | --- |
+| Pinpoint | 6R | 75¥ | +2 Intuition, +1 Mental limit; Perception without Observe in Detail −10; crash −3 INT/−2 Mental. |
+| Numb | 6R | 150¥ | High Pain Tolerance (14); −2 tactile Perception, −1 Agility. |
+| Buffout | 6R | 100¥ | +6 STR Lift/Carry/Grapple; −4 STR melee DV; crash self-damage. |
+| Accelerator | 6R | 200¥ | +3d6 Initiative dice (cap 5d6 with R1 init aug); −2 Body DR; bleeding 2P/round. |
+
+## Better Than Bad toxin
+
+| Name | Vector | Speed | Power | Avail | Cost/Dose | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Blight | Inj / Special | Immediate | 12 | 8F | 250¥ | Awakened lose manasphere [12 − (Body or Magic, higher)] hours (min 1). Dual-natured −4 all actions. +DMSO: contact; Awakened resist with Drain Resistance vs Power (Stun Drain). |
+
+## Cutting Aces tailored perfume / cologne
+
+All last ~4 hr or until washed unless noted.
+
+| Name | Avail | Cost | Notes |
+| --- | --- | --- | --- |
+| Aztec Fly | 6 | 100¥ | +1 Con (Seduction) vs metahumans. |
+| Black Panther | 8R | 250¥ | +1 Social vs metahumans. |
+| Lion's Roar | 4 | 75¥ | +1 Intimidate vs metahumans. |
+| Tanake Tiger | 5 | 100¥ | As Critter Spook (RF). |
+| Tracking Hound | 3 | 75¥ | +2 Tracking with Olfactory Sensors or Scent. |
+| Winter Wolf | 3 | 50¥ | +2 Intimidate vs animals. |
+| Genemarked Pheromones | 8F | 300¥ | +2 Social vs one individual (needs genetic sample). |
+
