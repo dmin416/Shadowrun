@@ -38,3 +38,5 @@ Source Texts extracted via `Source/_extract/extract_serrated_edge.py` (pypdf). F
 - [x] GM adventure brief (`00 - GM Adventure Brief.md`)
 - [x] Formatting pass (reflow, section H2s, soft-hyphen fix)
 - [x] Gear/stat audit: no new shop Avail/Cost SKUs; NPC loadouts + Scene 7 detonator frag profile only
+- [x] Loss-check vs PDF (`serrated_edge_qa_report.md` PASS; ~98% sample coverage; map stubs image-only)
+- [x] Done-check (INDEX links, H1s, scene landmarks, GM brief present)

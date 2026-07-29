@@ -214,10 +214,18 @@ Chapter markdown under `Source Texts/` is the verbatim base for Mechanics/Encycl
 
 ### Core Rulebook
 
-- [x] Fiction / intro chapters present (01-04)
-- [ ] Fill or import `05`-`21` Core chapters (Concepts, Chargen, Skills, Combat, Matrix, Riggers, Magic, Gear, etc.) where still thin
-- [ ] Fill `23 - Important Tables.md`
-- [ ] Fill remaining Core files as needed (`22`, `24`-`28`)
+PDF: `Source/PDF/shadowrunfiftheditioncorerulebook_V2.pdf` (505 pages). Folder: `Source Texts/Shadowrun Fifth Edition Core Rulebook/`.
+
+**Audited 2026-07-28:** main rules chapters are filled (text volume ≈ PDF for Chargen/Skills/Combat/Matrix/Riggers/Magic/GM/NPCs/Gear). TODO items below that claimed “still thin” for `05`-`21` were stale.
+
+- [x] Fiction / intro chapters (01-04, 07, 10, 12, 14, 16, 18)
+- [x] Rules chapters `05`-`21` (Concepts through Street Gear) present at ~full PDF text volume
+- [x] `22 - Book Index.md` present (multi-book mega-index, not Core-only)
+- [x] `23 - Important Tables.md` cheat-sheet present (not full reprint of every table)
+- [x] `24 - Random Run Generator.md` / `25 - Character Sheet.md` filled as text schemas
+- [x] `26`-`28` art foldouts documented as image-only stubs (intentional)
+- [ ] Formal INDEX pipeline flags + book-wide loss-check script (like Hard Targets QA)
+- [ ] Em/en dash scrub (still present in many Core chapters; Combat/Matrix already clean)
 
 ### Run & Gun (`Source Texts/Run and Gun/`)
 
@@ -362,6 +370,8 @@ Compiled gear tables + Combat Options cheat sheet.
 - [x] GM adventure brief (`00 - GM Adventure Brief.md`): scene goals, pay, NPCs, branches
 - [x] Formatting pass (`Source/_extract/format_serrated_edge.py`): reflow, H2 sections, soft hyphens
 - [x] Gear/stat audit: no new shop Avail/Cost SKUs (NPC gear + Scene 7 detonator only)
+- [x] Loss-check vs PDF (`Source/_extract/serrated_edge_qa_report.md` PASS)
+- [x] Done-check (INDEX / H1s / scene landmarks; map chapters image-only stubs)
 
 ### Rigger 5.0 (`Source Texts/Rigger 5/`)
 
@@ -391,13 +401,29 @@ PDF: `Source/PDF/seattlesprawl.pdf` (90 pages). Extractor: `Source/_extract/extr
 - [x] Extract all 16 chapter files + INDEX (PDF idx map)
 - [x] Format pass (reflow, JackPoint comments, At a Glance tables, subheads; smash-in header fixes)
 - [x] Loss-check vs PDF (no mass loss in 02-16; ch. 01 condensed TOC intentional; fixed Council Island header smash)
-- [ ] Done-check
+- [x] Done-check (`Source/_extract/seattle_sprawl_qa_report.md` PASS)
 - [ ] Optional: LLM locale brief (district hooks, gangs, opposition, Help Wanted jobs)
 
 ### Other supplements
 
 - [x] Chrome Flesh: all 13 chapters + INDEX; format/polish + loss/done QA PASS (`Source/_extract/chrome_flesh_qa_report.md`)
 - [x] Kill Code: all 16 chapters + INDEX; landmark/JP sweep PASS (`Source/_extract/killcode_sweep_report.md`; ch13 JP order fixed)
+- [x] Data Trails: all 16 chapters + INDEX; landmark sweep PASS (`Source/_extract/datatrails_sweep_report.md`)
+- [x] Bullets & Bandages: extract + format + loss/done (`Source/_extract/bullets_bandages_qa_report.md`)
+- [x] Gun Heaven 3: all 39 sections + INDEX; extract/format/loss/done PASS (`Source/_extract/gun_heaven_3_qa_report.md`)
+- [x] Book of the Lost: all 16 chapters + INDEX; extract/format + QA PASS (`Source/_extract/book_of_the_lost_qa_report.md`)
+- [x] Better Than Bad: all 12 chapters + INDEX; extract/format + QA PASS (`Source/_extract/better_than_bad_qa_report.md`)
+- [x] Cutting Aces: all 11 chapters + INDEX; extract/format + QA PASS (`Source/_extract/cutting_aces_qa_report.md`)
+- [x] Assassin's Primer: all 7 chapters + INDEX; landmark sweep PASS (`Source/_extract/assassins_primer_sweep_report.md`)
+- [x] Lockdown: all 15 chapters + INDEX; extract/format + QA PASS (`Source/_extract/lockdown_qa_report.md`)
+- [x] Aetherology: all 6 chapters + INDEX; extract/format/loss/done PASS (`Source/_extract/aetherology_qa_report.md`)
+- [x] Complete Trog: all 13 chapters + INDEX; extract/format/loss/done PASS (`Source/_extract/complete_trog_qa_report.md`)
+- [x] Hard Targets: all 15 chapters + INDEX; extract/format/loss/done PASS (`Source/_extract/hard_targets_qa_report.md`)
+- [x] Splintered State: all 18 chapters + INDEX; extract/format/loss/done PASS (`Source/_extract/splintered_state_qa_report.md`)
+- [x] Shadow Spells: all 8 chapters + INDEX; landmark sweep PASS (`Source/_extract/shadow_spells_sweep_report.md`)
+- [x] Stolen Souls: all 17 chapters + INDEX; extract/format + QA PASS (`Source/_extract/stolen_souls_qa_report.md`)
+- [x] Market Panic: all 14 chapters + INDEX; extract/format + QA PASS (`Source/_extract/market_panic_qa_report.md`)
+- [x] Dark Terrors: all 16 chapters + INDEX; extract/format/loss/done PASS (`Source/_extract/dark_terrors_qa_report.md`)
 - [ ] Other INDEX-only books: same extract → format → loss-check → done-check pipeline when cited
 
 ---

@@ -4,25 +4,27 @@ Shadowrun 5e titles not in your Humble Mega Bundle. Prioritized by usefulness.
 
 ## High priority
 
-- **Lockdown** – CFD / Boston quarantine plot book (pairs with Stolen Souls, Dark Terrors, Market Panic)
+- ~~**Lockdown**~~ – have PDF; Source Texts pipeline PASS
 - **Bloody Business** – Campaign book with adventure building blocks
 - **Hard Targets** – Wetwork guide + Havana
-- **Cutting Aces** – Cons / social runs + Constantinople
-- **Better Than Bad** – Hooding / runs with a conscience + Pretoria
-- **Book of the Lost** – Tarot-driven campaign / metaplot
+- ~~**Cutting Aces**~~ – have PDF; Source Texts pipeline PASS
+- ~~**Better Than Bad**~~ – have PDF; Source Texts pipeline PASS
+- ~~**Book of the Lost**~~ – have PDF; Source Texts pipeline PASS
 - **No Future** – Later cyberpunk culture sourcebook
 - **Court of Shadows** – Seelie Court / fae alternate setting
 - **False Flag** – Denver trilogy #2 (you have Serrated Edge)
 - **Ripping Reality** – Denver trilogy #3
 - **Krime Katalog** – Extra weapons catalog PDF
-- **Splintered State** – Intro Seattle adventure
+- **Splintered State** – Intro Seattle adventure - **DONE** in repo (`Source Texts/Splintered State/`)
 
 ## Useful extras
 
-- **Shadow Spells** – Extra spells PDF
-- **Assassin’s Primer** – Assassin character options
+- ~~**Shadow Spells**~~ – have PDF; Source Texts pipeline PASS
+- ~~**Assassin’s Primer**~~ – have PDF; Source Texts pipeline PASS
 - **Bullets & Bandages** – Medical / combat support PDF
-- **Gun Heaven 3** – Extra weapons (dual-statted)
+- **Gun Heaven 3** – Extra weapons (dual-statted) - **DONE** in repo (`Source Texts/Gun Heaven 3/`)
+- **Aetherology** – Metaplanes / astral exploration - **DONE** in repo (`Source Texts/Aetherology/`)
+- **Dark Terrors** – CFD-era horror / threats - **DONE** in repo (`Source Texts/Dark Terrors/`; PDF was already in Mega Bundle)
 
 ## Location PDFs (Shadows in Focus)
 

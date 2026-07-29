@@ -61,6 +61,21 @@ Extract + format + loss-check + done-check. Re-validated where a report/script e
 | [Forbidden Arcana](Source%20Texts/Forbidden%20Arcana/) | Re-extracted + reformatted; `qa_six_books.py` PASS; Magic Mastery qualities are `###` headings | Tradition subsection labels are dense `##`; residual running-header glue may remain in a few prose blocks |
 | [Chrome Flesh](Source%20Texts/Chrome%20Flesh/) | All 13 chapters + INDEX; `qa_chrome_flesh.py` / `chrome_flesh_qa_report.md` PASS; polish via `polish_six_books.py` | Residual long prose paras (~800-900 chars) acceptable; optional table re-audit |
 | [Kill Code](Source%20Texts/Kill%20Code/) | All 16 chapters + INDEX; `killcode_sweep_report.md` landmark/JP PASS | Ch13 JP handle order fixed in sweep; Denial of Service / Power Munger print quirks noted in-file |
+| [Data Trails](Source%20Texts/Data%20Trails/) | All 16 chapters + INDEX; `datatrails_sweep_report.md` landmark PASS | Print quirks noted in-file (Insansity, Emporer, etc.); optional deeper table re-audit |
+| [Gun Heaven 3](Source%20Texts/Gun%20Heaven%203/) | All 39 sections + INDEX; `gun_heaven_3_qa_report.md` PASS | Dual SR5/SR4A stats; page 3 split for upgrades vs using-this-book |
+| [Book of the Lost](Source%20Texts/Book%20of%20the%20Lost/) | All 16 chapters + INDEX; `book_of_the_lost_qa_report.md` PASS | Residual JP wrapping / Character Trove table polish possible; PDF typo "shadowurns" preserved |
+| [Better Than Bad](Source%20Texts/Better%20Than%20Bad/) | All 12 chapters + INDEX; `better_than_bad_qa_report.md` PASS | Residual inline gear tables / JP handles in Building a Hooder; Hooder Runs dice tables are fenced lists |
+| [Cutting Aces](Source%20Texts/Cutting%20Aces/) | All 11 chapters + INDEX; `cutting_aces_qa_report.md` PASS | Residual JP wrapping; some gear/NPC tables still prose-ish |
+| [Aetherology](Source%20Texts/Aetherology/) | All 6 chapters + INDEX; `aetherology_qa_report.md` PASS | Mid-page splits for Greater Beings / Rules; spirit stat blocks still column-per-line |
+| [Splintered State](Source%20Texts/Splintered%20State/) | All 18 chapters + INDEX; `splintered_state_qa_report.md` PASS | Cover image-only; mid-page scene splits; NPC stat blocks mostly fenced/columnar |
+| [Dark Terrors](Source%20Texts/Dark%20Terrors/) | All 16 chapters + INDEX; `dark_terrors_qa_report.md` PASS | Cover image-only; Credits/Introduction split on idx 5; residual Game Information heading density in bug section |
+| [Assassin's Primer](Source%20Texts/Assassin's%20Primer/) | All 7 chapters + INDEX; `assassins_primer_sweep_report.md` landmark PASS | Short PDF (17 pp); print quirks noted in-file (`has lead`, plural Disadvantages) |
+| [Shadow Spells](Source%20Texts/Shadow%20Spells/) | All 8 chapters + INDEX; `shadow_spells_sweep_report.md` landmark PASS | 41 spells / 3 rituals / 16 adept powers; print quirks noted (Crystaline, Orichalum, Mana Ebb wording) |
+| [Lockdown](Source%20Texts/Lockdown/) | All 15 chapters + INDEX; `lockdown_qa_report.md` PASS | Dense QZ diary / CFD rules; residual date-stamp headers and table polish possible |
+| [Stolen Souls](Source%20Texts/Stolen%20Souls/) | All 17 chapters + INDEX; `stolen_souls_qa_report.md` PASS | Compiled tables chapter still flattened prose rows; CFD Game Info dense |
+| [Market Panic](Source%20Texts/Market%20Panic/) | All 14 chapters + INDEX; `market_panic_qa_report.md` PASS | Big Ten corp book (210 pp); residual JP polish / table formatting possible |
+| [Seattle Sprawl](Source%20Texts/Seattle%20Sprawl/) | All 16 chapters + INDEX; `seattle_sprawl_qa_report.md` PASS | Ch.01 condensed TOC intentional; Council Island has no Help Wanted in print |
+| [Serrated Edge](Source%20Texts/Serrated%20Edge/) | 16 PDF chapters + GM brief + INDEX; `serrated_edge_qa_report.md` PASS | Denver Map / Medical Center Map are image-only stubs; open PDF for art |
 
 ---
 
@@ -79,13 +94,6 @@ Highest gap density in this audit:
 
 Treat Encyclopedia as **catalog complete for available PDFs**, not as fully verified against every cited book.
 
-### Serrated Edge
-
-**Demoted from perfect.** Adventure scenes + GM brief are substantial, and INDEX marks extract/format/brief/gear audit done, but:
-
-- No formal PDF loss-check like RnG / six-book QA
-- Map chapters are intentionally image-only stubs (caption/notes only); open the PDF for the art
-
 ### Removed / never verified
 
 - Separate “Qualities Reference” line (duplicate of Qualities.md; nothing extra to audit)
@@ -96,8 +104,7 @@ Treat Encyclopedia as **catalog complete for available PDFs**, not as fully veri
 ## Still open
 
 - Encyclopedia polish (cross-links, source tags, layout)
-- Seattle Sprawl done-check
-- Core back-matter thins (Random Run Generator, Character Sheet, cityscapes, cover scenes) if you care about those pages
+- Core Source Texts: rules chapters filled (volume ≈ PDF); art back-matter stubs intentional; formal Core QA / em-dash scrub still open (see TODO)
 
 Living the Shadows Mechanics filled 2026-07-26: Actions Outside Combat, Healing and Injuries, Gig Rewards, Housing and Lifestyle, Vehicles.
 
@@ -105,4 +112,20 @@ Specialized Basics filled 2026-07-26: Matrix Basics, Magic Basics, Rigging Basic
 
 Chrome Flesh Source Texts QA PASS 2026-07-26: format/polish + loss/done (`chrome_flesh_qa_report.md`).
 
-Audit / fix scripts: `Source/_extract/audit_completed*.py`, `qa_six_books.py`, `qa_chrome_flesh.py`, `fix_audit_errors.py`, `extract_forbiddenarcana.py`, `format_forbiddenarcana.py`, `killcode_sweep.py`, `killcode_landmark_sweep.py`, `killcode_sweep_report.md`, `chrome_flesh_qa_report.md`.
+Book of the Lost Source Texts QA PASS 2026-07-28: extract/format + loss/done (`book_of_the_lost_qa_report.md`).
+
+Better Than Bad Source Texts QA PASS 2026-07-28: extract/format + loss/done (`better_than_bad_qa_report.md`).
+
+Cutting Aces Source Texts QA PASS 2026-07-28: extract/format + loss/done (`cutting_aces_qa_report.md`).
+
+Lockdown Source Texts QA PASS 2026-07-28: extract/format + loss/done (`lockdown_qa_report.md`).
+
+Stolen Souls Source Texts QA PASS 2026-07-28: extract/format + loss/done (`stolen_souls_qa_report.md`).
+
+Market Panic Source Texts QA PASS 2026-07-28: extract/format + loss/done (`market_panic_qa_report.md`).
+
+Seattle Sprawl Source Texts done-check PASS 2026-07-28 (`seattle_sprawl_qa_report.md`).
+
+Serrated Edge Source Texts loss/done QA PASS 2026-07-28 (`serrated_edge_qa_report.md`).
+
+Audit / fix scripts: `Source/_extract/audit_completed*.py`, `qa_six_books.py`, `qa_chrome_flesh.py`, `qa_book_of_the_lost.py`, `qa_better_than_bad.py`, `qa_cutting_aces.py`, `qa_lockdown.py`, `qa_stolen_souls.py`, `qa_seattle_sprawl.py`, `qa_serrated_edge.py`, `fix_audit_errors.py`, `extract_forbiddenarcana.py`, `format_forbiddenarcana.py`, `extract_book_of_the_lost.py`, `format_book_of_the_lost.py`, `extract_better_than_bad.py`, `format_better_than_bad.py`, `extract_cutting_aces.py`, `format_cutting_aces.py`, `extract_lockdown.py`, `format_lockdown.py`, `extract_stolen_souls.py`, `format_stolen_souls.py`, `killcode_sweep.py`, `killcode_landmark_sweep.py`, `killcode_sweep_report.md`, `chrome_flesh_qa_report.md`, `book_of_the_lost_qa_report.md`, `better_than_bad_qa_report.md`, `cutting_aces_qa_report.md`, `lockdown_qa_report.md`, `stolen_souls_qa_report.md`, `seattle_sprawl_qa_report.md`, `serrated_edge_qa_report.md`.

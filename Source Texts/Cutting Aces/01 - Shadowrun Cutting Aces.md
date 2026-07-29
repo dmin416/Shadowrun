@@ -1,4 +1,7 @@
 # Shadowrun: Cutting Aces
 
-**Source:** Cutting Aces | `Source/PDF/Shadowrun_5E_Cutting_Aces.pdf` | print page ~1
+**Source:** Cutting Aces | `Source/PDF/Shadowrun_5E_Cutting_Aces.pdf` | PDF pages 1-2 (idx 0-1)
 
+© 2016 The Topps Company, Inc. All rights reserved. Shadowrun and Matrix are registered trademarks and/or trademarks of The Topps Company, Inc., in the United States and/or other countries. Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of Under License From ® www.catalystgamelabs.com CAT27202 The hotel bartender who slips you a guest's room number because he thinks it will help him get lucky. The security guard who lets a team into a top-secret facility because he thinks he's pitching in on covertops training. The business suit who drops ten thousand nuyen on a project because he thinks it'll earn him fifty thousand. Marks, all of them, and the Sixth World is full of them. Yeah, blasting your way into a well-guarded facility is fun, but talking your way in, smooth and subtle, might be more rewarding.
+
+Almost every kind of shadowrun involves at least a little con artistry, and some of them are full-on long cons. That means you need to sharpen your con game. With tips, plot updates, spells, gear, and more to improve characters' con abilities, Cutting Aces gives players the swagger and skills they need to swindle the world. It also includes information on one of the Sixth World's hottest spots for running a con - Constantinople, City of the World's Desire. Cuttings Aces is for use with Shadowrun, Fifth Edition, and it also contains plot information, story ideas, and characters that can be used with Shadowrun: Anarchy with slight adjustments of character stats. FIFTH EDITION

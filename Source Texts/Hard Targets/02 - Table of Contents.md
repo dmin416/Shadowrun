@@ -1,4 +1,21 @@
 # Table of Contents
 
-**Source:** Hard Targets | `Source/PDF/Shadowrun_5E_Hard_Targets.pdf` | print page ~3
+**Source:** Hard Targets | `Source/PDF/Shadowrun_5E_Hard_Targets.pdf` | PDF page index 2-3 (TOC; credits split to next file)
 
+4 5 6 10 ON THE LINE 11 CFD 11 Looking at a Lockdown 15 What's Up with Ares 19 Aztechnology: Fertile Fields of Blood 21 The Darkest Shadows 22 Ordo Maximus: Stakes at the Ready 22 Shedim: On the Verge of Extinction 24 Black Lodge: Dragon-Size Bullseye 25 Revising History 26 The Little Eight 28 Trouble in Paradise 30 Next Big Initiative of Danielle de la Mar 33 The "D" Word 34 Not on Your Radar 34 Pacifying the Pacific Northwest 36 While No One Was Looking 38 CFD on the Streets 39 42 IN THE CROSSHAIRS 43 NEUTRAL GROUND 43 The Hidden Blades 44 The Unwavering Shield 55 HIRING MEATSHIELDS 59 HIRING HITMEN 59 HIRING DUPES 60 62 WHO'S WHO IN THE MURDER WORLD 63 The Killers: Those Who Make Others Dead 64 The Saviors: Those Who (Try To) Keep People Alive 70 The Hunters: Turning Killers Into Prey 72 76 80 BRIEF HISTORY OF CUBA 81 HAVANA 86 How to Get Around 87 Family Business 89 NEIGHBORHOODS 94 Old Havana 94 Playa 100 Revolution Plaza 102 Central Havana 104 Regla 106 Eastern Havana 107 Guanabacoa 109 San Miguel del Padron 111 October Tenth 114 Cerro 114 Marianao 115 Arroyo Naranjo-Boyeros 116 OTHER PLACES OF INTEREST 119 Guantánamo Bay 119 Mariel 120 Isle of Youth (Treasure Island) 120 Varadero 122 ORGANIZED CRIME 122 Batista 122 Triad 124 Vory 124 Zobop 125 Sukuyan 126 Januarius 127 RENFIELD 127 128 Corps Cadavre 128 Grand Zombie 129 Obeah 129 Santería 130 Spirit Writing 130 Zombies 131 Zubembie powder 131 Zombie (Minion) Ritual 131 Awakened Creatures of the Caribbean 132 Loa, Orisha, and You 134 Water 135 Guardian 135 Man 135 Guidance 136 Task 136 Earth 136 Mentor Spirits 136 LIFE MODULES 137 Nationality 137 Languages 137 Teen Years 138 Real Life 138 VEHICLES 139 ADVANCED LIFSTYLES 139 Additional Rules 139 Shared Advanced Lifestyles 140 I ran out of Points, but want more stuff 140 Lifestyle Options 140 Lifestyle Qualities 141 Lifestyle Examples 142 144 148 KILLERS BORN AND MADE 149 Origins 149 2    CONTENTS/CREDITS >>
+
+Morality 151 The Skillset 152 The Opportunity 153 The Lifestyle 154 The Knot 155 Safehouse 156 The Territory 157 The Mark 160 The Contingency 167 The Drop 167 Timing 167 Withdrawal 168 Living With It 169 References and Assets 170 Loose Ends 170 Stress 171 The Burn 172 The Rep 173 Brand Identity and Signatures 174 IN PACE REQUISAT 176 178 A WORKMAN IS ONLY AS GOOD AS HIS TOOLS 178 Weapons 178 Weapon Modifications 180 Signature Weapons 183 Armor/Clothing 184 Armor Modifications 185 Cyberware/Bioware 185 Miscellaneous Gear 186 Disguise Gear 188 Ammunition 188 Drones 189 Reloading Drone 189 Adept Powers 190 Positive Qualities 191 Negative Qualities 191 Spells 191 The Ways and The Means 192 Alchemy 194 Adept 194 Magical Assassination Tactics 195 Assassination Knowledge Skills 195 Assassin Contacts 196 Expanded Weapon Concealment Rules 196 Expanded Bow Rules 197 New Archetype 197 GAME INFORMATION 198 WETWORK AND TEAMWORK 198 LIFE MODULES 199 Real Life 199 ADVENTURE HOOKS 201 Breaking Brackhaven 201 Connect the Dots 201 Cutting the Psyche 201 Denver Two-step 201 A Dozen Decoys 201 Hunting the Hunters 201 Kill the Carrier 202 Ork Uprising 202 Sparking the Keg 202 The Watching of Red Chief 202 © 2015 The Topps Company, Inc. All Rights Reserved.
+
+Shadowrun and Matrix are registered trademarks and/or trademarks of The Topps Company, Inc., in the United States and/or other countries. No part of this work may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, without the prior permission in writing of the Copyright Owner, nor be otherwise circulated in any form other than that in which it is published. Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of InMediaRes Productions, LLC.
+
+First Printing by Catalyst Game Labs, an imprint of InMediaRes Productions, LLC PMB 202 * 303 -91st Ave. NE, E-502 Lake Stevens, WA 98258 Find us online: info@shadowruntabletop.com
+
+(Shadowrun questions) http://www.shadowruntabletop.com
+
+(Catalyst Shadowrun website) http://www.shadowrun.com
+
+(oficial Shadowrun Universe website) http://www.catalystgamelabs.com
+
+(Catalyst website) http://shop.catalystgamelabs.com
+
+(Catalyst/Shadowrun orders)

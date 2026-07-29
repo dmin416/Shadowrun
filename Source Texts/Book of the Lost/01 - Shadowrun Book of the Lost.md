@@ -1,4 +1,7 @@
 # Shadowrun: Book of the Lost
 
-**Source:** Book of the Lost | `Source/PDF/Book of the Lost.pdf` | print page ~1
+**Source:** Book of the Lost | `Source/PDF/Book of the Lost.pdf` | PDF pages 1-2 (idx 0-1)
 
+© 2017 The Topps Company, Inc. All rights reserved. Shadowrun and Matrix are registered trademarks and/or trademarks of The Topps Company, Inc., in the United States and/or other countries. Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of Under License From ® www.catalystgamelabs.com CAT27452 The Bastard, upright. A man in clown makeup stands in a broken skyraker window over another man on the verge of a long plummet. Near the clown's hand, a white rose. Opportunity, adventure, but also mania and frenzy. 404, upright. A woman crouches on the edge of a rooftop, holding a white rose. In the distance is the image of a woman in a red dress. Destruction, failure, collapse. Queen of coins. A woman in a red dress, lounging amidst luxury. She has material wealth but emptiness of soul. Upright, she is opulence, magnificent. Inverse is suspense, fear.
+
+Opportunity and adventure abounds. Destruction and failure loom. Will the result be magnificence-or fear? Book of the Lost takes the intricate art of the Sixth World Tarot and turns it into stories and campaigns for Shadowrun players. Full of plot hooks and adventure seeds, this book is a treasure trove of ideas, mysteries, and enigmas that can make memorable games. Open it and explore knowledge that had been lost but is now, here, rediscovered. And waiting for you. Book of the Lost is for use with Shadowrun, Fifth Edition , and can easily be used with Shadowrun: Anarchy with minor NPC adjustments. FIFTH EDITION

@@ -1,4 +1,13 @@
 # Contents & Credits
 
-**Source:** Splintered State | `Source/PDF/pdfcoffee.com_shadowrun-5e-splintered-state-pdf-free.pdf` | print page ~3
+**Source:** Splintered State | `Source/PDF/pdfcoffee.com_shadowrun-5e-splintered-state-pdf-free.pdf` | PDF page index 2-2
 
+Shadowrun Line Developer: Jason M. Hardy Writing: Devon Oratz Cover Art: Aaron Riley Interior Art: Victor Corbella, Ian King, Rob Ruffolo, Nigel Sade, Bryan Syme Maps: Sean MacDonald Editing: Jason M. Hardy Proofing: Raymond Croteau, Robyn "Rat" King, Brandie Tarvin Cover Layout: Matt Heerdt Interior Layout: Matt Heerdt Art Direction: Brent Evans, Kat Hardy
+
+## Credits
+
+Copyright © 2013 The Topps Company, Inc. All Rights Reserved. Shadowrun, Splintered State, and Matrix are registered trademarks and/or trademarks of The Topps Company, Inc., in the United States and/or other countries. No part of this work may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, without the prior permission in writing of the Copyright Owner, nor be otherwise circulated in any form other than that in which it is published. Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of InMediaRes Productions, LLC. First Printing by Catalyst Game Labs, an imprint of InMediaRes Productions, LLC * PMB 202, 303 91st Ave. NE, E502, Lake Stevens, WA 98258 Find us online: info@shadowruntabletop.com shadowruntabletop.com catalystgamelabs.com battlecorps.com/catalog (Shadowrun questions) (official Shadowrun website) (Catalyst website) (Catalyst/Shadowrun orders)
+
+## Contents
+
+EVERYONE WANTS TO CHANGE THE WORLD............................3 ADVENTURE BACKGROUND............................................................4 PLOT SYNOPSIS..................................................................................5 SCENE 0: ROUNDED UP.....................................................................7 SCENE 1: YOU KNOW THE DRILL..................................................10 SCENE 2: WITHOUT A HITCH.........................................................13 SCENE 3: LYING DOWN ON THE JOB..........................................17 SCENE 4: A KNOCK AT THE DOOR.................................................20 SCENE 5: CAVEAT VENDITOR.........................................................27 SCENE 6: FRIENDS WITH HIGH PRICES......................................34 SCENE 7: THREADING THE NEEDLE (OPTIONAL).....................42 PICKING UP THE PIECES.................................................................51 LEGWORK............................................................................................52 MATRIX LEGWORK...........................................................................54 CAST OF SHADOWS.........................................................................54 BUT NOBODY WANTS TO DIE.......................................................62

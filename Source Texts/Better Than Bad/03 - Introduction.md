@@ -1,4 +1,11 @@
 # Introduction
 
-**Source:** Better Than Bad | `Source/PDF/better-than-bad-pdf.pdf` | print page ~6
+**Source:** Better Than Bad | `Source/PDF/better-than-bad-pdf.pdf` | PDF page index 5 (Introduction)
 
+Some shadowrunners will tell you there are no such things as good guys and bad guys in the shadows. There are only the living and the dead, and anything you do to stay in the former category is just fine. This book is not about them. Instead, this book is about the runners who look at the messed-up, drek-filled Sixth World around them and say, "It doesn't have to be like this." Are they going to change the entire world? Probably not-too much money and power are aligned against them. But will they fix some damage, right some wrongs, and make the lives of a few people better? Damn right they will. Since they follow in the footsteps of the legendary bandit Robin Hood, who robbed from the rich and gave to the poor, these runners are known as hooders.
+
+The reasons they do what they do, the causes they take up, and the methods they employ are enough to fill a book-specifically, the book you're reading now. Maybe they're cleaning up a neighborhood that the megacorps have filled with toxic sludge. Maybe they're hunting down predators or others who exploit the powerless. Or maybe they're simply looking to shift some of the world's resources around to those who really need it. Whatever the case, they are putting their skills to the service of something larger than themselves. We start with , a basic look at who is trying to do good in the shadows and what motivates them. provides information on the jobs these hooders might do and how they'll find them.
+
+ takes a tour of one of the best spots on the globe to do hooding work-the Pretoria-Witwatersrand-Vaal Metroplex in Azania, or Paydubfau, as the locals call it. In this sprawl, the haves do direct battle with the have-nots, and the fight is just beginning. looks at some of the denizens of Paydubfau, as well as a notable hooder team. focuses on some of the techniques and ideas a runner might use in hooding, and provides the tools and rules a hooder needs to get the job done. With that information, a runner should be prepared to go out and right some wrongs. Make no mistake-running the shadows remains a dirty business, and any runner is going to end up in situations that would make a regular corp drone blanch.
+
+Maybe you'll never be comfortable thinking of yourself as a good guy, but once you take up the cause of justice, you at least know that you're better than bad.

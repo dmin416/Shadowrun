@@ -3,7 +3,7 @@
 Agent reference (SR5). Structured field blocks for LLM parsing. Mechanical detail only; no flavor.
 
 **Src PDFs:** `shadowrunfiftheditioncorerulebook_V2.pdf` · `streetgrimoire.pdf` · `forbiddenarcana.pdf` · `chromeflesh.pdf` · `runfaster.pdf`
-**Books:** Core · SG · FA · CF · RF (INDEX). Shadow Spells / Court of Shadows: no local PDF (FA cites CoS reagents).
+**Books:** Core · SG · FA · CF · RF · Shadow Spells (INDEX). Court of Shadows: no local PDF (FA cites CoS reagents).
 **See also:** `Mechanics/Magic Basics.md` · `Encyclopedia/Sensors and Optics.md` (optics catalog) · `Encyclopedia/Drugs Toxins and Chemicals.md` (Awakened drugs / BADs; also reprints CF magical compounds) · `Encyclopedia/Melee Weapons.md` (base Acc/Reach/DV/AP for Weapon Focus forms)
 
 **Out of scope as primary SKUs:** spell/ritual/adept-power lists · mentor spirits · ally/free-spirit formulae (Karma/quest, no shop Avail/Cost) · blood/toxic plot foci · Philosopher's Stone (legend only; FA sidebar) · CF Awakened drugs / BADs (full rows in Drugs Toxins and Chemicals.md)

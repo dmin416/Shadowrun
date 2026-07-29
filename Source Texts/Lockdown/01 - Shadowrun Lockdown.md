@@ -1,4 +1,7 @@
 # Shadowrun: Lockdown
 
-**Source:** Lockdown | `Source/PDF/shadowrun-lockdown-pdf.pdf` | print page ~1
+**Source:** Lockdown | `Source/PDF/shadowrun-lockdown-pdf.pdf` | PDF pages 1-2 (idx 0-1)
 
+© 2014 The Topps Company, Inc. All rights reserved. Shadowrun and Matrix are registered trademarks and/or trademarks of The Topps Company, Inc., in the United States and/or other countries. Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of Under License From ® www.catalystgamelabs.com CAT27300 The voices are getting louder. Strange voices, dissonant voices, sometimes babbling nonsense, sometimes telling stories too unbelievable to be true. People are falling prey to the voices, losing their identities as someone or something else slips into their skin. It's affecting people at all levels of society, from squatters in burned-out warehouses to corporate CEOs. It's spreading, and no one can figure out how to stop it. Boston-based NeoNET is at the center of this storm, and panic is spreading through the streets of the northeastern sprawl.
+
+People are scared and people are dying, which means that there are large sums of money to be made by any shadowrunner willing to brave those chaotic streets. Finding work won't be the problem. Getting out of the sprawl, however, will be. Lockdown is a plot sourcebook for Shadowrun, Fifth Edition with plot hooks, setting details of Boston, character details, and surprising reveals that will keep characters on their toes and running for their lives. With rich plot information and game mechanics for a new breed of cognitive fragmentation disorder sufferers, Lockdown can play a vital role in enthralling Shadowrun campaigns while continuing the unfolding story of the Sixth World. FIFTH EDITION

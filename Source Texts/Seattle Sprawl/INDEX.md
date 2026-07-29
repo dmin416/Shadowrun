@@ -43,4 +43,4 @@ Outremer (ch. 15) covers Bainbridge, Vashon, Fox, McNeil, and Anderson Islands.
 - [x] Extract (raw chapter markdown from PDF)
 - [x] Format (paragraph reflow, JackPoint blockquotes, At a Glance tables, H2/H3 subheads, sidebar smash fixes)
 - [x] Loss-check vs PDF (body ch. 02-16 ratio ~1.00; hyphen-joins OK; TOC names present; ch. 01 condensed TOC by design; Council Island no Help Wanted in print)
-- [ ] Done-check
+- [x] Done-check (INDEX links, H1s, district headers, landmarks; `seattle_sprawl_qa_report.md` PASS)

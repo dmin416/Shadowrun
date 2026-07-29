@@ -330,7 +330,10 @@ Other elves recognize her instantly as both nobility and trouble. On the street 
 
 ---
 
-**Future team note:** A cybernetically enhanced combat specialist and vehicle/rigger specialist named **Dom** is expected to join Alpha and Elma's group later in play. A prideful Face and Rigger hybrid named **Beta** (goes by **Bee**), female, is also expected to join the group, fitting neatly alongside Alpha's own naming convention. Neither is yet introduced in the Timeline -- reserved for when the story actually brings them together.
+**Future team note:**
+- **Beta (Bee):** Prideful rigger, female. Elma's really close teammate from before the amnesia year -- not a stranger Alpha recruits. When Elma reconnects with her old life, Bee is already hers: trust, history, and working rhythm intact. Fitting neatly alongside Alpha's naming convention. Introduced in Act 2 when Elma's old contacts surface, not as a cold hire. Early crew with Elma and Alpha.
+- **Dom:** Cybernetically enhanced vehicles specialist. **Far out** -- met on a job only after Elma / Bee / Alpha already have real run history together. When he realizes Alpha's existence can enhance technology -- chrome, vehicles, the machine-body Dom lives in -- Dom swears a **soul pact** to Alpha: loyalty and craft bonded to that power, not romance. Sparring and gear follow from that vow. Not on the first jobs.
+- **Cassiandra (Cass):** Young female western dragon; rebel medic. **Really far out** -- long after Dom is already crew. The crew encounters her as the **target of an assassination mission**. In that collision she finds a match in Alpha (peer-scale otherness + character) and becomes interested in him. She **forces herself onto the group** afterward -- joins because she chose them / him, not because they invited a medic.
 
 **Free Contact Karma:** Not tracked as a budget -- Bracken, Wren, Fen, Tansy, and Elma are core to his story regardless of any formula.
 
@@ -409,7 +412,8 @@ Near the end of Year 17 he found a badly injured shadowrunner named Elma in the 
 
 ### Hooks / Enemies / Debts
 To be determined in play. What exists so far:
-- **Elma's unfinished business** -- the job that went bad, the team she was running with, and whatever is still unresolved from her life before the amnesia. This is the actual reason they left the circle together and should surface directly in early play.
+- **Elma's unfinished business** -- the job that went bad, the team she was running with (including **Bee**, her close rigger teammate), and whatever is still unresolved from her life before the amnesia. This is the actual reason they left the circle together and should surface directly in early play.
+- **Cass assassination contract** -- whoever put the hit on Cassiandra; the crew's entanglement in that job. Who wanted a young dragon rebel dead, and why, remains open.
 - **Elma's noble family and court** -- an elven noble house in Tír na nÓg or Tír Tairngire she deliberately walked away from long before any of this happened. Unresolved, and a rich potential source of future conflict, whether they come looking for her, disapprove of Alpha, or simply represent a life she has no intention of returning to.
 - Corporate logging operation responsible for the Year 16 pollution incident -- unresolved, possibly unaware Alpha exists
 - A corporate-funded paracritter poaching operation working the deep Olympic Peninsula, the same one responsible for Elma's original injury -- unresolved, and a direct violation of everything Alpha's Code of Honor stands against given it operates on territory the circle considers sacred
