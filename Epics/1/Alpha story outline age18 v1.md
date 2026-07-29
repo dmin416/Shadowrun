@@ -15,6 +15,9 @@
 **Travel note (Act 1 to Act 2):** The Olympic Peninsula to the edge of the Seattle sprawl is roughly 60-100 miles depending on route. On foot, 5-10+ days through mixed wilderness and rougher country. The moment they reach an actual road and a vehicle, that same distance collapses to 1.5-3 hours. This gap is worth playing up deliberately -- watching a week or more of walking distance disappear in a single afternoon is one of Alpha's first real, disorienting lessons about how different the wider world actually runs compared to everything he's ever known.
 
 ## Act 2 -- Sprawl arrival; Bee reunion
+
+Day-by-day companion: `Alpha Act 2 first month age18 v1.md`. This section stays the spine; that file expands Days 1–30.
+
 - First sight of the sprawl from a distance
 - First ride in a vehicle
 - Visiting a big city -- actual arrival
